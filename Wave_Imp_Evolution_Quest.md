@@ -1,0 +1,20 @@
+---
+title: Wave Imp Evolution Quest
+permalink: wiki/Wave_Imp_Evolution_Quest/
+layout: wiki
+tags:
+ - Imp Evolution Quests
+---
+
+Go see [Tannah](/wiki/Tannah_Machadae "wikilink") in the [Daingean
+Machadae](/wiki/Category%3ADaingean_Machadae "wikilink") and be prepared to
+fight. Bring friends as I doubt you can win alone. As soon as you enter
+and she notices a dti, she'll talk and then summon 2 Earth Elementals to
+help her fight you. Tannah doesn't aggie, so don't bother attacking her
+before her elementals are dead (unless you're trying to blitz her and
+flee from her summoned mobs afterward---but that hurts just as much as
+killing her elementals first). When she summons, an Orb of Silt will
+appear upon her. Loot it from her corpse after she dies. To evolve, you
+have to give it to Vincent when you're level 250. Unfortunately, it is a
+key item so you cannot save with it. So it is propbably best to do it
+after you hit 250.

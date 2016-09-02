@@ -1,0 +1,22 @@
+---
+title: Azure Bracer
+permalink: wiki/Azure_Bracer/
+layout: wiki
+tags:
+ - Legend Tank Gear
+ - Armor
+---
+
+*This solid azure bracer is perfectly smooth and unadorned, shimmering
+with power.*
+
+`Modifies save vs spell by -7 continuous`  
+`Modifies damage roll by 8 continuous`  
+`Modifies hit roll by 5 continuous`  
+`Modifies armor class by -35 continuous`
+
+**AC:** 49  
+**Type:** armor  
+**Slot:** wrist  
+**Weight:** 1  
+

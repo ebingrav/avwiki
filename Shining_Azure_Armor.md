@@ -1,0 +1,22 @@
+---
+title: Shining Azure Armor
+permalink: wiki/Shining_Azure_Armor/
+layout: wiki
+tags:
+ - Legend Tank Gear
+ - Armor
+---
+
+*This finely made suit of shining azure plate armor has a dark symbol of
+a citadel on the front and back*
+
+`Modifies save vs spell by -10 continuous`  
+`Modifies damage roll by 6 continuous`  
+`Modifies hit roll by 3 continuous`  
+`Modifies armor class by -95 continuous`
+
+**AC:** 51  
+**Type:** armor  
+**Slot:** on body  
+**Weight:** 30  
+

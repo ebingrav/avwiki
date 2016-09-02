@@ -1,23 +1,23 @@
 |Ambassador:|Race:|
 |---|---|
-|[Aeldiskaa](/elf)|Elf, Half-Elf and Drow|
-|[Bob](/hum)|Human|
-|[FangJaw](/ogr)|Ogre|
-|[Jherrdja](/cen)|Centaur, Kzinti and Harpy|
-|[Kauksis](/drc)|Draconian, Lizard-man and Troglodyte|
-|[Khazdul](/orc)|Orc and Half-Orc|
-|[Ljolsafar](/dwf)|Dwarf and Duergar|
-|[Midgaard Beastmaster](/ent)|Ent and Gargoyle|
-|[NHUG!](/gia)|Giant|
-|[Nranthos](/gno)|Gnome and Deep Gnome|
-|[Ralbo Breadhand](/hlf)|Halfling|
-|[Skratti](/gob)|Goblin and Kobold|
+|[Aeldiskaa](/elf.md)|Elf, Half-Elf and Drow|
+|[Bob](/hum.md)|Human|
+|[FangJaw](/ogr.md)|Ogre|
+|[Jherrdja](/cen.md)|Centaur, Kzinti and Harpy|
+|[Kauksis](/drc.md)|Draconian, Lizard-man and Troglodyte|
+|[Khazdul](/orc.md)|Orc and Half-Orc|
+|[Ljolsafar](/dwf.md)|Dwarf and Duergar|
+|[Midgaard Beastmaster](/ent.md)|Ent and Gargoyle|
+|[NHUG!](/gia.md)|Giant|
+|[Nranthos](/gno.md)|Gnome and Deep Gnome|
+|[Ralbo Breadhand](/hlf.md)|Halfling|
+|[Skratti](/gob.md)|Goblin and Kobold|
 |Ambassador:|Race:|
-|[Asterion](/min)|Minotaur|
-|[Azrahrn](/dsd)|Demonseed|
-|[Esseirt'u](/hie)|High Elf and Sprite|
-|[Genizah](/gol)|Golem|
-|[Hiisit](/trl)|Troll|
-|[Homa](/grf)|Griffin|
-|[Lorkimornysy](/hob)|Hobgoblin and Tuataur|
-|[Quaghmos](/drg)|Dragon|
+|[Asterion](/min.md)|Minotaur|
+|[Azrahrn](/dsd.md)|Demonseed|
+|[Esseirt'u](/hie.md)|High Elf and Sprite|
+|[Genizah](/gol.md)|Golem|
+|[Hiisit](/trl.md)|Troll|
+|[Homa](/grf.md)|Griffin|
+|[Lorkimornysy](/hob.md)|Hobgoblin and Tuataur|
+|[Quaghmos](/drg.md)|Dragon|

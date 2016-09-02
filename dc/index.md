@@ -1,23 +1,23 @@
 |Ambassador:|Race:|
 |---|---|
-|[Aeldiskaa](dc/elf.md)|Elf, Half-Elf and Drow|
-|[Bob](dc/hum.md)|Human|
-|[FangJaw](dc/ogr.md)|Ogre|
-|[Jherrdja](dc/cen.md)|Centaur, Kzinti and Harpy|
-|[Kauksis](dc/drc.md)|Draconian, Lizard-man and Troglodyte|
-|[Khazdul](dc/orc.md)|Orc and Half-Orc|
-|[Ljolsafar](dc/dwf.md)|Dwarf and Duergar|
-|[Midgaard Beastmaster](dc/ent.md)|Ent and Gargoyle|
-|[NHUG!](dc/gia.md)|Giant|
-|[Nranthos](dc/gno.md)|Gnome and Deep Gnome|
-|[Ralbo Breadhand](dc/hlf.md)|Halfling|
-|[Skratti](dc/gob.md)|Goblin and Kobold|
+|[Aeldiskaa](elf.md)|Elf, Half-Elf and Drow|
+|[Bob](hum.md)|Human|
+|[FangJaw](ogr.md)|Ogre|
+|[Jherrdja](cen.md)|Centaur, Kzinti and Harpy|
+|[Kauksis](drc.md)|Draconian, Lizard-man and Troglodyte|
+|[Khazdul](orc.md)|Orc and Half-Orc|
+|[Ljolsafar](dwf.md)|Dwarf and Duergar|
+|[Midgaard Beastmaster](ent.md)|Ent and Gargoyle|
+|[NHUG!](gia.md)|Giant|
+|[Nranthos](gno.md)|Gnome and Deep Gnome|
+|[Ralbo Breadhand](hlf.md)|Halfling|
+|[Skratti](gob.md)|Goblin and Kobold|
 |Ambassador:|Race:|
-|[Asterion](dc/min.md)|Minotaur|
-|[Azrahrn](dc/dsd.md)|Demonseed|
-|[Esseirt'u](dc/hie.md)|High Elf and Sprite|
-|[Genizah](dc/gol.md)|Golem|
-|[Hiisit](dc/trl.md)|Troll|
-|[Homa](dc/grf.md)|Griffin|
-|[Lorkimornysy](dc/hob.md)|Hobgoblin and Tuataur|
-|[Quaghmos](dc/drg.md)|Dragon|
+|[Asterion](min.md)|Minotaur|
+|[Azrahrn](dsd.md)|Demonseed|
+|[Esseirt'u](hie.md)|High Elf and Sprite|
+|[Genizah](gol.md)|Golem|
+|[Hiisit](trl.md)|Troll|
+|[Homa](grf.md)|Griffin|
+|[Lorkimornysy](hob.md)|Hobgoblin and Tuataur|
+|[Quaghmos](drg.md)|Dragon|

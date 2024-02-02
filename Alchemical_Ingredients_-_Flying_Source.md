@@ -1,9 +1,9 @@
 -   [golden feather
-    (Glyntaff)](Golden_Feather_(Glyntaff_Pass) "wikilink")
--   [batwing cape](Batwing_Cape "wikilink")
+    (Glyntaff)](Golden_Feather_(Glyntaff_Pass).md "wikilink")
+-   [batwing cape](Batwing_Cape.md "wikilink")
 -   [coiled electrolobe
-    tentacles](Coiled_Electrolobe_Tentacles "wikilink")
--   [electro-lobe](Electro-lobe "wikilink")
+    tentacles](Coiled_Electrolobe_Tentacles.md "wikilink")
+-   [electro-lobe](Electro-lobe.md "wikilink")
 
 Not yet tried:
 
@@ -11,11 +11,11 @@ Not yet tried:
 
 ###### Not a flying source
 
--   [starshark skin orb](Starshark_Skin_Orb "wikilink")
--   [pair of spectrecles](Pair_Of_Spectrecles "wikilink") (kspawn from a
-    Flying mob)
+-   [starshark skin orb](Starshark_Skin_Orb.md "wikilink")
+-   [pair of spectrecles](Pair_Of_Spectrecles.md "wikilink") (kspawn
+    from a Flying mob)
 -   [restless spirits of ghost
-    fish](Restless_Spirits_Of_Ghost_Fish "wikilink") (kspawn from a
+    fish](Restless_Spirits_Of_Ghost_Fish.md "wikilink") (kspawn from a
     Flying mob)
 -   crimsonscale skirt
 -   obsidian shard
@@ -33,7 +33,7 @@ Not yet tried:
 -   echostone
 -   firedrake scale
 -   heroic dragonscale sleeves
--   [roc feather mane](Roc_Feather_Mane "wikilink") - The nameless
+-   [roc feather mane](Roc_Feather_Mane.md "wikilink") - The nameless
     alchemist asks 'Nice feathers, but you do know that rocs are
     flightless, right?'
 

@@ -1,9 +1,9 @@
 *Warned be the wanderer not to stumble into this cave! Set into the
 slopes of some hills to the east of the
-[Meadow](:Category:_Meadow "wikilink") with its springing rabbits and
+[Meadow](:Category:_Meadow.md "wikilink") with its springing rabbits and
 grazing deer, close to the entrances to other caverns and underground
 passages, this deep cave once served as a pathway to some foreign land.
-But that age went by, and the [goblins](Goblins "wikilink") who now
+But that age went by, and the [goblins](Goblins.md "wikilink") who now
 inhabit the halls make sure that the few stray wanderers never see the
 light of day again.*
 
@@ -13,10 +13,10 @@ light of day again.*
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): s, 7e, u, n.
+Walking route from [Nom](Nom.md "wikilink"): s, 7e, u, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: hobbit creature,
-[frightened goblin](Frightened_Goblin "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: hobbit creature,
+[frightened goblin](Frightened_Goblin.md "wikilink").
 
 ## Connections
 
@@ -26,14 +26,14 @@ Walking route from [Nom](Nom "wikilink"): s, 7e, u, n.
 
 Goblin Caverns is mostly a useful area to run because of its proximity
 to the other small areas adjoining it. Killing here won't hurt your
-[align](Alignment "wikilink"), so it's a good place to stop by; however,
-it suffers from a shortage of killable (unspelled) mobs.
+[align](Alignment.md "wikilink"), so it's a good place to stop by;
+however, it suffers from a shortage of killable (unspelled) mobs.
 
 Follow the path till you see an option to go down (ignore the earlier
 north branch). From here, north will take you into a small house where a
 female goblin wanders, south will take you to the torturer, and down
 will take you farther into the tunnels. Look for the
-[jailer](Goblin_Jailer "wikilink") on scan (he wanders - he may be
+[jailer](Goblin_Jailer.md "wikilink") on scan (he wanders - he may be
 farther down), and kill him for his two keys. The normal key will unlock
 the door south of the torturer, where you can kill the dwarf prisoner,
 and the crude key is a ticket for the tortured human. Giving it to him
@@ -59,6 +59,6 @@ quite a few in this room, all armored and wielding swords, and they will
 assist, so fight in this room with care. For all your troubles, you can
 get the brass button (pill, level 1 spells of nothing) or walk outside
 the cave into the [Valley of the
-Dogs](:Category:Valley_Of_The_Dogs "wikilink").
+Dogs](:Category:Valley_Of_The_Dogs.md "wikilink").
 
 [Category: Lowmort 1-10 Areas](Category:_Lowmort_1-10_Areas "wikilink")

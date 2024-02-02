@@ -14,9 +14,9 @@ for?
 `A barker stands here, loudly telling you about all the atractions.`
 
 **Keywords:** barker, carnival.  
-**[Level](Level "wikilink"):** 8  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 8  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** ?  
 
 ## Gear

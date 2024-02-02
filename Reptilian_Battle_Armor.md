@@ -5,8 +5,8 @@
 Type: Armor  
 Slot: On Body  
 Weight: 30  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")
 
 [Category: Lord Third Tier Tank
 Gear](Category:_Lord_Third_Tier_Tank_Gear "wikilink") [Category: Gear In

@@ -1,29 +1,29 @@
 *Made of onyx, this massive club could cause some serious hurt.*
 
-`Modifies `[`hp`](Hit_Points "wikilink")` by 25 continuous`  
-`Modifies `[`strength`](Strength "wikilink")` by 1 continuous`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 25 continuous`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 1 continuous`  
 `Damage is 14-16 to 39-40.`
 
 **Keyword(s):** cudgel, club, massive, onyx.  
-**[Level(s)](Object_Level "wikilink"):** 40-41.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 33 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nodrop](Nodrop_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[noremove](Noremove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 40-41.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 33 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nodrop](Nodrop_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[noremove](Noremove_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Secrets Of The
-Shrine](:Category:Secrets_Of_The_Shrine "wikilink")  
-**[Mob](:Category:Mobs "wikilink"):** [Veldri
+**[Area](:Category:Areas.md "wikilink"):** [Secrets Of The
+Shrine](:Category:Secrets_Of_The_Shrine.md "wikilink")  
+**[Mob](:Category:Mobs.md "wikilink"):** [Veldri
 Warrior](Veldri_Warrior "wikilink")
 
 [Category: Gear In Secrets Of The

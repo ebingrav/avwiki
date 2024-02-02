@@ -3,17 +3,17 @@ and scratches his chin with a skeletal arm while evaluating you. Seeing
 you stare at the arm, he puts it out of the view.*
 
 **Keywords:** Ruddloaf, Mortlock, shaman.  
-**[Level](Level "wikilink"):** 95.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink")  
+**[Level](Level.md "wikilink"):** 95.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink")  
 
 ## Gear
 
 `Ruddloaf Mortlock is using:`  
-<worn around neck>`  [Pristine  ] (Demonic) (Glowing) `[`rune`` ``of`` ``life`](Rune_Of_Life "wikilink")  
-<wielded>`           [Pristine  ] (Demonic) (Magical) `[`soul`` ``splitting`` ``spike`` ``dagger`](Soul_Splitting_Spike_Dagger "wikilink")
+<worn around neck>`  [Pristine  ] (Demonic) (Glowing) `[`rune`` ``of`` ``life`](Rune_Of_Life.md "wikilink")  
+<wielded>`           [Pristine  ] (Demonic) (Magical) `[`soul`` ``splitting`` ``spike`` ``dagger`](Soul_Splitting_Spike_Dagger.md "wikilink")
 
 ## Comments
 
@@ -33,12 +33,12 @@ Well Seasoned Nightmare (until you leave the area)
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sun God
-Altar](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Shaman's Quarters.  
-From [Seneca](Seneca_Rotberry "wikilink"): sedne2s  
-From [Grogbert](Grogbert_Thunderbeard "wikilink"): swue4s
+**[Area](:Category:_Areas.md "wikilink"):** [Sun God
+Altar](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Shaman's Quarters.  
+From [Seneca](Seneca_Rotberry.md "wikilink"): sedne2s  
+From [Grogbert](Grogbert_Thunderbeard.md "wikilink"): swue4s
 
 [Category: Mobs In Sun God
 Altar](Category:_Mobs_In_Sun_God_Altar "wikilink")

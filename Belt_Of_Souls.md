@@ -9,15 +9,15 @@ at this belt.*
 Type: armor  
 Extra flags: dark magic nolocate  
 Weight: 5  
-Plane: [Tarterus](:Category:Tarterus "wikilink")  
-Area: [Tarterus Proper](:Category:Tarterus_Proper "wikilink")  
+Plane: [Tarterus](:Category:Tarterus.md "wikilink")  
+Area: [Tarterus Proper](:Category:Tarterus_Proper.md "wikilink")  
 Mob: [Anthraxus](Anthraxus "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Tarterus
-Proper](:Category:Gear_In_Tarterus_Proper "wikilink") or [Gear In
-Garden](:Category:Gear_In_Garden "wikilink") for more information.
+Proper](:Category:Gear_In_Tarterus_Proper.md "wikilink") or [Gear In
+Garden](:Category:Gear_In_Garden.md "wikilink") for more information.
 
 [Category: Lord Hit Gear](Category:_Lord_Hit_Gear "wikilink") [Category:
 Lord Archer Gear](Category:_Lord_Archer_Gear "wikilink") [Category: Gear

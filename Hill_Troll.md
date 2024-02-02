@@ -4,14 +4,15 @@ sees you. The sound of the horn, however, is lost in the howling of the
 wind, and in obvious fury and frustration he stands and attacks you.'
 
 **Keywords:** hill, troll.  
-**[Level](Level "wikilink"):** 25.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[protection evil](Protection_Evil "wikilink").  
+**[Level](Level.md "wikilink"):** 25.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink").  
 
 ## Gear
 
@@ -19,7 +20,7 @@ invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
 `     Nothing.`
 
 `A hill troll is carrying:`  
-`     `[`a`` ``horn`](Horn "wikilink")` or `[`a`` ``vial`` ``of`` ``troll`` ``ichor`](Vial_Of_Troll_Ichor "wikilink")
+`     `[`a`` ``horn`](Horn.md "wikilink")` or `[`a`` ``vial`` ``of`` ``troll`` ``ichor`](Vial_Of_Troll_Ichor.md "wikilink")
 
 ## Comments
 
@@ -31,13 +32,13 @@ can be given.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Barrier
-Wastes](:Category:_Barrier_Wastes "wikilink")
-([Map](Barrier_Wastes_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Troll watch point
+**[Area](:Category:_Areas.md "wikilink"):** [Barrier
+Wastes](:Category:_Barrier_Wastes.md "wikilink")
+([Map](Barrier_Wastes_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Troll watch point
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 24n, 10e, n, 2e, s, e,
-u, e, 2s, w.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 24n, 10e, n, 2e, s,
+e, u, e, 2s, w.  
 A hill troll is portable.  
 
 [Category: Mobs In Barrier

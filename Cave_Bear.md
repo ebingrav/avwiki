@@ -1,11 +1,11 @@
 *A large, black furry thing is trying to eat you.*
 
 **Keywords:** cave, bear.  
-**[Level](Level "wikilink"):** 37.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 37.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Comments
 
@@ -15,10 +15,10 @@ trail*.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Iceways](:Category:_Iceways "wikilink")
-([Map](Iceways_Map "wikilink")).  
-A cave bear [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Iceways](:Category:_Iceways.md "wikilink")
+([Map](Iceways_Map.md "wikilink")).  
+A cave bear [wanders](Wandering_Mobs.md "wikilink").  
 A cave bear is portable.  
 
 [Category: Mobs In Iceways](Category:_Mobs_In_Iceways "wikilink")

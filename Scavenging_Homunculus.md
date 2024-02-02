@@ -5,17 +5,17 @@ things up and tucking them into a patched sack slung over one shoulder.
 **Keywords:** scavenging, homunculus, figure, .  
 **Scan Description:** A misshapen figure scavenges for trash, eyes
 darting.  
-**[Level](Level "wikilink"):** 45.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wanders](Wandering_Mobs "wikilink"),
-[kleptomaniac](:Category:Scavenging_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 45.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wanders](Wandering_Mobs.md "wikilink"),
+[kleptomaniac](:Category:Scavenging_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `A scavenging homunculus is using:`  
-<held>`              `[`a`` ``large`` ``cloth`` ``sack`` ``covered`` ``with`` ``patches`](Large_Cloth_Sack_Covered_With_Patches "wikilink")
+<held>`              `[`a`` ``large`` ``cloth`` ``sack`` ``covered`` ``with`` ``patches`](Large_Cloth_Sack_Covered_With_Patches.md "wikilink")
 
 `A scavenging homunculus is carrying:`  
 `     Nothing.`
@@ -28,15 +28,15 @@ darting.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel of
-Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Mob Wanders  
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel of
+Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Mob Wanders  
 Walking Route from [Vymm](Vymm "wikilink"): \[s\]2end for one,
 eueeu\[w\]n leads to another, then \[n\]d from there is where the third
 pops. They wander, but they can't open doors, so they usually won't be
 too far from these spots.  
-A scavenging homunculus [wanders](Wandering_Mobs "wikilink").  
+A scavenging homunculus [wanders](Wandering_Mobs.md "wikilink").  
 A scavenging homunculus is portable.  
 
 [Category: Mobs In Citadel Of

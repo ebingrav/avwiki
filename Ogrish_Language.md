@@ -9,9 +9,9 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Ogrish:     `*`TRr`` ``quikk`` ``grum`` ``cku`` ``aupku`` ``urgr`` ``trr`` ``cai`` ``uug.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Ogrish:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Ogrish:
 
--   [Ogres](Ogres "wikilink").
+-   [Ogres](Ogres.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

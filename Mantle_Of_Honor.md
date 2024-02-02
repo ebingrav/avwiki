@@ -5,14 +5,14 @@
 Slot: Neck  
 Weight: 30  
 Flags: magic anti-evil  
-Plane: [Arcadia](:Category:Arcadia "wikilink")  
-Area: [Citadel Arcadia](:Category:Citadel_Arcadia "wikilink")  
+Plane: [Arcadia](:Category:Arcadia.md "wikilink")  
+Area: [Citadel Arcadia](:Category:Citadel_Arcadia.md "wikilink")  
 Mob: [Finn](Finn "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Citadel
-Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for how to do
+Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for how to do
 this run.
 
 [Category:Incomplete](Category:Incomplete "wikilink") [Category:Lord

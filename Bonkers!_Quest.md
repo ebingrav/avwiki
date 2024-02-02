@@ -30,7 +30,7 @@
 
 The quest awards the [Stark Raving Bonkers!
 Insignia](Stark_Raving_Bonkers!_Insignia "wikilink").  
-Spoiler:<spoiler>Be sure you bonk [tiamat](Spoiled_Brat "wikilink"),
+Spoiler:<spoiler>Be sure you bonk [tiamat](Spoiled_Brat.md "wikilink"),
 [Goblin King](Goblin_King "wikilink"), and [Simba The Apple
 Picker](Simba_The_Apple_Picker "wikilink") 3 times. Otherwise you will
 receive a weapon instead of the insignia.</spoiler>

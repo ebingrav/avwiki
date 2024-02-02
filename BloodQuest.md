@@ -6,10 +6,10 @@ Level: 49-50
 Max: 43-45  
 Weight: 15  
 Mob: [Quest Sword](Quest_Sword "wikilink")  
-Area: [House of Quests](:Category:_House_Of_Quests "wikilink")
-([Map](House_Of_Quests_Map "wikilink"))  
+Area: [House of Quests](:Category:_House_Of_Quests.md "wikilink")
+([Map](House_Of_Quests_Map.md "wikilink"))  
 To get to House Of quests pp [stat
-beho](Statue_Of_The_Mighty_Beholder "wikilink") 7s, e, 2s, 6w, s, 2w,
+beho](Statue_Of_The_Mighty_Beholder.md "wikilink") 7s, e, 2s, 6w, s, 2w,
 2n.  
 Head north killing mobs and getting keys til you reach the Quest Sword.
 

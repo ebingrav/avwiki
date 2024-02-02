@@ -3,27 +3,27 @@ together with folds of midnight blue silk, complete with the design of a
 full moon rising above a forest canopy.*
 
 `Damage is 11 to 31 (average 21).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 6 continuous`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 6 continuous`
 
 **Keyword(s):** fan steel.  
-**[Level(s)](Object_Level "wikilink"):** 27-29.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** Magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 27-29.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** Magic.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Septarch
-Animosity](Septarch_Animosity "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Septarch
+Animosity](Septarch_Animosity.md "wikilink").  
 
 [Category: Gear In Tiureess](Category:_Gear_In_Tiureess "wikilink")
 [Category: Standard One-Handed

@@ -1,25 +1,25 @@
 *A strange, scale covered tunic has been dropped here..*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 5 continuous`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 60 continuous`  
-`Modifies `[`save`` ``vs`` ``fire`](Saving_Throw "wikilink")` by -10 continuous`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 5 continuous`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 60 continuous`  
+`Modifies `[`save`` ``vs`` ``fire`](Saving_Throw.md "wikilink")` by -10 continuous`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`
 
 **Keyword(s):** scale, mail, scalemail, tunic, fiery.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on the body>.  
-**[Quality](Object_Quality "wikilink"):** 200/200 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on the body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200/200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
 Result of quest in [Moonbay
-Village](:Category:_Moonbay_Village "wikilink").
+Village](:Category:_Moonbay_Village.md "wikilink").
 
 While at the first glance weaker than the [Ultimoose
 Power](Ultimoose_Power "wikilink"), combining this item with a [Mauve

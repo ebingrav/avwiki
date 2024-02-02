@@ -1,25 +1,25 @@
 *A great white battle axe lies here.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 15 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 15 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 15 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** white, great, battle, axe.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Object Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Weapon Type](:Category:Melee_Weapons "wikilink"):** [two handed
-weapon](:Category:Standard_Two-Handed_Weapons "wikilink") which does
-[slicing damage](:Category:Melee_Weapons_That_Slice "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Object Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Weapon Type](:Category:Melee_Weapons.md "wikilink"):** [two handed
+weapon](:Category:Standard_Two-Handed_Weapons.md "wikilink") which does
+[slicing damage](:Category:Melee_Weapons_That_Slice.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
-This weapon is a good [powerswinger](Racial_Powerswing "wikilink") for
-those races that can benefit from it. Completing the quest will require
-a mid-level hero or superhero and might take some effort.
+This weapon is a good [powerswinger](Racial_Powerswing.md "wikilink")
+for those races that can benefit from it. Completing the quest will
+require a mid-level hero or superhero and might take some effort.
 
 There is also an evil version ([Great Black Battle
 Axe](Great_Black_Battle_Axe "wikilink")) available from the same quest.
@@ -29,7 +29,7 @@ Axe](Great_Black_Battle_Axe "wikilink")) available from the same quest.
 For detailed walkthrough see the [Great White Battle Axe
 Quest](Great_White_Battle_Axe_Quest "wikilink").
 
-Area: [Ruined Lairs](:Category:_Ruined_Lairs "wikilink")
+Area: [Ruined Lairs](:Category:_Ruined_Lairs.md "wikilink")
 
 [Category: Melee Weapons That
 Slice](Category:_Melee_Weapons_That_Slice "wikilink") [Category: Hero

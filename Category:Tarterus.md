@@ -10,7 +10,7 @@ lost some of its danger. But parts of it still lay untamed...*
 
 In general this isn't the scariest plane in the universe. Tart proper is
 decent exp for a smallish group, but the mobs there web and demonfire,
-so it can be a hassle. The [Garden](:Category:Garden "wikilink") is a
+so it can be a hassle. The [Garden](:Category:Garden.md "wikilink") is a
 nice gear/exp run for a smaller group. The [Ring Of Higher
 Power](Ring_Of_Higher_Power "wikilink") run has huge mobs and can be
 extremely swarmy, so you probably shouldn't try it with less than 20

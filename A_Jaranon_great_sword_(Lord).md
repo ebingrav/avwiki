@@ -4,26 +4,26 @@ the hilt.*The hilt has been wrapped in a scaled hide of extreme
 toughness. *An ornate sigil has been etched into the blade just below
 the catseye,*marking the blade as an original forged by Jaranon.''
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 22 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 22 continuous.`  
-`Modifies `[`kinetic`` ``damage`](Kinetic_Damage "wikilink")` roll by  15 continuous`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 22 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 22 continuous.`  
+`Modifies `[`kinetic`` ``damage`](Kinetic_Damage.md "wikilink")` roll by  15 continuous`  
 ` 10 / 100 chance of negated failure of psionic spells continuous`  
 ` 10 / 100 chance of reduced lag of psionic spells continuous`
 
 **Keyword(s):** Jaranon, great, sword.  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 250 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 250 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
 Sword is one handed. Better than chakrams!
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Tssasskkas's Lair
-Redux](:Category:_Tssasskkas's_Lair_Redux "wikilink").  
-**[Mob](:Category:_Mobs "wikilink"):** [Lich](Lich "wikilink") (pp is
+**[Area](:Category:_Areas.md "wikilink"):** [ Tssasskkas's Lair
+Redux](:Category:_Tssasskkas's_Lair_Redux.md "wikilink").  
+**[Mob](:Category:_Mobs.md "wikilink"):** [Lich](Lich "wikilink") (pp is
 [Spirit Tzzan](Spirit_Tzzan "wikilink"), but the actual keyword here is
 **skeleton**, another mob)).  
 For more information see [Jaranon Great Sword

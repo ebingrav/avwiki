@@ -6,12 +6,12 @@
 <b>Level:</b> 25  
 <b>Armor Class:</b> 7  
 <b>Weight:</b> 1  
-<b>Area:</b> [Temple Of Gorn](:Category:_Temple_Of_Gorn "wikilink")
-([Map](Temple_Of_Gorn_Map "wikilink"))  
+<b>Area:</b> [Temple Of Gorn](:Category:_Temple_Of_Gorn.md "wikilink")
+([Map](Temple_Of_Gorn_Map.md "wikilink"))  
 <b>Mob:</b> Monk  
 Improves archery accuracy and facilitates the skill held shot
 
-[Temple Of Gorn](:Category:_Temple_Of_Gorn "wikilink") is nospell and
+[Temple Of Gorn](:Category:_Temple_Of_Gorn.md "wikilink") is nospell and
 aggie to non-monks
 
 [Category: Gear In Temple Of

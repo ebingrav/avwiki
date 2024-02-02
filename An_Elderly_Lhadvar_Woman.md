@@ -16,8 +16,8 @@ loves her husband and son and is proud of the work they have done to
 keep the tribe safe and secure.*
 
 **Keywords:** Lhadvar, Woman, Mother, .  
-**[Level](Level "wikilink"):** 21.  
-**[Alignment](Alignment "wikilink"):** heroic.  
+**[Level](Level.md "wikilink"):** 21.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
 
 ## Gear
 
@@ -32,10 +32,10 @@ keep the tribe safe and secure.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The River
-Folk](:Category:_River_Folk "wikilink")
-([Map](River_Folk_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Stern of the Lhadvar
+**[Area](:Category:_Areas.md "wikilink"):** [The River
+Folk](:Category:_River_Folk.md "wikilink")
+([Map](River_Folk_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Stern of the Lhadvar
 ClanChief's Boat (portable).  
 An elderly Lhadvar woman is portable.
 

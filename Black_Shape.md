@@ -6,40 +6,41 @@ sprung from the backs of its hands. It crouches, then lunges for your
 throat.*
 
 **Keywords:** lithe, black, death.  
-**[Level](Level "wikilink"):** 43.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[corspe-eater](Corpse-Eating_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [hide](Hide_Flag "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 43.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[corspe-eater](Corpse-Eating_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [hide](Hide_Flag.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `A black shape is using:`  
-<wielded>`           (Humming) `[`a`` ``basilard`](Basilard "wikilink")
+<wielded>`           (Humming) `[`a`` ``basilard`](Basilard.md "wikilink")
 
 `A black shape is carrying:`  
-`     `[`a`` ``black`` ``rock`](Black_Rock "wikilink")
+`     `[`a`` ``black`` ``rock`](Black_Rock.md "wikilink")
 
 ## Comments
 
-[Characters](:Category:_Characters "wikilink") need [a really small
-key](Really_Small_Key "wikilink"), [a black rod](Black_Rod "wikilink"),
-and [a warped key](Warped_Key "wikilink") to unlock doors between [The
-sentinel](Sentinel "wikilink") and this mob.
+[Characters](:Category:_Characters.md "wikilink") need [a really small
+key](Really_Small_Key.md "wikilink"), [a black
+rod](Black_Rod.md "wikilink"), and [a warped
+key](Warped_Key.md "wikilink") to unlock doors between [The
+sentinel](Sentinel.md "wikilink") and this mob.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Thieves'
-Haunt](:Category:_Thieves'_Haunt "wikilink")
-([Map](Thieves'_Haunt_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Corridor Continues
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [sentinel](Sentinel "wikilink"): {n}, n, e, \[e\], e,
-{d}, quaff, {s}.  
+**[Area](:Category:_Areas.md "wikilink"):** [Thieves'
+Haunt](:Category:_Thieves'_Haunt.md "wikilink")
+([Map](Thieves'_Haunt_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Corridor Continues
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [sentinel](Sentinel.md "wikilink"): {n}, n, e, \[e\],
+e, {d}, quaff, {s}.  
 
 [Category: Mobs In Thieves'
 Haunt](Category:_Mobs_In_Thieves'_Haunt "wikilink")

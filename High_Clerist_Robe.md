@@ -9,8 +9,8 @@ Weight: 5
 Flags: magic  
 Type: Armor  
 Mob: [Crullius The White](Crullius_The_White "wikilink")  
-Area: [The Great Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink"))  
+Area: [The Great Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink"))  
 Port [Wartha](Wartha "wikilink") *(Aggie)*. Crullius is in the
 North-eastern section of divide.
 

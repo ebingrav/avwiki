@@ -4,31 +4,31 @@ snake*
 dominate*  
 *your vision. Soon you can't see anything else.*  
 
-`Has 1(1) charges at level 15 '`[`cure`` ``critical`](Cure_Critical "wikilink")`'.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 1 continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 1 continuous.`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -5 continuous.`
+`Has 1(1) charges at level 15 '`[`cure`` ``critical`](Cure_Critical.md "wikilink")`'.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 1 continuous.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 1 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -5 continuous.`
 
 **Keyword(s):** insanity, genius, wand.  
-**[Level(s)](Object_Level "wikilink"):** 26.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[wand](:Category:_Wands "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 26.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[wand](:Category:_Wands.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"), [glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
 Area: [Laboratory Of
-Chalmus](:Category:Laboratory_Of_Chalmus "wikilink")  
+Chalmus](:Category:Laboratory_Of_Chalmus.md "wikilink")  
 Mob: [Simon MacAlvay's Impression Of
 Himself](Simon_MacAlvay's_Impression_Of_Himself "wikilink")  
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink")
 
 [Category: Gear In Laboratory Of
 Chalmus](Category:_Gear_In_Laboratory_Of_Chalmus "wikilink") [Category:

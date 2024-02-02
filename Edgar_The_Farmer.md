@@ -3,17 +3,17 @@ gnomish peoples, involving multiple types of animals in the same farm,
 allowing for more diversity and self-reliance.*
 
 **Keywords:** Edgar, Farmer, gnome.  
-**[Level](Level "wikilink"):** 20.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [protection
-evil](Protection_Evil "wikilink"), .  
+**[Level](Level.md "wikilink"):** 20.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink"), .  
 
 ## Gear
 
 `Edgar the Farmer is using:`  
-<worn on head>`      `[`a`` ``straw`` ``hat`](Straw_Hat "wikilink")
+<worn on head>`      `[`a`` ``straw`` ``hat`](Straw_Hat.md "wikilink")
 
 `Edgar the Farmer is carrying:`  
 `     Nothing.`
@@ -22,13 +22,13 @@ evil](Protection_Evil "wikilink"), .
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Midgaard
-Country](:Category:_Midgaard_Country "wikilink")
-([Map](Midgaard_Country_Map "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16n, 4e, s, e, 2n, e,
+**[Area](:Category:_Areas.md "wikilink"):** [Midgaard
+Country](:Category:_Midgaard_Country.md "wikilink")
+([Map](Midgaard_Country_Map.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16n, 4e, s, e, 2n, e,
 \[e\], \[n\], \[e\], u.  
-Edgar the Farmer [wanders](Wandering_Mobs "wikilink"), but only within
-his house unless the doors are left open. Edgar the Farmer is
+Edgar the Farmer [wanders](Wandering_Mobs.md "wikilink"), but only
+within his house unless the doors are left open. Edgar the Farmer is
 portable..  
 
 [Category: Mobs In Midgaard

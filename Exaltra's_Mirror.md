@@ -1,17 +1,17 @@
 *An elegant gold mirror is here, encrusted with gems.*  
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -30 continuous.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 65 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -30 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 65 continuous.`
 
 Type: treasure  
 Slot: held  
 Weight: 2  
 Quality: 50 hps  
-Flags: [glow](Glow_Flag "wikilink")
-[nolocate](Nolocate_Flag "wikilink")  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Flags: [glow](Glow_Flag.md "wikilink")
+[nolocate](Nolocate_Flag.md "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 Mob: [Lady Exaltra](Lady_Exaltra "wikilink")
 
 [Lady Exaltra](Lady_Exaltra "wikilink") wanders throughout the stands,

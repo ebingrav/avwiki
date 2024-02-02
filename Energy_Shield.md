@@ -1,17 +1,17 @@
 *One of the most dreaded kinds of attacks is the energy weapon. Spells
 like gas breath, lightning, etc can not only hurt you, but destroy your
-[equipment](:Category:_Gear "wikilink"). Energy Shield helps prevent
-that by improving your "[save vs](Saving_Throw "wikilink")" rating. With
-this [spell](:Category:_Spells "wikilink"), you can absorb a breath
-attack with much less chance of losing
-[equipment](:Category:_Gear "wikilink"). Since this is a [TELEKINETIC
-spell](:Category:_Telekinetic_Skills_And_Spells "wikilink"), it can
+[equipment](:Category:_Gear.md "wikilink"). Energy Shield helps prevent
+that by improving your "[save vs](Saving_Throw.md "wikilink")" rating.
+With this [spell](:Category:_Spells.md "wikilink"), you can absorb a
+breath attack with much less chance of losing
+[equipment](:Category:_Gear.md "wikilink"). Since this is a [TELEKINETIC
+spell](:Category:_Telekinetic_Skills_And_Spells.md "wikilink"), it can
 easily be cast on others.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'energy shield'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'energy shield'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

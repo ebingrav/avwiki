@@ -6,10 +6,10 @@ anyone would call something the size of a cave bear a dog.
 
 Frostbite is using:  
 <worn around neck> \[Pristine \] [an ice
-collar](Ice_Collar "wikilink")  
+collar](Ice_Collar.md "wikilink")  
 <held in offhand> \[Pristine \] (Magical) an ice dart  
 <wielded> \[Pristine \] [(Demonic) (Magical) (Glowing) an ice hound's
-tooth](Ice_Hound%27s_Tooth "wikilink")  
+tooth](Ice_Hound%27s_Tooth.md "wikilink")  
 You peek at the inventory:
 
 `    Nothing.`

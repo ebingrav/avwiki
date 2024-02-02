@@ -9,6 +9,6 @@
 `automatically end when combat does.`  
   
 `Force Field is a lost art. None teach it, but rumors circulate that`  
-[`spellbooks`](:Category:Spellbooks "wikilink")` of Force Field still exist.`
+[`spellbooks`](:Category:Spellbooks.md "wikilink")` of Force Field still exist.`
 
 [Category:Spells](Category:Spells "wikilink")

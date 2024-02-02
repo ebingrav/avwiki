@@ -7,8 +7,8 @@
 Type: Armor  
 Slot: Shield  
 Weight: 18  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")
 
 [Category: Lord Utility Gear](Category:_Lord_Utility_Gear "wikilink")
 [Category: Skin Items](Category:_Skin_Items "wikilink") [Category: Gear

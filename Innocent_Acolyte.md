@@ -5,9 +5,9 @@ work.*
 **Keywords:** dwarf, acolyte, ??.  
 **Scan Description:** Barely a man, the acolyte cleans the shattered
 room.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??  
 **Affects:** ??, ??.  
 == Gear ==
 
@@ -21,11 +21,11 @@ room.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Temple Storeroom
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Temple Storeroom
+([cursed](Cursed_Rooms.md "wikilink"))  
 From [Wartha](Wartha "wikilink") *(aggie)*: 3wne4nw3nen4e\[n\]
 
 [Category: Mobs In Great

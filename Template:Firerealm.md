@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Firerealm_Proper" title="wikilink">Firerealm
-Proper</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Firerealm_Proper"
+<td><p><a href=":Category:Firerealm_Proper.md"
+title="wikilink">Firerealm Proper</a></p></td>
+<td><p>(<a href=":Category:Gear_In_Firerealm_Proper.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

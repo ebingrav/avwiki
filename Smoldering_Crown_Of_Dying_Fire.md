@@ -3,23 +3,23 @@ has been smoldering for eons without end and looks to be without pause
 for many more. It has no jewels fashioned into it, and merely represents
 the pain of playing the game of thrones. But for someone who could wear
 this crown on their head... the rewards are great, indeed.*  
-[Armor class](Armor_Values "wikilink") is 10-12.
+[Armor class](Armor_Values.md "wikilink") is 10-12.
 
 `Faintly lowers resistance to earth continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -50 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -15 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -50 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -15 continuous.`
 
 **Keyword(s):** crown smoldering.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [evil](Evil_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 

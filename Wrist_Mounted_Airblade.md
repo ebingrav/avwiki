@@ -8,12 +8,13 @@ something might be mounted, but it is empty.*
 
 **Keywords:**  
 **Levels:** 50-52  
-**[Type:](:Category:Object_Types "wikilink")**
-[Weapon](:Category:Weapons "wikilink")  
+**[Type:](:Category:Object_Types.md "wikilink")**
+[Weapon](:Category:Weapons.md "wikilink")  
 **Quality:** 100hp  
 **Weight:** 5 lbs  
-**[Flags:](:Category:Object_Flags "wikilink")**
-[Invis](Invis_Flag "wikilink"), [No Locate](NoLocate_Flag "wikilink")  
+**[Flags:](:Category:Object_Flags.md "wikilink")**
+[Invis](Invis_Flag.md "wikilink"), [No
+Locate](NoLocate_Flag.md "wikilink")  
 
 ## Comments
 
@@ -21,11 +22,11 @@ This weapon cannot be sharpened.
 
 ## Directions
 
-**[Area:](:Category:Areas "wikilink")** [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink"))  
-**[Mob:](:Category:Mobs "wikilink")** [Szreaelle, the
-spy](Szreaelle_The_Spy "wikilink") (not portable)  
+**[Area:](:Category:Areas.md "wikilink")** [Daingean
+Machadae](:Category:Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink"))  
+**[Mob:](:Category:Mobs.md "wikilink")** [Szreaelle, the
+spy](Szreaelle_The_Spy.md "wikilink") (not portable)  
 
 [Category:Gear In Daingean
 Machadae](Category:Gear_In_Daingean_Machadae "wikilink") [Category:Hero

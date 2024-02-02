@@ -1,7 +1,8 @@
 <figure>
-<img src="Daingean_Machadae_map.jpg" title="Daingean_Machadae_map.jpg"
-width="650" alt="Daingean_Machadae_map.jpg" />
-<figcaption aria-hidden="true">Daingean_Machadae_map.jpg</figcaption>
+<img src="Daingean_Machadae_map.jpg.md"
+title="Daingean_Machadae_map.jpg.md" width="650"
+alt="Daingean_Machadae_map.jpg.md" />
+<figcaption aria-hidden="true">Daingean_Machadae_map.jpg.md</figcaption>
 </figure>
 
 [Cathracharraig Map](Cathracharraig_Map "wikilink")  

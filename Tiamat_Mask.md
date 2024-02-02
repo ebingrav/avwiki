@@ -3,15 +3,15 @@
 Base: 1-2  
 Level: 1-2  
 Weight: 3  
-Area: [Dwarven Day Care](:Category:_Dwarven_Day_Care "wikilink")
-([Map](Dwarven_Day_Care_Map "wikilink"))  
+Area: [Dwarven Day Care](:Category:_Dwarven_Day_Care.md "wikilink")
+([Map](Dwarven_Day_Care_Map.md "wikilink"))  
 Mob: [Spoiled Brat](Spoiled_Brat "wikilink") (Portable)  
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): s, 7e, 4s, 2w, d, 2e, 3s.  
-[Portaling](Portal "wikilink") point(s) suggested: [Spoiled
-Brat](Spoiled_Brat "wikilink").  
+Walking route from [Nom](Nom.md "wikilink"): s, 7e, 4s, 2w, d, 2e, 3s.  
+[Portaling](Portal.md "wikilink") point(s) suggested: [Spoiled
+Brat](Spoiled_Brat.md "wikilink").  
 
 ## Comments
 

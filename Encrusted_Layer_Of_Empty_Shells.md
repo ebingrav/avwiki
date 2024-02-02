@@ -43,8 +43,8 @@
 </td>
 <td>
 
-[Shashwat Nisha](:Category:_Shashwat_Nisha "wikilink")
-([Map](Shashwat_Nisha_Map "wikilink"))
+[Shashwat Nisha](:Category:_Shashwat_Nisha.md "wikilink")
+([Map](Shashwat_Nisha_Map.md "wikilink"))
 
 </td>
 </tr>

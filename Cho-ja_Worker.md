@@ -9,10 +9,10 @@ whistles and clicks. It seems to have a placid demeanor, to the extent
 of ignoring you.*
 
 **Keywords:** cho-ja worker miner.  
-**[Level](Level "wikilink"):** 17.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 17.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -28,10 +28,10 @@ One of the workers is carrying a claw. However, it has no modifiers.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cho-ja
-Hive](:Category:_Cho-ja_Hive "wikilink")
-([Map](Cho-ja_Hive_Map "wikilink")).  
-Cho-ja miner [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Cho-ja
+Hive](:Category:_Cho-ja_Hive.md "wikilink")
+([Map](Cho-ja_Hive_Map.md "wikilink")).  
+Cho-ja miner [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Cho-ja
 Hive](Category:_Mobs_In_Cho-ja_Hive "wikilink")

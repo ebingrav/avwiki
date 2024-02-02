@@ -1,30 +1,32 @@
-*This [spell](:Category:_Spells "wikilink") decreases your
-[AC](Armor_Class "wikilink") by the Grace of the
-[Gods](:Category:_Gods_And_Goddesses "wikilink"). It gives a bonus of
--100 [AC](Armor_Class "wikilink"). It does NOT make you invincible.*
+*This [spell](:Category:_Spells.md "wikilink") decreases your
+[AC](Armor_Class.md "wikilink") by the Grace of the
+[Gods](:Category:_Gods_And_Goddesses.md "wikilink"). It gives a bonus of
+-100 [AC](Armor_Class.md "wikilink"). It does NOT make you invincible.*
 
-Prerequisite(s): [Holy Aura](Holy_Aura "wikilink").
+Prerequisite(s): [Holy Aura](Holy_Aura.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'invincibility'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'invincibility'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is fourth of four
+This [spell](:Category:_Spells.md "wikilink") is fourth of four
 [armor-class-boosting
-spells](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
-that both [clerics](:Category:_Clerics "wikilink") and
-[priests](:Category:_Priests "wikilink") may
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50.
-[Characters](:Category:_Characters "wikilink") of other
-[classes](:Category:_Classes "wikilink"), except for
-[druids](:Category:_Druids "wikilink") and (at
-[lord](:Category:Lord "wikilink") [tier](:Category:_Tiers "wikilink"))
-[paladins](:Category:_Paladins "wikilink"), will never be able to
-[learn](Practice "wikilink") it. It is included in
-[Aegis](Aegis "wikilink") but *not* in [Awen](Awen "wikilink"). Its
-[AC](Armor_Class "wikilink") bonus may be modified by its
-[caster](Cast "wikilink")'s choice of [worship](Worship "wikilink") (an
-atheist invincibility will give the target an extra -100 AC).
+spells](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
+that both [clerics](:Category:_Clerics.md "wikilink") and
+[priests](:Category:_Priests.md "wikilink") may
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50.
+[Characters](:Category:_Characters.md "wikilink") of other
+[classes](:Category:_Classes.md "wikilink"), except for
+[druids](:Category:_Druids.md "wikilink") and (at
+[lord](:Category:Lord.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"))
+[paladins](:Category:_Paladins.md "wikilink"), will never be able to
+[learn](Practice.md "wikilink") it. It is included in
+[Aegis](Aegis.md "wikilink") but *not* in [Awen](Awen.md "wikilink").
+Its [AC](Armor_Class.md "wikilink") bonus may be modified by its
+[caster](Cast.md "wikilink")'s choice of
+[worship](Worship.md "wikilink") (an atheist invincibility will give the
+target an extra -100 AC).
 
 # Future changes
 

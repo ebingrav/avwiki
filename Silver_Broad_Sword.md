@@ -1,29 +1,29 @@
 *A silver broad sword hums merrily.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 15 to 42 (average 28).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 15 to 42 (average 28).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** silver, broad, sword.  
-**[Level(s)](Object_Level "wikilink"):** 44-46.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 44-46.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Githzerai
-Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a githzerai
-swordsman](Githzerai_Swordsman "wikilink").  
-See [a githzerai swordsman](Githzerai_Swordsman "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Githzerai
+Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a githzerai
+swordsman](Githzerai_Swordsman.md "wikilink").  
+See [a githzerai swordsman](Githzerai_Swordsman.md "wikilink") for more
 information.
 
 [Category: Gear In Githzerai

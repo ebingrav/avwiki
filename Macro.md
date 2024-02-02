@@ -8,7 +8,7 @@ awesome AWEN, the psionicists' formidable FORTITUDES, and the magic
 users' favorite, FOCI.
 
 See also: [Skills And Spells That Buff
-Characters](:Category:Skills_And_Spells_That_Buff_Characters "wikilink"),
+Characters](:Category:Skills_And_Spells_That_Buff_Characters.md "wikilink"),
 [Awen](Awen "wikilink"), [Fortitudes](Fortitudes "wikilink"),
 [Foci](Foci "wikilink"), [Aegis](Aegis "wikilink")
 

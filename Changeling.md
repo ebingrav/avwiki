@@ -1,14 +1,14 @@
 *The blob has no shape--except yours!!!*
 
 **Keywords:** changeling.  
-**[Level](Level "wikilink"):** 48.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[mimic](Shapeshifting_Mobs "wikilink").  
-**Affects:** [flying](Fly "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 48.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[mimic](Shapeshifting_Mobs.md "wikilink").  
+**Affects:** [flying](Fly.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -16,8 +16,8 @@
 `Nothing.`
 
 `The changeling is carrying:`  
-`     `[`a`` ``morphic`` ``key`](Morphic_Key "wikilink")  
-`     (Glowing) `[`an`` ``orb`` ``of`` ``amorphous`` ``essence`](Orb_Of_Amorphous_Essence "wikilink")
+`     `[`a`` ``morphic`` ``key`](Morphic_Key.md "wikilink")  
+`     (Glowing) `[`an`` ``orb`` ``of`` ``amorphous`` ``essence`](Orb_Of_Amorphous_Essence.md "wikilink")
 
 ## Comments
 
@@ -27,15 +27,15 @@ Invis](Detect_Invis "wikilink") players of all levels.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Trials](:Category:_Drow_Trials "wikilink")
-([Map](Drow_Trials_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Final Fury
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, 2s, 3e, n, 2e, s,
-e, s, e, \[n\], e, \[n\], \[u\], \[n\], \[n\]. *(Note: requires
-[flying](Fly "wikilink"))*  
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Trials](:Category:_Drow_Trials.md "wikilink")
+([Map](Drow_Trials_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Final Fury
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, 2s, 3e, n, 2e,
+s, e, s, e, \[n\], e, \[n\], \[u\], \[n\], \[n\]. *(Note: requires
+[flying](Fly.md "wikilink"))*  
 From [Drow Spectre](Drow_Spectre "wikilink") (portable): 2e, s, e, s, e,
 \[n\], e, \[n\], \[u\], \[n\], \[n\].
 

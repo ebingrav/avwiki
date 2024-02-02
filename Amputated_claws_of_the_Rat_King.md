@@ -12,14 +12,14 @@
 `Modifies melee attacks with poison damage continuous`
 
 **Keyword(s):** rat, king, claws, amputated.  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):** [Lord Melee
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [Lord Melee
 Weapon](Lord_Melee_Weapon "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** [Lord Melee
+**[Slot(s)](Object_Slots.md "wikilink"):** [Lord Melee
 Weapon](Lord_Melee_Weapon "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 750 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, hum, evil,
+**[Quality](Object_Quality.md "wikilink"):** 750 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, hum, evil,
 magic.  
 
 ## Comments
@@ -28,9 +28,9 @@ Shard unlock run.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Garden](:Category:_Garden "wikilink").  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Brandon the Rat
+**[Area](:Category:_Areas.md "wikilink"):**
+[Garden](:Category:_Garden.md "wikilink").  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Brandon the Rat
 King](Brandon_the_Rat_King "wikilink").  
 
 [Category:Brandon the Rat King Realm Guardian

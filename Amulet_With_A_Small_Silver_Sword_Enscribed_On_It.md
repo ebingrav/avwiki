@@ -6,14 +6,15 @@ Modifies armor class by -30 continuous.
 Slot: Neck  
 Weight: 2  
 Flags: magic  
-Plane: [Outland](:Category:Outland "wikilink")  
-Area: [Githzerai Keep](:Category:Githzerai_Keep "wikilink")  
+Plane: [Outland](:Category:Outland.md "wikilink")  
+Area: [Githzerai Keep](:Category:Githzerai_Keep.md "wikilink")  
 Mob: [King Of The Githzerai](King_Of_The_Githzerai "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Githzerai
-Keep](:Category:Gear_In_Githzerai_Keep "wikilink") for more information.
+Keep](:Category:Gear_In_Githzerai_Keep.md "wikilink") for more
+information.
 
 [Category:Lord Third Tier Tank
 Gear](Category:Lord_Third_Tier_Tank_Gear "wikilink") [Category:Gear In

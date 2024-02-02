@@ -7,14 +7,14 @@
 **Keywords**: majestre's crop  
 **Flags**: magic nolocate  
 **Weight**: 3  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
 **Area**: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 **Mob**: [Lord Majestre](Lord_Majestre "wikilink")
 
 ------------------------------------------------------------------------
 
-See \[\[:Category:Gear In Obsidian Arena; Stands\|Gear In Obsidian
+See \[\[:Category:Gear In Obsidian Arena; Stands.md\|Gear In Obsidian
 Arena;
 
 Stands\]\] for more information.

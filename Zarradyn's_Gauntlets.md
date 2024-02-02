@@ -7,14 +7,14 @@ Modifies hit roll by 7 continuous.
 Slot: Hands  
 Weight: 8  
 Flags: glow evil magic  
-Plane: [Arcadia](:Category:Arcadia "wikilink")  
-Area: [Dark Fae Tower](:Category:Dark_Fae_Tower "wikilink")  
+Plane: [Arcadia](:Category:Arcadia.md "wikilink")  
+Area: [Dark Fae Tower](:Category:Dark_Fae_Tower.md "wikilink")  
 Mob: [Duke Zarradyn](Duke_Zarradyn "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Dark Fae
-Tower](:Category:Gear_In_Dark_Fae_Tower "wikilink") for directions on
+Tower](:Category:Gear_In_Dark_Fae_Tower.md "wikilink") for directions on
 how to obtain this gear.
 
 [Category:Lord Hit Gear](Category:Lord_Hit_Gear "wikilink")

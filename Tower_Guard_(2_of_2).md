@@ -9,9 +9,9 @@ of him.*
 **Keywords:** troll, guard, ?  
 **Scan Description:** The guard is scanning the ground, as if he is
 looking for something.  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** none.  
 
 ## Gear
@@ -31,11 +31,11 @@ Lion](Mithril_Lion "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink")
-([Map](Obsidian_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** On top of the tower
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:Obsidian_Tower.md "wikilink")
+([Map](Obsidian_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** On top of the tower
+([Cursed](Cursed_Rooms.md "wikilink")).  
 Tower guard wanders.
 
 [Category:Mobs In Obsidian

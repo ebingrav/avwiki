@@ -4,7 +4,7 @@ Lord sorcerer lore. Provides access to the legend sorcerer lore.
 
 # Prereqs
 
--   [lesser sorcery](Lesser_Sorcery "wikilink")
+-   [lesser sorcery](Lesser_Sorcery.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -20,7 +20,7 @@ Lord sorcerer lore. Provides access to the legend sorcerer lore.
 
 # Lores Unlocked
 
--   [epic sorcery](Epic_Sorcery "wikilink")
+-   [epic sorcery](Epic_Sorcery.md "wikilink")
 
 # Other Notes
 

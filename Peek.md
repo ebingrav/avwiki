@@ -1,9 +1,9 @@
-*This [skill](:Category:_Skills "wikilink") shows you a
-[character](:Category:_Characters "wikilink")'s inventory when you look
-at a [character](:Category:_Characters "wikilink"). Use of the
-[skill](:Category:_Skills "wikilink") is automatic once you have
-[practiced](Practice "wikilink") it. You can now toggle its affect by
-using the [command](:Category:_Commands "wikilink").*
+*This [skill](:Category:_Skills.md "wikilink") shows you a
+[character](:Category:_Characters.md "wikilink")'s inventory when you
+look at a [character](:Category:_Characters.md "wikilink"). Use of the
+[skill](:Category:_Skills.md "wikilink") is automatic once you have
+[practiced](Practice.md "wikilink") it. You can now toggle its affect by
+using the [command](:Category:_Commands.md "wikilink").*
 
 Prerequisite(s): none.
 

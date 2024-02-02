@@ -1,9 +1,9 @@
 *Mindlash channels raw psionic energy into the target's conscious mind.*
 
-Prerequisite(s): [PsiSting](PsiSting "wikilink").
+Prerequisite(s): [PsiSting](PsiSting.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mindlash'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'mindlash'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

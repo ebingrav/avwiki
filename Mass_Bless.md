@@ -1,14 +1,15 @@
-*This [spell](:Category:_Spells "wikilink") improves the [to-hit
-roll](Hit_Roll "wikilink") and [saving throw versus
-spell](Saving_Throw "wikilink") of all those in the
-[room](:Category:_Rooms "wikilink"). The amount of improvement increases
-with the [caster](Cast "wikilink")'s [level](Level "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") improves the [to-hit
+roll](Hit_Roll.md "wikilink") and [saving throw versus
+spell](Saving_Throw.md "wikilink") of all those in the
+[room](:Category:_Rooms.md "wikilink"). The amount of improvement
+increases with the [caster](Cast.md "wikilink")'s
+[level](Level.md "wikilink").*
 
-Prerequisite(s): [Bless](Bless "wikilink").
+Prerequisite(s): [Bless](Bless.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass bless'.
+Syntax: [cast](Cast.md "wikilink") 'mass bless'.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

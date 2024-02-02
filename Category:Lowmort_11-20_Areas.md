@@ -1,16 +1,16 @@
 ## Recommended Areas
 
 Popular areas for soloers at levels 11-15 to gain experience include
-[Heather Flats](:Category:_Heather_Flats "wikilink") and the areas west
-of [Stonehall](:Category:_Stonehall "wikilink") (especially [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")), or [Ascension
-Woods](:Category:Ascension_Woods "wikilink").
+[Heather Flats](:Category:_Heather_Flats.md "wikilink") and the areas
+west of [Stonehall](:Category:_Stonehall.md "wikilink") (especially
+[Qanza Prairie](:Category:_Qanza_Prairie.md "wikilink")), or [Ascension
+Woods](:Category:Ascension_Woods.md "wikilink").
 
 Popular areas for soloers at levels 16-20 to gain experience include
-[Midgaard Country](:Category:_Midgaard_Country "wikilink"),
-[Undrehand](:Category:_Undrehand "wikilink"), [Senex
-Operis](:Category:_Senex_Operis "wikilink"), and
-[Igecsoz](:Category:_Igecsoz "wikilink").
+[Midgaard Country](:Category:_Midgaard_Country.md "wikilink"),
+[Undrehand](:Category:_Undrehand.md "wikilink"), [Senex
+Operis](:Category:_Senex_Operis.md "wikilink"), and
+[Igecsoz](:Category:_Igecsoz.md "wikilink").
 
 With spells, [Thrall Swamp](Thrall_Swamp "wikilink") (pp centaur thrall)
 and [Qass Tomb](Qass_Tomb "wikilink") work well from 14+.

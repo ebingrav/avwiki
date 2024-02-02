@@ -8,14 +8,15 @@ Slot: Legs
 Weight: 10  
 Hps: 400  
 Flags: glow evil nolocate  
-Plane: [World Of Stone](:Category:World_Of_Stone "wikilink")  
-Area: [Mountain Of Madness](:Category:Mountain_Of_Madness "wikilink")  
+Plane: [World Of Stone](:Category:World_Of_Stone.md "wikilink")  
+Area: [Mountain Of
+Madness](:Category:Mountain_Of_Madness.md "wikilink")  
 Mob: [Mad Dwarf, Alastar](Mad_Dwarf,_Alastar "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Mountain Of
-Madness](:Category:Gear_In_Mountain_Of_Madness "wikilink") for
+Madness](:Category:Gear_In_Mountain_Of_Madness.md "wikilink") for
 directions on how to get this gear.
 
 [Category: Lord Hit Gear](Category:_Lord_Hit_Gear "wikilink") [Category:

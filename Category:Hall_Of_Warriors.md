@@ -1,4 +1,4 @@
-*In the city of [Midgaard](:Category:_Midgaard "wikilink") is a place
+*In the city of [Midgaard](:Category:_Midgaard.md "wikilink") is a place
 for fighting men and women to share stories, feast, celebrate victories,
 and honor and remember their comrades.*
 
@@ -8,10 +8,10 @@ and honor and remember their comrades.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 5e, \[s\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 5e, \[s\].
 
-[Portaling](Portal "wikilink") point(s) suggested: [Entrance
-Guard](Entrance_Guard "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Entrance
+Guard](Entrance_Guard.md "wikilink").
 
 ## Connections
 

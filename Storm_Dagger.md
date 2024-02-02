@@ -3,27 +3,27 @@ depicting a storm in all its rage. The white swirls together to form
 clouds, while the blue provides the backdrop of the sky. In contrast to
 this, the dagger's metal is covered in dried blood.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 11 to 32 (average 21).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 6 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 11 to 32 (average 21).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 6 continuous.`
 
 **Keyword(s):** storm, dagger  
-**[Level(s)](Object_Level "wikilink"):** 36  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 36  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Waterfall
-Cave](:Category:_Waterfall_Cave "wikilink")
-([Map](Waterfall_Cave_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Waterfall
+Cave](:Category:_Waterfall_Cave.md "wikilink")
+([Map](Waterfall_Cave_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Hestylif](Hestylif "wikilink")  
 See [Hestylif](Hestylif "wikilink") for more information  
 

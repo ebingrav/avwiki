@@ -2,24 +2,24 @@
 stout dwarf is ready to fend it off with his axe.*
 
 **Keywords:** patrol, dwarf.  
-**[Level](Level "wikilink"):** 10.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 10.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
 
 `A patrol dwarf is using:`  
-<wielded>`           `[`a`` ``mithril`` ``axe`](Mithril_Axe "wikilink")
+<wielded>`           `[`a`` ``mithril`` ``axe`](Mithril_Axe.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Underway
-Tunnels](:Category:_Underway_Tunnels "wikilink")
-([Map](Underway_Tunnels_Map "wikilink")).  
-A patrol dwarf [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Underway
+Tunnels](:Category:_Underway_Tunnels.md "wikilink")
+([Map](Underway_Tunnels_Map.md "wikilink")).  
+A patrol dwarf [wanders](Wandering_Mobs.md "wikilink").
 
 A patrol dwarf is portable.  
 

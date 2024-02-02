@@ -15,9 +15,9 @@ be completed throughout lowmort game.*
 
 <spoiler>Simply wander the town of Wayside and kill 15 kobolds. Return
 to Owen once done.</spoiler> The reward for helping
-[Owen](Owen_The_Orchard-Owner "wikilink") is the [Wayside Kobold Slayer
-Insignia](Wayside_Kobold_Slayer_Insignia "wikilink"), a useful addition
-for any character of the right level.
+[Owen](Owen_The_Orchard-Owner.md "wikilink") is the [Wayside Kobold
+Slayer Insignia](Wayside_Kobold_Slayer_Insignia "wikilink"), a useful
+addition for any character of the right level.
 
 [Category: Quests In Wayside](Category:_Quests_In_Wayside "wikilink")
 [Category: Insignia Quests](Category:_Insignia_Quests "wikilink")

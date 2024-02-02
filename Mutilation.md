@@ -10,7 +10,7 @@ This is an extremely handy rite for lord Berserkers. They can easily get
 Sanctuary or Frenzy themselves, instead of having to ask for it from a
 group mate, even in the middle of a fight. They can get a number of
 spells with this, including:
-[Confidence,](:Category:Grandfathered_Skills_And_Spells "wikilink")
+[Confidence,](:Category:Grandfathered_Skills_And_Spells.md "wikilink")
 Anticipate, Stone Skin, Regeneration, Frenzy, Sanctuary, and, last but
 not least, [Werrebocler](Werrebocler "wikilink"). Some effects come
 easier than others. Werrebocler notably is harder to get. Like normal

@@ -9,6 +9,7 @@ Half Of The Sundered Ring can refer to:
     by [Duke Malafont](Duke_Malafont "wikilink").
 -   [Half Of The Sundered Ring
     (Queen)](Half_Of_The_Sundered_Ring_(Queen) "wikilink") a ticket worn
-    by [Dark Queen Zydarielle](Zydarielle,_Queen_Of_Stars "wikilink").
+    by [Dark Queen
+    Zydarielle](Zydarielle,_Queen_Of_Stars.md "wikilink").
 
 [Category: Disambiguation](Category:_Disambiguation "wikilink")

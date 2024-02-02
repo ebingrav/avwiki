@@ -1,13 +1,13 @@
-*While this [spell](:Category:_Spells "wikilink") lasts, the
+*While this [spell](:Category:_Spells.md "wikilink") lasts, the
 panic-striken victim will fall and injure themself if they attempt to
-[flee](Flee "wikilink"). Panic then ends. Panic is
-[exhausted](Exhaustion "wikilink") for a short time when
-[cast](Cast "wikilink").*
+[flee](Flee.md "wikilink"). Panic then ends. Panic is
+[exhausted](Exhaustion.md "wikilink") for a short time when
+[cast](Cast.md "wikilink").*
 
-Prerequisite(s): [Dread](Dread "wikilink").
+Prerequisite(s): [Dread](Dread.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'panic'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'panic'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Mindbender

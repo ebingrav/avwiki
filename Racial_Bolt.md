@@ -2,7 +2,7 @@
 nature to unleash a [lightning bolt](lightning_bolt "wikilink") upon an
 enemy. Typing 'racial bolt' with no target attacks a mob you are already
 in combat with. Bolt grows in power as a [Cloud
-Giant](Cloud_Giants "wikilink") becomes more experienced.
+Giant](Cloud_Giants.md "wikilink") becomes more experienced.
 
 In addition to causing electric damage, the bolt may also temporarily
 stun the foe. The enemy might also find themselves blinded by the

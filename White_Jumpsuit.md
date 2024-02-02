@@ -43,8 +43,8 @@
 </td>
 <td>
 
-[Wamphyri Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink"))
+[Wamphyri Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink"))
 
 </td>
 </tr>

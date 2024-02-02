@@ -1,4 +1,4 @@
-Shift to [Airscape](:Category:Airscape "wikilink").
+Shift to [Airscape](:Category:Airscape.md "wikilink").
 
 The [Mistmail](Mistmail "wikilink") is carried by the [Mist
 Dragon](Mist_Dragon "wikilink"), a portable wandering mob. Once shift is

@@ -1,26 +1,27 @@
 *Long ago, in the city of Keresh, there existed an order of
-[clerics](:Category:_Clerics "wikilink") known as Paeans, endowed with
-incredible healing powers. Recently, the order has resurfaced,
-restructured around [Tul-Sith](Tul-Sith "wikilink"), and simply calling
-themselves 'Priests.*'
+[clerics](:Category:_Clerics.md "wikilink") known as Paeans, endowed
+with incredible healing powers. Recently, the order has resurfaced,
+restructured around [Tul-Sith](Tul-Sith.md "wikilink"), and simply
+calling themselves 'Priests.*'
 
 *Priests learn some very powerful healing and curative spells, but are
 dedicated to their paths of peace and honesty, and so never learn attack
-spells, or most [warrior](:Category:_Warriors "wikilink") or
-[rogue](:Category:_Rogues "wikilink") skills. They are less
-item-oriented than [Clerics](:Category:_Clerics "wikilink"), and so do
-not learn many item-oriented abilities, or learn them later.*
+spells, or most [warrior](:Category:_Warriors.md "wikilink") or
+[rogue](:Category:_Rogues.md "wikilink") skills. They are less
+item-oriented than [Clerics](:Category:_Clerics.md "wikilink"), and so
+do not learn many item-oriented abilities, or learn them later.*
 
-*Their [Prime statistic](Prime_Requisite "wikilink") is
-[Wisdom](Wisdom "wikilink"). Priest trainers will not teach the Holy
-Disciplines to anyone who is not [worshipping](Worship "wikilink")
-[Tul-Sith](Tul-Sith "wikilink"), and Priests must maintain a high
-[alignment](Alignment "wikilink") for these spells to work their best.*
+*Their [Prime statistic](Prime_Requisite.md "wikilink") is
+[Wisdom](Wisdom.md "wikilink"). Priest trainers will not teach the Holy
+Disciplines to anyone who is not [worshipping](Worship.md "wikilink")
+[Tul-Sith](Tul-Sith.md "wikilink"), and Priests must maintain a high
+[alignment](Alignment.md "wikilink") for these spells to work their
+best.*
 
 **Abbreviation:** Prs.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Wisdom](Wisdom "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Wisdom](Wisdom.md "wikilink").
 
 ## Priests in General
 
@@ -36,8 +37,8 @@ players regardless of their alignment.
 
 Priests receive relatively little HP but a high mana, making their gains
 similar to other "specialist" classes like
-[Sorcerers](:Category:Sorcerers "wikilink") or
-[Wizards](:Category:Wizards "wikilink"). This is more noticeable (and
+[Sorcerers](:Category:Sorcerers.md "wikilink") or
+[Wizards](:Category:Wizards.md "wikilink"). This is more noticeable (and
 relevant) at Lord tier where they can sustain and keep alive large
 parties with relative ease due to very high mana pools.
 
@@ -151,27 +152,28 @@ bonuses, and will make later deity switching more costly.
 You can solo using the [White Light](White_Light "wikilink") spell in
 certain undead areas. Keep in mind that White Light does damage
 comparable to [Acid Rain](Acid_Rain "wikilink") but priests can not
-[surge](Surge "wikilink") until lord. Also, it has a very high lag -
+[surge](Surge.md "wikilink") until lord. Also, it has a very high lag -
 nominally 10 seconds. If you prefer to solo your way to Lord then
 consider switching worship to Quixoltan or Shizaga after you practice
 this.
 
 Some of the viable areas for solo are:
 
--   [Necromancer's Tower](:Category:Necromancer's_Tower "wikilink") -
+-   [Necromancer's Tower](:Category:Necromancer's_Tower.md "wikilink") -
     cooling corpse rooms (3 rooms) as well as hallways can contain
     multiple mobs - this is easiest option.
--   [Ruined Lairs](:Category:Ruined_Lairs "wikilink") - all undead mobs,
-    relatively good AC is advised, but more xp than Necromancer's Tower.
--   [Shadow Keep](:Category:Shadow_Keep "wikilink") - rotting corpses as
-    well as some other mobs, but they flee.
--   [Graves of Reveria](:Category:Graves_Of_Reveria "wikilink") - some
-    of the mobs are undead, keep in mind area is very aggie with
+-   [Ruined Lairs](:Category:Ruined_Lairs.md "wikilink") - all undead
+    mobs, relatively good AC is advised, but more xp than Necromancer's
+    Tower.
+-   [Shadow Keep](:Category:Shadow_Keep.md "wikilink") - rotting corpses
+    as well as some other mobs, but they flee.
+-   [Graves of Reveria](:Category:Graves_Of_Reveria.md "wikilink") -
+    some of the mobs are undead, keep in mind area is very aggie with
     non-dead mobs as well and much more difficult.
--   [Sun God Altar](:Category:Sun_God_Altar "wikilink") - the undead
+-   [Sun God Altar](:Category:Sun_God_Altar.md "wikilink") - the undead
     corrals are similar (maybe tougher) to Ruined Lairs, but you will
-    need to self-spell on [Eragora](:Category:Eragora "wikilink"). Not
-    advised until superhero.
+    need to self-spell on [Eragora](:Category:Eragora.md "wikilink").
+    Not advised until superhero.
 
 **Tanking:**
 

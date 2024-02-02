@@ -1,11 +1,11 @@
 *An illusory shield is a projected image of the caster. Enemies can be
 tricked into attacking the illusion instead of the
-[psion](:Category:_Psionicists "wikilink"), although the disguise only
-works for a single hit.*
+[psion](:Category:_Psionicists.md "wikilink"), although the disguise
+only works for a single hit.*
 
-Prerequisite(s): [Displacement](Displacement "wikilink").
+Prerequisite(s): [Displacement](Displacement.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'illusory shield'.
+Syntax: [cast](Cast.md "wikilink") 'illusory shield'.
 
 Unlike most, this spell may be cast during combat.
 

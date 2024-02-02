@@ -48,41 +48,42 @@ Guide](New_Character_Guide "wikilink").
 *I want to be at the front, leading the way, and trying to shield my
 group from the majority of the damage thrown at it!*
 
-[Warriors](:Category:Warriors "wikilink"),
-[Rogues](:Category:Rogues "wikilink"), and
-[Monks](:Category:Monks "wikilink") are all classic tanks. Warriors have
-a high pool of hit points and defensive skills like
-[parry](Parry "wikilink"), [shield block](Shield_Block "wikilink"), and
-[rescue](Rescue "wikilink"). Rogues have fewer hit points, but have
-powerful sneak attacks that deal high amounts of damage and can
-sometimes cripple foes. They also have access to
-[dodge](Dodge "wikilink") and [parry](Parry "wikilink"). Monks fight
-unarmed and also have [rescue](Rescue "wikilink"),
-[dodge](Dodge "wikilink"), as well as their own set of parries and
+[Warriors](:Category:Warriors.md "wikilink"),
+[Rogues](:Category:Rogues.md "wikilink"), and
+[Monks](:Category:Monks.md "wikilink") are all classic tanks. Warriors
+have a high pool of hit points and defensive skills like
+[parry](Parry.md "wikilink"), [shield
+block](Shield_Block.md "wikilink"), and [rescue](Rescue.md "wikilink").
+Rogues have fewer hit points, but have powerful sneak attacks that deal
+high amounts of damage and can sometimes cripple foes. They also have
+access to [dodge](Dodge.md "wikilink") and [parry](Parry.md "wikilink").
+Monks fight unarmed and also have [rescue](Rescue.md "wikilink"),
+[dodge](Dodge.md "wikilink"), as well as their own set of parries and
 counters. Due to their counters, Monks also hit hardest when tanking.
-Try [tanking in hit gear](Tanking_In_Hit_Gear "wikilink") if you dare!
+Try [tanking in hit gear](Tanking_In_Hit_Gear.md "wikilink") if you
+dare!
 
 #### I want to hit!
 
 *I want to take advantage of the cover of a tank to cause damage to my
 enemies!*
 
-[Warriors](:Category:Warriors "wikilink") and
-[Archers](:Category:Archers "wikilink") are the basic physical hitters.
-Warriors have access to the most attacks of any class, as well as
-[Bash](Bash "wikilink") and [Trip](Trip "wikilink"), two skills that
+[Warriors](:Category:Warriors.md "wikilink") and
+[Archers](:Category:Archers.md "wikilink") are the basic physical
+hitters. Warriors have access to the most attacks of any class, as well
+as [Bash](Bash "wikilink") and [Trip](Trip "wikilink"), two skills that
 make enemies more vulnerable. Archers simply do a whole lot of damage in
 a single hit... and that's about it. Their only caveat is that they
 can't be in direct combat (tanking) in order to do the most damage.
-[Rogues](:Category:Rogues "wikilink") can be hitters, but they don't
+[Rogues](:Category:Rogues.md "wikilink") can be hitters, but they don't
 perform very well in that role until much higher levels (you will be a
 Hero by then), so a starting character shouldn't chose them *just* for
 hitting.
 
-On the magic side, [Mages](:Category:Mages "wikilink") and
-[Psionicists](:Category:Psionicists "wikilink") both deal damage throgh
-spells, limited by their mana. Mages learn damage spells, as well as a
-handy skill called [Surge](Surge "wikilink") that boosts your spell
+On the magic side, [Mages](:Category:Mages.md "wikilink") and
+[Psionicists](:Category:Psionicists.md "wikilink") both deal damage
+throgh spells, limited by their mana. Mages learn damage spells, as well
+as a handy skill called [Surge](Surge "wikilink") that boosts your spell
 damage up to a factor of 5. (Be sure to use the SPELL command to check
 your spell costs before casting a surged spell!) Psions learn kinetic
 damage spells that can't be surged like Mages' spells can, but they
@@ -90,7 +91,7 @@ generally do more damage and cost less mana to cast.
 
 #### I want to heal!
 
-[Clerics](:Category:Clerics "wikilink") are the primary healers. They
+[Clerics](:Category:Clerics.md "wikilink") are the primary healers. They
 learn very potent healing spells, which are limited by mana.
 
 Also, all spellcasters learn [Arcane
@@ -105,11 +106,12 @@ abilities.)
 #### I want to just be really useful!
 
 All classes have some sort of utility they can bring to the table. In
-combat, [Warriors](:Category:Warriors "wikilink") and
-[Rogues](:Category:Rogues "wikilink") can [disarm](Disarm "wikilink")
-enemies, while [Mages](:Category:Mages "wikilink"),
-[Clerics](:Category:Clerics "wikilink"), and
-[Psions](:Category:Psionicists "wikilink") have a number of useful
+combat, [Warriors](:Category:Warriors.md "wikilink") and
+[Rogues](:Category:Rogues.md "wikilink") can
+[disarm](Disarm.md "wikilink") enemies, while
+[Mages](:Category:Mages.md "wikilink"),
+[Clerics](:Category:Clerics.md "wikilink"), and
+[Psions](:Category:Psionicists.md "wikilink") have a number of useful
 debuffs (at lower levels, [Blindness](Blindness "wikilink") is quite
 useful). Psions in particular have debuffs that no other class can
 replicate, including [Overconfidence](Overconfidence "wikilink") and
@@ -117,9 +119,9 @@ replicate, including [Overconfidence](Overconfidence "wikilink") and
 higher success rate).
 
 When just moving around, Mages and Clerics can open
-[portals](Portal "wikilink") that the entire group can use, while Rogues
-can [pick locks](Pick_Lock "wikilink") off of doors and Warriors can
-[bash them down](Bashdoor "wikilink") altogether.
+[portals](Portal.md "wikilink") that the entire group can use, while
+Rogues can [pick locks](Pick_Lock.md "wikilink") off of doors and
+Warriors can [bash them down](Bashdoor.md "wikilink") altogether.
 
 All manner of spellcasters can use scrolls and wands to cast spells they
 don't learn themselves, and of course they have their own unique set of
@@ -146,13 +148,13 @@ start finding some good gear! If you completed Mudschool, then you got a
 lot of very basic gear to start you out. Otherwise, you can find pretty
 much the same gear inside the Tree of Knowledge next to
 [Nom](Nom "wikilink"). There are a few helpfiles you might want to check
-out. **Help [Level Gear](:Category:Level_Gear "wikilink")** will show
+out. **Help [Level Gear](:Category:Level_Gear.md "wikilink")** will show
 you a list of nice stat boosting equipment you might want to track down,
-and **Help [Meadow](:Category:Meadow "wikilink")** will show you simple,
-ascii-based map of good areas to start killing things in, most of which
-will contain some of the aforementioned gear. This Wiki also has gear
-lists, including a **[Level 1-10 Gear
-List](:Category:Lowmort_1-10_Gear "wikilink")**.
+and **Help [Meadow](:Category:Meadow.md "wikilink")** will show you
+simple, ascii-based map of good areas to start killing things in, most
+of which will contain some of the aforementioned gear. This Wiki also
+has gear lists, including a **[Level 1-10 Gear
+List](:Category:Lowmort_1-10_Gear.md "wikilink")**.
 
 Keep in mind that you can wear items up to 3 levels higher than your
 current level, and use weapons (main and offhand) up to 5 levels higher
@@ -162,37 +164,38 @@ than your current level.
 
 [Nom](Nom "wikilink") will be your healer and default
 [Recall](Recall "wikilink") until level 4. This is a good place to buy
-candles (along with the nearby [Jim the Peddler](Jim "wikilink")) and
+candles (along with the nearby [Jim the Peddler](Jim.md "wikilink")) and
 other basic supplies. It is conveniently located in the center of the
 Meadow.
 
 [Sol](Sol "wikilink") will be your healer and default
 [Recall](Recall "wikilink") until level 14. He is located in the center
-of [Stonehall](:Category:Stonehall "wikilink"), near many other useful
-services, such as a bank, [Carl](Carl "wikilink") the trainer, an ent
-who will identify items for you for free until level 10, maps, and a
+of [Stonehall](:Category:Stonehall.md "wikilink"), near many other
+useful services, such as a bank, [Carl](Carl "wikilink") the trainer, an
+ent who will identify items for you for free until level 10, maps, and a
 safe place to rest. It is one of the first steps out into the wide world
 as you outgrow the Meadow.
 
 [Aelmon](Aelmon "wikilink") is the healer and default
 [Recall](Recall "wikilink") after level 14. Aelmon is located in the
-middle of the city of [Midgaard](:Category:Midgaard "wikilink"). The
+middle of the city of [Midgaard](:Category:Midgaard.md "wikilink"). The
 large city is central to the continent, and provides many services
 nearby, as well as faster access to many areas.
 
 At any of the three healers, you can type **list** to see any items they
 may have for sale, or **heal** for a list of their services. All three
-will cast healing spells, [cure poisons](Cure_Poison "wikilink") and
-[diseases](Cure_Disease "wikilink"), and [remove
-curses](Remove_Curse "wikilink") from you. For a price.
+will cast healing spells, [cure poisons](Cure_Poison.md "wikilink") and
+[diseases](Cure_Disease.md "wikilink"), and [remove
+curses](Remove_Curse.md "wikilink") from you. For a price.
 
 ## Sanctum
 
-[Sanctum](:Category:Sanctum "wikilink") is a very popular social hub of
-Avatar. In Sanctum, there is a [donation
-room](AVATAR's_Donation_Room_(Sanctum) "wikilink") to possibly find some
-gear, an [infirmary](AVATAR's_Sanctum_Infirmary_(Sanctum) "wikilink")
-which is a healing and recovery room, as well as the location of many
+[Sanctum](:Category:Sanctum.md "wikilink") is a very popular social hub
+of Avatar. In Sanctum, there is a [donation
+room](AVATAR's_Donation_Room_(Sanctum).md "wikilink") to possibly find
+some gear, an
+[infirmary](AVATAR's_Sanctum_Infirmary_(Sanctum).md "wikilink") which is
+a healing and recovery room, as well as the location of many
 [Spellbots](Spellbots "wikilink"). Many groups form in here and prepare
 themselves for battle. Gear gets sorted out, items traded, and many
 strange conversations happen in a safe place to sit idly and talk with
@@ -210,7 +213,7 @@ command. They will give you ideas on places to look for and tell you
 when you are in an area you don't need to be just yet. Don't forget to
 set your [Recall](Recall "wikilink") as you wander about!
 
-There is a tour guide in [Stonehall](:Category:Stonehall "wikilink")
+There is a tour guide in [Stonehall](:Category:Stonehall.md "wikilink")
 northwest of Sol that will take you around to many areas (levels 5-25)
 for a nominal fee. He gives tips on how to find the areas as he takes
 you there. This is an excellent tool for at least getting an idea of
@@ -227,9 +230,9 @@ this is not possible. In that case,
 [Speedwalking](Speedwalking "wikilink") and/or creating an
 [Alias](Alias "wikilink") are common do-it-yourself solutions to getting
 back all that precious gear you've collected. They work well for areas
-with [aggie mobs](Aggressive_Mobs "wikilink") and [cursed
-rooms](Cursed_Rooms "wikilink") that don't allow you to set your
-[recall](Recall "wikilink"). If you feel like you may need some extra
+with [aggie mobs](Aggressive_Mobs.md "wikilink") and [cursed
+rooms](Cursed_Rooms.md "wikilink") that don't allow you to set your
+[recall](Recall.md "wikilink"). If you feel like you may need some extra
 time to get back to where you just died, you can always try asking
 somebody to [embalm](embalm "wikilink") your corpse for you. If you've
 tried and just can't quite make it, or can't even find your resting
@@ -268,10 +271,10 @@ should be able to see the duration of spells cast on you. Without [Magic
 Lore](Magic_Lore "wikilink"), you will see a general message of how long
 your spells will last.
 
-Level 35: You can set the room [entrance](setmin "wikilink") and
-[exit](setmout "wikilink") messages
+Level 35: You can set the room [entrance](setmin.md "wikilink") and
+[exit](setmout.md "wikilink") messages
 
-Level 51: Welcome to [Hero](:Category:Hero "wikilink")!
+Level 51: Welcome to [Hero](:Category:Hero.md "wikilink")!
 
 ## Developing a character
 

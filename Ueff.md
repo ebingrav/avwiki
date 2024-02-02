@@ -4,28 +4,28 @@ citadel. Her narrow features and high brow suggest an intelligent and
 inquisitive mind lies beyond her pale grey eyes*
 
 **Keywords:** ueff, master, air  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Ueff, maistress of air is using:`  
-`   `<worn on body>`      `[` ``a`` ``master's`` ``robe`` ``of`` ``air`](Master's_Robe_Of_Air "wikilink")
+`   `<worn on body>`      `[` ``a`` ``master's`` ``robe`` ``of`` ``air`](Master's_Robe_Of_Air.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Ueff's chamber
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Ueff's chamber
 
-Walking route from [Vymm](Vymm "wikilink"): \[s\],e,\[n\].
+Walking route from [Vymm](Vymm.md "wikilink"): \[s\],e,\[n\].
 
 She is portable.
 

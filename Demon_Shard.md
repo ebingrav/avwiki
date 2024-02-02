@@ -1,20 +1,20 @@
 *A glowing demonic shard is all that remains of Typhus' invasion.*
 
 `Modifies mana by 25 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** Demon, shard.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 40 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [hum](Hum_Flag "wikilink"),
-[evil](Evil_Flag "wikilink"), [glow](Glow_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"), [glow](Glow_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").
 
 ## Comments
 
@@ -24,9 +24,9 @@ demon swarms appear).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Rise Of
-Typhus](:Category:_Rise_Of_Typhus "wikilink")
-([Map](Rise_Of_Typhus_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [ Rise Of
+Typhus](:Category:_Rise_Of_Typhus.md "wikilink")
+([Map](Rise_Of_Typhus_Map.md "wikilink")).  
 
 [Category: Lights](Category:_Lights "wikilink") [Category: Hero Hit
 Gear](Category:_Hero_Hit_Gear "wikilink") [Category: Light Hit

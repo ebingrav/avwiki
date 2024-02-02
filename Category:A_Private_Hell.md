@@ -1,5 +1,5 @@
 *The [Master Of This Hell](Master_Of_This_Hell "wikilink"), in the flip
-side of [Greed's Gallows](:Category:Greed's_Gallows "wikilink") is
+side of [Greed's Gallows](:Category:Greed's_Gallows.md "wikilink") is
 rumored to have a private realm - a devilish maze of heat and stone
 walls that sweat blood, which few have seen and fewer still have managed
 to leave.*
@@ -8,9 +8,9 @@ to leave.*
 
 **Builder:** Morda
 
-This [area](:Category:_Areas "wikilink") was part of an [area-building
-contest](Area-Building_Contests "wikilink") in 2018.  
-This [area](:Category:_Areas "wikilink") was added in 2019.  
+This [area](:Category:_Areas.md "wikilink") was part of an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2018.  
+This [area](:Category:_Areas.md "wikilink") was added in 2019.  
 This area was updated and moved to a permanent home in September of
 2023.  
 
@@ -18,7 +18,7 @@ This area was updated and moved to a permanent home in September of
 
 Walking route from [Aelmon](Aelmon "wikilink"): ?.
 
-[Portaling](Portal "wikilink") point(s) suggested: pod man.
+[Portaling](Portal.md "wikilink") point(s) suggested: pod man.
 
 Someone in the group needs to have [Arcane
 Knowledge](Arcane_Knowledge "wikilink") practiced so that they can
@@ -30,7 +30,7 @@ Initiate).
 
 ## Connections
 
--   [Greed's Gallows](:Category:Greed's_Gallows "wikilink")
+-   [Greed's Gallows](:Category:Greed's_Gallows.md "wikilink")
 
 ## Navigation
 

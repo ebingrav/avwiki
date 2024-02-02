@@ -13,19 +13,19 @@ these walls.''
 **Keywords:** Projection, Veyah.  
 **Scan Description:** Fading in and out of existence, this projection of
 Veyah stands before you  
-**[Level](Level "wikilink"):** 95.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 95.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** [Sanctuary](Sanctuary "wikilink"),
 [Sneak](Sneak "wikilink").  
 
 ## Gear
 
 `Projection Of Veyah L'Aturii is using:`  
-<worn on body>`      `[`glass`` ``platemail`](Glass_Platemail "wikilink")  
-<wielded>`           `[`the`` ``silver-blue`` ``dagger,`` ``"Ice"`](Silver-Blue_Dagger,_"Ice" "wikilink")  
+<worn on body>`      `[`glass`` ``platemail`](Glass_Platemail.md "wikilink")  
+<wielded>`           `[`the`` ``silver-blue`` ``dagger,`` ``"Ice"`](Silver-Blue_Dagger,_"Ice".md "wikilink")  
 `Nothing.`
 
 `Projection Of Veyah L'Aturii is carrying:`  
@@ -33,20 +33,20 @@ Veyah stands before you
 
 ## Comments
 
-When she dies, [a lock of hair](Lock_Of_Hair "wikilink") appears in the
-room on the ground. Be sure to pick it up.
+When she dies, [a lock of hair](Lock_Of_Hair.md "wikilink") appears in
+the room on the ground. Be sure to pick it up.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [The Hidden Room Of The
-Necropolis](The_Hidden_Room_Of_The_Necropolis_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [The Hidden Room Of The
+Necropolis](The_Hidden_Room_Of_The_Necropolis_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 She can only be reached by giving [the battle commands for Veyah's
-commander](Battle_Commands_For_Veyah's_Commander "wikilink") to the
+commander](Battle_Commands_For_Veyah's_Commander.md "wikilink") to the
 [General Commander For Veyah
 L'Aturii](General_Commander_For_Veyah_L'Aturii "wikilink").
 

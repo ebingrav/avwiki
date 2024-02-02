@@ -4,9 +4,9 @@ wizards. Here he has to feed on what poor souls get lured into his
 lair.*
 
 **Keywords:** snake, ajal.  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** apathetically.  
-**[Flags](:Category:_Mob_Types "wikilink"):** steadfast, very
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** apathetically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** steadfast, very
 aggressive.  
 **Affects:** detect hidden, infravision.  
 
@@ -22,9 +22,11 @@ aggressive.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Neraka](:Category:_Neraka "wikilink") ([Map](Neraka_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The lair of Ajal (portable).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Neraka](:Category:_Neraka.md "wikilink")
+([Map](Neraka_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The lair of Ajal
+(portable).  
 Ajal is portable.  
 
 [Category: Mobs In Neraka](Category:_Mobs_In_Neraka "wikilink")

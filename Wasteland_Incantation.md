@@ -6,12 +6,12 @@ of them.*
 
 **Keywords:** scroll wasteland incantation  
 **Levels:** 50-52  
-**[Type:](:Category:Object_Types "wikilink")**
-[Scroll](:Category:Scrolls "wikilink")  
+**[Type:](:Category:Object_Types.md "wikilink")**
+[Scroll](:Category:Scrolls.md "wikilink")  
 **Quality:** 2hp  
 **Weight:** 1lb  
-**[Flags:](:Category:Object_Flags "wikilink")**
-[Evil](Evil_Flag "wikilink")  
+**[Flags:](:Category:Object_Flags.md "wikilink")**
+[Evil](Evil_Flag.md "wikilink")  
 
 ## Comments
 
@@ -25,11 +25,11 @@ the south turret with a bunch of very tough mobs
 
 ## Directions
 
-**[Area:](:Category:Areas "wikilink")** [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink"))  
-**[Mob:](:Category:Mobs "wikilink")** [a hooded
-sorcerer](Hooded_Sorcerer "wikilink") (not portable)  
+**[Area:](:Category:Areas.md "wikilink")** [Daingean
+Machadae](:Category:Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink"))  
+**[Mob:](:Category:Mobs.md "wikilink")** [a hooded
+sorcerer](Hooded_Sorcerer.md "wikilink") (not portable)  
 
 [Category:Gear In Daingean
 Machadae](Category:Gear_In_Daingean_Machadae "wikilink")

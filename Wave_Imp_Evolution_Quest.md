@@ -1,5 +1,5 @@
-Go see [Tannah](Tannah_Machadae "wikilink") in the [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink") and be prepared to
+Go see [Tannah](Tannah_Machadae.md "wikilink") in the [Daingean
+Machadae](:Category:Daingean_Machadae.md "wikilink") and be prepared to
 fight. Bring friends as I doubt you can win alone. As soon as you enter
 and she notices a dti, she'll talk and then summon 2 Earth Elementals to
 help her fight you. Tannah doesn't aggie, so don't bother attacking her

@@ -2,8 +2,9 @@
 Modifies armor class by -25 continuous. Slot: About Body  
 Weight: 1  
 Flags: evil magic nolocate  
-Plane: [World Of Stone](:Category:World_Of_Stone "wikilink")  
-Area: [Mountain Of Madness](:Category:Mountain_Of_Madness "wikilink")  
+Plane: [World Of Stone](:Category:World_Of_Stone.md "wikilink")  
+Area: [Mountain Of
+Madness](:Category:Mountain_Of_Madness.md "wikilink")  
 Mob: [Mad Dwarf Alastar](Mad_Dwarf_Alastar "wikilink")  
 
 [Category:Lord Third Tier Tank

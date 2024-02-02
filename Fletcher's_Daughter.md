@@ -1,17 +1,17 @@
-*The daughter of the [Fletcher](Bow-Maker "wikilink") of
-[Midgaard](:Category:_Midgaard "wikilink"), this girl is selling some
-cheap and low quality [bows](:Category:_Bows "wikilink") here in
-[Stonehall](:Category:_Stonehall "wikilink") to earn extra money.*
+*The daughter of the [Fletcher](Bow-Maker.md "wikilink") of
+[Midgaard](:Category:_Midgaard.md "wikilink"), this girl is selling some
+cheap and low quality [bows](:Category:_Bows.md "wikilink") here in
+[Stonehall](:Category:_Stonehall.md "wikilink") to earn extra money.*
 
 **Keywords:** fletcher's, daughter, young, half-elven, girl.  
 **[Scan](Scan "wikilink") Description:** A young half-elven girl is here
 with a basketful of arrows.  
-**[Level](Level "wikilink"):** (?).  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** (?).  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -19,19 +19,19 @@ invis](Detect_Invis "wikilink").
 `Nothing.`
 
 `The fletcher's daughter is carrying:                                                 [Lv Price]`  
-`     `[`25`` ``standard`` ``arrows`](Standard_Arrows "wikilink")`                                                              [ 4    37]`  
-`     `[`25`` ``standard`` ``bolts`](Standard_Bolts "wikilink")`                                                               [ 4    37]`
+`     `[`25`` ``standard`` ``arrows`](Standard_Arrows.md "wikilink")`                                                              [ 4    37]`  
+`     `[`25`` ``standard`` ``bolts`](Standard_Bolts.md "wikilink")`                                                               [ 4    37]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Stonehall](:Category:_Stonehall "wikilink")
-([Map](Stonehall_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Stonehall (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Sol](Sol "wikilink"): n.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Stonehall](:Category:_Stonehall.md "wikilink")
+([Map](Stonehall_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Stonehall (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Sol](Sol.md "wikilink"): n.  
 The fletcher's daughter is portable.  
 
 [Category: Mobs In Stonehall](Category:_Mobs_In_Stonehall "wikilink")

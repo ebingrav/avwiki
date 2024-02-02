@@ -4,4 +4,4 @@ pretender". I also found "a wave mephit". Obviously the description of
 the merchant indicates a letter is somewhere. The only mobs I've not
 beaten so far are the 5 samurai so maybe one of them has it. Anyone more
 familiar with this area? Any hints? Thanks!
---[Ylem](User:Ylem "wikilink") 14:07, 19 November 2009 (UTC)
+--[Ylem](User:Ylem.md "wikilink") 14:07, 19 November 2009 (UTC)

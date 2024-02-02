@@ -30,30 +30,30 @@ northeastern skies, and many wonder what this new change signifies.*
 
 **Builder:** Izanagi
 
-This [area](:Category:_Areas "wikilink") was added in 2010 Nov.  
+This [area](:Category:_Areas.md "wikilink") was added in 2010 Nov.  
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 6s, u. Walking route from
-[Aelmon](Aelmon "wikilink"): 8e, 8s, e, 3u. (One of four connections,
-others are similar.)
+Walking route from [Sol](Sol.md "wikilink"): 3e, 6s, u. Walking route
+from [Aelmon](Aelmon.md "wikilink"): 8e, 8s, e, 3u. (One of four
+connections, others are similar.)
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Yazimetra](Yazimetra "wikilink").
 
 ## Connections
 
 This area connects to
-[Cathracharraig](:Category:Cathracharraig "wikilink"), [Gorn's
-Anchor](:Category:_Gorn's_Anchor "wikilink"),
-[Mervue](:Category:_Mervue "wikilink"),
-[Midgaard](:Category:_Midgaard "wikilink"), [Mt
-Durr](:Category:_Mt_Durr "wikilink"), [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink"), [Paradise
-Point](:Category:_Paradise_Point "wikilink"), [
-Solace](:Category:_Town_Of_Solace "wikilink"),
-[Tiureess](:Category:_Tiureess "wikilink") and the
-[Wildwood](:Category:_Wildwood "wikilink").
+[Cathracharraig](:Category:Cathracharraig.md "wikilink"), [Gorn's
+Anchor](:Category:_Gorn's_Anchor.md "wikilink"),
+[Mervue](:Category:_Mervue.md "wikilink"),
+[Midgaard](:Category:_Midgaard.md "wikilink"), [Mt
+Durr](:Category:_Mt_Durr.md "wikilink"), [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink"), [Paradise
+Point](:Category:_Paradise_Point.md "wikilink"), [
+Solace](:Category:_Town_Of_Solace.md "wikilink"),
+[Tiureess](:Category:_Tiureess.md "wikilink") and the
+[Wildwood](:Category:_Wildwood.md "wikilink").
 
 ## Navigation
 

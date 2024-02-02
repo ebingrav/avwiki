@@ -16,11 +16,11 @@ mischievous glint to his eyes.
 Ganastrikos is in perfect health.
 
 **Keywords:** ganastrikos paladin  
-**[Level](Level "wikilink"):**  
-**[Alignment](Alignment "wikilink"):**  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
+**[Level](Level.md "wikilink"):**  
+**[Alignment](Alignment.md "wikilink"):**  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
 **Affects:**  
 
 ## Gear
@@ -37,12 +37,12 @@ Ganastrikos is carrying:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Hall of
-Paladins](:Category:_Hall_of_Paladins "wikilink")
-([Map](Hall_of_Paladins_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):**The foyer (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 8n 8w 1n  
+**[Area](:Category:_Areas.md "wikilink"):** [Hall of
+Paladins](:Category:_Hall_of_Paladins.md "wikilink")
+([Map](Hall_of_Paladins_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):**The foyer (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n 8w 1n  
 Ganastrikos is portable.  
 
 [Category: Mobs In Hall of

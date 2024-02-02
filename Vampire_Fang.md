@@ -1,17 +1,17 @@
-*While using this [stance](Stance "wikilink"), a
-[Shadowfist](:Category:_Shadowfists "wikilink") will steal
-[health](Hit_Points "wikilink") from his target on critical hits and
+*While using this [stance](Stance.md "wikilink"), a
+[Shadowfist](:Category:_Shadowfists.md "wikilink") will steal
+[health](Hit_Points.md "wikilink") from his target on critical hits and
 vital strikes.*
 
-Prerequisite(s): [Demonic Intent](Demonic_Intent "wikilink").
+Prerequisite(s): [Demonic Intent](Demonic_Intent.md "wikilink").
 
-Syntax: [stance](Stance "wikilink") vampire fang.
+Syntax: [stance](Stance.md "wikilink") vampire fang.
 
-See also [Spectral Fang](Spectral_Fang "wikilink").
+See also [Spectral Fang](Spectral_Fang.md "wikilink").
 
 This stance is incredibly useful, as it rewards a large amount of hp for
 use. Used in conjection with vital counter,
-[shadowfists](:Category:_Shadowfists "wikilink") become incredibly
+[shadowfists](:Category:_Shadowfists.md "wikilink") become incredibly
 longlasting tanks, at least at hero.
 
 Some have said it's better than [bloodlust](bloodlust "wikilink"), but

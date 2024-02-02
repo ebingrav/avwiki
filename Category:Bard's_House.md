@@ -1,4 +1,5 @@
-*This area is part of the [Houses](:Category:_Houses "wikilink") area.*
+*This area is part of the [Houses](:Category:_Houses.md "wikilink")
+area.*
 
 **Level Range:** 10-15
 
@@ -6,17 +7,18 @@
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 8n, 5e, 2n, 10e,
-2n, \[n\].
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 8n, 5e, 2n,
+10e, 2n, \[n\].
 
-Walking route from [Aelmon](Aelmon "wikilink"): 27n, \[n\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 27n, \[n\].
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Orlando](Orlando "wikilink") (note: [hidden](Hide_Flag "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Orlando](Orlando.md "wikilink") (note:
+[hidden](Hide_Flag.md "wikilink")).
 
 ## Connections
 
-This area connects to [Ofcol](:Category:_Ofcol "wikilink").
+This area connects to [Ofcol](:Category:_Ofcol.md "wikilink").
 
 ## Navigation
 

@@ -8,8 +8,9 @@ all the creatures of this island to punish them."
 with him now?*
 
 **Keywords:** captive  
-**[Level](Level "wikilink"):** 75  
-**[Flags](:Category:_Mob_Types "wikilink"):** Demonic, Sanctuary, Psi  
+**[Level](Level.md "wikilink"):** 75  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Demonic, Sanctuary,
+Psi  
 
 ## Gear
 

@@ -6,19 +6,19 @@ kill you.*
 
 **Keywords:** knight, ??, ??.  
 **Scan Description:**???  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [detect
-invis](Detect_Invis "wikilink"),
-[agressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [detect
+invis](Detect_Invis.md "wikilink"),
+[agressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** sanctuary, invis.  
 
 ## Gear
 
 `A Knight is using:`  
-<worn on fbody>`     `[`a`` ``silver`` ``breast`` ``plate`](Silver_Breast_Plate "wikilink")  
-<worn on head>`      `[`a`` ``silver`` ``celtic`` ``helm`](Silver_Celtic_Helm "wikilink")  
-<wielded>`           `[`a`` ``silver`` ``poinard`](Silver_Poinard "wikilink")
+<worn on fbody>`     `[`a`` ``silver`` ``breast`` ``plate`](Silver_Breast_Plate.md "wikilink")  
+<worn on head>`      `[`a`` ``silver`` ``celtic`` ``helm`](Silver_Celtic_Helm.md "wikilink")  
+<wielded>`           `[`a`` ``silver`` ``poinard`](Silver_Poinard.md "wikilink")
 
 `A Knight is carrying:`  
 `     Nothing.`
@@ -31,10 +31,10 @@ hidden. Start fight with area spell or go visible and let him attack.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Haunted
-Forest](:Category:_Haunted_Forest "wikilink")
-([Map](AreaName_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Cold Cave Tunnel  
+**[Area](:Category:_Areas.md "wikilink"):** [The Haunted
+Forest](:Category:_Haunted_Forest.md "wikilink")
+([Map](AreaName_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Cold Cave Tunnel  
 
 [Category: Mobs In Haunted
 Forest](Category:_Mobs_In_Haunted_Forest "wikilink")

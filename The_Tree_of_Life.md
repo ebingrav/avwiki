@@ -8,9 +8,9 @@
 `roots embrace the ground, causing audible vibrations to`  
 `ripple out from it beneath your feet.`
 
-**[Commune Bonus](Commune "wikilink"):** healing power +15%
+**[Commune Bonus](Commune.md "wikilink"):** healing power +15%
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Creation](Aspect_-_Creation "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Creation](Aspect_-_Creation.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

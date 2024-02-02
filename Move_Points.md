@@ -1,9 +1,9 @@
 ''Move points control how quickly and how far a player can move before
 being forced to stop and rest. When you run out, you can't move. Certain
-types of [terrain](:Category:_Terrains "wikilink"), such as
-[deserts](Desert_Terrain "wikilink"), are tougher to traverse and
-therefore [take](Movement_Costs "wikilink") more moves per room. A
-higher [constitution](Constitution "wikilink") will regenerate move
+types of [terrain](:Category:_Terrains.md "wikilink"), such as
+[deserts](Desert_Terrain.md "wikilink"), are tougher to traverse and
+therefore [take](Movement_Costs.md "wikilink") more moves per room. A
+higher [constitution](Constitution.md "wikilink") will regenerate move
 points more quickly.
 
 *Movement Points are also considered Action Points for Hero+ Levels. All
@@ -13,14 +13,14 @@ but they may be reinstated in the future. For now, enjoy your unfettered
 activity while it lasts!*
 
 *Movement gains are determined by
-[constitution](Constitution "wikilink"),
-[dexterity](Dexterity "wikilink"),
-[class](:Category:_Classes "wikilink"), and
-[race](:Category:_Races "wikilink").*
+[constitution](Constitution.md "wikilink"),
+[dexterity](Dexterity.md "wikilink"),
+[class](:Category:_Classes.md "wikilink"), and
+[race](:Category:_Races.md "wikilink").*
 
-[Characters](:Category:_Characters "wikilink") may
-[wear](Wear "wikilink") [gear to increase their move
-points](:Category:_Move-Point_Gear "wikilink").
+[Characters](:Category:_Characters.md "wikilink") may
+[wear](Wear.md "wikilink") [gear to increase their move
+points](:Category:_Move-Point_Gear.md "wikilink").
 
 [Category: Characters](Category:_Characters "wikilink") [Category:
 Points](Category:_Points "wikilink")

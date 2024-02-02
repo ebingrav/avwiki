@@ -2,12 +2,12 @@
 toward you.*
 
 **Keywords:** fungus.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [poisoned](Poison_(spell) "wikilink").  
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [poisoned](Poison_(spell).md "wikilink").  
 
 ## Gear
 
@@ -15,7 +15,7 @@ toward you.*
 `Nothing.`
 
 `A poisonous fungus is carrying:`  
-`     `[`grey`` ``Spores`](Grey_Spores "wikilink")
+`     `[`grey`` ``Spores`](Grey_Spores.md "wikilink")
 
 ## Comments
 
@@ -24,10 +24,10 @@ For some odd reason, the item the fungus has cannot be seen using
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Caverns of
-Despair](:Category:_Caverns_Of_Despair "wikilink")
-([Map](Caverns_Of_Despair_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Caverns of Sweet Despair
+**[Area](:Category:_Areas.md "wikilink"):** [Caverns of
+Despair](:Category:_Caverns_Of_Despair.md "wikilink")
+([Map](Caverns_Of_Despair_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Caverns of Sweet Despair
 (portable)
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n,

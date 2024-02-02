@@ -1,27 +1,28 @@
 *The exoskeleton of an insect is lying here.*
 
-`Level 22 spells of: '`[`body`` ``brace`](Body_Brace "wikilink")`'.`
+`Level 22 spells of: '`[`body`` ``brace`](Body_Brace.md "wikilink")`'.`
 
 **Keyword(s):** exoskeleton  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 7  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
-**[Area](:Category:_Areas "wikilink"):** [Cryptid
-Hollow](:Category:_Cryptid_Hollow "wikilink")
-([Map](Cryptid_Hollow_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [irksome
-insect](Irksome_Insect "wikilink") ([portable](Teleport "wikilink"))  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 7  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Cryptid
+Hollow](:Category:_Cryptid_Hollow.md "wikilink")
+([Map](Cryptid_Hollow_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [irksome
+insect](Irksome_Insect.md "wikilink")
+([portable](Teleport.md "wikilink"))  
 
 ## Comments
 
 Not all irksome insects have them - it seems only one at a time.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 ## Directions
 

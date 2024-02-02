@@ -9,9 +9,9 @@ human.*
 
 **Keywords:** fae, wanderer, laz.  
 **Scan Description:**A Fae wanderer from Arcadia is here.  
-**[Level](Level "wikilink"):** ?  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** passive, wandering  
+**[Level](Level.md "wikilink"):** ?  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** passive, wandering  
 **Affects:** ?  
 
 ## Gear
@@ -27,10 +27,10 @@ human gypsy.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Rietta's
-Wonders](:Category:_Rietta's_Wonders "wikilink")
-([Map](Rietta's_Wonders_Map "wikilink")).  
-A Fae Wanderer [wanders](Wandering_Mobs "wikilink") around Rietta's
+**[Area](:Category:_Areas.md "wikilink"):** [Rietta's
+Wonders](:Category:_Rietta's_Wonders.md "wikilink")
+([Map](Rietta's_Wonders_Map.md "wikilink")).  
+A Fae Wanderer [wanders](Wandering_Mobs.md "wikilink") around Rietta's
 shop, which is 3E of Thorgate recall.
 
 [Category: Mobs In Rietta's

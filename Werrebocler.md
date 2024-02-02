@@ -19,9 +19,10 @@ double-strength [Sanctuary](Sanctuary "wikilink").
 This affect available to those with an upgraded [Watermark
 Tattoo](Watermark_Tattoo "wikilink").
 
-It is also available to a [Berserker](:Category:_Berserkers "wikilink")
-with the rite [Mutilation](Mutilation "wikilink"). It is only given
-randomly from a scar event, and that not very often.
+It is also available to a
+[Berserker](:Category:_Berserkers.md "wikilink") with the rite
+[Mutilation](Mutilation "wikilink"). It is only given randomly from a
+scar event, and that not very often.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Berserker

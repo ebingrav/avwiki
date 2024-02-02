@@ -1,9 +1,9 @@
 If you fail to retrieve your corpse in time, it will be magically
 transported to the morgue for safe keeping. After the waiting period is
-up, you can pay a fee (HELP [MORGUE COSTS](Morgue_Costs "wikilink")) to
-retrieve your lost items. Note that [draconian](Draconians "wikilink")
-corpses cannot be preserved in the morgue. Instead, they rot and spill
-onto the ground.
+up, you can pay a fee (HELP [MORGUE COSTS](Morgue_Costs.md "wikilink"))
+to retrieve your lost items. Note that
+[draconian](Draconians.md "wikilink") corpses cannot be preserved in the
+morgue. Instead, they rot and spill onto the ground.
 
 Corpses are only stored in the morgue if they are "non-empty". Certain
 low-value items (gold, balls of light) will not cause a corpse to be
@@ -11,7 +11,7 @@ considered "non-empty".
 
 Besides corpses, the ONLY items that are preserved in the morgue are
 INSURED containers and items. Please see HELP
-[INSURE](Insure "wikilink") for more information about insurance.
+[INSURE](Insure.md "wikilink") for more information about insurance.
 
 Insured items are stored in the morgue following such events:
 
@@ -35,8 +35,8 @@ morgue. This potentially includes insured objects owned by another
 character!
 
 Otherwise, insured items are associated with their OWNER in the morgue.
-If you have [ALTOF](Altof "wikilink") set up, this may be different than
-the character who was using the gear when it was destroyed!
+If you have [ALTOF](Altof.md "wikilink") set up, this may be different
+than the character who was using the gear when it was destroyed!
 
 Insurance is cancelled when an object is destroyed. This prevents you
 from bypassing the morgue to get your objects back. When you redeem your

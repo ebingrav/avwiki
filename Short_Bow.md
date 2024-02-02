@@ -1,25 +1,25 @@
 *A short bow made from a young sapling is here.*
 
-[`Damage`](Missile_Weapon_Values "wikilink")` is 8 to 18 (average 13).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`
+[`Damage`](Missile_Weapon_Values.md "wikilink")` is 8 to 18 (average 13).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** short bow.  
-**[Level(s)](Object_Level "wikilink"):** 9.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Missile_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 25 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 9.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Missile_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 25 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morgan
-Vale](:Category:_Morgan_Vale "wikilink")
-([Map](Morgan_Vale_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Elven
+**[Area](:Category:_Areas.md "wikilink"):** [Morgan
+Vale](:Category:_Morgan_Vale.md "wikilink")
+([Map](Morgan_Vale_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Elven
 Archer](Elven_Archer "wikilink").  
 
 [Category: Gear In Morgan

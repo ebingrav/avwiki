@@ -1,17 +1,17 @@
 *A belt, made of linked crystals, is sparkling here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 2-3`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 15 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 2-3`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** red bracer  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on waist>  
-**[Level(s)](Object_Level "wikilink"):** 10-13  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on waist>  
+**[Level(s)](Object_Level.md "wikilink"):** 10-13  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
@@ -24,9 +24,9 @@ chest, open chest, take all chest.
 
 The yellow key opens the chest.
 
-**[Area](:Category:_Areas "wikilink"):** [Crystalmir
-Lake](:Category:_Crystalmir_Lake "wikilink")
-([Map](Crystalmir_Lake_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Crystalmir
+Lake](:Category:_Crystalmir_Lake.md "wikilink")
+([Map](Crystalmir_Lake_Map.md "wikilink"))  
 
 [Category: Gear In Crystalmir
 Lake](Category:_Gear_In_Crystalmir_Lake "wikilink") [Category:

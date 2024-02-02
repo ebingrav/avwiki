@@ -1,21 +1,21 @@
 *A mushroom shaped amulet lies on the ground.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 12.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 50 continuous`  
-`Modifies `[`constitution`](Constitution "wikilink")` by 2 continuous`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 2 continuous`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 12.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 50 continuous`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 2 continuous`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 2 continuous`
 
 **Keyword(s):** amulet, mushroom.  
-**[Level(s)](Object_Level "wikilink"):** 54.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 54.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -24,10 +24,10 @@ more information.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Heartwood](:Category:_Heartwood "wikilink")
-([Map](Heartwood_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[Heartwood](:Category:_Heartwood.md "wikilink")
+([Map](Heartwood_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Redleaf](Redleaf "wikilink").  
 
 [Category: Gear In Heartwood](Category:_Gear_In_Heartwood "wikilink")

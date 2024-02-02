@@ -9,9 +9,9 @@
 ## Comments
 
 There are multiple wild darken beasts found in [the flowing
-landscape](The_flowing_landscape "wikilink"). The one that shows as **A
-darkenbeast feeds on a burnt corpse.** in the room is the one that, when
-killed, k-spawns the [Denizen Of The
+landscape](The_flowing_landscape.md "wikilink"). The one that shows as
+**A darkenbeast feeds on a burnt corpse.** in the room is the one that,
+when killed, k-spawns the [Denizen Of The
 Wasteland](Denizen_Of_The_Wasteland "wikilink"). You can skin the
 [Denizen Of The Wasteland](Denizen_Of_The_Wasteland "wikilink") corpse
 to obtain the [Sandblasted Emerald](Sandblasted_Emerald "wikilink").

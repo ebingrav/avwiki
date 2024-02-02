@@ -4,10 +4,10 @@ a shape being outlined. You want to see what it could be but who knows
 what might happen to your mind if you actually figure out what it is.*
 
 **Keywords:** painting, Death.  
-**[Level](Level "wikilink"):** 9.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 9.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -22,12 +22,12 @@ what might happen to your mind if you actually figure out what it is.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Fizzdop's
-Lair](:Category:_Fizzdop's_Lair "wikilink")
-([Map](Fizzdop's_Lair_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Cavern (portable).  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, w, s, \[s\],
-2s, d, e, 4s.  
+**[Area](:Category:_Areas.md "wikilink"):** [Fizzdop's
+Lair](:Category:_Fizzdop's_Lair.md "wikilink")
+([Map](Fizzdop's_Lair_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Cavern (portable).  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, w, s,
+\[s\], 2s, d, e, 4s.  
 The painting of Death is portable.  
 
 [Category: Mobs In Fizzdop's

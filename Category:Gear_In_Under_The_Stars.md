@@ -1,16 +1,16 @@
-## Getting to [Under The Stars](:Category:Under_The_Stars "wikilink")
+## Getting to [Under The Stars](:Category:Under_The_Stars.md "wikilink")
 
 If the [Planar Anchor](Planar_Anchor "wikilink") isn't already set, you
 have to experience the joy that is
-[Noctopia](:Category:Noctopia "wikilink") shift. Get a ton of brutes,
+[Noctopia](:Category:Noctopia.md "wikilink") shift. Get a ton of brutes,
 have them all shift together, and hope that everyone doesn't splat.
 If/when you clear shift and finish CRing your groupies, go s,d,w. From
 here you need to bashdoor down to enter [Under The
-Stars](:Category:Under_The_Stars "wikilink"). Note that once you enter
-[Under The Stars](:Category:Under_The_Stars "wikilink") there won't be
-any regennable rooms for a while. Also note that the first room of
-[Under The Stars](:Category:Under_The_Stars "wikilink") is where you can
-summon the [Planar Anchor](Planar_Anchor "wikilink").
+Stars](:Category:Under_The_Stars.md "wikilink"). Note that once you
+enter [Under The Stars](:Category:Under_The_Stars.md "wikilink") there
+won't be any regennable rooms for a while. Also note that the first room
+of [Under The Stars](:Category:Under_The_Stars.md "wikilink") is where
+you can summon the [Planar Anchor](Planar_Anchor "wikilink").
 
 ## [Yorimandil The Blind](Yorimandil_The_Blind "wikilink")
 
@@ -19,16 +19,16 @@ portal to pet. This will put you in the "Iron Walkways" portion of the
 area, which is [Homeshiftable](Homeshift "wikilink") and regenable.
 [Yorimandil The Blind](Yorimandil_The_Blind "wikilink") can be found in
 a gazebo in the northeast portion of the walkways. Note that
-[Yorimandil](Yorimandil_The_Blind "wikilink") can't always be found in
-this area; it seems like he likes to split his time between here and
-[Obsidian Arena; Floor](:Category:Obsidian_Arena;_Floor "wikilink"). If
-[Yorimandil](Yorimandil_The_Blind "wikilink") is home you should be able
-to where/track him.
+[Yorimandil](Yorimandil_The_Blind.md "wikilink") can't always be found
+in this area; it seems like he likes to split his time between here and
+[Obsidian Arena; Floor](:Category:Obsidian_Arena;_Floor.md "wikilink").
+If [Yorimandil](Yorimandil_The_Blind.md "wikilink") is home you should
+be able to where/track him.
 
-## [Ether Link Spellbook](Rediscovering_Ether,_Book_1_In_A_3_Part_Series "wikilink")
+## [Ether Link Spellbook](Rediscovering_Ether,_Book_1_In_A_3_Part_Series.md "wikilink")
 
 Another piece of gear that can be found [Under The
-Stars](:Category:Under_The_Stars "wikilink") is [Rediscovering Ether,
+Stars](:Category:Under_The_Stars.md "wikilink") is [Rediscovering Ether,
 Book 1 In A 3 Part
 Series](Rediscovering_Ether,_Book_1_In_A_3_Part_Series "wikilink"). To
 get this item you need kill all the [Bloodmaw

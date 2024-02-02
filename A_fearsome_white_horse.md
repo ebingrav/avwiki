@@ -3,11 +3,11 @@ cancerous sores and lesions oozing through its coat it seems remarkably
 virile.'
 
 **Keywords:** white horse.  
-**[Level](Level "wikilink"):** 110  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 110  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink").  
 
 `A fearsome white horse is using:`  
 ` `<worn on body>`      `[`the`` ``white`` ``barding,`` ``"Miasma"`](the_white_barding,_"Miasma" "wikilink")
@@ -19,8 +19,8 @@ This horse is found in the same room as
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Apocalypse](:Category:_Apocalypse "wikilink")
-([Map](Apocalypse_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Apocalypse](:Category:_Apocalypse.md "wikilink")
+([Map](Apocalypse_Map.md "wikilink")).  
 
 [Category: Mobs In Apocalypse](Category:_Mobs_In_Apocalypse "wikilink")

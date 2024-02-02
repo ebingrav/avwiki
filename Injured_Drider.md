@@ -9,11 +9,11 @@ posed the greater threat to her survival down the road.*
 **Keywords:** Drider.  
 **Scan Description:** Injured but determined, this drider won't let
 anything get in her way.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -28,12 +28,12 @@ anything get in her way.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Within An Ice
-Sculpture](Within_An_Ice_Sculpture_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Within An Ice
+Sculpture](Within_An_Ice_Sculpture_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n w 7s
 6w 2d.

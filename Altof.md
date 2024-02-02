@@ -17,7 +17,7 @@ make the insured alt's gear useable by your other characters.
 Please contact an available Host Senior or higher to obtain this
 service.
 
-See also: [INSURE](Insure "wikilink"),
-[INSURANCE](Insurance "wikilink").
+See also: [INSURE](Insure.md "wikilink"),
+[INSURANCE](Insurance.md "wikilink").
 
 [Category:Commands](Category:Commands "wikilink")

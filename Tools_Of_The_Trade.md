@@ -1,18 +1,18 @@
 *This leather pouch hides a set of lockpicks.*
 
-`It is a very good `[`quality`](Rogue_Tool_Values "wikilink")` `[`rogue`` ``tool`](:Category:_Rogue_Tools "wikilink")`.`  
-`It is useful for `[`picking`` ``locks`` ``on`` ``doors`](:Category:_Door_Picks "wikilink")`.`  
-`It is useful for `[`picking`` ``locks`` ``on`` ``chests`](:Category:_Chest_Picks "wikilink")`.`  
-`This has roughly 23 `[`uses`` ``remaining`](Rogue_Tool_Values "wikilink")`.`
+`It is a very good `[`quality`](Rogue_Tool_Values.md "wikilink")` `[`rogue`` ``tool`](:Category:_Rogue_Tools.md "wikilink")`.`  
+`It is useful for `[`picking`` ``locks`` ``on`` ``doors`](:Category:_Door_Picks.md "wikilink")`.`  
+`It is useful for `[`picking`` ``locks`` ``on`` ``chests`](:Category:_Chest_Picks.md "wikilink")`.`  
+`This has roughly 23 `[`uses`` ``remaining`](Rogue_Tool_Values.md "wikilink")`.`
 
 **Keyword(s):** leather, pouch, lockpicks, picks, tools.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):** [rogue
-tool](:Category:_Rogue_Tools "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Quality](Object_Quality "wikilink"):** 24 hps.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** *none*.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [rogue
+tool](:Category:_Rogue_Tools.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Quality](Object_Quality.md "wikilink"):** 24 hps.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** *none*.  
 
 ## Comments
 
@@ -33,10 +33,10 @@ think depending on your class.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Pariah's
-Paradise](:Category:_Pariah's_Paradise "wikilink")
-([Map](Pariah's_Paradise_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Rogue
+**[Area](:Category:_Areas.md "wikilink"):** [Pariah's
+Paradise](:Category:_Pariah's_Paradise.md "wikilink")
+([Map](Pariah's_Paradise_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Rogue
 Weaponsmith](Rogue_Weaponsmith "wikilink").  
 See [Rogue Weaponsmith](Rogue_Weaponsmith "wikilink") for more
 information.

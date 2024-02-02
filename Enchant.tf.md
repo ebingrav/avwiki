@@ -96,7 +96,7 @@ in your config file, pointing at the directory with tf scripts like
             /verbose -o%{verbosity_enchant} -l2 - -aBCred %%% Can't find your item, %{enchant_keyword}!  Bailing out.%;\
             /enchant_exit no_item
 
-    /def -i -E(auto_enchant) -p699 -F -mregexp -t"^You do not have enough mana to cast enchant (weapon|bow|armor).$" enchant_no_mana = \
+    /def -i -E(auto_enchant) -p699 -F -mregexp -t"^You do not have enough mana to cast enchant (weapon.md|bow|armor).$" enchant_no_mana = \
             /verbose -o%{verbosity_enchant} -l1 - -aCcyan %%% /%0: Yikes!  Out of mana.  Calling regen script and returning.%;\
             /regen -x/enchant_do
 

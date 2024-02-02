@@ -1,5 +1,5 @@
 Skinning results in [a scorpion's
-sting](Scorpion_Sting_(Poison) "wikilink").
+sting](Scorpion_Sting_(Poison).md "wikilink").
 
 It can bite with doom toxin.
 

@@ -8,17 +8,17 @@ break the monotony, anyway.*
 **Keywords:** Executioner.  
 **Scan Description:** Swinging his axe for practice, this executioner
 yearns to spill blood.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `Veyah's Personal Executioner is using:`  
-<wielded>`           `[`a`` ``two-handed`` ``bloodied`` ``axe`](Two-Handed_Bloodied_Axe "wikilink")
+<wielded>`           `[`a`` ``two-handed`` ``bloodied`` ``axe`](Two-Handed_Bloodied_Axe.md "wikilink")
 
 `Veyah's Personal Executioner is carrying:`  
 `     Nothing.`
@@ -27,12 +27,12 @@ yearns to spill blood.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Corridor Encased In
-Frost](Corridor_Encased_In_Frost_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Corridor Encased In
+Frost](Corridor_Encased_In_Frost_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 2d 2n w.

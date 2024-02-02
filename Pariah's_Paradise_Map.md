@@ -1,7 +1,7 @@
 <figure>
-<img src="pariahsparadisemap.jpg" title="pariahsparadisemap.jpg"
-width="800" alt="pariahsparadisemap.jpg" />
-<figcaption aria-hidden="true">pariahsparadisemap.jpg</figcaption>
+<img src="pariahsparadisemap.jpg.md" title="pariahsparadisemap.jpg.md"
+width="800" alt="pariahsparadisemap.jpg.md" />
+<figcaption aria-hidden="true">pariahsparadisemap.jpg.md</figcaption>
 </figure>
 
 [Midgaard Map](Midgaard_Map "wikilink")

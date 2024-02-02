@@ -1,15 +1,15 @@
 A fat hairy spider is here.
 
 **Keywords:** hairy, tarantula, spider.  
-**[Level](Level "wikilink"):** 58.  
-**[Alignment](Alignment "wikilink"):** ?.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Very Aggressive, ??  
+**[Level](Level.md "wikilink"):** 58.  
+**[Alignment](Alignment.md "wikilink"):** ?.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Very Aggressive, ??  
 **Affects:** [Sneak](Sneak "wikilink"), ?.  
 
 ## Gear
 
 `A Hairy Tarantula is carrying:`  
-`    `[`A`` ``venom`` ``gland`](Tarantula's_Venom_Gland "wikilink")  
+`    `[`A`` ``venom`` ``gland`](Tarantula's_Venom_Gland.md "wikilink")  
 `     `
 
 ## Comments
@@ -23,7 +23,7 @@ easterly rooms (Dark Forest).
 
 ## Directions
 
-East from [island guard](Island_Guardsman "wikilink").
+East from [island guard](Island_Guardsman.md "wikilink").
 
 Mob wanders in the cursed area to the north east.
 

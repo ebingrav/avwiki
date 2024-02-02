@@ -8,23 +8,23 @@ arrow. Upon the blade is engraved a poem:*
    *Vengeance is his who casts the blade*  
    *Yet he will in the end no triumph see.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 14 to 49 (average 31).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 7 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 9 continuous.`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 14 to 49 (average 31).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 7 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 9 continuous.`  
 `Modifies moves by 20 continuous.`  
 `Modifies hp by 15 continuous.`
 
 **Keyword(s):** sword, farslayer.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nodrop](NoDrop_Flag "wikilink"), [noremove](NoRemove_Flag "wikilink"),
-[hum](Hum_Flag "wikilink"), [invis](Invis_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink"),
+[invis](Invis_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -41,9 +41,9 @@ Wall with the sword didn't repop until I killed the two with the skulls.
 
 Walls also cast gear damaging spells.
 
-**[Area](:Category:_Areas "wikilink"):** [Descent to
-Hell](:Category:_Descent_To_Hell "wikilink")
-([Map](Descent_To_Hell_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Descent to
+Hell](:Category:_Descent_To_Hell.md "wikilink")
+([Map](Descent_To_Hell_Map.md "wikilink")).  
 
 [Category: Gear In Descent To
 Hell](Category:_Gear_In_Descent_To_Hell "wikilink") [Category:

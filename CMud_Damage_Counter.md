@@ -1,7 +1,7 @@
 Save the following code as an .xml and import it into CMud: See below
 for an explanation of how it works. It's messy. I'm not an incredible
 coder, so if anyone sees any room for improvement, please let me know on
-my [discussion](User_talk:Shalineth "wikilink") page.
+my [discussion](User_talk:Shalineth.md "wikilink") page.
 
 Updated for CMud v3.32. Thanks to Cesroc for pointing out the
 correction.
@@ -155,7 +155,7 @@ correction.
           <value>#if (@dcCurChar = @DCreportfor) {DCrep1} {
     #if (%db(@{@DCReportfor}, terminal)="") {#addkey @DCreportfor terminal 0} {}
     #var avgdamage %eval((%db(@{@DCReportfor}, dealt))/(%db(@{@DCReportfor}, attacks)))
-    $msg1 = "Damage done by "%proper(@DCReportfor)": |r|" %db(@{@DCReportfor}, attacks) "|n| attacks for an average of |br|" %format("&amp;2.0n",@avgdamage) "|n| hps or " 
+    $msg1 = "Damage done by "%proper(@DCReportfor)":.md|r|" %db(@{@DCReportfor}, attacks) "|n| attacks for an average of |br|" %format("&amp;2.0n",@avgdamage) "|n| hps or " 
     #if (%ismember(@avgdamage,@dvalues)) {} {#until (%ismember(@avgdamage,@dvalues)) {#var avgdamage %eval(@avgdamage+1)}} 
     $msg2 = "|br|"%item(@fulldverbs,%ismember(@avgdamage,@dvalues)) "|n| damage, "
     $msg3 = "with |bb|" %db(@{@DCReportfor}, terminal) "|n| terminal hits. " 

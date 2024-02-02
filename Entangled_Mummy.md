@@ -9,17 +9,17 @@ coffin!*
 **Keywords:** entangled, mummy, corpse  
 **Level:** 24  
 **[Alignment](Alignment "wikilink"):** evil  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink")  
 
 ### Gear
 
 `An entangled mummy is using:`  
-<worn on head>`      `[`the`` ``mummy`` ``king's`` ``crown`](Mummy_King's_Crown "wikilink")
+<worn on head>`      `[`the`` ``mummy`` ``king's`` ``crown`](Mummy_King's_Crown.md "wikilink")
 
 `You peek at the inventory:`  
-`    `[`the`` ``Mummy`` ``King's`` ``sceptre`](Mummy_King's_Sceptre "wikilink")
+`    `[`the`` ``Mummy`` ``King's`` ``sceptre`](Mummy_King's_Sceptre.md "wikilink")
 
 ### Comments
 
@@ -28,10 +28,10 @@ Quest](Walking_Woods_Plague_Quest "wikilink").
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [The Walking
-Woods](:Category:Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** At the heart of the great
+**[Area](:Category:Areas.md "wikilink"):** [The Walking
+Woods](:Category:Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** At the heart of the great
 tree.  
 **Walking route from [Terrified Goblin](Terrified_Goblin "wikilink"):**
 2n, w, n, e, n, d

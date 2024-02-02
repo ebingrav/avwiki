@@ -10,35 +10,36 @@ disease-ridden beast, and moves to you in hopes of devouring your life
 source and thriving off of your decaying corpse!*
 
 **Keywords:** otyugh.  
-**[Level](Level "wikilink"):** 26.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[poisonous](Biting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [hide](Hide "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 26.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[poisonous](Biting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [hide](Hide.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `An otyugh is using:`  
-<held in offhand>`   `[`the`` ``carcass`` ``of`` ``the`` ``Otyugh`](Carcass_Of_The_Otyugh "wikilink")
+<held in offhand>`   `[`the`` ``carcass`` ``of`` ``the`` ``Otyugh`](Carcass_Of_The_Otyugh.md "wikilink")
 
 `An otyugh is carrying:`  
-`     `[`a`` ``worn`` ``metallic`` ``bracer`](Worn_Metallic_Bracer "wikilink")
+`     `[`a`` ``worn`` ``metallic`` ``bracer`](Worn_Metallic_Bracer.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Enchantment of the
-Shades](:Category:_Enchantment_Of_The_Shades "wikilink")
-([Map](Enchantment_Of_The_Shades_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A blocked passage
+**[Area](:Category:_Areas.md "wikilink"):** [Enchantment of the
+Shades](:Category:_Enchantment_Of_The_Shades.md "wikilink")
+([Map](Enchantment_Of_The_Shades_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A blocked passage
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, 2e, n, e, n, e, s, \[s\], 4s, 2w, s, w.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, 2e, n, e, n, e, s, \[s\], 4s, 2w, s,
+w.  
 An otyugh is portable.  
 
 [Category: Mobs In Enchantment Of The

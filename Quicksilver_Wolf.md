@@ -15,12 +15,12 @@ at you with cold quicksilver eyes. (Daingean Machadae)
 halls. (Helikon Tower)
 
   
-**[Level](Level "wikilink"):** 79 (Daingean Machadae), 80+ (Helikon
+**[Level](Level.md "wikilink"):** 79 (Daingean Machadae), 80+ (Helikon
 Tower).  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"), [Eats
-Corpses](Corpse-Eating_Mobs "wikilink")  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"), [Eats
+Corpses](Corpse-Eating_Mobs.md "wikilink")  
 **Affects:** [Sneak](Sneak "wikilink"), [Move
 Hidden](Move_Hidden "wikilink"), [Detect
 Hidden](Detect_Hidden "wikilink").  
@@ -28,28 +28,28 @@ Hidden](Detect_Hidden "wikilink").
 ## Comments
 
 There are a few different versions of this creature - most notably one
-in [Daingean Machadae](:Category:_Daingean_Machadae "wikilink") and some
-others in [Helikon Tower](:Category:_Helikon_Tower "wikilink"). While of
-slightly different levels, they are ALL corpse eaters, and all roam if
-given the chance. Only the one in Daingean Machadae sneaks or hides.
-Otherwise, they are identical.
+in [Daingean Machadae](:Category:_Daingean_Machadae.md "wikilink") and
+some others in [Helikon Tower](:Category:_Helikon_Tower.md "wikilink").
+While of slightly different levels, they are ALL corpse eaters, and all
+roam if given the chance. Only the one in Daingean Machadae sneaks or
+hides. Otherwise, they are identical.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Clay Statuary
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Daingean
+Machadae](:Category:Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Clay Statuary
+([Cursed](Cursed_Rooms.md "wikilink")).  
 Quicksilver wolf is in a room with closed doors, but will wander out if
 either are opened. He is also a corpse eater.
 
 **ALSO:**
 
-**[Area](:Category:_Areas "wikilink"):** [Helikon
-Tower](:Category:Helikon_Tower "wikilink")
-([Map](Helikon_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** various  
+**[Area](:Category:_Areas.md "wikilink"):** [Helikon
+Tower](:Category:Helikon_Tower.md "wikilink")
+([Map](Helikon_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** various  
 
 [Category:Mobs In Daingean
 Machadae](Category:Mobs_In_Daingean_Machadae "wikilink") [Category:Mobs

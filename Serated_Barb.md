@@ -2,8 +2,8 @@
 Type: ticket  
 Weight: 1  
 Flags: nolocate  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
-Area: [Under The Stars](:Category:Under_The_Stars "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
+Area: [Under The Stars](:Category:Under_The_Stars.md "wikilink")  
 Mob: [Bloodmaw Tentacle](Bloodmaw_Tentacle "wikilink")  
 If you give this item to [Rietta](Rietta "wikilink"), she tells you the
 following (and gives it back):
@@ -16,8 +16,8 @@ to lop off enough tentacles to get its attention."'
 
 *She hands the barb back to you, "Not that I'd reccomend that, of
 course. If you get yourself devoured don't go moping around the
-after-life saying [Lady Rietta](Rietta "wikilink") told you to attack a
-[Bloodmaw](Bloodmaw "wikilink")."*
+after-life saying [Lady Rietta](Rietta.md "wikilink") told you to attack
+a [Bloodmaw](Bloodmaw "wikilink")."*
 
 [Category:Lord Utility Gear](Category:Lord_Utility_Gear "wikilink")
 [Category:Gear In Under The

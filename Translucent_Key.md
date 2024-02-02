@@ -1,26 +1,26 @@
 *A translucent key is barely visible.*
 
 **Keyword(s):** key translucent.  
-**[Level(s)](Object_Level "wikilink"):** 46.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[key](:Category:_Keys "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 5 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 46.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[key](:Category:_Keys.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 5 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [key](:Category:_Keys "wikilink") unlocks one of the doors to the
-[Changeling](Changeling "wikilink") holding the [Orb Of Amorphous
+This [key](:Category:_Keys.md "wikilink") unlocks one of the doors to
+the [Changeling](Changeling "wikilink") holding the [Orb Of Amorphous
 Essence](Orb_Of_Amorphous_Essence "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Trials](:Category:_Drow_Trials "wikilink")
-([Map](Drow_Trials_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Ghostly
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Trials](:Category:_Drow_Trials.md "wikilink")
+([Map](Drow_Trials_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Ghostly
 Giant](Ghostly_Giant "wikilink").  
 See [Ghostly Giant](Ghostly_Giant "wikilink") for more information.  
 

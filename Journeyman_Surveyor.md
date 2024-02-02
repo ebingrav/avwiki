@@ -5,14 +5,14 @@ environment.*
 ## Gear
 
 `Journeyman Surveyor is using:`  
-<worn on arms>`      `[`journeyman's`` ``Knot`](Journeyman's_Knot "wikilink")
+<worn on arms>`      `[`journeyman's`` ``Knot`](Journeyman's_Knot.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**Area:** [Ruins of Keresh](:Category:Ruins_Of_Keresh "wikilink")
-([Map](Ruins_Of_Keresh_Map "wikilink"))  
+**Area:** [Ruins of Keresh](:Category:Ruins_Of_Keresh.md "wikilink")
+([Map](Ruins_Of_Keresh_Map.md "wikilink"))  
 **Room:** Mob moves.  
 **Walking from [Aelmon](Aelmon "wikilink"):** 16s,w. Track Journeyman.
 

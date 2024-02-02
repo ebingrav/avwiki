@@ -3,22 +3,23 @@ stops writhing, searching for souls to consume.*
 
 `Modifies damage roll by 4 continuous`  
 `Modifies mana by 40 continuous`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`
 
 **Keyword(s):** mnephrikos, embrace, carapace, tendrils.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):**
 
 <body>
 
 .  
-**[Quality](Object_Quality "wikilink"):** 200/200 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink"),
-[anti-enutral](Anti-Neutral_Flag "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 200/200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[anti-enutral](Anti-Neutral_Flag.md "wikilink").  
 
 ## Comments
 

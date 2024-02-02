@@ -1,11 +1,11 @@
-From [huge troll](Huge_Troll "wikilink"):
+From [huge troll](Huge_Troll.md "wikilink"):
 
--   [Kill](Kill "wikilink") [A huge troll](Huge_Troll "wikilink").
+-   [Kill](Kill.md "wikilink") [A huge troll](Huge_Troll.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a marked
-    bone](Marked_Bone_(1_of_2) "wikilink") from her corpse.
+-   [Get](Get.md "wikilink") [a marked
+    bone](Marked_Bone_(1_of_2).md "wikilink") from her corpse.
 
 <!-- -->
 
@@ -13,21 +13,21 @@ From [huge troll](Huge_Troll "wikilink"):
 
 <!-- -->
 
--   Find [Derin Stoneaxe](Derin_Stoneaxe "wikilink").
+-   Find [Derin Stoneaxe](Derin_Stoneaxe.md "wikilink").
 
 <!-- -->
 
--   [Give](Give "wikilink") [a marked
-    bone](Marked_Bone_(1_of_2) "wikilink") to [Derin
-    Stoneaxe](Derin_Stoneaxe "wikilink") and receive [a marked
-    bone](Marked_Bone_(2_of_2) "wikilink").
+-   [Give](Give.md "wikilink") [a marked
+    bone](Marked_Bone_(1_of_2).md "wikilink") to [Derin
+    Stoneaxe](Derin_Stoneaxe.md "wikilink") and receive [a marked
+    bone](Marked_Bone_(2_of_2).md "wikilink").
 
-From [Voinar](Clan_Chief_Voinar "wikilink"):
+From [Voinar](Clan_Chief_Voinar.md "wikilink"):
 
--   [Give](Give "wikilink") [a marked
-    bone](Marked_Bone_(2_of_2) "wikilink") to [Clan Chief
-    Voinar](Clan_Chief_Voinar "wikilink") and receive [a discoloured
-    cloak](Discoloured_Cloak "wikilink").
+-   [Give](Give.md "wikilink") [a marked
+    bone](Marked_Bone_(2_of_2).md "wikilink") to [Clan Chief
+    Voinar](Clan_Chief_Voinar.md "wikilink") and receive [a discoloured
+    cloak](Discoloured_Cloak.md "wikilink").
 
 [Category: Quests In Mt Durr](Category:_Quests_In_Mt_Durr "wikilink")
 [Category: Quests In Odevar

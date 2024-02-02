@@ -6,9 +6,9 @@ a new owner.*
 **`Weight`**`: 2`  
 **`Flags`**`: glow dark magic`  
 **`Keywords`**`: Protection, kings, black, arts`  
-**`Plane`**`: `[` ``Midgaardia`` `](:Category:Midgaardia "wikilink")  
-**`Area`**`: `[`Githzerai`` ``Tower`](:Category:_Githzerai_Tower "wikilink")` (`[`Map`](Githzerai_Tower_Map "wikilink")`)`  
-**`Mob`**`: `[` ``Zur'lithi`](Zur'lithi "wikilink")` `  
+**`Plane`**`: `[` ``Midgaardia`` `](:Category:Midgaardia.md "wikilink")  
+**`Area`**`: `[`Githzerai`` ``Tower`](:Category:_Githzerai_Tower.md "wikilink")` (`[`Map`](Githzerai_Tower_Map.md "wikilink")`)`  
+**`Mob`**`: `[` ``Zur'lithi`](Zur'lithi_.md "wikilink")` `  
 
 ------------------------------------------------------------------------
 
@@ -35,14 +35,11 @@ If he does not that say that to your char - then you can't do the quest.
 It will break when you give the pgem, and you'll have to kill him to get
 it back.
 
-| **Race** | **Class** |
-|:--------:|:---------:|
-| High Elf | Stormlord |
-| High Elf |  Wizard   |
-|   Elf    |   Mage    |
-|          |           |
-
-**List of char combos known to work**
+{.md\| class="sortable" border="2" cellpadding="2" cellspacing="0"
+align="center" style="text-align:center" \|+ **List of char combos known
+to work** \|- ! align="center" style="background:#f0f0f0;"\| **Race** !
+align="center" style="background:#f0f0f0;"\| **Class** \|- \| High Elf
+\|\| Stormlord \|- \| High Elf \|\| Wizard \|- \| Elf \|\| Mage \|- \|}
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:
 Lord HP Gear](Category:_Lord_HP_Gear "wikilink") [Category: Lord Mana

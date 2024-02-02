@@ -1,17 +1,17 @@
 *A hollowed out horn from some poor beast is here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** horn.  
-**[Level(s)](Object_Level "wikilink"):** 25.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 25.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -20,10 +20,10 @@ specific hill troll does.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Barrier
-Wastes](:Category:_Barrier_Wastes "wikilink")
-([Map](Barrier_Wastes_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Hill
+**[Area](:Category:_Areas.md "wikilink"):** [Barrier
+Wastes](:Category:_Barrier_Wastes.md "wikilink")
+([Map](Barrier_Wastes_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Hill
 Troll](Hill_Troll "wikilink").  
 See [Hill Troll](Hill_Troll "wikilink") for more information.  
 

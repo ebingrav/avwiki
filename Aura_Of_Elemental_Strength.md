@@ -1,25 +1,25 @@
 *An armband of inexplicably contained, sparkling dust is lying here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 9-12.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -15 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 9-12.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -15 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** elemental, armband, strength, aura.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** bless.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** bless.  
 
 ## Directions
 
 This is in [Exploration
-Outpost](:Category:Exploration_Outpost "wikilink") in
-[Eragora](:Category:Eragora "wikilink"). It is on the Earth Elemental,
-to reach it teleport to [Ginormous
+Outpost](:Category:Exploration_Outpost.md "wikilink") in
+[Eragora](:Category:Eragora.md "wikilink"). It is on the Earth
+Elemental, to reach it teleport to [Ginormous
 Dingersen](Ginormous_Dingersen "wikilink"), w, fol Mayflower, then 2d,
 2e, u, e, n, e. Kill the four imps there to spawn the elemental.
 

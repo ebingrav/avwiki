@@ -1,18 +1,19 @@
-*This ability must be [cast](Cast "wikilink") after combat has already
-begun. When [cast](Cast "wikilink"), your main
-[weapon](:Category:_Weapons "wikilink") flies out of your hand and
+*This ability must be [cast](Cast.md "wikilink") after combat has
+already begun. When [cast](Cast.md "wikilink"), your main
+[weapon](:Category:_Weapons.md "wikilink") flies out of your hand and
 attacks your current target. Generally, it does as much damage as a
 round of combat in which you did not miss. The weapon MIGHT return to
 your hand when the spell is complete. Or it MIGHT fall to the ground,
 where it will be subject to
-[scavengers](:Category:Scavenging_Mobs "wikilink"),
-[stompers](:Category:Stomping_Mobs "wikilink"), and the infamous imp...
-There are no reimbursements for [weapons](:Category:_Weapons "wikilink")
-that you lose with this [spell](:Category:_Spells "wikilink")...*
+[scavengers](:Category:Scavenging_Mobs.md "wikilink"),
+[stompers](:Category:Stomping_Mobs.md "wikilink"), and the infamous
+imp... There are no reimbursements for
+[weapons](:Category:_Weapons.md "wikilink") that you lose with this
+[spell](:Category:_Spells.md "wikilink")...*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'dancing weapon'.
+Syntax: [cast](Cast.md "wikilink") 'dancing weapon'.
 
 See also: [Kinetic Weapon Control](Kinetic_Weapon_Control "wikilink")
 

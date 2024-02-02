@@ -1,37 +1,37 @@
 *Your character advances in power by gaining experience.
-[Humans](Humans "wikilink") need 1000 experience points for each
-[level](Level "wikilink") of experience. Other
-[races](:Category:_Races "wikilink") need some percentage of 1000 exp
-for each [level](Level "wikilink"), from 800 to 75000 exp points.*
+[Humans](Humans.md "wikilink") need 1000 experience points for each
+[level](Level.md "wikilink") of experience. Other
+[races](:Category:_Races.md "wikilink") need some percentage of 1000 exp
+for each [level](Level.md "wikilink"), from 800 to 75000 exp points.*
 
 *You gain experience by:*
 
-` `[`killing`](Kill "wikilink")` a mob`  
+` `[`killing`](Kill.md "wikilink")` a mob`  
 ` being part of a group that kills a mob`  
-` healing other players (under certain circumstances, as a `[`Priest`](:Category:_Priests "wikilink")`)`
+` healing other players (under certain circumstances, as a `[`Priest`](:Category:_Priests.md "wikilink")`)`
 
 *You lose experience by:*
 
-` `[`fleeing`](Flee "wikilink")` from combat`  
-` `[`recalling`](Recall "wikilink")` out of combat`  
+` `[`fleeing`](Flee.md "wikilink")` from combat`  
+` `[`recalling`](Recall.md "wikilink")` out of combat`  
 ` being the target of certain spells`  
 ` dying`
 
 *The experience you get from a kill depends on several things: how many
-players are in your group; your [level](Level "wikilink") versus the
-[level](Level "wikilink") of the monster; how many of this monster have
-been killed lately; and some random variation.*
+players are in your group; your [level](Level.md "wikilink") versus the
+[level](Level.md "wikilink") of the monster; how many of this monster
+have been killed lately; and some random variation.*
 
-[Characters](:Category:_Characters "wikilink") may view their experience
-points using their [score](Score "wikilink")
-[command](:Category:_Commands "wikilink").
+[Characters](:Category:_Characters.md "wikilink") may view their
+experience points using their [score](Score.md "wikilink")
+[command](:Category:_Commands.md "wikilink").
 
 ## Grouped experience point gains
 
 When you're part of a group that kills a mob, the experience each group
 member receives is reduced by a factor that depends on the
-[tier](:Category:Tiers "wikilink") you are in and the size of your
-group. If you are at [hero](:Category:Hero "wikilink") tier, having a
+[tier](:Category:Tiers.md "wikilink") you are in and the size of your
+group. If you are at [hero](:Category:Hero.md "wikilink") tier, having a
 group member below sublevel 101 will provide the group with a lowhero
 bonus. At sublevel 1 this bonus is 15% and this percentage decreases in
 a linear fashion until the group member reaches sublevel 101, where it
@@ -56,7 +56,8 @@ belongs (melee, caster, healer, stabber - *this is not necessarily the
 way they're categorised and one class can be in multiple categories at
 the same time*).
 
-See also [Racial TNL](Racial_TNL "wikilink") and [TNL](TNL "wikilink").
+See also [Racial TNL](Racial_TNL.md "wikilink") and
+[TNL](TNL.md "wikilink").
 
 [Category: Characters](Category:_Characters "wikilink") [Category:
 Points](Category:_Points "wikilink")

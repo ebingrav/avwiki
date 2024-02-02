@@ -1,14 +1,14 @@
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 70 continuous.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 70 continuous.`
 
 **Keyword(s):** red velvet cape  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 8 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Comments
 
@@ -18,10 +18,10 @@ and heavily enchanted, too, so choice is yours.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Borley
-Manor](:Category:_Borley_Manor "wikilink")
-([Map](Borley_Manor_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Nemo](Nemo "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Borley
+Manor](:Category:_Borley_Manor.md "wikilink")
+([Map](Borley_Manor_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Nemo](Nemo "wikilink")  
 See quest details: [Red Velvet Cape
 Quest](Red_Velvet_Cape_Quest "wikilink").
 

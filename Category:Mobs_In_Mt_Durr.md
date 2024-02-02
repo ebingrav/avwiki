@@ -1,4 +1,4 @@
-The [ Mt Durr](:Category:_Mt_Durr "wikilink") mobs vary in alignment
+The [ Mt Durr](:Category:_Mt_Durr.md "wikilink") mobs vary in alignment
 from good to evil and so you can spend your whole time in the area
 without having to need to leave to realign.
 

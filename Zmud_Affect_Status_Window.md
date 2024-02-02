@@ -78,7 +78,8 @@ I personally do not use this trigger set as for some reason my status
 window does not display anymore, also if it doesnt display for you see
 if Windows-\>Status is checked.
 
-Look at the [Discussion Page](Talk:Zmud_Affect_Status_Window "wikilink")
-for other things that could be added to the script.
+Look at the [Discussion
+Page](Talk:Zmud_Affect_Status_Window.md "wikilink") for other things
+that could be added to the script.
 
 [Category:Zmud Scripting](Category:Zmud_Scripting "wikilink")

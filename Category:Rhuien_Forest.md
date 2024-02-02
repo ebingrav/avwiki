@@ -9,21 +9,21 @@ however, is the large, man-sized plant life that thrives there...*
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): 2s, 3w, n, 2w, n, 2w, 3n, w,
-n, 2w, n, 3w.
+recall](Eragora_default_recall.md "wikilink"): 2s, 3w, n, 2w, n, 2w, 3n,
+w, n, 2w, n, 3w.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Rainbow
+[Portaling](Portal.md "wikilink") point(s) suggested: [Rainbow
 Plant](Rainbow_Plant "wikilink"),
-[Guardian](Guardian_of_Eragora "wikilink") (of Eragora). Warning:
+[Guardian](Guardian_of_Eragora.md "wikilink") (of Eragora). Warning:
 non-unique keyword (there is another Guardian portable in the
-[Halfling's Paradise](:Category:Halfling's_Paradise "wikilink") area),
-and both are aggressive.
+[Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink")
+area), and both are aggressive.
 
 ## Connections
 
--   [Sphynx Gate](:Category:Sphynx_Gate "wikilink")
--   [North Rhuien Forest](:Category:North_Rhuien_Forest "wikilink")
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
+-   [Sphynx Gate](:Category:Sphynx_Gate.md "wikilink")
+-   [North Rhuien Forest](:Category:North_Rhuien_Forest.md "wikilink")
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
 
 ## Navigation
 

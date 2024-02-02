@@ -14,10 +14,10 @@
     White:  armor class
     Yellow: damage soak
 
-SEE ALSO: [CHAKRA SCAN](Chakra_Scan "wikilink"), [CHAKRA
-STRIKE](Chakra_Strike "wikilink"), [CHAKRA
-DRAIN](Chakra_Drain "wikilink"), [CHAKRA
-INVERT](Chakra_Invert "wikilink")
+SEE ALSO: [CHAKRA SCAN](Chakra_Scan.md "wikilink"), [CHAKRA
+STRIKE](Chakra_Strike.md "wikilink"), [CHAKRA
+DRAIN](Chakra_Drain.md "wikilink"), [CHAKRA
+INVERT](Chakra_Invert.md "wikilink")
 
 [Category:Lord Monk Skills](Category:Lord_Monk_Skills "wikilink")
 [Category:Lord Shadowfist

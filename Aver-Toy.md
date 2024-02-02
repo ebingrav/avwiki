@@ -3,8 +3,8 @@
 Level: 11  
 Weight: 10  
 Mob: None (loads on the ground)  
-Area: [Troll Den](:Category:_Troll_Den "wikilink")
-([Map](Troll_Den_Map "wikilink"))  
+Area: [Troll Den](:Category:_Troll_Den.md "wikilink")
+([Map](Troll_Den_Map.md "wikilink"))  
 Teleport or portal Female troll. Then North and East on the ground it
 says:  
 A half eaten corpse is laying here This is the toy. Inside the toy is a

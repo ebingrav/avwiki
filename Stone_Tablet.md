@@ -1,25 +1,25 @@
 *A stone tablet with small indecipherable markings on it is here.*
 
 **Keyword(s):** stone tablet.  
-**[Level(s)](Object_Level "wikilink"):** 39.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[furniture](:Category:Furniture "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on finger>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 39.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[furniture](:Category:Furniture.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on finger>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Markiis
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Markiis
 VoPriingl](Markiis_VoPriingl "wikilink").  
-**[Room(s)](:Category:_Rooms "wikilink")** Surveyor's Base
-([cursed](Cursed_Rooms "wikilink"))
+**[Room(s)](:Category:_Rooms.md "wikilink")** Surveyor's Base
+([cursed](Cursed_Rooms.md "wikilink"))
 
 See [Markiis VoPriingl](Markiis_VoPriingl "wikilink") for more
 information.  

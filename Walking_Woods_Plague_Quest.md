@@ -8,7 +8,7 @@ This quest is for level 20 players, if you are going in solo, or players
 in the high teens if grouped. The area is overrun with undead, and
 [Captain Balgaar](Captain_Balgaar "wikilink") is dying. The "boss" mob
 in the area has the first ticket you need. The prize is the [Stonehall
-Hammer](Stonehall_Hammer_(Quest) "wikilink").
+Hammer](Stonehall_Hammer_(Quest).md "wikilink").
 
 Nota bene:
 
@@ -16,9 +16,10 @@ Nota bene:
     upper level of the area.
 -   The boss is sanced.
 -   The boss animates corpses.
--   The [guardian ents](Guardian_Ent "wikilink") in the area are aggie
-    and hit hard. Use a [Ring of the Rat](Ring_Of_The_Rat "wikilink") if
-    you can't invis yourself. *Seriously!*
+-   The [guardian ents](Guardian_Ent.md "wikilink") in the area are
+    aggie and hit hard. Use a [Ring of the
+    Rat](Ring_Of_The_Rat.md "wikilink") if you can't invis yourself.
+    *Seriously!*
 -   One ticket is exchanged in this area, but the prize is actually
     awarded in another.
 
@@ -31,13 +32,13 @@ Nota bene:
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [Entangled
+-   [Kill](Kill.md "wikilink") [Entangled
     Mummy](Entangled_Mummy "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [the Mummy King's
-    sceptre](Mummy_King's_Sceptre "wikilink") from its corpse.
+-   [Get](Get.md "wikilink") [the Mummy King's
+    sceptre](Mummy_King's_Sceptre.md "wikilink") from its corpse.
 
 <!-- -->
 
@@ -45,10 +46,10 @@ Nota bene:
 
 <!-- -->
 
--   [Give](Give "wikilink") [the Mummy King's
-    sceptre](Mummy_King's_Sceptre "wikilink") to [Captain
+-   [Give](Give.md "wikilink") [the Mummy King's
+    sceptre](Mummy_King's_Sceptre.md "wikilink") to [Captain
     Balgaar](Captain_Balgaar "wikilink") and receive [captain Balgaar's
-    letter](Captain_Balgaar's_Letter "wikilink").
+    letter](Captain_Balgaar's_Letter.md "wikilink").
 
 <!-- -->
 
@@ -57,19 +58,19 @@ Nota bene:
 
 <!-- -->
 
--   [Give](Give "wikilink") [captain Balgaar's
-    letter](Captain_Balgaar's_Letter "wikilink") to
+-   [Give](Give.md "wikilink") [captain Balgaar's
+    letter](Captain_Balgaar's_Letter.md "wikilink") to
     [Silverbeard](Silverbeard "wikilink") and receive [Stonehall
-    Hammer](Stonehall_Hammer_(Quest) "wikilink").
+    Hammer](Stonehall_Hammer_(Quest).md "wikilink").
 
 </spoiler>
 
-To get to [ Walking Woods](:Category:_Walking_Woods "wikilink"):
+To get to [ Walking Woods](:Category:_Walking_Woods.md "wikilink"):
 
 **From [Nom](Nom "wikilink"):** 4s, 6e, s, 2e, s, 2e, n.  
 **From [Sol](Sol "wikilink"):** Go 3e, s, 3e, 3s, 5e, 2n.  
 **From [Aelmon](Aelmon "wikilink"):** Go 17w, 1n.  
-**[Portal](Portal "wikilink") to:** [Terrified
+**[Portal](Portal.md "wikilink") to:** [Terrified
 Goblin](Terrified_Goblin "wikilink").  
 
 [Category: Quests In Walking

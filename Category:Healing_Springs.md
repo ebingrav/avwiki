@@ -14,17 +14,17 @@ Walking route from [Eragora default
 recall](Eragora_default_recall "wikilink"): 2s, d, 4e, enter river, 3n,
 3e, 4n, 2w, 2n, 2e, 3n, 2e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Winkum](Winkum "wikilink") or pp *half-orc family* or *half-orc mother*
 should work. Othewrwise pp just outside the area (pp [Dirk
 Chivers](Dirk_Chivers "wikilink")) and walk the 10 rooms in between.
 
 ## Connections
 
--   [ River Etuan](:Category:_River_Etuan "wikilink")
-    ([map](River_Etuan_Map "wikilink")),
--   [ Eragora Walkways](:Category:_Eragora_Walkways "wikilink")
-    ([map](Eragora_Walkways_Map "wikilink")) (outgoing).
+-   [ River Etuan](:Category:_River_Etuan.md "wikilink")
+    ([map](River_Etuan_Map.md "wikilink")),
+-   [ Eragora Walkways](:Category:_Eragora_Walkways.md "wikilink")
+    ([map](Eragora_Walkways_Map.md "wikilink")) (outgoing).
 
 ## Navigation
 

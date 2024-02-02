@@ -7,7 +7,7 @@
 </td>
 <td>
 
-[Scroll](:Category:Scrolls "wikilink")
+[Scroll](:Category:Scrolls.md "wikilink")
 
 </td>
 </tr>
@@ -55,8 +55,8 @@ Level 2 spells of: 'enchant armor'.
 </td>
 <td>
 
-[Wamphyri Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink"))
+[Wamphyri Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink"))
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Level 2 spells of: 'enchant armor'.
 </td>
 <td>
 
-[Dweller](Dweller "wikilink")
+[Dweller](Dweller.md "wikilink")
 
 </td>
 </tr>

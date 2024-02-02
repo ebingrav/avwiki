@@ -4,7 +4,7 @@ Modifies armor class by -105 continuous.
 Slot: On body  
 Flags: glow hum bless  
 Weight: 25  
-Plane: [Airscape](:Category:Airscape "wikilink")  
+Plane: [Airscape](:Category:Airscape.md "wikilink")  
 Area: Merman  
 Mob: [Sultan's Guard](Sultan's_Guard "wikilink")  
 

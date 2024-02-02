@@ -1,25 +1,25 @@
 *A large pile of plaid fabric lies here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6.`  
-`Modifies `[`strength`](Strength "wikilink")` by 2 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** kilt.  
-**[Level(s)](Object_Level "wikilink"):** 27.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 27.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Angus
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Angus
 McMoose](Angus_McMoose "wikilink").  
 See [Angus McMoose](Angus_McMoose "wikilink") for more information.  
 

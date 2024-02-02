@@ -6,13 +6,13 @@ Modifies dexterity by 2 continuous.
 Slot: Offhand  
 Weight: 90  
 Flags: magic anti-evil good nolocate major-ward  
-Plane: [Nowhere](:Category:Nowhere "wikilink")  
-Area: [Sun Cabal](:Category:Sun_Cabal "wikilink")  
+Plane: [Nowhere](:Category:Nowhere.md "wikilink")  
+Area: [Sun Cabal](:Category:Sun_Cabal.md "wikilink")  
 Mob: [Bahamut's Avatar](Bahamut's_Avatar "wikilink")  
 
 ------------------------------------------------------------------------
 
-See [Gear In Sun Cabal](:Category:Gear_In_Sun_Cabal "wikilink") for
+See [Gear In Sun Cabal](:Category:Gear_In_Sun_Cabal.md "wikilink") for
 instructions on how to get this gear.
 
 [Category:Lord Tank Gear](Category:Lord_Tank_Gear "wikilink")

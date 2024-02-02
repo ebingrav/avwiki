@@ -1,16 +1,17 @@
-*When an [aggressive](Aggressive_Mobs "wikilink") enemy goes for a
-[Bodyguard](:Category:_Bodyguards "wikilink")'s master, they'll often
-find they never make it. A [Bodyguard](:Category:_Bodyguards "wikilink")
-with this [skill](:Category:_Skills "wikilink") will automatically leap
-in front of any foe he sees about to attack his current monitor target.
-The [Bodyguard](:Category:_Bodyguards "wikilink") must have
-[alertness](Alertness "wikilink") active, and must be awake and not
+*When an [aggressive](Aggressive_Mobs.md "wikilink") enemy goes for a
+[Bodyguard](:Category:_Bodyguards.md "wikilink")'s master, they'll often
+find they never make it. A
+[Bodyguard](:Category:_Bodyguards.md "wikilink") with this
+[skill](:Category:_Skills.md "wikilink") will automatically leap in
+front of any foe he sees about to attack his current monitor target. The
+[Bodyguard](:Category:_Bodyguards.md "wikilink") must have
+[alertness](Alertness.md "wikilink") active, and must be awake and not
 presently fighting to be able to intercede. Foes who start combat with
-[spells](:Category:_Spells "wikilink"), or who use special sneaky
+[spells](:Category:_Spells.md "wikilink"), or who use special sneaky
 attacks can outfox an interceding
-[Bodyguard](:Category:_Bodyguards "wikilink").*
+[Bodyguard](:Category:_Bodyguards.md "wikilink").*
 
-Prerequisite(s): [Watchful Eye](Watchful_Eye "wikilink").
+Prerequisite(s): [Watchful Eye](Watchful_Eye.md "wikilink").
 
 Syntax: none (automatic).
 

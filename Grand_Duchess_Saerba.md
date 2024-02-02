@@ -5,15 +5,16 @@ and fluid, still glowing with a dim, pale, light. From her pale eyes,
 eight centuries look down upon you.*
 
 **Keywords:** Grand, Duchess, Saerba, high, elf.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[cleric](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[protection evil](Protection_Evil "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[cleric](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -27,11 +28,11 @@ invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Spiriel Hall: Willowheart
-(portable, [safe](Safe_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Kingdom of the
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Spiriel Hall: Willowheart
+(portable, [safe](Safe_Rooms.md "wikilink")).  
 The Grand Duchess Saerba is portable.
 
 [Category: Mobs In Kingdom Of The

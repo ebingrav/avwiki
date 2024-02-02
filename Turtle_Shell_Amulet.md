@@ -3,8 +3,8 @@
 Bases: 10-12  
 Levels: 51-52  
 Weight: 6  
-Area: [Tortuga Cay](:Category:_Tortuga_Cay "wikilink")
-([Map](Tortuga_Cay_Map "wikilink"))  
+Area: [Tortuga Cay](:Category:_Tortuga_Cay.md "wikilink")
+([Map](Tortuga_Cay_Map.md "wikilink"))  
 Quest: [Turtle Shell Amulet
 Quest](Turtle_Shell_Amulet_Quest "wikilink")  
 

@@ -9,13 +9,13 @@ the Obelische from conquering AVATAR?*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, n, u, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, n, u, n.
 
-Walking route from [Tysiln San](Tysiln_San "wikilink"): s, e, s, d, w,
-n.
+Walking route from [Tysiln San](Tysiln_San.md "wikilink"): s, e, s, d,
+w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 

@@ -10,8 +10,8 @@ Thanks, Jekyll
 You can try the "Upload file" link, which should appear on the left of
 the screen under toolbox. But IIRC there's a limitation in the wiki
 software that only allows you to upload images and sound files. Talk to
-[Melanarchy](User:Mel "wikilink"), chances are he'll host them for you
-somewhere else, and then you could link to them from here.  
+[Melanarchy](User:Mel.md "wikilink"), chances are he'll host them for
+you somewhere else, and then you could link to them from here.  
 -Waite
 
 ------------------------------------------------------------------------

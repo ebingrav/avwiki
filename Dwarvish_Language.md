@@ -9,13 +9,13 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Dwarvish:   `*`TThu`` ``puuakc`` ``brrawn`` ``tag`` ``juurrug`` ``agur`` ``tthu`` ``glagt`` ``gag.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Dwarvish:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Dwarvish:
 
--   [Duergar](Duergar "wikilink").
+-   [Duergar](Duergar.md "wikilink").
 
 <!-- -->
 
--   [Dwarves](Dwarves "wikilink").
+-   [Dwarves](Dwarves.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

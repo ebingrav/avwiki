@@ -2,7 +2,7 @@
 to go. Amidst the chaos of Midgaardia, [Captain
 Jacklyn](Captain_Jacklyn "wikilink") was able to help the citizens of
 Ofcol flee and seek out sactuary with [Aelmon](Aelmon "wikilink") in
-[Midgaard](:Category:Midgaard "wikilink"). When they were faced with
+[Midgaard](:Category:Midgaard.md "wikilink"). When they were faced with
 very little shelter many were turned away. These refugees found their
 way to a clearing North West of the city and set up camp within the
 forest.*
@@ -17,12 +17,12 @@ forest.*
 
 Walking route from [Aelmon](Aelmon "wikilink"): 10n, 3w, \[n\]
 
-[Portaling](Portal "wikilink") point(s) suggested: [Jim the
+[Portaling](Portal.md "wikilink") point(s) suggested: [Jim the
 Blacksmith](Jim_the_Blacksmith "wikilink").
 
 ## Connections
 
--   [Highways/Great Wall](:Category:_Highways/Great_Wall "wikilink")
+-   [Highways/Great Wall](:Category:_Highways/Great_Wall.md "wikilink")
 
 ## Navigation
 
@@ -32,14 +32,15 @@ campfires and tents on the sides. Navigation is very simple.
 ## Adventuring
 
 The area is a twin area to the [Hospice Refugee
-Camp](:Category:Hospice_Refugee_Camp "wikilink"), but features somewhat
-higher level guards and refugees, and as such is good for those that
-wish to level further by doing [Tannah's](Tannah_Machadae "wikilink")
-work after they are done with the Hospice camp.
+Camp](:Category:Hospice_Refugee_Camp.md "wikilink"), but features
+somewhat higher level guards and refugees, and as such is good for those
+that wish to level further by doing
+[Tannah's](Tannah_Machadae.md "wikilink") work after they are done with
+the Hospice camp.
 
 The guards wear the almost-grandfathered
-[Ofcol](:Category:Ofcol "wikilink") gear, for nostalgia's sake, and the
-refugees are generally without any gear.
+[Ofcol](:Category:Ofcol.md "wikilink") gear, for nostalgia's sake, and
+the refugees are generally without any gear.
 
 Overall, it's a small area and is cleared easily.
 

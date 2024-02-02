@@ -6,21 +6,21 @@ massacre must be explored, not intentionally buried within the pages of
 history as so many modern Drow have decreed.*
 
 **Keywords:** mourning, drow.  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** Heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink"),
-[nightvision](Nightvision "wikilink").  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** Heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink"),
+[nightvision](Nightvision.md "wikilink").  
 
 ## Gear
 
 `A mourning drow is using:`  
-`    `<worn on head>`    `[`Black`` ``Veil`](Black_Veil_(Mourning_Drow) "wikilink")
+`    `<worn on head>`    `[`Black`` ``Veil`](Black_Veil_(Mourning_Drow).md "wikilink")
 
 `You peek at the inventory:`  
-`    `[`a`` ``jar`` ``of`` ``holy`` ``oil`](Jar_Of_Holy_Oil "wikilink")
+`    `[`a`` ``jar`` ``of`` ``holy`` ``oil`](Jar_Of_Holy_Oil.md "wikilink")
 
 ## Comments
 

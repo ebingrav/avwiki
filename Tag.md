@@ -28,8 +28,8 @@ SEE ALSO: WHO, RULES-LANGUAGE
 Players will often use the Tag command to signal that they are in a
 particular group or clan, or are currently in a Spellbot or Bot mode.
 
-Players can use the [WHO](Who "wikilink") command to search for players
-with a tag, or with a specific tag. Syntax is as follows:
+Players can use the [WHO](Who.md "wikilink") command to search for
+players with a tag, or with a specific tag. Syntax is as follows:
 
 who tag - Will show any players with any tag.  
 who tag ?bot - Will show any players with the word "bot" in their tag.

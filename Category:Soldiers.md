@@ -2,29 +2,29 @@
 nature and not above hugging the occasional tree, some of the more
 populous races put those talents to work in a more disciplined, rigid,
 military capacity. Soldiers lose out on some of the
-[Archer's](:Category:Archers "wikilink") wilderness survival skills,
+[Archer's](:Category:Archers.md "wikilink") wilderness survival skills,
 being mostly trained to defend castles and other developed areas, but
 gain some unique new ones in return. Their discipline makes them skilled
 leaders, and they can even impart some of their skills to other
 group-mates. Many races train their soldiers with [crossbows instead of
-bows](:Category:Missile_Weapons "wikilink"). Like all Prestige Classes,
-they retain the original class's [Prime
+bows](:Category:Missile_Weapons.md "wikilink"). Like all Prestige
+Classes, they retain the original class's [Prime
 Requisite](Prime_Requisite "wikilink"), in this case,
 [Dexterity](Dexterity "wikilink").*
 
 *Soldiers are far too law-abiding to ever become
-[Assassins](:Category:Assassins "wikilink"), but occasionally, that
+[Assassins](:Category:Assassins.md "wikilink"), but occasionally, that
 fervor for law leads them to trade their crossbows for great swords and
-become [Paladins](:Category:Paladins "wikilink"), albeit at a higher
-level than [Warriors](:Category:Warriors "wikilink").*
+become [Paladins](:Category:Paladins.md "wikilink"), albeit at a higher
+level than [Warriors](:Category:Warriors.md "wikilink").*
 
 **Abbreviation:** Sld.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Archer](:Category:_Archers "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Archer](:Category:_Archers.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Dexterity](Dexterity "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Dexterity](Dexterity.md "wikilink").
 
 ## Soldiers in General
 
@@ -81,8 +81,8 @@ move hidden, dodge.
 
 Worship and devotion choices are identical to archers (to be confirmed).
 
-See: [Archer Worship](:Category:Archers#Worshipping "wikilink") and
-[Archer Devoting](:Category:Archers#Devoting "wikilink") for more
+See: [Archer Worship](:Category:Archers#Worshipping.md "wikilink") and
+[Archer Devoting](:Category:Archers#Devoting.md "wikilink") for more
 information.
 
 ### Fighting
@@ -112,7 +112,7 @@ two options are available:
 ## Soldiers at Lord Tier
 
 See [Archers at lord
-tier](:Category:Archers#Archers_at_Lord_Tier "wikilink").
+tier](:Category:Archers#Archers_at_Lord_Tier.md "wikilink").
 
 ## Soldier Remort Options
 

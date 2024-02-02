@@ -3,7 +3,7 @@ When describing an area, include:
 -   Help file
 -   Recommended group size
 -   Any special mobs to watch out for (like the det mobs in [Outland
-    Proper](:Category:Outland_Proper "wikilink"))
+    Proper](:Category:Outland_Proper.md "wikilink"))
 -   Special mob behavior (wield/[Demonfire](Demonfire "wikilink")/[Doom
     Toxin](Doom_Toxin "wikilink")/etc)
 -   Directions to different parts of the area (if applicable)
@@ -20,6 +20,6 @@ If there's is gear in the area, describe how to get it in
 the area.
 
 If you're in a helpful mood, see also [Gear That Needs
-Descriptions](:Category:Gear_That_Needs_Descriptions "wikilink")
+Descriptions](:Category:Gear_That_Needs_Descriptions.md "wikilink")
 
 [Category:Todo](Category:Todo "wikilink")

@@ -2,10 +2,10 @@
 often nice for a snack, don't you think?*
 
 **Keywords:** Mouse, field.  
-**[Level](Level "wikilink"):** 1.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** N/A.  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 1.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** N/A.  
+**Affects:** [infravision](Infravision.md "wikilink").  
 **HitPoints:** 7
 
 ## Gear
@@ -19,15 +19,16 @@ often nice for a snack, don't you think?*
 ## Comments
 
 Not much to comment on:) Type <kill mouse> to attack the l'il critter
-and get that [experience](Experience_Points "wikilink") flowing!
+and get that [experience](Experience_Points.md "wikilink") flowing!
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Meadow](:Category:_Meadow "wikilink") ([Map](Meadow_Map "wikilink")).  
-Walking route from [Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-A field mouse [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Meadow](:Category:_Meadow.md "wikilink")
+([Map](Meadow_Map.md "wikilink")).  
+Walking route from [Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+A field mouse [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Meadow](Category:_Mobs_In_Meadow "wikilink")

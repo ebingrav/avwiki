@@ -1,29 +1,29 @@
 *Looking at the bracers carefully, you see a series of runes.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6-9.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`strength`](Strength "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6-9.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** bracers, blinding, strike.  
-**[Level(s)](Object_Level "wikilink"):** 34-36.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 34-36.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Thieves'
-Haunt](:Category:_Thieves'_Haunt "wikilink")
-([Map](Thieves'_Haunt_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [A
-rogue](Rogue_(level_35) "wikilink").  
-See [A rogue](Rogue_(level_35) "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Thieves'
+Haunt](:Category:_Thieves'_Haunt.md "wikilink")
+([Map](Thieves'_Haunt_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [A
+rogue](Rogue_(level_35).md "wikilink").  
+See [A rogue](Rogue_(level_35).md "wikilink") for more information.  
 
 [Category: Gear In Thieves'
 Haunt](Category:_Gear_In_Thieves'_Haunt "wikilink") [Category:

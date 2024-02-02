@@ -1,7 +1,7 @@
 This is a variable insignia that can be activated upon completion of
 [Restoring Mark V (Part 2)
 Quest](Restoring_Mark_V_(Part_2)_Quest "wikilink") that takes place in
-[Glyntaff Pass](:Category:Glyntaff_Pass "wikilink") and many other
+[Glyntaff Pass](:Category:Glyntaff_Pass.md "wikilink") and many other
 locations.
 
 When visiting an eligible room and wielding the quest weapon, you may be

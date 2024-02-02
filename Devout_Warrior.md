@@ -4,18 +4,18 @@ is grotesquely mutilated.*
 
 **Keywords:** dwarf, warrior, devout??, ??.  
 **Scan Description:**A dwarf hunts for any sign of darkness.  
-**[Level](Level "wikilink"):** 68.  
-**[Alignment](Alignment "wikilink"):** heroically aligned.  
-**[Flags](:Category:_Mob_Types "wikilink"):** very aggressive.  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 68.  
+**[Alignment](Alignment.md "wikilink"):** heroically aligned.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** very aggressive.  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A devout warrior is using:`  
-<worn on body>`      `[`a`` ``steel`` ``chestplate`](Steel_Chestplate "wikilink")  
-<wielded>`           `[`the`` ``holy`` ``sword`` ``of`` ``Kra`](Holy_Sword_Of_Kra "wikilink")
+<worn on body>`      `[`a`` ``steel`` ``chestplate`](Steel_Chestplate.md "wikilink")  
+<wielded>`           `[`the`` ``holy`` ``sword`` ``of`` ``Kra`](Holy_Sword_Of_Kra.md "wikilink")
 
 `A devout warrior is carrying:`  
 `     Nothing.`
@@ -24,14 +24,14 @@ invis](Detect_Invis "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Varies
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Varies
+([cursed](Cursed_Rooms.md "wikilink"))  
 Portal Point suggested: [Wartha](Wartha "wikilink") *(Aggie)*
 
-A devout warrior [wanders](Wandering_Mobs "wikilink").  
+A devout warrior [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Great
 Divide](Category:_Mobs_In_Great_Divide "wikilink")

@@ -1,16 +1,16 @@
 *His skin is like wrinkled leather that's been left out in the rain for
 several weeks and then trampled on by horses before being used by a
-[troll](Trolls "wikilink") for a towel and then gnawed on by wild dogs
-with bad breath.*
+[troll](Trolls.md "wikilink") for a towel and then gnawed on by wild
+dogs with bad breath.*
 
 **Keywords:** grizzled, old, ranger, ex, wayfinder.  
-**[Level](Level "wikilink"):** 51 or more.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 51 or more.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -24,12 +24,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** H.F.I.L. (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 8e, 3n, \[w\].  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** H.F.I.L. (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8e, 3n, \[w\].  
 The Ex-Wayfinder is portable.  
 
 [Category: Mobs In Midgaard](Category:_Mobs_In_Midgaard "wikilink")

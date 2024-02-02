@@ -1,4 +1,4 @@
-[Outland Proper](:Category:Outland_Proper "wikilink") is usually just
+[Outland Proper](:Category:Outland_Proper.md "wikilink") is usually just
 run for small group exp, but it has another side to it: the infamous
 "commander" run.
 
@@ -48,7 +48,7 @@ Whichever method you choose, the gear room awaits.
 
 This is a very risky room. It's no-exit, so if/when you clear it you
 need to portal to a mob in [Outland
-Proper](:Category:Outland_Proper "wikilink") (such as [Githyanki
+Proper](:Category:Outland_Proper.md "wikilink") (such as [Githyanki
 Brute](Githyanki_Brute "wikilink")) to get out. The gear room has two
 slaves; one eats corpses and the other stomps gear. So if you die before
 they do, you can kiss all your hard-earned gear good-bye. From what I
@@ -82,25 +82,25 @@ After shift, take group 3s2w2d to the [Githyanki
 Spy](Githyanki_Spy "wikilink"). **From here on mobs detonate! (including
 the spy AND the gear room!)**
 
-Go 2d2s from [the spy](Githyanki_Spy "wikilink") to find the room where
-you can regen. This path can be very swarmy, so it's a good idea for any
-wizards/druids in the group to use [wall of
-thorns](Wall_Of_Thorns "wikilink") to keep unnecessary mobs away. From
-the regen room it's another 1s to the [Githyanki
+Go 2d2s from [the spy](Githyanki_Spy.md "wikilink") to find the room
+where you can regen. This path can be very swarmy, so it's a good idea
+for any wizards/druids in the group to use [wall of
+thorns](Wall_Of_Thorns.md "wikilink") to keep unnecessary mobs away.
+From the regen room it's another 1s to the [Githyanki
 Leader](Githyanki_Leader "wikilink"), who holds the [Silver
 Chestplate](Silver_Chestplate "wikilink") and the [Silver
 Sword](Silver_Sword "wikilink").
 
 Watch out: this is a very risky room. It's no-exit, so if/when you clear
 it you need to portal to a mob in [Outland
-Proper](:Category:Outland_Proper "wikilink") (such as [Githyanki
+Proper](:Category:Outland_Proper.md "wikilink") (such as [Githyanki
 Brute](Githyanki_Brute "wikilink")) to get out. The gear room has two
 slaves; one eats corpses and the other stomps gear. So if you die before
 they do, you can kiss all your hard-earned gear good-bye. Also note that
 when you kill the [Githyanki Warlock](Githyanki_Warlock "wikilink") a
-[detonating mob](Darkest_Of_Shades "wikilink") spawns. Because of this
-huge risk, you should wait outside of the commander's room until the
-[Githyanki Spy](Githyanki_Spy "wikilink") repops. The last thing you
+[detonating mob](Darkest_Of_Shades.md "wikilink") spawns. Because of
+this huge risk, you should wait outside of the commander's room until
+the [Githyanki Spy](Githyanki_Spy "wikilink") repops. The last thing you
 want is for this gear room to repop on you!
 
 Also in this room are a couple [Silver Helms](Silver_Helm "wikilink").

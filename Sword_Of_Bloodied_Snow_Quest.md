@@ -1,12 +1,12 @@
-From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
+From [Ellstraee](Drow_Priestess_Of_Ellstraee.md "wikilink"):
 
 -   Go \[s\], 4w, \[w\], n.
 
 <!-- -->
 
--   [Get](Get "wikilink") both [Ellstraee's
-    song](Ellstraee's_Song "wikilink") and [a small mirror
-    fragment](Small_Mirror_Fragment "wikilink") from I'Sal's desk.
+-   [Get](Get.md "wikilink") both [Ellstraee's
+    song](Ellstraee's_Song.md "wikilink") and [a small mirror
+    fragment](Small_Mirror_Fragment.md "wikilink") from I'Sal's desk.
 
 <!-- -->
 
@@ -14,10 +14,10 @@ From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [Ellstraee's
-    song](Ellstraee's_Song "wikilink") to [The captain of the drow
-    guard](Captain_Of_The_Drow_Guard "wikilink") and receive [a drow
-    prison key](Drow_Prison_Key "wikilink").
+-   [Give](Give.md "wikilink") [Ellstraee's
+    song](Ellstraee's_Song.md "wikilink") to [The captain of the drow
+    guard](Captain_Of_The_Drow_Guard.md "wikilink") and receive [a drow
+    prison key](Drow_Prison_Key.md "wikilink").
 
 <!-- -->
 
@@ -25,8 +25,8 @@ From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") e using [a drow prison
-    key](Drow_Prison_Key "wikilink").
+-   [Unlock](Unlock.md "wikilink") e using [a drow prison
+    key](Drow_Prison_Key.md "wikilink").
 
 <!-- -->
 
@@ -34,32 +34,32 @@ From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [Kaz-Cyton's
-    spirit](Kaz-Cyton's_Spirit "wikilink").
+-   [Kill](Kill.md "wikilink") [Kaz-Cyton's
+    spirit](Kaz-Cyton's_Spirit.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a scarlet-tainted
-    dagger](Scarlet-Tainted_Dagger "wikilink") from his corpse.
+-   [Get](Get.md "wikilink") [a scarlet-tainted
+    dagger](Scarlet-Tainted_Dagger.md "wikilink") from his corpse.
 
 <!-- -->
 
--   Go {w}, 4w, 2n, \[n\], [pull](Pull "wikilink") a suspicious looking
-    torch, n.
+-   Go {w}, 4w, 2n, \[n\], [pull](Pull.md "wikilink") a suspicious
+    looking torch, n.
 
 <!-- -->
 
--   [Give](Give "wikilink") [a small mirror
-    fragment](Small_Mirror_Fragment "wikilink") to [The drow King
-    E'Kim](Drow_King_E'Kim "wikilink") and receive [the key to E'Kim's
-    royal cellar](Key_To_E'Kim's_Royal_Cellar "wikilink").
+-   [Give](Give.md "wikilink") [a small mirror
+    fragment](Small_Mirror_Fragment.md "wikilink") to [The drow King
+    E'Kim](Drow_King_E'Kim.md "wikilink") and receive [the key to
+    E'Kim's royal cellar](Key_To_E'Kim's_Royal_Cellar.md "wikilink").
 
 <!-- -->
 
--   [Give](Give "wikilink") [a scarlet-tainted
-    dagger](Scarlet-Tainted_Dagger "wikilink") to [The drow King
-    E'Kim](Drow_King_E'Kim "wikilink") and receive [the Guardian's
-    chamber key](Guardian's_Chamber_Key "wikilink").
+-   [Give](Give.md "wikilink") [a scarlet-tainted
+    dagger](Scarlet-Tainted_Dagger.md "wikilink") to [The drow King
+    E'Kim](Drow_King_E'Kim.md "wikilink") and receive [the Guardian's
+    chamber key](Guardian's_Chamber_Key.md "wikilink").
 
 <!-- -->
 
@@ -67,12 +67,12 @@ From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") d using [the key to E'Kim's royal
-    cellar](Key_To_E'Kim's_Royal_Cellar "wikilink").
+-   [Unlock](Unlock.md "wikilink") d using [the key to E'Kim's royal
+    cellar](Key_To_E'Kim's_Royal_Cellar.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") d.
+-   [Open](Open.md "wikilink") d.
 
 <!-- -->
 
@@ -80,12 +80,12 @@ From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") n using [the Guardian's chamber
-    key](Guardian's_Chamber_Key "wikilink").
+-   [Unlock](Unlock.md "wikilink") n using [the Guardian's chamber
+    key](Guardian's_Chamber_Key.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") n.
+-   [Open](Open.md "wikilink") n.
 
 <!-- -->
 
@@ -93,12 +93,13 @@ From [Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [A drow guardian](Drow_Guardian "wikilink").
+-   [Kill](Kill.md "wikilink") [A drow
+    guardian](Drow_Guardian.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [the sword of bloodied
-    snow](Sword_Of_Bloodied_Snow "wikilink") from his corpse.
+-   [Get](Get.md "wikilink") [the sword of bloodied
+    snow](Sword_Of_Bloodied_Snow.md "wikilink") from his corpse.
 
 [Category: Quests In Frozen
 Court](Category:_Quests_In_Frozen_Court "wikilink") [Category: Lowmort

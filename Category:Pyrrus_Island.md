@@ -12,17 +12,17 @@ your greedy nature. But, do you risk the dangers there?*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 39s, 2w, s (note:
-crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 39s, 2w, s (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [Human
+[Portaling](Portal.md "wikilink") point(s) suggested: [Human
 Healer](Human_Healer "wikilink") (relatively safe room), [Captain
-Shyl](Captain_Shyl "wikilink") (note:
-[wanders](Wandering_Mobs "wikilink")).
+Shyl](Captain_Shyl.md "wikilink") (note:
+[wanders](Wandering_Mobs.md "wikilink")).
 
 ## Connections
 
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
 
 ## Navigation
 

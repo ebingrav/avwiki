@@ -1,20 +1,20 @@
 *In the words of Thrull, "Wizards are what all
-[Mages](:Category:_Mages "wikilink") should have been." Wizards are
-mystically stronger than [Mages](:Category:_Mages "wikilink"), but
+[Mages](:Category:_Mages.md "wikilink") should have been." Wizards are
+mystically stronger than [Mages](:Category:_Mages.md "wikilink"), but
 physically weaker. They get more mana and their spells are more
 effective, but they also get lower hp gains and are, at best,
 unimpressive in melee combat. They can also learn some very rare spells
 by researching them from obscure
-[spellbooks](:Category:_Spellbooks "wikilink"). These spells are not
+[spellbooks](:Category:_Spellbooks.md "wikilink"). These spells are not
 listed on their [skill
-lists](:Category:_Wizard_Skills_And_Spells "wikilink").*
+lists](:Category:_Wizard_Skills_And_Spells.md "wikilink").*
 
-*Like all [Prestige Classes](:Category:_Prestige_Classes "wikilink"),
+*Like all [Prestige Classes](:Category:_Prestige_Classes.md "wikilink"),
 they retain the original class's [Prime
-Requisite](Prime_Requisite "wikilink"), in this case,
-[Intelligence](Intelligence "wikilink"). Wizards cannot become
-[Sorcerors](:Category:_Sorcerers "wikilink"). They disdain what they see
-as the [Sorceror](:Category:_Sorcerers "wikilink")'s crutch-like
+Requisite](Prime_Requisite.md "wikilink"), in this case,
+[Intelligence](Intelligence.md "wikilink"). Wizards cannot become
+[Sorcerors](:Category:_Sorcerers.md "wikilink"). They disdain what they
+see as the [Sorceror](:Category:_Sorcerers.md "wikilink")'s crutch-like
 dependence on the Dark Powers.*
 
 *Wizard trainers can sometimes be found researching lost tomes in musty
@@ -28,24 +28,24 @@ libraries.*
 
 **Abbreviation:** Wzd.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Mage](:Category:_Mages "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Mage](:Category:_Mages.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Intelligence](Intelligence "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Intelligence](Intelligence.md "wikilink").
 
 ## Wizards in General
 
 Wizards bear a number of similarities to their root class -
-[Mages](:Category:_Mages "wikilink") - in their skill sets and
+[Mages](:Category:_Mages.md "wikilink") - in their skill sets and
 spellcasting-oriented mode of playing. As their help file indicates,
 Wizards receive higher average mana gains and lower hit point gains than
-Mages or [Stormlords](:Category:Stormlords "wikilink"). They can also
-learn the [flash](Flash "wikilink") spell through a Hero-level
-[spellbook](:Category:Spellbooks "wikilink") designed for the purpose,
-but will experience greater spell lag as a result of the spell being
-innate to the Sorcerer class. They also lose access to the majority of
-psionic spells available to Mages and Stormlords - notably
+Mages or [Stormlords](:Category:Stormlords.md "wikilink"). They can also
+learn the [flash](Flash.md "wikilink") spell through a Hero-level
+[spellbook](:Category:Spellbooks.md "wikilink") designed for the
+purpose, but will experience greater spell lag as a result of the spell
+being innate to the Sorcerer class. They also lose access to the
+majority of psionic spells available to Mages and Stormlords - notably
 [fortitudes](fortitudes "wikilink") and the Bio Empathy skill - and
 their hlist (the list of their learnable spells/skills at hero) is
 considerably more specialized and streamlined than the comprehensive
@@ -81,15 +81,15 @@ The wizard trainer, [Threnadir](Threnadir "wikilink"), mentions rather
 clearly that wisdom is an important factor of becoming a wizard.
 
 **Races need at least a base of 19 [wisdom](wisdom "wikilink") to become
-a wizard. Races with sufficient wisdom: [Ents](Ent "wikilink"),
-[Gnomes](Gnome "wikilink"), [Deep Gnomes](Deep_Gnome "wikilink"),
-[Centaurs](Centaur "wikilink"), [Tuataurs](Tuataur "wikilink"),
-[Griffons](Griffon "wikilink") and [High Elves](High_Elf "wikilink").**
-With the [Rebirth](Rebirth "wikilink") command, any race can now play
-this class provided they were already wizards with a remort race prior
-to rebirth. Alternatively, one can also remort to any creatable race at
-Lord level 25 without being a remort race to begin with (as would be
-required with the rebirth option).
+a wizard. Races with sufficient wisdom: [Ents](Ent.md "wikilink"),
+[Gnomes](Gnome.md "wikilink"), [Deep Gnomes](Deep_Gnome.md "wikilink"),
+[Centaurs](Centaur.md "wikilink"), [Tuataurs](Tuataur.md "wikilink"),
+[Griffons](Griffon.md "wikilink") and [High
+Elves](High_Elf.md "wikilink").** With the [Rebirth](Rebirth "wikilink")
+command, any race can now play this class provided they were already
+wizards with a remort race prior to rebirth. Alternatively, one can also
+remort to any creatable race at Lord level 25 without being a remort
+race to begin with (as would be required with the rebirth option).
 
 `EXCEPTIONS: You can not rebirth to ENT, FDK, GOL, HIE, HOB, HUM, LSI or MIR. Only TUA can rebirth to DRG.`
 
@@ -103,8 +103,8 @@ trying again, it worked.
 
 If Threnadir says 'You would make a poor Wizard with such paltry arcane
 might.', you might need more mana. Wearing [mana
-gear](:Category:Lowmort_41-50_Mana_Gear "wikilink") will help out. 507
-mana appeared to be enough on one occasion.
+gear](:Category:Lowmort_41-50_Mana_Gear.md "wikilink") will help out.
+507 mana appeared to be enough on one occasion.
 
 To actually become a wizard, you need to be at Threnadir and use the
 [Prestige](Prestige "wikilink") command.
@@ -121,12 +121,12 @@ DEX is of value in improving your AC, whereas STR is of marginal use.
 Wizards get to practice a repertoire of spells very similar to mages
 (disintegrate, acid rain, mystical barrier, charge shield, ward,
 amplify). However, wizards do have access to
-[acumen](Acumen "wikilink"), and (much less importantly)
+[acumen](Acumen.md "wikilink"), and (much less importantly)
 [Timewarp](Timewarp "wikilink"), which can be used as a poor man's
-[ablution](Ablution "wikilink").
+[ablution](Ablution.md "wikilink").
 
 [Flash](Flash "wikilink") and [Rune](Rune "wikilink") can be learned
-from [spellbooks](:Category:Spellbooks "wikilink") at hero tier, and
+from [spellbooks](:Category:Spellbooks.md "wikilink") at hero tier, and
 this selection of (special) spells can be further expanded at lord tier.
 Although out-of-class for wizards, [Flash](Flash "wikilink") is one of
 their trademark spells, and helps greatly when battling large rooms
@@ -143,19 +143,20 @@ relevant any more.
 
 ### Worship
 
-See [mages](:Category:Mages#Worshipping "wikilink"). Identical applies
-to wizards for both worship and devotion.
+See [mages](:Category:Mages#Worshipping.md "wikilink"). Identical
+applies to wizards for both worship and devotion.
 
 Of note is that [Flash](Flash "wikilink") if out-of-class for wizards,
 and thus it's lag is twice as long as it is for
-[Sorcerers](:Category:Sorcerers "wikilink"). For it to be practical and
-useful against large rooms, it should also be fast. Atheist lag is 10
-ticks, Shizaga decreases the lag to 8 ticks, and Quixoltan will increase
-the lag to 11 ticks (nearly 3 rounds) so its usability will suffer. For
-this reason it's common to have an alias that turns on quicken, casts
-flash, and turns off quicken. However, some races (tuataurs, dragons,
-ents, etc.) have more hp and racial armor, and thus have less need for
-flash – and they can afford the increased lag if they flash at all.
+[Sorcerers](:Category:Sorcerers.md "wikilink"). For it to be practical
+and useful against large rooms, it should also be fast. Atheist lag is
+10 ticks, Shizaga decreases the lag to 8 ticks, and Quixoltan will
+increase the lag to 11 ticks (nearly 3 rounds) so its usability will
+suffer. For this reason it's common to have an alias that turns on
+quicken, casts flash, and turns off quicken. However, some races
+(tuataurs, dragons, ents, etc.) have more hp and racial armor, and thus
+have less need for flash – and they can afford the increased lag if they
+flash at all.
 
 ### Fighting
 
@@ -168,19 +169,19 @@ more important.
 These are some of the popular areas for wizard solo play, with the
 harder areas being both more difficult, as well as more rewarding.
 
--   Low Hero: [Shadow Keep](:Category:Shadow_Keep "wikilink"), [Tortuga
-    Cay](:Category:Tortuga_Cay "wikilink"). These areas are simple, mobs
-    are relatively easy, and can be brought down quickly using
-    [Surge](Surge "wikilink").
+-   Low Hero: [Shadow Keep](:Category:Shadow_Keep.md "wikilink"),
+    [Tortuga Cay](:Category:Tortuga_Cay.md "wikilink"). These areas are
+    simple, mobs are relatively easy, and can be brought down quickly
+    using [Surge](Surge "wikilink").
 -   Hero: [Necromancer's
-    Tower](:Category:Necromancer's_Tower "wikilink"), [Ruined Lair 3 Of
-    5](:Category:Ruined_Lair_3_Of_5 "wikilink"), [Akrikto's
-    Farm](:Category:Akrikto's_Farm "wikilink"). The first two teach the
-    new wizard how to use area spells, while the last one is similar to
-    Tortuga Cay, however teaches the wizard independence.
+    Tower](:Category:Necromancer's_Tower.md "wikilink"), [Ruined Lair 3
+    Of 5](:Category:Ruined_Lair_3_Of_5.md "wikilink"), [Akrikto's
+    Farm](:Category:Akrikto's_Farm.md "wikilink"). The first two teach
+    the new wizard how to use area spells, while the last one is similar
+    to Tortuga Cay, however teaches the wizard independence.
 -   Super Hero: [Exploration
-    Outpost](:Category:Exploration_Outpost "wikilink"), [Sun God
-    Altar](:Category:Sun_God_Altar "wikilink"). Both of these require
+    Outpost](:Category:Exploration_Outpost.md "wikilink"), [Sun God
+    Altar](:Category:Sun_God_Altar.md "wikilink"). Both of these require
     self-spelling, but offer 5-20+ mob rooms to take on at once, thus
     allowing for rapid leveling.
 
@@ -220,9 +221,9 @@ do have much larger mana pools to offset that.
 
 Not having [sneak](sneak "wikilink") can be annoying at Lord, but there
 are several good options for equipment to provide this (adding a
-[demonic lapis lazuli](Demonic_Lapis_Lazuli "wikilink") to a [silver
-chestplate](Silver_Chestplate "wikilink") for example). Also some races
-have the [racial sneak](Racial_Sneak "wikilink") ability.
+[demonic lapis lazuli](Demonic_Lapis_Lazuli.md "wikilink") to a [silver
+chestplate](Silver_Chestplate.md "wikilink") for example). Also some
+races have the [racial sneak](Racial_Sneak.md "wikilink") ability.
 
 Lord Wizards can learn some useful spells such as [Wall Of
 Thorns](Wall_Of_Thorns "wikilink") and [Barkskin](Barkskin "wikilink")
@@ -231,8 +232,8 @@ Lore](Dusty_Tome_Of_Forgotten_Lore "wikilink")).
 
 ## Wizard Remort Options
 
-Racial remort only. [HiE](High_Elves "wikilink"),
-[Tuataurs](Tuataurs "wikilink"), [DSD](Demonseeds "wikilink") and
+Racial remort only. [HiE](High_Elves.md "wikilink"),
+[Tuataurs](Tuataurs "wikilink"), [DSD](Demonseeds.md "wikilink") and
 [Sprites](Sprites "wikilink") are all solid choices, as they're
 excellent casters with above-average mana pools. Note that some of these
 races require you to be a wizard (using a creatable race) before

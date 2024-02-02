@@ -1,9 +1,9 @@
 # Notable Mobs
 
 [A moaning ghost drifts past, wrapped in the eternal shrouds of
-despair.](Shrouded_Ghost "wikilink")  
+despair.](Shrouded_Ghost.md "wikilink")  
 [(Hide) (Black Aura) (Sneak) Blackness, despair, all are here and all is
-lost!](Shade_Of_Lost_Hope "wikilink")
+lost!](Shade_Of_Lost_Hope.md "wikilink")
 
 # Other Notes
 

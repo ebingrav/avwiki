@@ -15,22 +15,23 @@ place, I will reward you.*
 *With that, she returns to her pacing and pays you no more heed.*
 
 **Keywords:** ghost, captain, Faraday, woman.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** [invis](Invis "wikilink"), [pass
-door](Pass_Door "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** [invis](Invis.md "wikilink"), [pass
+door](Pass_Door.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Up against the Great Wall.  
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\], s, 3e, enter
-mausoleum.  
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Up against the Great
+Wall.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\], s, 3e,
+enter mausoleum.  
 
 [Category: Mobs In Defender's
 Graveyard](Category:_Mobs_In_Defender's_Graveyard "wikilink")

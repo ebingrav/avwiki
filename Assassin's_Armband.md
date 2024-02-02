@@ -10,8 +10,8 @@ Modifies armor class by -5 continous.
 `Slot: Arms`  
 `Weight: 5`  
 `Flags: dark anti-good`  
-`Plane: `[`Outland`](:Category:Outland "wikilink")  
-`Area: `[`Outland`` ``Proper`](:Category:Outland_Proper "wikilink")  
+`Plane: `[`Outland`](:Category:Outland.md "wikilink")  
+`Area: `[`Outland`` ``Proper`](:Category:Outland_Proper.md "wikilink")  
 `Mob: `[`Lookout`](Lookout "wikilink")  
 
 ------------------------------------------------------------------------

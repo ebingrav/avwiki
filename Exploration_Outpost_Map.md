@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="exploration.outpost.jpg" title="exploration.outpost.jpg"
-width="650" alt="exploration.outpost.jpg" />
-<figcaption aria-hidden="true">exploration.outpost.jpg</figcaption>
+<img src="exploration.outpost.jpg.md" title="exploration.outpost.jpg.md"
+width="650" alt="exploration.outpost.jpg.md" />
+<figcaption aria-hidden="true">exploration.outpost.jpg.md</figcaption>
 </figure>
 
 [Eragora Walkways Map](Eragora_Walkways_Map "wikilink")  

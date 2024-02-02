@@ -3,29 +3,29 @@ end of its wooden haft, with a shorter, wider one in the middle. It is
 primarily used to catch fish, but it looks sharp enough to hunt
 anything.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 8-10 to 26 (average 17-18).`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -8 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 8-10 to 26 (average 17-18).`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -8 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** trident.  
-**[Level(s)](Object_Level "wikilink"):** 22-24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 22-24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The River
-Folk](:Category:_River_Folk "wikilink")
-([Map](River_Folk_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a Lhadvar
-fisherman](Lhadvar_Fisherman "wikilink").  
-See [a Lhadvar fisherman](Lhadvar_Fisherman "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [The River
+Folk](:Category:_River_Folk.md "wikilink")
+([Map](River_Folk_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a Lhadvar
+fisherman](Lhadvar_Fisherman.md "wikilink").  
+See [a Lhadvar fisherman](Lhadvar_Fisherman.md "wikilink") for more
 information.  
 
 [Category: Gear In River Folk](Category:_Gear_In_River_Folk "wikilink")

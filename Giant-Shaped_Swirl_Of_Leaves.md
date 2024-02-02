@@ -4,11 +4,11 @@ remainder of foliage shifts its position, this form is not lost but
 recreates itself over and over again.*
 
 **Keywords:** swirl, leaves.  
-**[Level](Level "wikilink"):** 67.  
+**[Level](Level.md "wikilink"):** 67.  
 **Scan Description:** A giant-shaped swirl of half-decayed leaves drifts
 along.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** [fly](fly "wikilink"),
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [fly](fly "wikilink"),
 [sneak](sneak "wikilink").  
 **Affects:** ?.  
 
@@ -27,9 +27,9 @@ Quest](Shield_Of_The_Tree_Quest "wikilink").
 
 wanders
 
-**[Area](:Category:_Areas "wikilink"):** [The Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
 
 [Category: Mobs In Transfigured
 Forest](Category:_Mobs_In_Transfigured_Forest "wikilink")

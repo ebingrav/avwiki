@@ -1,7 +1,8 @@
-*[Druids](:Category:_Druids "wikilink") who
-[practice](Practice "wikilink") this
-[skill](:Category:_Skills_And_Spells "wikilink") may
-[fletch](Fletch "wikilink") [green arrows](Green_Arrows "wikilink").*
+*[Druids](:Category:_Druids.md "wikilink") who
+[practice](Practice.md "wikilink") this
+[skill](:Category:_Skills_And_Spells.md "wikilink") may
+[fletch](Fletch.md "wikilink") [green
+arrows](Green_Arrows.md "wikilink").*
 
 Made of green wood and fletched with leaves, these arrows are magically
 enhanced such that they repair themselves, meaning they can never be
@@ -10,8 +11,8 @@ enchantments make them quite damaging, especially to undead.
 
 Prerequisite(s): none.
 
-Syntax: [fletch](Fletch "wikilink")
-\<[arrows](:Category:_Arrows "wikilink")/[bolts](:Category:_Bolts "wikilink")\>
+Syntax: [fletch](Fletch.md "wikilink")
+\<[arrows](:Category:_Arrows.md "wikilink")/[bolts](:Category:_Bolts.md "wikilink")\>
 green.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

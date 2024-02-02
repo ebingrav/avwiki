@@ -7,13 +7,13 @@ Itania to send him to Solace to train mage adventurers, he does not show
 it in the least.*
 
 **Keywords:** Tevin, mage  
-**[Level](Level "wikilink"):** ?  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** ?  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -25,17 +25,18 @@ invis](Detect_Invis "wikilink").
 
 ## Comments
 
-[Mages](:Category:_Mages "wikilink") may also find this guildmaster by
-[casting](Cast "wikilink") [detect magic](Detect_Magic "wikilink") upon
-themselves and then following ethereal floating arrows that they will
-detect outside of [Stonehall](:Category:_Stonehall "wikilink").
+[Mages](:Category:_Mages.md "wikilink") may also find this guildmaster
+by [casting](Cast.md "wikilink") [detect
+magic](Detect_Magic.md "wikilink") upon themselves and then following
+ethereal floating arrows that they will detect outside of
+[Stonehall](:Category:_Stonehall.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** Town Of Solace  
-**[Room](:Category:_Rooms "wikilink"):** Electricity in the air
-(portable, [safe](Safe_Rooms "wikilink")).  
-Walking route from [Sol](Sol "wikilink"):  
+**[Area](:Category:_Areas.md "wikilink"):** Town Of Solace  
+**[Room](:Category:_Rooms.md "wikilink"):** Electricity in the air
+(portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Sol](Sol.md "wikilink"):  
 The guildmaster is portable. pp tevin  
 
 [Category: Mobs In Town Of

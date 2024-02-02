@@ -1,4 +1,4 @@
-This is in [battleground](:_Category:Battleground "wikilink"). Go to
+This is in [battleground](:_Category:Battleground.md "wikilink"). Go to
 Greigon - at the far north of the area head up past the giants until you
 find his room. If you enter alone and no one else is in the area his
 mprog will open a vortex.
@@ -8,10 +8,10 @@ If you reach the end of the maze (saferoom) in time you will see a
 pedestal and the orb. There are a couple of ways to do this.
 
 1\) Solo (imps only) - enter the vortex, drop a coin and then
-[discorporate](Racial_Discorporate "wikilink"). Now you can explore the
-maze without dealing with the mobs. This is useful since the mobs really
-hurt and leaving them alive makes the maze easier. Each room has every
-possible exit, but scan will show fewer exits (so will the exit
+[discorporate](Racial_Discorporate.md "wikilink"). Now you can explore
+the maze without dealing with the mobs. This is useful since the mobs
+really hurt and leaving them alive makes the maze easier. Each room has
+every possible exit, but scan will show fewer exits (so will the exit
 command). The correct room will always be one of the rooms shown on
 scan/exit. Leaving the mobs alive helps because you can scan and see
 which directions take you to the same room based on the mobs in them at

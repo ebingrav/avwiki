@@ -7,8 +7,8 @@
 `break an appendage off of a nearby soul and beat the soul with it.`
 
 `Ice devil is using:`  
-[`a`` ``brazier`` ``of`` ``unholy`` ``blue`` ``fire`](Brazier_Of_Unholy_Blue_Fire "wikilink")  
-[`ice`` ``spear`](Ice_Spear "wikilink")
+[`a`` ``brazier`` ``of`` ``unholy`` ``blue`` ``fire`](Brazier_Of_Unholy_Blue_Fire.md "wikilink")  
+[`ice`` ``spear`](Ice_Spear.md "wikilink")
 
 [Category: Grandfathered Mobs](Category:_Grandfathered_Mobs "wikilink")
 [Category: Mobs In Descent To

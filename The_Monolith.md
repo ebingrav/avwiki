@@ -9,9 +9,9 @@
 `of great wars and powerful sorcery. Yet here it stands--singular,`  
 `stoic, and unbreakable.`
 
-**[Commune Bonus](Commune "wikilink"):** AC -220 (?)
+**[Commune Bonus](Commune.md "wikilink"):** AC -220 (?)
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Body](Aspect_-_Body "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Body](Aspect_-_Body.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

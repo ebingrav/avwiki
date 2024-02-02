@@ -4,13 +4,13 @@
 bright red course across its surface.*
 
 **Keyword(s):** iron ring.  
-**[Level(s)](Object_Level "wikilink"):** 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** .  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** .  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 

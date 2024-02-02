@@ -1,26 +1,26 @@
 *A cloak is here, made badly out of sheep's hide.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 2-4.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 2-4.`
 
 **Keyword(s):** sheepskin, cloak, hide.  
-**[Level(s)](Object_Level "wikilink"):** 11-13.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 11-13.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Heather
-Flats](:Category:_Heather_Flats "wikilink")
-([Map](Heather_Flats_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [the
-wyrdling](Wyrdling "wikilink").  
-See [the wyrdling](Wyrdling "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Heather
+Flats](:Category:_Heather_Flats.md "wikilink")
+([Map](Heather_Flats_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [the
+wyrdling](Wyrdling.md "wikilink").  
+See [the wyrdling](Wyrdling.md "wikilink") for more information.  
 
 [Category: Gear In Heather
 Flats](Category:_Gear_In_Heather_Flats "wikilink") [Category:

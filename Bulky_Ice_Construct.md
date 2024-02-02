@@ -2,12 +2,12 @@
 something dark moving within the translucent mass.*
 
 **Keywords:** bulky, ice, amalgamation.  
-**[Level](Level "wikilink"):** 64.  
+**[Level](Level.md "wikilink"):** 64.  
 **Scan Description:** The bulky body of this amalgamation of frost
 blocks the view onward.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** .  
-**Affects:** [sneak](Sneak "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** .  
+**Affects:** [sneak](Sneak.md "wikilink").  
 
 ## Gear
 
@@ -21,16 +21,16 @@ blocks the view onward.
 
 *A dark cloud thrusts you aside as the ice block cracks open.*
 
-Spawns [a howling storm head](Howling_Storm_Head "wikilink") when
+Spawns [a howling storm head](Howling_Storm_Head.md "wikilink") when
 killed.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Storm
-Canyon](:Category:_Storm_Canyon "wikilink")
-([Map](Storm_Canyon_Map "wikilink")).  
-[Portaling](Portal "wikilink") point suggested: [big
-fish](Big_Fish_In_Cold_Water "wikilink"), n, w, n  
+**[Area](:Category:_Areas.md "wikilink"):** [Storm
+Canyon](:Category:_Storm_Canyon.md "wikilink")
+([Map](Storm_Canyon_Map.md "wikilink")).  
+[Portaling](Portal.md "wikilink") point suggested: [big
+fish](Big_Fish_In_Cold_Water.md "wikilink"), n, w, n  
 
 [Category: Mobs In Storm
 Canyon](Category:_Mobs_In_Storm_Canyon "wikilink")

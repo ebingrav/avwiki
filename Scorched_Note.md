@@ -20,7 +20,7 @@ Flags: glow hum magic
 Weight 5  
 level 125  
 Mob: Imix  
-Area: [Inferno Peak](:Category:Inferno_Peak "wikilink")
+Area: [Inferno Peak](:Category:Inferno_Peak.md "wikilink")
 
 [Category:Gear In Inferno
 Peak](Category:Gear_In_Inferno_Peak "wikilink")

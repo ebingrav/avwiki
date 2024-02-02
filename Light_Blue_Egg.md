@@ -5,28 +5,28 @@ gives off a light glow of the same blue. The resulting halo almost makes
 those who look at it feel warm and welcome. It is almost begging to be
 picked up...*
 
-`Level 6 spells of: '`[`cure`` ``light`](Cure_Light "wikilink")`'.`
+`Level 6 spells of: '`[`cure`` ``light`](Cure_Light.md "wikilink")`'.`
 
 **Keyword(s):** guineafowl, egg.  
-**[Level(s)](Object_Level "wikilink"):** 10.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 10.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sableroix
-Manor](:Category:_Sableroix_Manor "wikilink")
-([Map](Sableroix_Manor_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A Dense Thicket of Tree
+**[Area](:Category:_Areas.md "wikilink"):** [Sableroix
+Manor](:Category:_Sableroix_Manor.md "wikilink")
+([Map](Sableroix_Manor_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A Dense Thicket of Tree
 (portable) in a scrubby looking nest.  
-Walking route from [A Pangolin](Pangolin "wikilink"): 3e, s, 2e, s.
+Walking route from [A Pangolin](Pangolin.md "wikilink"): 3e, s, 2e, s.
 
 [Category: Gear In Sableroix
 Manor](Category:_Gear_In_Sableroix_Manor "wikilink") [Category:

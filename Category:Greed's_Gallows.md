@@ -1,10 +1,10 @@
 *Pirates tell tales of a beautiful island on the very edge of the
-[ocean](:Category:_Sea_Of_Strayed_Hopes "wikilink") where no pirate has
-ever returned. They call it 'Greed's Gallows', yet no one knows why.
+[ocean](:Category:_Sea_Of_Strayed_Hopes.md "wikilink") where no pirate
+has ever returned. They call it 'Greed's Gallows', yet no one knows why.
 Lately, the story of this cursed island has been revived. A handful of
 people say they have heard rumors of a robed man trying to persuade
 sailors to venture there; even though [Lord
-Audis](Lord_Audis "wikilink") has personally banned any sort of
+Audis](Lord_Audis.md "wikilink") has personally banned any sort of
 sea-faring venture to such a dangerous place.*
 
 **Level Range:** 51-51
@@ -13,20 +13,21 @@ sea-faring venture to such a dangerous place.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 37s, 6w, s (note:
-crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 37s, 6w, s (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [barrel
-monkeys](Barrel_Of_Monkeys "wikilink") (note: wanders), [pod
-manatees](Pod_Of_Manatees "wikilink") (note: wanders).
+[Portaling](Portal.md "wikilink") point(s) suggested: [barrel
+monkeys](Barrel_Of_Monkeys.md "wikilink") (note: wanders), [pod
+manatees](Pod_Of_Manatees.md "wikilink") (note: wanders).
 
 ## Connections
 
-A list of [areas](:Category:_Areas "wikilink") connected to the Greed's
-Gallows:
+A list of [areas](:Category:_Areas.md "wikilink") connected to the
+Greed's Gallows:
 
--   [ Sea of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink").
--   [ A Private Hell](:Category:A_Private_Hell "wikilink").
+-   [ Sea of Strayed
+    Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink").
+-   [ A Private Hell](:Category:A_Private_Hell.md "wikilink").
 
 ## Navigation
 
@@ -58,9 +59,9 @@ fact that he's demonfired, which makes him good for HDL setting. The
 butcher eats corpses and the master animates, so watch out. There is
 also a sanced [Enslaved Dark Dragon](Enslaved_Dark_Dragon "wikilink") in
 a room with two invisible avatars of avarice. The dragon is part of the
-[ruby fingerblades](Set_Of_Ruby_Fingerblades_Quest "wikilink") quest.
-There is also a a part of the [quest](Panacea_Quest "wikilink") here for
-a nice [div potion](Panacea_(potion) "wikilink").
+[ruby fingerblades](Set_Of_Ruby_Fingerblades_Quest.md "wikilink") quest.
+There is also a a part of the [quest](Panacea_Quest.md "wikilink") here
+for a nice [div potion](Panacea_(potion).md "wikilink").
 
 To get from bar monk down to the pod mana area, find the room with the
 title "All Good Things Must come to an End". It only has an exit to the

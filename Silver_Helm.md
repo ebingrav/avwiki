@@ -8,8 +8,8 @@ along the helm give the impression of flames.*
 Slot: Head  
 Weight: 2  
 Flags: magic nolocate  
-Plane: [Outland](:Category:Outland "wikilink")  
-Area: [Outland Proper](:Category:Outland_Proper "wikilink")  
+Plane: [Outland](:Category:Outland.md "wikilink")  
+Area: [Outland Proper](:Category:Outland_Proper.md "wikilink")  
 Mob: ?  
   
 There is also a -85 helm. There is a down exit from Outland proper that

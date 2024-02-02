@@ -1,12 +1,13 @@
 *The Way of Perfection requires that a
-[Priest](:Category:_Priests "wikilink") deal only with those of pure
+[Priest](:Category:_Priests.md "wikilink") deal only with those of pure
 intention. This discipline gives a boost in healing power to the
-[Priest](:Category:_Priests "wikilink") who [casts](Cast "wikilink")
-upon those of high [alignment](Alignment "wikilink"), but a penalty to
-the [Priest](:Category:_Priests "wikilink") who deigns to heal unwashed
+[Priest](:Category:_Priests.md "wikilink") who
+[casts](Cast.md "wikilink") upon those of high
+[alignment](Alignment.md "wikilink"), but a penalty to the
+[Priest](:Category:_Priests.md "wikilink") who deigns to heal unwashed
 evil heathens.*
 
-Prerequisites: [Via Pax](Via_Pax "wikilink").
+Prerequisites: [Via Pax](Via_Pax.md "wikilink").
 
 Syntax: none (automatic).
 

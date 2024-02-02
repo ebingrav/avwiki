@@ -10,7 +10,7 @@ discovered which darkly mirrors this blighted region of Midgaard.*
 
 ## Navigation
 
-Map is similar to [Midgaard's](Midgaard "wikilink")
+Map is similar to [Midgaard's](Midgaard.md "wikilink")
 [Apocalypse](Apocalypse "wikilink")
 
 ## Adventuring

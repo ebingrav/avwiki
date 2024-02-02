@@ -1,10 +1,10 @@
 *This graveyard is set aside for the sole use of those who die bravely
-upon the [Great Wall](:Category:_Highways/Great_Wall "wikilink") in the
-defense of [Midgaard](:Category:_Midgaard "wikilink"). The Graveyard was
-built close enough to the [Great
-Wall](:Category:_Highways/Great_Wall "wikilink") so that those still
-defending [Midgaard](:Category:_Midgaard "wikilink") could look down and
-see their heroes at rest. Unfortunately, not all of the dead are at
+upon the [Great Wall](:Category:_Highways/Great_Wall.md "wikilink") in
+the defense of [Midgaard](:Category:_Midgaard.md "wikilink"). The
+Graveyard was built close enough to the [Great
+Wall](:Category:_Highways/Great_Wall.md "wikilink") so that those still
+defending [Midgaard](:Category:_Midgaard.md "wikilink") could look down
+and see their heroes at rest. Unfortunately, not all of the dead are at
 rest.*
 
 **Level Range:** 30-40
@@ -13,10 +13,10 @@ rest.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\].
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Henry](Henry_The_Gardener "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Henry](Henry_The_Gardener.md "wikilink").
 
 ## Connections
 

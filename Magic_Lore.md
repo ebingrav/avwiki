@@ -1,31 +1,31 @@
 *Over the years, practitioners of the magical arts have gathered
 together numerous little tidbits of knowledge about the strange ways
-that [things](:Category:_Objects "wikilink") behave. The more useful
+that [things](:Category:_Objects.md "wikilink") behave. The more useful
 parts of this information are collectively known as "magic lore". Those
 who have assimilated this lore know instinctively the way that an
-[enchanted](Enchant_Weapon "wikilink")
-[weapon](:Category:_Weapons "wikilink") quivers when it is waved, the
-degree of power within a [potion](:Category:_Potions "wikilink"), the
+[enchanted](Enchant_Weapon.md "wikilink")
+[weapon](:Category:_Weapons.md "wikilink") quivers when it is waved, the
+degree of power within a [potion](:Category:_Potions.md "wikilink"), the
 particular manner in which an evil doublet will refuse to lace up, and a
 veritable gaggle of other bits of information that collectively make
 magic lore a useful addition to one's knowledge. Additionally, those
-versed in magic lore who have reached [level](Level "wikilink") 25 are
-always exactly aware of what [spells and
-skills](:Category:_Skills_And_Spells "wikilink")
-[affect](Affects "wikilink") them and for how long.*
+versed in magic lore who have reached [level](Level.md "wikilink") 25
+are always exactly aware of what [spells and
+skills](:Category:_Skills_And_Spells.md "wikilink")
+[affect](Affects.md "wikilink") them and for how long.*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
-Syntax: [examine](Examine "wikilink")
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: [examine](Examine.md "wikilink")
+\<[object](:Category:_Objects.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is handy for
-[characters](:Category:_Characters "wikilink") of
-[spellcasting](Cast "wikilink")
-[classes](:Category:_Classes "wikilink"), and is useful for any
-[character](:Category:_Characters "wikilink") wanting to check
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is handy for
+[characters](:Category:_Characters.md "wikilink") of
+[spellcasting](Cast.md "wikilink")
+[classes](:Category:_Classes.md "wikilink"), and is useful for any
+[character](:Category:_Characters.md "wikilink") wanting to check
 his/her/its
-[buffing-spells](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")'
+[buffing-spells](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")'
 duration.
 
 If you don't have magic lore, here is a guide of hero duration spells.

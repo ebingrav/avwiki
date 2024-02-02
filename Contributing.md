@@ -7,10 +7,11 @@ add, but aren't sure you completely understand all the editing features,
 just do your best. If it doesn't fit some format that we're following we
 can always change it. Poorly formatted information is better than no
 information at all. Recently we created some
-[Templates](:Category:Templates "wikilink") to make it easier to create
-new pages. The idea is that you can quickly create a new page by copying
-a [Template](:Category:Templates "wikilink") and filling in the blanks.
-See [Templates](:Category:Templates "wikilink") for more information.
+[Templates](:Category:Templates.md "wikilink") to make it easier to
+create new pages. The idea is that you can quickly create a new page by
+copying a [Template](:Category:Templates.md "wikilink") and filling in
+the blanks. See [Templates](:Category:Templates.md "wikilink") for more
+information.
 
 #### Creating A New Article
 
@@ -22,7 +23,7 @@ don't worry, there's still two easy ways to create your article. The
 first is to use the search box to search for your new article. If it
 doesn't already exist you will be presented with a link to create your
 new page. If you create a new article in this method, be sure to put it
-in the appropriate [categories](Special:Categories "wikilink").
+in the appropriate [categories](Special:Categories.md "wikilink").
 
 The other way to create a new page is to edit any page at all, create
 the link to your new page, click "Show Preview", and then follow the
@@ -33,11 +34,12 @@ page.
 The reason why there isn't another way to create new pages is because if
 you don't link the page from any existing pages nobody will be able to
 get to it. The page becomes what the wiki calls an ["orphaned"
-page](:Special:Lonelypages "wikilink"). Orphaned pages don't do anything
-helpful and are not really a part ot the wiki. So in review, figure out
-what page is going to bring people to your new page, make a link, follow
-that link, add to the page, categorize the page. That should be the work
-progression that everybody follows when making a new page.
+page](:Special:Lonelypages.md "wikilink"). Orphaned pages don't do
+anything helpful and are not really a part ot the wiki. So in review,
+figure out what page is going to bring people to your new page, make a
+link, follow that link, add to the page, categorize the page. That
+should be the work progression that everybody follows when making a new
+page.
 
 #### Naming Pages
 
@@ -67,17 +69,17 @@ of that category, do something like \[\[:Category:blah\]\] \<--that. The
 important part is the colon ( : ) in front of the word Category.
 
 If you think that having your link say "Category:" in front of it is
-ugly, you can rename the link with a pipe ( \| ). For instance, by
+ugly, you can rename the link with a pipe (.md\| ). For instance, by
 typing \[\[:Category:Gear In Apocalypse\|Apoc Gear\]\] I've made this
 link to the same page as the one linked above: [Apoc
-Gear](:Category:Gear_In_Apocalypse "wikilink"). BTW, link renaming works
-for all links, not just those to categories.
+Gear](:Category:Gear_In_Apocalypse.md "wikilink"). BTW, link renaming
+works for all links, not just those to categories.
 
 Recently I discovered a short-cut for renaming categories. If you type
 in \[\[:Category:Gear In Apocalypse\|\]\] the wiki parser will
 automatically figure out what you mean, and fill in the rest for you.
 Here's what it looks like: [Gear In
-Apocalypse](:Category:Gear_In_Apocalypse "wikilink")
+Apocalypse](:Category:Gear_In_Apocalypse.md "wikilink")
 
 #### Editing Secrets
 
@@ -92,8 +94,8 @@ If you can't figure something out, try looking at
 
 If starting a new page seems daunting there are pages that currently
 exist but need fleshing out. Take a look at the
-[Incomplete](:Category:Incomplete "wikilink") page for those that need a
-bit more information.
+[Incomplete](:Category:Incomplete.md "wikilink") page for those that
+need a bit more information.
 
 #### Spoilers
 

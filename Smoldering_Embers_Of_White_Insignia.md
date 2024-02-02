@@ -1,6 +1,6 @@
 This insignia is awarded by completing the [Great Summoning
 Quest](Great_Summoning_Quest "wikilink") in
-[Summoning](:Category:Summoning "wikilink").
+[Summoning](:Category:Summoning.md "wikilink").
 
 It lasts throughout hero.
 

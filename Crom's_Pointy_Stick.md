@@ -13,7 +13,7 @@ Keywords: pointy stick crom lordgear
 How to get:
 
 1\. Get a [Head On A Stick](Head_On_A_Stick "wikilink") from the
-[Mountain Of Madness](:Category:Mountain_Of_Madness "wikilink").
+[Mountain Of Madness](:Category:Mountain_Of_Madness.md "wikilink").
 
 2\. Embed the following perfect gems into it: 1 diamond, 1 ruby, 1
 emerald, 1 sapphire, 4 amethyst

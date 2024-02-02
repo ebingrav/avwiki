@@ -6,30 +6,31 @@ guild, keeping the working thieves in order and teaching them the tricks
 of the trade.*
 
 **Keywords:** old, halfling, thief, dutymaster.  
-**[Level](Level "wikilink"):** 8.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:Trainers "wikilink"),
-[thief](Thieving_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 8.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:Trainers.md "wikilink"),
+[thief](Thieving_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `The dutymaster is using:`  
-<worn on feet>`      `[`soft`` ``thief`` ``shoes`](Soft_Thief_Shoes "wikilink")
+<worn on feet>`      `[`soft`` ``thief`` ``shoes`](Soft_Thief_Shoes.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Orphanage](:Category:_Orphanage "wikilink")
-([Map](Orphanage_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A meeting room (portable).  
-Walking route from [Sol](Sol "wikilink"): 3e, 2s, 2e, \[e\], e, \[e\],
-n, 2e, \[e\], e.  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Orphanage](:Category:_Orphanage.md "wikilink")
+([Map](Orphanage_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A meeting room
+(portable).  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2s, 2e, \[e\], e,
+\[e\], n, 2e, \[e\], e.  
 The dutymaster is portable.  
 
 [Category: Mobs In Orphanage](Category:_Mobs_In_Orphanage "wikilink")

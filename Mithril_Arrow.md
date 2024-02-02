@@ -3,8 +3,8 @@ This skill allows you to create mithril arrows, bolts and stones.
 Prerequisite(s): [Fletch](Fletch "wikilink"), [Piercing
 Arrow](Piercing_Arrow "wikilink")
 
-Syntax: [fletch](Fletch "wikilink")
-\<[arrows](:Category:_Arrows "wikilink")/[bolts](:Category:_Bolts "wikilink")/[stones](:Category:_Stones "wikilink")\>
+Syntax: [fletch](Fletch.md "wikilink")
+\<[arrows](:Category:_Arrows.md "wikilink")/[bolts](:Category:_Bolts.md "wikilink")/[stones](:Category:_Stones.md "wikilink")\>
 mithril.
 
 Does less damage than [Ice Arrow](Ice_Arrow "wikilink") and [Lightning

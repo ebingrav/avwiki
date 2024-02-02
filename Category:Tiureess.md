@@ -14,24 +14,24 @@ lands above.*
 
 **Builder:** Izanagi
 
-This [area](:Category:_Areas "wikilink") was added in 2010 Nov.  
+This [area](:Category:_Areas.md "wikilink") was added in 2010 Nov.  
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): ???.
+Walking route from [Sol](Sol.md "wikilink"): ???.
 
-Walking route from [Aelmon](Aelmon "wikilink"): ???.
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Septarch
+[Portaling](Portal.md "wikilink") point(s) suggested: [Septarch
 Envy](Septarch_Envy "wikilink").
 
 ## Connections
 
 This area connects to:
 
--   [Westwood](:Category:_Westwood "wikilink"),
--   [The Airways](:Category:_Airways "wikilink"), and
--   [Fewmaster's Folly](:Category:_Fewmaster's_Folly "wikilink").
+-   [Westwood](:Category:_Westwood.md "wikilink"),
+-   [The Airways](:Category:_Airways.md "wikilink"), and
+-   [Fewmaster's Folly](:Category:_Fewmaster's_Folly.md "wikilink").
 
 ## Navigation
 
@@ -42,7 +42,7 @@ different function on each.
 The three smaller terraces that can be climbed to from the ground level
 all connect to the large one around the central tree via rope bridges.
 From the central valenwood tree one can also climb upwards to reach the
-[Airways](:Category:_Airways "wikilink").
+[Airways](:Category:_Airways.md "wikilink").
 
 The map in the wiki is missing multiple hidden rooms which further the
 plot.
@@ -58,7 +58,7 @@ see a hilarious and a serious story at the same time, of the Drow that
 are trying oh-so-hard to adapt to their new environment after they lost
 the war with the invading Duergar force. As such, the story-arc directly
 ties in with the [Graw
-Akkuurattaan](:Category:Graw_Akkuurattaan "wikilink") happenings, and
+Akkuurattaan](:Category:Graw_Akkuurattaan.md "wikilink") happenings, and
 both share tie-in quests. It is recommended you first do the Graw side
 as it's intended for a few level's smaller characters than this one.
 

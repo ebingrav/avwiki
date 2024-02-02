@@ -6,11 +6,12 @@ slipping away...*
 mayhem you try to sneak away from combat. Obviously, this will fail if
 someone is fighting you directly.*
 
-*The skill relies heavily on your ability to [sneak](Sneak "wikilink")
-and the [alertness](Alertness "wikilink") of the things going on around
-you. A high number of allies fighting improves your chances of sneaking
-away successfully, while a high number of opponents increases the
-chances of being detected.*
+*The skill relies heavily on your ability to
+[sneak](Sneak.md "wikilink") and the
+[alertness](Alertness.md "wikilink") of the things going on around you.
+A high number of allies fighting improves your chances of sneaking away
+successfully, while a high number of opponents increases the chances of
+being detected.*
 
 *A group leader using the [Mastermind](Mastermind "wikilink") skill will
 noticably increase the odds of succesfully disengaging.*

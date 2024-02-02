@@ -1,28 +1,28 @@
 *A simple amulet with a holy symbol is here.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 1.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 1.`
 
 **Keyword(s):** gorn, amulet, newbie.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Avatar
-Mudschool](:Category:_Avatar_Mudschool "wikilink")
-([Map](Avatar_Mudschool_Map "wikilink"))  
-[Monks](:Category:Monks "wikilink") are given one when created. Check
+**[Area](:Category:_Areas.md "wikilink"):** [Avatar
+Mudschool](:Category:_Avatar_Mudschool.md "wikilink")
+([Map](Avatar_Mudschool_Map.md "wikilink"))  
+[Monks](:Category:Monks.md "wikilink") are given one when created. Check
 the [Armourer](Armourer "wikilink") in
-[Midgaard](:Category:_Midgaard "wikilink"), he might have one for sale
-once in a great while.
+[Midgaard](:Category:_Midgaard.md "wikilink"), he might have one for
+sale once in a great while.
 
 [Category: Gear In Avatar
 Mudschool](Category:_Gear_In_Avatar_Mudschool "wikilink") [Category:

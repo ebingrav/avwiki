@@ -4,14 +4,14 @@
 Bases: 10-12  
 Levels: 50-52  
 Weight: 5  
-Area: [Great Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink"))  
+Area: [Great Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink"))  
 Mob: [Arcanthra The Black](Arcanthra_The_Black "wikilink")  
 Port to [Wartha](Wartha "wikilink") *(Aggie)*, track Arcanthra.
 Arcanthra is in the north-westish part of the area. [Arcanthra the
-Black](Arcanthra "wikilink") and [Grantus, dwarven military
-strategist](Grantus,_Dwarven_Military_Strategist "wikilink") are in the
-same room so be ready.
+Black](Arcanthra.md "wikilink") and [Grantus, dwarven military
+strategist](Grantus,_Dwarven_Military_Strategist.md "wikilink") are in
+the same room so be ready.
 
 '''Warning: This area is full of aggie mobs; beware.
 

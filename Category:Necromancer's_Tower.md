@@ -1,10 +1,10 @@
 *It is rumored that, somewhere, deep within a remote mountain range,
 there lurks a nameless Necromancer, whose power to control the dead is
 rivalled only by the Gods themselves. It is said that this madman is
-amassing a huge army of the [Undead](Undead_Mobs "wikilink") to walk
+amassing a huge army of the [Undead](Undead_Mobs.md "wikilink") to walk
 forth and conquer our Realm. Some rumors say that even such powerful
-[Undead](Undead_Mobs "wikilink") as Ciquala and Nubrius are not immune
-to his machinations.*
+[Undead](Undead_Mobs.md "wikilink") as Ciquala and Nubrius are not
+immune to his machinations.*
 
 **Level Range:** 51-51
 
@@ -12,19 +12,19 @@ to his machinations.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16s, 2e, s, 3e, 2s, 4e,
-2n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16s, 2e, s, 3e, 2s,
+4e, 2n.
 
-Walking route from [Kelsee](Kelsee "wikilink"): 5s, 2e, 2n.
+Walking route from [Kelsee](Kelsee.md "wikilink"): 5s, 2e, 2n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Guardian
+[Portaling](Portal.md "wikilink") point(s) suggested: [Guardian
 Wraith](Guardian_Wraith "wikilink") or [Cooling
 Corpse](Cooling_Corpse "wikilink") (multiple aggies, inside the tower).
 
 ## Connections
 
--   [Haunted Forst](:Category:Haunted_Forest "wikilink")
-    ([map](Haunted_Forest_Map "wikilink"))
+-   [Haunted Forst](:Category:Haunted_Forest.md "wikilink")
+    ([map](Haunted_Forest_Map.md "wikilink"))
 
 ## Navigation
 

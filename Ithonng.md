@@ -3,29 +3,30 @@ silk, the master arcanist glares at you momentarily speechless with
 fury. This man is not to be trifled with!*
 
 **Keywords:** Ithonng, Chief, Arcanist  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink"), [sanctuary](Sanctuary "wikilink"),
-[aggressive](Aggressive "wikilink").  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink"),
+[aggressive](Aggressive.md "wikilink").  
 
 ## Gear
 
 `Ithonng, Chief Arcanist is using:`  
-`   `<worn on body>`      `[`the`` ``mantle`` ``of`` ``the`` ``master`` ``arcanist`](Mantle_Of_The_Master_Arcanist "wikilink")
+`   `<worn on body>`      `[`the`` ``mantle`` ``of`` ``the`` ``master`` ``arcanist`](Mantle_Of_The_Master_Arcanist.md "wikilink")
 
 ## Comments
 
-Sub area is no [regeneration](regeneration "wikilink").
+Sub area is no [regeneration](regeneration.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Chamber of the Arcanist .
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Chamber of the Arcanist .
 
 Kill [Clockwork Homunculus](Clockwork_Homunculus "wikilink") and get the
 [Heavy Silver Key](Heavy_Silver_Key "wikilink"). Directions: pp clock

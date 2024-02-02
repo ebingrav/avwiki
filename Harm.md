@@ -1,29 +1,31 @@
-*This [spell](:Category:_Spells "wikilink") inflicts damage on the
-[victim](:Category:_Mobs "wikilink"). Its [level](Level "wikilink") on
-your [slist](Slist "wikilink") gives an idea of the damage it produces.*
+*This [spell](:Category:_Spells.md "wikilink") inflicts damage on the
+[victim](:Category:_Mobs.md "wikilink"). Its
+[level](Level.md "wikilink") on your [slist](Slist.md "wikilink") gives
+an idea of the damage it produces.*
 
-Prerequisite(s): [Cause Critical](Cause_Critical "wikilink").
+Prerequisite(s): [Cause Critical](Cause_Critical.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'harm'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'harm'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This single-target damage [spell](:Category:_Spells "wikilink") is
-fourth of four that [clerics](:Category:_Clerics "wikilink") may
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50. Because
-[clerics](:Category:_Clerics "wikilink") specialize in
-[casting](Cast "wikilink") defensive rather than offensive spells, such
-offensive spells as this one are not often useful but
-[clerics](:Category:_Clerics "wikilink") may still find it worth
-[learning](Practice "wikilink").
-[Characters](:Category:_Characters "wikilink") of many other
-[classes](:Category:_Classes "wikilink") may
-[learn](Practice "wikilink") this [spell](:Category:_Spells "wikilink")
-at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink") but will find it practically
+This single-target damage [spell](:Category:_Spells.md "wikilink") is
+fourth of four that [clerics](:Category:_Clerics.md "wikilink") may
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50. Because
+[clerics](:Category:_Clerics.md "wikilink") specialize in
+[casting](Cast.md "wikilink") defensive rather than offensive spells,
+such offensive spells as this one are not often useful but
+[clerics](:Category:_Clerics.md "wikilink") may still find it worth
+[learning](Practice.md "wikilink").
+[Characters](:Category:_Characters.md "wikilink") of many other
+[classes](:Category:_Classes.md "wikilink") may
+[learn](Practice.md "wikilink") this
+[spell](:Category:_Spells.md "wikilink") at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") but will find it practically
 useless.
 
-See also [Harm Gear](:Category:_Harm_Gear "wikilink").
+See also [Harm Gear](:Category:_Harm_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

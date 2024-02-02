@@ -2,29 +2,29 @@
 inscription.*
 
 **Keyword(s):** dagger, scarlet, tainted.  
-**[Level(s)](Object_Level "wikilink"):** 39-41.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 39-41.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [The Frozen
-Court](:Category:_Frozen_Court "wikilink")'s [Sword of Bloodied Snow
-Quest](Sword_Of_Bloodied_Snow_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in [The Frozen
+Court](:Category:_Frozen_Court.md "wikilink")'s [Sword of Bloodied Snow
+Quest](Sword_Of_Bloodied_Snow_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Frozen
-Court](:Category:_Frozen_Court "wikilink")
-([Map](Frozen_Court_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Kaz-Cyton's
-spirit](Kaz-Cyton's_Spirit "wikilink").  
-See [Kaz-Cyton's spirit](Kaz-Cyton's_Spirit "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [The Frozen
+Court](:Category:_Frozen_Court.md "wikilink")
+([Map](Frozen_Court_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Kaz-Cyton's
+spirit](Kaz-Cyton's_Spirit.md "wikilink").  
+See [Kaz-Cyton's spirit](Kaz-Cyton's_Spirit.md "wikilink") for more
 information.
 
 [Category: Gear In Frozen

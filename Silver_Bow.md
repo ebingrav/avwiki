@@ -3,8 +3,8 @@
 Level: 43  
 Damage: 23 - 63  
 Mob: Githzerai Archer  
-Area: [Githzerai Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink"))  
+Area: [Githzerai Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink"))  
 Aggie area, be very careful!
 
 [Category: Gear In Githzerai

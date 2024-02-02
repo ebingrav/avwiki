@@ -1,29 +1,29 @@
 *Armor made from heavy black steel is here.*
 
 `Hardly lowers resistance to water continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -75 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -75 continuous.`  
 `Armor class is 10-12.`
 
 **Keyword(s):** carburized, steel, plate, armor.  
-**[Level(s)](Object_Level "wikilink"):** 51-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 75 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 51-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 75 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Apocalypse](:Category:_Apocalypse "wikilink")
-([Map](Apocalypse_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Jackal](Jackal "wikilink") or
-[Panther](Panther "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Apocalypse](:Category:_Apocalypse.md "wikilink")
+([Map](Apocalypse_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Jackal](Jackal "wikilink")
+or [Panther](Panther "wikilink")  
 To get this piece, one must venture into Apocalypse. Cast a
-[portal](Portal "wikilink") to [Skeletal
+[portal](Portal.md "wikilink") to [Skeletal
 Guard](Skeletal_Guard "wikilink").
 
 From here, head east, east, open down, down, north, north, or 2ed2n.

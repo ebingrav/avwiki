@@ -10,9 +10,9 @@ from feeding upon it.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): ???.
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.
 
-[Portaling](Portal "wikilink") point(s) suggested: nexus from
+[Portaling](Portal.md "wikilink") point(s) suggested: nexus from
 [Ailantuhus](Ailantuhus "wikilink") to group mates, but you cannot
 portal or teleport directly.
 
@@ -26,8 +26,8 @@ eastern coastline: neesennenwnwnnend
 
 ## Connections
 
--   [Verdant Isle](:Category:Verdant_Isle "wikilink")
-    ([map](Verdant_Isle_Map "wikilink"))
+-   [Verdant Isle](:Category:Verdant_Isle.md "wikilink")
+    ([map](Verdant_Isle_Map.md "wikilink"))
 
 ## Navigation
 
@@ -39,9 +39,10 @@ in the NE and SW corner. Those levels are each approximately a 3x3 grid
 but with exits that loop back around. Using markers or coins can help
 you keep your bearings. It can get swarmy fast. When leading it helps to
 look right before moving to make sure a mob hasn't drifted in. On the
-first level is [Ludvik the Lich](Ludvik_The_Lich "wikilink") occupying
-the center (visible on scan). There are a few single exit alcoves that
-aren't safe but may be better places to rest and regroup a little.
+first level is [Ludvik the Lich](Ludvik_The_Lich.md "wikilink")
+occupying the center (visible on scan). There are a few single exit
+alcoves that aren't safe but may be better places to rest and regroup a
+little.
 
 The winds have the possibility of shifting between sea salt or the
 stench of death randomly after each ghost kill while the ebb and riptide
@@ -268,7 +269,7 @@ More bone than skin is left on this (hydra) head.
 </td>
 <td>
 
-[death and decay](Death_And_Decay "wikilink") (sneak/move about body)
+[death and decay](Death_And_Decay.md "wikilink") (sneak/move about body)
 
 </td>
 </tr>
@@ -303,7 +304,7 @@ Skin for armor (-1 hr than ultimoose with -5 ac)
 
 Note that you can not scent or linkrefresh here. To linkrefresh, you
 need to go up from the entrance into [ Verdant
-Isle](:Category:_Verdant_Isle "wikilink").
+Isle](:Category:_Verdant_Isle.md "wikilink").
 
 ## Adventuring
 
@@ -326,10 +327,10 @@ There are 8 sub-bosses, 2 each in every portion of the area. As you kill
 more and more sub-bosses, you weaken Ludvik and make him easier to kill.
 
 -   SW up (Buried Alive) - This level contains an up exit to A Charnal
-    Hypogeum room ([The revenant](Revenant "wikilink"), lvl 85). Or you
-    might find an up exit to An Ashy Cinerareum
+    Hypogeum room ([The revenant](Revenant.md "wikilink"), lvl 85). Or
+    you might find an up exit to An Ashy Cinerareum
     ([Wight](Wight "wikilink"), lvl 85 with three [crawling
-    arms](Crawling_Arm "wikilink"), lvl 80).
+    arms](Crawling_Arm.md "wikilink"), lvl 80).
 
 <!-- -->
 
@@ -352,10 +353,10 @@ more and more sub-bosses, you weaken Ludvik and make him easier to kill.
 <!-- -->
 
 -   SE down (Watery Grave) - A Flooded Sepulcher up exit is where [The
-    animated squid](Animated_Squid "wikilink") (lvl 85) has been seen.
-    Or you may find a hidden closed up exit with an odd glow to it. The
-    shark has been spotted on this level in A Flooded Hypogeum (keep
-    your eyes open for a barrier of magic on the ground).
+    animated squid](Animated_Squid.md "wikilink") (lvl 85) has been
+    seen. Or you may find a hidden closed up exit with an odd glow to
+    it. The shark has been spotted on this level in A Flooded Hypogeum
+    (keep your eyes open for a barrier of magic on the ground).
 
 The sub-bosses will not repop when killed. They show up if use where.
 The room is "Cracks in the Rock". The room is inaccessible.
@@ -398,7 +399,7 @@ woes.'
 `Ailantuhus says 'Be sure to figure out ahead of time who is going to hand me any items, that person will receive any reward.'`  
 `Ailantuhus exclaims 'Good luck!'`
 
-`You say 'ludvik' (`[`Ludvik`` ``the`` ``Lich`](Ludvik_The_Lich "wikilink")`, lvl 115)`  
+`You say 'ludvik' (`[`Ludvik`` ``the`` ``Lich`](Ludvik_The_Lich.md "wikilink")`, lvl 115)`  
 `Ailantuhus says 'As I said, weaken him by destroying his base of power, the major creations around him.'`  
 `Ailantuhus says 'The weaker he is the easier it will be to defeat him but the less I will have to work with to reward you.'`
 
@@ -432,18 +433,18 @@ woes.'
 `Ailantuhus says 'Even undead sharks are susceptible to a good hit on the nose.'`  
 `Ailantuhus says 'Though it may go for the hand that hits it and he can be fickle.'`
 
-`You say 'crab' (The animated crab shell, lvl 75 mob, skin for `[`crab`` ``shell`` ``plate`](Crab_Shell_Plate "wikilink")`)`  
+`You say 'crab' (The animated crab shell, lvl 75 mob, skin for `[`crab`` ``shell`` ``plate`](Crab_Shell_Plate.md "wikilink")`)`  
 `Ailantuhus says 'That thing is just a big armored brute.'`  
 `Ailantuhus says 'Just cut it down to size.'`  
 `Ailantuhus says 'You could probably cut it up some more after that too.'`
 
-`You say 'squid' (see `[`The`` ``animated`` ``squid`](Animated_Squid "wikilink")`)`  
+`You say 'squid' (see `[`The`` ``animated`` ``squid`](Animated_Squid.md "wikilink")`)`  
 `Ailantuhus says 'Poisonous tentacles and glowing eyes, gives me the creeps.'`
 
 `You say 'revenant'`  
 `Ailantuhus says 'Most undead are mindless beings. This thing hates the living with a passion.'`
 
-`You say 'arm' (`[`crawling`` ``arm`](Crawling_Arm "wikilink")`, lvl 80)`  
+`You say 'arm' (`[`crawling`` ``arm`](Crawling_Arm.md "wikilink")`, lvl 80)`  
 `Ailantuhus says 'Eww, crawling arms. Better than some other crawling appendages I could think of.'`  
 `Ailantuhus says 'They seem to serve a wight somewhere below.'`
 
@@ -456,7 +457,7 @@ This is the third elite hero area, added September 17th, 2011.
 
 This is a nice area for about 7-10 people to get XP in. Bigger groups
 will probably find better xp in [ Aculeata
-Jatha-La](:Category:_Aculeata_Jatha-La "wikilink") (commonly known as
+Jatha-La](:Category:_Aculeata_Jatha-La.md "wikilink") (commonly known as
 wasps).
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category: Elite

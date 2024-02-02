@@ -1,35 +1,35 @@
 *One of the homes of the creatures overtaking the [ruins of the city of
-High Drow Elves](:Category:_Ruins_Of_Reveria "wikilink"), this small
+High Drow Elves](:Category:_Ruins_Of_Reveria.md "wikilink"), this small
 cave is on the northern edge of the ruins. For years, it has been ruled
-by Zaswyi, who lived in relative peace with his [drow](Drow "wikilink")
-neighbors. Recently he was overthrown in a coup by
-[Octyin](Octyin "wikilink"), whose sole goal was to plunder the
-[drow](Drow "wikilink") city for
-[treasure](:Category:_Treasure "wikilink"). Rumor has it the lesser
-[drows](Drow "wikilink") were planning to raid the cave in retaliation
-for the creatures invading the ruins and taking the temple
-[treasures](:Category:_Treasure "wikilink"). A band of
-[drows](Drow "wikilink") were sent to defeat the creatures, but thus far
-the battle is a stalemate, with each side taking heavy casualties.*
+by Zaswyi, who lived in relative peace with his
+[drow](Drow.md "wikilink") neighbors. Recently he was overthrown in a
+coup by [Octyin](Octyin.md "wikilink"), whose sole goal was to plunder
+the [drow](Drow.md "wikilink") city for
+[treasure](:Category:_Treasure.md "wikilink"). Rumor has it the lesser
+[drows](Drow.md "wikilink") were planning to raid the cave in
+retaliation for the creatures invading the ruins and taking the temple
+[treasures](:Category:_Treasure.md "wikilink"). A band of
+[drows](Drow.md "wikilink") were sent to defeat the creatures, but thus
+far the battle is a stalemate, with each side taking heavy casualties.*
 
 **Level Range:** 33-39
 
-**Builder:** [Niki](User:AlexyAnna "wikilink")
+**Builder:** [Niki](User:AlexyAnna.md "wikilink")
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Zashti](Zashti "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Zashti](Zashti.md "wikilink").
 
 ## Connections
 
 The Cave is the very first area which can be accessed from the [Ruins of
-Reveria](:Category:_Ruins_Of_Reveria "wikilink"), when entering it from
-the surface. It is reached from the far north of the ruins, off of the
-cliff.
+Reveria](:Category:_Ruins_Of_Reveria.md "wikilink"), when entering it
+from the surface. It is reached from the far north of the ruins, off of
+the cliff.
 
 ## Navigation
 

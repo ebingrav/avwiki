@@ -1,17 +1,18 @@
-*All [Stormlord](:Category:_Stormlords "wikilink")
-[spells](:Category:_Spells "wikilink") manipulate weather in a very
+*All [Stormlord](:Category:_Stormlords.md "wikilink")
+[spells](:Category:_Spells.md "wikilink") manipulate weather in a very
 localized manner. They can call forth a blizzard in the middle of a
 summer meadow, or a shower of rain while miles underground. They must be
 sustained, and will end early if the caster is struck, moved, or enters
 a command. Cloudburst summons a lightning cloud which shocks the
-[Stormlord](:Category:_Stormlords "wikilink")'s current attack target
+[Stormlord](:Category:_Stormlords.md "wikilink")'s current attack target
 every round. This affect may linger briefly after the
-[spell](:Category:_Spells "wikilink") ends, but will not do any damage
-while the [caster](Cast "wikilink") is not directly controlling it.*
+[spell](:Category:_Spells.md "wikilink") ends, but will not do any
+damage while the [caster](Cast.md "wikilink") is not directly
+controlling it.*
 
 Prerequisite(s): ?.
 
-Syntax: [cast](Cast "wikilink") 'cloudburst'.
+Syntax: [cast](Cast.md "wikilink") 'cloudburst'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

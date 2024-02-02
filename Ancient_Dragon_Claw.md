@@ -19,14 +19,15 @@ Claw](Lonewolf's_Claw "wikilink") is very cheap and much better).
 
 <hr>
 
-Plane: [World Of Stone](:Category:World_Of_Stone "wikilink")  
-Area: [Mountain Of Madness](:Category:Mountain_Of_Madness "wikilink")  
+Plane: [World Of Stone](:Category:World_Of_Stone.md "wikilink")  
+Area: [Mountain Of
+Madness](:Category:Mountain_Of_Madness.md "wikilink")  
 Mob: [Bellius](Bellius "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Mountain Of
-Madness](:Category:Gear_In_Mountain_Of_Madness "wikilink") for more
+Madness](:Category:Gear_In_Mountain_Of_Madness.md "wikilink") for more
 details.
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:Gear

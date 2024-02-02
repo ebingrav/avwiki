@@ -3,8 +3,8 @@ Has 101(101) charges at level 53 'cure poison'. Type: Wand
 Level: 125  
 Weight: 2  
 Flags: none  
-Area: [Rietta's Wonders](:Category:Rietta's_Wonders "wikilink")
-([map](Rietta's_Wonders_Map "wikilink"))  
+Area: [Rietta's Wonders](:Category:Rietta's_Wonders.md "wikilink")
+([map](Rietta's_Wonders_Map.md "wikilink"))  
 Mob: [Rietta](Rietta "wikilink")  
 Rietta sells these for 13950 gold.
 

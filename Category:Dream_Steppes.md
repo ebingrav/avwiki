@@ -1,6 +1,6 @@
 *One of the less explored isles in the [great
-ocean](:Category:_Sea_Of_Strayed_Hopes "wikilink") is known as the Dream
-Steppes. The stories say that a mysterious fragrance permeates
+ocean](:Category:_Sea_Of_Strayed_Hopes.md "wikilink") is known as the
+Dream Steppes. The stories say that a mysterious fragrance permeates
 throughout the isle. It is said that this aroma causes even the most
 stalwart of sailors to become lost in daydreams. Seafarers who breathe
 in this aroma are said to abandon their ships, and race towards the
@@ -11,22 +11,22 @@ stay clear of this isle.*
 
 **Builder:** Masamun
 
-This [area](:Category:_Areas "wikilink") was created for an
-[area-building contest](Area-Building_Contests "wikilink") in 2004.  
-This [area](:Category:_Areas "wikilink") was added in 2005.  
+This [area](:Category:_Areas.md "wikilink") was created for an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2004.  
+This [area](:Category:_Areas.md "wikilink") was added in 2005.  
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 39s, 5w (note: crosses
-[water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 39s, 5w (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: displacer beast
+[Portaling](Portal.md "wikilink") point(s) suggested: displacer beast
 (note: there are many).
 
 ## Connections
 
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
-    ([map](Sea_Of_Strayed_Hopes_Map "wikilink"))
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
+    ([map](Sea_Of_Strayed_Hopes_Map.md "wikilink"))
 
 ## Navigation
 
@@ -41,9 +41,9 @@ to a small block with many aggressive mobs.
 ## Adventuring
 
 The area is mostly safe, decent for lowhero (or even high lowmort group)
-[xp](Experience_Points "wikilink"), but beware the many
-[psionicists](:Category:_Psionicists "wikilink"), who are disguised and
-[aggie](Aggressive_Mobs "wikilink").
+[xp](Experience_Points.md "wikilink"), but beware the many
+[psionicists](:Category:_Psionicists.md "wikilink"), who are disguised
+and [aggie](Aggressive_Mobs.md "wikilink").
 
 There is a total of 4 psionicists in the area proper, 3 of which are
 stationary. Only one (the masked rider) wanders. First stationary one is

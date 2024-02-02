@@ -8,7 +8,7 @@ come. Perhaps some secrets are better left not known.*
 
 ## Directions
 
-Wander around in [Nothing](:Category:Nothing "wikilink") looking for
+Wander around in [Nothing](:Category:Nothing.md "wikilink") looking for
 "(White Aura) A man in purple robes" on scan. The easiest method is to
 shift Earth, head to the nexus (1n, 4w). Once you enter the nexus, the
 man in purple robes will only be two rooms away (note this area is a

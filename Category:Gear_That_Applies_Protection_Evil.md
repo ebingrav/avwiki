@@ -1,5 +1,5 @@
 See also [Protection Evil](Protection_Evil "wikilink") and [Protection
-Evil Gear](:Category:Protection_Evil_Gear "wikilink")
+Evil Gear](:Category:Protection_Evil_Gear.md "wikilink")
 
 it's worth noting that protection evil will not work for you if you're
 align is evil (align below -300 or so). same for protection good and

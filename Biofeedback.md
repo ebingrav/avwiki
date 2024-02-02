@@ -1,25 +1,27 @@
 *By judicious use of the psionic disciplines, you can control the flow
 of blood through your body. This control can easily reduce bleeding,
 assist clotting, and make your heart more efficient; as a result, you
-receive a dramatic increase in [constitution](Constitution "wikilink").
-Mind over body indeed... BIOFEEDBACK is a [BIOCENTRIC Psionic
-Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It can only
-be [cast](Cast "wikilink") on others if the caster first masters the art
-of [BIO EMPATHY](Bio_Empathy "wikilink").*
+receive a dramatic increase in
+[constitution](Constitution.md "wikilink"). Mind over body indeed...
+BIOFEEDBACK is a [BIOCENTRIC Psionic
+Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It can
+only be [cast](Cast.md "wikilink") on others if the caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'biofeedback'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'biofeedback'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This is a rather useful [skill](:Category:_Skills_And_Spells "wikilink")
-for all [characters](:Category:_Characters "wikilink") (who can) to
-[learn](Practice "wikilink"). It increases its target
-[character](:Category:_Characters "wikilink")'s
-[constitution](Constitution "wikilink") by 4, though not more than 3
-above its target's maximum [trainable](Train "wikilink")
-[constitution](Constitution "wikilink"). It is included in
-[Fortitudes](Fortitudes "wikilink").
+This is a rather useful
+[skill](:Category:_Skills_And_Spells.md "wikilink") for all
+[characters](:Category:_Characters.md "wikilink") (who can) to
+[learn](Practice.md "wikilink"). It increases its target
+[character](:Category:_Characters.md "wikilink")'s
+[constitution](Constitution.md "wikilink") by 4, though not more than 3
+above its target's maximum [trainable](Train.md "wikilink")
+[constitution](Constitution.md "wikilink"). It is included in
+[Fortitudes](Fortitudes.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

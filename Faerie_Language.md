@@ -9,25 +9,25 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Faerie:     `*`TIhae`` ``qssuriclkee`` ``bruroweinae`` ``flaeox`` ``jurmeiepedis`` ``ovoieur`` ``tihae`` ``liazieey`` ``disoghai.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Faerie:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Faerie:
 
--   [Centaurs](Centaurs "wikilink").
-
-<!-- -->
-
--   [Drow](Drow "wikilink").
+-   [Centaurs](Centaurs.md "wikilink").
 
 <!-- -->
 
--   [Elves](Elves "wikilink").
+-   [Drow](Drow.md "wikilink").
 
 <!-- -->
 
--   [High Elves](High_Elves "wikilink").
+-   [Elves](Elves.md "wikilink").
 
 <!-- -->
 
--   [Sprites](Sprites "wikilink").
+-   [High Elves](High_Elves.md "wikilink").
+
+<!-- -->
+
+-   [Sprites](Sprites.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

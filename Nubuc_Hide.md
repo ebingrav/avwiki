@@ -6,14 +6,14 @@ who enjoys the suffering of thieves.*
 `No modifiers.`
 
 **Keyword(s):** nubuc, fae, hide.  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
 [Furniture](Furniture "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** N/A.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** N/A.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
@@ -35,9 +35,10 @@ from Thorngate center):
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Bo'Vul's
-Vault](:Category:_Bo'Vul's_Vault "wikilink").  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Zlatan](Zlatan "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [ Bo'Vul's
+Vault](:Category:_Bo'Vul's_Vault.md "wikilink").  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Zlatan](Zlatan "wikilink").  
 
 [Category: Gear In Bo'Vul's
 Vault](Category:_Gear_In_Bo'Vul's_Vault "wikilink")

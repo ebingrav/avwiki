@@ -7,8 +7,8 @@ Wieght:12
 Level:11  
 Damage:6-16
 
-Area: [Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
+Area: [Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
 Mob: Townguard
 
 [Category: Gear In Town Of

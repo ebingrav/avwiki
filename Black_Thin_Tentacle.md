@@ -5,13 +5,13 @@ darkness - hopefully the real body that this tentacle extends out from
 is far away.*
 
 **Keywords:** black, thin, tentacle.  
-**[Level](Level "wikilink"):** 63.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [very
-agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [sneak](Sneak "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 63.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [very
+agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [sneak](Sneak.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -27,14 +27,14 @@ Cannot see invis.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Surrounded by dark moss,
+**[Area](:Category:_Areas.md "wikilink"):** [The Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Surrounded by dark moss,
 Trapped in a claustrophobic passage, Buried beneath stones, Buried
-between the stones ([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [stone trickster](Stone_Trickster "wikilink"): e, s,
-s, pull bloom, s, s, w, s, enter hole.  
+between the stones ([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [stone trickster](Stone_Trickster.md "wikilink"): e,
+s, s, pull bloom, s, s, w, s, enter hole.  
 
 [Category: Mobs In Transfigured
 Forest](Category:_Mobs_In_Transfigured_Forest "wikilink")

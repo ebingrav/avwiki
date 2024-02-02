@@ -1,10 +1,10 @@
 *With increased battle experience and training, a
-[character](:Category:_Characters "wikilink") gains an additional attack
-per [round](Rounds "wikilink") in melee. This
-[skill](:Category:_Skills "wikilink") is automatic once
-[practiced](Practice "wikilink").*
+[character](:Category:_Characters.md "wikilink") gains an additional
+attack per [round](Rounds.md "wikilink") in melee. This
+[skill](:Category:_Skills.md "wikilink") is automatic once
+[practiced](Practice.md "wikilink").*
 
-Prerequisite(s): [Second Attack](Second_Attack "wikilink").
+Prerequisite(s): [Second Attack](Second_Attack.md "wikilink").
 
 Syntax: none.
 

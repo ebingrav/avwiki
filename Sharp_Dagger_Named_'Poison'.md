@@ -6,23 +6,23 @@
 ` Modifies hit roll by 7 continuous.`
 
 **Keyword(s):** sharp, dagger, poison.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** wielded.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** wielded.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Serpent
-Weyr](:Category:_Serpent_Weyr "wikilink")
-([Map](Serpent_Weyr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Briska the
-assassin](Briska_The_Assassin "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Serpent
+Weyr](:Category:_Serpent_Weyr.md "wikilink")
+([Map](Serpent_Weyr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Briska the
+assassin](Briska_The_Assassin.md "wikilink").  
 
 [Category:Gear In Serpent
 Weyr](Category:Gear_In_Serpent_Weyr "wikilink") [Category:Concealable

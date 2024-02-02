@@ -21,8 +21,8 @@ eliminate unnatural weather patterns.*
 perform admirably when working with air, water, or electric magic.*
 
 Cloud Giants have four main racial commands that set them apart. They
-are [Fly](Racial_Fly "wikilink"), [Bolt](Racial_Bolt "wikilink"),
-[Fog](Racial_Fog "wikilink"), and [Gust](Racial_Gust "wikilink").
+are [Fly](Racial_Fly.md "wikilink"), [Bolt](Racial_Bolt.md "wikilink"),
+[Fog](Racial_Fog.md "wikilink"), and [Gust](Racial_Gust.md "wikilink").
 
 [Category:Elemental Giant
 Races](Category:Elemental_Giant_Races "wikilink") [Category: Greater

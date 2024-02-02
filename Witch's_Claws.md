@@ -1,30 +1,30 @@
 *A set of claws from [the
-witch](Wicked_Witch_(Witch's_Forest) "wikilink") glisten in the sun.*
+witch](Wicked_Witch_(Witch's_Forest).md "wikilink") glisten in the sun.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 5 to 15 (average 10).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 5 to 15 (average 10).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** claws, witch, witch's.  
-**[Level(s)](Object_Level "wikilink"):** 9-11.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 9-11.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Witch's
-Forest](:Category:_Witch's_Forest "wikilink")
-([Map](Witch's_Forest_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Wicked
-Witch](Wicked_Witch_(Witch's_Forest) "wikilink").  
-See [Wicked Witch](Wicked_Witch_(Witch's_Forest) "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [The Witch's
+Forest](:Category:_Witch's_Forest.md "wikilink")
+([Map](Witch's_Forest_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Wicked
+Witch](Wicked_Witch_(Witch's_Forest).md "wikilink").  
+See [Wicked Witch](Wicked_Witch_(Witch's_Forest).md "wikilink") for more
 information.  
 
 [Category: Gear In Witch's

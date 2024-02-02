@@ -1,12 +1,12 @@
-*A [Priest](:Category:_Priests "wikilink")'s power comes from devotion
-to the Way of Peace. The Via Pax discipline represents the first Step
-along the Way. Once [practiced](Practice "wikilink"), the
-[Priest](:Category:_Priests "wikilink") will be unable to initiate
-combat, but, by the Grace of [Tul-Sith](Tul-Sith "wikilink"), can
-receive bonus [exp](Experience_Points "wikilink") from healing under
+*A [Priest](:Category:_Priests.md "wikilink")'s power comes from
+devotion to the Way of Peace. The Via Pax discipline represents the
+first Step along the Way. Once [practiced](Practice.md "wikilink"), the
+[Priest](:Category:_Priests.md "wikilink") will be unable to initiate
+combat, but, by the Grace of [Tul-Sith](Tul-Sith.md "wikilink"), can
+receive bonus [exp](Experience_Points.md "wikilink") from healing under
 certain circumstances.*
 
-Prerequisite(s): [Meditation](Meditation "wikilink").
+Prerequisite(s): [Meditation](Meditation.md "wikilink").
 
 Syntax: none (automatic).
 

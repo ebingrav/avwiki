@@ -1,10 +1,10 @@
-*This [spell](:Category:_Spells "wikilink") creates a flash of Holy
-Light which burns any [undead](Undead_Mobs "wikilink") in the room, but
-is completely harmless to the innocent.*
+*This [spell](:Category:_Spells.md "wikilink") creates a flash of Holy
+Light which burns any [undead](Undead_Mobs.md "wikilink") in the room,
+but is completely harmless to the innocent.*
 
-Prerequisite(s): [Turn Undead](Turn_Undead "wikilink").
+Prerequisite(s): [Turn Undead](Turn_Undead.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'white light'.
+Syntax: [cast](Cast.md "wikilink") 'white light'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Area

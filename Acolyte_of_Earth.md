@@ -3,19 +3,20 @@ she grinds various powders she takes great care to measure exactly - no
 acolyte wishes to be responsible for failure.*
 
 **Keywords:** earth, acolyte  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Chamber of acolytes.
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Chamber of acolytes.
 
-Walking route from [vymm](Vymm "wikilink"): \[s\],u,\[e\],e,\[e\],u,e.
+Walking route from [vymm](Vymm.md "wikilink"):
+\[s\],u,\[e\],e,\[e\],u,e.
 
 She is not portable.
 

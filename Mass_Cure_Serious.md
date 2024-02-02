@@ -1,15 +1,15 @@
-*This [spell](:Category:_Spells "wikilink") is equivalent to [cure
-serious](Cure_Serious "wikilink") but upon everyone within the
-[room](:Category:_Rooms "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") is equivalent to [cure
+serious](Cure_Serious.md "wikilink") but upon everyone within the
+[room](:Category:_Rooms.md "wikilink").*
 
-Prerequisite(s): [Cure Serious](Cure_Serious "wikilink").
+Prerequisite(s): [Cure Serious](Cure_Serious.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass cure serious'.
+Syntax: [cast](Cast.md "wikilink") 'mass cure serious'.
 
-This [spell](:Category:_Spells "wikilink") is rarely used.
-[Brandishes](:Category:_Brandishes "wikilink") are normally used rather
-than [mana](Mana_Points "wikilink") to heal mutiple
-[characters](:Category:_Characters "wikilink") simultaneously.
+This [spell](:Category:_Spells.md "wikilink") is rarely used.
+[Brandishes](:Category:_Brandishes.md "wikilink") are normally used
+rather than [mana](Mana_Points.md "wikilink") to heal mutiple
+[characters](:Category:_Characters.md "wikilink") simultaneously.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

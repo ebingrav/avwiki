@@ -2,20 +2,21 @@ Suggested Group Size: 15
 
 If you don't already have it, you need to first get the ticket
 ([Invasion Plans](Invasion_Plans "wikilink")) from [Citadel
-Arcadia](:Category:Citadel_Arcadia "wikilink"). This can be picked up
-via a minor detour on a [Glyph](Ruling_Glyph "wikilink") run. See [Gear
-In Citadel Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for
-more information on how to get the plans.
+Arcadia](:Category:Citadel_Arcadia.md "wikilink"). This can be picked up
+via a minor detour on a [Glyph](Ruling_Glyph.md "wikilink") run. See
+[Gear In Citadel
+Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for more
+information on how to get the plans.
 
 Once you have the [Invasion Plans](Invasion_Plans "wikilink"), shift to
-[Astral](:Category:Astral "wikilink") and go nws. This will put you in
-the 8th leg of [Astral Invasion](:Category:Astral_Invasion "wikilink").
-The mobs in [Astral Invasion](:Category:Astral_Invasion "wikilink")
-wield ethereal weapons, so bringing a psi to decept is very helpful.
-It's also a good idea to let the bored brutes know that disarming is
-worthless, so as to cut down on the spam :). From the 8th leg its a
-linear path to the fae fortress, where all eight legs of the area
-converge.
+[Astral](:Category:Astral.md "wikilink") and go nws. This will put you
+in the 8th leg of [Astral
+Invasion](:Category:Astral_Invasion.md "wikilink"). The mobs in [Astral
+Invasion](:Category:Astral_Invasion.md "wikilink") wield ethereal
+weapons, so bringing a psi to decept is very helpful. It's also a good
+idea to let the bored brutes know that disarming is worthless, so as to
+cut down on the spam :). From the 8th leg its a linear path to the fae
+fortress, where all eight legs of the area converge.
 
 Here's a crappy ASCII map for how I think the fae fortress is laid out:
 
@@ -73,7 +74,7 @@ think the up exit is. After you go up he'll be north. Note that he keep
 company with invis bodyguards. This room seems to be quite a bit buffer
 now that mob specs are being redone. Watch out for tanks losing a
 massive amount of hp if they get bashed. The [invasion
-commander](Fae_Invasion_Commander "wikilink") also holds the
+commander](Fae_Invasion_Commander.md "wikilink") also holds the
 [Lightspear](Lightspear "wikilink").
 
 Another good piece of gear in this area is the [Pile Of Green
@@ -83,11 +84,11 @@ Champion](Ceremonial_Sword_Of_The_High_King's_Champion "wikilink"). It
 loads on the [Kzinti Emissary](Kzinti_Emissary "wikilink"), who keeps
 company with some bodyguards in the 6th leg. The 6th leg is in the
 southwestern corner of the fort. The
-[emissary](Kzinti_Emissary "wikilink") is trackable.
+[emissary](Kzinti_Emissary.md "wikilink") is trackable.
 
 Walking directions to the mobs of interest in this run now corrected.
 
-From [Astral](:Category:Astral "wikilink") shift to [Invasion
+From [Astral](:Category:Astral.md "wikilink") shift to [Invasion
 Commander](Invasion_Commander "wikilink") ([Jade
 Bracer](Jade_Bracer "wikilink")): nws2usu3seun
 

@@ -7,22 +7,22 @@ mentor, the chief librarian disappeared, then this Shiaana of the
 NaamTer'Sa witches takes control, rushes to this clearing, glances
 quickly at the statue, witch like herself, and then leads the host to
 the statue of one of the NaamAhn'Sa and into the belly of
-[NaamBres'Shhos Isle](:Category:_Isle_Of_NaamBres'Shho "wikilink"). And
-now they are locked in and noone really knows what opened that door in
-the first place. I just wish my Mentor was here! - And that Shiaana had
-not thrown that parchment into the fire...*'
+[NaamBres'Shhos Isle](:Category:_Isle_Of_NaamBres'Shho.md "wikilink").
+And now they are locked in and noone really knows what opened that door
+in the first place. I just wish my Mentor was here! - And that Shiaana
+had not thrown that parchment into the fire...*'
 
 **Keywords:** NaamSa, scribe.  
-**[Level](Level "wikilink"):** 57.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 57.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A scribe is using:`  
-<worn about body>`   `[`a`` ``grey`` ``cloak`](Grey_Cloak "wikilink")
+<worn about body>`   `[`a`` ``grey`` ``cloak`](Grey_Cloak.md "wikilink")
 
 `A scribe is carrying:`  
 `     Nothing.`
@@ -43,19 +43,20 @@ smile.
 With that he rips a piece of cloth from his robe and with quick
 movements ties it into some kind of knot.
 
-A librarian gives you [a tight knot!](Tight_Knot "wikilink")
+A librarian gives you [a tight knot!](Tight_Knot.md "wikilink")
 
 See [NaamAhn'Sa Token](NaamAhn'Sa_Token "wikilink") or [NaamAhn'Sa Token
 Quest](NaamAhn'Sa_Token_Quest "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Isle of
-NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho "wikilink")
-([Map](Isle_Of_NaamBres'Shho_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** On a clearing (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 37s, 3e, s, 3e, 4s, 2e,
-s, e. (note: crosses [water terrain](Water_Terrain "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Isle of
+NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho.md "wikilink")
+([Map](Isle_Of_NaamBres'Shho_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** On a clearing
+(portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 37s, 3e, s, 3e, 4s,
+2e, s, e. (note: crosses [water terrain](Water_Terrain.md "wikilink"))  
 A scribe is portable.  
 
 [Category: Mobs In Isle Of

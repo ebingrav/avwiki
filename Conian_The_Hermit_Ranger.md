@@ -26,21 +26,21 @@ to in her tunnels. I hope I can count on you." Looking like a broken
 spirit this ranger pierces your heart with his plea for help.*
 
 **Keywords:** Conian, hermit, ranger, cleric.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[cleric](Spellcasting_Mobs "wikilink"),
-[healer](:Category:_Healers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"),
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink").  
-**Affects:** [hide](Hide "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[cleric](Spellcasting_Mobs.md "wikilink"),
+[healer](:Category:_Healers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink").  
+**Affects:** [hide](Hide.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Conian the hermit ranger is using:`  
-<floating>`          [Pristine  ] `[`Bone`` ``bladed`` ``ax`](Bone_Bladed_Ax "wikilink")
+<floating>`          [Pristine  ] `[`Bone`` ``bladed`` ``ax`](Bone_Bladed_Ax.md "wikilink")
 
 `Conian the hermit ranger is carrying:`  
 `     Nothing.`
@@ -54,10 +54,10 @@ this room.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tortuga
-Cay](:Category:_Tortuga_Cay "wikilink")
-([Map](Tortuga_Cay_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Center of the Field.  
+**[Area](:Category:_Areas.md "wikilink"):** [Tortuga
+Cay](:Category:_Tortuga_Cay.md "wikilink")
+([Map](Tortuga_Cay_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Center of the Field.  
 Walking directions from [Aelmon](Aelmon "wikilink"): 41s, e, 5n, 4e, n
 (note: crosses water terrain).
 

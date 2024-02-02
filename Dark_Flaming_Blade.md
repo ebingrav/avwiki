@@ -11,23 +11,24 @@
 `    *   **   *`  
 `        **`
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 15-18 to 44-50.`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 15-18 to 44-50.`  
 `Modifies melee attacks with leeching damage continuous`  
 `Insignificantly increases resistance to fire continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 9 continous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 11 continous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 9 continous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 11 continous.`
 
 **Keyword(s):** dark, flaming, blade.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 12 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](NoLocate_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink").
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 12 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](NoLocate_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink").
 
 ## Comments
 
@@ -35,13 +36,13 @@
 
 Mob: [Statue Of The Evil Dark
 Ruler](Statue_Of_The_Evil_Dark_Ruler "wikilink")  
-Area: [Temple of Utami](:Category:_Temple_Of_Utami "wikilink")
-([Map](Temple_Of_Utami_Map "wikilink"))
+Area: [Temple of Utami](:Category:_Temple_Of_Utami.md "wikilink")
+([Map](Temple_Of_Utami_Map.md "wikilink"))
 
 pp [Merline](Merline "wikilink"). The mob is behind a hidden closed door
 at one of the ends of the hallway of history. He's fairly beefy for his
-level, he wields (obviously) and has [sanc](Sanctuary "wikilink"). He
-also is a caster and casts various [mage](:Category:Mages "wikilink")
+level, he wields (obviously) and has [sanc](Sanctuary.md "wikilink"). He
+also is a caster and casts various [mage](:Category:Mages.md "wikilink")
 spells ([disintegrate](disintegrate "wikilink"), to name just one).
 
 From Merline head s 2e 2n \[w\]

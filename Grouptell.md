@@ -1,4 +1,4 @@
-See also [Grouptell Channel](Grouptell_Channel "wikilink").
+See also [Grouptell Channel](Grouptell_Channel.md "wikilink").
 
 [Category: Communication
 Commands](Category:_Communication_Commands "wikilink")

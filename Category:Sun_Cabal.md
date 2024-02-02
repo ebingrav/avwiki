@@ -7,7 +7,7 @@ an unknown evil.*
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Midgaardia](:Category:Midgaardia "wikilink"), portal to "ty sa", go
+[Midgaardia](:Category:Midgaardia.md "wikilink"), portal to "ty sa", go
 2sunus5u5e2nu, give the [Platinum Scale](Platinum_Scale "wikilink") to
 [Ramahdon](Ramahdon "wikilink"), and enter vortex.
 

@@ -1,5 +1,5 @@
-*This Rite prevents the loss of [strength](Strength "wikilink") due to
-[death](Death "wikilink").*
+*This Rite prevents the loss of [strength](Strength.md "wikilink") due
+to [death](Death.md "wikilink").*
 
 Prerequisite(s): none.
 

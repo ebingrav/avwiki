@@ -8,13 +8,13 @@ water-breathing one you won't need, or you would be drowning already,
 hahaha.
 
 `An alchemist is using:`  
-`   `<wielded>`           [Pristine  ] `[`a`` ``pack`` ``explosive`` ``powder`](Pack_Explosive_Powder "wikilink")
+`   `<wielded>`           [Pristine  ] `[`a`` ``pack`` ``explosive`` ``powder`](Pack_Explosive_Powder.md "wikilink")
 
 `An alchemist is carrying:                      [Lv Price]`  
-`   `[`An`` ``empty`` ``clay`` ``vial`](Empty_Clay_Vial "wikilink")`                          [249 57660]`  
-`   `[`A`` ``yellow`` ``glass`` ``vial`](Yellow_Glass_Vial "wikilink")`                         [251 15000]`  
-`   `[`A`` ``green`` ``glass`` ``vial`](Green_Glass_Vial "wikilink")`                          [250 15000]`  
-`   `[`A`` ``pink`` ``glass`` ``vial`](Pink_Glass_Vial "wikilink")`                           [250 15000]`
+`   `[`An`` ``empty`` ``clay`` ``vial`](Empty_Clay_Vial.md "wikilink")`                          [249 57660]`  
+`   `[`A`` ``yellow`` ``glass`` ``vial`](Yellow_Glass_Vial.md "wikilink")`                         [251 15000]`  
+`   `[`A`` ``green`` ``glass`` ``vial`](Green_Glass_Vial.md "wikilink")`                          [250 15000]`  
+`   `[`A`` ``pink`` ``glass`` ``vial`](Pink_Glass_Vial.md "wikilink")`                           [250 15000]`
 
 [Category: Mobs In Planar Nexus
 (Water)](Category:_Mobs_In_Planar_Nexus_(Water) "wikilink") [Category:

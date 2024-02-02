@@ -1,28 +1,32 @@
-*This [spell](:Category:_Spells "wikilink") cures damage on the target
-[character](:Category:_Characters "wikilink"). The
-[level](Level "wikilink") of this [spell](:Category:_Spells "wikilink")
-on your [slist](Slist "wikilink") gives a hint at its power of healing.*
+*This [spell](:Category:_Spells.md "wikilink") cures damage on the
+target [character](:Category:_Characters.md "wikilink"). The
+[level](Level.md "wikilink") of this
+[spell](:Category:_Spells.md "wikilink") on your
+[slist](Slist.md "wikilink") gives a hint at its power of healing.*
 
-Prerequisite(s): [Cure Serious](Cure_Serious "wikilink").
+Prerequisite(s): [Cure Serious](Cure_Serious.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'cure critical'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'cure critical'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [hit-point](Hit_Points "wikilink")-healing
-[spell](:Category:_Spells "wikilink") is third (and third most
-efficient) of five that both [clerics](:Category:_Clerics "wikilink")
-and [priests](:Category:_Priests "wikilink") may (and should)
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50. Many other
-[classes](:Category:_Classes "wikilink") may
-[learn](Practice "wikilink") it at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink") and will find it useful as well.
-When [cast](Cast "wikilink") by
-[clerics](:Category:_Clerics "wikilink"), it normally heals 75 [hit
-points](Hit_Points "wikilink") but this amount may be altered somewhat
-by their respective choices of [worship](Worship "wikilink"), if any.
+This [hit-point](Hit_Points.md "wikilink")-healing
+[spell](:Category:_Spells.md "wikilink") is third (and third most
+efficient) of five that both [clerics](:Category:_Clerics.md "wikilink")
+and [priests](:Category:_Priests.md "wikilink") may (and should)
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50. Many other
+[classes](:Category:_Classes.md "wikilink") may
+[learn](Practice.md "wikilink") it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") and will find it useful as well.
+When [cast](Cast.md "wikilink") by
+[clerics](:Category:_Clerics.md "wikilink"), it normally heals 75 [hit
+points](Hit_Points.md "wikilink") but this amount may be altered
+somewhat by their respective choices of
+[worship](Worship.md "wikilink"), if any.
 
-See also [Cure Critical Gear](:Category:_Cure_Critical_Gear "wikilink").
+See also [Cure Critical
+Gear](:Category:_Cure_Critical_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

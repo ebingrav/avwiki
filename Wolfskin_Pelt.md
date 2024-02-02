@@ -1,26 +1,26 @@
 *Some wolf died and left its pelt behind.*
 
-[`Armor`` ``class`](Armor_Class "wikilink")` is 4-7.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 4-7.`  
 `Modifies armor class by -20 continuous.`
 
 **Keyword(s):** wolfskin pelt  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about waist>  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 24-26  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about waist>  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 24-26  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Drow
-Hunter](Drow_Hunter "wikilink") ([portable](Teleport "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Drow
+Hunter](Drow_Hunter "wikilink") ([portable](Teleport.md "wikilink"))  
 
 [Category: Armor](Category:_Armor "wikilink") [Category: Gear In
 Tiureess](Category:_Gear_In_Tiureess "wikilink") [Category: Lowmort

@@ -22,18 +22,18 @@ His eyes meet yours and he greets you calmly:
 
 **Scan Description:**(White Aura) (Sneak) A tall man with a gleaming
 spear stands silently.  
-**[Level](Level "wikilink"):** 80  
-**[Alignment](Alignment "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** 80  
+**[Alignment](Alignment.md "wikilink"):** ??.  
 
 ## Gear
 
 `Tean NaamAhn'Sa is using:`  
-`    `<worn on body>`      `[`an`` ``embroidered`` ``breastplate`](Embroidered_Breastplate "wikilink")  
-`    `<held in offhand>`   `[`a`` ``short`` ``spear`](Short_Spear_(Naam'Sa) "wikilink")  
-`    `<worn about body>`   `[`(Glowing)`` ``a`` ``shimmering`` ``grey`` ``cloak`](Shimmering_Grey_Cloak "wikilink")  
-`    `<worn on wrist>`     `[`an`` ``embroidered`` ``bracer`](Embroidered_Bracer "wikilink")  
-`    `<worn on wrist>`     `[`an`` ``embroidered`` ``bracer`](Embroidered_Bracer "wikilink")  
-`    `<wielded>`           `[`(Glowing)`` ``(Humming)`` ``the`` ``heavy`` ``spear,`` ``'Ocean'`](Heavy_Spear,_"Ocean" "wikilink")
+`    `<worn on body>`      `[`an`` ``embroidered`` ``breastplate`](Embroidered_Breastplate.md "wikilink")  
+`    `<held in offhand>`   `[`a`` ``short`` ``spear`](Short_Spear_(Naam'Sa).md "wikilink")  
+`    `<worn about body>`   `[`(Glowing)`` ``a`` ``shimmering`` ``grey`` ``cloak`](Shimmering_Grey_Cloak.md "wikilink")  
+`    `<worn on wrist>`     `[`an`` ``embroidered`` ``bracer`](Embroidered_Bracer.md "wikilink")  
+`    `<worn on wrist>`     `[`an`` ``embroidered`` ``bracer`](Embroidered_Bracer.md "wikilink")  
+`    `<wielded>`           `[`(Glowing)`` ``(Humming)`` ``the`` ``heavy`` ``spear,`` ``'Ocean'`](Heavy_Spear,_"Ocean".md "wikilink")
 
 `You peek at the inventory:`  
 `    Nothing.`

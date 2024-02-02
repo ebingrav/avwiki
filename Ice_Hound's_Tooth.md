@@ -8,15 +8,15 @@
 
 Type: weapon  
 Extra flags: glow evil magic anti-good  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Plane Of Water](:Category:Plane_Of_Water "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Plane Of Water](:Category:Plane_Of_Water.md "wikilink")  
 Mob: I forget, either [Frostbite](Frostbite "wikilink") and
 [Blizzard](Blizzard "wikilink") (I think)  
 
 ------------------------------------------------------------------------
 
 See [Gear In Plane Of
-Water](:Category:Gear_In_Plane_Of_Water "wikilink") for more
+Water](:Category:Gear_In_Plane_Of_Water.md "wikilink") for more
 information.
 
 [Category:Lord Second Tier Hit

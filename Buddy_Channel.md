@@ -1,6 +1,7 @@
-See also [Buddy](Buddy "wikilink"), [Buddylist](Buddylist "wikilink"),
-[Buddyset](Buddyset "wikilink"), and [Buddy
-Info](Buddy_Info "wikilink").
+See also [Buddy](Buddy.md "wikilink"),
+[Buddylist](Buddylist.md "wikilink"),
+[Buddyset](Buddyset.md "wikilink"), and [Buddy
+Info](Buddy_Info.md "wikilink").
 
 [Category: Channels](Category:_Channels "wikilink") [Category:
 Out-of-Character

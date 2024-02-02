@@ -1,23 +1,23 @@
 *A small vial lies here, with a brightly glowing spark in it*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -50 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`'`[`detect`` ``evil`](Detect_Evil "wikilink")`' continuous.`  
-`'`[`detect`` ``hidden`](Detect_Hidden "wikilink")` continuous.`  
-`'`[`detect`` ``invis`](Detect_Invis "wikilink")`' continuous.`  
-`'`[`detect`` ``magic`](Detect_Magic "wikilink")`' continuous.`  
-`'`[`infravision`](Infravision "wikilink")`' continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -50 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`'`[`detect`` ``evil`](Detect_Evil.md "wikilink")`' continuous.`  
+`'`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")` continuous.`  
+`'`[`detect`` ``invis`](Detect_Invis.md "wikilink")`' continuous.`  
+`'`[`detect`` ``magic`](Detect_Magic.md "wikilink")`' continuous.`  
+`'`[`infravision`](Infravision.md "wikilink")`' continuous.`
 
 **Keyword(s):** spark, bottle, vial  
-**[Level(s)](Object_Level "wikilink"):** 50  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Quality](Object_Quality "wikilink"):** 40 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 50  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps  
 
 ## Comments
 

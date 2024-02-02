@@ -9,14 +9,14 @@ palpable.*
 `Modifies constitution by -3 continuous`
 
 **Keyword(s):** clump, rock, echostone.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 80 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 80 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 **Mob:** [Ghostly Sailor](Ghostly_Sailor "wikilink")  
 
 ## Comments
@@ -29,8 +29,8 @@ heroes, while the extra saves always come in handy.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Rim](:Category:_Rim "wikilink") ([map](Rim_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Rim](:Category:_Rim.md "wikilink") ([map](Rim_Map.md "wikilink"))  
 
 [Category: Gear In Rim](Category:_Gear_In_Rim "wikilink") [Category:
 Lights](Category:_Lights "wikilink") [Category: Hero Hit

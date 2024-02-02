@@ -136,13 +136,13 @@ in danger of dying quite often.
 
 ### Group 1:
 
--   [ Igecsoz](:Category:_Igecsoz "wikilink") (pp Ajuu)
--   [Upper Greed’s Gallows](:Category:_Greed's_Gallows "wikilink") (pp
-    barrel monkey)
--   [ Hamlet Of Kreigstadt](:Category:_Hamlet_Of_Kreigstadt "wikilink")
-    (pp otto)
--   [ Dream Steppes](:Category:_Dream_Steppes "wikilink") (pp displacer
-    beast)
+-   [ Igecsoz](:Category:_Igecsoz.md "wikilink") (pp Ajuu)
+-   [Upper Greed’s Gallows](:Category:_Greed's_Gallows.md "wikilink")
+    (pp barrel monkey)
+-   [ Hamlet Of
+    Kreigstadt](:Category:_Hamlet_Of_Kreigstadt.md "wikilink") (pp otto)
+-   [ Dream Steppes](:Category:_Dream_Steppes.md "wikilink") (pp
+    displacer beast)
 
 #### Igecsoz
 
@@ -187,13 +187,14 @@ a sailor in agony) can be quite nasty for smaller heroes.
 
 ### Group 2:
 
--   [Lower Greed’s Gallows](:Category:_Greed's_Gallows "wikilink") (pp
-    pod manatee)
--   [ Frozen Wastes](:Category:_Frozen_Wastes "wikilink") (pp snowbird)
--   [ Shogun](:Category:_Shogun "wikilink") (pp Pansho)
--   [ Deepways](:Category:_Deepways "wikilink") (pp leper)
--   [ Alpha Thule](:Category:_Alpha_Thule "wikilink") (pp selkie or Big
-    Fish)
+-   [Lower Greed’s Gallows](:Category:_Greed's_Gallows.md "wikilink")
+    (pp pod manatee)
+-   [ Frozen Wastes](:Category:_Frozen_Wastes.md "wikilink") (pp
+    snowbird)
+-   [ Shogun](:Category:_Shogun.md "wikilink") (pp Pansho)
+-   [ Deepways](:Category:_Deepways.md "wikilink") (pp leper)
+-   [ Alpha Thule](:Category:_Alpha_Thule.md "wikilink") (pp selkie or
+    Big Fish)
 
 #### Lower Greed’s
 
@@ -219,7 +220,7 @@ glacier.
 To clear the main glacier: after 3d, k ice, s, k ice, e, k ice, s, k
 ice, w, k ice, w, k ice, n, k ice, n d s, k ice, e e, k ice, w s, k ice,
 w, k ice, e e, k ice, w 2n, k ice, n, k ice, w, k ice, 2e, k ice, portal
-out. Make sure to loot the [milks](Glacial_Milk "wikilink") from the
+out. Make sure to loot the [milks](Glacial_Milk.md "wikilink") from the
 guardians when you kill them!
 
 #### Shogun
@@ -405,8 +406,8 @@ entirely.
 
 ### Group 3:
 
--   [ Great Divide](:Category:_Great_Divide "wikilink") (pp Wartha)
--   [ Morte Vallta](:Category:_Morte_Vallta "wikilink") (pp giant
+-   [ Great Divide](:Category:_Great_Divide.md "wikilink") (pp Wartha)
+-   [ Morte Vallta](:Category:_Morte_Vallta.md "wikilink") (pp giant
     vulture)
 
 #### The Great Divide
@@ -433,10 +434,11 @@ annoying spells.
 
 ### Group 4:
 
--   [ Graves Of Reveria](:Category:_Graves_Of_Reveria "wikilink") (pp
+-   [ Graves Of Reveria](:Category:_Graves_Of_Reveria.md "wikilink") (pp
     mourning drow)
--   [ Necropolis](:Category:_Necropolis "wikilink") (pp mourning drow)
--   [ Transfigured Forest](:Category:_Transfigured_Forest "wikilink")
+-   [ Necropolis](:Category:_Necropolis.md "wikilink") (pp mourning
+    drow)
+-   [ Transfigured Forest](:Category:_Transfigured_Forest.md "wikilink")
     (pp stone trickster)
 
 These are big and very swarmy areas. More info can be found on their

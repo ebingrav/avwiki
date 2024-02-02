@@ -5,10 +5,10 @@ been known to put on energetic displays for onlookers.*
 
 **Keywords:** rorqual, ?.  
 **Scan Description:** ?  
-**[Level](Level "wikilink"):** ?  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** aggressive.  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), ?.  
+**[Level](Level.md "wikilink"):** ?  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** aggressive.  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), ?.  
 
 ## Gear
 
@@ -26,9 +26,9 @@ Big, hits hard, and takes no damage from splinter missile weapons.
 
 Wanders.
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** various
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** various
+([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Rim](Category:_Mobs_In_Rim "wikilink")

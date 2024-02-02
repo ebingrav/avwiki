@@ -1,20 +1,20 @@
 *With this discipline, a skilled employer of
-[psionics](:Category:_Psionicists "wikilink") can use the power of his
-or her mind to affect the morale of his opponent. If the attempt
+[psionics](:Category:_Psionicists.md "wikilink") can use the power of
+his or her mind to affect the morale of his opponent. If the attempt
 succeeds, the enemy will be overcome by an artificially-inspired awe and
 will simply forget to fight. [Aggressive
-monsters](Aggressive_Mobs "wikilink") will revert to their true nature
-after only a brief lull in the action; however, there is a chance of a
-slightly more permanent toll being taken on the combat abilities of
+monsters](Aggressive_Mobs.md "wikilink") will revert to their true
+nature after only a brief lull in the action; however, there is a chance
+of a slightly more permanent toll being taken on the combat abilities of
 those present. Be wary: this spell can also affect
-[players](:Category:_Characters "wikilink") in the
-[room](:Category:_Rooms "wikilink").
-[Heroes](:Category:_Hero "wikilink") may wish to note that AWE has the
-same effects as the spell [CALM](Calm "wikilink").*
+[players](:Category:_Characters.md "wikilink") in the
+[room](:Category:_Rooms.md "wikilink").
+[Heroes](:Category:_Hero.md "wikilink") may wish to note that AWE has
+the same effects as the spell [CALM](Calm.md "wikilink").*
 
-Prerequisite(s): [Fear](Fear "wikilink").
+Prerequisite(s): [Fear](Fear.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'awe'.
+Syntax: [cast](Cast.md "wikilink") 'awe'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

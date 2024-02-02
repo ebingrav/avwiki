@@ -1,7 +1,8 @@
 ''A gilded street in [
-Cathracharraig](:Category:Cathracharraig "wikilink"), the street paved
-from solid gold: framed on the northern edge by the foothills of Devil's
-Peak, furtive glances and secretive movements come from its inhabitants.
+Cathracharraig](:Category:Cathracharraig.md "wikilink"), the street
+paved from solid gold: framed on the northern edge by the foothills of
+Devil's Peak, furtive glances and secretive movements come from its
+inhabitants.
 
 ''At its western end, huddled in the shadows and stones of Devil's Peak
 stands a building whose edifice undeniably shows the abundance of money
@@ -14,7 +15,7 @@ of the ugly grimaces and creatures adorning the passage into the gloomy
 courtyard of the mansion.
 
 *Interest has slackened since the fall of [
-Ofcol](:Category:Ofcol "wikilink"), and the House of Stone fills its
+Ofcol](:Category:Ofcol.md "wikilink"), and the House of Stone fills its
 dark spot, mostly ignored, only rarely mentioned in connection with
 shady companies arriving and leaving in dark moonless nights, and the
 sounds of stonemasons chiseling and carving.*
@@ -23,19 +24,19 @@ sounds of stonemasons chiseling and carving.*
 
 **Builder:** Pico
 
-This [area](:Category:_Areas "wikilink") was created for an
-[area-building contest](Area-Building_Contests "wikilink") in 2005.  
-This [area](:Category:_Areas "wikilink") was added in 2006 Mar.  
+This [area](:Category:_Areas.md "wikilink") was created for an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2005.  
+This [area](:Category:_Areas.md "wikilink") was added in 2006 Mar.  
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 22n, e, n, 2w, 4n, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 22n, e, n, 2w, 4n, w.
 
-Walking route from [steed](Cavalry_Steed "wikilink"): 3n, w.
+Walking route from [steed](Cavalry_Steed.md "wikilink"): 3n, w.
 
-[Portaling](Portal "wikilink") point(s) suggested: [degraded
-citizen](Degraded_Citizen "wikilink"), [crooked
-figure](Crooked_Figure "wikilink") (third-rate city guard).
+[Portaling](Portal.md "wikilink") point(s) suggested: [degraded
+citizen](Degraded_Citizen.md "wikilink"), [crooked
+figure](Crooked_Figure.md "wikilink") (third-rate city guard).
 
 ## Connections
 

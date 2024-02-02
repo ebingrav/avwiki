@@ -1,17 +1,20 @@
-*Move hidden "[hides](Hide_Flag "wikilink")" the player, much like the
-[invis](Invis "wikilink") [spell](:Category:_Spells "wikilink").
-[Players](:Category:_Characters "wikilink") and
-[mobs](:Category:_Mobs "wikilink") must have [detect
-hidden](Detect_Hidden "wikilink") to see the character.
-[Mobs](:Category:_Mobs "wikilink") may also be affected by move hidden.*
+*Move hidden "[hides](Hide_Flag.md "wikilink")" the player, much like
+the [invis](Invis.md "wikilink")
+[spell](:Category:_Spells.md "wikilink").
+[Players](:Category:_Characters.md "wikilink") and
+[mobs](:Category:_Mobs.md "wikilink") must have [detect
+hidden](Detect_Hidden.md "wikilink") to see the character.
+[Mobs](:Category:_Mobs.md "wikilink") may also be affected by move
+hidden.*
 
-Prerequisite(s): [Hide](Hide "wikilink"), [Sneak](Sneak "wikilink").
+Prerequisite(s): [Hide](Hide.md "wikilink"),
+[Sneak](Sneak.md "wikilink").
 
 Syntax: move hidden.
 
-See also [Racial Movehidden](Racial_Movehidden "wikilink") and [Gear
+See also [Racial Movehidden](Racial_Movehidden.md "wikilink") and [Gear
 That Applies Move
-Hidden](:Category:_Gear_That_Applies_Move_Hidden "wikilink").
+Hidden](:Category:_Gear_That_Applies_Move_Hidden.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

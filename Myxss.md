@@ -4,16 +4,16 @@ but don't hinder her movements. She enjoys experimenting with the
 creation of draconian mutants, as evidenced by her lair guards.*
 
 **Keywords:** myxss, sea, draq.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ???.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[gas-breathing](Breathing_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ???.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[gas-breathing](Breathing_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `You peek at the inventory:`  
-`    `[`myxss'`` ``Claw`](Myxss'_Claw "wikilink")
+`    `[`myxss'`` ``Claw`](Myxss'_Claw.md "wikilink")
 
 ## Comments
 
@@ -22,9 +22,9 @@ Ouch!
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Dragon's
-Atoll](:Category:_Dragon's_Atoll "wikilink")
-([Map](Dragon's_Atoll_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Dragon's
+Atoll](:Category:_Dragon's_Atoll.md "wikilink")
+([Map](Dragon's_Atoll_Map.md "wikilink")).  
 
 [Category: Mobs In Dragon's
 Atoll](Category:_Mobs_In_Dragon's_Atoll "wikilink")

@@ -16,11 +16,11 @@
 ## Comments
 
 Broken Fangs are from the [Idolatry Of
-Lloth](:Category:Idolatry_Of_Lloth "wikilink") and located on the
+Lloth](:Category:Idolatry_Of_Lloth.md "wikilink") and located on the
 [Arachnakans](Arachnakan "wikilink") found within the web tunnels. They
-can contain [Virus](:Category:Virus "wikilink"),
-[Biotoxin](:Category:Biotoxin "wikilink"), OR
-[Venom](:Category:Venom "wikilink")! The biotoxin fangs are the most
+can contain [Virus](:Category:Virus.md "wikilink"),
+[Biotoxin](:Category:Biotoxin.md "wikilink"), OR
+[Venom](:Category:Venom.md "wikilink")! The biotoxin fangs are the most
 common – they seem to pop at roughly 60% bioxtoxin, 30% virus, %10
 venom.
 

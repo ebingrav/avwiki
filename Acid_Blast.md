@@ -1,28 +1,29 @@
-*This [spell](:Category:_Spells "wikilink") inflicts damage on the
-[victim](:Category:_Mobs "wikilink") by magically generating a blast of
-acid. One [victim](:Category:_Mobs "wikilink") once said 'Whoa!' before
-his mouth was melted down. It turned ugly after that for the poor
-[goblin](Goblins "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") inflicts damage on the
+[victim](:Category:_Mobs.md "wikilink") by magically generating a blast
+of acid. One [victim](:Category:_Mobs.md "wikilink") once said 'Whoa!'
+before his mouth was melted down. It turned ugly after that for the poor
+[goblin](Goblins.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'acid blast'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'acid blast'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This single-target damage [spell](:Category:_Spells "wikilink") is sixth
-of ten that [mages](:Category:_Mages "wikilink") may
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50. [Mages](:Category:_Mages "wikilink") may
-find it useful until they [learn](Practice "wikilink")
-[Icestrike](Icestrike "wikilink") or when they are low on
-[mana](Mana_Points "wikilink").
-[Characters](:Category:_Characters "wikilink") of many other
-[classes](:Category:_Classes "wikilink") may
-[learn](Practice "wikilink") it at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink") but will find it fairly useless to
-them.
+This single-target damage [spell](:Category:_Spells.md "wikilink") is
+sixth of ten that [mages](:Category:_Mages.md "wikilink") may
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50.
+[Mages](:Category:_Mages.md "wikilink") may find it useful until they
+[learn](Practice.md "wikilink") [Icestrike](Icestrike.md "wikilink") or
+when they are low on [mana](Mana_Points.md "wikilink").
+[Characters](:Category:_Characters.md "wikilink") of many other
+[classes](:Category:_Classes.md "wikilink") may
+[learn](Practice.md "wikilink") it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") but will find it fairly useless
+to them.
 
-See also [Acid Blast Gear](:Category:_Acid_Blast_Gear "wikilink").
+See also [Acid Blast Gear](:Category:_Acid_Blast_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

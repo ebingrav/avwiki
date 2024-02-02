@@ -53,7 +53,7 @@ This is a powerful pantheon spell. Any single cleric can only maintain
 </ul>
 </dd>
 </dl>
-<p>This is one of the cleric <a href=":Category:_Pantheon_Spells"
+<p>This is one of the cleric <a href=":Category:_Pantheon_Spells.md"
 title="wikilink"> pantheon spells</a>.<br />
 The effect is an increase in spell power for all group members.<br />
 There are many parameters, so feel free to add what you find to table

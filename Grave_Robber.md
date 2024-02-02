@@ -5,10 +5,10 @@ you suddenly realise that this man probably does not have permission to
 be doing any digging here.*
 
 **Keywords:** grave, robber.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** [hide](Hide "wikilink"), [sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** [hide](Hide.md "wikilink"), [sneak](Sneak.md "wikilink").  
 
 ## Gear
 
@@ -16,16 +16,16 @@ be doing any digging here.*
 `Nothing.`
 
 `A grave robber is carrying:`  
-`     `[`a`` ``locket`](Locket "wikilink")
+`     `[`a`` ``locket`](Locket.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink")).  
-A grave robber [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink")).  
+A grave robber [wanders](Wandering_Mobs.md "wikilink").  
 A grave robber is portable.  
 
 [Category: Mobs In Defender's

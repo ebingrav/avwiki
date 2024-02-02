@@ -1,17 +1,17 @@
-*[Silvanus Wayfinder](Centaur_Ranger "wikilink") has grown very anxious
-to learn why his fighters have been mysteriously disappearing
+*[Silvanus Wayfinder](Centaur_Ranger.md "wikilink") has grown very
+anxious to learn why his fighters have been mysteriously disappearing
 one-by-one. Unknown to him, a vital (though tragic) [piece of
-evidence](Tangle_Of_Bloody_Remains "wikilink") lies hidden somewhere in
-[his hollow](:Category:_Centaur_Hollow "wikilink"). He would be very
-grateful to receive it...*
+evidence](Tangle_Of_Bloody_Remains.md "wikilink") lies hidden somewhere
+in [his hollow](:Category:_Centaur_Hollow.md "wikilink"). He would be
+very grateful to receive it...*
 
-From [Konk](Konk "wikilink"):
+From [Konk](Konk.md "wikilink"):
 
 -   Go \[s\], 2s, 2w, 2s, w.
 
 <!-- -->
 
--   [Push](Push "wikilink") a mossy boulder.
+-   [Push](Push.md "wikilink") a mossy boulder.
 
 <!-- -->
 
@@ -19,8 +19,8 @@ From [Konk](Konk "wikilink"):
 
 <!-- -->
 
--   [Get](Get "wikilink") [a tangle of bloody
-    remains](Tangle_Of_Bloody_Remains "wikilink") from floor.
+-   [Get](Get.md "wikilink") [a tangle of bloody
+    remains](Tangle_Of_Bloody_Remains.md "wikilink") from floor.
 
 <!-- -->
 
@@ -28,10 +28,10 @@ From [Konk](Konk "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a tangle of bloody
-    remains](Tangle_Of_Bloody_Remains "wikilink") to [a centaur
-    ranger](Centaur_Ranger "wikilink") and receive [a granite
-    key](Granite_Key_(Centaur_Hollow) "wikilink").
+-   [Give](Give.md "wikilink") [a tangle of bloody
+    remains](Tangle_Of_Bloody_Remains.md "wikilink") to [a centaur
+    ranger](Centaur_Ranger.md "wikilink") and receive [a granite
+    key](Granite_Key_(Centaur_Hollow).md "wikilink").
 
 <!-- -->
 
@@ -39,17 +39,17 @@ From [Konk](Konk "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") a granite chest using [a granite
-    key](Granite_Key_(Centaur_Hollow) "wikilink").
+-   [Unlock](Unlock.md "wikilink") a granite chest using [a granite
+    key](Granite_Key_(Centaur_Hollow).md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") a granite chest.
+-   [Open](Open.md "wikilink") a granite chest.
 
 <!-- -->
 
--   [Get](Get "wikilink") [an Orb of
-    Sunshine](Orb_Of_Sunshine "wikilink") from a granite chest.
+-   [Get](Get.md "wikilink") [an Orb of
+    Sunshine](Orb_Of_Sunshine.md "wikilink") from a granite chest.
 
 [Category: Quests In Centaur
 Hollow](Category:_Quests_In_Centaur_Hollow "wikilink") [Category:

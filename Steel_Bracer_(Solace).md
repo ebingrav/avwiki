@@ -1,29 +1,29 @@
 *You see a steel bracer here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 5 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 5 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** bracer steel  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around wrist>  
-**[Weight](Object_Weight "wikilink"):** 9 lbs  
-**[Level(s)](Object_Level "wikilink"):** 16-18  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around wrist>  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 16-18  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
-The [lieutentant](Lieutenant_Commander "wikilink") has two of these, so
-you can outfit yourself fully in one go.
+The [lieutentant](Lieutenant_Commander.md "wikilink") has two of these,
+so you can outfit yourself fully in one go.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Town Of
-Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Lieutenant
+**[Area](:Category:_Areas.md "wikilink"):** [Town Of
+Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Lieutenant
 Commander](Lieutenant_Commander "wikilink")  
 
 [Category: Gear In Town Of

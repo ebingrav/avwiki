@@ -6,20 +6,20 @@ the finest adventurers he encounters. While the soft stone doesn't make
 a fantastic weapon, the hammer is more of a status symbol, and a sign of
 hope to any who sees it.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 8 to 25 (average 16).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 8 to 25 (average 16).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** stonehall, marble, hammer.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 30 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[good](Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 30 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[good](Good_Flag.md "wikilink").  
 
 ## Comments
 
@@ -28,11 +28,11 @@ Balgaar](Captain_Balgaar "wikilink") has, since his is used.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Walking Woods Plague
-Quest](Walking_Woods_Plague_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Walking Woods
+Plague Quest](Walking_Woods_Plague_Quest "wikilink").  
 See [Walking Woods Plague Quest](Walking_Woods_Plague_Quest "wikilink")
 for more information.
 

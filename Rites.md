@@ -16,8 +16,8 @@ mastered. Learning one does not require a trainer of any kind.*
 # Comments
 
 See the [Berserkers
-page](:Category:Berserkers#Berserkers_at_Hero_Tier "wikilink") for more
-information.
+page](:Category:Berserkers#Berserkers_at_Hero_Tier.md "wikilink") for
+more information.
 
 [Category: Berserker Class
 Definers](Category:_Berserker_Class_Definers "wikilink")

@@ -1,6 +1,6 @@
-*Haggle and [Fence](Fence "wikilink") are similar 'shopping' skills, and
-let you use your natural ability to finagle a better deal from almost
-anyone. Haggle helps tilt prices in your favor. Both skills are
+*Haggle and [Fence](Fence.md "wikilink") are similar 'shopping' skills,
+and let you use your natural ability to finagle a better deal from
+almost anyone. Haggle helps tilt prices in your favor. Both skills are
 automatic, and of course must be practiced before being used.*
 
 Prerequisite(s): none.

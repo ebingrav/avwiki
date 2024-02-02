@@ -9,9 +9,9 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Troglodyte: `*`u`` ``uu`` ``bgrruug`` ``fgu`` ``gukrudr`` ``ugurr`` ``u`` ``glukzu`` ``drug.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Troglodyte:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Troglodyte:
 
--   [Troglodytes](Troglodytes "wikilink").
+-   [Troglodytes](Troglodytes.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

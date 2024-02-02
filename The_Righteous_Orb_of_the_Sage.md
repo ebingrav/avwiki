@@ -10,9 +10,9 @@
 `the wars and battles. There is more than just this moment.`  
 `But all moments are one.`
 
-**[Commune Bonus](Commune "wikilink"):** spell duration +15%
+**[Commune Bonus](Commune.md "wikilink"):** spell duration +15%
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Peace](Aspect_-_Peace "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Peace](Aspect_-_Peace.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

@@ -4,9 +4,9 @@
 
 Type: Staff  
 Weight: 3  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")  
-Mob: [Idol Of Tysimiche](Idol_Of_Tysimiche "wikilink")
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")  
+Mob: [Idol Of Tysimiche](Idol_Of_Tysimiche.md "wikilink")
 
 [Category: Lord Utility Gear](Category:_Lord_Utility_Gear "wikilink")
 [Category: Gear In Patriarchs'

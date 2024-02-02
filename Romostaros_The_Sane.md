@@ -50,12 +50,12 @@ searching through records.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-([Map](Cloud_Dracoleum_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Ribcage Office
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): n, e.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+([Map](Cloud_Dracoleum_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Ribcage Office
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): n, e.  
 
 [Category:Mobs In Cloud
 Dracoleum](Category:Mobs_In_Cloud_Dracoleum "wikilink")

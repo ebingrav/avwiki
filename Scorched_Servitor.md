@@ -4,23 +4,23 @@ for a moment there it seemed a flame licked out from a joint. Surely
 not...*
 
 **Keywords:** scortched, servitor  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** demonic.  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
 
 ## Comments
 
 The servitor crashes to the ground and from its wreckage roars an
-[elemental](Furious_Fire_Elemental "wikilink")!
+[elemental](Furious_Fire_Elemental.md "wikilink")!
 
 The Scotched Servitor is involved in [Citadel Of
-Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")' [Staff of Fire
-Quest](Staff_Of_Fire_Quest "wikilink").
+Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")' [Staff of
+Fire Quest](Staff_Of_Fire_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
 It is portable.
 
 [Category: Mobs In Citadel Of

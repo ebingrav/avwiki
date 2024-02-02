@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Frozen_Wastes.jpg" title="Frozen_Wastes.jpg" width="650"
-alt="Frozen_Wastes.jpg" />
-<figcaption aria-hidden="true">Frozen_Wastes.jpg</figcaption>
+<img src="Frozen_Wastes.jpg.md" title="Frozen_Wastes.jpg.md" width="650"
+alt="Frozen_Wastes.jpg.md" />
+<figcaption aria-hidden="true">Frozen_Wastes.jpg.md</figcaption>
 </figure>
 
 [Stormkeep Map](Stormkeep_Map "wikilink")  

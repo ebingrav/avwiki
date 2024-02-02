@@ -1,9 +1,9 @@
 *With toss, you can physically grab your opponent and slam them into the
 ground. If you're successful, they'll be lying on the ground in a prone
 position, and will be slow in recovering. You can get more hits in this
-way, and since their [armor class](Armor_Class "wikilink") is worse your
-hits may be more devastating. If you are thrown, it will take you a
-[round](Rounds "wikilink") or two to recover.*
+way, and since their [armor class](Armor_Class.md "wikilink") is worse
+your hits may be more devastating. If you are thrown, it will take you a
+[round](Rounds.md "wikilink") or two to recover.*
 
 Prerequisite(s): none.
 

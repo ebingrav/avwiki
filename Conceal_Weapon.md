@@ -1,13 +1,14 @@
-*With nimble fingers, a stealthy [rogue](:Category:_Rogues "wikilink")
-may keep his [weapons](:Category:_Weapons "wikilink") unseen, enabling
-him to use skills such as [assassinate](Assassinate "wikilink") or
-[backstab](Backstab "wikilink") with greater efficiency. The
-[skill](:Category:_Skills "wikilink") is now toggleable with use of the
-[command](:Category:_Commands "wikilink").*
+*With nimble fingers, a stealthy
+[rogue](:Category:_Rogues.md "wikilink") may keep his
+[weapons](:Category:_Weapons.md "wikilink") unseen, enabling him to use
+skills such as [assassinate](Assassinate.md "wikilink") or
+[backstab](Backstab.md "wikilink") with greater efficiency. The
+[skill](:Category:_Skills.md "wikilink") is now toggleable with use of
+the [command](:Category:_Commands.md "wikilink").*
 
-Prerequisite(s): [Rogue Lore](Rogue_Lore "wikilink").
+Prerequisite(s): [Rogue Lore](Rogue_Lore.md "wikilink").
 
-Syntax: [conceal](Conceal "wikilink").
+Syntax: [conceal](Conceal.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Assassin

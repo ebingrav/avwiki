@@ -2,22 +2,22 @@
 originally belong to the harpy.*
 
 **Keyword(s):** a gold locket  
-**[Level(s)](Object_Level "wikilink"):** 27  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 10 hps  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 27  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Lloth's
-Peak](:Category:_Lloth's_Peak "wikilink")
-([Map](Lloth's_Peak_Map "wikilink"))  
-**[Mobs](:Category:_Mobs "wikilink"):** [Mother
+**[Area](:Category:_Areas.md "wikilink"):** [Lloth's
+Peak](:Category:_Lloth's_Peak.md "wikilink")
+([Map](Lloth's_Peak_Map.md "wikilink"))  
+**[Mobs](:Category:_Mobs.md "wikilink"):** [Mother
 Harpy](Mother_Harpy "wikilink").  
 
 [Category: Gear In Lloth's

@@ -4,11 +4,11 @@ the master of this destroyed icy forest. If its children were a danger,
 then this huge beast on its trunk thick legs is death. Icy death.*
 
 **Keywords:** gigantic, ice, spider.  
-**[Level](Level "wikilink"):** 82.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
+**[Level](Level.md "wikilink"):** 82.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
 [Aggressive](Aggressive "wikilink").  
-**Affects:** [sanc](Sanctuary "wikilink"), [Sneak](Sneak "wikilink"),
+**Affects:** [sanc](Sanctuary.md "wikilink"), [Sneak](Sneak "wikilink"),
 [Hide](Hide "wikilink").  
 
 ## Gear
@@ -23,9 +23,9 @@ The Gigantic Ice Spider is an Insectoid, and also a stabber.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
 Wanders in the Ice Tree portion of the area.
 
 [Category: Mobs In Transfigured

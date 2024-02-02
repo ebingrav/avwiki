@@ -1,25 +1,25 @@
 *A blowgun is here, with a small pile of poisonous darts.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 6 to 15 (average 10).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 6 to 15 (average 10).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** blowgun darts.  
-**[Level(s)](Object_Level "wikilink"):** 9.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 9.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morgan
-Vale](:Category:_Morgan_Vale "wikilink")
-([Map](Morgan_Vale_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Elf (Morgan
+**[Area](:Category:_Areas.md "wikilink"):** [Morgan
+Vale](:Category:_Morgan_Vale.md "wikilink")
+([Map](Morgan_Vale_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Elf (Morgan
 Vale)](Elf_(Morgan_Vale) "wikilink").  
 See [Elf (Morgan Vale)](Elf_(Morgan_Vale) "wikilink") for more
 information.  

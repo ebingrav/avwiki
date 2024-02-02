@@ -1,9 +1,11 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="Avatar-map_Kzinti-Raid.png" title="Avatar-map_Kzinti-Raid.png"
-width="850" alt="Avatar-map_Kzinti-Raid.png" />
-<figcaption aria-hidden="true">Avatar-map_Kzinti-Raid.png</figcaption>
+<img src="Avatar-map_Kzinti-Raid.png.md"
+title="Avatar-map_Kzinti-Raid.png.md" width="850"
+alt="Avatar-map_Kzinti-Raid.png.md" />
+<figcaption
+aria-hidden="true">Avatar-map_Kzinti-Raid.png.md</figcaption>
 </figure>
 
 ([Kzinti Outpost Map](Kzinti_Outpost_Map "wikilink"))

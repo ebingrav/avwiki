@@ -1,18 +1,18 @@
 Syntax: [cast](cast "wikilink") planeshift  
 Syntax: cast planeshift <keyword>  
 Syntax: cast homeshift  
-Prerequisite for planeshift: [homeshift](Homeshift "wikilink")
+Prerequisite for planeshift: [homeshift](Homeshift.md "wikilink")
 
 To cast planeshift is to attempt to cross over the line that divides one
 plane from another.
 
 Casting planeshift without an argument will take you to
-[Midgaardia](:Category:_Midgaardia "wikilink"). Casting planeshift with
-a keyword will take you to the area specified. For example: c planeshift
-[outland](:Category:_Outland "wikilink")
+[Midgaardia](:Category:_Midgaardia.md "wikilink"). Casting planeshift
+with a keyword will take you to the area specified. For example: c
+planeshift [outland](:Category:_Outland.md "wikilink")
 
 Homeshift returns you from another plane to
-[Thorngate](:Category:_Thorngate "wikilink").
+[Thorngate](:Category:_Thorngate.md "wikilink").
 
 (NOTE: You can also planeshift to an artifact known as the [Planar
 Anchor](Planar_Anchor "wikilink").)

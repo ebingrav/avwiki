@@ -1,11 +1,12 @@
 *Ritual Scarification can be used to trigger the
-[berserk](Berserk "wikilink") [skill](:Category:_Skills "wikilink") and
-[racial](:Category:_Racials "wikilink") at the cost of
-[hps](Hit_Points "wikilink").*
+[berserk](Berserk.md "wikilink")
+[skill](:Category:_Skills.md "wikilink") and
+[racial](:Category:_Racials.md "wikilink") at the cost of
+[hps](Hit_Points.md "wikilink").*
 
-Prerequisite(s): [Berserk](Berserk "wikilink").
+Prerequisite(s): [Berserk](Berserk.md "wikilink").
 
-Syntax: [scar](Scar "wikilink").
+Syntax: [scar](Scar.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Berserker

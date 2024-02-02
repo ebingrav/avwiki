@@ -27,7 +27,7 @@ Once clear, return to the spirit and give him any of the loots:
 `The spirit of the lich takes your mithril hammer.`  
 `Thank you for slowing down Tssasskkas' attacks on my tower. As a token of`  
 `my gratitude, here is a minor concoction.`  
-`The spirit of the lich gives you a `[`fizzing`` ``white`` ``potion`](Fizzing_White_Potion "wikilink")`!`
+`The spirit of the lich gives you a `[`fizzing`` ``white`` ``potion`](Fizzing_White_Potion.md "wikilink")`!`
 
 Beware, there are two mobs in this room and both accept tickets. You
 give these to the **Spirit Tzzan**, whereas the *skeleton* is involved

@@ -41,12 +41,12 @@ this and bring me proof of your deeds! I will make sure you are
 generously rewarded!' ''
 
 **Keywords:** sylvinar, mage.  
-**[Level](Level "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
 **Scan Description:** Leaning on his staff, this old mage beckons for
 you to come.  
-**[Alignment](Alignment "wikilink"):** heroically.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** heroically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** .  
 
 ## Gear
@@ -60,15 +60,15 @@ you to come.
 
 ## Comments
 
-Involved in [the Ancient Ring Quest](Ancient_Ring_Quest "wikilink").
+Involved in [the Ancient Ring Quest](Ancient_Ring_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Redtooth's
-Isle](:Category:_Redtooth's_Isle "wikilink")
-([Map](Redtooth's_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The end of the peninsula (Safe
-room)
+**[Area](:Category:_Areas.md "wikilink"):** [Redtooth's
+Isle](:Category:_Redtooth's_Isle.md "wikilink")
+([Map](Redtooth's_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The end of the peninsula
+(Safe room)
 
 Mob is portable (2.sylvinar).
 

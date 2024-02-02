@@ -5,17 +5,17 @@
 `Modifies hit roll by 5 continuous.`
 
 **Keyword(s):** battle sword  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 15 lbs  
-**[Level(s)](Object_Level "wikilink"):** 37-38  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Knight
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 37-38  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Knight
 (Midgaard)](Knight_(Midgaard) "wikilink")  
 
 ## Comments
@@ -23,8 +23,8 @@
 ## Directions
 
 Located in the warrior's guild. Go s w from [Entrance
-Guard](Entrance_Guard "wikilink") ([portable](Teleport "wikilink")) in
-Midgaard.  
+Guard](Entrance_Guard "wikilink") ([portable](Teleport.md "wikilink"))
+in Midgaard.  
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Standard Two-Handed

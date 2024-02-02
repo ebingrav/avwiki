@@ -6,22 +6,22 @@ blade.*
 ` Modifies hit roll by 7 continuous.`
 
 **Keyword(s):** blade, sword, deathfang.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** wielded.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** wielded.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Serpent
-Weyr](:Category:_Serpent_Weyr "wikilink")
-([Map](Serpent_Weyr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Prince
+**[Area](:Category:_Areas.md "wikilink"):** [Serpent
+Weyr](:Category:_Serpent_Weyr.md "wikilink")
+([Map](Serpent_Weyr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Prince
 Sk'ylan](Prince_Sk'ylan "wikilink").  
 
 [Category:Gear In Serpent

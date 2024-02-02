@@ -1,11 +1,11 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="saint.of.the.blade.temple.jpg"
-title="saint.of.the.blade.temple.jpg" width="650"
-alt="saint.of.the.blade.temple.jpg" />
+<img src="saint.of.the.blade.temple.jpg.md"
+title="saint.of.the.blade.temple.jpg.md" width="650"
+alt="saint.of.the.blade.temple.jpg.md" />
 <figcaption
-aria-hidden="true">saint.of.the.blade.temple.jpg</figcaption>
+aria-hidden="true">saint.of.the.blade.temple.jpg.md</figcaption>
 </figure>
 
 [Hamlet Of Kreigstadt Map](Hamlet_Of_Kreigstadt_Map "wikilink")  

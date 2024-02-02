@@ -1,4 +1,4 @@
-Prerequisites: [Meditation ii](Meditation_II "wikilink")
+Prerequisites: [Meditation ii](Meditation_II.md "wikilink")
 
 This allows for additional regeneration of mana while sleeping.
 

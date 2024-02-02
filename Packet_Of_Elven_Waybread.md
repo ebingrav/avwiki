@@ -1,22 +1,22 @@
 *A small packet wrapped in fresh fragrant leaves lies here.*
 
-`Level 41 spells of: '`[`heal`](Heal "wikilink")`' 'heal' '`[`giant`` ``strength`](Giant_Strength "wikilink")`'.`
+`Level 41 spells of: '`[`heal`](Heal.md "wikilink")`' 'heal' '`[`giant`` ``strength`](Giant_Strength.md "wikilink")`'.`
 
 **Keyword(s):** small, packet, elven, waybread  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Quality](Object_Quality "wikilink"):** 2 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps  
 
 ## Comments
 
 This is obtained through the [Packet Of Elven Waybread
 Quest](Packet_Of_Elven_Waybread_Quest "wikilink"). See also [Suggested
 Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink").
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink").
 
 [Category: Gear In Transfigured
 Forest](Category:_Gear_In_Transfigured_Forest "wikilink") [Category:

@@ -9,7 +9,7 @@
 **Slot:** wielded.  
 **Quality:** 100 hps.  
 **Weight:** 5 lbs.  
-**[Flags](:Category:Object_Flags "wikilink"):** hum
+**[Flags](:Category:Object_Flags.md "wikilink"):** hum
 
 ## Comments
 
@@ -17,10 +17,10 @@ Despite being a weapon, Denbosai wears this on his hands.
 
 ## Directions
 
-**Area:** [Shogun](:Category:Shogun "wikilink")
-([Map](Shogun_Map "wikilink"))  
+**Area:** [Shogun](:Category:Shogun.md "wikilink")
+([Map](Shogun_Map.md "wikilink"))  
 **Mog(s):** [The Merchant Lord
-Denbosai](Merchant_Lord_Denbosai "wikilink")
+Denbosai](Merchant_Lord_Denbosai.md "wikilink")
 
 [Category:Gear In Shogun](Category:Gear_In_Shogun "wikilink")
 [Category:Double Weapons](Category:Double_Weapons "wikilink")

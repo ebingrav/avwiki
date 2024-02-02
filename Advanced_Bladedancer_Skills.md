@@ -14,7 +14,7 @@ must come through usage.
 ` Blade Blessing   `[`Bladedance`](Bladedance "wikilink")`       Grant a hit and damage bonus to your group.`  
 ` Bountiful Step   `[`Unending`` ``Dance`](Unending_Dance "wikilink")`   Your next dance has incresed duration.`  
 ` Epiphany         `[`Inspiring`` ``Dance`](Inspiring_Dance "wikilink")`  Grant a mana bloom to your group.`  
-` Iron Veil        `[`Veil`` ``of`` ``Blades`](veil_of_blades "wikilink")`   Grant yourself an AC bonus.`  
+` Iron Veil        `[`Veil`` ``of`` ``Blades`](veil_of_blades.md "wikilink")`   Grant yourself an AC bonus.`  
 ` Thousand Cuts    `[`Dervish`` ``Dance`](Dervish_Dance "wikilink")`    Grant your group extra attack chance.`
 
 See also: [ADVANCED SKILLS](ADVANCED_SKILLS "wikilink")

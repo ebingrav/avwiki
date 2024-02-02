@@ -1,8 +1,8 @@
 *A pair of slagwalkers lies on the ground.*
 
 ` Modifies save vs magic by -50 continuous`  
-` Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous`  
-` Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous`
+` Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous`  
+` Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous`
 
 Slot: Feet  
 Level: 40  
@@ -10,8 +10,8 @@ Base: 8-10
 Weight: 3  
 Flags: none  
 Mob: [Mother Slagslug](Mother_Slagslug "wikilink")  
-Area: [Drow Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink"))  
+Area: [Drow Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink"))  
 Mob is portable. Skin her corpse for the gear. The mobs in the area eat
 corpses, so it is best to kill the rest of them in the room before
 killing the mother. Another good strategy is to summon her out of the

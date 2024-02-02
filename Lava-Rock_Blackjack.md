@@ -10,14 +10,14 @@ This has roughly 20 uses remaining.
 Slot: held  
 Flags: dark nolocate  
 Weight: 8  
-Plane: [Firerealm](:Category:Firerealm "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm](:Category:Firerealm.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: Fire Mephit  
 
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Utility Gear](Category:_Lord_Utility_Gear "wikilink")

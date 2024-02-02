@@ -20,7 +20,7 @@ conclave of crazed humans, lead by their king, Saeren, and of''
 
 ## Navigation
 
-Map is similar to [Midgaard's](Midgaard "wikilink") [Silmavar
+Map is similar to [Midgaard's](Midgaard.md "wikilink") [Silmavar
 Labyrinth](Silmavar_Labyrinth "wikilink")
 
 ## Adventuring
@@ -141,7 +141,7 @@ Kalindor looks like this:
 ` `  
 ` Kalindor is using:`  
 ` `<worn around neck>`  [Pristine  ] a mantle of brutality`  
-` `<worn on feet>`      [Pristine  ] (Magical) (Glowing) (Humming) `[`Marble`` ``Boots`](marble_boots "wikilink")  
+` `<worn on feet>`      [Pristine  ] (Magical) (Glowing) (Humming) `[`Marble`` ``Boots`](marble_boots.md "wikilink")  
 ` `<held in offhand>`   [Pristine  ] (Magical) (Glowing) (Humming) the `[`Gambit`` ``Declined`](Gambit_Declined "wikilink")  
 ` `<wielded>`           [Pristine  ] (Glowing) (Humming) the `[`Gambit`` ``Accepted`](Gambit_Accepted "wikilink")
 

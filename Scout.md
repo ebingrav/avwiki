@@ -1,9 +1,9 @@
-*Using this [skill](:Category:_Skills "wikilink"), an
-[archer](:Category:_Archers "wikilink") essentially
-[scans](Scan "wikilink") two [rooms](:Category:_Rooms "wikilink") away
-in a particular direction.*
+*Using this [skill](:Category:_Skills.md "wikilink"), an
+[archer](:Category:_Archers.md "wikilink") essentially
+[scans](Scan.md "wikilink") two [rooms](:Category:_Rooms.md "wikilink")
+away in a particular direction.*
 
-Prerequisite(s): [Map Lore](Map_Lore "wikilink").
+Prerequisite(s): [Map Lore](Map_Lore.md "wikilink").
 
 Syntax: scout <direction>.
 

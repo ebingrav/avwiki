@@ -4,16 +4,16 @@ Midgaard at an early age, and now he returns home briefly from his
 travels to visit his parents.*
 
 **Keywords:** orken, mage, orc.  
-**[Level](Level "wikilink"):** 32.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 32.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `An Orken mage is using:`  
-<worn around neck>`  (Humming) `[`an`` ``Orken`` ``mage's`` ``scarf`](Orken_Mage's_Scarf "wikilink")
+<worn around neck>`  (Humming) `[`an`` ``Orken`` ``mage's`` ``scarf`](Orken_Mage's_Scarf.md "wikilink")
 
 `An Orken mage is carrying:`  
 `     Nothing.`
@@ -22,9 +22,10 @@ travels to visit his parents.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Orkenhome](:Category:_Orkenhome "wikilink")
-([Map](Orkenhome_Map "wikilink")).  
-An Orken mage [wanders](Wandering_Mobs "wikilink"), and is portable.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Orkenhome](:Category:_Orkenhome.md "wikilink")
+([Map](Orkenhome_Map.md "wikilink")).  
+An Orken mage [wanders](Wandering_Mobs.md "wikilink"), and is
+portable.  
 
 [Category: Mobs In Orkenhome](Category:_Mobs_In_Orkenhome "wikilink")

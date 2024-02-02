@@ -2,31 +2,31 @@
 skin. On closer inspection, you realize it IS snake skin. You wonder if
 the skin is so large, how large was the snake.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4-6.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -10 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4-6.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -10 continuous.`
 
 **Keyword(s):** skin, snake, anaconda, robe.  
-**[Level(s)](Object_Level "wikilink"):** 20-22.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20-22.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moss
-Village](:Category:_Moss_Village "wikilink")
-([Map](Moss_Village_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
-[Sssanth](Sssanth "wikilink").  
-See [Sssanth](Sssanth "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Moss
+Village](:Category:_Moss_Village.md "wikilink")
+([Map](Moss_Village_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Sssanth](Sssanth.md "wikilink").  
+See [Sssanth](Sssanth.md "wikilink") for more information.
 
 [Category: Gear In Moss
 Village](Category:_Gear_In_Moss_Village "wikilink") [Category:

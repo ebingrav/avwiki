@@ -1,13 +1,13 @@
 **Keywords:** carpenter.  
-**[Level](Level "wikilink"):** 42-45 .  
-**[Alignment](Alignment "wikilink"):** .  
-**[Flags](:Category:_Mob_Types "wikilink"):** .  
+**[Level](Level.md "wikilink"):** 42-45 .  
+**[Alignment](Alignment.md "wikilink"):** .  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** .  
 **Affects:** none.  
 
 ## Gear
 
 `A carpenter is using:`  
-`   `<wielded>`           (Humming) `[`a`` ``hack`` ``saw`](Hack_Saw "wikilink")
+`   `<wielded>`           (Humming) `[`a`` ``hack`` ``saw`](Hack_Saw.md "wikilink")
 
 ## Directions
 

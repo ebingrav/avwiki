@@ -4,22 +4,22 @@ notice it runs the gamut of geometric shapes, from a circle to a square
 to a triangle and so on. The chaos within this small orb must be
 literally unfathomable.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 15-17 to 46 (average 30-31).`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 15-17 to 46 (average 30-31).`  
 `Insignificantly increases resistance to radiation continuous`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** essence amorphous orb.  
-**[Level(s)](Object_Level "wikilink"):** 49-51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 18 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 49-51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 18 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink").  
 
 ## Comments
 
@@ -37,10 +37,10 @@ The highest an orb can go, naturally, is to 12/12.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Trials](:Category:_Drow_Trials "wikilink")
-([Map](Drow_Trials_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Trials](:Category:_Drow_Trials.md "wikilink")
+([Map](Drow_Trials_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Changeling](Changeling "wikilink").  
 See [Changeling](Changeling "wikilink") for more information.  
 

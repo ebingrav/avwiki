@@ -1,17 +1,17 @@
-*This [spell](:Category:_Spells "wikilink") refreshes the [movement
-points](Move_Points "wikilink") of a
-[character](:Category:_Characters "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") refreshes the [movement
+points](Move_Points.md "wikilink") of a
+[character](:Category:_Characters.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'refresh'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'refresh'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rather useful for
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is rather useful for
+[characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink").
 
-See also [Refresh Gear](:Category:_Refresh_Gear "wikilink").
+See also [Refresh Gear](:Category:_Refresh_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

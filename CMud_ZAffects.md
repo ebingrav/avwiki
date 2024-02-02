@@ -3,10 +3,10 @@ Window." It has a 90 second ticker that will check your affects
 regularly and update the window.
 
 This script now includes tracking for [Dark
-Embrace](Dark_Embrace "wikilink") for [Dark
-races](Racial_Nosun "wikilink").
+Embrace](Dark_Embrace.md "wikilink") for [Dark
+races](Racial_Nosun.md "wikilink").
 
-Used along with the [prompt](Cmud_Prompt "wikilink") script, it will
+Used along with the [prompt](Cmud_Prompt.md "wikilink") script, it will
 place most of the useful information into the Status Window.
 
 ## The Script
@@ -292,8 +292,8 @@ aliases and triggers in place and making your own.
 
 ## Designer comments
 
-Feel free to note me [here](User:Shalineth "wikilink") or on board 2 to
-Shalineth with any feedback or suggestions.
+Feel free to note me [here](User:Shalineth.md "wikilink") or on board 2
+to Shalineth with any feedback or suggestions.
 
 Updated for CMud v3.32.
 

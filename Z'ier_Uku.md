@@ -12,10 +12,10 @@ Description:
     gets enough of them he can use them to get home. 
 
 **Keywords:** Z'ier Uku githzerai.  
-**[Level](Level "wikilink"):** *unknown*.  
-**[Alignment](Alignment "wikilink"):** *unknown*.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** *unknown*.  
+**[Alignment](Alignment.md "wikilink"):** *unknown*.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink").  
 **Affects:** TBD.  
 
 ## Gear
@@ -24,12 +24,12 @@ Description:
 
 ## Directions
 
-**[Plane](:Category:_Lord_Planes "wikilink"):**
-[Thorngate](:Category:Thorngate "wikilink")  
-**[Area](:Category:_Areas "wikilink"):** [Rietta's
-Wonders](:Category:Rietta's_Wonders "wikilink")
-([Map](Rietta's_Wonders_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Library.  
+**[Plane](:Category:_Lord_Planes.md "wikilink"):**
+[Thorngate](:Category:Thorngate.md "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Rietta's
+Wonders](:Category:Rietta's_Wonders.md "wikilink")
+([Map](Rietta's_Wonders_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Library.  
 
 [Category: Mobs In Rietta's
 Wonders](Category:_Mobs_In_Rietta's_Wonders "wikilink")

@@ -1,14 +1,15 @@
-*[A baby unicorn](Baby_Unicorn "wikilink") loves to eat
-[carrots](Single_Carrot "wikilink"). She would be very grateful to
+*[A baby unicorn](Baby_Unicorn.md "wikilink") loves to eat
+[carrots](Single_Carrot.md "wikilink"). She would be very grateful to
 receive one...*
 
-From [TallOak](TallOak "wikilink"):
+From [TallOak](TallOak.md "wikilink"):
 
 -   Go 3s, 2w.
 
 <!-- -->
 
--   [Get](Get "wikilink") [a single carrot](Single_Carrot "wikilink").
+-   [Get](Get.md "wikilink") [a single
+    carrot](Single_Carrot.md "wikilink").
 
 <!-- -->
 
@@ -16,9 +17,10 @@ From [TallOak](TallOak "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a single carrot](Single_Carrot "wikilink")
-    to [a baby unicorn](Baby_Unicorn "wikilink") and receive [A
-    Unicorn's Blessing](Unicorn's_Blessing "wikilink").
+-   [Give](Give.md "wikilink") [a single
+    carrot](Single_Carrot.md "wikilink") to [a baby
+    unicorn](Baby_Unicorn.md "wikilink") and receive [A Unicorn's
+    Blessing](Unicorn's_Blessing.md "wikilink").
 
 [Category: Quests In Centaur
 Camp](Category:_Quests_In_Centaur_Camp "wikilink") [Category: Lowmort

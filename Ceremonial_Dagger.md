@@ -2,28 +2,28 @@
 [Werredan](Werredan "wikilink") on it's hilt. It appears to have rust
 stains on the edge... or wait... is that blood?*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 9 to 23 (average 16).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 9 to 23 (average 16).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** dagger, ceremonial.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-neutral](Anti-Neutral_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-neutral](Anti-Neutral_Flag.md "wikilink")  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple Of
-Midgaard](:Category:_Temple_Of_Midgaard "wikilink")
-([Map](Temple_Of_Midgaard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Private Office of the
+**[Area](:Category:_Areas.md "wikilink"):** [Temple Of
+Midgaard](:Category:_Temple_Of_Midgaard.md "wikilink")
+([Map](Temple_Of_Midgaard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Private Office of the
 High Priest of Werredan.  
 (input walking dirs here)
 

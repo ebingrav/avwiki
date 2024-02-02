@@ -3,12 +3,12 @@ variables but so far the results have shown to be consistent - there are
 no random results for a given action.
 
 1.  Go to the [Faceless Statue](Faceless_Statue "wikilink") in [River
-    Etuan](:Category:River_Etuan "wikilink"). It is located east of
+    Etuan](:Category:River_Etuan.md "wikilink"). It is located east of
     [Asimov](Asimov "wikilink") and is accessible during the day, and
     with proper detects.
 2.  Once next to it, wake it up by addressing it with a keyword
     appropriately inscribed on its forehead. Communication with it is
-    [rather straightforward](Tell "wikilink").
+    [rather straightforward](Tell.md "wikilink").
 3.  You get to hunt relics! There appears to be a single relic per area,
     usually on bosses. So far 8 have been found. You will only get to
     imbue 3.
@@ -42,17 +42,28 @@ What do relics do? They do different stuff for different classes (types
 of gauntlet). Table below has a list of tested combinations, so far.
 Feel free to fill in the blanks.
 
-|                                                                              |                   |                 |                 |                                             |
-|:----------------------------------------------------------------------------:|:-----------------:|:---------------:|:---------------:|:-------------------------------------------:|
-|                                 **Mob/Item**                                 |  **Farstrider**   |   **Magence**   |  **Predator**   |               **Moonstalker**               |
-|     [Deacon](Deacon_(Halfling's_Paradise) "wikilink") / Ulexite Monocle      |    +held/+acc     |  +3% healpower  |      +3 DR      | +longshot/+acc; examin the gauntlets to see |
-|                [Sou f'Fle](Sou_f'Fle "wikilink") / Bone Ring                 |  +5% resist cold  | +5% resist cold | +5% resist cold |                 +1% stealth                 |
-|     [Zurik](Zurik_The_Elder_Shaman "wikilink") / Statuette Of The Hunter     |   +1% hp regen    | +1% mana regen  |  +1% hp regen   |                +1% hp regen                 |
-|                  [Portia](Portia "wikilink") / Blood Amulet                  | +5% poison resist | +1% spellpower  | +1% meleepower  |                    +3 DR                    |
-|                [Akrikto](Akrikto "wikilink") / Red Clay Helm                 | +5% resist cursed |    +20 mana     |    +20 mana     |                                             |
-|              [Tyrana](Captain_Tyrana "wikilink") / Sundew Shawl              |     +crit/+ls     |     -10 AC      |     -10 AC      |                                             |
-|      [Overseer](The_High_Overseer "wikilink") / Etched Obsidian Shield       |    +2 STR/DEX     |   +2 INT/WIS    |   +2 STR/DEX    |                  +20 mana                   |
-| [Arakos](Apprentice-Wizard_Arakos "wikilink") / Bracelet Of Stone And Thorns |                   |   -5% deathxp   |   -5% deathxp   |                 -5% deathxp                 |
+{.md\| class="sortable" border="1" cellpadding="3" cellspacing="0"
+align="center" style="text-align:left" \| align="center"
+style="background:#f0f0f0;"\|**Mob/Item** \| align="center"
+style="background:#f0f0f0;"\|**Farstrider** \| align="center"
+style="background:#f0f0f0;"\|**Magence** \| align="center"
+style="background:#f0f0f0;"\|**Predator** \| align="center"
+style="background:#f0f0f0;"\|**Moonstalker** \|- \|
+[Deacon](Deacon_(Halfling's_Paradise) "wikilink") / Ulexite Monocle \|
++held/+acc \| +3% healpower \| +3 DR \| +longshot/+acc; examin the
+gauntlets to see \|- \| [Sou f'Fle](Sou_f'Fle "wikilink") / Bone Ring
+.md\| +5% resist cold \| +5% resist cold \| +5% resist cold \| +1%
+stealth \|- \| [Zurik](Zurik_The_Elder_Shaman "wikilink") / Statuette Of
+The Hunter \| +1% hp regen \| +1% mana regen \| +1% hp regen \| +1% hp
+regen \|- \| [Portia](Portia "wikilink") / Blood Amulet .md\| +5% poison
+resist \| +1% spellpower \| +1% meleepower \| +3 DR \|- \|
+[Akrikto](Akrikto "wikilink") / Red Clay Helm \| +5% resist cursed \|
++20 mana \| +20 mana \| \|- \| [Tyrana](Captain_Tyrana.md "wikilink") /
+Sundew Shawl \| +crit/+ls \| -10 AC \| -10 AC \| \|- \|
+[Overseer](The_High_Overseer.md "wikilink") / Etched Obsidian Shield \|
++2 STR/DEX \| +2 INT/WIS \| +2 STR/DEX \| +20 mana \|- \|
+[Arakos](Apprentice-Wizard_Arakos.md "wikilink") / Bracelet Of Stone And
+Thorns \| \| -5% deathxp \| -5% deathxp \| -5% deathxp \|}
 
 Druids <b>do not</b> get +3% heal power from monocle; they get
 +longshot/+acc modifiers as listed in the table, nothing from helm

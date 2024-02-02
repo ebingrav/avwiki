@@ -5,7 +5,7 @@ Weight: 2
 Level: 27  
 AC: 5-7  
 To get this ring you must complete a ticket quest in [Barrier
-Wastes](:Category:Barrier_Wastes "wikilink"). See [Rough Band Of Tin
+Wastes](:Category:Barrier_Wastes.md "wikilink"). See [Rough Band Of Tin
 Quest](Rough_Band_Of_Tin_Quest "wikilink") for specific quest info.
 
 [Category: Gear In Barrier

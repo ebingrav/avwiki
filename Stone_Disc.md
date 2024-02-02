@@ -1,12 +1,12 @@
 *A large stone disc is here, covered in bizarre symbols.*
 
 **Keyword(s):** stone disc symbols.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:Treasure "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:Treasure.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** magic.  
 
 > The stone tablet is circular, in the shape of a shining sun with a  
 > dragon in front of it, spreading its wings. Interlaid around the

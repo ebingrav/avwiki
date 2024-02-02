@@ -1,26 +1,27 @@
-*This [spell](:Category:_Spells "wikilink") inflicts damage on every
-[enemy character](:Category:_Mobs "wikilink") in the
-[room](:Category:_Rooms "wikilink"). Beware that other
-[characters](:Category:_Mobs "wikilink") who are not yet fighting may
+*This [spell](:Category:_Spells.md "wikilink") inflicts damage on every
+[enemy character](:Category:_Mobs.md "wikilink") in the
+[room](:Category:_Rooms.md "wikilink"). Beware that other
+[characters](:Category:_Mobs.md "wikilink") who are not yet fighting may
 attack you as a result!*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'earthquake'.
+Syntax: [cast](Cast.md "wikilink") 'earthquake'.
 
-This [spell](:Category:_Spells "wikilink") is the most powerful
+This [spell](:Category:_Spells.md "wikilink") is the most powerful
 area-effect [damage
-spell](:Category:_Skills_And_Spells_That_Harm_Mobs "wikilink") that
-[clerics](:Category:_Clerics "wikilink") may
-[learn](Practice "wikilink") at [lowmort](:Category:_Lowmort "wikilink")
-[tier](:Category:_Tiers "wikilink"). Because
-[clerics](:Category:_Clerics "wikilink") normally focus on
-[casting](Cast "wikilink") defensive spells rather than offensive
+spell](:Category:_Skills_And_Spells_That_Harm_Mobs.md "wikilink") that
+[clerics](:Category:_Clerics.md "wikilink") may
+[learn](Practice.md "wikilink") at
+[lowmort](:Category:_Lowmort.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). Because
+[clerics](:Category:_Clerics.md "wikilink") normally focus on
+[casting](Cast.md "wikilink") defensive spells rather than offensive
 spells, it is hardly ever used. It is, however, useful for cleric tanks
 to initiate battle with multiple mobs.
 
-See also [Earthquake Gear](:Category:_Earthquake_Gear "wikilink"), [Area
-Spells](:Category:_Area_Spells "wikilink").
+See also [Earthquake Gear](:Category:_Earthquake_Gear.md "wikilink"),
+[Area Spells](:Category:_Area_Spells.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

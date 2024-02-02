@@ -11,14 +11,14 @@ is reminded of the mistakes of his past.*
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): 2s, d, 2s, e, 3s, e, s.
+recall](Eragora_default_recall.md "wikilink"): 2s, d, 2s, e, 3s, e, s.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Akrikto](Akrikto "wikilink").
 
 ## Connections
 
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
 
 ## Navigation
 
@@ -36,7 +36,7 @@ Entire area is uncursed so feel free to recall anytime.
 ## Adventuring
 
 The area's upper layer is an Eragoran response to [Tortuga
-Cay](:Category:Tortuga_Cay "wikilink") (except for the fleeing). The
+Cay](:Category:Tortuga_Cay.md "wikilink") (except for the fleeing). The
 cows are big, juicy, non-aggie and flee with great regularity, making it
 necessary to chase them a lot (or trip, panic, etc). This makes them a
 bit tricky (or simply tedious). Two s3 disintegrates will kill them for

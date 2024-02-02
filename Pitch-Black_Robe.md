@@ -1,18 +1,18 @@
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 70 continuous.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 70 continuous.`
 
 **Keyword(s):** black robe  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
-**[Area](:Category:_Areas "wikilink"):** [Lizard
-Island](:Category:_Lizard_Island "wikilink")
-([Map](Lizard_Island_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Lizard
+Island](:Category:_Lizard_Island.md "wikilink")
+([Map](Lizard_Island_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Greelak](Greelak "wikilink")  
 
 ## Comments

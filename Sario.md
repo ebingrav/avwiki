@@ -4,12 +4,12 @@ The Wayfinder must learn what has happened to this place, it is my last
 hope!"*
 
 **Keywords:** Sario, ranger.  
-**[Level](Level "wikilink"):** 45.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"),
-[poison](Poison_(spell) "wikilink").  
+**[Level](Level.md "wikilink"):** 45.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"),
+[poison](Poison_(spell).md "wikilink").  
 
 ## Gear
 
@@ -17,18 +17,18 @@ hope!"*
 `Nothing.`
 
 `Sario is carrying:`  
-`     `[`a`` ``weather-beaten`` ``and`` ``musty`` ``leather-bound`` ``journal`](Weather-Beaten_And_Musty_Leather-Bound_Journal "wikilink")
+`     `[`a`` ``weather-beaten`` ``and`` ``musty`` ``leather-bound`` ``journal`](Weather-Beaten_And_Musty_Leather-Bound_Journal.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tortured
-Terrain](:Category:_Tortured_Terrain "wikilink")
-([Map](Tortured_Terrain_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A Campsite (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, n, u, 3n, 2e, 2n,
-2e, 2n, e, 3n, d, 2n, 3e, 5n, e, 3n.  
+**[Area](:Category:_Areas.md "wikilink"):** [Tortured
+Terrain](:Category:_Tortured_Terrain.md "wikilink")
+([Map](Tortured_Terrain_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A Campsite (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, n, u, 3n, 2e,
+2n, 2e, 2n, e, 3n, d, 2n, 3e, 5n, e, 3n.  
 Sario is portable.  
 
 [Category: Mobs In Tortured

@@ -1,9 +1,10 @@
-*Learning this [skill](:Category:_Skills "wikilink") will allow you the
-chance to fend off incoming attacks, avoiding any damage that would've
-been received from them. You must be [wielding](Wield "wikilink") a
-[weapon](:Category:_Weapons "wikilink") to use this
-[skill](:Category:_Skills "wikilink"). It is automatic once
-[practiced](Practice "wikilink").*
+*Learning this [skill](:Category:_Skills.md "wikilink") will allow you
+the chance to fend off incoming attacks, avoiding any damage that
+would've been received from them. You must be
+[wielding](Wield.md "wikilink") a
+[weapon](:Category:_Weapons.md "wikilink") to use this
+[skill](:Category:_Skills.md "wikilink"). It is automatic once
+[practiced](Practice.md "wikilink").*
 
 Prerequisite(s): none.
 

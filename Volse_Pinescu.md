@@ -4,24 +4,24 @@ monstrous. You are almost over come with nausea as you look at him.*
 **Keywords:** Volse, Pinescu, ??  
 **Scan Description:** Volse Pinescu stands here with festering sores all
 over his body.  
-**[Level](Level "wikilink"):** 59.  
-**[Alignment](Alignment "wikilink"):** Demonic  
-**[Flags](:Category:_Mob_Types "wikilink"):** [very
-aggressive](Aggressive_Mobs "wikilink"), Detect, ??.  
+**[Level](Level.md "wikilink"):** 59.  
+**[Alignment](Alignment.md "wikilink"):** Demonic  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [very
+aggressive](Aggressive_Mobs.md "wikilink"), Detect, ??.  
 
 ## Gear
 
 `Volse Pinescu is using:`  
-`   `<worn on arms>`   `[`some`` ``spiked`` ``sleeves`](Spiked_Sleeves "wikilink")
+`   `<worn on arms>`   `[`some`` ``spiked`` ``sleeves`](Spiked_Sleeves.md "wikilink")
 
 `Volse Pinescu is carrying:`  
 `   Nothing.`
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Wamphyri
-Aerie](:Category:_Wamphyri_Aerie "wikilink")  
-**[Room(s)](:Category:_Rooms "wikilink"):** At Volse's bath
+**[Area](:Category:_Areas.md "wikilink"):** [ Wamphyri
+Aerie](:Category:_Wamphyri_Aerie.md "wikilink")  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** At Volse's bath
 
 Volse Pinescu is portable.  
 

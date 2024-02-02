@@ -7,10 +7,10 @@
 `symbols engraved on the long shaft seem to glow in mysterious`  
 `patterns. Visions of supreme power emanate from the the weapon.`
 
-**[Commune Bonus](Commune "wikilink"):** hp regeneration +15%, mana
+**[Commune Bonus](Commune.md "wikilink"):** hp regeneration +15%, mana
 regeneration +15%
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Power](Aspect_-_Power "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Power](Aspect_-_Power.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

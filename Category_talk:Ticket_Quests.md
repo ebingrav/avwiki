@@ -17,4 +17,4 @@ details available in a subsection, but it'd be nice if there was just
 some very basic info on the quest, where to start and such as the first
 thing you see. They are pretty fun to figure out for some people, so I
 think the specifics should definately be seperated in some way (marked
-as spoily or such). -[PirateHero](User:PirateHero "wikilink")
+as spoily or such). -[PirateHero](User:PirateHero.md "wikilink")

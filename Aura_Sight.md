@@ -1,21 +1,21 @@
 ''With a mentally trained eye, it is quite possible to distinguish
 between good and evil by focusing on creatures' inner aura. Some say
 this is a trick for street soothsayers, but to the
-[psionically](:Category:_Psionicists "wikilink") trained it is a truth.
-All this aura sight takes is a bit of concentration. Most eventually
-develop the mental capacity to see these auras, and the perception can
-easily be transmitted to another. One
-[psion](:Category:_Psionicists "wikilink") was heard talking to another
-[psion](:Category:_Psionicists "wikilink") while walking down a busy
-street of [Midgaard](:Category:_Midgaard "wikilink"). "Check out the
-aura on that one," he said with a grin.
+[psionically](:Category:_Psionicists.md "wikilink") trained it is a
+truth. All this aura sight takes is a bit of concentration. Most
+eventually develop the mental capacity to see these auras, and the
+perception can easily be transmitted to another. One
+[psion](:Category:_Psionicists.md "wikilink") was heard talking to
+another [psion](:Category:_Psionicists.md "wikilink") while walking down
+a busy street of [Midgaard](:Category:_Midgaard.md "wikilink"). "Check
+out the aura on that one," he said with a grin.
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'aura sight'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'aura sight'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-See also [Aura Sight Gear](:Category:_Aura_Sight_Gear "wikilink").
+See also [Aura Sight Gear](:Category:_Aura_Sight_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

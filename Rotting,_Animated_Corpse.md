@@ -6,10 +6,10 @@ extended...*
 **Keywords:** rotting, corpse, zombie  
 **[Level](Level "wikilink"):** 58  
 **[Alignment](Alignment "wikilink"):** apathetic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink"), [wimpy](Wimpy_Mobs "wikilink"),
-[undead](Undead_Mobs "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink"), [undead](Undead_Mobs.md "wikilink")  
 **Affects:** [Detect Invis](Detect_Invis "wikilink"), [Detect
 Hidden](Detect_Hidden "wikilink"), [Infravision](Infravision "wikilink")
 
@@ -22,9 +22,9 @@ zombies that wander into the room.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Keep](:Category:_Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Keep](:Category:_Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink")).  
 A rotting, animated corpse wanders, and is portable.
 
 [Category:Mobs In Shadow Keep](Category:Mobs_In_Shadow_Keep "wikilink")

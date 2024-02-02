@@ -71,7 +71,7 @@ window background color and text etc.
     #action {disarms you and sends your weapon flying} {get antenna=wield antenna}
     #action {You failed your %w} {c %1}
     #action {You failed your %w%s} {c %1}
-    #action {The safety of shade disappears} {t joebob |R|Your |C|Dark Embrace|R| has fallen!|N|}
+    #action {The safety of shade disappears} {t joebob.md|R|Your |C|Dark Embrace|R| has fallen!|N|}
     #action {Your mystical barrier shimmers and is gone} {t joebob |R|Your |P|Mystical Barrier|R| has fallen!|N|}
     #macro {\eOw} {#send aff}
     #macro {\eOx} {#send north}
@@ -95,9 +95,9 @@ window background color and text etc.
 numerous things during your runs. Mostly xp gained and lost, and certain
 actions performed during runs (bash, trip, rescue, flee, death, etc) and
 shows them only when appropriate.*  
-**[WikiSearch](TinTin++_WikiSearch "wikilink"):** *Searches AvatarWiki
-for whatever you'd like.*  
+**[WikiSearch](TinTin++_WikiSearch.md "wikilink"):** *Searches
+AvatarWiki for whatever you'd like.*  
 **Before using actions, make sure you are familiar with Avatar's
-[Trigger Policy](Trigger-Using_Policy "wikilink").**
+[Trigger Policy](Trigger-Using_Policy.md "wikilink").**
 
 [Category: Scripting](Category:_Scripting "wikilink")

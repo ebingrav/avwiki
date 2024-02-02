@@ -1,13 +1,14 @@
 Suggested Group Size: 8-10
 
-After [Tarterus](:Category:Tarterus "wikilink") shift, portal garg (or
-just walk 3e, s, u). If you don't already have the [Cold Iron
+After [Tarterus](:Category:Tarterus.md "wikilink") shift, portal garg
+(or just walk 3e, s, u). If you don't already have the [Cold Iron
 Key](Cold_Iron_Key "wikilink") you'll need to get it before entering the
-[Garden](:Category:Garden "wikilink"), whose entrance is to the south.
+[Garden](:Category:Garden.md "wikilink"), whose entrance is to the
+south.
 
 If you need the key, you're in luck, in the gargoyle room is a fountain.
 Drinking from it will take you to another part of
-[Tarterus](:Category:Tarterus "wikilink"), where
+[Tarterus](:Category:Tarterus.md "wikilink"), where
 [Anthraxus](Anthraxus "wikilink") and some of his friends hang out.
 [Anthraxus](Anthraxus "wikilink") holds the [Boots of
 Planewalking](Boots_of_Planewalking "wikilink"), the [Belt Of
@@ -36,21 +37,21 @@ are very nice exp mobs.
 For the [Stone Wings](Stone_Wings "wikilink") and [Great Shield
 Tyranny](Great_Shield_Tyranny "wikilink"), you need to find the [Statue
 Of Tiamat](Statue_Of_Tiamat "wikilink"). From the main north/south path
-that you used to enter the [Garden](:Category:Garden "wikilink") you'll
-want to go all south (8s from the gargoyles), 3e, 5s, 4w, s. That's
-where the Statues of Tiamat and Anthraxus are. This southwestern section
-of the garden isn't particularly dangerous, so you shouldn't have much
-trouble camping if that's what you're into.
+that you used to enter the [Garden](:Category:Garden.md "wikilink")
+you'll want to go all south (8s from the gargoyles), 3e, 5s, 4w, s.
+That's where the Statues of Tiamat and Anthraxus are. This southwestern
+section of the garden isn't particularly dangerous, so you shouldn't
+have much trouble camping if that's what you're into.
 
-The vambraces ([red](Black_Dragonscale_Vambrace "wikilink"),
-[green](Green_Dragonscale_Vambrace "wikilink"),
-[white](White_Dragonscale_Vambrace "wikilink"),
-[black](Black_Dragonscale_Vambrace "wikilink"),
-[blue](Blue_Dragonscale_Vambrace "wikilink")) are all located on
+The vambraces ([red](Black_Dragonscale_Vambrace.md "wikilink"),
+[green](Green_Dragonscale_Vambrace.md "wikilink"),
+[white](White_Dragonscale_Vambrace.md "wikilink"),
+[black](Black_Dragonscale_Vambrace.md "wikilink"),
+[blue](Blue_Dragonscale_Vambrace.md "wikilink")) are all located on
 appropriately colored Dragon Statues. These are all located slightly
 east or west off the path that leads south from the gate and the
 fountain.
 
-Also, see the [map](Garden_Map "wikilink") if it will help you.
+Also, see the [map](Garden_Map.md "wikilink") if it will help you.
 
 [Category:Garden](Category:Garden "wikilink")

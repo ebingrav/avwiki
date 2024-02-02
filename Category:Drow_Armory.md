@@ -1,4 +1,4 @@
-*The ancient underground city of the High [Drow](Drow "wikilink") has
+*The ancient underground city of the High [Drow](Drow.md "wikilink") has
 long since been destroyed. Rumors abound of sections of the city having
 survived the cataclysm and one area of the city that has supposedly been
 found is the city armory. Reports suggest that the approach to the site
@@ -11,11 +11,12 @@ and fearsome.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, s, e, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, s, e, n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[talriith](Talriith "wikilink") (note: there are many and they wander).
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[talriith](Talriith.md "wikilink") (note: there are many and they
+wander).
 
 ## Connections
 

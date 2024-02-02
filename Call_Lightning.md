@@ -1,18 +1,19 @@
-*This [spell](:Category:_Spells "wikilink") brings down a mighty swath
-of power from the [Gods](:Category:_Gods_And_Goddesses "wikilink").
-Lightning pours down like rain, and decimates every opponent in the
-[room](:Category:_Rooms "wikilink"). The
-[Gods](:Category:_Gods_And_Goddesses "wikilink") will not answer unless
-the [weather](Weather "wikilink") is poor, however, and you must be
-outdoors. This [spell](:Category:_Spells "wikilink") decreases in
-[mana](Mana_Points "wikilink") cost with higher
-[levels](Level "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") brings down a mighty
+swath of power from the
+[Gods](:Category:_Gods_And_Goddesses.md "wikilink"). Lightning pours
+down like rain, and decimates every opponent in the
+[room](:Category:_Rooms.md "wikilink"). The
+[Gods](:Category:_Gods_And_Goddesses.md "wikilink") will not answer
+unless the [weather](Weather.md "wikilink") is poor, however, and you
+must be outdoors. This [spell](:Category:_Spells.md "wikilink")
+decreases in [mana](Mana_Points.md "wikilink") cost with higher
+[levels](Level.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'call lightning'.
+Syntax: [cast](Cast.md "wikilink") 'call lightning'.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Area

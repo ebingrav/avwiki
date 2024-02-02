@@ -9,18 +9,18 @@ allies again soon.*
 **Keywords:** assassin.  
 **Scan Description:** This assassin misses Midgaard city, but swore
 loyalty to Veyah.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink"),
 [Invis](Invis "wikilink").  
 
 ## Gear
 
 `Skilled Assassin is using:`  
-<wielded>`           `[`A`` ``Twisted,`` ``Long`` ``Dagger`](Twisted,_Long_Dagger "wikilink")
+<wielded>`           `[`A`` ``Twisted,`` ``Long`` ``Dagger`](Twisted,_Long_Dagger.md "wikilink")
 
 `Skilled Assassin is carrying:`  
 `     Nothing.`
@@ -29,11 +29,11 @@ loyalty to Veyah.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Skilled Assassin [wanders](Wandering_Mobs "wikilink").
+Skilled Assassin [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

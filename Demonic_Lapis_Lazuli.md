@@ -17,7 +17,7 @@ pentagram, e, s, e, s, e. When you're ready to leave the area, you can
 LOOK MENU to see what he has to offer (or see below). Each item can be
 modified with two different options. Giving the crafter the [Demonic
 Lapis Lazuli](Demonic_Lapis_Lazuli "wikilink") and a [perfect
-gem](Perfect_Gemstones "wikilink") allows him to modify things.
+gem](Perfect_Gemstones.md "wikilink") allows him to modify things.
 
 Order:
 
@@ -70,7 +70,7 @@ pame - B27
 
 -   [Silver Sword](Silver_Sword "wikilink") - One from commander only
     -   Brutish - Reforges the sword into a double hitting
-        [staff](Silver_Staff_(Weapon) "wikilink")
+        [staff](Silver_Staff_(Weapon).md "wikilink")
     -   Divine - Reforges the sword into a small scepter
 
 [Category:Object Types](Category:Object_Types "wikilink")

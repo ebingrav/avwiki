@@ -1,25 +1,26 @@
 *A nice set of mounted jackalope horns lies here.*
 
 **Keyword(s):** mounted, jackalope, horns.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")
-([Map](Qanza_Prairie_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Mounted Jackalope
-Horns Quest](Mounted_Jackalope_Horns_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")
+([Map](Qanza_Prairie_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Mounted Jackalope
+Horns Quest](Mounted_Jackalope_Horns_Quest.md "wikilink").  
 See [Mounted Jackalope Horns
-Quest](Mounted_Jackalope_Horns_Quest "wikilink") for more information.
+Quest](Mounted_Jackalope_Horns_Quest.md "wikilink") for more
+information.
 
 [Category: Gear In Qanza
 Prairie](Category:_Gear_In_Qanza_Prairie "wikilink") [Category:

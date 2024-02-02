@@ -1,12 +1,12 @@
 *In one corner of the [ruins of the High Drow city of
-old](:Category:_Ruins_Of_Reveria "wikilink"), there lies a graveyard
+old](:Category:_Ruins_Of_Reveria.md "wikilink"), there lies a graveyard
 used by the richest and most renowned ancient lines. Many modern
-[drow](Drow "wikilink") visit there from time to time to re-establish
+[drow](Drow.md "wikilink") visit there from time to time to re-establish
 their link to their ancestors; to a lost time when Magic yet walked the
 world, when the night was still a thing of innocent beauty. Other modern
-[drow](Drow "wikilink") see the cemetery quite differently. They view it
-as symbolic of the inevitable death of their
-[race](:Category:_Races "wikilink") and of all things Sylvan. This
+[drow](Drow.md "wikilink") see the cemetery quite differently. They view
+it as symbolic of the inevitable death of their
+[race](:Category:_Races.md "wikilink") and of all things Sylvan. This
 extinction cult goes there for one reason; to join with Eternity. The
 cemetery also draws the non-drow, those who seek the secrets the graves
 themselves hold. Rumors of a betrayal and murder have spread from those
@@ -14,20 +14,20 @@ who are lucky enough to escape the walls of this place.*
 
 **Level Range:** 51-51
 
-**Builder:** [Zahri](User:AlexyAnna "wikilink")
+**Builder:** [Zahri](User:AlexyAnna.md "wikilink")
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, s, 2e, u, 3s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, s, 2e, u, 3s.
 
-[Portaling](Portal "wikilink") point(s) suggested: [mourning
-drow](Mourning_Drow "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [mourning
+drow](Mourning_Drow.md "wikilink").
 
 ## Connections
 
--   [Ruins Of Reveria](:Category:Ruins_Of_Reveria "wikilink")
--   [Necropolis](:Category:Necropolis "wikilink")
+-   [Ruins Of Reveria](:Category:Ruins_Of_Reveria.md "wikilink")
+-   [Necropolis](:Category:Necropolis.md "wikilink")
 
 ## Navigation
 
@@ -44,13 +44,13 @@ There are two parts to the area - the graves proper and the mausoleum:
 ## Adventuring
 
 First and foremost, for those unversed in the
-*[Eragora](:category:Eragora "wikilink")-style* local cloud and auto-CR
-mechanisms -- dying to any mob here will transport the player not to the
-Cloud (as with all other areas), but to a **local cloud** deep within
-the Mausoleum. This is a safe room, as well as an infirmary, so you can
-heal and respell here. The corpse is transported to the same room - the
-*auto-CR* part of the deal, making it easy to recover your belongings if
-you were soloing above.
+*[Eragora](:category:Eragora.md "wikilink")-style* local cloud and
+auto-CR mechanisms -- dying to any mob here will transport the player
+not to the Cloud (as with all other areas), but to a **local cloud**
+deep within the Mausoleum. This is a safe room, as well as an infirmary,
+so you can heal and respell here. The corpse is transported to the same
+room - the *auto-CR* part of the deal, making it easy to recover your
+belongings if you were soloing above.
 
 Once inside the mausoleum you will need to portal or teleport out. The
 grate in the north-west corner of the graves that opens the door does
@@ -68,8 +68,8 @@ Otherwise, this area is good xp and offers some relevant loot, but due
 to large amounts of aggie mobs (that see through hidden and invisible)
 be sure not to lead squishy groupies - they will likely be aggied often.
 Also, once done here, feel free to proceed into
-[Necropolis](:Category:Necropolis "wikilink") as a natural extension of
-this area.
+[Necropolis](:Category:Necropolis.md "wikilink") as a natural extension
+of this area.
 
 The guards here will toss all drow and high-elves.
 

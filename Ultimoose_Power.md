@@ -4,8 +4,8 @@
 Bases: 10-12  
 Levels: 50-52  
 Weight: 20  
-Area: [Moose Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink"))  
+Area: [Moose Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink"))  
 Quest: [Ultimoose Power Quest](Ultimoose_Power_Quest "wikilink")  
 This gear is limited to one success per character, and is a hero-only
 quest.  

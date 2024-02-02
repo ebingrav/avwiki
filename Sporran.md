@@ -1,24 +1,24 @@
 *A fur sporran has been lost here.*
 
-[`Capacity`](Container_Values "wikilink")` is 100 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 100 lbs.`
 
 **Keyword(s):** sporran.  
-**[Level(s)](Object_Level "wikilink"):** 28.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about waist>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 28.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about waist>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Angus
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Angus
 McMoose](Angus_McMoose "wikilink").  
 See [Angus McMoose](Angus_McMoose "wikilink") for more information.  
 

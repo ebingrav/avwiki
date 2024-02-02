@@ -4,18 +4,18 @@ tipped blade inspires thoughts of revenge and retribution in all who
 wield it.*
 
 `'sneak          '  continuous`  
-` Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 11 continuous.`  
-` Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 11 continuous.`
+` Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 11 continuous.`  
+` Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 11 continuous.`
 
 **Keyword(s):** lumoloths, devilfish, stinger.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-neutral](Anti-Neutral_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-neutral](Anti-Neutral_Flag.md "wikilink").  
 
 ## Comments
 
@@ -35,9 +35,9 @@ the skill [smash](smash "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [:Category:
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [:Category:
+Rim](:Category:_Rim "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Lumoloth](Lumoloth "wikilink").  
 
 [Category: Gear In Rim](Category:_Gear_In_Rim "wikilink") [Category:

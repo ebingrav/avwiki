@@ -18,7 +18,7 @@ done when there is a willing immortal online to assist you.
 `@}-'------Solana's Flower Shop------'-{@`  
 `    [Lv   Price] Item`  
 ` 1  [  1   2000] fertilizer scroll (healx2)`  
-` 2  [ 51   2000] `[`a`` ``potion`` ``of`` ``crushed`` ``rose`` ``petals`](Potion_Of_Crushed_Rose_Petals "wikilink")  
+` 2  [ 51   2000] `[`a`` ``potion`` ``of`` ``crushed`` ``rose`` ``petals`](Potion_Of_Crushed_Rose_Petals.md "wikilink")  
 ` 3  [  0   2000] `[`a`` ``potion`` ``of`` ``bark`` ``extract`](a_potion_of_bark_extract "wikilink")  
 ` 4  [  1   4000] `[`a`` ``potion`` ``of`` ``miracle`` ``grow`](a_potion_of_miracle_grow "wikilink")` (div)`  
 ` Flower delivery services:`  

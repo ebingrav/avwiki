@@ -14,12 +14,12 @@ pill? Extract from the Neproot could be yours for just a few gold coins!
 Buy now and you can buy another one too!*
 
 **Keywords:** doctor, nepperd.  
-**[Level](Level "wikilink"):** 10.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 10.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 
@@ -27,20 +27,20 @@ hidden](Detect_Hidden "wikilink").
 `Nothing.`
 
 `The cotton candy vendor is carrying:                                    [Lv Price]`  
-`    `[`A`` ``bottle`` ``of`` ``neproot`` ``extract`](Bottle_Of_Neproot_Extract "wikilink")`                                         [ 0    15]`  
-`    `[`A`` ``neproot`` ``pill`](Neproot_Pill "wikilink")`                                                      [ 0    15]`
+`    `[`A`` ``bottle`` ``of`` ``neproot`` ``extract`](Bottle_Of_Neproot_Extract.md "wikilink")`                                         [ 0    15]`  
+`    `[`A`` ``neproot`` ``pill`](Neproot_Pill.md "wikilink")`                                                      [ 0    15]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Carnival](:Category:_Carnival "wikilink")
-([Map](Carnival_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Doctor Neproot's stand
+**[Area](:Category:_Areas.md "wikilink"):**
+[Carnival](:Category:_Carnival.md "wikilink")
+([Map](Carnival_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Doctor Neproot's stand
 (portable).  
-Walking route from [Nom](Nom "wikilink"): n, 8w, 3n, 6e, n.  
-Walking route from [Sol](Sol "wikilink"): 3e, 3n, 6e, n..  
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, 3n, 6e, n.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 3n, 6e, n..  
 Doctor Nepperd is portable.  
 
 [Category: Shopkeepers](Category:_Shopkeepers "wikilink") [Category:

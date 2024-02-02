@@ -1,6 +1,6 @@
 This is a quest that starts in [Sun God
-Altar](:Category:Sun_God_Altar "wikilink") but involves other Eragoran
-areas. Speak to [Grogbert
+Altar](:Category:Sun_God_Altar.md "wikilink") but involves other
+Eragoran areas. Speak to [Grogbert
 Thunderbeard](Grogbert_Thunderbeard "wikilink") and see if he has
 anything for you to do.
 

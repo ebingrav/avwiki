@@ -1,6 +1,7 @@
 # Notable Mobs
 
--   [An ogre tinker](an_ogre_tinker "wikilink") wanders in this sector.
+-   [An ogre tinker](an_ogre_tinker.md "wikilink") wanders in this
+    sector.
 
 # Other Notes
 

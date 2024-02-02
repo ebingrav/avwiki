@@ -11,14 +11,15 @@ Modifies hp by 250 continuous.
 Slot: On Body  
 Flags: glow magic anti-good fire-ward  
 Weight: 20  
-Plane: [Nowhere](:Category:Nowhere "wikilink")  
-Area: [When Elements Align](:Category:When_Elements_Align "wikilink")  
+Plane: [Nowhere](:Category:Nowhere.md "wikilink")  
+Area: [When Elements
+Align](:Category:When_Elements_Align.md "wikilink")  
 Mob: [Adamantite Golem](Adamantite_Golem "wikilink")?  
 
 ------------------------------------------------------------------------
 
 This gear is reboot only. See [Gear In When Elements
-Align](:Category:Gear_In_When_Elements_Align "wikilink") for more
+Align](:Category:Gear_In_When_Elements_Align.md "wikilink") for more
 details.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")

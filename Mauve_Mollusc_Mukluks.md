@@ -1,24 +1,25 @@
 *Handcrafted purple slippers rest in a puddle of slime.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -20 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -20 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
 `Armor class is 10-12.`
 
 **Keyword(s):** mauve mollusc mukluks purple slippers.  
 **Floor Description:** Handcrafted purple slippers rest in a puddle of
 slime.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink"),
-[ice-ward](Ice-Ward_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink"),
+[ice-ward](Ice-Ward_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
@@ -31,14 +32,14 @@ Of Fiery Scalemail](Tunic_Of_Fiery_Scalemail "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Halfling's
-Paradise](:Category:_Halfling's_Paradise "wikilink")
-([Map](Halfling's_Paradise_Map "wikilink"))  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Mauve Mollusc Mukluks
-Quest](Mauve_Mollusc_Mukluks_Quest "wikilink")  
-A [ticket quest](:Category:_Ticket_Quests "wikilink"). See the Mauve
-Mollusc Mukluks [quest page](Mauve_Mollusc_Mukluks_Quest "wikilink") for
-directions.
+**[Area](:Category:_Areas.md "wikilink"):** [Halfling's
+Paradise](:Category:_Halfling's_Paradise.md "wikilink")
+([Map](Halfling's_Paradise_Map.md "wikilink"))  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Mauve Mollusc
+Mukluks Quest](Mauve_Mollusc_Mukluks_Quest "wikilink")  
+A [ticket quest](:Category:_Ticket_Quests.md "wikilink"). See the Mauve
+Mollusc Mukluks [quest page](Mauve_Mollusc_Mukluks_Quest.md "wikilink")
+for directions.
 
 [Category: Gear In Halfling's
 Paradise](Category:_Gear_In_Halfling's_Paradise "wikilink") [Category:

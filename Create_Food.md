@@ -1,16 +1,16 @@
-*This [spell](:Category:_Spells "wikilink") creates a Magic Meatloaf or
-a cookie, which you or anyone else can [eat](Eat "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") creates a Magic Meatloaf
+or a cookie, which you or anyone else can [eat](Eat.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'create food'.
+Syntax: [cast](Cast.md "wikilink") 'create food'.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") has no practical
-value at present, as [characters](:Category:_Characters "wikilink") no
-longer suffer from hunger and thirst, though it may provide some degree
-of amusement.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") has no
+practical value at present, as
+[characters](:Category:_Characters.md "wikilink") no longer suffer from
+hunger and thirst, though it may provide some degree of amusement.
 
-See also [Create Food Gear](:Category:_Create_Food_Gear "wikilink").
+See also [Create Food Gear](:Category:_Create_Food_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

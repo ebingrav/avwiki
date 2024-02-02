@@ -1,6 +1,6 @@
 This is a simple script that will prompt you which spell you wish to
-[charge](Charge_Shield "wikilink") a
-[shield](:Category:Shields "wikilink") with. Designed for hero level
+[charge](Charge_Shield.md "wikilink") a
+[shield](:Category:Shields.md "wikilink") with. Designed for hero level
 shields, but will work with lower-level shields.
 
 The script includes a counter to show how many castings it took, as well
@@ -113,8 +113,8 @@ import it into Cmud:
 
 ## Designer comments
 
-Feel free to note me [here](User:Shalineth "wikilink") or on board 2 to
-Shalineth with any feedback or suggestions.
+Feel free to note me [here](User:Shalineth.md "wikilink") or on board 2
+to Shalineth with any feedback or suggestions.
 
 Updated for CMud v3.32.
 

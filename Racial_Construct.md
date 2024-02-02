@@ -1,5 +1,5 @@
 *Not living, but rather, creatures animated through arcane power,
-constructs like [golems](Golems "wikilink") and elementals receive
+constructs like [golems](Golems.md "wikilink") and elementals receive
 little healing from divine or psionic sources, but receive more than
 usual from Arcane casters.*
 
@@ -14,12 +14,12 @@ having arcane classes (eg, Mages, Wizards, Sorcerers) brandish healing
 staves.
 
 Note that the Cleric's [artificer
-blessing](Artificer_Blessing "wikilink") aura allows for increased
+blessing](Artificer_Blessing.md "wikilink") aura allows for increased
 healing to constructs.
 
 This racial also grants immunity from poisons and diseases.
 
 -   **Construct Races:** [Golems](Golems "wikilink"),
-    [Ignaturs](Ignatur "wikilink")
+    [Ignaturs](Ignatur.md "wikilink")
 
 [Category: Racials](Category:_Racials "wikilink")

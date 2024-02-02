@@ -6,14 +6,14 @@ Modifies damage roll by -8 continuous.
 Slot: on body  
 Flags: magic nolocate fire-ward  
 Weight: 21  
-Plane: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: Asland  
 
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Archer Gear](Category:_Lord_Archer_Gear "wikilink")

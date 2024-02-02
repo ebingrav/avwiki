@@ -1,7 +1,8 @@
 This is a necklace of several bloody, yet beautiful, severed ears.  
 Type: Treasure  
-Area: [Kzinti Spire Of War](:Category:Kzinti_Spire_Of_War "wikilink")  
-Plane: [Kzinti Homeworld](:Category:Kzinti_Homeworld "wikilink")  
+Area: [Kzinti Spire Of
+War](:Category:Kzinti_Spire_Of_War.md "wikilink")  
+Plane: [Kzinti Homeworld](:Category:Kzinti_Homeworld.md "wikilink")  
 Mob: [Taragual](Taragual "wikilink")  
 Extra flags: glow magic anti-good nolocate  
 Weight: 7  

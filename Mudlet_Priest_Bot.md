@@ -3,7 +3,7 @@ get started botting using Mudlet. It is intended to be the framework for
 a more comprehensive bot, should you wish to add to it.
 
 -   This package is made for use on a
-    [Priest](:Category:_Priests "wikilink").
+    [Priest](:Category:_Priests.md "wikilink").
 -   It is always enabled.
 -   It uses GMCP data for stats.
 

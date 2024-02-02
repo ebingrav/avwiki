@@ -1,18 +1,18 @@
-*This [skill](:Category:_Skills_And_Spells "wikilink") allows a
-[person](:Category:_Characters "wikilink") to regenerate their
-[hitpoints](Hit_Points "wikilink") at a much faster rate when
-[sleeping](Sleep_(command) "wikilink"). Once
-[practiced](Practice "wikilink"), this
-[skill](:Category:_Skills_And_Spells "wikilink") is automatic.*
+*This [skill](:Category:_Skills_And_Spells.md "wikilink") allows a
+[person](:Category:_Characters.md "wikilink") to regenerate their
+[hitpoints](Hit_Points.md "wikilink") at a much faster rate when
+[sleeping](Sleep_(command).md "wikilink"). Once
+[practiced](Practice.md "wikilink"), this
+[skill](:Category:_Skills_And_Spells.md "wikilink") is automatic.*
 
 Prerequisite(s): none.
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is highly
-beneficial to [characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink") as it increases their
-[hit-point](Hit_Points "wikilink") regeneration rates.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is highly
+beneficial to [characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink") as it increases their
+[hit-point](Hit_Points.md "wikilink") regeneration rates.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

@@ -18,8 +18,8 @@ questions.*
 **Weight:** 1 lbs  
 **Bases:** 10-12  
 **Flags:** invis  
-**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink"))  
+**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink"))  
 **Mob:**  
 
 ## Comments

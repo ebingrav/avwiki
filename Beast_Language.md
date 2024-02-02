@@ -9,21 +9,21 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Beast:      `*`ho`` ``uok`` ``bro`` ``fo`` ``uod`` ``ovor`` ``ho`` ``o`` ``do.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Beast:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Beast:
 
--   [Gargoyles](Gargoyles "wikilink").
-
-<!-- -->
-
--   [Golems](Golems "wikilink").
+-   [Gargoyles](Gargoyles.md "wikilink").
 
 <!-- -->
 
--   [Griffons](Griffons "wikilink").
+-   [Golems](Golems.md "wikilink").
 
 <!-- -->
 
--   [Minotaurs](Minotaurs "wikilink").
+-   [Griffons](Griffons.md "wikilink").
+
+<!-- -->
+
+-   [Minotaurs](Minotaurs.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

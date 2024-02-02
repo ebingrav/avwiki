@@ -1,27 +1,19 @@
-*Note that those who know [bashdoor](Bashdoor "wikilink") may instead,
-from [Finar](Clan_Chief_Finar "wikilink"), go \[e\], {s}, \[d\], {d}, n,
-w, {n}, using [bashdoor](Bashdoor "wikilink") to open all locked
-[doors](:Category:_Doors "wikilink"), after which they may
-[get](Get "wikilink") [a basket of cavern
-truffles](Basket_Of_Cavern_Truffles "wikilink") from ground and then
+*Note that those who know [bashdoor](Bashdoor.md "wikilink") may
+instead, from [Finar](Clan_Chief_Finar.md "wikilink"), go \[e\], {s},
+\[d\], {d}, n, w, {n}, using [bashdoor](Bashdoor.md "wikilink") to open
+all locked [doors](:Category:_Doors.md "wikilink"), after which they may
+[get](Get.md "wikilink") [a basket of cavern
+truffles](Basket_Of_Cavern_Truffles.md "wikilink") from ground and then
 continue as instructed from that point below. Also,
-[Characters](:Category:_Characters "wikilink") who prefer to do so may
-get [a mine pass level one](Mine_Pass_Level_One "wikilink") by
-completing [Mt. Durr](:Category:_Mt_Durr "wikilink")'s [Mine Pass Level
-One Quest](Mine_Pass_Level_One_Quest "wikilink") rather than by buying
-it.*
+[Characters](:Category:_Characters.md "wikilink") who prefer to do so
+may get [a mine pass level one](Mine_Pass_Level_One.md "wikilink") by
+completing [Mt. Durr](:Category:_Mt_Durr.md "wikilink")'s [Mine Pass
+Level One Quest](Mine_Pass_Level_One_Quest.md "wikilink") rather than by
+buying it.*
 
-From [Bomli](Bomli "wikilink"):
+From [Bomli](Bomli.md "wikilink"):
 
--   [Open](Open "wikilink") s.
-
-<!-- -->
-
--   Go s.
-
-<!-- -->
-
--   [Open](Open "wikilink") s.
+-   [Open](Open.md "wikilink") s.
 
 <!-- -->
 
@@ -29,13 +21,21 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Buy](Buy "wikilink") [a mine pass level
-    one](Mine_Pass_Level_One "wikilink") from [the
-    receptionist](Receptionist "wikilink").
+-   [Open](Open.md "wikilink") s.
 
 <!-- -->
 
--   [Open](Open "wikilink") n.
+-   Go s.
+
+<!-- -->
+
+-   [Buy](Buy.md "wikilink") [a mine pass level
+    one](Mine_Pass_Level_One.md "wikilink") from [the
+    receptionist](Receptionist.md "wikilink").
+
+<!-- -->
+
+-   [Open](Open.md "wikilink") n.
 
 <!-- -->
 
@@ -43,12 +43,12 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") s using [a mine pass level
-    one](Mine_Pass_Level_One "wikilink").
+-   [Unlock](Unlock.md "wikilink") s using [a mine pass level
+    one](Mine_Pass_Level_One.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") s.
+-   [Open](Open.md "wikilink") s.
 
 <!-- -->
 
@@ -56,7 +56,7 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Open](Open "wikilink") d.
+-   [Open](Open.md "wikilink") d.
 
 <!-- -->
 
@@ -64,13 +64,13 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [a humble
-    pilgrim](Humble_Pilgrim "wikilink").
+-   [Kill](Kill.md "wikilink") [a humble
+    pilgrim](Humble_Pilgrim.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a mine pass level
-    two](Mine_Pass_Level_Two "wikilink") from her corpse.
+-   [Get](Get.md "wikilink") [a mine pass level
+    two](Mine_Pass_Level_Two.md "wikilink") from her corpse.
 
 <!-- -->
 
@@ -78,12 +78,12 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") d using [a mine pass level
-    two](Mine_Pass_Level_Two "wikilink").
+-   [Unlock](Unlock.md "wikilink") d using [a mine pass level
+    two](Mine_Pass_Level_Two.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") d.
+-   [Open](Open.md "wikilink") d.
 
 <!-- -->
 
@@ -91,22 +91,22 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [Brauss
-    Copperfury](Brauss_Copperfury "wikilink").
+-   [Kill](Kill.md "wikilink") [Brauss
+    Copperfury](Brauss_Copperfury.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [marlots key](Marlots_Key "wikilink") from his
-    corpse.
+-   [Get](Get.md "wikilink") [marlots key](Marlots_Key.md "wikilink")
+    from his corpse.
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") n using [marlots
-    key](Marlots_Key "wikilink").
+-   [Unlock](Unlock.md "wikilink") n using [marlots
+    key](Marlots_Key.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") n.
+-   [Open](Open.md "wikilink") n.
 
 <!-- -->
 
@@ -114,17 +114,17 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Get](Get "wikilink") [a basket of cavern
-    truffles](Basket_Of_Cavern_Truffles "wikilink") from ground.
+-   [Get](Get.md "wikilink") [a basket of cavern
+    truffles](Basket_Of_Cavern_Truffles.md "wikilink") from ground.
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") s using [marlots
-    key](Marlots_Key "wikilink").
+-   [Unlock](Unlock.md "wikilink") s using [marlots
+    key](Marlots_Key.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") s.
+-   [Open](Open.md "wikilink") s.
 
 <!-- -->
 
@@ -132,20 +132,12 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") u using [a mine pass level
-    two](Mine_Pass_Level_Two "wikilink").
+-   [Unlock](Unlock.md "wikilink") u using [a mine pass level
+    two](Mine_Pass_Level_Two.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") u.
-
-<!-- -->
-
--   Go u.
-
-<!-- -->
-
--   [Open](Open "wikilink") u.
+-   [Open](Open.md "wikilink") u.
 
 <!-- -->
 
@@ -153,12 +145,20 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") n using [a mine pass level
-    one](Mine_Pass_Level_One "wikilink").
+-   [Open](Open.md "wikilink") u.
 
 <!-- -->
 
--   [Open](Open "wikilink") n.
+-   Go u.
+
+<!-- -->
+
+-   [Unlock](Unlock.md "wikilink") n using [a mine pass level
+    one](Mine_Pass_Level_One.md "wikilink").
+
+<!-- -->
+
+-   [Open](Open.md "wikilink") n.
 
 <!-- -->
 
@@ -166,10 +166,10 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a basket of cavern
-    truffles](Basket_Of_Cavern_Truffles "wikilink") to [Clan Chief
-    Voinar](Clan_Chief_Voinar "wikilink") and receive [a cask of Sorin's
-    special mead](Cask_Of_Sorin's_Special_Mead "wikilink").
+-   [Give](Give.md "wikilink") [a basket of cavern
+    truffles](Basket_Of_Cavern_Truffles.md "wikilink") to [Clan Chief
+    Voinar](Clan_Chief_Voinar.md "wikilink") and receive [a cask of
+    Sorin's special mead](Cask_Of_Sorin's_Special_Mead.md "wikilink").
 
 <!-- -->
 
@@ -177,10 +177,10 @@ From [Bomli](Bomli "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a cask of Sorin's special
-    mead](Cask_Of_Sorin's_Special_Mead "wikilink") to [Clan Chief
-    Finar](Clan_Chief_Finar "wikilink") and receive [a set of three
-    loaded dice](Set_Of_Three_Loaded_Dice "wikilink").
+-   [Give](Give.md "wikilink") [a cask of Sorin's special
+    mead](Cask_Of_Sorin's_Special_Mead.md "wikilink") to [Clan Chief
+    Finar](Clan_Chief_Finar.md "wikilink") and receive [a set of three
+    loaded dice](Set_Of_Three_Loaded_Dice.md "wikilink").
 
 [Category: Quests In Mt Durr](Category:_Quests_In_Mt_Durr "wikilink")
 [Category: Lowmort 21-30

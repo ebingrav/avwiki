@@ -13,11 +13,11 @@ her enemies with greater success. The deeper the trance, the greater her
 ability to dodge will become.
 
 The effects of this dance may be enhanced by training in the art of the
-[Ocean Weave](ocean_weave "wikilink") and [Echo
-Weave](echo_weave "wikilink").''
+[Ocean Weave](ocean_weave.md "wikilink") and [Echo
+Weave](echo_weave.md "wikilink").''
 
 **Prerequisite(s):** [Sublime Grace](Sublime_Grace "wikilink"),
-[Heightened Vigor](heightened_vigor "wikilink")  
+[Heightened Vigor](heightened_vigor.md "wikilink")  
 **See also:** [bladedance](bladedance "wikilink"), [echo
 weave](echo_weave "wikilink"), [ocean weave](ocean_weave "wikilink"),
 [stance](stance "wikilink")

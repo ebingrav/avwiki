@@ -1,28 +1,28 @@
 *A nightgown lies here.*
 
-`Modifies `[`mana`](Mana_Points "wikilink")` by 10 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 10 continuous.`  
 `Armor class is 4.`
 
 **Keyword(s):** white, nightgown, gown.  
-**[Level(s)](Object_Level "wikilink"):** 13.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** worn on body.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 13.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** worn on body.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Brothers
-Grimm](:Category:_Brothers_Grimm "wikilink")
-([Map](Brothers_Grimm_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Wolf](Wolf "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Brothers
+Grimm](:Category:_Brothers_Grimm.md "wikilink")
+([Map](Brothers_Grimm_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Wolf](Wolf.md "wikilink")
 
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
-[Portaling](Portal "wikilink") point suggested: [Brother
-Grimm](Brother_Grimm "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
+[Portaling](Portal.md "wikilink") point suggested: [Brother
+Grimm](Brother_Grimm.md "wikilink").  
 
 [Category: Gear In Brothers
 Grimm](Category:_Gear_In_Brothers_Grimm "wikilink") [Category: Lowmort

@@ -7,8 +7,8 @@ Slot(s): <worn on head>
 Base: 4  
 Weight: 3 lbs.  
 Mob: [Edgar The Farmer](Edgar_The_Farmer "wikilink")  
-Area: [Midgaard Country](:Category:_Midgaard_Country "wikilink")
-([Map](Midgaard_Country_Map "wikilink"))  
+Area: [Midgaard Country](:Category:_Midgaard_Country.md "wikilink")
+([Map](Midgaard_Country_Map.md "wikilink"))  
 Mob is portable.  
 Walking route: [Riscgnarl](Riscgnarl "wikilink"): e \[e\] e, 2s, e,
 \[e\], e, n, u  

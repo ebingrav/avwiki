@@ -1,15 +1,16 @@
-*This [Rogue](:Category:_Rogues "wikilink")
-[skill](:Category:_Skills "wikilink") refines the art of cowardice one
-step further! If [sneaking](Sneak "wikilink"), a master of the Slink
-[skill](:Category:_Skills "wikilink") will be able to escape notice when
-fleeing from combat, causing his pursuer much confusion, and a delay in
-the chase. You must be actively [sneaking](Sneak "wikilink") to use this
-[skill](:Category:_Skills "wikilink"), and it will not work on
-[foes](:Category:_Mobs "wikilink") who are using the
-[Alertness](Alertness "wikilink")
-[skill](:Category:_Skills "wikilink").*
+*This [Rogue](:Category:_Rogues.md "wikilink")
+[skill](:Category:_Skills.md "wikilink") refines the art of cowardice
+one step further! If [sneaking](Sneak.md "wikilink"), a master of the
+Slink [skill](:Category:_Skills.md "wikilink") will be able to escape
+notice when fleeing from combat, causing his pursuer much confusion, and
+a delay in the chase. You must be actively
+[sneaking](Sneak.md "wikilink") to use this
+[skill](:Category:_Skills.md "wikilink"), and it will not work on
+[foes](:Category:_Mobs.md "wikilink") who are using the
+[Alertness](Alertness.md "wikilink")
+[skill](:Category:_Skills.md "wikilink").*
 
-Prerequisite(s): [Rogue Lore](Rogue_Lore "wikilink").
+Prerequisite(s): [Rogue Lore](Rogue_Lore.md "wikilink").
 
 Syntax: none (automatic).
 

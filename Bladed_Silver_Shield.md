@@ -4,8 +4,8 @@
 Bases: 15-17 to 46-48  
 Levels: 50-52  
 Weight: 10  
-Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink"))  
+Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink"))  
 Mob: [Eschard](Eschard "wikilink")  
 Directions: Portal to leper, then head n e n u. This takes you to a
 hallway with closed rooms adjecent to it. Cyskadella wanders this

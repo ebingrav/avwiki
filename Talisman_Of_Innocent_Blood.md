@@ -1,20 +1,21 @@
 *A blood red talisman has been dropped here.*
 
-[`Armor`` ``class`](Armor_Class "wikilink")` is 9-12.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 9-12.`  
 `Modifies mana by 50 continuous`  
 `Modifies hit roll by -2 continuous`
 
 **Keyword(s):** talisman, blood  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [hum](Hum_Flag "wikilink"),
-[magic](Magic_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink")  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink")  
 
 ## Comments
 
@@ -23,8 +24,8 @@ characters.
 
 ## Directions
 
-Area: [Wamphyri Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink"))  
+Area: [Wamphyri Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink"))  
 Mob: [Dweller](Dweller "wikilink")  
 PP [Lady Karen](Lady_Karen "wikilink"), go west. Mob is not aggie.
 

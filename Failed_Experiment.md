@@ -4,24 +4,24 @@ characteristics. What insane being would work such twisted magics upon
 one of their own? Wracked with pain, the poor thing can barely breathe.*
 
 **Keywords:** failed, experiment  
-**[Level](Level "wikilink"):** 75.  
-**[Alignment](Alignment "wikilink"):** demonic.'''  
+**[Level](Level.md "wikilink"):** 75.  
+**[Alignment](Alignment.md "wikilink"):** demonic.'''  
 
 ## Comments
 
 As the twisted monstrosity at last crumples to the ground, its severed,
-[half- human head](Half-human_Head "wikilink") rolls to your feet. As
+[half- human head](Half-human_Head.md "wikilink") rolls to your feet. As
 far as evidence goes, that would be fairly compelling.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Place of Vileness
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Place of Vileness
 
 Walking route from [acolyte of the
-void](Acolyte_of_the_Void "wikilink"): w,d,\[d\],e.
+void](Acolyte_of_the_Void.md "wikilink"): w,d,\[d\],e.
 
 It is not portable.
 

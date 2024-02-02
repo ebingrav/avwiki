@@ -1,25 +1,25 @@
 *A long hunting bow lies on the ground, glowing faintly.*
 
-[`Damage`](Missile_Weapon_Values "wikilink")` is 18 to 54 (average 36).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 7 continous.`
+[`Damage`](Missile_Weapon_Values.md "wikilink")` is 18 to 54 (average 36).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 7 continous.`
 
 **Keyword(s):** hunting bow long bow.  
-**[Level(s)](Object_Level "wikilink"):** 37-38.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Missile_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 25 hps.  
-**[Weight](Object_Weight "wikilink"):** 8 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 37-38.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Missile_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 25 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Archer
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Archer
 (Midgaard)](Archer_(Midgaard) "wikilink").  
 See [Archer (Midgaard)](Archer_(Midgaard) "wikilink") for more
 information.

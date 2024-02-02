@@ -1,26 +1,26 @@
 *A bunch of matted fur is here in a pile.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-6.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 5 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-6.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 5 continuous.`
 
 **Keyword(s):** bunch pile jambs matted fur.  
-**[Level(s)](Object_Level "wikilink"):** 24-26.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 24-26.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cryptid
-Hollow](:Category:_Cryptid_Hollow "wikilink")
-([Map](Cryptid_Hollow_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Cryptid
+Hollow](:Category:_Cryptid_Hollow.md "wikilink")
+([Map](Cryptid_Hollow_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Chuchunaa](Chuchunaa "wikilink").  
 See [Chuchunaa](Chuchunaa "wikilink") for more information.
 

@@ -7,8 +7,8 @@ Weight: 5
 Flags: glow magic nodrop anti-evil anti-neutral  
 Type: Treasure  
 Mob: [Jazz Simmons](Jazz_Simmons "wikilink")  
-Area: [Wamphyri Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink"))  
+Area: [Wamphyri Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink"))  
 Mob is portable
 
 [Category: Gear In Wamphyri

@@ -1,16 +1,16 @@
-*A pink [potion](:Category:_Potions "wikilink") is barely visible on the
-ground.*
+*A pink [potion](:Category:_Potions.md "wikilink") is barely visible on
+the ground.*
 
-`Level 5 spells of: '`[`detect`` ``hidden`](Detect_Hidden "wikilink")`' '`[`cure`` ``blindness`](Cure_Blindness "wikilink")`'.`
+`Level 5 spells of: '`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")`' '`[`cure`` ``blindness`](Cure_Blindness.md "wikilink")`'.`
 
 **Keyword(s):** pink, potion.  
-**[Level(s)](Object_Level "wikilink"):** 0-2.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 0-2.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -19,12 +19,12 @@ A lord-level version of this potion is sold by
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Avatar
-Mudschool](:Category:_Avatar_Mudschool "wikilink")
-([Map](Avatar_Mudschool_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a small purple
-turtle](Small_Purple_Turtle "wikilink").  
-See [a small purple turtle](Small_Purple_Turtle "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Avatar
+Mudschool](:Category:_Avatar_Mudschool.md "wikilink")
+([Map](Avatar_Mudschool_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a small purple
+turtle](Small_Purple_Turtle.md "wikilink").  
+See [a small purple turtle](Small_Purple_Turtle.md "wikilink") for more
 information.  
 
 [Category: Gear In Avatar

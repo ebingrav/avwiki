@@ -20,26 +20,26 @@ raises in your head:
 **Keywords:** Shiaana, Naam.  
 **Scan Description:** (Hide) (Translucent) (White Aura) (Sneak) A woman
 floats in the water, seeming strangely insubstantial.  
-**[Level](Level "wikilink"):** 80ish  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"),
-[hide](Hide_Flag "wikilink"), [sneak](Sneak_Flag "wikilink"), [pass
-door](Translucent_Flag "wikilink")  
+**[Level](Level.md "wikilink"):** 80ish  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"),
+[hide](Hide_Flag.md "wikilink"), [sneak](Sneak_Flag.md "wikilink"),
+[pass door](Translucent_Flag.md "wikilink")  
 
 ## Gear
 
 `Shiaana NaamTer'Sa is using:`  
-<worn on body>`      `[`a`` ``plain`` ``blue`` ``robe`](Plain_Blue_Robe "wikilink")  
-<wielded>`           `[`a`` ``runecovered`` ``staff`](Runecovered_Staff "wikilink")  
-<held>`              `[`(Glowing)`` ``a`` ``piece`` ``of`` ``golden`` ``crystal`](Piece_Of_Golden_Crystal "wikilink")
+<worn on body>`      `[`a`` ``plain`` ``blue`` ``robe`](Plain_Blue_Robe.md "wikilink")  
+<wielded>`           `[`a`` ``runecovered`` ``staff`](Runecovered_Staff.md "wikilink")  
+<held>`              `[`(Glowing)`` ``a`` ``piece`` ``of`` ``golden`` ``crystal`](Piece_Of_Golden_Crystal.md "wikilink")
 
 `Shiaana NaamTer'Sa is carrying:`  
-`     `[`(Glowing)`` ``a`` ``blue`` ``crystal`` ``bracelet`](Blue_Crystal_Bracelet "wikilink")  
-`     `[`a`` ``dark`` ``crystal`` ``sphere`](Dark_Crystal_Sphere "wikilink")  
+`     `[`(Glowing)`` ``a`` ``blue`` ``crystal`` ``bracelet`](Blue_Crystal_Bracelet.md "wikilink")  
+`     `[`a`` ``dark`` ``crystal`` ``sphere`](Dark_Crystal_Sphere.md "wikilink")  
 `     `[`(Glowing)`` ``a`` ``silver`` ``crystal`` ``disk`]((Glowing)_a_silver_crystal_disk "wikilink")  
-`     `[`(Glowing)`` ``the`` ``book`` ``of`` ``rune`](Book_Of_Rune "wikilink")
+`     `[`(Glowing)`` ``the`` ``book`` ``of`` ``rune`](Book_Of_Rune.md "wikilink")
 
 ## Comments
 
@@ -49,17 +49,17 @@ changelings cannot see sneak/move hidden.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Isle of
-NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho "wikilink")
-([Map](Isle_Of_NaamBres'Shho_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** In a waterfilled cavern
-([cursed](Cursed_Rooms "wikilink"),
-[water](Water_Terrain "wikilink")).  
-Walking route from [Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-Walking route from [MobName](MobName "wikilink"): ??.  
-Walking route from [MobName](MobName "wikilink"): ??.  
+**[Area](:Category:_Areas.md "wikilink"):** [Isle of
+NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho.md "wikilink")
+([Map](Isle_Of_NaamBres'Shho_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** In a waterfilled cavern
+([cursed](Cursed_Rooms.md "wikilink"),
+[water](Water_Terrain.md "wikilink")).  
+Walking route from [Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+Walking route from [MobName](MobName.md "wikilink"): ??.  
+Walking route from [MobName](MobName.md "wikilink"): ??.  
 
 [Category: Mobs In Isle Of
 NaamBres'Shho](Category:_Mobs_In_Isle_Of_NaamBres'Shho "wikilink")

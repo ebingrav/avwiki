@@ -1,27 +1,27 @@
 *A large piece of stone lies on the floor*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 13 to 41 (average 27).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 5 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 13 to 41 (average 27).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 5 continuous.`
 
 **Keyword(s):** stone, club.  
-**[Level(s)](Object_Level "wikilink"):** 38.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 45 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 38.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 45 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Caves of Ancient
-Evil](:Category:_Caves_Of_Ancient_Evil "wikilink")
-([Map](Caves_Of_Ancient_Evil_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [A stone
-ogre](Stone_Ogre "wikilink").  
-See [A stone ogre](Stone_Ogre "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Caves of Ancient
+Evil](:Category:_Caves_Of_Ancient_Evil.md "wikilink")
+([Map](Caves_Of_Ancient_Evil_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [A stone
+ogre](Stone_Ogre.md "wikilink").  
+See [A stone ogre](Stone_Ogre.md "wikilink") for more information.  
 
 [Category: Gear In Caves Of Ancient
 Evil](Category:_Gear_In_Caves_Of_Ancient_Evil "wikilink") [Category:

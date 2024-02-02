@@ -5,26 +5,26 @@ use.*
 ` Damage is 17 to 50-51.`
 
 **Keyword(s):** heavy, stone, staff.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink"). hafted smacking  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 42 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [dark](Dark_Flag "wikilink"),
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-neutral](Anti-neutral_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink"). hafted smacking  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 42 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [dark](Dark_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-neutral](Anti-neutral_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Xohd](Xohd "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Xohd](Xohd "wikilink")
 (portable)  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Citadel Of
-Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Citadel Of
+Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink"))  
 
 [Category: Gear In Citadel Of
 Arcanists](Category:_Gear_In_Citadel_Of_Arcanists "wikilink") [Category:

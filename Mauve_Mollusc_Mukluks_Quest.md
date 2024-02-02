@@ -4,9 +4,10 @@ beefy hitter. A pair of casters can complete this as well.
 
 Once at Eragora proper:
 
--   Portal to [clam girl](Clam-Digger "wikilink"), move 2n, w (aggie).
--   Go d, kill [Deacon](Deacon_(Halfling's_Paradise) "wikilink"), loot
-    the fishing rod.
+-   Portal to [clam girl](Clam-Digger.md "wikilink"), move 2n, w
+    (aggie).
+-   Go d, kill [Deacon](Deacon_(Halfling's_Paradise).md "wikilink"),
+    loot the fishing rod.
 
 Killing Deacon is the hardest part of the quest, be extra careful. If
 you die here, you will be Auto-CR-ed though, which is not the case for
@@ -30,7 +31,7 @@ you have a cure blind quaff in your inventory, or you may be stuck in
 the room for repop! Protection of kings is quite helpful in this room
 for lords)
 
--   Portal to [old fish](Halfling_fisherman "wikilink").
+-   Portal to [old fish](Halfling_fisherman.md "wikilink").
 
 If the fisherman is sleeping, you're out of luck. You need to come here
 while it is in-game day, AND good weather (the sky should be better than

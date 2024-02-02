@@ -9,10 +9,10 @@ transaction in gold?*'
 **Keywords:** bo'vul, devil.  
 **Scan Description:** A wraithlike devil stands here, inviting you into
 his...Bank.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink").  
 **Affects:** ??.  
 
 ## Gear
@@ -22,11 +22,11 @@ his...Bank.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Thorngate](:Category:_Thorngate "wikilink")
-([Map](Thorngate_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Bank of Bo'vul
-([safe](Safe_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Thorngate](:Category:_Thorngate.md "wikilink")
+([Map](Thorngate_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Bank of Bo'vul
+([safe](Safe_Rooms.md "wikilink")).  
 Walking route from the Center of Thorngate Square: 3n.  
 
 [Category: Mobs In Thorngate](Category:_Mobs_In_Thorngate "wikilink")

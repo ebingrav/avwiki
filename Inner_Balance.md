@@ -1,8 +1,8 @@
-*This [skill](:Category:_Skills "wikilink") allows [open
-hand](Open_Hand "wikilink") multiple attacks to be done with both
+*This [skill](:Category:_Skills.md "wikilink") allows [open
+hand](Open_Hand.md "wikilink") multiple attacks to be done with both
 hands.*
 
-Prerequisite(s): [Open Hand](Open_Hand "wikilink").
+Prerequisite(s): [Open Hand](Open_Hand.md "wikilink").
 
 Syntax: none (automatic).
 

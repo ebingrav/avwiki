@@ -1,14 +1,15 @@
-This [flag](:Category:_Object_Flags "wikilink") prevents a good
-[character](:Category:_Characters "wikilink")
-([alignment](Alignment "wikilink") of 300 or higher) from
-[wearing](Wear "wikilink") an [object](:Category:_Objects "wikilink").
-This [flag](:Category:_Object_Flags "wikilink") may be added via
-[enchanting](Enchanting "wikilink"). This
-[flag](:Category:_Object_Flags "wikilink") prevents
-[lord](:Category:Lord "wikilink")
-[clerics](:Category:_Clerics "wikilink") or
-[priests](:Category:Priests "wikilink") from [casting](Cast "wikilink")
-[cleanse](Cleanse "wikilink") on
-[objects](:Category:_Objects "wikilink") that have it.
+This [flag](:Category:_Object_Flags.md "wikilink") prevents a good
+[character](:Category:_Characters.md "wikilink")
+([alignment](Alignment.md "wikilink") of 300 or higher) from
+[wearing](Wear.md "wikilink") an
+[object](:Category:_Objects.md "wikilink"). This
+[flag](:Category:_Object_Flags.md "wikilink") may be added via
+[enchanting](Enchanting.md "wikilink"). This
+[flag](:Category:_Object_Flags.md "wikilink") prevents
+[lord](:Category:Lord.md "wikilink")
+[clerics](:Category:_Clerics.md "wikilink") or
+[priests](:Category:Priests.md "wikilink") from
+[casting](Cast.md "wikilink") [cleanse](Cleanse.md "wikilink") on
+[objects](:Category:_Objects.md "wikilink") that have it.
 
 [Category: Object Flags](Category:_Object_Flags "wikilink")

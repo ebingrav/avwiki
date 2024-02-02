@@ -3,17 +3,17 @@
 `Armor class is 10-12.`  
 `Insignificantly increases resistance to earth continuous`  
 `Modifies mana by 100 continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -50 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -50 continuous.`
 
 **Keyword(s):** shield, tree, bark.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 13 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 13 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 

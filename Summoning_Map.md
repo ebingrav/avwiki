@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="summoning.jpg" title="summoning.jpg" width="650"
-alt="summoning.jpg" />
-<figcaption aria-hidden="true">summoning.jpg</figcaption>
+<img src="summoning.jpg.md" title="summoning.jpg.md" width="650"
+alt="summoning.jpg.md" />
+<figcaption aria-hidden="true">summoning.jpg.md</figcaption>
 </figure>
 
 [North Of Ofcol Map](North_Of_Ofcol_Map "wikilink")  

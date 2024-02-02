@@ -9,22 +9,22 @@ wish to be social right now.'
 Perhaps it might be best if you left her alone?''
 
 **Keywords:** introspective, initiate  
-**[Level](Level "wikilink"):** 55.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 55.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 
 ## Comments
 
 The Introspective Initiate will give you a [damning, incontrovertible
-testimony](Damning,_Incontrovertible_Testimony "wikilink") if you give
-him a[ half-human head](Half-human_Head "wikilink").
+testimony](Damning,_Incontrovertible_Testimony.md "wikilink") if you
+give him a[ half-human head](Half-human_Head.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Courtyard North
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Courtyard North
 
 Walking route from entrance: 3s,w.
 

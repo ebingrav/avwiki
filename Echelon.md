@@ -10,6 +10,6 @@
 ` The groupstat command will display which of your group-mates in your current`  
 ` room are in which formation.`  
 ` `  
-` See Also: `[`STANCE`](Stance "wikilink")`, `[`FORMATION`](Formation "wikilink")
+` See Also: `[`STANCE`](Stance.md "wikilink")`, `[`FORMATION`](Formation.md "wikilink")
 
 [Category:Soldier_Hero_Skills_And_Spells](Category:Soldier_Hero_Skills_And_Spells "wikilink")

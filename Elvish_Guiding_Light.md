@@ -2,29 +2,30 @@
 demanding to make one feel at ease. Villains are to vanquish, dark paths
 are to be tread and weeded. No time for rest.*
 
-`'`[`detect`` ``evil`](Detect_Evil "wikilink")`    ' continuous.`  
-`'`[`detect`` ``invis`](Detect_Invis "wikilink")`   ' continuous.`  
+`'`[`detect`` ``evil`](Detect_Evil.md "wikilink")`    ' continuous.`  
+`'`[`detect`` ``invis`](Detect_Invis.md "wikilink")`   ' continuous.`  
 ` Modifies armor class by -25 continuous.`
 
 **Keyword(s):** elvish, guiding, light  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[bless](Bless_Flag "wikilink"), [anti-evil](Anti-Evil_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 4 lbs  
-**[Quality](Object_Quality "wikilink"):** 40 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[bless](Bless_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a seasoned
-ranger](Seasoned_Ranger "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a seasoned
+ranger](Seasoned_Ranger.md "wikilink")  
 
 [Category: Gear In Transfigured
 Forest](Category:_Gear_In_Transfigured_Forest "wikilink") [Category:

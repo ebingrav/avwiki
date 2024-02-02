@@ -3,16 +3,16 @@ walking, this hunter looks content with his catch and tired from a long
 day of tracking his prey.*
 
 **Keywords:** hunter.  
-**[Level](Level "wikilink"):** 35.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 35.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A Trog Hunter is using:`  
-<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear "wikilink")
+<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear.md "wikilink")
 
 `A Trog Hunter is carrying:`  
 `    the carcass of a rabbit`
@@ -24,10 +24,10 @@ There are multiple hunters, and some carry different food items.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-A Trog Hunter [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+A Trog Hunter [wanders](Wandering_Mobs.md "wikilink").
 
 A Trog Hunter is portable, but the lack of unique keywords makes it
 unreliable.  

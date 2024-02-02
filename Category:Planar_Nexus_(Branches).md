@@ -1,7 +1,7 @@
 # Notable Mobs
 
-[(Hide) (Sneak) A spider](Spider "wikilink") moves along its net between
-the swaying branches.
+[(Hide) (Sneak) A spider](Spider.md "wikilink") moves along its net
+between the swaying branches.
 
 # Other Notes
 

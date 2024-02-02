@@ -1,6 +1,6 @@
-*[Open Hand](Open_Hand "wikilink") Second Attack.*
+*[Open Hand](Open_Hand.md "wikilink") Second Attack.*
 
-Prerequisite(s): [Open Hand](Open_Hand "wikilink").
+Prerequisite(s): [Open Hand](Open_Hand.md "wikilink").
 
 Syntax: none (automatic).
 

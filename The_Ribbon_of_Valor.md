@@ -9,9 +9,10 @@
 `again to protect the weak and innocent. And here rests the`  
 `sign, without trace of decay. There is hope.`
 
-**[Commune Bonus](Commune "wikilink"):** hp +15%, mana +15%, -5 wisdom
+**[Commune Bonus](Commune.md "wikilink"):** hp +15%, mana +15%, -5
+wisdom
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Discipline](Aspect_-_Discipline "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Discipline](Aspect_-_Discipline.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

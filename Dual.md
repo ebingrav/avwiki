@@ -1,19 +1,20 @@
 *DUAL enables a person to use two
-[weapons](:Category:_Weapons "wikilink") more effectively. As the
+[weapons](:Category:_Weapons.md "wikilink") more effectively. As the
 "offhand" is naturally weaker, the secondary
-[weapon](:Category:_Weapons "wikilink") must be lighter in weight than
-the primary. While the offhand [weapon](:Category:_Weapons "wikilink")
-will only do one extra attack per melee round, it is still one more than
-you'd normally have without the [skill](:Category:_Skills "wikilink").
-Some say that [warriors](:Category:_Warriors "wikilink"),
-[rogues](:Category:_Rogues "wikilink") and
-[assassins](:Category:_Assassins "wikilink") with sufficient
-[poise](Poise "wikilink") and [balance](Balance "wikilink") can go
+[weapon](:Category:_Weapons.md "wikilink") must be lighter in weight
+than the primary. While the offhand
+[weapon](:Category:_Weapons.md "wikilink") will only do one extra attack
+per melee round, it is still one more than you'd normally have without
+the [skill](:Category:_Skills.md "wikilink"). Some say that
+[warriors](:Category:_Warriors.md "wikilink"),
+[rogues](:Category:_Rogues.md "wikilink") and
+[assassins](:Category:_Assassins.md "wikilink") with sufficient
+[poise](Poise.md "wikilink") and [balance](Balance.md "wikilink") can go
 beyond what is possible with dual alone and instead can master using two
-[weapons](:Category:_Weapons "wikilink") of similar
-[weight](Object_Weight "wikilink") at the same time.*
+[weapons](:Category:_Weapons.md "wikilink") of similar
+[weight](Object_Weight.md "wikilink") at the same time.*
 
-Prerequisite(s): [Parry](Parry "wikilink").
+Prerequisite(s): [Parry](Parry.md "wikilink").
 
 Syntax: none (automatic).
 

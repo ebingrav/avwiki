@@ -6,15 +6,15 @@
 Bases: 10-12  
 Levels: 50-52  
 Weight: 5  
-Area: [Apocalypse](:Category:_Apocalypse "wikilink")
-([Map](Apocalypse_Map "wikilink"))  
+Area: [Apocalypse](:Category:_Apocalypse.md "wikilink")
+([Map](Apocalypse_Map.md "wikilink"))  
 Mob: [Blazing Man](Blazing_Man "wikilink")  
 Portal points are [Skeletal Guard](Skeletal_Guard "wikilink"),
 [Terrified Woman](Terrified_Woman "wikilink") or [Shivering
 Soldier](Shivering_Soldier "wikilink"). Find and kill all Blazing Men.
-Either teleport to them, or locate them with '[where](Where "wikilink")
-blazing'. There's mobs in other areas with the keywords blazing man, so
-watch out with too much teleporting.  
+Either teleport to them, or locate them with
+'[where](Where.md "wikilink") blazing'. There's mobs in other areas with
+the keywords blazing man, so watch out with too much teleporting.  
 This piece only pops once ALL the blazing men have been killed and then
 repop. If it's not out there, kill all the remaining blazing men and
 wait for a repop. The Blazing Man that's popped first will be holding

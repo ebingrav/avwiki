@@ -7,25 +7,25 @@ in the numbers that are prophesied in the note given to her, the
 graveyard will be lost.*
 
 **Keyword(s)**: Battle, Commands, Parchment  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:Object_Types "wikilink"):**
-[tickets](:Category:Tickets "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:Object_Types.md "wikilink"):**
+[tickets](:Category:Tickets.md "wikilink")  
 **[Object Slots](Object_Slots "wikilink"):** none  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:Object_Flags "wikilink"):** none
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:Object_Flags.md "wikilink"):** none
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Graves Of
-Reveria](:Category:Graves_Of_Reveria "wikilink")
-([Map](Graves_Of_Reveria_Map "wikilink"))
+**[Area](:Category:Areas.md "wikilink"):** [Graves Of
+Reveria](:Category:Graves_Of_Reveria.md "wikilink")
+([Map](Graves_Of_Reveria_Map.md "wikilink"))
 
 You will get this if you give [a note detailing the Drider
-invasion](Note_Detailing_The_Drider_Invasion "wikilink") to the [Statue
-Of Veyah L'Aturii](Statue_Of_Veyah_L'Aturii "wikilink").
+invasion](Note_Detailing_The_Drider_Invasion.md "wikilink") to the
+[Statue Of Veyah L'Aturii](Statue_Of_Veyah_L'Aturii "wikilink").
 
 If you give this note to [General Commander For Veyah
 L'Aturii](General_Commander_For_Veyah_L'Aturii "wikilink"), you get the
@@ -41,7 +41,7 @@ you go, silly adventurer...Here you go, indeed."
 *He waves his hands, and the room spins wildly...
 
 You are then transported to [The Hidden Room Of The
-Necropolis](The_Hidden_Room_Of_The_Necropolis_(Necropolis) "wikilink"),
+Necropolis](The_Hidden_Room_Of_The_Necropolis_(Necropolis).md "wikilink"),
 where a [Projection Of Veyah
 L'Aturii](Projection_Of_Veyah_L'Aturii "wikilink") sits.
 

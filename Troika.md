@@ -7,13 +7,13 @@ next state of being: the Legend.
 Troika requires ~~25~~ 18 casting participants and 3 different
 non-casting Lord targets, who must be over Lord sublevel 100. The order
 of the target names is irrelevant. Once completed, the participants will
-phase off of the [Thorngate](:Category:_Thorngate "wikilink") plane into
-Legendhood.
+phase off of the [Thorngate](:Category:_Thorngate.md "wikilink") plane
+into Legendhood.
 
 Once cast upon you, you will exist in two forms - the Lord and the
 Legendary one. All your equipment and gold will stay with the Lord form.
 Having a Legendary form will prevent you from [
-remorting](Remort "wikilink").
+remorting](Remort.md "wikilink").
 
 This spell can only be succesfully cast on characters that have toggled
 config troika to on and which are not afk.

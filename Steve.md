@@ -3,9 +3,9 @@ crocodiles quite excitedly occasionally yelling as if he is not actually
 running the store. He puts them down as he notices you looking at him.*
 
 **Keywords:** Steve, Zookeeper.  
-**[Level](Level "wikilink"):** 75.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink").  
+**[Level](Level.md "wikilink"):** 75.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink").  
 
 ## Gear
 
@@ -23,14 +23,14 @@ running the store. He puts them down as he notices you looking at him.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Antharia
-Zoo](:Category:_Antharia_Zoo "wikilink")
-([Map](Antharia_Zoo_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Zookeeper's
+**[Area](:Category:_Areas.md "wikilink"):** [Antharia
+Zoo](:Category:_Antharia_Zoo.md "wikilink")
+([Map](Antharia_Zoo_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Zookeeper's
 Collectibles.  
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d, 2n, 3e, 5n,
-3e, purchase pass, 4e, 3s, 4e, 2n, 2e. (note: crosses [water
-terrain](Water_Terrain "wikilink"))  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d, 2n, 3e,
+5n, 3e, purchase pass, 4e, 3s, 4e, 2n, 2e. (note: crosses [water
+terrain](Water_Terrain.md "wikilink"))  
 
 [Category: Mobs In Antharia
 Zoo](Category:_Mobs_In_Antharia_Zoo "wikilink") [Category:

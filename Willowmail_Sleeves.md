@@ -6,8 +6,8 @@ Slot: Arms
 Base: 4  
 Mob: [Willow Guard](Willow_Guard "wikilink")  
 Area: [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink"))  
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink"))  
 Mob is portable. More verbose description of how to get the gear goes
 here.
 

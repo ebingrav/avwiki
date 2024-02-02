@@ -1,6 +1,6 @@
 Syntax: cast martyr
 
-Prerequisites: [via elimo](Via_Elimo "wikilink")
+Prerequisites: [via elimo](Via_Elimo.md "wikilink")
 
 The Martyr spell prepares you for the most holy of sacrifices. When
 slain, your body will explode with divine energy, greatly damaging your

@@ -2,8 +2,8 @@
 proudly.*
 
 `Armor class is 12-14.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -22 continuous`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 25 continuous`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -22 continuous`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 25 continuous`
 
 When held:
 
@@ -11,24 +11,25 @@ When held:
 `Great names like Akeris, Balthazar, Beauford, Rackhir, Waylander also bore it with pride.`
 
 **Keyword(s):** standard, beh  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [nolocate](Nolocate_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Comments
 
 The manifest holder is an item with a keyword **banner**, that also
 needs to have armor class, thus technically fall into the category of
-[Armor](:Category:Armor "wikilink"). Do not use one from
-[Deepways](:Category:Deepways "wikilink") (treasure) not one on the
-guards in [Midgaard](:Category:Midgaard "wikilink") (light). An
+[Armor](:Category:Armor.md "wikilink"). Do not use one from
+[Deepways](:Category:Deepways.md "wikilink") (treasure) not one on the
+guards in [Midgaard](:Category:Midgaard.md "wikilink") (light). An
 appropriate banner can be found on Eragora in the area of [Sphynx
-Gate](:Category:Sphynx_Gate "wikilink").
+Gate](:Category:Sphynx_Gate.md "wikilink").
 
 The banner can be found by going to the room that is south, then east
 til first north, go all north, enter cave from the ferry drop off (the
@@ -51,10 +52,10 @@ amethyst, 2 ruby, 1 emerald. The manifest name is Beh's Standard.
 c manifest banner "beh's standard" </spoiler>
 
 Recipe can be found on the continent of
-[Eragora](:Category:Eragora "wikilink"). Process of locating it's parts
-is a rather difficult exercise - 5 pieces are scattered across 5 of the
-Eragoran areas. For those interested, they tell a story of the Eragoran
-early pioneers.
+[Eragora](:Category:Eragora.md "wikilink"). Process of locating it's
+parts is a rather difficult exercise - 5 pieces are scattered across 5
+of the Eragoran areas. For those interested, they tell a story of the
+Eragoran early pioneers.
 
 [Category:Manifest Gear](Category:Manifest_Gear "wikilink")
 [Category:Hero Tank Gear](Category:Hero_Tank_Gear "wikilink")

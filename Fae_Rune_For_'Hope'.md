@@ -7,7 +7,7 @@ Object Quality (10 / 10 hps)
 ------------------------------------------------------------------------
 
 This is a ticket necessary for each player attempting to enter the gear
-portion of [Memory Lane](:Category:Memory_Lane "wikilink").
+portion of [Memory Lane](:Category:Memory_Lane.md "wikilink").
 
 [Category:Tickets](Category:Tickets "wikilink") [Category:Gear In Memory
 Lane](Category:Gear_In_Memory_Lane "wikilink")

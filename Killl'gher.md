@@ -4,24 +4,25 @@ sharp and could kill you instantly. His biggest and most fearsome
 weapon, however, is his control over the mind...*
 
 **Keywords:** Killl, demon  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** Demonic .  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[psion](Spellcasting_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** Demonic .  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[psion](Spellcasting_Mobs.md "wikilink")  
 **Affects:** [Sanctuary](Sanctuary "wikilink")
 
 ## Gear
 
 `Killl'gher is using:`  
-<wielded>`          (Demonic) `[`claws`` ``of`` ``killl'gher`](Claws_Of_Killl'gher "wikilink")
+<wielded>`          (Demonic) `[`claws`` ``of`` ``killl'gher`](Claws_Of_Killl'gher.md "wikilink")
 
 `Killl'gher is carrying:`  
 `     Nothing.`
 
 ## Comments
 
-Casts [overconfidence](Overconfidence "wikilink") and
-[scramble](Scramble "wikilink") and [brainstorm](Brainstorm "wikilink")
+Casts [overconfidence](Overconfidence.md "wikilink") and
+[scramble](Scramble.md "wikilink") and
+[brainstorm](Brainstorm.md "wikilink")
 
 Killl'gher is guarded by three demons ([Tkachuk](Tkachuk "wikilink")
 level 65, [Forsberg](Forsberg "wikilink") level 65, and
@@ -33,10 +34,11 @@ All 4 demons have [Sanctuary](Sanctuary "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Dark
-Castle](:Category:_Dark_Castle "wikilink")
-([Map](Dark_Castle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The chambers of Killl'gher.  
+**[Area](:Category:_Areas.md "wikilink"):** [Dark
+Castle](:Category:_Dark_Castle.md "wikilink")
+([Map](Dark_Castle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The chambers of
+Killl'gher.  
 Walking directions from [Mercenary
 Captain](Mercenary_Captain "wikilink") (there are several, you need to
 find the one in the bedroom): w w s u u {e} n n n n n n enter gate s w n

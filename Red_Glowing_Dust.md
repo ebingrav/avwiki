@@ -3,13 +3,13 @@
 `Level 50 spells of: 'divinity' 'calm'.`
 
 **Keyword(s):** red glowing dust pile earth.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pill "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** .  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow nolocate.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pill.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** .  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow nolocate.  
 
 ## Comments
 

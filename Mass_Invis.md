@@ -1,14 +1,14 @@
-This [spell](:Category:_Spells "wikilink") renders all
-[characters](:Category:_Characters "wikilink") in the caster's group,
-including the caster, [invisible](Invis_Flag "wikilink").''
+This [spell](:Category:_Spells.md "wikilink") renders all
+[characters](:Category:_Characters.md "wikilink") in the caster's group,
+including the caster, [invisible](Invis_Flag.md "wikilink").''
 
-Prerequisite(s): [Invis](Invis "wikilink").
+Prerequisite(s): [Invis](Invis.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass invis'.
+Syntax: [cast](Cast.md "wikilink") 'mass invis'.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is rarely used.
-See [Invis Flag](Invis_Flag "wikilink") for more information about
-[invisibility](Invis_Flag "wikilink").
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is rarely used.
+See [Invis Flag](Invis_Flag.md "wikilink") for more information about
+[invisibility](Invis_Flag.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

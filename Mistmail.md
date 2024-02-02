@@ -6,11 +6,11 @@ Modifies armor class by -80 continuous.
 Slot: On body  
 Flags: none?  
 Weight: 1  
-Plane: [Airscape](:Category:Airscape "wikilink")  
-Area: [Airscape](:Category:Airscape_Proper "wikilink")  
+Plane: [Airscape](:Category:Airscape.md "wikilink")  
+Area: [Airscape](:Category:Airscape_Proper.md "wikilink")  
 Mob: [Mist Dragon](Mist_Dragon "wikilink")  
 Mob is portable and wanders. See [Gear In Airscape
-Proper](:Category:Gear_In_Airscape_Proper "wikilink") for more
+Proper](:Category:Gear_In_Airscape_Proper.md "wikilink") for more
 information.
 
 [Category:Lord HP Gear](Category:Lord_HP_Gear "wikilink") [Category:Lord

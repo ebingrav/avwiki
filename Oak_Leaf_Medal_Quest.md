@@ -1,26 +1,27 @@
-In [Westwood Outlook](:Category:_Westwood_Outlook "wikilink"):
+In [Westwood Outlook](:Category:_Westwood_Outlook.md "wikilink"):
 
--   Find [The darklin boar](Darklin_Boar "wikilink").
-
-<!-- -->
-
--   [Kill](Kill "wikilink") [The darklin boar](Darklin_Boar "wikilink").
+-   Find [The darklin boar](Darklin_Boar.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [darklin boar
-    tusks](Darklin_Boar_Tusks "wikilink") from its corpse.
+-   [Kill](Kill.md "wikilink") [The darklin
+    boar](Darklin_Boar.md "wikilink").
 
 <!-- -->
 
--   Find [Warden Thornberry](Warden_Thornberry "wikilink").
+-   [Get](Get.md "wikilink") [darklin boar
+    tusks](Darklin_Boar_Tusks.md "wikilink") from its corpse.
 
 <!-- -->
 
--   [Give](Give "wikilink") [darklin boar
-    tusks](Darklin_Boar_Tusks "wikilink") to [Warden
-    Thornberry](Warden_Thornberry "wikilink") and receive [an oak leaf
-    medal](Oak_Leaf_Medal "wikilink").
+-   Find [Warden Thornberry](Warden_Thornberry.md "wikilink").
+
+<!-- -->
+
+-   [Give](Give.md "wikilink") [darklin boar
+    tusks](Darklin_Boar_Tusks.md "wikilink") to [Warden
+    Thornberry](Warden_Thornberry.md "wikilink") and receive [an oak
+    leaf medal](Oak_Leaf_Medal.md "wikilink").
 
 [Category: Quests In Westwood
 Outlook](Category:_Quests_In_Westwood_Outlook "wikilink") [Category:

@@ -4,8 +4,9 @@ Weight: 3
 Damage Range: 6 - 20  
 Type: Short Bow  
 Mob: [Yeoman](Yeoman "wikilink")  
-Area: [Highways/Great Wall](:Category:_Highways/Great_Wall "wikilink")
-([Map](Highways/Great_Wall_Map "wikilink"))  
+Area: [Highways/Great
+Wall](:Category:_Highways/Great_Wall.md "wikilink")
+([Map](Highways/Great_Wall_Map.md "wikilink"))  
 Portable
 
 [Category: Gear In Highways/Great

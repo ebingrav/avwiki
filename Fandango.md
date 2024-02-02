@@ -10,7 +10,7 @@ spell...*
 
 Prerequisite(s): [Dancing Weapon](Dancing_Weapon "wikilink").
 
-Syntax: [cast](Cast "wikilink") fandango.
+Syntax: [cast](Cast.md "wikilink") fandango.
 
 ## Comments
 

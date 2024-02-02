@@ -7,11 +7,11 @@ cause, and she knows this well.*
 **Keywords:** Betrayer.  
 **Scan Description:** A faceless betrayer of Veyah hides in the
 shadows..  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -26,10 +26,10 @@ shadows..
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Betrayer Of Veyah [wanders](Wandering_Mobs "wikilink").
+Betrayer Of Veyah [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")

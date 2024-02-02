@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="River.etuan.jpg" title="River.etuan.jpg" width="650"
-alt="River.etuan.jpg" />
-<figcaption aria-hidden="true">River.etuan.jpg</figcaption>
+<img src="River.etuan.jpg.md" title="River.etuan.jpg.md" width="650"
+alt="River.etuan.jpg.md" />
+<figcaption aria-hidden="true">River.etuan.jpg.md</figcaption>
 </figure>
 
 [Arx Nivea Map](Arx_Nivea_Map "wikilink")  

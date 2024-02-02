@@ -1,4 +1,4 @@
-See also [Channel](Channel "wikilink") and
-[Channels](Channels "wikilink") (commands).
+See also [Channel](Channel.md "wikilink") and
+[Channels](Channels.md "wikilink") (commands).
 
 [Category: Characters](Category:_Characters "wikilink")

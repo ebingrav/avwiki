@@ -1,10 +1,11 @@
 *The demon world of Neraka is the realm of the
-[Demon](Demons "wikilink") house of [Belag](Belag "wikilink"). Sent into
-exile here after his defeat by the hands of [Kariya](Kariya "wikilink")
-and Dyah Yuyun Utami, [Belag](Belag "wikilink") is held captive in the
-Pinnacle of Angker. Many of his minions still dwell in this accursed
-place, hoping to escape from that dreaded realm and spread chaos through
-the multiverse once again.*
+[Demon](Demons.md "wikilink") house of [Belag](Belag.md "wikilink").
+Sent into exile here after his defeat by the hands of
+[Kariya](Kariya.md "wikilink") and Dyah Yuyun Utami,
+[Belag](Belag.md "wikilink") is held captive in the Pinnacle of Angker.
+Many of his minions still dwell in this accursed place, hoping to escape
+from that dreaded realm and spread chaos through the multiverse once
+again.*
 
 **Level Range:** 51-51
 
@@ -12,23 +13,23 @@ the multiverse once again.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\], 4s, w, n,
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\], 4s, w, n,
 \[d\], \[d\].
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Ajal](Ajal "wikilink") (warning:
-[aggressive](Aggressive_Mobs "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Ajal](Ajal.md "wikilink") (warning:
+[aggressive](Aggressive_Mobs.md "wikilink")).
 
 ## Connections
 
--   [Temple Of Utami](:Category:Temple_Of_Utami "wikilink")
-    ([map](Temple_Of_Utami_Map "wikilink")) - inbound only
+-   [Temple Of Utami](:Category:Temple_Of_Utami.md "wikilink")
+    ([map](Temple_Of_Utami_Map.md "wikilink")) - inbound only
 
 ## Navigation
 
 The area is rather small. From the starting room (accessible via portal
-in [Temple Of Utami](:Category:Temple_Of_Utami "wikilink")) there is a
-straight path to a 4x3 set of rooms with the
+in [Temple Of Utami](:Category:Temple_Of_Utami.md "wikilink")) there is
+a straight path to a 4x3 set of rooms with the
 [Highpriest](Highpriest "wikilink") in the middle. Going down from the
 southwestern corner will bring you to yet another mini-set of rooms with
 [Ajal](Ajal "wikilink"), and going straight south brings you to the

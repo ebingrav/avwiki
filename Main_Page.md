@@ -7,10 +7,10 @@
 </tr>
 <tr class="even">
 <td><table>
-<caption><img src="Button_vote_tms2.jpg" title="Button_vote_tms2.jpg"
-alt="Button_vote_tms2.jpg" /> <strong>Avatar Navigation</strong> <img
-src="Button_vote_tmc.jpg" title="Button_vote_tmc.jpg"
-alt="Button_vote_tmc.jpg" /></caption>
+<caption><img src="Button_vote_tms2.jpg.md"
+title="Button_vote_tms2.jpg.md" alt="Button_vote_tms2.jpg.md" />
+<strong>Avatar Navigation</strong> <img src="Button_vote_tmc.jpg.md"
+title="Button_vote_tmc.jpg.md" alt="Button_vote_tmc.jpg.md" /></caption>
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p>Info</p></th>
@@ -30,33 +30,33 @@ href="http://www.outland.org">www.outland.org</a><br />
 <td style="text-align: center;"><p>General</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><img src="icon-races.png"
-title="icon-races.png" width="128" alt="icon-races.png" /><br />
-<a href=":Category:Races" title="wikilink">Races</a></p></td>
+<td style="text-align: center;"><p><img src="icon-races.png.md"
+title="icon-races.png.md" width="128" alt="icon-races.png.md" /><br />
+<a href=":Category:Races.md" title="wikilink">Races</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Tiers</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><img src="icon-adventurer.png"
-title="icon-adventurer.png" width="92"
-alt="icon-adventurer.png" /><br />
-<a href=":Category:Tiers" title="wikilink">Tiers</a></p></td>
+<td style="text-align: center;"><p><img src="icon-adventurer.png.md"
+title="icon-adventurer.png.md" width="92"
+alt="icon-adventurer.png.md" /><br />
+<a href=":Category:Tiers.md" title="wikilink">Tiers</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href=":Category:Lowmort"
+<td style="text-align: center;"><p><a href=":Category:Lowmort.md"
 title="wikilink">Lowmort</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href=":Category:Hero"
+<td style="text-align: center;"><p><a href=":Category:Hero.md"
 title="wikilink">Hero</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href=":Category:Lord"
+<td style="text-align: center;"><p><a href=":Category:Lord.md"
 title="wikilink">Lord</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href=":Category:Legend"
+<td style="text-align: center;"><p><a href=":Category:Legend.md"
 title="wikilink">Legend</a></p></td>
 </tr>
 <tr class="even">
@@ -64,61 +64,51 @@ title="wikilink">Legend</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><figure>
-<img src="icon-arc.png" title="icon-arc.png" width="92"
-alt="icon-arc.png" />
-<figcaption aria-hidden="true">icon-arc.png</figcaption>
+<img src="icon-arc.png.md" title="icon-arc.png.md" width="92"
+alt="icon-arc.png.md" />
+<figcaption aria-hidden="true">icon-arc.png.md</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a
-href=":Category:Lowmort_1-10_Archer_Gear" title="wikilink">Lowmort
+href=":Category:Lowmort_1-10_Archer_Gear.md" title="wikilink">Lowmort
 Archer Gear</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href=":Category:Hero_Archer_Gear"
-title="wikilink">Hero Arc</a> / <a href=":Category:Hero_Druid_Gear"
-title="wikilink">Hero Dru</a></p></td>
+<td style="text-align: center;"><p><a
+href=":Category:Hero_Archer_Gear.md" title="wikilink">Hero Arc</a> / <a
+href=":Category:Hero_Druid_Gear.md" title="wikilink">Hero
+Dru</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href=":Category:Lord_Archer_Gear"
-title="wikilink">Lord Archer Gear</a></p></td>
+<td style="text-align: center;"><p><a
+href=":Category:Lord_Archer_Gear.md" title="wikilink">Lord Archer
+Gear</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><figure>
-<img src="icon-misc.png" title="icon-misc.png" width="48"
-alt="icon-misc.png" />
-<figcaption aria-hidden="true">icon-misc.png</figcaption>
+<img src="icon-misc.png.md" title="icon-misc.png.md" width="48"
+alt="icon-misc.png.md" />
+<figcaption aria-hidden="true">icon-misc.png.md</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><img src="icon-quests.png"
-title="icon-quests.png" width="64" alt="icon-quests.png" /><br />
-<a href=":Category:Wiki_Stuff" title="wikilink">About This
+<td style="text-align: center;"><p><img src="icon-quests.png.md"
+title="icon-quests.png.md" width="64" alt="icon-quests.png.md" /><br />
+<a href=":Category:Wiki_Stuff.md" title="wikilink">About This
 Wiki</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><img src="icon-characters.png"
-title="icon-characters.png" width="64"
-alt="icon-characters.png" /><br />
-<a href=":Category:Characters" title="wikilink">Characters</a></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><img src="icon-insig.png"
-title="icon-insig.png" width="64" alt="icon-insig.png" /><br />
-<a href=":Category:Insignia" title="wikilink">Character
+<td style="text-align: center;"><p><img src="icon-insig.png.md"
+title="icon-insig.png.md" width="64" alt="icon-insig.png.md" /><br />
+<a href=":Category:Insignia.md" title="wikilink">Character
 Insignias</a></p></td>
 </tr>
-<tr class="odd">
-<td style="text-align: center;"><p><img src="icon-dc.png"
-title="icon-dc.png" width="64" alt="icon-dc.png" /><br />
-<a href=":Category:Diplomatic_Corps" title="wikilink">Diplomatic
-Corps</a></p></td>
-</tr>
 <tr class="even">
-<td style="text-align: center;"><p><small>There are many more
-subcategories in the <a href=":Category:_Miscellaneous"
-title="wikilink">Miscellaneous</a> section; Feel free to add ones you
-feel are important to this main page.</small></p></td>
+<td style="text-align: center;"><p><img src="icon-dc.png.md"
+title="icon-dc.png.md" width="64" alt="icon-dc.png.md" /><br />
+<a href=":Category:Diplomatic_Corps.md" title="wikilink">Diplomatic
+Corps</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -138,7 +128,7 @@ href="Requests" title="wikilink">Requests</a> page.</li>
 href="Requests" title="wikilink">Requests</a> for ideas about what to
 add and <a href="Contributing" title="wikilink">Contributing</a> for
 information about how to add it. To keep this website neat, organized
-and useful, we encourage use of our <a href=":Category:_Templates"
+and useful, we encourage use of our <a href=":Category:_Templates.md"
 title="wikilink">Templates</a>.</li>
 </ul>
 <ul>

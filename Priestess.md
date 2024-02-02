@@ -5,9 +5,9 @@ knock-out!! Then you realise, all the priests are ladies... hmmmm... you
 wonder why.*
 
 **Keywords:** priestess.  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** .  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** .  
 **Affects:** none.  
 
 ## Gear
@@ -20,10 +20,10 @@ Quest](Red_Vial_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple of
-Utami](:Category:_Temple_Of_Utami "wikilink")
-([Map](Temple_Of_Utami_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** .  
+**[Area](:Category:_Areas.md "wikilink"):** [Temple of
+Utami](:Category:_Temple_Of_Utami.md "wikilink")
+([Map](Temple_Of_Utami_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** .  
 
 [Category: Mobs In Temple Of
 Utami](Category:_Mobs_In_Temple_Of_Utami "wikilink")

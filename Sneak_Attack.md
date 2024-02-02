@@ -1,19 +1,19 @@
 *The first step along the road to becoming a lethal Assassin is to
 master the simple art of the sneak attack. Using the element of
 surprise, a thief will be able to hit his foe harder in the first round
-of combat. Any [weapon](:Category:_Weapons "wikilink") can be used for
-this attack, however, it will be less effective on enemies who are
-especially alert, such as [aggressive](Aggressive_Mobs "wikilink") or
-[wimpy](Wimpy_Mobs "wikilink") monsters and
-[guards](Townguard_Mobs "wikilink"). Surprise attack is affected by your
-[race](:Category:_Races "wikilink")'s innate stealthiness. Large or
-clumsy [races](:Category:_Races "wikilink") may be spotted moving in for
-the kill.*
+of combat. Any [weapon](:Category:_Weapons.md "wikilink") can be used
+for this attack, however, it will be less effective on enemies who are
+especially alert, such as [aggressive](Aggressive_Mobs.md "wikilink") or
+[wimpy](Wimpy_Mobs.md "wikilink") monsters and
+[guards](Townguard_Mobs.md "wikilink"). Surprise attack is affected by
+your [race](:Category:_Races.md "wikilink")'s innate stealthiness. Large
+or clumsy [races](:Category:_Races.md "wikilink") may be spotted moving
+in for the kill.*
 
-Prerequisite(s): [Sneak](Sneak "wikilink").
+Prerequisite(s): [Sneak](Sneak.md "wikilink").
 
-Syntax: [surprise](Surprise "wikilink")
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [surprise](Surprise.md "wikilink")
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Assassin

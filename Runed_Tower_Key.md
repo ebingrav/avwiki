@@ -3,9 +3,10 @@
 **Keywords:** tower, key, runed, rune  
 **Level:** 44  
 **Weight:** 5  
-**[Type](:Category:Object_Types "wikilink"):** key  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [nolocate](Nolocate_Flag "wikilink")  
+**[Type](:Category:Object_Types.md "wikilink"):** key  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
 **Room:** Xohd's chamber  
 **Quest:** [Arcanist's Focusing Staff
 Quest](Arcanist's_Focusing_Staff_Quest "wikilink"), [Arcanist's Staff of

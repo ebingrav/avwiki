@@ -7,8 +7,8 @@ all...*
 **Keyword:** mayor  
 **Level:** 43  
 **[Alignment](Alignment "wikilink"):** angelic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")
 
 ### Comments
 
@@ -16,10 +16,10 @@ The mayor takes part in a minor quest.
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** The Mayor's Home (portable)  
+**[Area](:Category:Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** The Mayor's Home (portable)  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 39s, 3w, 3n, e, 2n,
 w, n
 

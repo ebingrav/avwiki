@@ -1,26 +1,27 @@
 *Burning hands allows the spellcaster to inflict damage to all
-[mobs](:Category:_Mobs "wikilink") in a
-[room](:Category:_Rooms "wikilink"), by shooting jets of flames from the
-spellcaster's hands. The amount of damage is determined by the
-[level](Level "wikilink") of the spellcaster. As with all area spells,
-there is no need to specify a target.*
+[mobs](:Category:_Mobs.md "wikilink") in a
+[room](:Category:_Rooms.md "wikilink"), by shooting jets of flames from
+the spellcaster's hands. The amount of damage is determined by the
+[level](Level.md "wikilink") of the spellcaster. As with all area
+spells, there is no need to specify a target.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'burning hands'.
+Syntax: [cast](Cast.md "wikilink") 'burning hands'.
 
-[Lowmort](:Category:_Lowmort "wikilink")
-[mages](:Category:_Mages "wikilink") may find this spell handy when
-fighting multiple [mobs](:Category:_Mobs "wikilink") simultaneously,
+[Lowmort](:Category:_Lowmort.md "wikilink")
+[mages](:Category:_Mages.md "wikilink") may find this spell handy when
+fighting multiple [mobs](:Category:_Mobs.md "wikilink") simultaneously,
 though this is not generally a good idea for "splatty"
-[mages](:Category:_Mages "wikilink"). It may also be useful for
-[tanks](Tanks "wikilink") wanting to initiate combat with
-[invisible](Invis_Flag "wikilink") [mobs](:Category:_Mobs "wikilink"),
-particularly those [mobs](:Category:_Mobs "wikilink") that are more than
-three [levels](Level "wikilink") higher and thus cannot be
-[detected](Detect_Hidden "wikilink").
+[mages](:Category:_Mages.md "wikilink"). It may also be useful for
+[tanks](Tanks.md "wikilink") wanting to initiate combat with
+[invisible](Invis_Flag.md "wikilink")
+[mobs](:Category:_Mobs.md "wikilink"), particularly those
+[mobs](:Category:_Mobs.md "wikilink") that are more than three
+[levels](Level.md "wikilink") higher and thus cannot be
+[detected](Detect_Hidden.md "wikilink").
 
-See Also: [Area Spells](:Category:_Area_Spells "wikilink")
+See Also: [Area Spells](:Category:_Area_Spells.md "wikilink")
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

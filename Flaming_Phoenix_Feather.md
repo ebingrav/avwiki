@@ -6,14 +6,14 @@ Modifies damage roll by 6 continuous.
 Slot: light  
 Flags: glow hum magic nolocate fire-ward  
 Weight: 3  
-Plane: [Firerealm](:Category:Firerealm "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm](:Category:Firerealm.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: [The Burning Phoenix](The_Burning_Phoenix "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Second Tier Hit

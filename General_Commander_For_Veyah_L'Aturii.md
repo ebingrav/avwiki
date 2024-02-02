@@ -8,11 +8,11 @@ forgotten about him.*
 **Keywords:** General, Commander.  
 **Scan Description:** Studying a map strewn across the altar, this
 commander worries.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Sentinel](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Sentinel](Sentinel_Mobs.md "wikilink").  
 **Affects:** [Sanctuary](Sanctuary "wikilink").  
 
 ## Gear
@@ -27,18 +27,18 @@ commander worries.
 
 The mob is big and sanced, but not aggie. It can toss. If you give this
 mob [the battle commands for Veyah's
-commander](Battle_Commands_For_Veyah's_Commander "wikilink"), he will
+commander](Battle_Commands_For_Veyah's_Commander.md "wikilink"), he will
 transport you to [The Hidden Room Of The
-Necropolis](The_Hidden_Room_Of_The_Necropolis_(Necropolis) "wikilink").
+Necropolis](The_Hidden_Room_Of_The_Necropolis_(Necropolis).md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Before The Altar Of
-Veyah](Before_The_Altar_Of_Veyah_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Before The Altar Of
+Veyah](Before_The_Altar_Of_Veyah_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 2d 2n w s.

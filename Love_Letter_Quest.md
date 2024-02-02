@@ -11,7 +11,7 @@ From [Tulip](Tulip "wikilink"):
 
 <!-- -->
 
--   [Get](Get "wikilink") the loveletter on the ground.
+-   [Get](Get.md "wikilink") the loveletter on the ground.
 
 <!-- -->
 
@@ -19,7 +19,7 @@ From [Tulip](Tulip "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") the loveletter to Matron Fay. You receive
+-   [Give](Give.md "wikilink") the loveletter to Matron Fay. You receive
     another letter.
 
 <!-- -->

@@ -32,13 +32,13 @@ identifying their corpses.</font>
 `Object Affect.`
 
 **Keyword(s):** ??, ??, ??.  
-**[Level(s)](Object_Level "wikilink"):** ??-??.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ObjectType](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** ??.  
-**[Quality](Object_Quality "wikilink"):** ?? hps.  
-**[Weight](Object_Weight "wikilink"):** ?? lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** ??, ??, ??.  
+**[Level(s)](Object_Level.md "wikilink"):** ??-??.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ObjectType](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** ??.  
+**[Quality](Object_Quality.md "wikilink"):** ?? hps.  
+**[Weight](Object_Weight.md "wikilink"):** ?? lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** ??, ??, ??.  
 
 ## Comments
 
@@ -49,34 +49,35 @@ Comments about this object go here.
 <font color=gray>Include as many of these lines as are true/useful and
 delete those that are not:</font>
 
-**[Area](:Category:_Areas "wikilink"):**
-[AreaName](:Category:_AreaName "wikilink")
-([Map](AreaName_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [MobName](MobName "wikilink"),
-[MobName](MobName "wikilink"), [MobName](MobName "wikilink")
-([skin-item](:Category:_Skin_Items "wikilink")).  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
-**[Area](:Category:_Areas "wikilink"):**
-[AreaName](:Category:_AreaName "wikilink")
-([Map](AreaName_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):**
-[QuestName](QuestName "wikilink").  
-See [QuestName](QuestName "wikilink") for more information.  
-**[Area](:Category:_Areas "wikilink"):**
-[AreaName](:Category:_AreaName "wikilink")
-([Map](AreaName_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** RoomName
-([cursed](Cursed_Rooms "wikilink")?, portable?,
-[safe](Safe_Rooms "wikilink")?,
-[RoomFlag](:Category:_Room_Types "wikilink")?) in ContainerName.  
-Walking route from [Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-Walking route from [MobName](MobName "wikilink"): ??.  
-Walking route from [MobName](MobName "wikilink"): ??.  
-[Portaling](Portal "wikilink") point suggested:
-[MobName](MobName "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[AreaName](:Category:_AreaName.md "wikilink")
+([Map](AreaName_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[MobName](MobName.md "wikilink"), [MobName](MobName.md "wikilink"),
+[MobName](MobName.md "wikilink")
+([skin-item](:Category:_Skin_Items.md "wikilink")).  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[AreaName](:Category:_AreaName.md "wikilink")
+([Map](AreaName_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):**
+[QuestName](QuestName.md "wikilink").  
+See [QuestName](QuestName.md "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[AreaName](:Category:_AreaName.md "wikilink")
+([Map](AreaName_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** RoomName
+([cursed](Cursed_Rooms.md "wikilink")?, portable?,
+[safe](Safe_Rooms.md "wikilink")?,
+[RoomFlag](:Category:_Room_Types.md "wikilink")?) in ContainerName.  
+Walking route from [Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+Walking route from [MobName](MobName.md "wikilink"): ??.  
+Walking route from [MobName](MobName.md "wikilink"): ??.  
+[Portaling](Portal.md "wikilink") point suggested:
+[MobName](MobName.md "wikilink").  
 <font color=gray>Please categorize all new object pages under Gear In
 AreaName. If this object is grandfathered, then also categorize its page
 under Grandfathered Gear. If this object is not grandfathered, then also

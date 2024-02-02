@@ -15,12 +15,13 @@ Value: 0
 Level: 125  
 Object Quality (50 / 50 hps)  
 Mob: [King Of The Githzerai](King_Of_The_Githzerai "wikilink")  
-Area: [Githzerai Keep](:Category:Githzerai_Keep "wikilink")  
+Area: [Githzerai Keep](:Category:Githzerai_Keep.md "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Githzerai
-Keep](:Category:Gear_In_Githzerai_Keep "wikilink") for more information.
+Keep](:Category:Gear_In_Githzerai_Keep.md "wikilink") for more
+information.
 
 [Category:Lord Third Tier Tank
 Gear](Category:Lord_Third_Tier_Tank_Gear "wikilink") [Category:Gear In

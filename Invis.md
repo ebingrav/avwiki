@@ -1,42 +1,44 @@
-*The INVIS [spell](:Category:_Spells "wikilink") makes the target
+*The INVIS [spell](:Category:_Spells.md "wikilink") makes the target
 character invisible. Invisible
-[characters](:Category:_Characters "wikilink") will become visible when
-they attack. NOTE: AVATAR [immortals](:Category:_Immortals "wikilink")
-frown on [casting](Cast "wikilink") invisibility on
-[mobs](:Category:_Mobs "wikilink") used for
-[training](:Category:_Trainers "wikilink") or
-[healing](:Category:_Healers "wikilink"). Be warned that attempting to
-do so may result in swift retribution!*
+[characters](:Category:_Characters.md "wikilink") will become visible
+when they attack. NOTE: AVATAR
+[immortals](:Category:_Immortals.md "wikilink") frown on
+[casting](Cast.md "wikilink") invisibility on
+[mobs](:Category:_Mobs.md "wikilink") used for
+[training](:Category:_Trainers.md "wikilink") or
+[healing](:Category:_Healers.md "wikilink"). Be warned that attempting
+to do so may result in swift retribution!*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'invis'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'invis'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-See also [Racial Invis](Racial_Invis "wikilink").
+See also [Racial Invis](Racial_Invis.md "wikilink").
 
 This is a highly valuable
-[skill](:Category:_Skills_And_Spells "wikilink") for
-[characters](:Category:_Characters "wikilink") of all
-[clases](:Category:_Classes "wikilink") (who can) to learn. Invis is one
-of three invaluable stealth
-[skills](:Category:_Skills_And_Spells "wikilink"), along with
-[Sneak](Sneak "wikilink") and [Move Hidden](Move_Hidden "wikilink"). It
-is superfluous for [characters](:Category:_Characters "wikilink")
-affected by [Mask](Mask "wikilink"). Because
-[characters](:Category:_Characters "wikilink") cease to be invisible
-when they attack [mobs](:Category:_Mobs "wikilink"),
-[characters](:Category:_Characters "wikilink") normally wear gear like
-[rings of the rat](Ring_Of_The_Rat "wikilink") to provide invisibility
-during runs, as it would be terribly wasteful to both time and
-[mana](Mana_Points "wikilink") to re-[cast](Cast "wikilink") Invis after
-every fight; however, like [Magic Light](Magic_Light "wikilink"), Invis
-may be highly useful during [corpse
-retrivals](Corpse_Retrieval "wikilink").
+[skill](:Category:_Skills_And_Spells.md "wikilink") for
+[characters](:Category:_Characters.md "wikilink") of all
+[clases](:Category:_Classes.md "wikilink") (who can) to learn. Invis is
+one of three invaluable stealth
+[skills](:Category:_Skills_And_Spells.md "wikilink"), along with
+[Sneak](Sneak.md "wikilink") and [Move
+Hidden](Move_Hidden.md "wikilink"). It is superfluous for
+[characters](:Category:_Characters.md "wikilink") affected by
+[Mask](Mask.md "wikilink"). Because
+[characters](:Category:_Characters.md "wikilink") cease to be invisible
+when they attack [mobs](:Category:_Mobs.md "wikilink"),
+[characters](:Category:_Characters.md "wikilink") normally wear gear
+like [rings of the rat](Ring_Of_The_Rat.md "wikilink") to provide
+invisibility during runs, as it would be terribly wasteful to both time
+and [mana](Mana_Points.md "wikilink") to re-[cast](Cast.md "wikilink")
+Invis after every fight; however, like [Magic
+Light](Magic_Light.md "wikilink"), Invis may be highly useful during
+[corpse retrivals](Corpse_Retrieval.md "wikilink").
 
 See also [Gear That Applies
-Invis](:Category:_Gear_That_Applies_Invis "wikilink") and [Invis
-Gear](:Category:_Invis_Gear "wikilink").
+Invis](:Category:_Gear_That_Applies_Invis.md "wikilink") and [Invis
+Gear](:Category:_Invis_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

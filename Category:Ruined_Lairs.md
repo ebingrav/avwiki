@@ -1,9 +1,9 @@
 *In the past there was a plot to take over
-[Midgaard](:Category:_Midgaard "wikilink") itself. Fortunately the
+[Midgaard](:Category:_Midgaard.md "wikilink") itself. Fortunately the
 plotters made a mistake and managed to ruin the plot themselves. The
 ruins of the lairs they constructed might still contain something worth
 finding. Rumors where they might be found are [floating in the
-air](:Category:_Ruined_Lair_Introduction "wikilink")...*
+air](:Category:_Ruined_Lair_Introduction.md "wikilink")...*
 
 **Level Range:** 51-51
 
@@ -12,7 +12,7 @@ air](:Category:_Ruined_Lair_Introduction "wikilink")...*
 ## Comments
 
 This area is unique in that the entrance to it is separate from the
-[mob](Ghostly_Spirit "wikilink") which you learn of the area from, as
+[mob](Ghostly_Spirit.md "wikilink") which you learn of the area from, as
 well as it consists of the introductory room and 5 more completely
 separate sub-areas. You can examine the [Ghostly
 Spirit](Ghostly_Spirit "wikilink") to learn the background but the mob

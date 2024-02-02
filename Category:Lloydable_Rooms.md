@@ -15,7 +15,7 @@ Haven](Safe_Haven "wikilink").
 
 Similar to the Infirmary flag visible to clerics, the Lloydable flag is
 visible to [Rangers](Rangers "wikilink") only. It is possible to detect
-it with the [use of magic](Detect_Haven "wikilink").
+it with the [use of magic](Detect_Haven.md "wikilink").
 
 See [Planar Anchor](Planar_Anchor "wikilink") for an index of known
 Lloydable rooms.

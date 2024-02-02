@@ -3,19 +3,19 @@ rope that has outlived its usefulness as rigging. Tiny nails and other
 scraps of metal have been knotted into the scourge's tails, making for
 quite a nasty weapon.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 11 to 32 (average 21).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 11 to 32 (average 21).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
 `Modifies hit roll by -2 continuous`  
 `Modifies hp by 10 continuous`
 
 **Keyword(s):** makeshift, rope, scourge.  
-**[Level(s)](Object_Level "wikilink"):** 29  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**  
+**[Level(s)](Object_Level.md "wikilink"):** 29  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**  
 
 ## Comments
 

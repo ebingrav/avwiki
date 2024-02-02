@@ -3,18 +3,18 @@ was awake. You wonder at the importance of what he could be guarding if
 he's asleep at his post.*
 
 **Keywords:** gremlin, sentry.  
-**[Level](Level "wikilink"):** 9.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 9.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 The gremlin sentry is using:
 
 <held in offhand>`   a shield of bark`  
-<wielded>`           `[`a`` ``stout`` ``section`` ``of`` ``willow`](Stout_Section_Of_Willow "wikilink")
+<wielded>`           `[`a`` ``stout`` ``section`` ``of`` ``willow`](Stout_Section_Of_Willow.md "wikilink")
 
 ## Comments
 
@@ -23,12 +23,12 @@ anyways, so it can be useful.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Weeping](:Category:_Weeping "wikilink")
-([Map](Weeping_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Sentry's Room.
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Weeping](:Category:_Weeping.md "wikilink")
+([Map](Weeping_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Sentry's Room.
 
-[Portal](Teleport "wikilink") to [Gremlin
+[Portal](Teleport.md "wikilink") to [Gremlin
 Bawanna](Gremlin_Bawanna "wikilink") and go \[s\],w,\[s\].  
 Or from [Sol](Sol "wikilink") go 3e, 2n, 3e, n, 2e, 2s, 2e, 2s, 2e, n,
 4e, \[s\].

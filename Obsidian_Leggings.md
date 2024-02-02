@@ -1,22 +1,23 @@
 *Some black leggings are on the floor.*
 
 `Armor class is 5.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by 1 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by 1 continuous.`  
 `Modifies moves by 20 continuous`
 
 **Keyword(s):** leggings obsidian  
-**[Level(s)](Object_Level "wikilink"):** 19  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Weight](Object_Weight "wikilink"):** 40 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [anti-evil](Anti-Evil_Flag "wikilink")  
-**[Area](:Category:_Areas "wikilink"):** [Town Of
-Solace](:Category:Town_Of_Solace "wikilink")
-([map](Town_Of_Solace_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain Of The Guard
+**[Level(s)](Object_Level.md "wikilink"):** 19  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Weight](Object_Weight.md "wikilink"):** 40 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Town Of
+Solace](:Category:Town_Of_Solace.md "wikilink")
+([map](Town_Of_Solace_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain Of The Guard
 (Solace)](Captain_Of_The_Guard_(Solace) "wikilink")  
 
 ## Comments

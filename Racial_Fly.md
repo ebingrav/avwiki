@@ -1,7 +1,7 @@
-*This is similar to the [fly](Fly "wikilink")
-[spell](:Category:_Spells "wikilink"), but it can't be used on another.
-The use of [racial skills](:Category:_Racials "wikilink") causes
-fatigue, and a need for rest. You can shorten the need of rest by
+*This is similar to the [fly](Fly.md "wikilink")
+[spell](:Category:_Spells.md "wikilink"), but it can't be used on
+another. The use of [racial skills](:Category:_Racials.md "wikilink")
+causes fatigue, and a need for rest. You can shorten the need of rest by
 landing earlier.*
 
 Syntax: racial fly.

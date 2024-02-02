@@ -1,3 +1,3 @@
-See also [Markings](Markings "wikilink").
+See also [Markings](Markings.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

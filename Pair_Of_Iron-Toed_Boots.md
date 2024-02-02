@@ -4,20 +4,20 @@
 `Modifies armor class by -10 continuous.`
 
 **Keyword(s):** iron boots  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 **Slot:** Feet  
-**[Weight](Object_Weight "wikilink"):** 13 lbs  
-**[Level(s)](Object_Level "wikilink"):** 25-26  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Andri
+**[Weight](Object_Weight.md "wikilink"):** 13 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 25-26  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Andri
 KaraMooseov](Andri_KaraMooseov "wikilink"), [Frederick
 KaraMooseov](Frederick_KaraMooseov "wikilink")
-([portable](Teleport "wikilink"))  
+([portable](Teleport.md "wikilink"))  
 
 ## Comments
 

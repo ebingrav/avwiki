@@ -18,7 +18,7 @@ or using any healing spells on yourself while you're affected, since it
 will set your actual hp to be equal to base hp if it is more. The
 affects of poison or disease will also set your hp.
 
-See also: [DEATH FIELD](Death_Field "wikilink").
+See also: [DEATH FIELD](Death_Field.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

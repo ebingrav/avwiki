@@ -2,20 +2,20 @@
 Type: Ticket  
 Flags: none  
 Weight: 3  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Plane](:Category:Astral_Plane "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Plane](:Category:Astral_Plane.md "wikilink")  
 Mob: none (loads on floor)  
 Room: A cramped cell  
 This item loads on the ground in "keep" portion of [Astral
-Proper](:Category:Astral_Plane "wikilink"). From shift portal to gith
+Proper](:Category:Astral_Plane.md "wikilink"). From shift portal to gith
 soldier or gith prisoner (there are several and you want the one who is
 located in a tiny cell) to reach this portion of the area. The
-[key](Intricate_Key "wikilink") to the room is held by one of the
+[key](Intricate_Key.md "wikilink") to the room is held by one of the
 githyanki knights, although the door is bashable by one with sufficient
 strength. This ticket will not repop while you remain in the area.
 
 You give this ticket to Z'ier Uku on the 2nd floor of [Rietta's
-Wonders](:Category:Rietta's_Wonders "wikilink") to get the [Githyanki
+Wonders](:Category:Rietta's_Wonders.md "wikilink") to get the [Githyanki
 Bone Staff](Githyanki_Bone_Staff "wikilink"), which is a sanc brandish.
 
 You give a mindflayer scalp to Z'ier Uku. A wicked grin crosses the

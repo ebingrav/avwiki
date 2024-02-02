@@ -5,13 +5,13 @@ Slot: About Body
 Base: 1-3  
 Level: 6  
 Weight: 5  
-Area: [Dwarven Day Care](:Category:_Dwarven_Day_Care "wikilink")
-([Map](Dwarven_Day_Care_Map "wikilink"))  
+Area: [Dwarven Day Care](:Category:_Dwarven_Day_Care.md "wikilink")
+([Map](Dwarven_Day_Care_Map.md "wikilink"))  
 Mob: [Nanny](Nanny "wikilink")  
-Go to the [Dwarven Day Care](:Category:Dwarven_Day_Care "wikilink"),
+Go to the [Dwarven Day Care](:Category:Dwarven_Day_Care.md "wikilink"),
 find the nanny (she wanders) and kill her to get the linen robe. While
 you're there you might want to pick up some [Pink Ice
-Rings](Pink_Ice_Ring_(Dwarven_Daycare) "wikilink"). Keep in mind that
+Rings](Pink_Ice_Ring_(Dwarven_Daycare).md "wikilink"). Keep in mind that
 the mobs in this area steal, and many [assist](assist "wikilink").
 
 [Category: Gear In Dwarven Day

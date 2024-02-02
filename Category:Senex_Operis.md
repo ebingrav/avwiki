@@ -1,8 +1,9 @@
-*Recent explorations done by [Midgaard](:Category:Midgaard "wikilink")'s
-surveyors have uncovered an ancient ruin nestled in the forest to the
-southwest of [Midgaard](:Category:_Midgaard "wikilink"). After several
-surveyors were murdered within an intact portion of the main ruin, the
-King ordered an investigation of the area. When word came back from the
+*Recent explorations done by
+[Midgaard](:Category:Midgaard.md "wikilink")'s surveyors have uncovered
+an ancient ruin nestled in the forest to the southwest of
+[Midgaard](:Category:_Midgaard.md "wikilink"). After several surveyors
+were murdered within an intact portion of the main ruin, the King
+ordered an investigation of the area. When word came back from the
 oracles that it had been infested by a necromancer, he ordered a guard
 set up at the ruin to protect against the evil within.*
 
@@ -12,14 +13,14 @@ set up at the ruin to protect against the evil within.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16s, 3w, 2n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16s, 3w, 2n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [spectre
-gladiator](Spectre_Of_A_Gladiator "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [spectre
+gladiator](Spectre_Of_A_Gladiator.md "wikilink").
 
 ## Connections
 
-[Ruins of Keresh](:Category:Ruins_of_Keresh "wikilink")
+[Ruins of Keresh](:Category:Ruins_of_Keresh.md "wikilink")
 
 ## Navigation
 

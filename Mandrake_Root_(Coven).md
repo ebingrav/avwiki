@@ -1,25 +1,26 @@
 *A mandrake root is here.*
 
-`Level 30 spells of: '`[`detect`` ``hidden`](Detect_Hidden "wikilink")`' '`[`protection`` ``evil`](Protection_Evil "wikilink")`' '`[`dispel`` ``evil`](Dispel_Evil "wikilink")`'.`
+`Level 30 spells of: '`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")`' '`[`protection`` ``evil`](Protection_Evil.md "wikilink")`' '`[`dispel`` ``evil`](Dispel_Evil.md "wikilink")`'.`
 
 **Keyword(s):** root, mandrake.  
-**[Level(s)](Object_Level "wikilink"):** 27-29.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 27-29.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Coven](:Category:_Coven "wikilink") ([Map](Coven_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The hag
-Gelda](Hag_Gelda "wikilink").  
-See [The hag Gelda](Hag_Gelda "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Coven](:Category:_Coven.md "wikilink")
+([Map](Coven_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The hag
+Gelda](Hag_Gelda.md "wikilink").  
+See [The hag Gelda](Hag_Gelda.md "wikilink") for more information.  
 
 [Category: Gear In Coven](Category:_Gear_In_Coven "wikilink") [Category:
 Pills](Category:_Pills "wikilink") [Category: Lowmort 21-30

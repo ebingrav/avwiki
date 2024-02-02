@@ -24,7 +24,7 @@ them if you're below level 30.
 <b>Walking Directions:</b> 4ses from [Nom](Nom "wikilink")
 
 This area was replaced by [Pantheon
-Courtyard](:Category:_Pantheon_Courtyard "wikilink").
+Courtyard](:Category:_Pantheon_Courtyard.md "wikilink").
 
 [Category: Grandfathered
 Areas](Category:_Grandfathered_Areas "wikilink")

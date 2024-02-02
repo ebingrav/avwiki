@@ -4,10 +4,10 @@ the maid is obviously troubled. It seems like worry has drained the joy
 out of this woman.*
 
 **Keywords:** marcy, maid, woman, halfling.  
-**[Level](Level "wikilink"):** 22.  
-**[Alignment](Alignment "wikilink"):** Heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Steadfast](Sentinel_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 22.  
+**[Alignment](Alignment.md "wikilink"):** Heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Steadfast](Sentinel_Mobs.md "wikilink")  
 
 ## Gear
 
@@ -24,10 +24,10 @@ to say about that!
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Maid Marcy's Quarters
+**[Area](:Category:_Areas.md "wikilink"):** [ Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Maid Marcy's Quarters
 (portable).  
 Walking route from Sol: 3e, 2n, 3e, 9n, w, s, u, s, w, s, 2w, u, 2e, n,
 w, \[s\]. (aggie in 2nd to last room)

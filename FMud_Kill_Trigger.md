@@ -1,7 +1,7 @@
 ## How To Use
 
 1.  [Right click on this link and save the .txt file on your
-    computer.](Media:FMud_Kill_Trigger.txt "wikilink")
+    computer.](Media:FMud_Kill_Trigger.txt.md "wikilink")
 2.  [From the FMud client on
     outland.org](http://www.outland.org/infusions/mudclient), click on
     the "Settings" Button

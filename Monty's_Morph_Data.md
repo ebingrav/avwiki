@@ -62,7 +62,7 @@ By Level:
 This table excludes 100% and 0% success outliers.
 
     +-------+---------------+-------+
-    | Level |  Success Rate |Sample |
+    .md| Level  |  Success Rate |Sample |
     +-------+---------------+-------+
     |300    |11.38%     |123    |
     |301    |26.67%     |30 |

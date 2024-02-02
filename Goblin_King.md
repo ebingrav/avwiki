@@ -8,17 +8,17 @@ has grown lazy, fat and drunk. His axe still sits by his side however,
 and it looks sharp.*
 
 **Keywords:** goblin, king.  
-**[Level](Level "wikilink"):** 10.  
-**[Alignment](Alignment "wikilink"):** demonically.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 10.  
+**[Alignment](Alignment.md "wikilink"):** demonically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `The goblin king is using:`  
-<worn on head>`      (Glowing) `[`a`` ``battered`` ``iron`` ``crown`](Battered_Iron_Crown "wikilink")  
-<wielded>`           (Humming) `[`a`` ``large`` ``battle`` ``axe`](Large_Battle_Axe "wikilink")  
+<worn on head>`      (Glowing) `[`a`` ``battered`` ``iron`` ``crown`](Battered_Iron_Crown.md "wikilink")  
+<wielded>`           (Humming) `[`a`` ``large`` ``battle`` ``axe`](Large_Battle_Axe.md "wikilink")  
 <held>`              a battered metal cup`
 
 `The goblin king is carrying:`  
@@ -27,14 +27,14 @@ and it looks sharp.*
 ## Comments
 
 Before and with the king are a few fanatical guards. They are
-[aggressive](Aggressive_Mobs "wikilink"), so watch out.
+[aggressive](Aggressive_Mobs.md "wikilink"), so watch out.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Goblin King's Throne Room
+**[Area](:Category:_Areas.md "wikilink"):** [The Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Goblin King's Throne Room
 (portable).  
 Walking route from [Nom](Nom "wikilink"): s7eu3e5nwn\[n\].  
 The goblin king is portable.  

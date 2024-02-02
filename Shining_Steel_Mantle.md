@@ -1,28 +1,28 @@
 *The light reflects brightly off the steel mantle here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-7.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 15 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-7.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** shining steel mantle  
-**[Level(s)](Object_Level "wikilink"):** 26-30  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Level(s)](Object_Level.md "wikilink"):** 26-30  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Lloth's
-Peak](:Category:_Lloth's_Peak "wikilink")
-([Map](Lloth's_Peak_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Drider
+**[Area](:Category:_Areas.md "wikilink"):** [Lloth's
+Peak](:Category:_Lloth's_Peak.md "wikilink")
+([Map](Lloth's_Peak_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Drider
 Champion](Drider_Champion "wikilink"), [Drider](Drider "wikilink"),
 [Gray Drider](Gray_Drider "wikilink")
-([portable](Teleport "wikilink"))  
+([portable](Teleport.md "wikilink"))  
 
 [Category: Gear In Lloth's
 Peak](Category:_Gear_In_Lloth's_Peak "wikilink") [Category:

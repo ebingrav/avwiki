@@ -1,7 +1,7 @@
 This insignia is a reward for doing all the chores for [Fix-It
 Floyd](Fix-It_Floyd "wikilink") in [Fix-It Floyd
 Quest](Fix-It_Floyd_Quest "wikilink"), available at the [Mob
-Factory](:Category:Mob_Factory "wikilink").
+Factory](:Category:Mob_Factory.md "wikilink").
 
 It awards either an ability or stat boost that lasts until Hero level
 101.  

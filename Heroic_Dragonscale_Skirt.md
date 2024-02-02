@@ -3,26 +3,26 @@ yet stronger than steel, they are connected with hidden links to form a
 skirt for some lucky hero. This is the prize for killing the red dragon,
 Nigurathus.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -40 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -40 continuous.`  
 `Armor class is 10-12.`
 
 **Keyword(s):** heroic, dragonscale, dragon, scale, skirt.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Red Dragon's
-Lair](:Category:_Red_Dragon's_Lair "wikilink")
-([Map](Red_Dragon's_Lair_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** None.  
+**[Area](:Category:_Areas.md "wikilink"):** [Red Dragon's
+Lair](:Category:_Red_Dragon's_Lair.md "wikilink")
+([Map](Red_Dragon's_Lair_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** None.  
 Zmud Users: PP Red Drag Mother .s2ene2n Kill
 [Nigurathus](Nigurathus "wikilink") Get Scale, PP Jake, Give Scale Jake
 

@@ -3,19 +3,19 @@ face is covered with disgusting moles and warts. She reminds you of a
 childhood nightmare.*
 
 **Keywords:** wicked, witch.  
-**[Level](Level "wikilink"):** 10.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [fly](Fly "wikilink"),
-[sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 10.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [fly](Fly.md "wikilink"),
+[sneak](Sneak.md "wikilink").  
 
 ## Gear
 
 `Wicked Witch is using:`  
-<wielded>`           `[`witch's`` ``claws`](Witch's_Claws "wikilink")  
-<held>`              (Glowing) `[`multifaceted`` ``gem`](Multifaceted_Gem "wikilink")
+<wielded>`           `[`witch's`` ``claws`](Witch's_Claws.md "wikilink")  
+<held>`              (Glowing) `[`multifaceted`` ``gem`](Multifaceted_Gem.md "wikilink")
 
 `Wicked Witch is carrying:`  
 `     Nothing.`
@@ -24,10 +24,10 @@ invis](Detect_Invis "wikilink"), [fly](Fly "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Witch's
-Forest](:Category:_Witch's_Forest "wikilink")
-([Map](Witch's_Forest_Map "wikilink")).  
-Wicked Witch [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Witch's
+Forest](:Category:_Witch's_Forest.md "wikilink")
+([Map](Witch's_Forest_Map.md "wikilink")).  
+Wicked Witch [wanders](Wandering_Mobs.md "wikilink").  
 Wicked Witch is portable.  
 
 [Category: Mobs In Witch's

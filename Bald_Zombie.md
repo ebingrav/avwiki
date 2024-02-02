@@ -2,20 +2,20 @@
 this corpse rose as a zombie under the influence of the red stone.*
 
 **Keywords:** zombie, bald.  
-**[Level](Level "wikilink"):** 16.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[lich](Spellcasting_Mobs "wikilink"),
-[undead](Undead_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 16.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[lich](Spellcasting_Mobs.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A bald zombie is using:`  
-<worn around neck>`  `[`a`` ``holy`` ``symbol`](Holy_Symbol "wikilink")  
-<worn around neck>`  `[`a`` ``shark`` ``tooth`` ``choker`](Shark_Tooth_Choker "wikilink")
+<worn around neck>`  `[`a`` ``holy`` ``symbol`](Holy_Symbol.md "wikilink")  
+<worn around neck>`  `[`a`` ``shark`` ``tooth`` ``choker`](Shark_Tooth_Choker.md "wikilink")
 
 `A bald zombie is carrying:`  
 `     Nothing.`
@@ -24,10 +24,10 @@ invis](Detect_Invis "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qass
-Tomb](:Category:_Qass_Tomb "wikilink")
-([Map](Qass_Tomb_Map "wikilink")).  
-A bald zombie [wanders](Wandering_Mobs "wikilink") about Turtle Tomb.
+**[Area](:Category:_Areas.md "wikilink"):** [Qass
+Tomb](:Category:_Qass_Tomb.md "wikilink")
+([Map](Qass_Tomb_Map.md "wikilink")).  
+A bald zombie [wanders](Wandering_Mobs.md "wikilink") about Turtle Tomb.
 
 A bald zombie is portable.
 

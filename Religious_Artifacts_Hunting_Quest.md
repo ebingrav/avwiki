@@ -1,5 +1,5 @@
-This is one of the quests done in [Rim](:Category:Rim "wikilink"), and
-easier of the two collector-type quests.
+This is one of the quests done in [Rim](:Category:Rim.md "wikilink"),
+and easier of the two collector-type quests.
 
 Goal is to gather religious artifacts that correspond with the four sea
 deities:

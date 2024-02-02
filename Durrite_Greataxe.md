@@ -10,13 +10,13 @@ speckled with tiny reddish brown veins throughout.*
 `Modifies hp by 150 continuous`
 
 **Keyword(s):** greataxe axe durrite.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** wield (double).  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 45 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, magic,
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** wield (double).  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 45 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, magic,
 anti-evil.  
 
 ## Comments
@@ -25,17 +25,17 @@ You will need a strength of 26 to wield this.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Daingean
-Machadae](:Category:_Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Dwarven
+**[Area](:Category:_Areas.md "wikilink"):** [Daingean
+Machadae](:Category:_Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Dwarven
 Emissary](Dwarven_Emissary "wikilink")
 
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-Walking route from [Mserie the stonesmith](Mserie "wikilink"): \[s\] 2e
-\[n\] u \[e\].  
-[Portaling](Portal "wikilink") point suggested: [Mserie the
-stonesmith](Mserie "wikilink").
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+Walking route from [Mserie the stonesmith](Mserie.md "wikilink"): \[s\]
+2e \[n\] u \[e\].  
+[Portaling](Portal.md "wikilink") point suggested: [Mserie the
+stonesmith](Mserie.md "wikilink").
 
 [Category:Hit-Point Gear](Category:Hit-Point_Gear "wikilink")
 [Category:Standard Two-Handed

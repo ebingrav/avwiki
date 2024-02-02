@@ -33,8 +33,8 @@ fail to think of a use for. East on the lower floor is the donation room
 for all players over level 10, go here if you're looking for some spare
 gear. Finally, to the west is the most popular room, the Sanctum
 Infirmary. This room, as the name implies, has the [infirmary
-flag](Infirmary "wikilink"), so players will regen twice as fast. This
-is also the location of the majority of the
+flag](Infirmary.md "wikilink"), so players will regen twice as fast.
+This is also the location of the majority of the
 [Spellbots](Spellbots "wikilink").
 
 ## See also

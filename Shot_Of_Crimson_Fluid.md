@@ -3,9 +3,9 @@ Level 14 spells of: 'shield' 'stone skin' 'energy drain'. Type: Potion
 Level: 0  
 Weight: 5  
 Flags: none  
-Area: [Midgaard](:Category:Midgaard "wikilink")  
+Area: [Midgaard](:Category:Midgaard.md "wikilink")  
 Mob: [Catalyst](Catalyst "wikilink")
-([shopkeeper](:Category:Shopkeepers "wikilink"))  
+([shopkeeper](:Category:Shopkeepers.md "wikilink"))  
 Cost: 800  
 See [Catalyst](Catalyst "wikilink") for more information
 
@@ -13,7 +13,7 @@ A perfect potion for BCI's in eragora. The energy drain can zap a good
 amount of mana, recommend quaffing in a safe room to avoid it.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Potions](Category:_Potions "wikilink") [Category: Lowmort

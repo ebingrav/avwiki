@@ -3,16 +3,16 @@
 **Keywords:** faralia, drow, ??  
 **Level:** 44  
 **Alignment:** unknown good  
-**Flags:** [steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[assassin](Assassin_Mobs "wikilink")  
-**Affects:** [invis](Invis "wikilink"), [hide](Hide "wikilink"),
-[sneak](Sneak "wikilink"), [sanctuary](Sanctuary "wikilink")
+**Flags:** [steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[assassin](Assassin_Mobs.md "wikilink")  
+**Affects:** [invis](Invis.md "wikilink"), [hide](Hide.md "wikilink"),
+[sneak](Sneak.md "wikilink"), [sanctuary](Sanctuary.md "wikilink")
 
 ## Gear
 
 `Faralia is using:`  
-<worn on hands>`     (Invis) `[`killing`` ``gloves`](Killing_Gloves "wikilink")  
+<worn on hands>`     (Invis) `[`killing`` ``gloves`](Killing_Gloves.md "wikilink")  
 <held in offhand>`   a stiletto`  
 <worn about body>`   a charming ward`
 
@@ -28,9 +28,9 @@ her before she stabs.
 ## Directions
 
 **Area:** [Zin's Hall of
-Oddities](:Category:Zin's_Hall_Of_Oddities "wikilink")
-([Map](Zin's_Hall_Of_Oddities_Map "wikilink"))  
-**Room:** A barren chamber ([cursed](Cursed_Rooms "wikilink"))
+Oddities](:Category:Zin's_Hall_Of_Oddities.md "wikilink")
+([Map](Zin's_Hall_Of_Oddities_Map.md "wikilink"))  
+**Room:** A barren chamber ([cursed](Cursed_Rooms.md "wikilink"))
 
 **Walking route from entrance:** u 7e {e} {e} {e} {e}
 

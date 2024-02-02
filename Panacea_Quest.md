@@ -26,12 +26,12 @@ From portal point [Pod Of Manatees](Pod_Of_Manatees "wikilink"):
 `(Hint: look `<answer>` to continue on.)`
 
 -   This is a cursed, no-quit room. You must portal out to
-    [Zikthro](Forgotten_Dragon,_Zikthro "wikilink").
+    [Zikthro](Forgotten_Dragon,_Zikthro.md "wikilink").
 
 <!-- -->
 
--   [Give](Give "wikilink") the journal Zikthro and receive [
-    panacea](Panacea_(potion) "wikilink").
+-   [Give](Give.md "wikilink") the journal Zikthro and receive [
+    panacea](Panacea_(potion).md "wikilink").
 
 `You give a white hardback journal to The Forgotten Dragon, Zikthro.`  
 `Zikthro demands you to read it to him.`  

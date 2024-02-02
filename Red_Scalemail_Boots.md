@@ -1,28 +1,29 @@
 *Some red scalemail boots are on the floor.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4.`  
-`Modifies `[`save`](Saving_Throw "wikilink")` vs magic by -1 continuous.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by 50 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 2 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4.`  
+`Modifies `[`save`](Saving_Throw.md "wikilink")` vs magic by -1 continuous.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by 50 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** boots red scalemail  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [anti-evil](Anti-Evil_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>  
-**[Weight](Object_Weight "wikilink"):** 30 lbs  
-**[Level(s)](Object_Level "wikilink"):** 15  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>  
+**[Weight](Object_Weight.md "wikilink"):** 30 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 15  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Town Of
-Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Sergeant At
+**[Area](:Category:_Areas.md "wikilink"):** [Town Of
+Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Sergeant At
 Arms](Sergeant_At_Arms "wikilink")  
 
 [Category: Gear In Town Of

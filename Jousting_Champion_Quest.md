@@ -1,5 +1,5 @@
 This minimalistic quest concerns locating the wondrous
-[Carnival](:Category:Carnival "wikilink") and the quest giver inside.
+[Carnival](:Category:Carnival.md "wikilink") and the quest giver inside.
 The mob in question is Barker, but not [Carnival
 Barker](Carnival_Barker "wikilink"), which is another barker in the same
 area. Barker can be found near the south-western corner of the Carnival,

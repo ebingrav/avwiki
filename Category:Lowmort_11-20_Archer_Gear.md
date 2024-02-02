@@ -4,7 +4,7 @@
 
 At this level, archers should probably consider using [melee
 weapons](:Category:Lowmort_11-20_Melee_Weapons "wikilink") and [focus on
-their dr](:Category:Lowmort_11-20_Hit_Gear "wikilink"), as one is
+their dr](:Category:Lowmort_11-20_Hit_Gear.md "wikilink"), as one is
 usually soloing at this point, and hand cross bows are pretty weak at
 this point, compared to what is possible with melee weapons. Once you
 have access to [Target Leading](Target_Leading "wikilink") you should

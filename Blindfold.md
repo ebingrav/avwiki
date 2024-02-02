@@ -5,8 +5,8 @@ Slot: Head
 Base: 1  
 Level: 2  
 Mob: [Knife Thrower's Assistant](Knife_Thrower's_Assistant "wikilink")  
-Area: [Circus](:Category:_Circus "wikilink")
-([Map](Circus_Map "wikilink"))  
+Area: [Circus](:Category:_Circus.md "wikilink")
+([Map](Circus_Map.md "wikilink"))  
 
 [Category: Gear In Circus](Category:_Gear_In_Circus "wikilink")
 [Category: Grandfathered Gear](Category:_Grandfathered_Gear "wikilink")

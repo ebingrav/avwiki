@@ -1,24 +1,24 @@
 *A leaf lies here, with runes drawn all over it.*
 
-`Level 15 spells of: '`[`create`` ``food`](Create_Food "wikilink")`' '`[`create`` ``spring`](Create_Spring "wikilink")`'.`
+`Level 15 spells of: '`[`create`` ``food`](Create_Food.md "wikilink")`' '`[`create`` ``spring`](Create_Spring.md "wikilink")`'.`
 
 **Keyword(s):** scrolll leaf  
-**[Level(s)](Object_Level "wikilink"):** 12  
-**[Type](:Category:_Object_Types "wikilink"):**
-[scroll](:Category:_Scrolls "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 12  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[scroll](:Category:_Scrolls.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Midgaard
-Fair](:Category:_Midgaard_Fair "wikilink")
-([Map](Midgaard_Fair_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** A Hidden Room.  
+**[Area](:Category:_Areas.md "wikilink"):** [Midgaard
+Fair](:Category:_Midgaard_Fair.md "wikilink")
+([Map](Midgaard_Fair_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A Hidden Room.  
 Walking directions from [Count Orosca](Count_Orosca "wikilink"): 2n, w,
 s, \[s\].
 

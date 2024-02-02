@@ -1,7 +1,7 @@
-[Rooms](:Category:_Rooms "wikilink") of this
-[type](:Category:_Room_Types "wikilink") are where jailed
-[outlawed](Outlaw_Flag "wikilink")
-[characters](:Category:_Characters "wikilink") are moved after being
+[Rooms](:Category:_Rooms.md "wikilink") of this
+[type](:Category:_Room_Types.md "wikilink") are where jailed
+[outlawed](Outlaw_Flag.md "wikilink")
+[characters](:Category:_Characters.md "wikilink") are moved after being
 sentenced to execution and before being executed.
 
 [Category: Room Types](Category:_Room_Types "wikilink") [Category:

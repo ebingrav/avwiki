@@ -16,7 +16,7 @@ Gray Staff:
 -   \+ Easier gear room
 -   \- Path to Elder in Shunned World is longer
 -   \- Need to have flame of imix from
-    [sceptre](Sceptre_Of_Blazing_Fury "wikilink") run.
+    [sceptre](Sceptre_Of_Blazing_Fury.md "wikilink") run.
 
 Katar:
 

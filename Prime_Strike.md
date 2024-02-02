@@ -1,9 +1,9 @@
 *When engaged in direct combat, a
-[Berserker](:Category:_Berserkers "wikilink") with this Rite will hit
+[Berserker](:Category:_Berserkers.md "wikilink") with this Rite will hit
 before his enemy during regular melee rounds. It is not effective
-against other [players](:Category:_Characters "wikilink"), nor does it
-work for "between round" attacks such as those from
-[spells](:Category:_Spells "wikilink"),[skills](:Category:_Skills "wikilink"),
+against other [players](:Category:_Characters.md "wikilink"), nor does
+it work for "between round" attacks such as those from
+[spells](:Category:_Spells.md "wikilink"),[skills](:Category:_Skills.md "wikilink"),
 or from being unexpectedly attacked.*
 
 Prerequisite(s): none.

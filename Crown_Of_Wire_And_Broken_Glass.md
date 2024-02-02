@@ -5,13 +5,13 @@
 Type: armor  
 Extra flags: glow magic anti-evil  
 Weight: 5  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Plane](:Category:Astral_Plane "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Plane](:Category:Astral_Plane.md "wikilink")  
 Mob: [Lord Gith](Lord_Gith "wikilink")
 
 ------------------------------------------------------------------------
 
-See [Gear In Astral Plane](:Category:Gear_In_Astral_Plane "wikilink")
+See [Gear In Astral Plane](:Category:Gear_In_Astral_Plane.md "wikilink")
 for more information.
 
 [Category: Lord Hit Gear](Category:_Lord_Hit_Gear "wikilink") [Category:

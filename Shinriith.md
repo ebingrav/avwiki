@@ -9,23 +9,23 @@ as he brandishes his wicked looking paired warclaws and advances toward
 you.*
 
 **Keywords:** shinriith, riithi, warrior.  
-**[Level](Level "wikilink"):** 43.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[agggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 43.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[agggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A shinriith is using:`  
-<worn on body>`      `[`a`` ``Riithi`` ``granitecloth`` ``cuirass`](Riithi_Granitecloth_Cuirass "wikilink")  
-<worn on head>`      `[`a`` ``Riithi`` ``granitecloth`` ``helmet`](Riithi_Granitecloth_Helmet "wikilink")  
-<worn on legs>`      `[`riithi`` ``breeches`](Riithi_Breeches "wikilink")  
-<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``granitecloth`` ``boots`](Riithi_Granitecloth_Boots "wikilink")  
-<held in offhand>`   (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw "wikilink")  
-<wielded>`           (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw "wikilink")
+<worn on body>`      `[`a`` ``Riithi`` ``granitecloth`` ``cuirass`](Riithi_Granitecloth_Cuirass.md "wikilink")  
+<worn on head>`      `[`a`` ``Riithi`` ``granitecloth`` ``helmet`](Riithi_Granitecloth_Helmet.md "wikilink")  
+<worn on legs>`      `[`riithi`` ``breeches`](Riithi_Breeches.md "wikilink")  
+<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``granitecloth`` ``boots`](Riithi_Granitecloth_Boots.md "wikilink")  
+<held in offhand>`   (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw.md "wikilink")  
+<wielded>`           (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw.md "wikilink")
 
 `A shinriith is carrying:`  
 `     Nothing.`
@@ -37,10 +37,10 @@ they are wearing.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-A shinriith [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+A shinriith [wanders](Wandering_Mobs.md "wikilink").  
 A shinriith is portable.  
 
 [Category: Mobs In Drow

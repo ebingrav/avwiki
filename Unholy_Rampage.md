@@ -20,7 +20,7 @@
 -   aff ?unholy
 
 This is one of the cleric [ pantheon
-spells](:Category:_Pantheon_Spells "wikilink").  
+spells](:Category:_Pantheon_Spells.md "wikilink").  
 The effect is an increase in melee damage for all group members.  
 There are many parameters, so feel free to add what you find to table
 below.  

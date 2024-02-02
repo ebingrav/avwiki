@@ -1,7 +1,8 @@
 106 sub "stuff" categories? Why? Why are we creating hundreds of empty
 categories? Why do we need to tag "stuff" as far as I'm concerened stuff
 == junk and junk == useless. Why waste time filling in useless
-information? --[Mel](User:Mel "wikilink") 11:50, 13 February 2006 (EST)
+information? --[Mel](User:Mel.md "wikilink") 11:50, 13 February 2006
+(EST)
 
 I can't say that I agree that it's useless junk. I guess I just figured
 that (1) "gear" meant, by definition, things that people wear (lights,
@@ -26,7 +27,7 @@ perhaps overly so) on making and shaping this Wiki's "trunks" and
 awful lot of bare limbs for the moment; I hope that you'll forgive me
 for that. I can't see that it's doing any harm and, well, hopefully,
 it's even helping some. I dunno. Hmmm... --[Dave
-Garber](User:DaveGarber1975 "wikilink") 18:03, 13 February 2006 (EST)
+Garber](User:DaveGarber1975.md "wikilink") 18:03, 13 February 2006 (EST)
 
 If you look gear up in the dictionary being able to wear it or "directly
 use it" doesn't fall into the requirements for classification.
@@ -39,7 +40,7 @@ though. It's going to die because it doesn't have enough leaves to make
 food to keep it alive. Obviously I'm not going to go through and delete
 all of these categories (I'd write a script to do it for me.) but I want
 to come to a consensus about how other regular contributors feel
-first.--[Mel](User:Mel "wikilink") 19:17, 13 February 2006 (EST)
+first.--[Mel](User:Mel.md "wikilink") 19:17, 13 February 2006 (EST)
 
 Ah, yup, quite right. I just checked with "Mr. Webster." He defines gear
 as: (1) (a) clothing; apparel; (b) originally, the clothing and
@@ -54,14 +55,14 @@ added these categories, I'd be quite happy to delete them, as well, if
 you like, so that you can focus on more important things. Or I can wait
 a bit and see what other contributors have to say first, if anything.
 Thanks very much for helping to set me straight! --[Dave
-Garber](User:DaveGarber1975 "wikilink") 20:03, 13 February 2006 (EST)
+Garber](User:DaveGarber1975.md "wikilink") 20:03, 13 February 2006 (EST)
 
 And, by the way, are you serious about "the tree dying"? I think that
 may be carrying that analogy too far but I dunno. Hmmm. Oh, well.
---[Dave Garber](User:DaveGarber1975 "wikilink") 20:42, 13 February 2006
-(EST)
+--[Dave Garber](User:DaveGarber1975.md "wikilink") 20:42, 13 February
+2006 (EST)
 
 Well, I got out my chainsaw, lopped off all of these (useless) branches,
 and grafted their leaves back on elsewhere. You can find my waste in its
-usual spot. Thanks! --[Dave Garber](User:DaveGarber1975 "wikilink")
+usual spot. Thanks! --[Dave Garber](User:DaveGarber1975.md "wikilink")
 00:34, 14 February 2006 (EST)

@@ -1,7 +1,7 @@
-*[Open hand](Open_Hand "wikilink") chance of getting a critical hit.*
+*[Open hand](Open_Hand.md "wikilink") chance of getting a critical hit.*
 
-Prerequisite(s): [Enlightenment](Enlightenment "wikilink"), [Inner
-Balance](Inner_Balance "wikilink").
+Prerequisite(s): [Enlightenment](Enlightenment.md "wikilink"), [Inner
+Balance](Inner_Balance.md "wikilink").
 
 Syntax: none (automatic).
 

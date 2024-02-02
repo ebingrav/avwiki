@@ -5,20 +5,20 @@ stretches out his pale hand and flashes of blueish energy shoot between
 his fingertips. He looks about to disintegrate you where you stand.*
 
 **Keywords:** Chaykin.  
-**[Level](Level "wikilink"):** 80  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"), ??.  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 80  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"), ??.  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Chaykin is using:`  
-`    `<worn on body>`      (Demonic) (Magical) `[`a`` ``nightshade`` ``robe`](Nightshade_Robe "wikilink")  
-`    `<worn on hands>`     (Demonic) (Glowing) `[`razor`` ``sharp`` ``fingerblades`](Razor_Sharp_Fingerblades "wikilink")
+`    `<worn on body>`      (Demonic) (Magical) `[`a`` ``nightshade`` ``robe`](Nightshade_Robe.md "wikilink")  
+`    `<worn on hands>`     (Demonic) (Glowing) `[`razor`` ``sharp`` ``fingerblades`](Razor_Sharp_Fingerblades.md "wikilink")
 
 `You peek at the inventory:`  
-`    (Glowing) `[`the`` ``High`` ``Seal`` ``of`` ``the`` ``monk`` ``order`](High_Seal_Of_The_Monk_Order "wikilink")
+`    (Glowing) `[`the`` ``High`` ``Seal`` ``of`` ``the`` ``monk`` ``order`](High_Seal_Of_The_Monk_Order.md "wikilink")
 
 ## Directions
 

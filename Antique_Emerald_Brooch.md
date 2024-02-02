@@ -1,31 +1,31 @@
 *A priceless antique emerald brooch has been dropped here.*
 
 **Keyword(s):** emerald, antique, brooch.  
-**[Level(s)](Object_Level "wikilink"):** 11-13.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 11-13.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Orosca's
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Orosca's
 Enchanted Wrist Guard
-Quest](Orosca's_Enchanted_Wrist_Guard_Quest "wikilink"). Both shamans
+Quest](Orosca's_Enchanted_Wrist_Guard_Quest.md "wikilink"). Both shamans
 must be killed for the brooch to repop, so please be courteous and kill
 them both.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Broo
-Village](:Category:_Broo_Village "wikilink")
-([Map](Broo_Village_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The diseased Broo
-Shaman](Diseased_Broo_Shaman "wikilink").  
-See [The diseased Broo Shaman](Diseased_Broo_Shaman "wikilink") for more
-information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Broo
+Village](:Category:_Broo_Village.md "wikilink")
+([Map](Broo_Village_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The diseased Broo
+Shaman](Diseased_Broo_Shaman.md "wikilink").  
+See [The diseased Broo Shaman](Diseased_Broo_Shaman.md "wikilink") for
+more information.  
 Both shamans must be killed for the brooch to repop, so please be
 courteous and kill them both.
 

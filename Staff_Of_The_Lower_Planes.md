@@ -8,13 +8,13 @@ only*
 It is a double weapon which does pounding damage.  
 Weight: 18  
 Flags: dark magic nolocate  
-Plane: [Tarterus](:Category:Tarterus "wikilink")  
-Area: [Tarterus Proper](:Category:Tarterus_Proper "wikilink")  
+Plane: [Tarterus](:Category:Tarterus.md "wikilink")  
+Area: [Tarterus Proper](:Category:Tarterus_Proper.md "wikilink")  
 Mob: [Anthraxus](Anthraxus "wikilink")
 
 See [Gear In Tarterus
-Proper](:Category:Gear_In_Tarterus_Proper "wikilink") for information on
-how to get this
+Proper](:Category:Gear_In_Tarterus_Proper.md "wikilink") for information
+on how to get this
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:Gear
 In Tarterus Proper](Category:Gear_In_Tarterus_Proper "wikilink")

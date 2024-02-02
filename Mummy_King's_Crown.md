@@ -6,26 +6,26 @@ but they have since been stolen.*
 `Modifies mana by 10 continuous.`
 
 **Keyword(s):** mummy, kings, crown, gold, circlet.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
-Loads [noremove](NoRemove_Flag "wikilink").
+Loads [noremove](NoRemove_Flag.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Entangled
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Entangled
 Mummy](Entangled_Mummy "wikilink").  
 See [Entangled Mummy](Entangled_Mummy "wikilink") for more
 information.  

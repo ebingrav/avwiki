@@ -6,9 +6,9 @@ quite as big as Blizzard but she's no less dangerous.
 
 Frostbite is using:  
 <worn around neck> \[Pristine \] [an ice
-collar](Ice_Collar "wikilink")  
+collar](Ice_Collar.md "wikilink")  
 <wielded> \[Pristine \] [(Demonic) (Magical) (Glowing) an ice hound's
-tooth](Ice_Hound%27s_Tooth "wikilink")  
+tooth](Ice_Hound%27s_Tooth.md "wikilink")  
 You peek at the inventory:
 
 `    Nothing.`

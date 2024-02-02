@@ -4,22 +4,24 @@ In order to reach the gear portion of this area you'll need to have a
 [Fae Rune For 'Hope'](Fae_Rune_For_'Hope' "wikilink") for each groupie.
 If you have close to enough runes before starting the run, you will be
 able pick up the rest by killing [Young Fae](Young_Fae "wikilink") in
-[Memory Lane](:Category:Memory_Lane "wikilink").
+[Memory Lane](:Category:Memory_Lane.md "wikilink").
 
-From [Astral](:Category:Astral "wikilink") shift you need to follow this
-exact path: 2nusd2wneuse2dnw2sd3endwn2u (nnusdwwneuseddnwssdeeendwnuu)
+From [Astral](:Category:Astral.md "wikilink") shift you need to follow
+this exact path: 2nusd2wneuse2dnw2sd3endwn2u
+(nnusdwwneuseddnwssdeeendwnuu)
 
 If you misstep you cannot get back on the path, so it is important that
 you don't leave groupies or psi weapons behind when moving. If this
 happens to you early in the run you can try recalling and starting over.
 If it happens later you can consider running [Gear In Astral
-Plane](:Category:Gear_In_Astral_Plane "wikilink") or [Memory
-Lane](:Category:Memory_Lane "wikilink") experience instead, or you could
-just go [home](:Category:Thorngate "wikilink") dejected and defeated.
+Plane](:Category:Gear_In_Astral_Plane.md "wikilink") or [Memory
+Lane](:Category:Memory_Lane.md "wikilink") experience instead, or you
+could just go [home](:Category:Thorngate.md "wikilink") dejected and
+defeated.
 
-[Memory Lane](:Category:Memory_Lane "wikilink") can be very swarmy, but
-large portions of the path can clear up all of a sudden. Be prepared to
-move multiple rooms in a row if the opportunity presents itself.
+[Memory Lane](:Category:Memory_Lane.md "wikilink") can be very swarmy,
+but large portions of the path can clear up all of a sudden. Be prepared
+to move multiple rooms in a row if the opportunity presents itself.
 
 Once you reach the last few steps of the path (the ups) keep an eye out
 on scan for the [Dark Queen

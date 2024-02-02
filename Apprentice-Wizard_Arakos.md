@@ -3,20 +3,20 @@ some kind of power. Around him is a bubble of air, another enchantment.
 He looks scared and angry, clutching his staff close.*
 
 **Keywords:** Arakos, wizard, apprentice.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink"), mindbender.  
-**Affects:** [sanctuary](Sanctuary "wikilink"),
-[sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink"), mindbender.  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"),
+[sneak](Sneak.md "wikilink").  
 
 ## Gear
 
 `Apprentice-Wizard Arakos is using:`  
-<worn on legs>`      [Pristine  ] `[`a`` ``pair`` ``of`` ``cut-off`` ``trousers`](Pair_Of_Cutt-Off_Trousers "wikilink")  
-<held in offhand>`   [Pristine  ] (Glowing) `[`a`` ``crimson`` ``spellshard`](Crimson_Spellshard "wikilink")  
-<wielded>`           [Pristine  ] (Glowing) `[`a`` ``crimson`` ``spellshard`](Crimson_Spellshard "wikilink")
+<worn on legs>`      [Pristine  ] `[`a`` ``pair`` ``of`` ``cut-off`` ``trousers`](Pair_Of_Cutt-Off_Trousers.md "wikilink")  
+<held in offhand>`   [Pristine  ] (Glowing) `[`a`` ``crimson`` ``spellshard`](Crimson_Spellshard.md "wikilink")  
+<wielded>`           [Pristine  ] (Glowing) `[`a`` ``crimson`` ``spellshard`](Crimson_Spellshard.md "wikilink")
 
 `You peek at the inventory:`  
 `    [Pristine  ] an iron key`

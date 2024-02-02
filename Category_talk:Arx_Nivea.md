@@ -11,14 +11,15 @@ please email me at <qismat@outland.org>, or send me an in-game personal
 [note](note "wikilink"). I would also value any feedback or suggestions
 you may have.
 
---[Iktinos](User:Iktinos "wikilink") 13:08, 10 November 2012 (EST)
+--[Iktinos](User:Iktinos.md "wikilink") 13:08, 10 November 2012 (EST)
 
 ## Lockers and Lords
 
 The priestess in the river is still there, but she no longer sells
 sigils. However, the translucent magister in the tower of Arx Nivea will
 sell sigils to those that are brought to him by the area's magical
-defences. --[Iktinos](User:Iktinos "wikilink") 22:02, 21 May 2014 (EDT)
+defences. --[Iktinos](User:Iktinos.md "wikilink") 22:02, 21 May 2014
+(EDT)
 
 Number: 210 Board: quest From: Iktinos To: all Date: Mon Apr 28 17:25:08
 2014 Subject: News about Eragora

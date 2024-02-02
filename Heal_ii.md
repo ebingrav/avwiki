@@ -1,15 +1,15 @@
 Syntax: c 'heal ii'  
 Syntax: c 'heal ii' <target>  
 Syntax: c 'mass heal ii'  
-Prerequisite Chart: [heal](Heal "wikilink") -\> heal ii  
-heal ii & [mass heal](Mass_Heal "wikilink") -\> [mass heal
-ii](Mass_Heal_ii "wikilink")
+Prerequisite Chart: [heal](Heal.md "wikilink") -\> heal ii  
+heal ii & [mass heal](Mass_Heal.md "wikilink") -\> [mass heal
+ii](Mass_Heal_ii.md "wikilink")
 
 Heal II and Mass Heal II are Lord Level Clerical spells for combat.
 
 This spell is in class for Lord Clerics, Paladins, Priests and Druids.
 
-Mass Heal II also [refreshes](Refresh "wikilink").
+Mass Heal II also [refreshes](Refresh.md "wikilink").
 
 [Category: Healing Spells](Category:_Healing_Spells "wikilink")
 [Category: Lord Mage Spells](Category:_Lord_Mage_Spells "wikilink")

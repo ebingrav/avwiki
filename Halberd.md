@@ -1,29 +1,29 @@
 *An axe atop a long pole lies here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 13 to 35 (average 24).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by -1 continuous.`  
-`Modifies `[`strength`](Strength "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 13 to 35 (average 24).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by -1 continuous.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** halberd  
-**[Level(s)](Object_Level "wikilink"):** 35  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Weight](Object_Weight "wikilink"):** 12 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 35  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Weight](Object_Weight.md "wikilink"):** 12 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Midgaard
-Fair](:Category:_Midgaard_Fair "wikilink")
-([Map](Midgaard_Fair_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Fair
+**[Area](:Category:_Areas.md "wikilink"):** [Midgaard
+Fair](:Category:_Midgaard_Fair.md "wikilink")
+([Map](Midgaard_Fair_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Fair
 Guardsman](Fair_Guardsman "wikilink")
-([portable](Teleport "wikilink"))  
+([portable](Teleport.md "wikilink"))  
 
 [Category: Gear In Midgaard
 Fair](Category:_Gear_In_Midgaard_Fair "wikilink") [Category: Standard

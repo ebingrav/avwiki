@@ -11,18 +11,19 @@ surface*
 
 **Keywords:** ember, shield  
 **Level:** 50-52  
-**[Type](:Category:Object_Types "wikilink"):** armor  
+**[Type](:Category:Object_Types.md "wikilink"):** armor  
 **Slot:** shield  
 **Quality:** 200hps  
-**[Flags](:Category:Object_Flags "wikilink"):** glow, evil, magic,
+**[Flags](:Category:Object_Flags.md "wikilink"):** glow, evil, magic,
 nolocate, fire-ward
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):**
-[Forge](:Category:Forge "wikilink") ([Map](Forge_Map "wikilink"))  
+**[Area](:Category:Areas.md "wikilink"):**
+[Forge](:Category:Forge.md "wikilink")
+([Map](Forge_Map.md "wikilink"))  
 **Mob:** a [Fire Giant Myrmidon](Fire_Giant_Myrmidon "wikilink")
 
 Portal point: white raven

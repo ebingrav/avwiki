@@ -1,19 +1,19 @@
-*Scry allows you peek into a [room](:Category:_Rooms "wikilink") without
-actually going into it. You can peer in on either
-[mobs](:Category:_Mobs "wikilink") or
-[players](:Category:_Characters "wikilink").*
+*Scry allows you peek into a [room](:Category:_Rooms.md "wikilink")
+without actually going into it. You can peer in on either
+[mobs](:Category:_Mobs.md "wikilink") or
+[players](:Category:_Characters.md "wikilink").*
 
-Prerequisite(s): [Locate Object](Locate_Object "wikilink").
+Prerequisite(s): [Locate Object](Locate_Object.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'scry'
-\<[mob](:Category:_Mobs "wikilink")/[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'scry'
+\<[mob](:Category:_Mobs.md "wikilink")/[character](:Category:_Characters.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is rather
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is rather
 valuable, especially as it allows
-[characters](:Category:_Characters "wikilink") to look into a
-[room](:Category:_Rooms "wikilink") before transporting themselves there
-via [Teleport](Teleport "wikilink") or [Portal](Portal "wikilink") or
-[Nexus](Nexus "wikilink").
+[characters](:Category:_Characters.md "wikilink") to look into a
+[room](:Category:_Rooms.md "wikilink") before transporting themselves
+there via [Teleport](Teleport.md "wikilink") or
+[Portal](Portal.md "wikilink") or [Nexus](Nexus.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

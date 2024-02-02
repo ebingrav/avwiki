@@ -16,7 +16,7 @@ Perform the following:
 -   give sceptre uragaie
 -   receive moonstone
 -   receive insignia ['Sept Tlan'Kle'Sha
-    Ally'](Sept_Tlan'Kle'Sha_Insignia "wikilink")
+    Ally'](Sept_Tlan'Kle'Sha_Insignia.md "wikilink")
 
 *Note*: This is an one-time quest. Once completed it cannot be retried.
 

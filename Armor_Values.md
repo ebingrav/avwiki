@@ -5,9 +5,9 @@
 <caption><strong>Base AC Table</strong></caption>
 <thead>
 <tr class="header">
-<th style="text-align: center;"><p><a href="Object_Level"
+<th style="text-align: center;"><p><a href="Object_Level.md"
 title="wikilink">Level</a></p></th>
-<th style="text-align: center;"><p>Base <a href="Armor_Class"
+<th style="text-align: center;"><p>Base <a href="Armor_Class.md"
 title="wikilink">AC</a></p></th>
 </tr>
 </thead>
@@ -62,54 +62,56 @@ title="wikilink">AC</a></p></th>
 </tbody>
 </table>
 
-[Armor](:Category:_Armor "wikilink")-[type](:Category:_Object_Types "wikilink")
-[objects](:Category:_Objects "wikilink") have four
-[values](:Category:_Object_Values "wikilink").
+[Armor](:Category:_Armor.md "wikilink")-[type](:Category:_Object_Types.md "wikilink")
+[objects](:Category:_Objects.md "wikilink") have four
+[values](:Category:_Object_Values.md "wikilink").
 
--   **Base [Armor Class](Armor_Class "wikilink"):** This value
+-   **Base [Armor Class](Armor_Class.md "wikilink"):** This value
     determines how much this [piece of
-    armor](:Category:_Armor "wikilink") will improve its
-    [wearer](Wear "wikilink")'s [armor class](Armor_Class "wikilink");
-    this amount will be combined with any amount of
-    [AC](Armor_Class "wikilink") change caused by its [affects
-    flags](Object_Affects "wikilink"). This value is a random number
-    based upon each [piece of armor](:Category:_Armor "wikilink")'s
-    [level](Object_Level "wikilink"). A table of selected
-    [armor](:Category:_Armor "wikilink")
-    [levels](Object_Level "wikilink") with their base [armor
-    class](Armor_Class "wikilink") ranges is shown at right.
+    armor](:Category:_Armor.md "wikilink") will improve its
+    [wearer](Wear.md "wikilink")'s [armor
+    class](Armor_Class.md "wikilink"); this amount will be combined with
+    any amount of [AC](Armor_Class.md "wikilink") change caused by its
+    [affects flags](Object_Affects.md "wikilink"). This value is a
+    random number based upon each [piece of
+    armor](:Category:_Armor.md "wikilink")'s
+    [level](Object_Level.md "wikilink"). A table of selected
+    [armor](:Category:_Armor.md "wikilink")
+    [levels](Object_Level.md "wikilink") with their base [armor
+    class](Armor_Class.md "wikilink") ranges is shown at right.
 
 <!-- -->
 
 -   **Shield Charge Type:** This value determines, for
-    [armor](:Category:_Armor "wikilink") worn as shields only, which
+    [armor](:Category:_Armor.md "wikilink") worn as shields only, which
     type of charges, if any, it carries, which may be either Venom,
     Flash, Jolt, Frostbite, or Flametongue (or some other type not found
     on Midgaardia). Few shields have charges by default but they may be
-    given charges using a [Charge Shield](Charge_Shield "wikilink")
-    [spell](:Category:_Spells "wikilink"); charge-type level may not
-    exceed shield [level](Object_Level "wikilink").
+    given charges using a [Charge Shield](Charge_Shield.md "wikilink")
+    [spell](:Category:_Spells.md "wikilink"); charge-type level may not
+    exceed shield [level](Object_Level.md "wikilink").
 
 <!-- -->
 
 -   **Shield Charge Number:** This value determines, for
-    [armor](:Category:_Armor "wikilink") worn as shields only, how many
-    charges, if any, it carries. This value may not exceed twice this
-    shield's [level](Object_Level "wikilink").
+    [armor](:Category:_Armor.md "wikilink") worn as shields only, how
+    many charges, if any, it carries. This value may not exceed twice
+    this shield's [level](Object_Level.md "wikilink").
 
 <!-- -->
 
 -   **Archery Affects:** This value determines, for
-    [armor](:Category:_Armor "wikilink") worn on arms or wrists or hands
-    only, which affect(s) it will have on those who
-    [wear](Wear "wikilink") it while using [melee
-    weapons](:Category:_Melee_Weapons "wikilink"). These affects may
+    [armor](:Category:_Armor.md "wikilink") worn on arms or wrists or
+    hands only, which affect(s) it will have on those who
+    [wear](Wear.md "wikilink") it while using [melee
+    weapons](:Category:_Melee_Weapons.md "wikilink"). These affects may
     include hindering archery in general or improving accuracy, [aimed
-    shots](Aimed_Shot "wikilink"), damage, [fleeing
-    shots](Fleeing_Shot "wikilink"), [held shots](Held_Shot "wikilink"),
-    [longshots](Longshot "wikilink"), critical hits, and/or
-    [scattershots](Scattershot "wikilink").
+    shots](Aimed_Shot.md "wikilink"), damage, [fleeing
+    shots](Fleeing_Shot.md "wikilink"), [held
+    shots](Held_Shot.md "wikilink"),
+    [longshots](Longshot.md "wikilink"), critical hits, and/or
+    [scattershots](Scattershot.md "wikilink").
 
-See also [Armor](:Category:_Armor "wikilink").
+See also [Armor](:Category:_Armor.md "wikilink").
 
 [Category: Object Values](Category:_Object_Values "wikilink")

@@ -2,8 +2,8 @@
 Modifies armor class by -20 continuous. Slot: Arms  
 Weight: 8  
 Flags: nolocate  
-Plane: [Tarterus](:Category:Tarterus "wikilink")  
-Area: [Garden](:Category:Garden "wikilink")  
+Plane: [Tarterus](:Category:Tarterus.md "wikilink")  
+Area: [Garden](:Category:Garden.md "wikilink")  
 Mob: [Gravemaster](Gravemaster "wikilink")  
 
 ------------------------------------------------------------------------
@@ -18,8 +18,8 @@ Fortified - Changes the item ac mod to -25
 
 ------------------------------------------------------------------------
 
-See [Gear In Garden](:Category:Gear_In_Garden "wikilink") for directions
-on how to get this gear
+See [Gear In Garden](:Category:Gear_In_Garden.md "wikilink") for
+directions on how to get this gear
 
 [Category:Lord Tank Gear](Category:Lord_Tank_Gear "wikilink")
 [Category:Gear In Tarterus](Category:Gear_In_Tarterus "wikilink")

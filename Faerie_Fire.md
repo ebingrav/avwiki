@@ -1,16 +1,16 @@
-*This [spell](:Category:_Spells "wikilink") increases (makes worse) the
-[armor class](Armor_Class "wikilink") of its
-[victim](:Category:_Mobs "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") increases (makes worse)
+the [armor class](Armor_Class.md "wikilink") of its
+[victim](:Category:_Mobs.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'faeire fire'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'faeire fire'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 See also [Gear That Applies Faerie
-Fire](:Category:_Gear_That_Applies_Faerie_Fire "wikilink"), [Faerie Fire
-Gear](:Category:Faerie_Fire_Gear "wikilink"), and [Pink
-Aura](Pink_Aura "wikilink").
+Fire](:Category:_Gear_That_Applies_Faerie_Fire.md "wikilink"), [Faerie
+Fire Gear](:Category:Faerie_Fire_Gear.md "wikilink"), and [Pink
+Aura](Pink_Aura.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

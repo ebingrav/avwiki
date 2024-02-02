@@ -1,26 +1,26 @@
 *A pair of dark brown leather boots sit nearby.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 3.`  
-`'`[`sneak`](Sneak "wikilink")`          ' continuous.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by 100 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by 2 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 3.`  
+`'`[`sneak`](Sneak.md "wikilink")`          ' continuous.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by 100 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** boots farstriding mistyblue  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[nolocate](NoLocate_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Level(s)](Object_Level "wikilink"):** 15  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 15  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
 This item is made by using [Manifest](Manifest "wikilink"). The recipe
 to this item is found in the [Darklin
-Hole](:Category:_Darklin_Hole "wikilink").  
+Hole](:Category:_Darklin_Hole.md "wikilink").  
 To find the full recipe, one must locate all the scraps of paper in the
 area. They are:
 
@@ -53,9 +53,9 @@ Having all five pieces reveals (SPOILERS):
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Darklin
-Hole](:Category:_Darklin_Hole "wikilink")
-([Map](Darklin_Hole_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Darklin
+Hole](:Category:_Darklin_Hole.md "wikilink")
+([Map](Darklin_Hole_Map.md "wikilink"))  
 
 [Category: Gear In Darklin
 Hole](Category:_Gear_In_Darklin_Hole "wikilink") [Category: Dex

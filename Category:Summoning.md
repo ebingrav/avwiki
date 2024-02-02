@@ -1,22 +1,22 @@
-*For many Centuries, [Lizard Folk](Lizardmen "wikilink") have told
+*For many Centuries, [Lizard Folk](Lizardmen.md "wikilink") have told
 fireside tales of a great Fellowship of the most Ancient of
-[Dragons](Dragons "wikilink"), whose deeds shaped the very fabric of
+[Dragons](Dragons.md "wikilink"), whose deeds shaped the very fabric of
 History, since the days of Tiamat and Bahamut. They told of Gil-Rillion,
 Queen of the Ocean and Mistress of all Creatures of the impenetrable
 Deep and of Nehemiah the Fair, whose brazen scales glittered like fire.
 They whispered the name of Seraf Winterqueen, who dwelt so far in the
 north that none could reach her dominion alive, and Rauhn, rumored to be
 the hidden power behind the Silver Brigade which many young [Lizard
-Kin](Lizardmen "wikilink") still dream of joining. They spoke of Azlaroc
-Serpentking, lord of all that Slithers, and Verdigris, and the
+Kin](Lizardmen.md "wikilink") still dream of joining. They spoke of
+Azlaroc Serpentking, lord of all that Slithers, and Verdigris, and the
 magnificent Copper Golems crafted in her image. They heard of Kahbyss,
 dark and terrible, master of the [Black Circle
-Assassins](:Category:_Black_Circle_Initiates "wikilink"), and Kastinius
-the Bronze, the Loremaster. They listened to tales of
-[Nigurathus](Nigurathus "wikilink") the Fire Red, likened to molten
+Assassins](:Category:_Black_Circle_Initiates.md "wikilink"), and
+Kastinius the Bronze, the Loremaster. They listened to tales of
+[Nigurathus](Nigurathus.md "wikilink") the Fire Red, likened to molten
 lava, and of Ramahdon, wisest and most Ancient of All. Lately, rumors
-say that several of these [Dragons](Dragons "wikilink") have been seen
-gathering atop Devil's Peak, along with their various underlings.*
+say that several of these [Dragons](Dragons.md "wikilink") have been
+seen gathering atop Devil's Peak, along with their various underlings.*
 
 **Level Range:** 51-51
 
@@ -30,18 +30,18 @@ n, u, n, u, 6n, w, u, n, u, e, u, n, w, s, u, n, u, s, 2u.
 Walking route from [Tysiln San](Tysiln_San "wikilink"): 2s, u, n, u, s,
 2u.
 
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): 3s
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): 3s
 
 Walking route from [Bergozr](Bergozr "wikilink"): w, s
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
 This area connects from [North of
-Ofcol](:Category:_North_Of_Ofcol "wikilink"), leading up from the top of
-Devil's Peak, as well as [Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink").
+Ofcol](:Category:_North_Of_Ofcol.md "wikilink"), leading up from the top
+of Devil's Peak, as well as [Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink").
 
 ## Navigation
 

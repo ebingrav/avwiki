@@ -1,31 +1,32 @@
 *By concentrating his willpower, a
-[psionicist](:Category:_Psionicists "wikilink") acquires the effects of
-[adrenaline pump](Adrenaline_Pump "wikilink"),
-[anticipate](Anticipate "wikilink"),
-[biofeedback](Biofeedback "wikilink"), [calcify
-flesh](Calcify_Flesh "wikilink"), [mental
-barrier](Mental_Barrier "wikilink"), [body
-brace](Body_Brace "wikilink"), [displacement](Displacement "wikilink"),
-and [energy shield](Energy_Shield "wikilink"). The fortitude
-[spell](:Category:_Spells "wikilink") allows the
-[casting](Cast "wikilink") of a group of spells at once. The amount of
-[mana](Mana_Points "wikilink") it costs is balanced by the speed of
-casting a variety of complex spells simultaneously. NOTE: the fortitude
-affect which shows up on your [affects](Affects "wikilink") list is
-merely a placeholder and does not actually modify anything.*
+[psionicist](:Category:_Psionicists.md "wikilink") acquires the effects
+of [adrenaline pump](Adrenaline_Pump.md "wikilink"),
+[anticipate](Anticipate.md "wikilink"),
+[biofeedback](Biofeedback.md "wikilink"), [calcify
+flesh](Calcify_Flesh.md "wikilink"), [mental
+barrier](Mental_Barrier.md "wikilink"), [body
+brace](Body_Brace.md "wikilink"),
+[displacement](Displacement.md "wikilink"), and [energy
+shield](Energy_Shield.md "wikilink"). The fortitude
+[spell](:Category:_Spells.md "wikilink") allows the
+[casting](Cast.md "wikilink") of a group of spells at once. The amount
+of [mana](Mana_Points.md "wikilink") it costs is balanced by the speed
+of casting a variety of complex spells simultaneously. NOTE: the
+fortitude affect which shows up on your [affects](Affects.md "wikilink")
+list is merely a placeholder and does not actually modify anything.*
 
-Prerequisite(s): [Displacement](Displacement "wikilink"), [Energy
-Shield](Energy_Shield "wikilink").
+Prerequisite(s): [Displacement](Displacement.md "wikilink"), [Energy
+Shield](Energy_Shield.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'fortitudes'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'fortitudes'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-[Characters](:Category:_Characters "wikilink") will find this
-[psionicist](:Category:_Psionicists "wikilink") "macro"
-[spell](:Category:_Spells "wikilink"), like both [Foci](Foci "wikilink")
-and either [Aegis](Aegis "wikilink") or [Awen](Awen "wikilink"), highly
-valuable for
-[buffing](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
+[Characters](:Category:_Characters.md "wikilink") will find this
+[psionicist](:Category:_Psionicists.md "wikilink") "macro"
+[spell](:Category:_Spells.md "wikilink"), like both
+[Foci](Foci.md "wikilink") and either [Aegis](Aegis.md "wikilink") or
+[Awen](Awen.md "wikilink"), highly valuable for
+[buffing](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
 either themselves or others.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

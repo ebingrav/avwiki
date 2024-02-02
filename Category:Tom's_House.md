@@ -1,4 +1,5 @@
-*This area is part of the [Houses](:Category:_Houses "wikilink") area.*
+*This area is part of the [Houses](:Category:_Houses.md "wikilink")
+area.*
 
 **Level Range:** 10-11
 
@@ -6,14 +7,14 @@
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 9w, 3s, e, \[n\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 9w, 3s, e, \[n\].
 
-[Portaling](Portal "wikilink") point(s) suggested: [old
-soldier](Tom "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [old
+soldier](Tom.md "wikilink").
 
 ## Connections
 
-This area is connected to [Midgaard](:Category:_Midgaard "wikilink").
+This area is connected to [Midgaard](:Category:_Midgaard.md "wikilink").
 
 ## Navigation
 

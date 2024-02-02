@@ -7,9 +7,9 @@ defense against hunters, animal and human alike.*
 **Keywords:** white, whale, tusked.  
 **Scan Description:** Two tusks poke out of the water in front of a
 large white whale.  
-**[Level](Level "wikilink"):** 79  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 79  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** ?  
 
 ## Gear
@@ -24,9 +24,9 @@ A white tusked whale is using:
 
 Wanders.
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** various
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** various
+([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Rim](Category:_Mobs_In_Rim "wikilink")

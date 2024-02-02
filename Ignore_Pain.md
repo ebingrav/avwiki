@@ -13,8 +13,8 @@ ticks before the skill will function properly again.*
 *Ignore Pain will not function if the Berserker has better than -750 AC
 at hero, or -1250 AC at Lord.*
 
-*This is a [Rite](Rites "wikilink"), not a
-[skill](:Category:_Skills "wikilink").*
+*This is a [Rite](Rites.md "wikilink"), not a
+[skill](:Category:_Skills.md "wikilink").*
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Berserker

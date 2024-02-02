@@ -1,6 +1,6 @@
 This insignia is given by the [Far Hunter](Far_Hunter "wikilink") in the
-[Rim](:Category:Rim "wikilink") after you prove your hunting prowess by
-murdering the four sea demigods that dwell there.
+[Rim](:Category:Rim.md "wikilink") after you prove your hunting prowess
+by murdering the four sea demigods that dwell there.
 
 It is a cosmetic insignia that slightly alters the results of the
 [Religious Artifacts Hunting

@@ -1,25 +1,25 @@
-[Poison](:Category:_Poisons "wikilink")-[type](:Category:_Object_Types "wikilink")
-[objects](:Category:_Objects "wikilink") have two
-[values](:Category:_Object_Values "wikilink").
+[Poison](:Category:_Poisons.md "wikilink")-[type](:Category:_Object_Types.md "wikilink")
+[objects](:Category:_Objects.md "wikilink") have two
+[values](:Category:_Object_Values.md "wikilink").
 
--   **[Poison Type](:Category:_Poisons "wikilink"):** This value
-    determines this [poison](:Category:_Poisons "wikilink")'s
-    [type](:Category:_Poisons "wikilink"), which may be either
-    [poison](:Category:_Poison "wikilink"),
-    [toxin](:Category:_Toxin "wikilink"),
-    [biotoxin](:Category:_Biotoxin "wikilink"),
-    [virus](:Category:_Virus "wikilink"),
-    [venom](:Category:_Venom "wikilink"), or
-    [plague](:Category:_Plague "wikilink") (or some other
-    [type](:Category:_Poisons "wikilink") not found in Midgaardia).
+-   **[Poison Type](:Category:_Poisons.md "wikilink"):** This value
+    determines this [poison](:Category:_Poisons.md "wikilink")'s
+    [type](:Category:_Poisons.md "wikilink"), which may be either
+    [poison](:Category:_Poison.md "wikilink"),
+    [toxin](:Category:_Toxin.md "wikilink"),
+    [biotoxin](:Category:_Biotoxin.md "wikilink"),
+    [virus](:Category:_Virus.md "wikilink"),
+    [venom](:Category:_Venom.md "wikilink"), or
+    [plague](:Category:_Plague.md "wikilink") (or some other
+    [type](:Category:_Poisons.md "wikilink") not found in Midgaardia).
     Follow these links for more information about each [poison
-    type](:Category:_Poisons "wikilink").
+    type](:Category:_Poisons.md "wikilink").
 
 <!-- -->
 
 -   **Doses:** This value determines this
-    [poison](:Category:_Poisons "wikilink")'s number of doses.
+    [poison](:Category:_Poisons.md "wikilink")'s number of doses.
 
-See also [Poisons](:Category:_Poisons "wikilink").
+See also [Poisons](:Category:_Poisons.md "wikilink").
 
 [Category: Object Values](Category:_Object_Values "wikilink")

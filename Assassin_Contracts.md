@@ -1,4 +1,4 @@
-*Once [ assassins](Assassin "wikilink") reach a certain level of
+*Once [ assassins](Assassin.md "wikilink") reach a certain level of
 experience they often begin taking on specific contracts. These "hits"
 serve to further boost the reputation of successful assassins.*
 
@@ -26,8 +26,8 @@ Sometimes the target is in a place the assassin cannot get to herself.
 For example, one was at the top of the Ice Tree section in [Transfigured
 Forest](Transfigured_Forest "wikilink"), which requires bashdoor to
 navigate. The target can also be in an
-[EHA](:Category:Elite_Hero_Areas "wikilink") or even a [Lord
-Area](:Category:Lord_Planes "wikilink").
+[EHA](:Category:Elite_Hero_Areas.md "wikilink") or even a [Lord
+Area](:Category:Lord_Planes.md "wikilink").
 
 The target must give more than 0 xp to count.
 

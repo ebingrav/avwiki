@@ -1,24 +1,24 @@
 *Blast Bolt is a more advanced version of
-[Dart](Dart_(spell) "wikilink"). It works exactly the same, except that
-the caster excites the [item](:Category:_Objects "wikilink")'s kinetic
-energy while in motion, causing it to explode on impact. Those planning
-on [casting](Cast "wikilink") Blast Bolt should keep all valuable
-[items](:Category:_Objects "wikilink") in
-[containers](:Category:_Containers "wikilink"), since this
-[spell](:Category:_Spells "wikilink"), like
-[Dart](Dart_(spell) "wikilink"), cannot use
-[containers](:Category:_Containers "wikilink"). There are no
-reimbursements for [items](:Category:_Objects "wikilink") that you lose
-with this [spell](:Category:_Spells "wikilink")... This
-[spell](:Category:_Spells "wikilink") is a prerequisite for
-[Detonate](Detonate "wikilink") since it is easier to excite the kinetic
-energy of moving [objects](:Category:_Objects "wikilink") than
-stationary ones.*
+[Dart](Dart_(spell).md "wikilink"). It works exactly the same, except
+that the caster excites the [item](:Category:_Objects.md "wikilink")'s
+kinetic energy while in motion, causing it to explode on impact. Those
+planning on [casting](Cast.md "wikilink") Blast Bolt should keep all
+valuable [items](:Category:_Objects.md "wikilink") in
+[containers](:Category:_Containers.md "wikilink"), since this
+[spell](:Category:_Spells.md "wikilink"), like
+[Dart](Dart_(spell).md "wikilink"), cannot use
+[containers](:Category:_Containers.md "wikilink"). There are no
+reimbursements for [items](:Category:_Objects.md "wikilink") that you
+lose with this [spell](:Category:_Spells.md "wikilink")... This
+[spell](:Category:_Spells.md "wikilink") is a prerequisite for
+[Detonate](Detonate.md "wikilink") since it is easier to excite the
+kinetic energy of moving [objects](:Category:_Objects.md "wikilink")
+than stationary ones.*
 
-Prerequisite(s): [dart](Dart_(spell) "wikilink").
+Prerequisite(s): [dart](Dart_(spell).md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'blast bolt'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'blast bolt'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

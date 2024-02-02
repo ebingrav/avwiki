@@ -18,9 +18,9 @@ Information on the Quest to become a Frost giant can be found on the
 page for Water Realm in the Lord Areas.
 
 Frost Giants have three main racial commands that set them apart. They
-are [Frost Aura](Racial_Frostaura "wikilink"), [Frost
-strike](Racial_Frost_Strike "wikilink"), and
-[Surefoot](Racial_Surefoot "wikilink").
+are [Frost Aura](Racial_Frostaura.md "wikilink"), [Frost
+strike](Racial_Frost_Strike.md "wikilink"), and
+[Surefoot](Racial_Surefoot.md "wikilink").
 
 [Category: Races](Category:_Races "wikilink") [Category: Quest
 Races](Category:_Quest_Races "wikilink") [Category: Greater

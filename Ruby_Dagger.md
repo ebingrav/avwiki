@@ -9,7 +9,7 @@ It is a one handed weapon which does piercing damage.
 Weight: 3  
 
 See [Gear In Citadel
-Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for how to do
+Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for how to do
 this run.
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:Gear

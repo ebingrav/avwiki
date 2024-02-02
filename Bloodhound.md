@@ -1,9 +1,9 @@
-*The bloodhound [skill](:Category:_Skills_And_Spells "wikilink") makes
-[tracking](Track "wikilink"), [seeking](Seek "wikilink") or using [blood
-scent](Blood_Scent "wikilink") or [blood trail](Blood_Trail "wikilink")
-much faster and more efficient.*
+*The bloodhound [skill](:Category:_Skills_And_Spells.md "wikilink")
+makes [tracking](Track.md "wikilink"), [seeking](Seek.md "wikilink") or
+using [blood scent](Blood_Scent.md "wikilink") or [blood
+trail](Blood_Trail.md "wikilink") much faster and more efficient.*
 
-Prerequisite(s): [Track](Track "wikilink").
+Prerequisite(s): [Track](Track.md "wikilink").
 
 Syntax: none (automatic).
 

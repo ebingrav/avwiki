@@ -1,25 +1,25 @@
 *With the knowledge gained from his [Assassin's
-Sight](Assassin_Sight "wikilink"), a
-[rogue](:Category:_Rogues "wikilink") using this
-[skill](:Category:_Skills "wikilink") attempts to kill his opponent with
-one deadly, well-placed strike. Would-be assassins should be aware,
+Sight](Assassin_Sight.md "wikilink"), a
+[rogue](:Category:_Rogues.md "wikilink") using this
+[skill](:Category:_Skills.md "wikilink") attempts to kill his opponent
+with one deadly, well-placed strike. Would-be assassins should be aware,
 however, that merely slitting the throat or piercing the heart of many
 higher level creatures is not enough to kill them. The murder
-[skill](:Category:_Skills "wikilink") is NOT an "instant death" attack.
-It does considerable damage, enough to fell most smaller foes, but only
-enough to grievously wound higher level prey. Murder requires a piercing
-weapon, and can only be used to initiate combat. However, since it is
-less dependant on the element of surprise than
-[backstab](Backstab "wikilink"), it can be used on less healthy foes.
-This [skill](:Category:_Skills "wikilink") is less effective against
-[monsters](:Category:_Mobs "wikilink") with no real anatomy (like
+[skill](:Category:_Skills.md "wikilink") is NOT an "instant death"
+attack. It does considerable damage, enough to fell most smaller foes,
+but only enough to grievously wound higher level prey. Murder requires a
+piercing weapon, and can only be used to initiate combat. However, since
+it is less dependant on the element of surprise than
+[backstab](Backstab.md "wikilink"), it can be used on less healthy foes.
+This [skill](:Category:_Skills.md "wikilink") is less effective against
+[monsters](:Category:_Mobs.md "wikilink") with no real anatomy (like
 elementals) and completely useless against the
-[undead](Undead_Mobs "wikilink").*
+[undead](Undead_Mobs.md "wikilink").*
 
-Prerequisite(s): [Assassin Sight](Assassin_Sight "wikilink"), [Rogue
-Lore](Rogue_Lore "wikilink").
+Prerequisite(s): [Assassin Sight](Assassin_Sight.md "wikilink"), [Rogue
+Lore](Rogue_Lore.md "wikilink").
 
-Syntax: murder \<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: murder \<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Assassin

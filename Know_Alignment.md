@@ -1,13 +1,13 @@
-*This [spell](:Category:_Spells "wikilink") reveals the
-[alignment](Alignment "wikilink") of the target
-[character](:Category:_Characters "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") reveals the
+[alignment](Alignment.md "wikilink") of the target
+[character](:Category:_Characters.md "wikilink").*
 
-Prerequisite(s): [Detect Alignment](Detect_Alignment "wikilink").
+Prerequisite(s): [Detect Alignment](Detect_Alignment.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'know alignment'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'know alignment'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

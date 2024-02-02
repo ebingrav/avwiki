@@ -2,13 +2,13 @@
 simple weapons.*
 
 **Keywords:** creature, fiery, balrog.  
-**[Level](Level "wikilink"):** 71.  
+**[Level](Level.md "wikilink"):** 71.  
 **Scan Description:** A huge creature smokes, steams, and snarls.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -24,12 +24,12 @@ This mob is armed with a flaming breath.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morte
-Vallta](:Category:_Morte_Vallta "wikilink")
-([Map](Morte_Vallta_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Morte
+Vallta](:Category:_Morte_Vallta.md "wikilink")
+([Map](Morte_Vallta_Map.md "wikilink")).  
 A fiery Balrog wanders.  
-[Portaling](Portal "wikilink") point suggested: [gia
-vul](Giant_Vulture "wikilink").  
+[Portaling](Portal.md "wikilink") point suggested: [gia
+vul](Giant_Vulture.md "wikilink").  
 
 [Category: Mobs In Morte
 Vallta](Category:_Mobs_In_Morte_Vallta "wikilink")

@@ -16,11 +16,11 @@ Modifies save vs spell by -10 continuous.
 **Keywords**: book prophecy  
 **Slot**: held  
 **Flags**: glow nolocate  
-**Plane**: [Nowhere](:Category:Nowhere "wikilink")  
-**Area**: [Shattered Mirror](:Category:Shattered_Mirror "wikilink")  
+**Plane**: [Nowhere](:Category:Nowhere.md "wikilink")  
+**Area**: [Shattered Mirror](:Category:Shattered_Mirror.md "wikilink")  
 **Mob**: [Francis McBane](Francis_McBane "wikilink")  
 See [Gear In Shattered
-Mirror](:Category:Gear_In_Shattered_Mirror "wikilink") for more
+Mirror](:Category:Gear_In_Shattered_Mirror.md "wikilink") for more
 information.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")

@@ -10,12 +10,12 @@ the spheres of light that slowly drift along.
 **Keywords:** Naam. ???.  
 **Scan Description:** (Hide) (White Aura) Something moves in the water,
 made of water itself.  
-**[Level](Level "wikilink"):** 90  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"),
-[hide](Hide_Flag "wikilink")  
+**[Level](Level.md "wikilink"):** 90  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"),
+[hide](Hide_Flag.md "wikilink")  
 Skin corpse for a [Minor Eye Of
 Naambres'Shoo](Minor_Eye_Of_Naambres'Shoo "wikilink")
 
@@ -36,12 +36,12 @@ Naambres'Shoo](Minor_Eye_Of_Naambres'Shoo "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Isle of
-NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho "wikilink")
-([Map](Isle_Of_NaamBres'Shho_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Inside a large blue crystal
-sphere ([cursed](Cursed_Rooms "wikilink"),
-[water](Water_Terrain "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Isle of
+NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho.md "wikilink")
+([Map](Isle_Of_NaamBres'Shho_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Inside a large blue crystal
+sphere ([cursed](Cursed_Rooms.md "wikilink"),
+[water](Water_Terrain.md "wikilink")).  
 Naambres'Shoo is beneath a locked door one down from [Shiaana
 NaamTer'Sa](Shiaana_NaamTer'Sa "wikilink"). The key is a bright blue
 crystal disk.

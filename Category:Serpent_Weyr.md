@@ -1,11 +1,11 @@
 *In the vast mountain range north of the
-[Wildwood](:Category:_Wildwood "wikilink"), there stands an ominous
+[Wildwood](:Category:_Wildwood.md "wikilink"), there stands an ominous
 tower. The outside has been reported to have actual scales covering it,
 and the top of the structure is designed like the head of a serpent.
 Within the halls of this weyr are a clan of
-[aggressive](Aggressive_Mobs "wikilink") serpent demon worshippers. It
-is said that not only do they have a clan of hill
-[giants](Giants "wikilink") under their thrall, but they have several
+[aggressive](Aggressive_Mobs.md "wikilink") serpent demon worshippers.
+It is said that not only do they have a clan of hill
+[giants](Giants.md "wikilink") under their thrall, but they have several
 types of reptilian creatures in their midst.*
 
 **Level Range:** 51-51
@@ -14,18 +14,18 @@ types of reptilian creatures in their midst.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e, n,
-2e, n, e, 2n, e, 2s, d, w, 5n, 2w, 5n, e, 3n, w, 5n, 2w, u.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e,
+n, 2e, n, e, 2n, e, 2s, d, w, 5n, 2w, 5n, e, 3n, w, 5n, 2w, u.
 
-[Portaling](Portal "wikilink") point(s) suggested: [sleeping serpent
-clan warrior](Serpent_Clan_Warrior_(sleeping) "wikilink") (or just
-[sleep serp](Serpent_Clan_Warrior_(sleeping) "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested: [sleeping serpent
+clan warrior](Serpent_Clan_Warrior_(sleeping).md "wikilink") (or just
+[sleep serp](Serpent_Clan_Warrior_(sleeping).md "wikilink")).
 
 ## Connections
 
--   [Battleground](:Category:Battleground "wikilink")
-    ([map](Battleground_Map "wikilink"))
+-   [Battleground](:Category:Battleground.md "wikilink")
+    ([map](Battleground_Map.md "wikilink"))
 
 ## Navigation
 
@@ -39,7 +39,7 @@ The area has several logical parts:
     the war room (3 aggie mobs),
 -   Serp. Weyr sorcery floor - a solitary sorcerer and his pet demon,
 -   Serp. Weyr noble floor - three aggressive mobs/bosses, the king has
-    the [grand serpent hood](Grand_Serpent_Hood "wikilink"),
+    the [grand serpent hood](Grand_Serpent_Hood.md "wikilink"),
 -   Serp. Weyr top floor - three dragons (each breathes different
     spittle) in pens and a rider.
 
@@ -49,7 +49,7 @@ This is a rather smallish area with generally small mobs that are
 appropriate for lowhero casters to solo, or small (also lowhero) brutish
 duos to run through. The experience is low-to-average, even when
 soloing, and the gear is lackluster nowadays, save for the [grand
-serpent hood](Grand_Serpent_Hood "wikilink") on King Ka'plar, a fine
+serpent hood](Grand_Serpent_Hood.md "wikilink") on King Ka'plar, a fine
 hero mana head-piece.
 
 To enter the Serpent Weyr proper you will need a key, which can usually

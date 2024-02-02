@@ -5,21 +5,21 @@
 `Modifies hit roll by 14 continuous`
 
 **Keyword(s):** bone-crafted shortbow  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):** [short
-bow](:Category:Short_Bows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 8 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [short
+bow](:Category:Short_Bows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Mermaid
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Mermaid
 Huntress](Mermaid_Huntress "wikilink"), [Idle
 Mermaid](Idle_Mermaid "wikilink").  
 

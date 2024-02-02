@@ -11,8 +11,8 @@ white for percent hitpoints above 75%, yellow 50%, pink 25%, red 0%.
 ## Screen Shot
 
 This script being used in Mac OS X.  
-<img src="GroupStat.png" title="GroupStat.png" width="600"
-alt="GroupStat.png" />  
+<img src="GroupStat.png.md" title="GroupStat.png.md" width="600"
+alt="GroupStat.png.md" />  
   
   
   

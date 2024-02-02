@@ -1,7 +1,7 @@
 *Demonfire is a cute little demonic spell that clings to a body like sap
 from tree. While it seemingly is harmless, it actually **magnifies the
-[damage](Damage "wikilink") of attacks**. Demons are nasty creatures and
-only they would have come up with such a diabolical spell for
+[damage](Damage.md "wikilink") of attacks**. Demons are nasty creatures
+and only they would have come up with such a diabolical spell for
 themselves.*
 
 *On unsuspecting victims of a demon's wrath, demonfire is a common sign

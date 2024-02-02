@@ -1,28 +1,28 @@
-*A brace of piercing [bullets](:Category:_Bullets "wikilink") are lying
-on the ground.*
+*A brace of piercing [bullets](:Category:_Bullets.md "wikilink") are
+lying on the ground.*
 
 **Keyword(s):** brace, steel, bullets.  
-**[Level(s)](Object_Level "wikilink"):** 53.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ammunition](:Category:_Ammunition "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 2hps.  
-**[Weight](Object_Weight "wikilink"):** 1lb per 20.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 53.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ammunition](:Category:_Ammunition.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 2hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1lb per 20.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ammunition](:Category:_Ammunition "wikilink") is used with
-[guns](:Category:_Guns "wikilink").
+This [ammunition](:Category:_Ammunition.md "wikilink") is used with
+[guns](:Category:_Guns.md "wikilink").
 
 ## Directions
 
-` `**[`Level`](Object_Level "wikilink")`:`` `[`Area`](:Category:_Areas "wikilink")`:`` `[`Map`](:Category:_Maps "wikilink")`:`` `[`Mob`](:Category:_Mobs "wikilink")`/`[`Quest`](:Category:_Ticket_Quests "wikilink")`/`[`Room`](:Category:_Rooms "wikilink")`:`**  
-` 53-53     `[`Alpha`` ``Thule`](:Category:_Alpha_Thule "wikilink")`                   `[`map`](Alpha_Thule_Map "wikilink")`       `[`Celestial`](Celestial "wikilink")  
-` 53-53     `[`Hamlet`` ``Of`` ``Kreigstadt`](:Category:_Hamlet_Of_Kreigstadt "wikilink")`          `[`map`](Hamlet_Of_Kreigstadt_Map "wikilink")`       `[`village`` ``bowmaster`](Village_Bowmaster "wikilink")
+` `**[`Level`](Object_Level.md "wikilink")`:`` `[`Area`](:Category:_Areas.md "wikilink")`:`` `[`Map`](:Category:_Maps.md "wikilink")`:`` `[`Mob`](:Category:_Mobs.md "wikilink")`/`[`Quest`](:Category:_Ticket_Quests.md "wikilink")`/`[`Room`](:Category:_Rooms.md "wikilink")`:`**  
+` 53-53     `[`Alpha`` ``Thule`](:Category:_Alpha_Thule.md "wikilink")`                   `[`map`](Alpha_Thule_Map.md "wikilink")`       `[`Celestial`](Celestial.md "wikilink")  
+` 53-53     `[`Hamlet`` ``Of`` ``Kreigstadt`](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")`          `[`map`](Hamlet_Of_Kreigstadt_Map.md "wikilink")`       `[`village`` ``bowmaster`](Village_Bowmaster.md "wikilink")
 
 See individual
-[mob](:Category:_Mobs "wikilink")/[quest](:Category:_Ticket_Quests "wikilink")
+[mob](:Category:_Mobs.md "wikilink")/[quest](:Category:_Ticket_Quests.md "wikilink")
 pages linked above for more information.  
 
 [Category: Gear In Alpha

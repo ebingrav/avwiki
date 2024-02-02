@@ -1,25 +1,26 @@
-*Using this [spell](:Category:_Spells "wikilink"), a
-[Wizard](:Category:_Wizards "wikilink") could inscribe upon
-[weapons](:Category:_Weapons "wikilink") mystic runes, creating various
-effects. Unfortunately, the process is quite unpredictable, and every
-[item](:Category:_Objects "wikilink") accepts runes differently. The
-[spell](:Category:_Spells "wikilink") is difficult to master. Those
-[Wizards](:Category:_Wizards "wikilink") with less than 21
-[wisdom](Wisdom "wikilink") will be unable to [cast](Cast "wikilink").
-The delve argument can offer some insight into which runes do what on
-any given [item](:Category:_Objects "wikilink"), but can sometimes harm
-the [item](:Category:_Objects "wikilink"). Runes cannot be removed once
-inscribed. Valid runes for [weapons](:Category:_Weapons "wikilink") are:
-ka, yal, vi, rin, boh, chy, era, to, nol, zor.*
+*Using this [spell](:Category:_Spells.md "wikilink"), a
+[Wizard](:Category:_Wizards.md "wikilink") could inscribe upon
+[weapons](:Category:_Weapons.md "wikilink") mystic runes, creating
+various effects. Unfortunately, the process is quite unpredictable, and
+every [item](:Category:_Objects.md "wikilink") accepts runes
+differently. The [spell](:Category:_Spells.md "wikilink") is difficult
+to master. Those [Wizards](:Category:_Wizards.md "wikilink") with less
+than 21 [wisdom](Wisdom.md "wikilink") will be unable to
+[cast](Cast.md "wikilink"). The delve argument can offer some insight
+into which runes do what on any given
+[item](:Category:_Objects.md "wikilink"), but can sometimes harm the
+[item](:Category:_Objects.md "wikilink"). Runes cannot be removed once
+inscribed. Valid runes for [weapons](:Category:_Weapons.md "wikilink")
+are: ka, yal, vi, rin, boh, chy, era, to, nol, zor.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'rune'
-\<[object](:Category:_Objects "wikilink")\> delve.  
-Syntax: [cast](Cast "wikilink") 'rune'
-\<[object](:Category:_Objects "wikilink")\> <rune>.  
+Syntax: [cast](Cast.md "wikilink") 'rune'
+\<[object](:Category:_Objects.md "wikilink")\> delve.  
+Syntax: [cast](Cast.md "wikilink") 'rune'
+\<[object](:Category:_Objects.md "wikilink")\> <rune>.  
 Rune is a spell which can only be learned by
-[Wizards](:Category:Wizards "wikilink") who read the [Rune
+[Wizards](:Category:Wizards.md "wikilink") who read the [Rune
 Spellbook](Rune_Spellbook "wikilink").
 
 It cannot be cast on a weapon that has been sharpened, poisoned, or has

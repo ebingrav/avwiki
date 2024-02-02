@@ -9,11 +9,11 @@ wickedness and sloth from every world, as well as any other outsiders.*
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Firerealm](:Category:Firerealm "wikilink")
+[Firerealm](:Category:Firerealm.md "wikilink")
 
 ## Connections
 
-[Cinderheim](:Category:Cinderheim "wikilink") is located 2n u from
+[Cinderheim](:Category:Cinderheim.md "wikilink") is located 2n u from
 shift.
 
 ## Navigation

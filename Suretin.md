@@ -3,12 +3,12 @@ your respect. He is here healing people in the name of Anthar, the god
 of the Antharians.*
 
 **Keywords:** Suretin.  
-**[Level](Level "wikilink"):** 51+.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[healer](:Category:_Healers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 51+.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[healer](:Category:_Healers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -22,13 +22,13 @@ of the Antharians.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Temple of Anthar (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d, 2n. (note:
-crosses [water terrain](Water_Terrain "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Temple of Anthar
+(portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d, 2n.
+(note: crosses [water terrain](Water_Terrain.md "wikilink"))  
 Suretin is portable.  
 
 [Category: Mobs In Antharia](Category:_Mobs_In_Antharia "wikilink")

@@ -1,15 +1,15 @@
-*A large, beefy [troll](Trolls "wikilink"), this
-[executioner](Executioner_Mobs "wikilink") was hired to keep justice in
-[the city](:Category:_Mervue "wikilink"), and also to keep the
-dissenters against [the Lord](Lord_Audis "wikilink") at bay. A steely
+*A large, beefy [troll](Trolls.md "wikilink"), this
+[executioner](Executioner_Mobs.md "wikilink") was hired to keep justice
+in [the city](:Category:_Mervue.md "wikilink"), and also to keep the
+dissenters against [the Lord](Lord_Audis.md "wikilink") at bay. A steely
 glint in his eyes keeps most prisoners frozen.*
 
 **Keywords:** executioner, man, troll.  
-**[Level](Level "wikilink"):** way over 51.  
-**[Alignment](Alignment "wikilink"):** (?).  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[executioner](Executioner_Mobs "wikilink"), (?).  
-**Affects:** [sanctuary](Sanctuary "wikilink"), (?).  
+**[Level](Level.md "wikilink"):** way over 51.  
+**[Alignment](Alignment.md "wikilink"):** (?).  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[executioner](Executioner_Mobs.md "wikilink"), (?).  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), (?).  
 
 ## Gear
 
@@ -23,13 +23,14 @@ glint in his eyes keeps most prisoners frozen.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Mervue](:Category:_Mervue "wikilink") ([Map](Mervue_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Executioner's block, Mervue
-([anti-magic](Anti-Magic_Rooms "wikilink"),
-[cursed](Cursed_Rooms "wikilink"), [executioner's
-block](Executioner's_Block_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 27s.  
-Walking route from [Ent Banker](Banker "wikilink"): 2n.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Mervue](:Category:_Mervue.md "wikilink")
+([Map](Mervue_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Executioner's block, Mervue
+([anti-magic](Anti-Magic_Rooms.md "wikilink"),
+[cursed](Cursed_Rooms.md "wikilink"), [executioner's
+block](Executioner's_Block_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 27s.  
+Walking route from [Ent Banker](Banker.md "wikilink"): 2n.  
 
 [Category: Mobs In Mervue](Category:_Mobs_In_Mervue "wikilink")

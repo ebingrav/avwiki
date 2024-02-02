@@ -11,8 +11,8 @@ Each spike is roughly 30cm long. This weapon is quite imposing!*
 **Levels:** Levels 50-52  
 **Weight:** 17 lbs  
 **Flags:** none  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Erashnak](Erashnak "wikilink")  
 
 ## Comments

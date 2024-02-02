@@ -2,27 +2,28 @@
 you can't hear it, since this is a family MUD.*
 
 **Keywords:** grumpy, gnoll.  
-**[Level](Level "wikilink"):** 16.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink"), [sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 16.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sneak](Sneak.md "wikilink").  
 
 ## Gear
 
 `A dirty gnoll is using:`  
-<wielded>`           `[`a`` ``big`` ``crude`` ``hammer`](Big_Crude_Hammer "wikilink")
+<wielded>`           `[`a`` ``big`` ``crude`` ``hammer`](Big_Crude_Hammer.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Elven
-Foothills](:Category:_Elven_Foothills "wikilink")
-([Map](Elven_Foothills_Map "wikilink")).  
-A dirty gnoll [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Elven
+Foothills](:Category:_Elven_Foothills.md "wikilink")
+([Map](Elven_Foothills_Map.md "wikilink")).  
+A dirty gnoll [wanders](Wandering_Mobs.md "wikilink").
 
 A dirty gnoll is portable.  
 

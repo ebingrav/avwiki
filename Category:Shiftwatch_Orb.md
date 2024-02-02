@@ -9,13 +9,13 @@ Shiftwatch Orb and set foot in Noctopia itself is unknown.*
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Noctopia](:Category:Noctopia "wikilink")
+[Noctopia](:Category:Noctopia.md "wikilink")
 
 ## Connections
 
 s, d, w, \[d\] from shift will take you to a
 [Lloydable](Lloydable "wikilink") room in [Under The
-Stars](:Category:Under_The_Stars "wikilink").
+Stars](:Category:Under_The_Stars.md "wikilink").
 
 ## Navigation
 

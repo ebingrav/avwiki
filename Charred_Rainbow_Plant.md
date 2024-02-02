@@ -6,8 +6,8 @@ secret mucilage to digest the captured prey.*
 **Keywords:** rainbow, plant, ??  
 **Level:** 64  
 **Alignment:** ??  
-**Flags:** [aggressive](Aggressive_Mobs "wikilink")  
-**Affects:** [demonfire](Demonfire "wikilink")
+**Flags:** [aggressive](Aggressive_Mobs.md "wikilink")  
+**Affects:** [demonfire](Demonfire.md "wikilink")
 
 ## Comments
 
@@ -20,8 +20,8 @@ This mob will rescue other mobs in a fight.
 ## Directions
 
 **Area:** [North Rhuien
-Forest](:Category:North_Rhuien_Forest "wikilink")
-([Map](North_Rhuien_Forest_Map "wikilink"))  
+Forest](:Category:North_Rhuien_Forest.md "wikilink")
+([Map](North_Rhuien_Forest_Map.md "wikilink"))  
 **Room:** wanders
 
 **Walking route from [Rainbow Plant](Rainbow_Plant "wikilink"):** ?

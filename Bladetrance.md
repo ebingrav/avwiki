@@ -88,21 +88,61 @@ with triggers and all launching into veil, bladetrance 3 at the same
 time. By the time veil had worn off/exhausted, bladetrance 3 had costed
 us the following mana:
 
-| Race                               | Worship                               | Mana Usage | Size | [ Stealth ](Racial_Stealth_Modifier "wikilink") | [ Dmg Mod](Racial_Damage_Modifier "wikilink") |
-|------------------------------------|---------------------------------------|------------|------|-------------------------------------------------|-----------------------------------------------|
-| [Halfling](Halfling "wikilink")    | [Shizaga](Shizaga "wikilink")         | 5805       | S    | 3 / 2                                           | 0                                             |
-| [Kzinti](Kzinti "wikilink")        | [Shizaga](Shizaga "wikilink")         | 6124       | M    | 2 / 1                                           | 0                                             |
-| [High Elf](High_Elf "wikilink")    | [Quixoltan](Quixoltan "wikilink")     | 6194       | M    | 2 / 0                                           | 0                                             |
-| [Duergar](Duergar "wikilink")      | [Werredan](Werredan "wikilink")       | 6516       | S    | 0 / 2                                           | 0                                             |
-| [Gith](Gith "wikilink")            | [Annakinesia](Annakinesia "wikilink") | 6713       | M    | 1 / 1                                           | 0                                             |
-| [Gith](Gith "wikilink")            | [Gorn](Gorn "wikilink")               | 6762       | M    | 1 / 1                                           | 0                                             |
-| [Gith](Gith "wikilink")            | [Tul-Sith](Tul-Sith "wikilink")       | 6811       | M    | 1 / 1                                           | 0                                             |
-| [Gith](Gith "wikilink")            | [Tor](Tor "wikilink")                 | 6832       | M    | 1 / 1                                           | 0                                             |
-| [Gith](Gith "wikilink")            | [Bhyss](Bhyss "wikilink")             | 6839       | M    | 1 / 1                                           | 0                                             |
-| [Lizardmen](Lizardmen "wikilink")  | [Shizaga](Shizaga "wikilink")         | 6909       | M    | -1 / 0                                          | 0                                             |
-| [ Red Dragon ](:Dragon "wikilink") | [Shizaga](Shizaga "wikilink")         | 8792       | vL   | -2 / 0                                          | 3                                             |
-
-**<big>Bladetrance mana usage by race and worship</big>**
+{.md\|class="sortable" border="1" cellpadding="2" cellspacing="0"
+align="center" \|+ **<big>Bladetrance mana usage by race and
+worship</big>** \|- ! Race ! Worship ! Mana Usage ! Size ! [ Stealth
+](Racial_Stealth_Modifier "wikilink") ! [ Dmg
+Mod](Racial_Damage_Modifier.md "wikilink") \|- \| align="left"
+style="background:#efefef" \| [Halfling](Halfling "wikilink") .md\|
+align="left" \| [Shizaga](Shizaga "wikilink") \| align="center" \| 5805
+\| align="center" style="background-color:#ddffdd;" \| S \|
+align="center" style="background-color:#bdbdff;" \| 3 / 2 \|
+align="center" \| 0 \|- \| align="left" style="background:#efefef" \|
+[Kzinti](Kzinti "wikilink") .md\| align="left" \|
+[Shizaga](Shizaga "wikilink") \| align="center" \| 6124 \|
+align="center" style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ddffdd;" \| 2 / 1 \| align="center" \| 0 \|- \|
+align="left" style="background:#efefef" \| [High
+Elf](High_Elf "wikilink") .md\| align="left" \|
+[Quixoltan](Quixoltan "wikilink") \| align="center" \| 6194 \|
+align="center" style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ddffdd;" \| 2 / 0 \| align="center" \| 0 \|- \|
+align="left" style="background:#efefef" \| [Duergar](Duergar "wikilink")
+.md\| align="left" \| [Werredan](Werredan "wikilink") \| align="center"
+\| 6516 \| align="center" style="background-color:#ddffdd;" \| S \|
+align="center" style="background-color:#ffffbb;" \| 0 / 2 \|
+align="center" \| 0 \|- \| align="left" style="background:#efefef" \|
+[Gith](Gith "wikilink") .md\| align="left" \|
+[Annakinesia](Annakinesia "wikilink") \| align="center" \| 6713 \|
+align="center" style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ffffbb;" \| 1 / 1 \| align="center" \| 0 \|- \|
+align="left" style="background:#efefef" \| [Gith](Gith "wikilink") .md\|
+align="left" \| [Gorn](Gorn "wikilink") \| align="center" \| 6762 \|
+align="center" style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ffffbb;" \| 1 / 1 \| align="center" \| 0 \|- \|
+align="left" style="background:#efefef" \| [Gith](Gith "wikilink") .md\|
+align="left" \| [Tul-Sith](Tul-Sith "wikilink") \| align="center" \|
+6811 \| align="center" style="background-color:#ffffbb;" \| M \|
+align="center" style="background-color:#ffffbb;" \| 1 / 1 \|
+align="center" \| 0 \|- \| align="left" style="background:#efefef" \|
+[Gith](Gith "wikilink") .md\| align="left" \| [Tor](Tor "wikilink") \|
+align="center" \| 6832 \| align="center"
+style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ffffbb;" \| 1 / 1 \| align="center" \| 0 \|- \|
+align="left" style="background:#efefef" \| [Gith](Gith "wikilink") .md\|
+align="left" \| [Bhyss](Bhyss "wikilink") \| align="center" \| 6839 \|
+align="center" style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ffffbb;" \| 1 / 1 \| align="center" \| 0 \|- \|
+align="left" style="background:#efefef" \|
+[Lizardmen](Lizardmen "wikilink") .md\| align="left" \|
+[Shizaga](Shizaga "wikilink") \| align="center" \| 6909 \|
+align="center" style="background-color:#ffffbb;" \| M \| align="center"
+style="background-color:#ffdddd;" \| -1 / 0 \| align="center" \| 0 \|-
+\| align="left" style="background:#efefef" \| [ Red Dragon
+](:Dragon.md "wikilink") \| align="left" \|
+[Shizaga](Shizaga "wikilink") .md\| align="center" \| 8792 \|
+align="center" style="background-color:#ffbbbb;" \| vL \| align="center"
+style="background-color:#ffbbbb;" \| -2 / 0 \| align="center" \| 3 \|}
 
 If anyone has a different race and would like to test, please send a
 tell to Vagonuth/Olodagh/Xykoi in game. We'll use a trigger with the

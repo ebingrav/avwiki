@@ -1,33 +1,33 @@
-*You can see the magic [glow](Glow_Flag "wikilink") within this
+*You can see the magic [glow](Glow_Flag.md "wikilink") within this
 otherwise ordinary branch. The only explanation you can think of why
 these vines are somewhat sentient is because of this magic. But where it
 comes from? Perhaps [the nearby
-lake](:Category:_Lake_Triumph "wikilink")? It is said that that too is
-filled with magic.*
+lake](:Category:_Lake_Triumph.md "wikilink")? It is said that that too
+is filled with magic.*
 
-`It has an unknown `[`duration`](Light_Values "wikilink")`.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -25 continuous.`
+`It has an unknown `[`duration`](Light_Values.md "wikilink")`.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -25 continuous.`
 
 **Keyword(s):** magic, branch.  
-**[Level(s)](Object_Level "wikilink"):** 39-41.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 39-41.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The LeMans
-Vineyard](:Category:_LeMans_Vineyard "wikilink")
-([Map](LeMans_Vineyard_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [the
-vine](Vine_(with_light) "wikilink").  
-See [the vine](Vine_(with_light) "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [The LeMans
+Vineyard](:Category:_LeMans_Vineyard.md "wikilink")
+([Map](LeMans_Vineyard_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [the
+vine](Vine_(with_light).md "wikilink").  
+See [the vine](Vine_(with_light).md "wikilink") for more information.  
 
 [Category: Gear In LeMans
 Vineyard](Category:_Gear_In_LeMans_Vineyard "wikilink") [Category:

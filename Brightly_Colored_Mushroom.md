@@ -2,28 +2,28 @@
 speckled bright blues and greens. It is positively attractive and
 enticing*
 
-`Level 7 spell of: '`[`giant`` ``strength`](Giant_Strength "wikilink")`'.`  
-`Level 7 spell of: '`[`poison`](Poison "wikilink")`'.`
+`Level 7 spell of: '`[`giant`` ``strength`](Giant_Strength.md "wikilink")`'.`  
+`Level 7 spell of: '`[`poison`](Poison.md "wikilink")`'.`
 
 **Keyword(s):** toadstool.  
-**[Level(s)](Object_Level "wikilink"):** 10.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 10.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sableroix
-Manor](:Category:_Sableroix_Manor "wikilink")
-([Map](Sableroix_Manor_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Trees, trees and more
+**[Area](:Category:_Areas.md "wikilink"):** [Sableroix
+Manor](:Category:_Sableroix_Manor.md "wikilink")
+([Map](Sableroix_Manor_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Trees, trees and more
 trees.  
-Walking route from [A Pangolin](Pangolin "wikilink"): 2s, 2e.
+Walking route from [A Pangolin](Pangolin.md "wikilink"): 2s, 2e.
 
 [Category: Gear In Sableroix
 Manor](Category:_Gear_In_Sableroix_Manor "wikilink") [Category:

@@ -1,28 +1,29 @@
 ''Nexus opens a gate in the fabric of reality, to join two distant
 points in space. NEXUS is two-way and requires a destination (or
 "target"). This can be either a
-[player](:Category:_Characters "wikilink") or a
-[mob](:Category:_Mobs "wikilink") (not an
-[object](:Category:_Objects "wikilink") or
-[room](:Category:_Rooms "wikilink")). A [nexus](Nexuses "wikilink") will
-stay open longer for higher-[level](Level "wikilink")
-[players](:Category:_Characters "wikilink"), but will eventually
-collapse. After the [nexus](Nexuses "wikilink") is open, step in by
-typing "[enter](Enter "wikilink") [nexus](Nexuses "wikilink")". Since it
-is two-way, the [nexus](Nexuses "wikilink") will also be in the
-[room](:Category:_Rooms "wikilink") you have traveled into.
+[player](:Category:_Characters.md "wikilink") or a
+[mob](:Category:_Mobs.md "wikilink") (not an
+[object](:Category:_Objects.md "wikilink") or
+[room](:Category:_Rooms.md "wikilink")). A
+[nexus](Nexuses.md "wikilink") will stay open longer for
+higher-[level](Level.md "wikilink")
+[players](:Category:_Characters.md "wikilink"), but will eventually
+collapse. After the [nexus](Nexuses.md "wikilink") is open, step in by
+typing "[enter](Enter.md "wikilink") [nexus](Nexuses.md "wikilink")".
+Since it is two-way, the [nexus](Nexuses.md "wikilink") will also be in
+the [room](:Category:_Rooms.md "wikilink") you have traveled into.
 
-Prerequisite(s): [Portal](Portal "wikilink").
+Prerequisite(s): [Portal](Portal.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'nexus'
-\<[character](:Category:_Characters "wikilink")/[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'nexus'
+\<[character](:Category:_Characters.md "wikilink")/[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is not nearly as valuable as
-[Portal](Portal "wikilink") but there are still occasions when having a
-"two-way portal" may be convenient. See [Nexuses](Nexuses "wikilink")
-for more information about these
-[objects](:Category:_Objects "wikilink") created by this
-[spell](:Category:_Spells "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is not nearly as valuable
+as [Portal](Portal.md "wikilink") but there are still occasions when
+having a "two-way portal" may be convenient. See
+[Nexuses](Nexuses.md "wikilink") for more information about these
+[objects](:Category:_Objects.md "wikilink") created by this
+[spell](:Category:_Spells.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

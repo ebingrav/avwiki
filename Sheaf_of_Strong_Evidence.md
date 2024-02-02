@@ -1,28 +1,29 @@
 *This sheaf of strong evidence makes a bold case.*
 
 **Keyword(s):** sheaf, strong, evidence.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolcoate](Nolocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolcoate](Nolocate_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in the [Citadel Of
-Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")' [Arcanist's
-Focusing Staff Quest](Arcanist's_Focusing_Staff_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in the [Citadel
+Of Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")'
+[Arcanist's Focusing Staff
+Quest](Arcanist's_Focusing_Staff_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Xohd](Xohd "wikilink").  
-See [acolyte of the void](Acolyte_of_the_Void "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists_.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Xohd](Xohd "wikilink").  
+See [acolyte of the void](Acolyte_of_the_Void.md "wikilink") for more
 information.
 
 [Category: Gear In Citadel Of

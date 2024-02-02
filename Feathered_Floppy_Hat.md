@@ -1,28 +1,28 @@
 *A mass of feathers sticks out from a hat on the ground.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 8.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by 10 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 8.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by 10 continuous.`
 
 **Keyword(s):** hat floppy feathered.  
-**[Level(s)](Object_Level "wikilink"):** 33.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 33.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-Note that the [AC](Armor_Class "wikilink") modifier is positive, so this
-is a negative/non-desireable modifier.
+Note that the [AC](Armor_Class.md "wikilink") modifier is positive, so
+this is a negative/non-desireable modifier.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Gray
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Gray
 Mooser](Gray_Mooser "wikilink").  
 See [Gray Mooser](Gray_Mooser "wikilink") for more information.  
 

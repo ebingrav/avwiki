@@ -2,30 +2,30 @@
 a symbol painted on it.*
 
 **Keyword(s):** metal, bottle.  
-**[Level(s)](Object_Level "wikilink"):** 9.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 9.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [The Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")' ??? Quest.
+This [ticket](:Category:_Tickets.md "wikilink") is used in [The Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")' ??? Quest.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** The goblin shaman's
+**[Area](:Category:_Areas.md "wikilink"):** [The Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The goblin shaman's
 laboratory (portable) in a box.  
-Walking route from [Nom](Nom "wikilink"): s, 7e, u, 3e, 5n, \[e\].  
-[Portaling](Portal "wikilink") point(s) suggested: [goblin
-shaman](Goblin_Shaman "wikilink").  
+Walking route from [Nom](Nom.md "wikilink"): s, 7e, u, 3e, 5n, \[e\].  
+[Portaling](Portal.md "wikilink") point(s) suggested: [goblin
+shaman](Goblin_Shaman.md "wikilink").  
 
 [Category: Gear In Mushroom
 Caves](Category:_Gear_In_Mushroom_Caves "wikilink") [Category:

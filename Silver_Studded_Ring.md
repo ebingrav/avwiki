@@ -4,8 +4,8 @@ Base: 3
 Level: 10  
 Weight: 1  
 Slot: Finger Mob: [Great Sewer Rat](Great_Sewer_Rat "wikilink")  
-Location: [The Sewers](:Category:_Sewer "wikilink")
-([Map](Sewer_Map "wikilink"))  
+Location: [The Sewers](:Category:_Sewer.md "wikilink")
+([Map](Sewer_Map.md "wikilink"))  
 In "the torture room". Use the map (third sub level, NE corner of the
 map, tiny part all by itself). Hard to find on where unless you kill all
 the rats using track (10+ rats).

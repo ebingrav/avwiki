@@ -19,12 +19,12 @@ This area was added in March 2011.
 
 ## Directions
 
-Walking route from [caravan guard](Caravan_Guard "wikilink"): s 2e d e
-2s.
+Walking route from [caravan guard](Caravan_Guard.md "wikilink"): s 2e d
+e 2s.
 
 ## Connections
 
--   [Deepways](:Category:_Deepways "wikilink")
+-   [Deepways](:Category:_Deepways.md "wikilink")
 
 ## Navigation
 
@@ -55,9 +55,9 @@ back to Psilocybin at the safe room at the entrance.
 ## Adventuring
 
 This area can make a nice detour off a normal XP run in [
-Deepways](:Category:_Deepways "wikilink"). The area is pretty small and
-does not have enough mobs to last a full run. The mobs are a bit bigger
-than those found in Deepways.
+Deepways](:Category:_Deepways.md "wikilink"). The area is pretty small
+and does not have enough mobs to last a full run. The mobs are a bit
+bigger than those found in Deepways.
 
 All the mobs here are non-aggie normally. There are various unsanced
 mobs (harvesters, shroomshapers, alchemists, guardians, shamans,

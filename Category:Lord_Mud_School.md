@@ -30,37 +30,39 @@ Lord Mudschool is located 2 south of Thorngate Center.
 ## Navigation
 
 [Welcome to Lord, Basic Lord Skills, Improving Your Gear and Lord
-Survival Skills](Mudschool_New "wikilink")  
-[Tips on Playing a Brute](Mudschool_Brute "wikilink")  
-[Hints for Playing a Caster](Mudschool_Caster "wikilink")  
-*Archers*:[A Nook in the Forest](Mudschool_Archer "wikilink")  
-*Assassins*:[Dilapidated Ruins](Mudschool_Assassin "wikilink")  
+Survival Skills](Mudschool_New.md "wikilink")  
+[Tips on Playing a Brute](Mudschool_Brute.md "wikilink")  
+[Hints for Playing a Caster](Mudschool_Caster.md "wikilink")  
+*Archers*:[A Nook in the Forest](Mudschool_Archer.md "wikilink")  
+*Assassins*:[Dilapidated Ruins](Mudschool_Assassin.md "wikilink")  
 *Berserkers*:[Knee-deep in Cracked
 Skulls](Knee-deep_in_Cracked_Skulls "wikilink")  
 *Black Circle Initiates*:[Between the Stretching
-Shadows](Mudschool_Black_CIrcle_Initiate "wikilink")  
+Shadows](Mudschool_Black_CIrcle_Initiate.md "wikilink")  
 *Bladedancers*:[Passing Beneath Crisscrossing
-Swords](Mudschool_Bladedancer "wikilink")  
-*Bodyguards*:[In a Sparring Ring](Mudschool_Bodyguard "wikilink")  
-*Clerics*:[The Shrine](Mudschool_Cleric "wikilink")  
-*Druids*:[In the Greenhouse](Mudschool_Duid "wikilink")  
-*Fusiliers*:[Before a Pile of Stones](Mudschool_Fusilier "wikilink")  
-*Mages*:[Study Chamber of an Arch-Mage](Mudschool_Mage "wikilink")  
+Swords](Mudschool_Bladedancer.md "wikilink")  
+*Bodyguards*:[In a Sparring Ring](Mudschool_Bodyguard.md "wikilink")  
+*Clerics*:[The Shrine](Mudschool_Cleric.md "wikilink")  
+*Druids*:[In the Greenhouse](Mudschool_Duid.md "wikilink")  
+*Fusiliers*:[Before a Pile of
+Stones](Mudschool_Fusilier.md "wikilink")  
+*Mages*:[Study Chamber of an Arch-Mage](Mudschool_Mage.md "wikilink")  
 *Mindbenders*:[Surrounded by Whispers and Fading
-Thoughts](Mudschool_Mindbender "wikilink")  
-*Monks*:[A Sanctuary of Gorn](Mudschool_Monk "wikilink")  
-*Paladins*:[Before the Holy Relics](Mudschool_Paladin "wikilink")  
-*Priests*:[Tul-Sith's Sanctuary](Mudschool_Priest "wikilink")  
-*Psionicists*:[A Room in the Inn](Mudschool_Psionicist "wikilink")  
-*Rangers*:[A Peaceful Forest](Mudschool_Ranger "wikilink")  
-*Rogues*:[A Den of Iniquity](Mudschool_Rogue "wikilink")  
-*Shadowfists*:[Shadowfists' Domain](Mudschool_Shadowfist "wikilink")  
-*Sorcerers*:[Chamber of Corruption](Mudschool_Sorcerer "wikilink")  
+Thoughts](Mudschool_Mindbender.md "wikilink")  
+*Monks*:[A Sanctuary of Gorn](Mudschool_Monk.md "wikilink")  
+*Paladins*:[Before the Holy Relics](Mudschool_Paladin.md "wikilink")  
+*Priests*:[Tul-Sith's Sanctuary](Mudschool_Priest.md "wikilink")  
+*Psionicists*:[A Room in the Inn](Mudschool_Psionicist.md "wikilink")  
+*Rangers*:[A Peaceful Forest](Mudschool_Ranger.md "wikilink")  
+*Rogues*:[A Den of Iniquity](Mudschool_Rogue.md "wikilink")  
+*Shadowfists*:[Shadowfists'
+Domain](Mudschool_Shadowfist.md "wikilink")  
+*Sorcerers*:[Chamber of Corruption](Mudschool_Sorcerer.md "wikilink")  
 *Stormlords*:[Within an Ancient, Cluttered
-Room](Mudschool_Stormlord "wikilink")  
-*Warriors*:[Warrior Training Grounds](Mudschool_Warrior "wikilink")  
-*Wizards*:[A Musty Study](Mudschool_Wizard "wikilink")  
-[A Few Final Words of Wisdom, Alcove](Mudschool_End "wikilink")  
+Room](Mudschool_Stormlord.md "wikilink")  
+*Warriors*:[Warrior Training Grounds](Mudschool_Warrior.md "wikilink")  
+*Wizards*:[A Musty Study](Mudschool_Wizard.md "wikilink")  
+[A Few Final Words of Wisdom, Alcove](Mudschool_End.md "wikilink")  
 
 ## Adventuring
 

@@ -1,31 +1,31 @@
-*The staff of [a religious leader](Shade_Of_The_Mystagogue "wikilink")
-rests on the floor.*
+*The staff of [a religious
+leader](Shade_Of_The_Mystagogue.md "wikilink") rests on the floor.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 11 to 31 (average 21).`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 15 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 11 to 31 (average 21).`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 15 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** staff, mystagogue.  
-**[Level(s)](Object_Level "wikilink"):** 29-31.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[hum](Hum_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 29-31.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Enchantment of the
-Shades](:Category:_Enchantment_Of_The_Shades "wikilink")
-([Map](Enchantment_Of_The_Shades_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [the shade of the
-Mystagogue](Shade_Of_The_Mystagogue "wikilink").  
-See [the shade of the Mystagogue](Shade_Of_The_Mystagogue "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Enchantment of the
+Shades](:Category:_Enchantment_Of_The_Shades.md "wikilink")
+([Map](Enchantment_Of_The_Shades_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [the shade of the
+Mystagogue](Shade_Of_The_Mystagogue.md "wikilink").  
+See [the shade of the Mystagogue](Shade_Of_The_Mystagogue.md "wikilink")
 for more information.  
 
 [Category: Gear In Enchantment Of The

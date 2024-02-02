@@ -16,28 +16,28 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 [Elven Wizard Robes](Elven_Wizard_Robes "wikilink")(10), [Linen
 Robe](Linen_Robe "wikilink")(5), [Priest's
 Robe](Priest's_Robe "wikilink")(5)
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 [Robe Of The Magi](Robe_Of_The_Magi "wikilink")(30), [Sea Blue
 Cloak](Sea_Blue_Cloak "wikilink")(30), [Surveyor's
 Cloak](Surveyor's_Cloak "wikilink")(15)
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Robes Of Deepest Ebony](Robes_Of_Deepest_Ebony "wikilink")(15)
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Black Wizard Robes](Black_Wizard_Robes "wikilink")(30), [Silk Lined
 Cloak](Silk_Lined_Cloak "wikilink")(50), [Unholy
 Robe](Unholy_Robe "wikilink")(70)
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 ?
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Arcane Robes](Arcane_Robes "wikilink")(35), [Aura Of Tainted
 Foulness](Aura_Of_Tainted_Foulness "wikilink")(50), [Aura Of The
 Storyteller](Aura_Of_The_Storyteller "wikilink")(70), [Cape Of
@@ -51,7 +51,7 @@ Robe](Rotting_Grey_Robe "wikilink")(70), [Snow Leopardskin
 Cloak](Snow_Leopardskin_Cloak "wikilink")(50), [Twinkling
 Stars](Twinkling_Stars "wikilink")(30),
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

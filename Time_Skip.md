@@ -1,14 +1,14 @@
 *Those familiar with martial technique can use chronomancy to speed up a
 fighter's attacks. When cast on a group-mate, time skip buys them an
-extra [round](Rounds "wikilink") of attacks. This spell is
-[EXHAUSTED](Exhaustion "wikilink") for a short time when
-[cast](Cast "wikilink").*
+extra [round](Rounds.md "wikilink") of attacks. This spell is
+[EXHAUSTED](Exhaustion.md "wikilink") for a short time when
+[cast](Cast.md "wikilink").*
 
-Prerequisite(s): [Chaos Channel](Chaos_Channel "wikilink"), [Third
-Attack](Third_Attack "wikilink").
+Prerequisite(s): [Chaos Channel](Chaos_Channel.md "wikilink"), [Third
+Attack](Third_Attack.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'time skip'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'time skip'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

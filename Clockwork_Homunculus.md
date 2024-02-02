@@ -4,24 +4,25 @@ and then it pauses to wind itself up again before resuming its
 inscrutable search.*
 
 **Keywords:** clockwork, homunculus, shape  
-**[Level](Level "wikilink"):** 45.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [ hide](hide "wikilink"), [ sneak](sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 45.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [ hide](hide.md "wikilink"), [
+sneak](sneak.md "wikilink").  
 
 ## Comments
 
 When the tiny figure crumples and is silent a [
-key](Heavy_Silver_Key "wikilink") falls from its innards.
+key](Heavy_Silver_Key.md "wikilink") falls from its innards.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Trashpit
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Trashpit
 
-Walking route from [Vymm](Vymm "wikilink"):
+Walking route from [Vymm](Vymm.md "wikilink"):
 \[s\],u,\[e\],2n,3e,\[n\],e,d.
 
 It is portable.

@@ -1,21 +1,22 @@
-*Calm stops all fighting within a [room](:Category:_Rooms "wikilink").
-This is an area effect, so the [spell](:Category:_Spells "wikilink")
-neither requires nor permits a target. In addition to stopping combat,
-the calm spell sometimes temporarily overrides the fighting instincts of
-[creatures](:Category:_Mobs "wikilink") or
-[characters](:Category:_Characters "wikilink") in the
-[room](:Category:_Rooms "wikilink"); these victims will find their
+*Calm stops all fighting within a
+[room](:Category:_Rooms.md "wikilink"). This is an area effect, so the
+[spell](:Category:_Spells.md "wikilink") neither requires nor permits a
+target. In addition to stopping combat, the calm spell sometimes
+temporarily overrides the fighting instincts of
+[creatures](:Category:_Mobs.md "wikilink") or
+[characters](:Category:_Characters.md "wikilink") in the
+[room](:Category:_Rooms.md "wikilink"); these victims will find their
 combat abilities hampered for a time. Even with this possible effect, it
-is likely that [aggressive](Aggressive_Mobs "wikilink")
-[monsters](:Category:_Mobs "wikilink") will still be able to attack
-after only a short lull. [Heroes](:Category:_Hero "wikilink") may wish
-to note that Calm has the same effects as the [psionic
-spell](:Category:_Psionicist_Skills_And_Spells "wikilink")
-[Awe](Awe "wikilink").*
+is likely that [aggressive](Aggressive_Mobs.md "wikilink")
+[monsters](:Category:_Mobs.md "wikilink") will still be able to attack
+after only a short lull. [Heroes](:Category:_Hero.md "wikilink") may
+wish to note that Calm has the same effects as the [psionic
+spell](:Category:_Psionicist_Skills_And_Spells.md "wikilink")
+[Awe](Awe.md "wikilink").*
 
-Prerequisite(s): [Fear](Fear "wikilink").
+Prerequisite(s): [Fear](Fear.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'calm'.
+Syntax: [cast](Cast.md "wikilink") 'calm'.
 
 This spell is most useful at moments of mortal peril by pausing battle
 long enough (hopefully) to allow those nearly-dead to escape to safety.

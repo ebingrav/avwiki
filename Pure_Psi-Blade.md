@@ -9,16 +9,16 @@ attacks.*
 
 **Flags**: glow hum magic lghtnng-ward invis  
 **Weight:**: 2 lbs  
-**[Plane:](:Category:Lord_Planes "wikilink")**:
-[Nowhere](:Category:Nowhere "wikilink")  
-**[Area:](:Category:Lord_Areas "wikilink")**:
-[Nothing](:Category:Nothing "wikilink")  
-**[Mob:](:Category:Lord_Mobs "wikilink")**: [Elder Nihilistic
+**[Plane:](:Category:Lord_Planes.md "wikilink")**:
+[Nowhere](:Category:Nowhere.md "wikilink")  
+**[Area:](:Category:Lord_Areas.md "wikilink")**:
+[Nothing](:Category:Nothing.md "wikilink")  
+**[Mob:](:Category:Lord_Mobs.md "wikilink")**: [Elder Nihilistic
 Cultist](Elder_Nihilistic_Cultist "wikilink")  
 
 ------------------------------------------------------------------------
 
-See [Gear In Nothing](:Category:Gear_In_Nothing "wikilink") for more
+See [Gear In Nothing](:Category:Gear_In_Nothing.md "wikilink") for more
 information.
 
 [Category:Lord KDR Gear](Category:Lord_KDR_Gear "wikilink")

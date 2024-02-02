@@ -7,17 +7,17 @@
 `   'Horns' 'Tail' 'Hooves' 'Greater Race' 'Faerie Race' 'Demonic Race'.`
 
 **Keyword(s):** ring viscous magic  
-**[Level(s)](Object_Level "wikilink"):** 50  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on finger>  
-**[Quality](Object_Quality "wikilink"):** 20 hps  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
-**[Area](:Category:_Areas "wikilink"):** [ Kzinti
-Raid](:Category:_Kzinti_Raid "wikilink")
-([Map](Kzinti_Raid_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Level(s)](Object_Level.md "wikilink"):** 50  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on finger>  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Kzinti
+Raid](:Category:_Kzinti_Raid.md "wikilink")
+([Map](Kzinti_Raid_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 ## Comments
 

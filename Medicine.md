@@ -1,21 +1,22 @@
 *The martial arts convey such a knowledge of self and pain that a
 capable student can learn to heal himself or another just by directing
 concentration toward the desire to heal. To use this
-[skill](:Category:_Skills "wikilink"), [cast](Cast "wikilink") it like a
-[spell](:Category:_Spells "wikilink"); that is, [cast](Cast "wikilink")
-'medicine'. Many [classes](:Category:_Classes "wikilink") can learn the
-basics of this spiritual healing process. However,
-[Monks](:Category:_Monks "wikilink") are so fully devoted to this sort
-of restoration that they can cure poisons and diseases with this
-[spell](:Category:_Spells "wikilink"). When medicine is used in this
-way, one [cast](Cast "wikilink") will cure one effect of the poison or
-disease, and thus multiple [casts](Cast "wikilink") are required for
-poisons or diseases with multiple effects.*
+[skill](:Category:_Skills.md "wikilink"), [cast](Cast.md "wikilink") it
+like a [spell](:Category:_Spells.md "wikilink"); that is,
+[cast](Cast.md "wikilink") 'medicine'. Many
+[classes](:Category:_Classes.md "wikilink") can learn the basics of this
+spiritual healing process. However,
+[Monks](:Category:_Monks.md "wikilink") are so fully devoted to this
+sort of restoration that they can cure poisons and diseases with this
+[spell](:Category:_Spells.md "wikilink"). When medicine is used in this
+way, one [cast](Cast.md "wikilink") will cure one effect of the poison
+or disease, and thus multiple [casts](Cast.md "wikilink") are required
+for poisons or diseases with multiple effects.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'medicine'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'medicine'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

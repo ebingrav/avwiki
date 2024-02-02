@@ -1,14 +1,14 @@
-*The clarifying Light of [Tul-Sith](Tul-Sith "wikilink") clears
-[blindness](Blindness "wikilink") and some mental impediments. It may
-need to be [cast](Cast "wikilink") multiple times to be fully effective.
-The clarifying affect can also raise [alignment](Alignment "wikilink")
-slightly.*
+*The clarifying Light of [Tul-Sith](Tul-Sith.md "wikilink") clears
+[blindness](Blindness.md "wikilink") and some mental impediments. It may
+need to be [cast](Cast.md "wikilink") multiple times to be fully
+effective. The clarifying affect can also raise
+[alignment](Alignment.md "wikilink") slightly.*
 
-Prerequisites: [Absolve](Absolve "wikilink"), [Via
-Elimo](Via_Elimo "wikilink").
+Prerequisites: [Absolve](Absolve.md "wikilink"), [Via
+Elimo](Via_Elimo.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'clarify'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'clarify'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 ## Comments
 
@@ -18,7 +18,7 @@ It can be used to clear:
 -   [unrest](unrest "wikilink")
 -   [panic](panic "wikilink")
 -   the negative intelligence affect from [Rupture](Rupture "wikilink")
--   [deaths door](Deaths_Door "wikilink")
+-   [deaths door](Deaths_Door.md "wikilink")
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Priest Hero

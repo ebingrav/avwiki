@@ -8,8 +8,8 @@ armor, extra flags glow magic nolocate.
 ` Modifies armor class by -120 continuous.`
 
 Slot: On Body  
-Plane: [Outland](:Category:Outland "wikilink")  
-Area: [Outland Proper](:Category:Outland_Proper "wikilink")  
+Plane: [Outland](:Category:Outland.md "wikilink")  
+Area: [Outland Proper](:Category:Outland_Proper.md "wikilink")  
 Mob: [Githyanki Leader](Githyanki_Leader "wikilink")  
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ This item can be modified with a [Demonic Lapis
 Lazuli](Demonic_Lapis_Lazuli "wikilink") and a lord perfect gem with the
 following two options.  
 Base of the final item is 27-30 depending on the perfect gem used.  
-{\| class="wikitable" !Perfect gemstone!!Base \|- \|Perfect
+{.md\| class="wikitable" !Perfect gemstone!!Base \|- \|Perfect
 amethyst\|\|27 \|- \|Perfect sapphire\|\|28 \|- \|Perfect emerald\|\|28
 \|- \|Perfect ruby\|\|28 \|- \|Perfect diamond\|\|30 \|} Robust - Adds
 225 hp mod  

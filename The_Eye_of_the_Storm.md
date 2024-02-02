@@ -7,9 +7,9 @@
 `the edge of your vision, it exerts an inexorable force on`  
 `everything around it. The Eye of the Storm draws you closer...`
 
-**[Commune Bonus](Commune "wikilink"):** hr +30, dr +30
+**[Commune Bonus](Commune.md "wikilink"):** hr +30, dr +30
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Prophecy](Aspect_-_Prophecy "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Prophecy](Aspect_-_Prophecy.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

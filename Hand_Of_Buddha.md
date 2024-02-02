@@ -1,7 +1,7 @@
 Bases: 47  
 Levels: 51  
 Weight: 7  
-Area: [White Lotus Temple](:Category:White_Lotus_Temple "wikilink")  
+Area: [White Lotus Temple](:Category:White_Lotus_Temple.md "wikilink")  
 Mob: [Statue Of Buddha](Statue_Of_Buddha "wikilink")  
 Modifies mana by 100 continuous  
 Modifies armor class by -10 continuous  

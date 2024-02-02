@@ -1,25 +1,25 @@
 *A pair of bronze plates might protect your shins.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -8 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -8 continuous.`
 
 **Keyword(s):** shin guards plates.  
-**[Level(s)](Object_Level "wikilink"):** 23.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 23.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Trainee Drow
+**[Area](:Category:_Areas.md "wikilink"):**
+[Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Trainee Drow
 Soldier](Trainee_Drow_Soldier "wikilink"), [N'Tel'Sha
 Enforcer](N'Tel'Sha_Enforcer "wikilink").  
 

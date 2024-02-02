@@ -1,5 +1,5 @@
 *It is said, that an isle lies in the
-[sea](:Category:_Sea_Of_Strayed_Hopes "wikilink") not that far away,
+[sea](:Category:_Sea_Of_Strayed_Hopes.md "wikilink") not that far away,
 full of strange things and beings sparked alive by a strong power.
 Crystal statues are depicting people of a kingdom there. A kingdom that
 might still exist, but far away. Some historians claim that once it
@@ -12,22 +12,22 @@ bygone time. And a word from books almost forgotten: NaamBres'Shho.*
 
 **Builder:** Pico
 
-This [area](:Category:_Areas "wikilink") was the winner of an
-[area-building contest](Area-Building_Contests "wikilink") in 2004.  
-This [area](:Category:_Areas "wikilink") was added in 2005.  
+This [area](:Category:_Areas.md "wikilink") was the winner of an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2004.  
+This [area](:Category:_Areas.md "wikilink") was added in 2005.  
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 37s, 3e, s, e (note:
-crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 37s, 3e, s, e (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [NaamSa
-scribe](Scribe "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [NaamSa
+scribe](Scribe.md "wikilink").
 
 ## Connections
 
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
-    ([Map](Sea_Of_Strayed_Hopes_Map "wikilink"))
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
+    ([Map](Sea_Of_Strayed_Hopes_Map.md "wikilink"))
 
 ## Navigation
 
@@ -58,8 +58,8 @@ them quickly and nakedly.
 
 However, this is a quest area, first and foremost. It's built from the
 grounds up to support a single involved
-[quest](NaamAhn'Sa_Token_Quest "wikilink"), so perhaps it'd perhaps be
-best enjoyed by a large explorer or a group doing the said quest.
+[quest](NaamAhn'Sa_Token_Quest.md "wikilink"), so perhaps it'd perhaps
+be best enjoyed by a large explorer or a group doing the said quest.
 
 ## Comments
 
@@ -70,11 +70,11 @@ is known now by a different name, if at all."
 
 Yes, the kingdom does indeed exist but it's far from what it once was.
 In fact the kingdom's remnants can be found in [Odevar
-Hills](:Category:Odevar_Hills "wikilink"), along with some artifacts of
-the ages gone by, should you spare time to do some archeology there.
+Hills](:Category:Odevar_Hills.md "wikilink"), along with some artifacts
+of the ages gone by, should you spare time to do some archeology there.
 
 The [Black Jellyfish](Black_Jellyfish "wikilink") will throw a [Black
 Tentacle](Black_Tentacle "wikilink"), a very heavy [throwing
-weapon](:Category:_Throwing_Weapons "wikilink").
+weapon](:Category:_Throwing_Weapons.md "wikilink").
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink")

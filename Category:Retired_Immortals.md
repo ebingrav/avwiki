@@ -29,6 +29,6 @@ Avatar.
     Ukiah.......[Retired]    Xandrian....[Retired]    Yevaud......[Retired]    
     Zahri.......[Retired]    
 
-`See also: `[`WIZLIST`](Wizlist "wikilink")`, `[`RETIRED`](:Category:Retired_Immortals "wikilink")`, ANGELS, ARCHANGELS, HEROLIST, HELP STAFFLIST     `
+`See also: `[`WIZLIST`](Wizlist.md "wikilink")`, `[`RETIRED`](:Category:Retired_Immortals.md "wikilink")`, ANGELS, ARCHANGELS, HEROLIST, HELP STAFFLIST     `
 
 [Category: Immortals](Category:_Immortals "wikilink")

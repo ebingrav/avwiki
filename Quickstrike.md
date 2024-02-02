@@ -1,23 +1,24 @@
-*Quickstrike allows the [Rogue](:Category:_Rogues "wikilink") to use the
-[vital shot](Vital_Shot "wikilink")
-[skill](:Category:_Skills "wikilink") much more quickly and efficiently,
-even in the middle of combat. When the
-[command](:Category:_Commands "wikilink") is executed mid-round, the
-[Rogue](:Category:_Rogues "wikilink") will aim for a vital area. If not
-interrupted, the [Rogue](:Category:_Rogues "wikilink")'s next hit will
-be a [vital shot](Vital_Shot "wikilink"), doing more damage than normal.
-Since the element of surprise is not incorporated, this will do less
-damage than [vital shot](Vital_Shot "wikilink") would if used to
-initiate combat. Also, despite the [lethal aim](Lethal_Aim "wikilink")
-[skill](:Category:_Skills "wikilink"), the
-[Rogue](:Category:_Rogues "wikilink") cannot specify a vital region to
-hit.*
+*Quickstrike allows the [Rogue](:Category:_Rogues.md "wikilink") to use
+the [vital shot](Vital_Shot.md "wikilink")
+[skill](:Category:_Skills.md "wikilink") much more quickly and
+efficiently, even in the middle of combat. When the
+[command](:Category:_Commands.md "wikilink") is executed mid-round, the
+[Rogue](:Category:_Rogues.md "wikilink") will aim for a vital area. If
+not interrupted, the [Rogue](:Category:_Rogues.md "wikilink")'s next hit
+will be a [vital shot](Vital_Shot.md "wikilink"), doing more damage than
+normal. Since the element of surprise is not incorporated, this will do
+less damage than [vital shot](Vital_Shot.md "wikilink") would if used to
+initiate combat. Also, despite the [lethal
+aim](Lethal_Aim.md "wikilink") [skill](:Category:_Skills.md "wikilink"),
+the [Rogue](:Category:_Rogues.md "wikilink") cannot specify a vital
+region to hit.*
 
-Prerequisite(s): [Assassin Sight](Assassin_Sight "wikilink").
+Prerequisite(s): [Assassin Sight](Assassin_Sight.md "wikilink").
 
-Syntax: [vital](Vital "wikilink")
-\<[mob](:Category:_Mobs "wikilink")\>.  
-Syntax: [vs](VS "wikilink") \<[mob](:Category:_Mobs "wikilink")\>.  
+Syntax: [vital](Vital.md "wikilink")
+\<[mob](:Category:_Mobs.md "wikilink")\>.  
+Syntax: [vs](VS.md "wikilink")
+\<[mob](:Category:_Mobs.md "wikilink")\>.  
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Assassin Hero

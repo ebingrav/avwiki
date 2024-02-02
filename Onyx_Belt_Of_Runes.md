@@ -5,27 +5,27 @@
 `Modifies mana by 30 continuous.`
 
 **Keyword(s):** veldri onyx belt runes.  
-**[Level(s)](Object_Level "wikilink"):** 40-42.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** Waist.  
-**[Quality](Object_Quality "wikilink"):** ?? hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nodrop](NoDrop_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 40-42.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** Waist.  
+**[Quality](Object_Quality.md "wikilink"):** ?? hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Secrets of the
-Shrine](:Category:_Secrets_Of_The_Shrine "wikilink")
-([Map](Secrets_Of_The_Shrine_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Veldri
+**[Area](:Category:_Areas.md "wikilink"):** [Secrets of the
+Shrine](:Category:_Secrets_Of_The_Shrine.md "wikilink")
+([Map](Secrets_Of_The_Shrine_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Veldri
 Warrior](Veldri_Warrior "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 When you first enter the Secret Shrine, go north to the back of the
 shrine (it's small), find the west wall and go south one from the north
 wall. Have Detect Magic up (there is an invis drow in this area with the

@@ -11,16 +11,16 @@ at a call to arms; might as well help fill the garrison's larder while
 nobody else is stopping him.*
 
 **Keywords:** rampart, sentry, troll.  
-**[Level](Level "wikilink"):** 51.  
+**[Level](Level.md "wikilink"):** 51.  
 **Scan Description:**  
 This sentry turns his back on the landscape to watch his army
 practice.  
 or  
 A troll sentry keeps watch over the city ramparts.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** ?, [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** ?, [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 **Race:** [Troll](Troll "wikilink").
 
 ## Gear
@@ -33,13 +33,13 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Cathracharraig](:Category:_Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):**  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Cathracharraig](:Category:_Cathracharraig.md "wikilink")
+([Map](Cathracharraig_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):**  
 Atop the city ramparts  
 Overlooking the city gates  
-[Portaling](Portal "wikilink") point suggested: A Rampart Sentry is
+[Portaling](Portal.md "wikilink") point suggested: A Rampart Sentry is
 portable.  
 
 [Category: Mobs In

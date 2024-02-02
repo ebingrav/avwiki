@@ -11,7 +11,7 @@ not known whether racial archery modifiers affect each to an equal
 degree.
 
 There is also a separate [melee damage
-modifier](Racial_Damage_Modifier "wikilink") for each race.
+modifier](Racial_Damage_Modifier.md "wikilink") for each race.
 
 Please note that all of this information is from memory and may not be
 completely accurate. Extensive testing has not been done, but archers
@@ -31,58 +31,58 @@ elves. Tuataurs have a modifier somewhat lower than drow.
 | Average   |
 | Terrible  |
 
-| Race                                |  [Size](Racial_Size "wikilink")          |  Racial Archery Modifier |
-|-------------------------------------|------------------------------------------|--------------------------|
-| [Centaur](Centaur "wikilink")       | <span style="display:none">4</span>L     | 3                        |
-| [Deep Gnome](Deep_Gnome "wikilink") | <span style="display:none">2</span>S     | 0                        |
-| [Draconian](Draconian "wikilink")   | <span style="display:none">3</span>M     | -1                       |
-| [Drow](Drow "wikilink")             | <span style="display:none">3</span>M     | 2                        |
-| [Duergar](Duergar "wikilink")       | <span style="display:none">2</span>S     | 0                        |
-| [Dwarf](Dwarf "wikilink")           | <span style="display:none">2</span>S     | 0                        |
-| [Elf](Elf "wikilink")               | <span style="display:none">3</span>M     | 2                        |
-| [Ent](Ent "wikilink")               | <span style="display:none">4</span>vL    | -100                     |
-| [Firedrake](Firedrake "wikilink")   | <span style="display:none">4</span>vS-vL | -1                       |
-| [Gargoyle](Gargoyle "wikilink")     | <span style="display:none">3</span>M     | -1                       |
-| [Giant](Giant "wikilink")           | <span style="display:none">4</span>vL    | -1                       |
-| [Gnome](Gnome "wikilink")           | <span style="display:none">2</span>S     | 0                        |
-| [Goblin](Goblin "wikilink")         | <span style="display:none">2</span>S     | -1                       |
-| [Halfling](Halfling "wikilink")     | <span style="display:none">2</span>S     | 0                        |
-| [Half-Elf](Half-Elf "wikilink")     | <span style="display:none">3</span>M     | 1                        |
-| [Half-Orc](Half-Orc "wikilink")     | <span style="display:none">3</span>M     | 1                        |
-| [Harpy](Harpy "wikilink")           | <span style="display:none">3</span>M     | 1                        |
-| [Human](Human "wikilink")           | <span style="display:none">3</span>M     | 0                        |
-| [Imp](Imp "wikilink")               | <span style="display:none">2</span>vS-vL | -1 to 0                  |
-| [Kobold](Kobold "wikilink")         | <span style="display:none">2</span>S     | -1                       |
-| [Kzinti](Kzinti "wikilink")         | <span style="display:none">3</span>M     | 0                        |
-| [Lizardmen](Lizardmen "wikilink")   | <span style="display:none">3</span>M     | 0                        |
-| [Ogres](Ogres "wikilink")           | <span style="display:none">4</span>L     | -1                       |
-| [Orc](Orc "wikilink")               | <span style="display:none">3</span>M     | 1                        |
-| [Troglodyte](Troglodyte "wikilink") | <span style="display:none">3</span>M     | -1                       |
+| Race                                                                             |  [Size](Racial_Size.md "wikilink")    |  Racial Archery Modifier |
+|----------------------------------------------------------------------------------|---------------------------------------|--------------------------|
+| [Centaur](Centaur "wikilink") .md\| <span style="display:none">4</span>L         | 3                                     |                          |
+| [Deep Gnome](Deep_Gnome "wikilink")                                              | <span style="display:none">2</span>S  | 0                        |
+| [Draconian](Draconian "wikilink") .md\| <span style="display:none">3</span>M     | -1                                    |                          |
+| [Drow](Drow "wikilink")                                                          | <span style="display:none">3</span>M  | 2                        |
+| [Duergar](Duergar "wikilink") .md\| <span style="display:none">2</span>S         | 0                                     |                          |
+| [Dwarf](Dwarf "wikilink")                                                        | <span style="display:none">2</span>S  | 0                        |
+| [Elf](Elf "wikilink") .md\| <span style="display:none">3</span>M                 | 2                                     |                          |
+| [Ent](Ent "wikilink")                                                            | <span style="display:none">4</span>vL | -100                     |
+| [Firedrake](Firedrake "wikilink") .md\| <span style="display:none">4</span>vS-vL | -1                                    |                          |
+| [Gargoyle](Gargoyle "wikilink")                                                  | <span style="display:none">3</span>M  | -1                       |
+| [Giant](Giant "wikilink") .md\| <span style="display:none">4</span>vL            | -1                                    |                          |
+| [Gnome](Gnome "wikilink")                                                        | <span style="display:none">2</span>S  | 0                        |
+| [Goblin](Goblin "wikilink") .md\| <span style="display:none">2</span>S           | -1                                    |                          |
+| [Halfling](Halfling "wikilink")                                                  | <span style="display:none">2</span>S  | 0                        |
+| [Half-Elf](Half-Elf "wikilink") .md\| <span style="display:none">3</span>M       | 1                                     |                          |
+| [Half-Orc](Half-Orc "wikilink")                                                  | <span style="display:none">3</span>M  | 1                        |
+| [Harpy](Harpy "wikilink") .md\| <span style="display:none">3</span>M             | 1                                     |                          |
+| [Human](Human "wikilink")                                                        | <span style="display:none">3</span>M  | 0                        |
+| [Imp](Imp "wikilink") .md\| <span style="display:none">2</span>vS-vL             | -1 to 0                               |                          |
+| [Kobold](Kobold "wikilink")                                                      | <span style="display:none">2</span>S  | -1                       |
+| [Kzinti](Kzinti "wikilink") .md\| <span style="display:none">3</span>M           | 0                                     |                          |
+| [Lizardmen](Lizardmen "wikilink")                                                | <span style="display:none">3</span>M  | 0                        |
+| [Ogres](Ogres "wikilink") .md\| <span style="display:none">4</span>L             | -1                                    |                          |
+| [Orc](Orc "wikilink")                                                            | <span style="display:none">3</span>M  | 1                        |
+| [Troglodyte](Troglodyte "wikilink") .md\| <span style="display:none">3</span>M   | -1                                    |                          |
 
-<big>**[Creatable Races](:Category:_Creatable_Races "wikilink") Archery
-Modifiers**</big>
+<big>**[Creatable Races](:Category:_Creatable_Races.md "wikilink")
+Archery Modifiers**</big>
 
 <div style="clear: both;">
 </div>
 
   
 
-| Race                              |  [Size](Racial_Size "wikilink")       |  Racial Archery Modifier |
-|-----------------------------------|---------------------------------------|--------------------------|
-| [Demonseed](Demonseed "wikilink") | <span style="display:none">2</span>S  | 1                        |
-| [Dragon](Dragon "wikilink")       | <span style="display:none">4</span>vL | -1                       |
-| [Drider](Driders "wikilink")      | <span style="display:none">4</span>L  | 3                        |
-| [Gith](Gith "wikilink")           | <span style="display:none">2</span>M  | -1                       |
-| [Golem](Golem "wikilink")         | <span style="display:none">4</span>L  | -1                       |
-| [Griffon](Griffon "wikilink")     | <span style="display:none">4</span>L  | -1                       |
-| [High Elf](High_Elf "wikilink")   | <span style="display:none">3</span>M  | 3                        |
-| [Hobgoblin](Hobgoblin "wikilink") | <span style="display:none">2</span>S  | -1                       |
-| [Ignatur](Ignatur "wikilink")     | <span style="display:none">4</span>S  | 0                        |
-| [Minotaur](Minotaur "wikilink")   | <span style="display:none">4</span>L  | -1                       |
-| [Miraar](Miraar "wikilink")       | <span style="display:none">3</span>M  | n/a                      |
-| [Sprite](Sprite "wikilink")       | <span style="display:none">1</span>vS | 0.5                      |
-| [Troll](Troll "wikilink")         | <span style="display:none">4</span>L  | 0                        |
-| [Tuataur](Tuataur "wikilink")     | <span style="display:none">3</span>M  | 1                        |
+| Race                                                                         |  [Size](Racial_Size.md "wikilink")    |  Racial Archery Modifier |
+|------------------------------------------------------------------------------|---------------------------------------|--------------------------|
+| [Demonseed](Demonseed "wikilink") .md\| <span style="display:none">2</span>S | 1                                     |                          |
+| [Dragon](Dragon "wikilink")                                                  | <span style="display:none">4</span>vL | -1                       |
+| [Drider](Driders.md "wikilink")                                              | <span style="display:none">4</span>L  | 3                        |
+| [Gith](Gith "wikilink") .md\| <span style="display:none">2</span>M           | -1                                    |                          |
+| [Golem](Golem "wikilink")                                                    | <span style="display:none">4</span>L  | -1                       |
+| [Griffon](Griffon "wikilink") .md\| <span style="display:none">4</span>L     | -1                                    |                          |
+| [High Elf](High_Elf "wikilink")                                              | <span style="display:none">3</span>M  | 3                        |
+| [Hobgoblin](Hobgoblin "wikilink") .md\| <span style="display:none">2</span>S | -1                                    |                          |
+| [Ignatur](Ignatur "wikilink")                                                | <span style="display:none">4</span>S  | 0                        |
+| [Minotaur](Minotaur "wikilink") .md\| <span style="display:none">4</span>L   | -1                                    |                          |
+| [Miraar](Miraar "wikilink")                                                  | <span style="display:none">3</span>M  | n/a                      |
+| [Sprite](Sprite "wikilink") .md\| <span style="display:none">1</span>vS      | 0.5                                   |                          |
+| [Troll](Troll "wikilink")                                                    | <span style="display:none">4</span>L  | 0                        |
+| [Tuataur](Tuataur "wikilink") .md\| <span style="display:none">3</span>M     | 1                                     |                          |
 
 <big>**[Remort Races](:Category:_Remort_Races "wikilink") Archery
 Modifiers**</big>

@@ -10,17 +10,17 @@ you..cracks his knuckles..uhoh...Here comes the pain!*
 
 **Keywords:** lezgnar, ??  
 **Scan Description:**  
-**[Level](Level "wikilink"):** 100.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink"),
-[battle-hardened](Warlord_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 100.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink"),
+[battle-hardened](Warlord_Mobs.md "wikilink")  
 **Affects:** [Sanctuary](Sanctuary "wikilink").  
 
 ## Gear
 
 `Lezgnar is using:`  
-<held>`              `[`a`` ``double`` ``headed`` ``hammer`](Double_Headed_Hammer "wikilink")
+<held>`              `[`a`` ``double`` ``headed`` ``hammer`](Double_Headed_Hammer.md "wikilink")
 
 ## Comments
 
@@ -28,11 +28,11 @@ Give him the captain's head for a barkskin potion.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Helikon
-Tower](:Category:Helikon_Tower "wikilink")
-([Map](Helikon_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Audience chamber
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Helikon
+Tower](:Category:Helikon_Tower.md "wikilink")
+([Map](Helikon_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Audience chamber
+([Cursed](Cursed_Rooms.md "wikilink")).  
 
 [Category:Mobs In Helikon
 Tower](Category:Mobs_In_Helikon_Tower "wikilink")

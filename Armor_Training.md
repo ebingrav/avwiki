@@ -1,8 +1,8 @@
-*With armor training, a [Berserker](:Category:_Berserkers "wikilink")
-can use his [AC](Armor_Class "wikilink") limited abilities (such as
-[resist pain](Resist_Pain "wikilink")) with a higher limit; -850 for
-[Heroes](:Category:_Hero "wikilink") and -1500 for
-[lords](:Category:Lord "wikilink").*
+*With armor training, a [Berserker](:Category:_Berserkers.md "wikilink")
+can use his [AC](Armor_Class.md "wikilink") limited abilities (such as
+[resist pain](Resist_Pain.md "wikilink")) with a higher limit; -850 for
+[Heroes](:Category:_Hero.md "wikilink") and -1500 for
+[lords](:Category:Lord.md "wikilink").*
 
 Prerequisite(s): none.
 

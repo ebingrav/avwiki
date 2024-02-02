@@ -1,31 +1,31 @@
 *A pair of flaming red horns lies on the floor here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`save`](Saving_Throw "wikilink")` vs magic by -2 continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by -1 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by -1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`save`](Saving_Throw.md "wikilink")` vs magic by -2 continuous.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by -1 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by -1 continuous.`
 
 **Keyword(s):** flaming horns red.  
-**[Level(s)](Object_Level "wikilink"):** 29.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[nodrop](NoDrop_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 29.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Nubrius](:Category:_Nubrius "wikilink")
-([Map](Nubrius_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Beastly Red
+**[Area](:Category:_Areas.md "wikilink"):**
+[Nubrius](:Category:_Nubrius.md "wikilink")
+([Map](Nubrius_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Beastly Red
 Demon](Beastly_Red_Demon "wikilink").  
 See [Beastly Red Demon](Beastly_Red_Demon "wikilink") for more
 information.

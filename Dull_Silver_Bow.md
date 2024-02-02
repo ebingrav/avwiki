@@ -1,27 +1,27 @@
 *A dull silver bow is here.*
 
-[`Damage`](Missile_Weapon_Values "wikilink")` is 21-23 to 65-66 (average 43-44).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 15 continuous.`
+[`Damage`](Missile_Weapon_Values.md "wikilink")` is 21-23 to 65-66 (average 43-44).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** dull, silver, bow.  
-**[Level(s)](Object_Level "wikilink"):** 43.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Missile_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 25 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 43.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Missile_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 25 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Githzerai
-Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a githzerai
-archer](Githzerai_Archer "wikilink").  
-See [a githzerai archer](Githzerai_Archer "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Githzerai
+Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a githzerai
+archer](Githzerai_Archer.md "wikilink").  
+See [a githzerai archer](Githzerai_Archer.md "wikilink") for more
 information.
 
 [Category: Gear In Githzerai

@@ -1,21 +1,21 @@
 *Tired of constantly picking up dropped
-[weapons](:Category:_Weapons "wikilink"), a
-[psionicist](:Category:_Psionicists "wikilink") skilled in
-[telekinesis](:Category:_Telekinetic_Skills_And_Spells "wikilink")
-developed this [spell](:Category:_Spells "wikilink") to keep them always
-near him. Whilst the [spell](:Category:_Spells "wikilink") is active, it
-will capture any [weapon](:Category:_Weapons "wikilink") you lose your
-grip on, returning it to your [inventory](Inventory "wikilink"). Each
-such capture will drain a little of the caster's [mana
-points](Mana_Points "wikilink"). This
-[spell](:Category:_Spells "wikilink") will be
-[exhausted](Exhaustion "wikilink") for a short time when
-[cast](Cast "wikilink").*
+[weapons](:Category:_Weapons.md "wikilink"), a
+[psionicist](:Category:_Psionicists.md "wikilink") skilled in
+[telekinesis](:Category:_Telekinetic_Skills_And_Spells.md "wikilink")
+developed this [spell](:Category:_Spells.md "wikilink") to keep them
+always near him. Whilst the [spell](:Category:_Spells.md "wikilink") is
+active, it will capture any [weapon](:Category:_Weapons.md "wikilink")
+you lose your grip on, returning it to your
+[inventory](Inventory.md "wikilink"). Each such capture will drain a
+little of the caster's [mana points](Mana_Points.md "wikilink"). This
+[spell](:Category:_Spells.md "wikilink") will be
+[exhausted](Exhaustion.md "wikilink") for a short time when
+[cast](Cast.md "wikilink").*
 
-Prerequisite(s): [Fetch](Fetch "wikilink"),
-[Levitation](Levitation "wikilink").
+Prerequisite(s): [Fetch](Fetch.md "wikilink"),
+[Levitation](Levitation.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'kinetic chain'.
+Syntax: [cast](Cast.md "wikilink") 'kinetic chain'.
 
 See also: [Kinetic Weapon Control](Kinetic_Weapon_Control "wikilink")
 

@@ -4,13 +4,14 @@ interested in finding answers and treasure of great magic. Short in
 stature, this deep gnome has an aura of power that can't be ignored.*
 
 **Keywords:** wizard, explorer, ginormous  
-**[Level](Level "wikilink"):** 125.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[protection evil](Protection_Evil "wikilink").  
+**[Level](Level.md "wikilink"):** 125.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink").  
 
 ## Comments
 
@@ -19,14 +20,14 @@ Quest](Deep-Sea_Diver_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")
-([map](Exploration_Outpost_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A Towering Geyser,
-([safe](Safe_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [ Exploration
+Outpost](:Category:_Exploration_Outpost.md "wikilink")
+([map](Exploration_Outpost_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A Towering Geyser,
+([safe](Safe_Rooms.md "wikilink")).  
 Walking route from [Eragora Default
-Recall](Eragora_Default_Recall "wikilink"): 2s d 2s e 3s w s w s w 2s w
-2u w.  
+Recall](Eragora_Default_Recall.md "wikilink"): 2s d 2s e 3s w s w s w 2s
+w 2u w.  
 Ginormous Dingersen is portable.  
 
 [Category: Mobs In Exploration

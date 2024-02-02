@@ -1,29 +1,30 @@
 *A small token of woven shark teeth lays here.*
 
 **Keyword(s):** shark, tooth, token.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")'s [Well Crafted Qass Short
-Spear Quest](Well_Crafted_Qass_Short_Spear_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")'s [Well Crafted Qass
+Short Spear Quest](Well_Crafted_Qass_Short_Spear_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")
-([Map](Qanza_Prairie_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Well Crafted Qass
-Short Spear](Well_Crafted_Qass_Short_Spear "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")
+([Map](Qanza_Prairie_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Well Crafted Qass
+Short Spear](Well_Crafted_Qass_Short_Spear.md "wikilink").  
 See [Well Crafted Qass Short
-Spear](Well_Crafted_Qass_Short_Spear "wikilink") for more information.
+Spear](Well_Crafted_Qass_Short_Spear.md "wikilink") for more
+information.
 
 [Category: Gear In Qanza
 Prairie](Category:_Gear_In_Qanza_Prairie "wikilink") [Category:

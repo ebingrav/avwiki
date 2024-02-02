@@ -6,15 +6,15 @@
 `Modifies hit roll by 5 continuous`
 
 **Keyword(s):** mace of divine justice.  
-**[Level(s)](Object_Level "wikilink"):** 37-39.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <Wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[bless](Bless_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 37-39.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <Wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[bless](Bless_Flag.md "wikilink").  
 
 ## Comments
 
@@ -23,10 +23,10 @@ other is the Paladin Trainer and is in a Safe room.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple Of
-Midgaard](:Category:_Temple_Of_Midgaard "wikilink")
-([Map](Temple_Of_Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The
+**[Area](:Category:_Areas.md "wikilink"):** [Temple Of
+Midgaard](:Category:_Temple_Of_Midgaard.md "wikilink")
+([Map](Temple_Of_Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The
 Cleric](The_Cleric "wikilink").  
 See [The Cleric](The_Cleric "wikilink") for more information.  
 

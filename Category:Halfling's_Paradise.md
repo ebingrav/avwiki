@@ -14,18 +14,18 @@ most their lives living in a halfling's paradise?*
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): 2s, d, 6e, 2s, 2e, 2s, e,
+recall](Eragora_default_recall.md "wikilink"): 2s, d, 6e, 2s, 2e, 2s, e,
 2s, 4e, 2s, 2e, d, 2e, 3s, e
 
-[Portaling](Portal "wikilink") point(s) suggested: [clam
-girl](Clam-Digger "wikilink"), [old halfling
-fisherman](Halfling_Fisherman "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [clam
+girl](Clam-Digger.md "wikilink"), [old halfling
+fisherman](Halfling_Fisherman.md "wikilink").
 
 ## Connections
 
--   [Halfling Tunnels](:Category:Halfling_Tunnels "wikilink")
--   [Quarries and Mines](:Category:Quarries_and_Mines "wikilink")
--   [Sun God Altar](:Category:Sun_God_Altar "wikilink")
+-   [Halfling Tunnels](:Category:Halfling_Tunnels.md "wikilink")
+-   [Quarries and Mines](:Category:Quarries_and_Mines.md "wikilink")
+-   [Sun God Altar](:Category:Sun_God_Altar.md "wikilink")
 
 ## Navigation
 
@@ -42,7 +42,7 @@ non-aggressive ones, and all the mobs see hidden and invisible, as well
 as hit very hard. Soloing is very difficult even for large casters, so
 the area should be run in proper groups. The lower layer features even
 harder mobs and the area's grand finale,
-[Deacon](Deacon_(Halfling's_Paradise) "wikilink") is an epic mob, a
+[Deacon](Deacon_(Halfling's_Paradise).md "wikilink") is an epic mob, a
 situation not helped by his two large sidekicks. Attack him only in
 large groups to be *safe*.
 

@@ -1,6 +1,6 @@
 *Syntax: cast 'shoulder burden*'
 
-*Prerequisites: [magic lore](Magic_Lore "wikilink")*
+*Prerequisites: [magic lore](Magic_Lore.md "wikilink")*
 
 *A Paladin can use this spell to ease the exhaustion of his allies. For
 all present group-mates, each exhaustion affect is reduced in duration

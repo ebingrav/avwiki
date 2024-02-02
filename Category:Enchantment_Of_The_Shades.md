@@ -1,6 +1,6 @@
 *There was a certain apprentice, by the name of Ma'Klyn, who resided in
-a small shrine in the ancient High [Drow](Drow "wikilink") city. He was
-so devoted to his worship that the Dark Fae Queen Zydarielle blessed
+a small shrine in the ancient High [Drow](Drow.md "wikilink") city. He
+was so devoted to his worship that the Dark Fae Queen Zydarielle blessed
 him, and enchanted the shrine. Whether through a dark twist of magic or
 an accident, the remnants of the shrine were bound there. Small pieces
 of each of the inhabitants are doomed to walk there forever, as shades.*
@@ -11,13 +11,13 @@ of each of the inhabitants are doomed to walk there forever, as shades.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, 2e, n.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, 2e, n.  
 For in-game speedwalking compatibility:
 n=n=n=n=n=n=n=n=n=n=n=n=n=n=w=w=w=w=w=w=w=w=n=e=d=d=d=d=s=d=w=d=d=e=d=e=d=w=d=s=s=e=e=n
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Mystagogue](Shade_Of_The_Mystagogue "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Mystagogue](Shade_Of_The_Mystagogue.md "wikilink").
 
 ## Connections
 

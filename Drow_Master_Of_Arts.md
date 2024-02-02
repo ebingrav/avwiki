@@ -5,7 +5,7 @@
 *the war.*  
 
 `The drow master of Arts is using:`  
-<wielded>`           a `[`spider`` ``venom`` ``dagger`](Spider_Venom_Dagger "wikilink")  
-<held>`              a `[`silvery`` ``blue`` ``wand`](Silvery_Blue_Wand "wikilink")
+<wielded>`           a `[`spider`` ``venom`` ``dagger`](Spider_Venom_Dagger.md "wikilink")  
+<held>`              a `[`silvery`` ``blue`` ``wand`](Silvery_Blue_Wand.md "wikilink")
 
 [Category: Mobs In Drow City](Category:_Mobs_In_Drow_City "wikilink")

@@ -3,21 +3,21 @@ creeping all over you. Makes you sleepy, brain to butter, slow, lie,
 dream. And this vapour settling on your skin...*
 
 **Keywords:** cloud, sweet, odours.  
-**[Level](Level "wikilink"):** 66.  
+**[Level](Level.md "wikilink"):** 66.  
 **Scan Description:** A cloud of sweet odours closes in, more and
 more.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `A cloud of sweet odours is using:`  
-<worn about body>`   `[`a`` ``cloud`` ``of`` ``sweet`` ``odours`](Cloud_Of_Sweet_Odours_(Gear) "wikilink")  
-<held>`              `[`sweet-smelling`` ``vapour`](Sweet-smelling_Vapour "wikilink")
+<worn about body>`   `[`a`` ``cloud`` ``of`` ``sweet`` ``odours`](Cloud_Of_Sweet_Odours_(Gear).md "wikilink")  
+<held>`              `[`sweet-smelling`` ``vapour`](Sweet-smelling_Vapour.md "wikilink")
 
 `A cloud of sweet odours is carrying:`  
 `     Nothing.`
@@ -30,11 +30,11 @@ looted.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In A Vortex
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In A Vortex
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from [Heavily Scarred
 Ent](Heavily_Scarred_Ent "wikilink"): u, s, s, d, n.  
 

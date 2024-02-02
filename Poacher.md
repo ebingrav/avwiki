@@ -5,9 +5,9 @@ catches him, he might end up as dead as the cadaver he's stripping right
 now.*
 
 **Keywords:** poacher  
-**[Level](Level "wikilink"):** 81  
-**[Alignment](Alignment "wikilink"):**neutral  
-**[Flags](:Category:_Mob_Types "wikilink"):**[wimpy](Wimpy_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 81  
+**[Alignment](Alignment.md "wikilink"):**neutral  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**[wimpy](Wimpy_Mobs.md "wikilink")  
 **Affects:** [invis](invis "wikilink"), [hide](hide "wikilink"),
 [sneak](sneak "wikilink")
 

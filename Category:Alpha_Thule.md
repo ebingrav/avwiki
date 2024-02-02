@@ -20,18 +20,18 @@ Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3w, 5n, d, 3n, w,
 n, w, 3n, u, 2n, e, 3n, w, n, w, 12n, 5w, 12n. (Needs water breathing,
 fly and move hidden)
 
-Walking route from [Big Fish](Big_Fish_In_Cold_Water "wikilink"): n, 5w,
-12n. (Needs water breathing, fly and move hidden)
+Walking route from [Big Fish](Big_Fish_In_Cold_Water.md "wikilink"): n,
+5w, 12n. (Needs water breathing, fly and move hidden)
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[selkie](Selkie "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[selkie](Selkie.md "wikilink").
 
 From the selkie you will need to move northish. The path to alpha Thule
 is directly north of the small island.
 
 ## Connections
 
--   [Lake Of Tears](:Category:Lake_Of_Tears "wikilink")
+-   [Lake Of Tears](:Category:Lake_Of_Tears.md "wikilink")
 
 ## Navigation
 
@@ -46,8 +46,8 @@ the shafts with energized clays.
 Upwards are more souls, the Hall of souls (3x2 area) with more souls
 (with sanctuary) and finally on the top is
 [Celestial](Celestial "wikilink") which is a level 100 sanctuary mob
-with an [arbalest](Celestial's_Arbalest "wikilink"), the solitary gear
-piece in the area.
+with an [arbalest](Celestial's_Arbalest.md "wikilink"), the solitary
+gear piece in the area.
 
 No portal points or recall settable places exist (all cursed).
 
@@ -65,19 +65,19 @@ racial armor ([Racial Armorancient](Racial_Armorancient "wikilink")) so
 you won't hit as well (they're also immune to poisons). Due to having
 many high level mobs the area is (very) worthwhile xp-wise, for various
 groups - from 6 people ones farming [perfect
-gems](Perfect_Gemstones "wikilink"), to even
-[berserker](:Category:Berserkers "wikilink")/[basher](Bash "wikilink")
+gems](Perfect_Gemstones.md "wikilink"), to even
+[berserker](:Category:Berserkers.md "wikilink")/[basher](Bash.md "wikilink")
 duos. Only the souls (Ephemeral Spirit, Within the Shafts) and clays
 (Energized Clay, Beneath the Shafts) are less than level 80.
 
 Note that the energized clay part (beneath the citadel) is no-regen.
 
 The first mob you will run into (from the lake) is a sentinel, which is
-aggressive and can detect [sneak](Sneak "wikilink"), [move
-hidden](Move_Hidden "wikilink") and [invisble](Invis "wikilink"). Most
-of the mobs will not be as aggressive, but the [
-ancients](Ancient_Sentinel "wikilink") are positioned on major forks and
-crossroads, which are not as common but something to keep in mind. They
-can easily pommel squishy groupies in a matter of rounds.
+aggressive and can detect [sneak](Sneak.md "wikilink"), [move
+hidden](Move_Hidden.md "wikilink") and [invisble](Invis.md "wikilink").
+Most of the mobs will not be as aggressive, but the [
+ancients](Ancient_Sentinel.md "wikilink") are positioned on major forks
+and crossroads, which are not as common but something to keep in mind.
+They can easily pommel squishy groupies in a matter of rounds.
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink")

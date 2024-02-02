@@ -1,8 +1,8 @@
-*[Berserkers](:Category:_Berserkers "wikilink") with this Rite take less
-of a hit to [AC](Armor_Class "wikilink") when they
-[berserk](Berserk "wikilink"). This applies to both
-[racial](:Category:_Races "wikilink") and
-[class](:Category:_Classes "wikilink") abilities.*
+*[Berserkers](:Category:_Berserkers.md "wikilink") with this Rite take
+less of a hit to [AC](Armor_Class.md "wikilink") when they
+[berserk](Berserk.md "wikilink"). This applies to both
+[racial](:Category:_Races.md "wikilink") and
+[class](:Category:_Classes.md "wikilink") abilities.*
 
 Prerequisite(s): none.
 

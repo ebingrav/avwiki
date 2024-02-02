@@ -50,7 +50,7 @@ both XP and QP, depending on the difficulty of the run in question.
 **200 XP**
 
 -   Influence - Emissary of the mind flayers ([Githzerai
-    Keep](:Category:Githzerai_Keep "wikilink"))
+    Keep](:Category:Githzerai_Keep.md "wikilink"))
 -   Corruption - Emissary of the mind flayers
 
 **100 XP**
@@ -60,7 +60,7 @@ both XP and QP, depending on the difficulty of the run in question.
 -   Blood - [Lord Gith](Lord_Gith "wikilink")
 -   Silence - [Lord Gith](Lord_Gith "wikilink")
 -   Apathy - [Ice Efreet](Ice_Efreet "wikilink") (room in [Plane Of
-    Water](:Category:Plane_Of_Water "wikilink"))
+    Water](:Category:Plane_Of_Water.md "wikilink"))
 -   Ice - [Ice Efreet](Ice_Efreet "wikilink")
 -   Vengeance - [Ice Efreet](Ice_Efreet "wikilink")
 

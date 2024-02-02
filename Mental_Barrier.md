@@ -1,17 +1,17 @@
 *This is a protective discipline which relies on psionics. MENTAL
 BARRIER creates a mobile
-[telekinetic](:Category:_Telekinetic_Skills_And_Spells "wikilink") wall
-between the caster and his foes. As this is a
-[telekinetic](:Category:_Telekinetic_Skills_And_Spells "wikilink")
-effect, it can be [cast](Cast "wikilink") on anybody.*
+[telekinetic](:Category:_Telekinetic_Skills_And_Spells.md "wikilink")
+wall between the caster and his foes. As this is a
+[telekinetic](:Category:_Telekinetic_Skills_And_Spells.md "wikilink")
+effect, it can be [cast](Cast.md "wikilink") on anybody.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'mental barrier'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'mental barrier'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Fortitudes](Fortitudes "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Fortitudes](Fortitudes.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

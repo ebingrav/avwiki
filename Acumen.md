@@ -1,19 +1,19 @@
-*This [sagely](:Category:_Sages "wikilink")
-[spell](:Category:_Spells "wikilink") increases the
-[wisdom](Wisdom "wikilink") of the [caster](Cast "wikilink") for a
+*This [sagely](:Category:_Sages.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") increases the
+[wisdom](Wisdom.md "wikilink") of the [caster](Cast.md "wikilink") for a
 duration.*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'acumen'.
+Syntax: [cast](Cast.md "wikilink") 'acumen'.
 
 This is a somewhat useful
-[skill](:Category:_Skills_And_Spells "wikilink") for all
-[characters](:Category:_Characters "wikilink") (who can) to
-[learn](Practice "wikilink"). It increases its
-[caster](Cast "wikilink")'s [wisdom](Wisdom "wikilink") by 4, though not
-more than 3 above its [caster](Cast "wikilink")'s maximum
-[trainable](Train "wikilink") [wisdom](Wisdom "wikilink").
+[skill](:Category:_Skills_And_Spells.md "wikilink") for all
+[characters](:Category:_Characters.md "wikilink") (who can) to
+[learn](Practice.md "wikilink"). It increases its
+[caster](Cast.md "wikilink")'s [wisdom](Wisdom.md "wikilink") by 4,
+though not more than 3 above its [caster](Cast.md "wikilink")'s maximum
+[trainable](Train.md "wikilink") [wisdom](Wisdom.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Cleric Hero

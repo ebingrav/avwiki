@@ -3,8 +3,8 @@
 **Keywords:** mystical, trapdoor, key  
 **Level:** 51  
 **Weight:** 5  
-**[Type](:Category:Object_Types "wikilink"):** key  
-**Mob:** [acolyte of the void](Acolyte_of_the_Void "wikilink")  
+**[Type](:Category:Object_Types.md "wikilink"):** key  
+**Mob:** [acolyte of the void](Acolyte_of_the_Void.md "wikilink")  
 **Quest:** [Arcanist's Focusing Staff
 Quest](Arcanist's_Focusing_Staff_Quest "wikilink")
 

@@ -4,12 +4,12 @@ This is my function, and as much as a machine can, I feel content with
 this knowledge. Can you say the same?*'
 
 **Keywords:** construct, ancient  
-**[Level](Level "wikilink"):** 85  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** very aggressive,
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invisible](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 85  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** very aggressive,
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invisible](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 
@@ -25,10 +25,10 @@ hidden](Detect_Hidden "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alpha
-Thule](:Category:_Alpha_Thule "wikilink")
-([Map](Alpha_Thule_Map "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): ???.  
+**[Area](:Category:_Areas.md "wikilink"):** [Alpha
+Thule](:Category:_Alpha_Thule.md "wikilink")
+([Map](Alpha_Thule_Map.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.  
 
 [Category: Mobs In Alpha
 Thule](Category:_Mobs_In_Alpha_Thule "wikilink")

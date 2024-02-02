@@ -1,21 +1,21 @@
 *A cheap holy symbol is lying here.*
 
-`Has 5(5) charges at level 18 '`[`remove`` ``curse`](Remove_Curse "wikilink")`'.`
+`Has 5(5) charges at level 18 '`[`remove`` ``curse`](Remove_Curse.md "wikilink")`'.`
 
 **Keyword(s):** travellers holy symbol  
-**[Type](:Category:_Object_Types "wikilink"):**
-[staff](:Category:_Staves "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 20 lbs  
-**[Level(s)](Object_Level "wikilink"):** 10-13  
-**[Quality](Object_Quality "wikilink"):** 30 hps  
-**[Area](:Category:_Areas "wikilink"):** [Town Of
-Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Cleric
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[staff](:Category:_Staves.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 10-13  
+**[Quality](Object_Quality.md "wikilink"):** 30 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Town Of
+Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Cleric
 (Solace)](Cleric_(Solace) "wikilink")  
 See also [Suggested Curative
-Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear.md "wikilink")
 
 ## Directions
 

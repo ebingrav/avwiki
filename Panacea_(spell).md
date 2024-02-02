@@ -1,13 +1,13 @@
 *Named for a plant rumored to have Miraculous properties, this
-[spell](:Category:_Spells "wikilink") clears poisons, diseases and other
-physical ailments. It may need to be [cast](Cast "wikilink") multiple
-times to be fully effective.*
+[spell](:Category:_Spells.md "wikilink") clears poisons, diseases and
+other physical ailments. It may need to be [cast](Cast.md "wikilink")
+multiple times to be fully effective.*
 
-Prerequisite(s): [Pure Touch](Pure_Touch "wikilink"), [Via
-Elimo](Via_Elimo "wikilink").
+Prerequisite(s): [Pure Touch](Pure_Touch.md "wikilink"), [Via
+Elimo](Via_Elimo.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'panacea'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'panacea'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Priest Hero

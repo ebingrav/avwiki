@@ -12,7 +12,7 @@ on any future hide turn ins (to include perfect gems).
 -   Imagery - Corpse of a gith thief - glazed gith hide (wt 10, type
     furniture)
 -   Repository - Corpse of Zlatan - [soft nubuc
-    hide](Nubuc_Hide "wikilink")
+    hide](Nubuc_Hide.md "wikilink")
 -   Miraar thief - embossed hide
 -   Merman - corpse of a merman thief - whole hide of a merman
 -   GearBox - corpse of The unlucky adventurer - hide of an unlucky

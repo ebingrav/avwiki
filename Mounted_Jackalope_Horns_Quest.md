@@ -1,26 +1,26 @@
-In [Qanza Prairie](:Category:_Qanza_Prairie "wikilink"):
+In [Qanza Prairie](:Category:_Qanza_Prairie.md "wikilink"):
 
--   Find [The jackalope](Jackalope "wikilink").
-
-<!-- -->
-
--   [Kill](Kill "wikilink") [The jackalope](Jackalope "wikilink").
+-   Find [The jackalope](Jackalope.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [jackalope horns](Jackalope_Horns "wikilink")
-    from his corpse.
+-   [Kill](Kill.md "wikilink") [The jackalope](Jackalope.md "wikilink").
 
 <!-- -->
 
--   Find [The trapper](Trapper "wikilink").
+-   [Get](Get.md "wikilink") [jackalope
+    horns](Jackalope_Horns.md "wikilink") from his corpse.
 
 <!-- -->
 
--   [Give](Give "wikilink") [jackalope
-    horns](Jackalope_Horns "wikilink") to [The
-    trapper](Trapper "wikilink") and receive [Mounted Jackalope
-    Horns](Mounted_Jackalope_Horns "wikilink").
+-   Find [The trapper](Trapper.md "wikilink").
+
+<!-- -->
+
+-   [Give](Give.md "wikilink") [jackalope
+    horns](Jackalope_Horns.md "wikilink") to [The
+    trapper](Trapper.md "wikilink") and receive [Mounted Jackalope
+    Horns](Mounted_Jackalope_Horns.md "wikilink").
 
 [Category: Quests In Qanza
 Prairie](Category:_Quests_In_Qanza_Prairie "wikilink") [Category:

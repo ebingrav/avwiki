@@ -11,13 +11,13 @@
 *This is his story, and Mervue's story.*
 
 **Keyword(s):** storytellers, notes.  
-**[Level(s)](Object_Level "wikilink"):** 29.  
-**[Type](:Category:_Object_Types "wikilink"):** [
-Furniture](:Category:_Furniture "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 29.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [
+Furniture](:Category:_Furniture.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -228,10 +228,10 @@ city borne from the ashes of the old, defying Time once more.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 26s,e.  
-Walking route from [ Giles](Giles "wikilink"): w, 3s, e.  
-[Portaling](Portal "wikilink") point suggested:
-[Storyteller](Storyteller "wikilink").  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 26s,e.  
+Walking route from [ Giles](Giles.md "wikilink"): w, 3s, e.  
+[Portaling](Portal.md "wikilink") point suggested:
+[Storyteller](Storyteller.md "wikilink").  
 
 [Category: Gear In Mervue](Category:_Gear_In_Mervue "wikilink")
 [Category: Furniture](Category:_Furniture "wikilink")

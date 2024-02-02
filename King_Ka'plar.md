@@ -7,16 +7,16 @@ realize the mistake they've made as his eyes flare red, and his body
 transforms into a huge, vicious, deadly serpent.*
 
 **Keywords:** king, ka, ??.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** steadfast, aggressive,
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** steadfast, aggressive,
 armed with flaming breath.  
 **Affects:** Sanctuary, Detect Invis, Detect Hidden.  
 
 ## Gear
 
 `King Ka'Plar is using:`  
-<worn on head>`      `[`a`` ``grand`` ``serpent`` ``hood`](Grand_Serpent_Hood "wikilink")
+<worn on head>`      `[`a`` ``grand`` ``serpent`` ``hood`](Grand_Serpent_Hood.md "wikilink")
 
 `King Ka'Plar is carrying:`  
 `     Nothing.`
@@ -25,10 +25,10 @@ armed with flaming breath.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Serpent
-Weyr](:Category:_Serpent_Weyr "wikilink")
-([Map](Serpent_Weyr_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The chamber of King Ka'plar
+**[Area](:Category:_Areas.md "wikilink"):** [Serpent
+Weyr](:Category:_Serpent_Weyr.md "wikilink")
+([Map](Serpent_Weyr_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The chamber of King Ka'plar
 (portable).  
 King Ka'Plar is portable.  
 

@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Necropolis_Map.jpg" title="Necropolis_Map.jpg" width="650"
-alt="Necropolis_Map.jpg" />
-<figcaption aria-hidden="true">Necropolis_Map.jpg</figcaption>
+<img src="Necropolis_Map.jpg.md" title="Necropolis_Map.jpg.md"
+width="650" alt="Necropolis_Map.jpg.md" />
+<figcaption aria-hidden="true">Necropolis_Map.jpg.md</figcaption>
 </figure>
 
 [Graves Of Reveria Map](Graves_Of_Reveria_Map "wikilink")

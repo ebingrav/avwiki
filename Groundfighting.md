@@ -1,7 +1,7 @@
 ''The fighting techniques covered in this
-[skill](:Category:_Skills "wikilink") teach defense and evasion while
-prone or downed. A [monk](:Category:_Monks "wikilink") with this
-[skill](:Category:_Skills "wikilink") will not take the usual extra
+[skill](:Category:_Skills.md "wikilink") teach defense and evasion while
+prone or downed. A [monk](:Category:_Monks.md "wikilink") with this
+[skill](:Category:_Skills.md "wikilink") will not take the usual extra
 damage that comes with being knocked down.
 
 Prerequisite(s): none.

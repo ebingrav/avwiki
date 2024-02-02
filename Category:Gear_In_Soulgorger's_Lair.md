@@ -43,10 +43,11 @@ tendrils.) there, and have a tank enter the tendril.
 
 Step 2 notes: The mobs in the next area aren't huge. Wander killing
 mobs; be sure to skin the mindless husk of aa giant for [a
-key](Femur_Of_A_Giant "wikilink") ((Dull) the femur of a giant).
+key](Femur_Of_A_Giant.md "wikilink") ((Dull) the femur of a giant).
 
-Find [a man you can look at](Trafsla_The_Karnathian_Shaman "wikilink"),
-and some spheres scattered around.
+Find [a man you can look
+at](Trafsla_The_Karnathian_Shaman.md "wikilink"), and some spheres
+scattered around.
 
 The spheres each go to a different area, gith, kzin, and arcadia.
 
@@ -65,7 +66,7 @@ NOTE: there is a room with some mobs that hold a key that only evil
 aligned characters can enter, so bring dsd's, shf's, sor's, hob's.
 
 Give all the tendrils to Trafsla to get [a
-key](Song_Of_The_Soulgorger's_Heart "wikilink"), then enter tendril.
+key](Song_Of_The_Soulgorger's_Heart.md "wikilink"), then enter tendril.
 
 You'll now be into a mazy area with trapped rooms. Use the "exit"
 command or look north/east/south/west to find the next direction to go
@@ -85,12 +86,12 @@ invisible mob that can't be seen during combat with detects up.
 BTW, the man is a safe for regen, so regen before all stages of the
 journey.
 
-The [big item](Girth_Of_Karnath "wikilink"), that requires a rough
+The [big item](Girth_Of_Karnath.md "wikilink"), that requires a rough
 adventure, is a about waist piece with -65 ac, -15 ac better than it's
 closest piece. There is also [a
-hat](Lens_Of_Eternal_Contempt "wikilink") with +13 dr, which is +3 dr
+hat](Lens_Of_Eternal_Contempt.md "wikilink") with +13 dr, which is +3 dr
 more than current closest (non-psi) piece. There is also [an archer
-cape](Forest_Green_Cloak "wikilink") here.
+cape](Forest_Green_Cloak.md "wikilink") here.
 
 At the end you'll "give patch mishva" (also have strand in inventory).
 Repopping the gear room & killing again may spawn a fresh Mishva, which

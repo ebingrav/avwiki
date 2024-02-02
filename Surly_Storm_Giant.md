@@ -4,19 +4,19 @@ slow, he makes goblins look swift and crafty. Well, he doesn't need a
 lot of intellect to crush your puny skull.*
 
 **Keywords:** surly, storm, giant.  
-**[Level](Level "wikilink"):** 70.  
+**[Level](Level.md "wikilink"):** 70.  
 **Scan Description:** Lightning flashes and thunder booms as a massive
 giant approaches.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `A surly storm giant is using:`  
-<wielded>`           (Invis) (Magical) `[`a`` ``notched`` ``axe`](Notched_Axe "wikilink")
+<wielded>`           (Invis) (Magical) `[`a`` ``notched`` ``axe`](Notched_Axe.md "wikilink")
 
 `A surly storm giant is carrying:`  
 `     Nothing.`
@@ -27,12 +27,12 @@ This mob is armed with a electric breath.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morte
-Vallta](:Category:_Morte_Vallta "wikilink")
-([Map](Morte_Vallta_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Morte
+Vallta](:Category:_Morte_Vallta.md "wikilink")
+([Map](Morte_Vallta_Map.md "wikilink")).  
 A surly storm giant wanders.  
-[Portaling](Portal "wikilink") point suggested: [gia
-vul](Giant_Vulture "wikilink").  
+[Portaling](Portal.md "wikilink") point suggested: [gia
+vul](Giant_Vulture.md "wikilink").  
 
 [Category: Mobs In Morte
 Vallta](Category:_Mobs_In_Morte_Vallta "wikilink")

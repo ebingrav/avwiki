@@ -12,26 +12,27 @@ desecrated! Why must man change the land? Why cannot we simply leave it
 alone?*
 
 **Keyword(s):** sario journal.  
-**[Level(s)](Object_Level "wikilink"):** 44.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 44.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used to obtain the [Worn
-Black Cloak](Worn_Black_Cloak "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used to obtain the
+[Worn Black Cloak](Worn_Black_Cloak "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tortured Terrain
-](:Category:_Tortured_Terrain "wikilink")
-([Map](Tortured_Terrain_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Sario](Sario "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Tortured Terrain
+](:Category:_Tortured_Terrain.md "wikilink")
+([Map](Tortured_Terrain_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Sario](Sario "wikilink").  
 See [Sario](Sario "wikilink") for more information.  
 
 [Category: Gear In Tortured

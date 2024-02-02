@@ -1,7 +1,8 @@
 *Underneath the mines of the [Dwarven
-city](:Category:_Mt_Durr "wikilink") is a series of labyrinthian tunnels
-that were once part of the [Dwarves](Dwarves "wikilink")' extensive
-mining system. What occupies these catacombs now is anyone's guess.*
+city](:Category:_Mt_Durr.md "wikilink") is a series of labyrinthian
+tunnels that were once part of the [Dwarves](Dwarves.md "wikilink")'
+extensive mining system. What occupies these catacombs now is anyone's
+guess.*
 
 **Level Range:** 15-26
 
@@ -9,14 +10,14 @@ mining system. What occupies these catacombs now is anyone's guess.*
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 3w, n, 2u, e,
-u, 5n, \[n\], \[d\].
-
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 9w, n, 2u,
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 3w, n, 2u,
 e, u, 5n, \[n\], \[d\].
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[DarkenBeast](DarkenBeast "wikilink").
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 9w, n,
+2u, e, u, 5n, \[n\], \[d\].
+
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[DarkenBeast](DarkenBeast.md "wikilink").
 
 ## Connections
 

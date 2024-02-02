@@ -1,27 +1,28 @@
 *A triangle-shaped key made of oak is here.*
 
 **Keyword(s):** wooden key.  
-**[Level(s)](Object_Level "wikilink"):** 15.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[key](:Category:_Keys "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 5 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 15.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[key](:Category:_Keys.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 5 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
-This [key](:Category:_Keys "wikilink") unlocks the entrance to the
+This [key](:Category:_Keys.md "wikilink") unlocks the entrance to the
 Royalty Chambers, where the [Darklin Ruler](Darklin_Ruler "wikilink")
 is.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Darklin
-Hole](:Category:_Darklin_Hole "wikilink")
-([Map](Darklin_Hole_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Darklin Head
+**[Area](:Category:_Areas.md "wikilink"):** [Darklin
+Hole](:Category:_Darklin_Hole.md "wikilink")
+([Map](Darklin_Hole_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Darklin Head
 Guard](Darklin_Head_Guard "wikilink").  
 
 [Category: Gear In Darklin

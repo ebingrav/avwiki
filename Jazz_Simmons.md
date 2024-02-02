@@ -3,15 +3,15 @@ He will do anything to destroy the Wamphyri, and will not hesitate to
 kill you if you get in his way.*
 
 **Keywords:** jazz, simmons.  
-**[Level](Level "wikilink"):** 57.  
-**[Alignment](Alignment "wikilink"):** Heroically.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Sentinel, Cleric.  
+**[Level](Level.md "wikilink"):** 57.  
+**[Alignment](Alignment.md "wikilink"):** Heroically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Sentinel, Cleric.  
 **Affects:** Detect Hidden, Infravison.  
 
 ## Gear
 
 `Jazz Simmons is using:`  
-<held>`              (Magical) (Glowing) `[`a`` ``silver`` ``crucifix`](Silver_Crucifix "wikilink")
+<held>`              (Magical) (Glowing) `[`a`` ``silver`` ``crucifix`](Silver_Crucifix.md "wikilink")
 
 `Jazz Simmons is carrying:`  
 `     Nothing.`
@@ -20,10 +20,10 @@ kill you if you get in his way.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Wamphyri
-Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A hot room (portable).  
+**[Area](:Category:_Areas.md "wikilink"):** [Wamphyri
+Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A hot room (portable).  
 Jazz Simmons is portable.  
 
 [Category: Mobs In Wamphyri

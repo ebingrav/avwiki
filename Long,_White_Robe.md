@@ -1,18 +1,18 @@
 *Plain white fabric seems to shine with magic energy.*
 
 `Armor class is 10-12.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -30 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -30 continuous.`
 
 **Keyword(s):** white robe  
 **Floor Description:** A shaman's robes lie here.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Quality](Object_Quality "wikilink"):** 200hp  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Quality](Object_Quality.md "wikilink"):** 200hp  
 
 ## Directions
 

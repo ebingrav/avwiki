@@ -1,24 +1,24 @@
 *An arbalest with a long barrel is here.*
 
-[`Damage`](Missile_Weapon_Values "wikilink")` is 10 to 28 (average 19).`
+[`Damage`](Missile_Weapon_Values.md "wikilink")` is 10 to 28 (average 19).`
 
 **Keyword(s):** arbalest long-barreled.  
-**[Level(s)](Object_Level "wikilink"):** 18.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Missile_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 25 hps.  
-**[Weight](Object_Weight "wikilink"):** 8 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 18.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Missile_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 25 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Dwarven
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Dwarven
 Shooter](Dwarven_Shooter "wikilink").  
 See [Dwarven Shooter](Dwarven_Shooter "wikilink") for more
 information.  

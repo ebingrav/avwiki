@@ -1,7 +1,7 @@
 A quest in two parts. To start, look for a sprite guarding the entrance
-from [Stonehall](:Category:Stonehall "wikilink") to [Oak
-Circle](:Category:Oak_Circle "wikilink") from a tree. Minimum level is
-11. Maximum level unknown.
+from [Stonehall](:Category:Stonehall.md "wikilink") to [Oak
+Circle](:Category:Oak_Circle.md "wikilink") from a tree. Minimum level
+is 11. Maximum level unknown.
 
 I completed this quest at level 23. I went to the wrong sprite guardian
 first, but she led me to the correct one. The quest is straight forward.

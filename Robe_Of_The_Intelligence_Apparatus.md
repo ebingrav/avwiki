@@ -1,28 +1,28 @@
 *A black robe with a purple fringe is folded neatly here.*
 
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")`  by -8 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")`  by -8 continuous.`  
 `Modifies save vs magic by -5 continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 1 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 1 continuous.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`
 
 **Keyword(s):** robe, intelligence.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Padmasa](:Category:_Padmasa "wikilink")
-([Map](Padmasa_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Administrator
+**[Area](:Category:_Areas.md "wikilink"):**
+[Padmasa](:Category:_Padmasa.md "wikilink")
+([Map](Padmasa_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Administrator
 Gru-Dzek](Administrator_Gru-Dzek "wikilink").  
 See [Administrator Gru-Dzek](Administrator_Gru-Dzek "wikilink") for more
 information.  

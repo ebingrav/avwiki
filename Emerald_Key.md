@@ -1,22 +1,23 @@
 *A large ornate key made from an emerald lies here.*
 
 **Keyword(s):** emerald, key.  
-**[Level(s)](Object_Level "wikilink"):** 52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[key](:Category:_Keys "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** Held.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[key](:Category:_Keys.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** Held.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Neraka](:Category:_Neraka "wikilink") ([Map](Neraka_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[Neraka](:Category:_Neraka.md "wikilink")
+([Map](Neraka_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Malaikat](Malaikat "wikilink").  
 See [Symbol Of Darkness](Symbol_Of_Darkness "wikilink") for more
 information.  

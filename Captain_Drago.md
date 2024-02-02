@@ -3,22 +3,22 @@
 `''unable to leave, or die, or think clearly. His eyes look sad.`
 
 **Keywords:** captain, Drago.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [sneak](Sneak.md "wikilink").  
 
 ## Gear
 
 `Captain Drago is using:`  
-<worn on finger>`    [Pristine  ] `[`an`` ``Orkenfyr`` ``signet`` ``ring`](Orkenfyr_Signet_Ring "wikilink")  
-<wielded>`           [Pristine  ] `[`a`` ``dragon-blade`](Dragon-Blade "wikilink")
+<worn on finger>`    [Pristine  ] `[`an`` ``Orkenfyr`` ``signet`` ``ring`](Orkenfyr_Signet_Ring.md "wikilink")  
+<wielded>`           [Pristine  ] `[`a`` ``dragon-blade`](Dragon-Blade.md "wikilink")
 
 `You peek at the inventory:`  
 `     [Pristine  ] a silver key`  
-`     `[`a`` ``torn`` ``page`](Torn_Page "wikilink")
+`     `[`a`` ``torn`` ``page`](Torn_Page.md "wikilink")
 
 ## Comments
 

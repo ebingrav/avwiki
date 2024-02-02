@@ -2,30 +2,30 @@ Suggested group size: 20+, with at least 7 good tanks.
 
 **Before you begin the run**, make sure that you have a lot of cure
 poison wands or potions. On
-[Midgaardia](:Category:Midgaardia "wikilink"),
+[Midgaardia](:Category:Midgaardia.md "wikilink"),
 [Kelsee](Kelsee "wikilink") sells rowen wood branches (wands), and the
 [Alchemist](Alchemist "wikilink") sells vials of mustard extract
 (potions). Both mobs are portable. Having some heal brandishes is also
 very helpful.
 
 Bring your group to [Under The
-Stars](:Category:Under_The_Stars "wikilink"). If the [Planar
+Stars](:Category:Under_The_Stars.md "wikilink"). If the [Planar
 Anchor](Planar_Anchor "wikilink") is in
-[Noctopia](:Category:Noctopia "wikilink") then just shift to it.
-Otherwise go to [Noctopia](:Category:Noctopia "wikilink") shift and go
-s,d,w,d. See [Shiftwatch Orb](:Category:Shiftwatch_Orb "wikilink") for
-suggestions on how to survive [Noctopia](:Category:Noctopia "wikilink")
-shift.
+[Noctopia](:Category:Noctopia.md "wikilink") then just shift to it.
+Otherwise go to [Noctopia](:Category:Noctopia.md "wikilink") shift and
+go s,d,w,d. See [Shiftwatch Orb](:Category:Shiftwatch_Orb.md "wikilink")
+for suggestions on how to survive
+[Noctopia](:Category:Noctopia.md "wikilink") shift.
 
 From the [lloydable](lloydable "wikilink") room in [Under The
-Stars](:Category:Under_The_Stars "wikilink") go 3n w u 3n 4e 3n u to
+Stars](:Category:Under_The_Stars.md "wikilink") go 3n w u 3n 4e 3n u to
 reach [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink"). Note that the 2nd
-to last room in these directions has a couple of tough-ish [Gatewatch
-Eyes](Gatewatch_Eye "wikilink").
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink"). Note that the
+2nd to last room in these directions has a couple of tough-ish
+[Gatewatch Eyes](Gatewatch_Eye "wikilink").
 
 Now that you're in [the
-stands](:Category:Obsidian_Arena;_Stands "wikilink") you have some
+stands](:Category:Obsidian_Arena;_Stands.md "wikilink") you have some
 options. You can seek out [Majestre's Crop](Majestre's_Crop "wikilink"),
 [Exaltra's Mirror](Exaltra's_Mirror "wikilink"), [Onzilorne's
 Bracer](Onzilorne's_Bracer "wikilink"), [Jozarill's
@@ -39,8 +39,8 @@ stirs..." above you, you've found the stair. Regen/respell (if
 necessary) and prepare for the fun part.
 
 The lady's stair is a series of three rooms. Each room has two [Obsidian
-Watchmen](Obsidian_Watchman "wikilink") to kill. Surrounding each step
-are mobs that longshot your group with [Doom
+Watchmen](Obsidian_Watchman.md "wikilink") to kill. Surrounding each
+step are mobs that longshot your group with [Doom
 Toxin](Doom_Toxin "wikilink") arrows. Don't try to fight the snipers, as
 they keep company with [Deathwishes](Deathwish "wikilink"). The first
 two rooms of the staircase are nospell, so you'll need a relatively long
@@ -79,17 +79,18 @@ Sickle](Throwing_Sickle "wikilink"),
 Series](Rediscovering_Ether,_Book_3_In_A_3_Part_Series "wikilink"). This
 room repops normally, so you can camp if it you'd like.
 
-After you clear the [baronness'](Baronness_Kippiarelle "wikilink") room
-you can quaff to reach [Zydarielle, Queen Of
+After you clear the [baronness'](Baronness_Kippiarelle.md "wikilink")
+room you can quaff to reach [Zydarielle, Queen Of
 Stars](Zydarielle,_Queen_Of_Stars "wikilink")'s room **(only if you see
 the ring (lasts \~2 ticks), otherwise it will take you back to shift
 inwhich case wait for repop)**. Don't enter the portal; this will take
-you to the [Shiftwatch Orb](:Category:Shiftwatch_Orb "wikilink"). Note
-that once you quaff you will be stuck in a no-regen section for the rest
-of the run. [Zydarielle's](Zydarielle,_Queen_Of_Stars "wikilink") room
-is tougher than the baronness'. The queen can immolate, instantly
-killing one of your groupies. She also flashes and switches targets with
-[her bow](Long_Bow,_"Deep_Shadow"_(Noctopia) "wikilink"). Additionally,
+you to the [Shiftwatch Orb](:Category:Shiftwatch_Orb.md "wikilink").
+Note that once you quaff you will be stuck in a no-regen section for the
+rest of the run.
+[Zydarielle's](Zydarielle,_Queen_Of_Stars.md "wikilink") room is tougher
+than the baronness'. The queen can immolate, instantly killing one of
+your groupies. She also flashes and switches targets with [her
+bow](Long_Bow,_"Deep_Shadow"_(Noctopia).md "wikilink"). Additionally,
 she's seemingly able to dodge arrows. The queen has the following loot:
 [Black Widow Bodice](Black_Widow_Bodice "wikilink"), [Long Bow, "Deep
 Shadow" (Noctopia)](Long_Bow,_"Deep_Shadow"_(Noctopia) "wikilink"),

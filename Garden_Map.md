@@ -1,8 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="garden.jpg" title="garden.jpg" width="950" alt="garden.jpg" />
-<figcaption aria-hidden="true">garden.jpg</figcaption>
+<img src="garden.jpg.md" title="garden.jpg.md" width="950"
+alt="garden.jpg.md" />
+<figcaption aria-hidden="true">garden.jpg.md</figcaption>
 </figure>
 
 [Tarterus Map](Tarterus_Map "wikilink")  

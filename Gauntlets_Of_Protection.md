@@ -1,13 +1,13 @@
-`'`[`protection`` ``evil`](Protection_Evil "wikilink")`' continuous.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`  
-`Modifies `[`strength`](Strength "wikilink")` by 2 continuous.`
+`'`[`protection`` ``evil`](Protection_Evil.md "wikilink")`' continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 2 continuous.`
 
 Slot: Hands  
 Level: 44-46  
 Base: 8-11  
 Weight: 3  
-Area: [Githzerai Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink"))  
+Area: [Githzerai Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink"))  
 Mob: [Githzerai Swordsman](Githzerai_Swordsman "wikilink")  
   
 
@@ -31,7 +31,7 @@ align is evil (align below -300 or so). same for protection good and
 align greater than +300ish.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 [Category: Gear In Githzerai
 Tower](Category:_Gear_In_Githzerai_Tower "wikilink") [Category:

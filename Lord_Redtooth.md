@@ -6,38 +6,39 @@ this truth. You barely have time to prepare yourself as he lunges after
 you!*
 
 **Keywords:** lord, redtooth.  
-**[Level](Level "wikilink"):** 90.  
+**[Level](Level.md "wikilink"):** 90.  
 **Scan Description:** Lord Redtooth cackles madly and attacks!  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [agressive/very
-agressive](Aggressive_Mobs "wikilink"),
-[psion](:Category:_Psionicists "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [sanctuary](Sanctuary "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [agressive/very
+agressive](Aggressive_Mobs.md "wikilink"),
+[psion](:Category:_Psionicists.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Lord Redtooth is using:`  
-<worn on body>`      `[`a`` ``tattered`` ``shirt`](Tattered_Shirt "wikilink")  
-<worn on legs>`      `[`tattered`` ``pants`](Tattered_Pants "wikilink")  
-<wielded>`           (Demonic) `[`redtooth's`` ``cutlass`](Redtooth's_Cutlass "wikilink")
+<worn on body>`      `[`a`` ``tattered`` ``shirt`](Tattered_Shirt.md "wikilink")  
+<worn on legs>`      `[`tattered`` ``pants`](Tattered_Pants.md "wikilink")  
+<wielded>`           (Demonic) `[`redtooth's`` ``cutlass`](Redtooth's_Cutlass.md "wikilink")
 
 `Lord Redtooth is carrying:`  
-`     (Demonic) `[`a`` ``red`` ``amulet`](Red_Amulet "wikilink")
+`     (Demonic) `[`a`` ``red`` ``amulet`](Red_Amulet.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Redtooth's
-Isle](:Category:_Redtooth's_Isle "wikilink")
-([Map](Redtooth's_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Redtooth's Hall
+**[Area](:Category:_Areas.md "wikilink"):** [Redtooth's
+Isle](:Category:_Redtooth's_Isle.md "wikilink")
+([Map](Redtooth's_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Redtooth's Hall
 
-Walking route from a [little crab](Little_Crab "wikilink"): n, n, n, d,
-d, d, e, d, e, s, s, e, e, e, s, e, s, s, e, d, e, e, s, e, s, s, e, u,
-e, u, e.
+Walking route from a [little crab](Little_Crab.md "wikilink"): n, n, n,
+d, d, d, e, d, e, s, s, e, e, e, s, e, s, s, e, d, e, e, s, e, s, s, e,
+u, e, u, e.
 
 WARNING: He casts scramble and has another large mob in the room with
 him. Given his level, he's also difficult to bash. Both wield and aggie.

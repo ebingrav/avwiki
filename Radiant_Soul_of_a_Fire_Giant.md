@@ -5,13 +5,13 @@ stubbornly cling to the world, where crafty sorcerers and shamans can
 harness its power for their own gain, though at a price...*
 
 **Keyword(s):** radiant soul ethereal fire.  
-**[Level(s)](Object_Level "wikilink"):** 1000.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** .  
-**[Quality](Object_Quality "wikilink"):** 4000 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow evil magic
+**[Level(s)](Object_Level.md "wikilink"):** 1000.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** .  
+**[Quality](Object_Quality.md "wikilink"):** 4000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow evil magic
 nolocate.  
 
 ## Comments

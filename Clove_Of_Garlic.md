@@ -1,20 +1,20 @@
 *A small, white clove of garlic is here.*
 
-`Level 6 spells of: '`[`turn`` ``undead`](Turn_Undead "wikilink")`'.`
+`Level 6 spells of: '`[`turn`` ``undead`](Turn_Undead.md "wikilink")`'.`
 
 **Keyword(s):** garlic clove herbs herb  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Level(s)](Object_Level "wikilink"):** 0  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
-[Herbalist](Herbalist "wikilink") ([portable](Teleport "wikilink"))  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 0  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Herbalist](Herbalist "wikilink") ([portable](Teleport.md "wikilink"))  
 
 ## Comments
 

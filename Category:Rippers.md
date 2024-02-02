@@ -4,24 +4,24 @@
 using their own natural weaponry just as effectively as most use an axe
 or sword. Harnessing the animal within, Rippers learn new martial
 techniques to capitalize on their own [racial
-abilities](:Category:Racials "wikilink"), most notably their claws. They
-often push their bodies to the breaking point in search of a better
+abilities](:Category:Racials.md "wikilink"), most notably their claws.
+They often push their bodies to the breaking point in search of a better
 understanding of the animal inside. Trainers are typically found out in
 the wild, as they tend to be shunned by polite society. Like all
-[Prestige Classes](:Category:Prestige_Classes "wikilink"), they retain
-the base class's [Prime Requisite](Prime_Requisite "wikilink"), in this
-case, [Strength](Strength "wikilink").*
+[Prestige Classes](:Category:Prestige_Classes.md "wikilink"), they
+retain the base class's [Prime Requisite](Prime_Requisite "wikilink"),
+in this case, [Strength](Strength "wikilink").*
 
 *The integration of the Ripper's feral self is a surprisingly harmonious
 one, such that the cannot become
-[Berserkers](:Category:Berserkers "wikilink"). Likewise, they cannot
-become [Paladins](:Category:Paladins "wikilink") as the Paladin's weapon
-bond is antithetical to Ripper beliefs.*
+[Berserkers](:Category:Berserkers.md "wikilink"). Likewise, they cannot
+become [Paladins](:Category:Paladins.md "wikilink") as the Paladin's
+weapon bond is antithetical to Ripper beliefs.*
 
 *Sometimes, the Ripper's predeliction for wanton carnage and corpse
 mutilation catches the attention of the Dark Powers, allowing them to
-become [Sorcerors](:Category:Sorcerers "wikilink"), albeit at higher
-level than [Mages](:Category:Mages "wikilink").*
+become [Sorcerors](:Category:Sorcerers.md "wikilink"), albeit at higher
+level than [Mages](:Category:Mages.md "wikilink").*
 
 Requirements:  
 \* level 50 Warrior  
@@ -44,7 +44,7 @@ abilities including:
     HP to use),
 -   [Flay](Flay "wikilink") (an attack that lowers an enemies defenses &
     increases your chance to rend, costs HP to use unless inflicted by
-    [Gnash](Specimen "wikilink")),
+    [Gnash](Specimen.md "wikilink")),
 -   [Maul](Maul "wikilink") (an attack that increases your damage next
     round that costs HP to use),
 -   [Tear](Tear "wikilink") (the ability to tear open a corpse for
@@ -59,9 +59,9 @@ Rippers do not get certain helpful curative spells such as: [Cure
 Blindness](Cure_Blindness "wikilink"), [Cure
 Poison](Cure_Poison "wikilink"), [Cure
 Disease](Cure_Disease "wikilink"). This means stocking up on some
-["casties"](:Category:Spellcasting_Gear "wikilink") is helpful (i.e, the
-[Ceramic Vial](Ceramic_Vial "wikilink") for cure blind). They also do
-not get a lot of mana, so even though they can learn spells like
+["casties"](:Category:Spellcasting_Gear.md "wikilink") is helpful (i.e,
+the [Ceramic Vial](Ceramic_Vial "wikilink") for cure blind). They also
+do not get a lot of mana, so even though they can learn spells like
 [Sanctuary](Sanctuary "wikilink") and [Frenzy](Frenzy "wikilink") they
 can't cast them very often.
 
@@ -88,7 +88,7 @@ not learn the open hand ability.
 
 ## Rippers at Lord Tier
 
-Rippers can remort to [Sorcerers](:Category:Sorcerers "wikilink") at 150
-(human) or 300 (current race).
+Rippers can remort to [Sorcerers](:Category:Sorcerers.md "wikilink") at
+150 (human) or 300 (current race).
 
 [Category: Prestige Classes](Category:_Prestige_Classes "wikilink")

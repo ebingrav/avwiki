@@ -1,6 +1,6 @@
 *The Great Wall was built to protect the lands west of the Wild Wood
 from the dangers which lurked in those dangerous lands. The king of
-[Midgaard](:Category:Midgaard "wikilink") declared that those men and
+[Midgaard](:Category:Midgaard.md "wikilink") declared that those men and
 women who had given their life defending, building and maintaining the
 Wall's security, and hence the security of the realm itself, should be
 honoured with a special resting place of their own. So Defender's
@@ -15,17 +15,17 @@ and not all the dead rest as they should.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\].
 
-[Portaling](Portal "wikilink") point(s) suggested: [Groundskeeper
-man](Groundskeeper "wikilink")
+[Portaling](Portal.md "wikilink") point(s) suggested: [Groundskeeper
+man](Groundskeeper.md "wikilink")
 
 ## Connections
 
--   [Haunted Forest](:Category:Haunted_Forest "wikilink")
--   [Highways/Great Wall](:Category:Highways/Great_Wall "wikilink")
--   [Nocte Abbey](:Category:Nocte_Abbey "wikilink")
--   [Ruined Lairs](:Category:Ruined_Lair_5_Of_5 "wikilink")
+-   [Haunted Forest](:Category:Haunted_Forest.md "wikilink")
+-   [Highways/Great Wall](:Category:Highways/Great_Wall.md "wikilink")
+-   [Nocte Abbey](:Category:Nocte_Abbey.md "wikilink")
+-   [Ruined Lairs](:Category:Ruined_Lair_5_Of_5.md "wikilink")
 
 ## Navigation
 
@@ -39,14 +39,14 @@ around in a east/west fashion.
 
 The main entrance from Defender's Way leads into the north section. On
 the west side of the area is a gate to a clearing in Sunset Wood, a part
-of [Nocte Abbey](:Category:Nocte_Abbey "wikilink"). Routes between the
-northern and southern sections of the graveyard are to be easily found
-along the eastern and western sides, circumventing the hill in the
+of [Nocte Abbey](:Category:Nocte_Abbey.md "wikilink"). Routes between
+the northern and southern sections of the graveyard are to be easily
+found along the eastern and western sides, circumventing the hill in the
 centre.
 
 To the south is a down path to the fields of dead corn in the [Haunted
-Forest](:Category:Haunted_Forest "wikilink"). One tomb leads down to
-[Ruined Lair (5)](:Category:Ruined_Lair_5_Of_5 "wikilink") so be
+Forest](:Category:Haunted_Forest.md "wikilink"). One tomb leads down to
+[Ruined Lair (5)](:Category:Ruined_Lair_5_Of_5.md "wikilink") so be
 careful. Access to the top of the hill is also from this section.
 
 There are also a good number of rooms in both sections that require you

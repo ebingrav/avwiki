@@ -1,32 +1,32 @@
-*This [clerical](:Category:_Clerics "wikilink") magic surrounds the
-target [character](:Category:_Characters "wikilink") with a variety of
-[protection
-spells](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink"),
-including [armor](Armor_(spell) "wikilink"), [holy
-armor](Holy_Armor "wikilink"), [holy aura](Holy_Aura "wikilink"),
-[bless](Bless "wikilink"), [frenzy](Frenzy "wikilink"), [protection
-evil](Protection_Evil "wikilink"), [protection
-good](Protection_Good "wikilink"), and
-[sanctuary](Sanctuary "wikilink"). The Awen
-[spell](:Category:_Spells "wikilink") allows the
-[casting](Cast "wikilink") of a group of spells at once. The amount of
-[mana](Mana_Points "wikilink") it costs is balanced by the speed of
-casting a variety of complex spells simultaneously. NOTE: the awen
-affect which shows up on your [affects](Affects "wikilink") list is
+*This [clerical](:Category:_Clerics.md "wikilink") magic surrounds the
+target [character](:Category:_Characters.md "wikilink") with a variety
+of [protection
+spells](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink"),
+including [armor](Armor_(spell).md "wikilink"), [holy
+armor](Holy_Armor.md "wikilink"), [holy aura](Holy_Aura.md "wikilink"),
+[bless](Bless.md "wikilink"), [frenzy](Frenzy.md "wikilink"),
+[protection evil](Protection_Evil.md "wikilink"), [protection
+good](Protection_Good.md "wikilink"), and
+[sanctuary](Sanctuary.md "wikilink"). The Awen
+[spell](:Category:_Spells.md "wikilink") allows the
+[casting](Cast.md "wikilink") of a group of spells at once. The amount
+of [mana](Mana_Points.md "wikilink") it costs is balanced by the speed
+of casting a variety of complex spells simultaneously. NOTE: the awen
+affect which shows up on your [affects](Affects.md "wikilink") list is
 merely a placeholder and does not actually modify anything.*
 
-Prerequisite(s): [Holy Aura](Holy_Aura "wikilink"),
-[Sanctuary](Sanctuary "wikilink").
+Prerequisite(s): [Holy Aura](Holy_Aura.md "wikilink"),
+[Sanctuary](Sanctuary.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'awen'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'awen'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-[Characters](:Category:_Characters "wikilink") will find this
-[cleric](:Category:_Clerics "wikilink") "macro"
-[spell](:Category:_Spells "wikilink") (or its variant
-[Aegis](Aegis "wikilink")), like both [Foci](Foci "wikilink") and
-[Fortitudes](Fortitudes "wikilink"), highly valuable for
-[buffing](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
+[Characters](:Category:_Characters.md "wikilink") will find this
+[cleric](:Category:_Clerics.md "wikilink") "macro"
+[spell](:Category:_Spells.md "wikilink") (or its variant
+[Aegis](Aegis.md "wikilink")), like both [Foci](Foci.md "wikilink") and
+[Fortitudes](Fortitudes.md "wikilink"), highly valuable for
+[buffing](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
 either themselves or others.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

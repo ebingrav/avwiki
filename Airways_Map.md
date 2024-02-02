@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="airways.jpg" title="airways.jpg" width="650"
-alt="airways.jpg" />
-<figcaption aria-hidden="true">airways.jpg</figcaption>
+<img src="airways.jpg.md" title="airways.jpg.md" width="650"
+alt="airways.jpg.md" />
+<figcaption aria-hidden="true">airways.jpg.md</figcaption>
 </figure>
 
 [Cathracharraig Map](Cathracharraig_Map "wikilink"),  

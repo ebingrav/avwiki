@@ -1,18 +1,18 @@
 *This Brigadier sports the lighter coloration and telltale marking of a
-female [Lizard Man](Lizardmen "wikilink").*
+female [Lizard Man](Lizardmen.md "wikilink").*
 
 **Keywords:** lizard, man, silver, brigadier.  
-**[Level](Level "wikilink"):** 30.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 30.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A Silver Brigadier is using:`  
-<worn on hands>`     `[`silvermail`` ``gauntlets`](Silvermail_Gauntlets "wikilink")  
-<worn about body>`   `[`a`` ``black`` ``and`` ``silver`` ``cloak`](Black_And_Silver_Cloak "wikilink")  
-<wielded>`           `[`a`` ``short`` ``spear`](Short_Spear_(Silver) "wikilink")
+<worn on hands>`     `[`silvermail`` ``gauntlets`](Silvermail_Gauntlets.md "wikilink")  
+<worn about body>`   `[`a`` ``black`` ``and`` ``silver`` ``cloak`](Black_And_Silver_Cloak.md "wikilink")  
+<wielded>`           `[`a`` ``short`` ``spear`](Short_Spear_(Silver).md "wikilink")
 
 `A Silver Brigadier is carrying:`  
 `     Nothing.`
@@ -23,10 +23,10 @@ There are three of these.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Crescent
-Bog](:Category:_Crescent_Bog "wikilink")
-([Map](Crescent_Bog_Map "wikilink")).  
-A Silver Brigadier [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Crescent
+Bog](:Category:_Crescent_Bog.md "wikilink")
+([Map](Crescent_Bog_Map.md "wikilink")).  
+A Silver Brigadier [wanders](Wandering_Mobs.md "wikilink").  
 A Silver Brigadier is portable.  
 
 [Category: Mobs In Crescent

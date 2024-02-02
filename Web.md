@@ -1,25 +1,26 @@
-*The web [spell](:Category:_Spells "wikilink") allows you to trap your
-[enemy](:Category:_Mobs "wikilink") in sticky webs, reducing their [hit
-roll](Hit_Roll "wikilink"), [damage roll](Damage_Roll "wikilink"), and
-[dexterity](Dexterity "wikilink"). Also, the
-[enemy](:Category:_Mobs "wikilink") will be unable to
-[flee](Flee "wikilink") from battle. Fighting against the web causes
+*The web [spell](:Category:_Spells.md "wikilink") allows you to trap
+your [enemy](:Category:_Mobs.md "wikilink") in sticky webs, reducing
+their [hit roll](Hit_Roll.md "wikilink"), [damage
+roll](Damage_Roll.md "wikilink"), and
+[dexterity](Dexterity.md "wikilink"). Also, the
+[enemy](:Category:_Mobs.md "wikilink") will be unable to
+[flee](Flee.md "wikilink") from battle. Fighting against the web causes
 slight damage.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'web'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'web'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink")'s best feature is
-that it prevents [wimpy](Wimpy_Mobs "wikilink")
-[mobs](:Category:_Mobs "wikilink") from [fleeing](Flee "wikilink");
-however, due to its high rate of failure, it is rarely used. Other
-[spells](:Category:_Spells "wikilink") like
-[Overconfidence](Overconfidence "wikilink") are far more effective by
+This [skill](:Category:_Skills_And_Spells.md "wikilink")'s best feature
+is that it prevents [wimpy](Wimpy_Mobs.md "wikilink")
+[mobs](:Category:_Mobs.md "wikilink") from
+[fleeing](Flee.md "wikilink"); however, due to its high rate of failure,
+it is rarely used. Other [spells](:Category:_Spells.md "wikilink") like
+[Overconfidence](Overconfidence.md "wikilink") are far more effective by
 comparison.
 
-See also [Web Gear](:Category:_Web_Gear "wikilink").
+See also [Web Gear](:Category:_Web_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

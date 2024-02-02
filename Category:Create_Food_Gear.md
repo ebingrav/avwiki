@@ -1,3 +1,3 @@
-See also [Create Food](Create_Food "wikilink").
+See also [Create Food](Create_Food.md "wikilink").
 
 [Category: Spellcasting Gear](Category:_Spellcasting_Gear "wikilink")

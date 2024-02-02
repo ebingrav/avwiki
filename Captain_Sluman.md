@@ -5,20 +5,20 @@ You sense, however, much less power held within the form of Captain
 Sluman.*
 
 **Keywords:** captain, sluman.  
-**[Level](Level "wikilink"):** 80.  
+**[Level](Level.md "wikilink"):** 80.  
 **Scan Description:** Captain Sluman glares at you as you enter.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [agressive/very
-agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [agressive/very
+agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Captain Sluman is using:`  
-<worn about body>`   `[`a`` ``pirate's`` ``coat`](Pirate's_Coat "wikilink")  
-<wielded>`           `[`a`` ``sharp`` ``scimitar`](Sharp_Scimitar "wikilink")
+<worn about body>`   `[`a`` ``pirate's`` ``coat`](Pirate's_Coat.md "wikilink")  
+<wielded>`           `[`a`` ``sharp`` ``scimitar`](Sharp_Scimitar.md "wikilink")
 
 `Captain Sluman is carrying:`  
 `     Nothing.`
@@ -27,12 +27,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Redtooth's
-Isle](:Category:_Redtooth's_Isle "wikilink")
-([Map](Redtooth's_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Redtooth's Hall
+**[Area](:Category:_Areas.md "wikilink"):** [Redtooth's
+Isle](:Category:_Redtooth's_Isle.md "wikilink")
+([Map](Redtooth's_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Redtooth's Hall
 
-**Directions from [little crab](Little_Crab "wikilink") go here**
+**Directions from [little crab](Little_Crab.md "wikilink") go here**
 
 [Category: Mobs In Redtooth's
 Isle](Category:_Mobs_In_Redtooth's_Isle "wikilink")

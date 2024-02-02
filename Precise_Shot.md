@@ -1,10 +1,10 @@
-*This [skill](:Category:_Skills "wikilink") represents the
-[Fusilier](:Category:_Fusiliers "wikilink")'s specialization with
-[slings](:Category:_Slings "wikilink") and [thrown
-weapons](:Category:_Throwing_Weapons "wikilink"). It increases damage
+*This [skill](:Category:_Skills.md "wikilink") represents the
+[Fusilier](:Category:_Fusiliers.md "wikilink")'s specialization with
+[slings](:Category:_Slings.md "wikilink") and [thrown
+weapons](:Category:_Throwing_Weapons.md "wikilink"). It increases damage
 and accuracy with both, but only against larger enemies.*
 
-Prerequisite(s): [Target Leading](Target_Leading "wikilink").
+Prerequisite(s): [Target Leading](Target_Leading.md "wikilink").
 
 Syntax: none (automatic).
 

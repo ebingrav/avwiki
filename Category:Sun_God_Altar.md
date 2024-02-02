@@ -13,27 +13,27 @@ confirm this fear.*
 
 **Level Range:** 51-51
 
-**Builder:** [WinterRose](User:WinterRose "wikilink")
+**Builder:** [WinterRose](User:WinterRose.md "wikilink")
 
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): 2s, d, 6e, 2s, 2e, 2s, e,
+recall](Eragora_default_recall.md "wikilink"): 2s, d, 6e, 2s, 2e, 2s, e,
 2s, 4e, 2s, 2e, d, 2e, 3s
 
-[Portaling](Portal "wikilink") point(s) suggested: [ Halfling
-salad-worker](Halfling_Salad-Worker "wikilink") is the beginning of the
-area. [Seneca Rotberry](Seneca_Rotberry "wikilink") is another portal
-point deeper in the area.
+[Portaling](Portal.md "wikilink") point(s) suggested: [ Halfling
+salad-worker](Halfling_Salad-Worker.md "wikilink") is the beginning of
+the area. [Seneca Rotberry](Seneca_Rotberry "wikilink") is another
+portal point deeper in the area.
 
 ## Connections
 
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
-    ([map](Eragora_Walkways_Map "wikilink"))
--   [Halfling Tunnels](:Category:Halfling_Tunnels "wikilink")
-    ([map](Halfling_Tunnels_Map "wikilink"))
--   [Halfling's Paradise](:Category:Halfling's_Paradise "wikilink")
-    ([map](Halfling's_Paradise_Map "wikilink"))
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
+    ([map](Eragora_Walkways_Map.md "wikilink"))
+-   [Halfling Tunnels](:Category:Halfling_Tunnels.md "wikilink")
+    ([map](Halfling_Tunnels_Map.md "wikilink"))
+-   [Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink")
+    ([map](Halfling's_Paradise_Map.md "wikilink"))
 
 ## Navigation
 
@@ -48,8 +48,8 @@ point.
 ### Aggressiveness and Dialogue
 
 The difficulty of the area depends on your Eragoran allegiance, which
-can be [pro-halfling](Halfling_Detective_Quest "wikilink"), neutral or
-[pro-half-orc](Mountain_Adventurer_Quest "wikilink").
+can be [pro-halfling](Halfling_Detective_Quest.md "wikilink"), neutral
+or [pro-half-orc](Mountain_Adventurer_Quest.md "wikilink").
 
 1.  In first case the place is rather docile, with friendly banter and
     open to questing and exploration. (Be advised, the corrals will
@@ -74,9 +74,9 @@ with a menu. Only *say* the one word that is highlighted from an entry.
 
 The sunling temple (northwest) on the top layer contains a monk cook,
 who carries [assorted herbs and
-spices](Assorted_Herbs_And_Spices "wikilink"), a [burning
-hands](Burning_Hands "wikilink") pill. This pill is very useful for bzks
-and characters who are otherwise unable to area spell.
+spices](Assorted_Herbs_And_Spices.md "wikilink"), a [burning
+hands](Burning_Hands.md "wikilink") pill. This pill is very useful for
+bzks and characters who are otherwise unable to area spell.
 
 The middle layers feature quests that reward in very powerful gear and
 insignia bonuses (and almost certain doom). See [Seneca

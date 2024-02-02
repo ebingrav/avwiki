@@ -5,7 +5,7 @@ to party! Or to blow you off the cliff. Either one.*
 **Keywords:** mayflower  
 **Scan Description:** A fairy in a safari outfit is flitting around
 here.  
-**Affects:** [fly](Fly "wikilink").  
+**Affects:** [fly](Fly.md "wikilink").  
 
 ## Gear
 
@@ -18,17 +18,17 @@ here.
 ## Comments
 
 Mayflower will take you to [ Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")  
+Outpost](:Category:_Exploration_Outpost.md "wikilink")  
 Mayflower, Explorer and Trailblazer exclaims 'Follow me for Ocean
 Transport!'  
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")
-([map](Exploration_Outpost_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A Rocky Coastline,
-([safe](Safe_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [ Exploration
+Outpost](:Category:_Exploration_Outpost.md "wikilink")
+([map](Exploration_Outpost_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A Rocky Coastline,
+([safe](Safe_Rooms.md "wikilink")).  
 West of [Ginormous Dingersen](Ginormous_Dingersen "wikilink")  
 Mayflower is portable.  
 

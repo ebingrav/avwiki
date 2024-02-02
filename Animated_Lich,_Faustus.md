@@ -3,18 +3,18 @@ to be a highly powerful Lich.*
 
 **Keywords:** lich, faustus, ???  
 **Scan Description:** ???  
-**[Level](Level "wikilink"):** ???  
-**[Alignment](Alignment "wikilink"):** ???  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** ???  
+**[Alignment](Alignment.md "wikilink"):** ???  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** invis.  
 
 ## Gear
 
 The animated Lich, Faustus is using:
 
-<worn on head>`      `[`a`` ``chain`` ``cowl`](Chain_Cowl "wikilink")` `  
-<worn on legs>`      `[`the`` ``lower`` ``half`` ``of`` ``a`` ``shredded`` ``robe`](Lower_Half_Of_A_Shredded_Robe "wikilink")  
-<wielded>`           `[`three`` ``juggling`` ``fireballs`](Three_Juggling_Fireballs "wikilink")
+<worn on head>`      `[`a`` ``chain`` ``cowl`](Chain_Cowl.md "wikilink")` `  
+<worn on legs>`      `[`the`` ``lower`` ``half`` ``of`` ``a`` ``shredded`` ``robe`](Lower_Half_Of_A_Shredded_Robe.md "wikilink")  
+<wielded>`           `[`three`` ``juggling`` ``fireballs`](Three_Juggling_Fireballs.md "wikilink")
 
 ## Comments
 
@@ -25,14 +25,14 @@ try to kill it quickly or stun it if you're looking for them.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Dragon Crypt
-](:Category:_Dragon_Crypt "wikilink")
-([Map](Dragon_Crypt_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Mob Wanders  
-Walking route from [Aelmon](Aelmon "wikilink"): ???.  
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): Go north,
-mob wanders, is high level and invisible, so you'll have to area-spell
-or let it attack you.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Dragon Crypt
+](:Category:_Dragon_Crypt.md "wikilink")
+([Map](Dragon_Crypt_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Mob Wanders  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.  
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): Go
+north, mob wanders, is high level and invisible, so you'll have to
+area-spell or let it attack you.  
 
 [Category:Mobs In Dragon
 Crypt](Category:Mobs_In_Dragon_Crypt "wikilink")

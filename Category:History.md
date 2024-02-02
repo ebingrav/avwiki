@@ -1,8 +1,8 @@
 History of Avatar can be found in hints found throughout the areas.
 These can be on various mobs, items, even area descriptions. Some of the
 most detail information can be found in the books located in [Abbaye du
-Livre](:Category:Abbaye_Du_Livre "wikilink"). At the highest level for
-the Midgaard plane can be summarized in the following key events:
+Livre](:Category:Abbaye_Du_Livre.md "wikilink"). At the highest level
+for the Midgaard plane can be summarized in the following key events:
 
 -   Straul (god of war and destruction) discovers Kisestre, daughter of
     Merrighand.

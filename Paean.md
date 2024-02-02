@@ -1,13 +1,13 @@
 *The room is filled with a white glow. It seems to be coming from him.*
 
 **Keywords:** paean, truly, ancient, priest.  
-**[Level](Level "wikilink"):** 51 or more.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 51 or more.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -21,13 +21,13 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Empty Bedroom (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 2w, \[n\], n, 2u, 2e, s,
-\[w\].  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Empty Bedroom (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 2w, \[n\], n, 2u, 2e,
+s, \[w\].  
 The Paean is portable.  
 
 [Category: Mobs In Midgaard](Category:_Mobs_In_Midgaard "wikilink")

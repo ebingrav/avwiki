@@ -9,11 +9,11 @@ will defect.*
 **Keywords:** Protector, Guard.  
 **Scan Description:** An older man, this guard finds reasons not to
 search for the invaders.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
@@ -28,12 +28,12 @@ search for the invaders.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [The Corridor Turns
-West](The_Corridor_Turns_West_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [The Corridor Turns
+West](The_Corridor_Turns_West_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 6w s.

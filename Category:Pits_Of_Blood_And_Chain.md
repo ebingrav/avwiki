@@ -7,9 +7,9 @@ demons and Fae so twisted, even the other Noctopians shun them.*
 ## Directions
 
 From the [Lloydable](Lloydable "wikilink") room in [Under The
-Stars](:Category:Under_The_Stars "wikilink") go as far north as you can,
-then west, then more north. Check periodically for hidden up exits. Once
-you find one, bash it open and go up to enter the main part of this
+Stars](:Category:Under_The_Stars.md "wikilink") go as far north as you
+can, then west, then more north. Check periodically for hidden up exits.
+Once you find one, bash it open and go up to enter the main part of this
 area. Note that once the door repops behind you you won't be able to go
 back down unless you have a psionicist who will be able to see a 'chain'
 in the room after going up, which when pulled will open down.
@@ -18,7 +18,7 @@ in the room after going up, which when pulled will open down.
 
 Besides the aforementioned entrance, there's an up exit east of the
 [Corpse Collector](Corpse_Collector "wikilink") that leads to [Obsidian
-Arena; Floor](:Category:Obsidian_Arena;_Floor "wikilink")
+Arena; Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")
 
 ## Navigation
 

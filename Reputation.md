@@ -19,9 +19,10 @@ You can check your reputation by typing 'slearn reputation'.
 When you achieve 1% reputation, slearn will display that "you have been
 blocked from learning reputation". Don't freak out! This is normal. You
 won't see a percentage until you reach 2%.  
-[Black Circle Initiates](:Category:_Black_Circle_Initiates "wikilink")
-also get a certain reputation (20%) due to the nature of the Circle but
-this is not earned and can not be lost.  
+[Black Circle
+Initiates](:Category:_Black_Circle_Initiates.md "wikilink") also get a
+certain reputation (20%) due to the nature of the Circle but this is not
+earned and can not be lost.  
 **What the skill does:** Your reputation percentage represents the
 chance that an aggressive mob will attack (aggie) a groupie instead of
 you; if you have 100% reputation, in theory, you will never get aggied

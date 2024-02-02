@@ -1,26 +1,27 @@
-*This [spell](:Category:_Spells "wikilink") will channel a flow of magma
-directly into one [opponent](:Category:_Mobs "wikilink"), heavily
-damaging them. All basic attack and area spells are more powerful for
-in-class users who do not have to fear a counterattack thanks to [a
-group-mate tanking the target](Tanks "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") will channel a flow of
+magma directly into one [opponent](:Category:_Mobs.md "wikilink"),
+heavily damaging them. All basic attack and area spells are more
+powerful for in-class users who do not have to fear a counterattack
+thanks to [a group-mate tanking the target](Tanks.md "wikilink").*
 
-Prerequisite(s): [Fireball](Fireball "wikilink").
+Prerequisite(s): [Fireball](Fireball.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'magma blast'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'magma blast'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This single-target damage [spell](:Category:_Spells "wikilink") is
-eighth of ten that [mages](:Category:_Mages "wikilink") may
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50. [Mages](:Category:_Mages "wikilink") may
-find it useful until they [learn](Practice "wikilink")
-[Desiccate](Desiccate "wikilink") or when they are low on
-[mana](Mana_Points "wikilink").
-[Characters](:Category:_Characters "wikilink") of many other
-[classes](:Category:_Classes "wikilink") may
-[learn](Practice "wikilink") it at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink") but will find it fairly useless to
-them.
+This single-target damage [spell](:Category:_Spells.md "wikilink") is
+eighth of ten that [mages](:Category:_Mages.md "wikilink") may
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50.
+[Mages](:Category:_Mages.md "wikilink") may find it useful until they
+[learn](Practice.md "wikilink") [Desiccate](Desiccate.md "wikilink") or
+when they are low on [mana](Mana_Points.md "wikilink").
+[Characters](:Category:_Characters.md "wikilink") of many other
+[classes](:Category:_Classes.md "wikilink") may
+[learn](Practice.md "wikilink") it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") but will find it fairly useless
+to them.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

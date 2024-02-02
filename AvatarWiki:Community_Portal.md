@@ -2,7 +2,7 @@ The **Community Portal** is the central place to find out what's
 happening on *AvatarWiki!*
 
 See also [Other Avatar MUD
-Websites](Other_Avatar_MUD_Websites "wikilink").
+Websites](Other_Avatar_MUD_Websites.md "wikilink").
 
 ## Current Projects
 
@@ -27,27 +27,13 @@ method..
     their wiki pages. If there's a logical arrangement among rooms with
     the same name, use that to name their wiki pages.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Done</strong></p></td>
-<td><p><strong>To be filled in</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href=":Category:Rooms_In_Necropolis" title="wikilink">Rooms In
-Necropolis</a></p></td>
-<td><p><a href=":Category:Rooms_In_Oak_Circle" title="wikilink">Rooms In
-Oak Circle</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href=":Category:Rooms_In_Stonehall" title="wikilink">Rooms In
-Stonehall</a></p></td>
-<td><p><a href=":Category:Rooms_In_Sanctum" title="wikilink">Rooms In
-Sanctum</a><br />
-(the pages need renaming, too)</p></td>
-</tr>
-</tbody>
-</table>
+{.md\| border=1 \|- \| width=200px \| **Done** \| width=200px \| **To be
+filled in** \|- \| [Rooms In
+Necropolis](:Category:Rooms_In_Necropolis "wikilink") \| [Rooms In Oak
+Circle](:Category:Rooms_In_Oak_Circle.md "wikilink") \|- \| [Rooms In
+Stonehall](:Category:Rooms_In_Stonehall.md "wikilink") \| [Rooms In
+Sanctum](:Category:Rooms_In_Sanctum.md "wikilink")  
+(the pages need renaming, too) \|}
 
 #### Suggestion
 

@@ -1,8 +1,8 @@
 # Notable Mobs
 
--   [A centaur trader](Centaur_Trader "wikilink") is located at H4.
--   [(Sneak) A scorpion](Scorpion "wikilink") scuttles across the sand
-    towards an unknown aim.
+-   [A centaur trader](Centaur_Trader.md "wikilink") is located at H4.
+-   [(Sneak) A scorpion](Scorpion.md "wikilink") scuttles across the
+    sand towards an unknown aim.
 
 # Other Notes
 

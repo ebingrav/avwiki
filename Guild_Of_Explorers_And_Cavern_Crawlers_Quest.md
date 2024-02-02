@@ -1,7 +1,7 @@
 [Urka Hammertoes](Urka_Hammertoes "wikilink") offers you a membership in
-the [Graw Akkuurattaan](:Category:Graw_Akkuurattaan "wikilink") branch
-of the Guild Of Explorers And Cavern Crawlers, if you can provide him
-with a [Flask Of Marlots Ol'
+the [Graw Akkuurattaan](:Category:Graw_Akkuurattaan.md "wikilink")
+branch of the Guild Of Explorers And Cavern Crawlers, if you can provide
+him with a [Flask Of Marlots Ol'
 Special](Flask_Of_Marlots_Ol'_Special "wikilink").
 
 1.  Get a [Flask Of Marlots Ol'

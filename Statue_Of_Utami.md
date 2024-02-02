@@ -5,13 +5,14 @@ her arms spread out before her, ready to embrace you, in a long white
 gown that flows around her perfect body.*
 
 **Keywords:** statue, utami.  
-**[Level](Level "wikilink"):** 75.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[mage](Spellcasting_Mobs "wikilink").  
-**Affects:** [detect invisible](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 75.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[mage](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [detect invisible](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -23,11 +24,11 @@ hidden](Detect_Hidden "wikilink"), [sanctuary](Sanctuary "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Temple of
-Utami](:Category:_Temple_Of_Utami "wikilink")
-([Map](Temple_Of_Utami_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The shrine of Utami
-([private](Private_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Temple of
+Utami](:Category:_Temple_Of_Utami.md "wikilink")
+([Map](Temple_Of_Utami_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The shrine of Utami
+([private](Private_Rooms.md "wikilink")).  
 
 [Category: Mobs In Temple Of
 Utami](Category:_Mobs_In_Temple_Of_Utami "wikilink")

@@ -9,14 +9,14 @@
 **Keywords:** shadows shield vortex  
 **Weight:** 3  
 **Flags:**evil magic anti-good anti-neutral  
-**Plane:** [Noctopia](:Category:_Noctopia "wikilink")  
+**Plane:** [Noctopia](:Category:_Noctopia.md "wikilink")  
 **Area:** [Obsidian Arena;
-Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.  
 
 [Category:Gear In Obsidian Arena;

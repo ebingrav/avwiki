@@ -1,11 +1,11 @@
 **You will need the [Platinum Scale](Platinum_Scale "wikilink") from
-[Memory Lane](:Category:Memory_Lane "wikilink").**
+[Memory Lane](:Category:Memory_Lane.md "wikilink").**
 
 Recommended group size: 25+
 
-Have everyone spellup on [Thorngate](:Category:Thorngate "wikilink"),
-then shift to [Midgaardia](:Category:Midgaardia "wikilink"). You will be
-in shadow form only until you enter the vortex. Portal tys san and go
+Have everyone spellup on [Thorngate](:Category:Thorngate.md "wikilink"),
+then shift to [Midgaardia](:Category:Midgaardia.md "wikilink"). You will
+be in shadow form only until you enter the vortex. Portal tys san and go
 2sunus5u5e2nu to reach [Ramahdon](Ramahdon "wikilink"). The dragon (and
 mobs along the way) will aggie, but give [Ramahdon](Ramahdon "wikilink")
 the [Platinum Scale](Platinum_Scale "wikilink") before he dies to open
@@ -19,9 +19,9 @@ Lords](Incomplete_Shield_Of_Lords "wikilink") loads on [Bahamut's
 Avatar](Bahamut's_Avatar "wikilink") in the last room. All other mobs
 load sigils (5 Sigils total). The shield and all the sigils must be
 given to [Gilliad](Gilliad "wikilink") on
-[Thorngate](:Category:Thorngate "wikilink") to form the shield. This is
-done by giving him the shield, don't give him one of the sigils first,
-because then you'll have to beg an imm to get it back for you.
+[Thorngate](:Category:Thorngate.md "wikilink") to form the shield. This
+is done by giving him the shield, don't give him one of the sigils
+first, because then you'll have to beg an imm to get it back for you.
 
 -   Quaffing from the first and second room will area spell the room if
     you haven't cleared the room yet. Otherwise, it will transport you
@@ -33,11 +33,11 @@ because then you'll have to beg an imm to get it back for you.
     tank, and all tanks should be constantly vigilant as rescues may be
     needed outside of normal chain; chains break often and players may
     be too lagged to call for help.
--   Some of the mobs in [Sun Cabal](:Category:Sun_Cabal "wikilink") cast
-    [Flash](Flash "wikilink"). Make sure groupies are ready to cast
+-   Some of the mobs in [Sun Cabal](:Category:Sun_Cabal.md "wikilink")
+    cast [Flash](Flash "wikilink"). Make sure groupies are ready to cast
     [Cure Blindness](Cure_Blindness "wikilink") on themselves and/or
-    others, or carry [pink potions](Pink_Potion(lord) "wikilink") from
-    [Rietta](Rietta "wikilink").
+    others, or carry [pink potions](Pink_Potion(lord).md "wikilink")
+    from [Rietta](Rietta "wikilink").
 
 [Category:Sun Cabal](Category:Sun_Cabal "wikilink") [Category:Gear In
 Nowhere](Category:Gear_In_Nowhere "wikilink")

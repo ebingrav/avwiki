@@ -4,7 +4,7 @@
 
 # Prereqs
 
--   [greater magic](Greater_Magic "wikilink")
+-   [greater magic](Greater_Magic.md "wikilink")
 
 # Skills/Spells Granted
 

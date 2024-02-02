@@ -5,13 +5,13 @@
 *This word is determined by the hardest single hit to date that your
 character has made. It has no bearing on anything else in life.*
 
-*Hits scored during a [HoGathon](Hogathons "wikilink") do not count.*
+*Hits scored during a [HoGathon](Hogathons.md "wikilink") do not count.*
 
-*You can reset your HDL by typing [config](Config "wikilink") hdl.*
+*You can reset your HDL by typing [config](Config.md "wikilink") hdl.*
 
-[Characters](:Category:_Characters "wikilink") may view their HDL using
-their [score](Score "wikilink")
-[command](:Category:_Commands "wikilink").
+[Characters](:Category:_Characters.md "wikilink") may view their HDL
+using their [score](Score.md "wikilink")
+[command](:Category:_Commands.md "wikilink").
 
 ## **Possible HDLs**
 

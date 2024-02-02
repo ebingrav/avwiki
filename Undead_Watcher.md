@@ -1,5 +1,5 @@
 There are two mobs with this name in
-[Necropolis](:Category:Necropolis "wikilink"). In no specific order:
+[Necropolis](:Category:Necropolis.md "wikilink"). In no specific order:
 
 ## First Watcher
 
@@ -12,30 +12,30 @@ had a notion to add the ice simply to accent her frozen domain.*
 **Keywords:** Watcher.  
 **Scan Description:** With iced veins, this watcher has enough reason to
 coldly kill trespassers.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Undead](Undead_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Undead](Undead_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `Undead Watcher is using:`  
-<wielded>`           `[`a`` ``battered`` ``iron`` ``sword`](Battered_Iron_Sword "wikilink")
+<wielded>`           `[`a`` ``battered`` ``iron`` ``sword`](Battered_Iron_Sword.md "wikilink")
 
 `Undead Watcher is carrying:`  
 `     Nothing.`
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [On A Large Set Of Stone
-Steps](On_A_Large_Set_Of_Stone_Steps_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [On A Large Set Of Stone
+Steps](On_A_Large_Set_Of_Stone_Steps_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s d.
@@ -51,35 +51,35 @@ his fellow villagers for his betrayal of Lloth.*
 **Keywords:** Watcher.  
 **Scan Description:** Doomed by his former life, this watcher can find
 no sympathy.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Undead](Undead_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Undead](Undead_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `Undead Watcher is using:`  
-<wielded>`           `[`a`` ``battered`` ``iron`` ``sword`](Battered_Iron_Sword "wikilink")
+<wielded>`           `[`a`` ``battered`` ``iron`` ``sword`](Battered_Iron_Sword.md "wikilink")
 
 `Undead Watcher is carrying:`  
 `     Nothing.`
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Dueling Dual
-Steps](Dueling_Dual_Steps_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Dueling Dual
+Steps](Dueling_Dual_Steps_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
-|                                                               |                        |
-|---------------------------------------------------------------|------------------------|
-| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): | 3w n 2d n w 7s 6w d.   |
-| or:                                                           | 3w n 2d n w s 6w 6s d. |
+|                                                                                          |
+|------------------------------------------------------------------------------------------|
+| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): .md\| 3w n 2d n w 7s 6w d. |
+| or:                                                                                      |
 
 ## Comments
 

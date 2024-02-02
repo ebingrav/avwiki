@@ -3,14 +3,14 @@ it less frightening is that is ONLY a statue... that is, until the
 statue blinks and starts looking at you.*
 
 **Keywords:** statue, stone, serpent, keresh.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -18,7 +18,7 @@ statue blinks and starts looking at you.*
 `    Nothing.`
 
 `The Stone Serpent of Keresh is carrying:`  
-`    (Humming) `[`a`` ``Stone`` ``Tail`](Stone_Tail "wikilink")
+`    (Humming) `[`a`` ``Stone`` ``Tail`](Stone_Tail.md "wikilink")
 
 ## Comments
 
@@ -27,13 +27,13 @@ Quest](Stone_Serpent_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ruins of
-Keresh](:Category:_Ruins_Of_Keresh "wikilink")
-([Map](Ruins_Of_Keresh_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** At the Serpent's Statue
+**[Area](:Category:_Areas.md "wikilink"):** [Ruins of
+Keresh](:Category:_Ruins_Of_Keresh.md "wikilink")
+([Map](Ruins_Of_Keresh_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** At the Serpent's Statue
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16s, 2w, n, 4w, \[s\],
-s.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16s, 2w, n, 4w,
+\[s\], s.  
 The Stone Serpent of Keresh is portable.  
 
 [Category: Mobs In Ruins Of

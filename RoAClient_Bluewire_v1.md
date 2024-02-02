@@ -43,7 +43,7 @@ to their default which include helps when they would be applied.
 
     #
     tl
-    $var trustlist "Trust list:  @trustlist | %0
+    $var trustlist "Trust list:  @trustlist.md| %0
 
     #
     tank

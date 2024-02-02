@@ -10,25 +10,25 @@ metal encasement to keep you safe as if you peacefully rested in a
 lovers embrace.*
 
 `Armor class is 10-12.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -75 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -75 continuous.`
 
 **Keyword(s):** embroidered breastplate silk  
 **Floor Description:** A piece of embroidered blue silk lies here.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 50 lbs  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Quality](Object_Quality "wikilink"):** 200hp  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 50 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Quality](Object_Quality.md "wikilink"):** 200hp  
 
 ## Directions
 
-**[Mob](:Category:Mobs "wikilink")**: [Tean
+**[Mob](:Category:Mobs.md "wikilink")**: [Tean
 NaamAhn'Sa](Tean_NaamAhn'Sa "wikilink")  
-**[Area](:Category:Areas "wikilink")**: [ Isle Of
-NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho "wikilink")
-([map](Isle_Of_NaamBres'Shho_Map "wikilink"))
+**[Area](:Category:Areas.md "wikilink")**: [ Isle Of
+NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho.md "wikilink")
+([map](Isle_Of_NaamBres'Shho_Map.md "wikilink"))
 
 ## Comments
 

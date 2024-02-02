@@ -15,21 +15,22 @@ linger where that madness took hold.*
 
 **Builder:** Xochitl
 
-This [area](:Category:_Areas "wikilink") was part of an [area-building
-contest](Area-Building_Contests "wikilink") in 2018.  
-This [area](:Category:_Areas "wikilink") was added in 2019.  
+This [area](:Category:_Areas.md "wikilink") was part of an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2018.  
+This [area](:Category:_Areas.md "wikilink") was added in 2019.  
 This area was updated and moved to a permanent home in August of 2023.  
 
 ## Directions
 
 Walking route from [Aelmon](Aelmon "wikilink"): ?.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Butler
+[Portaling](Portal.md "wikilink") point(s) suggested: [Butler
 Higgins](Butler_Higgins "wikilink").
 
 ## Connections
 
--   [Laboratory Of Chalmus](:Category:Laboratory_Of_Chalmus "wikilink")
+-   [Laboratory Of
+    Chalmus](:Category:Laboratory_Of_Chalmus.md "wikilink")
 
 ## Navigation
 
@@ -66,10 +67,10 @@ that drifts among the eight main rooms ([Transitory
 Transmutation](Transitory_Transmutation "wikilink")).
 
 Gear wise, at least two mobs carry poison ([delicate
-ceramic](A_Delicate_Ceramic_Sphere "wikilink")/[delicate
-glass](A_Delicate_Glass_Sphere "wikilink") sphere, venom), another a gun
-and some exploding bullets (a [Rainbow Gun](Rainbow_Gun "wikilink") on
-[Slight Length](Slight_Length "wikilink") in "Swinging Through An
+ceramic](A_Delicate_Ceramic_Sphere.md "wikilink")/[delicate
+glass](A_Delicate_Glass_Sphere.md "wikilink") sphere, venom), another a
+gun and some exploding bullets (a [Rainbow Gun](Rainbow_Gun "wikilink")
+on [Slight Length](Slight_Length "wikilink") in "Swinging Through An
 Electromagnetic Field"), and the boss drops a wand with level 51
 Ultrablast ([bent rod of rusted
 iron](bent_rod_of_rusted_iron "wikilink")). There is also a psi mob that
@@ -79,7 +80,7 @@ acid](flickering_splinter_of_sulfuric_acid "wikilink")).
 When the mob [Extreme Length](Extreme_Length "wikilink") is killed the
 area boss spawns, [Corrosion of Metals](Corrosion_of_Metals "wikilink")
 (level 95). There is an [insignia](insignia "wikilink") quest ([Master
-of The Tesseract](Master_Of_The_Tesseract_Quest "wikilink")) which
+of The Tesseract](Master_Of_The_Tesseract_Quest.md "wikilink")) which
 involves being in the group/room for the deaths of all eight Extreme
 mobs as well as the area boss. The entrance mob can let you know which
 you are missing. Restarting the area with a new group resets the quest.

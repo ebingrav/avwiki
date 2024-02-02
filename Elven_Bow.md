@@ -6,8 +6,8 @@ Weight: 2
 Draw Strength: 12  
 Mob: [Willow Guard](Willow_Guard "wikilink")  
 Area: [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink"))  
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink"))  
 Mob is portable. About 1/3 of them carry this.
 
 [Category: Gear In Kingdom Of The

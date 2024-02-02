@@ -3,18 +3,19 @@
 `Modifies hit roll by 1 continuous.`
 
 **Keyword(s):** white cape  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Level(s)](Object_Level "wikilink"):** 25  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):** [Dwarven
-Catacombs](:Category:_Dwarven_Catacombs "wikilink")
-([Map](Dwarven_Catacombs_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Grand
-Templar](Grand_Templar "wikilink") ([portable](Teleport "wikilink"))  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 25  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Dwarven
+Catacombs](:Category:_Dwarven_Catacombs.md "wikilink")
+([Map](Dwarven_Catacombs_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Grand
+Templar](Grand_Templar "wikilink")
+([portable](Teleport.md "wikilink"))  
 
 ## Comments
 

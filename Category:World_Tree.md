@@ -23,17 +23,17 @@ provides you with memories... and new experiences.*
 Walking route from Sol: 3e, 11s, e, 2s, enter pile. Walking route from
 [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3s, d, 2s, enter pile.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Goldmoon](Goldmoon "wikilink"), 2s, enter pile.
 
 ## Connections
 
--   [Crystalmir Lake](:Category:_Crystalmir_Lake "wikilink")
-    ([map](Crystalmir_Lake_Map "wikilink"))
--   [ Zodiac](:Category:_Zodiac "wikilink")
-    ([map](Zodiac_Map "wikilink"))
--   [ Arcana Excelsis](:Category:_Arcana_Excelsis "wikilink")
-    ([map](Arcana_Excelsis_Map "wikilink"))
+-   [Crystalmir Lake](:Category:_Crystalmir_Lake.md "wikilink")
+    ([map](Crystalmir_Lake_Map.md "wikilink"))
+-   [ Zodiac](:Category:_Zodiac.md "wikilink")
+    ([map](Zodiac_Map.md "wikilink"))
+-   [ Arcana Excelsis](:Category:_Arcana_Excelsis.md "wikilink")
+    ([map](Arcana_Excelsis_Map.md "wikilink"))
 
 ## Navigation
 

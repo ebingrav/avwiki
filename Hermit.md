@@ -11,10 +11,10 @@ to spend some time here, claiming he likes to hear about the happenings
 in the world out there.*
 
 **Keywords:** Groot, man, hermit.  
-**[Level](Level "wikilink"):** 13.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 13.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -29,15 +29,16 @@ in the world out there.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Valley of the
-Dogs](:Category:_Valley_Of_The_Dogs "wikilink")
-([Map](Valley_Of_The_Dogs_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The cottage of Groot
+**[Area](:Category:_Areas.md "wikilink"):** [Valley of the
+Dogs](:Category:_Valley_Of_The_Dogs.md "wikilink")
+([Map](Valley_Of_The_Dogs_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The cottage of Groot
 (portable).  
-Walking route from [Nom](Nom "wikilink"): s, 7e, u, n, 3e, d, s, d, 3n,
-e, n, \[e\], 3e, s, e, 3n, [push](Push "wikilink") bushes, n, 2w.  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 6e, 3s, 4w,
-[push](Push "wikilink") bushes, n, 2w.  
+Walking route from [Nom](Nom.md "wikilink"): s, 7e, u, n, 3e, d, s, d,
+3n, e, n, \[e\], 3e, s, e, 3n, [push](Push.md "wikilink") bushes, n,
+2w.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 6e, 3s, 4w,
+[push](Push.md "wikilink") bushes, n, 2w.  
 Hermit is portable.
 
 [Category: Mobs In Valley Of The

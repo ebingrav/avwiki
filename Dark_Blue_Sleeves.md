@@ -1,30 +1,30 @@
 *Some dark blue sleeves almost escape your notice.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 9-11.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -8 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 30 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 9-11.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -8 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 30 continuous.`
 
 **Keyword(s):** dark, sleeves, blue.  
-**[Level(s)](Object_Level "wikilink"):** 44-46.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[invis](Invis_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 44-46.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[invis](Invis_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Githzerai
-Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a githzerai
-swordsman](Githzerai_Swordsman "wikilink").  
-See [a githzerai swordsman](Githzerai_Swordsman "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Githzerai
+Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a githzerai
+swordsman](Githzerai_Swordsman.md "wikilink").  
+See [a githzerai swordsman](Githzerai_Swordsman.md "wikilink") for more
 information.
 
 [Category: Gear In Githzerai

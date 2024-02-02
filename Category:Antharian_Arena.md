@@ -7,15 +7,15 @@ heroes enter the Antharian Arena. Only the lucky leave it.*
 
 **Builder:** Ginta
 
-This [area](:Category:_Areas "wikilink") was part of an [area-building
-contest](Area-Building_Contests "wikilink") in 2018.  
-This [area](:Category:_Areas "wikilink") was added in 2019.  
+This [area](:Category:_Areas.md "wikilink") was part of an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2018.  
+This [area](:Category:_Areas.md "wikilink") was added in 2019.  
 
 ## Directions
 
 Walking route from [Sanctum](Sanctum "wikilink"): 2e, u, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 

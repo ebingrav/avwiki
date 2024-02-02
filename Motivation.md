@@ -33,6 +33,6 @@ AVATAR, and to share what you know with others. Please see
 [contributing](contributing "wikilink") if you need help figuring out
 how to post information on this site.
 
-\-[mel](User:Mel "wikilink")&[waite](User:Waite "wikilink")
+\-[mel](User:Mel.md "wikilink")&[waite](User:Waite.md "wikilink")
 
 [Category: Wiki Stuff](Category:_Wiki_Stuff "wikilink")

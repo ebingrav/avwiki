@@ -1,5 +1,5 @@
 There are two of these mobs in
-[Necropolis](:Category:Necropolis "wikilink"). In no specific order:
+[Necropolis](:Category:Necropolis.md "wikilink"). In no specific order:
 
 ## First Guardian
 
@@ -15,18 +15,18 @@ take Lloth's side.*
 **Keywords:** Guardian.  
 **Scan Description:** Stalking the hallways, this guard yearns for
 simpler times.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Difting](Drifting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Difting](Drifting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `Guardian Of The Necropolis is using:`  
 <worn on body>`      `[`Glass`` ``Platemail`](Glass_Platemail "wikilink")  
-<wielded>`           `[`A`` ``Battered`` ``Iron`` ``Sword`](Battered_Iron_Sword "wikilink")
+<wielded>`           `[`A`` ``Battered`` ``Iron`` ``Sword`](Battered_Iron_Sword.md "wikilink")
 
 `Guardian Of The Necropolis is carrying:`  
 `     Nothing.`
@@ -38,17 +38,17 @@ simpler times.
 **Keywords:** Guardian.  
 **Scan Description:** This guard stands at attention, as he has for
 eons. He waits. Impatiently.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Difting](Drifting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Difting](Drifting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `Guardian Of The Necropolis is using:`  
-<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd "wikilink")
+<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd.md "wikilink")
 
 `Guardian Of The Necropolis is carrying:`  
 `     Nothing.`
@@ -57,11 +57,11 @@ eons. He waits. Impatiently.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Guardian Of The Necropolis [drifts](Drifting_Mobs "wikilink").
+Guardian Of The Necropolis [drifts](Drifting_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

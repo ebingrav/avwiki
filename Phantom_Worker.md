@@ -4,18 +4,18 @@ and hate and it looks at you hungrily, you have seen the sun that it
 will never again gaze upon.*
 
 **Keywords:** phantom worker.  
-**[Level](Level "wikilink"):** 24.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[undead](Undead_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"),
-[cursed](Curse "wikilink").  
+**[Level](Level.md "wikilink"):** 24.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"),
+[cursed](Curse.md "wikilink").  
 
 ## Gear
 
 `A phantom worker is using:`  
-<wielded>`           (Humming) `[`a`` ``sledge`` ``hammer`](Sledge_Hammer "wikilink")
+<wielded>`           (Humming) `[`a`` ``sledge`` ``hammer`](Sledge_Hammer.md "wikilink")
 
 `A phantom worker is carrying:`  
 `     Nothing.`
@@ -24,10 +24,11 @@ will never again gaze upon.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Catacombs of
-Solace](:Category:_Catacombs_Of_Solace "wikilink")
-([Map](Catacombs_Of_Solace_Map "wikilink")).  
-A phantom worker [wanders](Wandering_Mobs "wikilink"), and is portable.
+**[Area](:Category:_Areas.md "wikilink"):** [Catacombs of
+Solace](:Category:_Catacombs_Of_Solace.md "wikilink")
+([Map](Catacombs_Of_Solace_Map.md "wikilink")).  
+A phantom worker [wanders](Wandering_Mobs.md "wikilink"), and is
+portable.
 
 [Category: Mobs In Catacombs Of
 Solace](Category:_Mobs_In_Catacombs_Of_Solace "wikilink")

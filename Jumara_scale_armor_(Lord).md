@@ -1,7 +1,7 @@
 *Crafteed from the supple iron-like leather scales of the jumara, the
 breastplate provides superior protection.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -120 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -120 continuous.`  
 `Armor class is 24-27.`
 
 `The item has the following racial wear requirements:`  
@@ -11,13 +11,13 @@ breastplate provides superior protection.*
 `This item is humming.`
 
 **Keyword(s):** jumara, scale, armor.  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 70 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 70 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -26,9 +26,9 @@ Sprite)
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Tssasskkas's Lair
-Redux](:Category:_Tssasskkas's_Lair_Redux "wikilink")  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The eyeless
+**[Area](:Category:_Areas.md "wikilink"):** [ Tssasskkas's Lair
+Redux](:Category:_Tssasskkas's_Lair_Redux.md "wikilink")  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The eyeless
 terror](The_eyeless_terror "wikilink")  
 See [The eyeless terror](The_eyeless_terror "wikilink") for more
 information about the mobs that carries this piece of gear.

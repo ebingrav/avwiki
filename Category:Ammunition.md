@@ -1,11 +1,12 @@
-See also [Ammunition Values](Ammunition_Values "wikilink") and [Missile
-Weapons](:Category:_Missile_Weapons "wikilink").
+See also [Ammunition Values](Ammunition_Values.md "wikilink") and
+[Missile Weapons](:Category:_Missile_Weapons.md "wikilink").
 
 ## Shopkeepers who sell ammunition
 
 Mortal  
-[BlackThorn](BlackThorn,_The_Weapons_Maker "wikilink"), steel stones  
-[The fletcher's daughter](Fletcher's_Daughter "wikilink"), standard
+[BlackThorn](BlackThorn,_The_Weapons_Maker.md "wikilink"), steel
+stones  
+[The fletcher's daughter](Fletcher's_Daughter.md "wikilink"), standard
 arrows and bolts
 
 Hero  

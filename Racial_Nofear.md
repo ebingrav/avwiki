@@ -1,7 +1,7 @@
-*[Races](:Category:_Races "wikilink") with the nofear
-[racial](:Category:_Racials "wikilink") are not affected by fear
-[spells](:Category:_Spells "wikilink"), but also refuse to
-[flee](Flee "wikilink") once combat is already engaged.*
+*[Races](:Category:_Races.md "wikilink") with the nofear
+[racial](:Category:_Racials.md "wikilink") are not affected by fear
+[spells](:Category:_Spells.md "wikilink"), but also refuse to
+[flee](Flee.md "wikilink") once combat is already engaged.*
 
 *Neither aspect of this racial can be prevented, they are both
 automatic.*

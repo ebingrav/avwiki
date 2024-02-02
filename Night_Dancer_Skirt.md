@@ -3,18 +3,18 @@ that graces the forests along Black River. It is decorated with the
 dancer's plumage of iridescent black feathers. Only the holiest of the
 half-orcs are permitted to wear the garb of this revered creature.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -40 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -40 continuous.`  
 `Armor class is 10-12.`
 
 **Keyword(s):** skirt, night, dancer.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
@@ -24,7 +24,7 @@ Skirt](Heroic_Dragonscale_Skirt "wikilink"). No gems though.
 ## Directions
 
 It's on the mob right outside
-[Zurik](Zurik_The_Elder_Shaman "wikilink")'s room (so if you need
+[Zurik](Zurik_The_Elder_Shaman.md "wikilink")'s room (so if you need
 [Zurik's Cowl](Zurik's_Cowl "wikilink") it's convenient to get one along
 the way).
 
@@ -37,10 +37,10 @@ key.
 Open the door to the outer sanctum: unl e, open e, e, n.  
 And finally, kill the shamans.
 
-**[Area](:Category:_Areas "wikilink"):** [ Healing
-Springs](:Category:_Healing_Springs "wikilink")
-([Map](Healing_Springs_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Circle Of
+**[Area](:Category:_Areas.md "wikilink"):** [ Healing
+Springs](:Category:_Healing_Springs.md "wikilink")
+([Map](Healing_Springs_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Circle Of
 Shamans](Circle_Of_Shamans "wikilink").  
 
 [Category: Gear In Healing

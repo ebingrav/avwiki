@@ -4,7 +4,7 @@ Lowmort stormlord lore. Provides access to the hero stormlord lore.
 
 # Prereqs
 
--   [basic magic](Basic_Magic "wikilink")
+-   [basic magic](Basic_Magic.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -13,7 +13,7 @@ Lowmort stormlord lore. Provides access to the hero stormlord lore.
 
 # Lores Unlocked
 
--   [lesser stormlore](Lesser_Stormlore "wikilink")
+-   [lesser stormlore](Lesser_Stormlore.md "wikilink")
 
 # Other Notes
 

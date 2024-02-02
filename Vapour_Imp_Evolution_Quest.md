@@ -1,5 +1,5 @@
 tele/portal shipwreck merchant ([island of the
-lost](:Category:Island_Of_The_Lost "wikilink") area) enter glimmer
+lost](:Category:Island_Of_The_Lost.md "wikilink") area) enter glimmer
 
 With a water imp in group kill all mephits (4) and a special message
 will appear and a lever should show on ground. Pull the lever to reveal

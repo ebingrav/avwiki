@@ -10,12 +10,12 @@ nymphs, protecting the forest.*
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 2e, n.
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 2e, n.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 4w, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 4w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [High
-Sylph](High_Sylph "wikilink"), [Aramus](Aramus "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [High
+Sylph](High_Sylph.md "wikilink"), [Aramus](Aramus "wikilink").
 
 ## Connections
 

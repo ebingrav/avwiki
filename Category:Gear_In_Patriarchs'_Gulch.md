@@ -1,35 +1,35 @@
 # Accessing the gulch
 
 To enter the [Forbidden
-Wasteland](:Category:Forbidden_Wasteland "wikilink") planeshift to
-[Karnath](:Category:Karnath "wikilink") and go n, 4w. The first room of
-the Wasteland has 3 [shrouded warders](Shrouded_Warder "wikilink").
-Along the path you can loot the [Curved Girtablilu
-Bow](Curved_Girtablilu_Bow "wikilink").
+Wasteland](:Category:Forbidden_Wasteland.md "wikilink") planeshift to
+[Karnath](:Category:Karnath.md "wikilink") and go n, 4w. The first room
+of the Wasteland has 3 [shrouded
+warders](Shrouded_Warder.md "wikilink"). Along the path you can loot the
+[Curved Girtablilu Bow](Curved_Girtablilu_Bow "wikilink").
 
 Go w,n,w,n,w,s,w to reach the **wall of gristle and bone**. Get the
-[skeletal hand](Skeletal_Hand "wikilink") from the wall.
+[skeletal hand](Skeletal_Hand.md "wikilink") from the wall.
 
 Go s,e,s,e,n. To your east is a 2x2 temple that contains a stabber and a
 blackjacker.
 
 Go e,s,e to reach the altar. Pull switch to reveal a down exit to [Zedek
-the desecrator](Zedek_The_Desecrator "wikilink").
+the desecrator](Zedek_The_Desecrator.md "wikilink").
 
 Give Zedek the hand and he'll blow up the wall for you, clearing the way
-to [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink"). He also
-creates a portal for you, so you don't have to walk back to the wall.
-One room down from the room he portals to is
+to [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink"). He
+also creates a portal for you, so you don't have to walk back to the
+wall. One room down from the room he portals to is
 [Lloydable](Lloydable "wikilink"), so summon the anchor here to farm
 multiple Gulch runs.
 
 Zedek also accepts the [last remaining drop of
-goo](Last_Remaining_Drop_Of_Goo "wikilink"). This item can be obtained
-by killing all the "goo" related mobs in the [Forbidden
-Wasteland](:Category:Forbidden_Wasteland "wikilink") (they don't repop).
-The drop is tougher to get than the hand, but it's a good option if you
-want to move the [Planar Anchor](Planar_Anchor "wikilink") out of
-[Karnath](:Category:Karnath "wikilink") and still be able to easily
+goo](Last_Remaining_Drop_Of_Goo.md "wikilink"). This item can be
+obtained by killing all the "goo" related mobs in the [Forbidden
+Wasteland](:Category:Forbidden_Wasteland.md "wikilink") (they don't
+repop). The drop is tougher to get than the hand, but it's a good option
+if you want to move the [Planar Anchor](Planar_Anchor "wikilink") out of
+[Karnath](:Category:Karnath.md "wikilink") and still be able to easily
 return to the gulch later on.
 
 Opening Gulch will take about 24-48 tics, depending on your group.
@@ -55,17 +55,17 @@ ticket, I can guarantee your run will take much longer.**
 #### Golden Scarab Medallion
 
 From the [Lloydable](Lloydable "wikilink") room go d,w,s and kill the
-[restless spirit](Restless_Spirit "wikilink") to get the [golden scarab
-medallion](Golden_Scarab_Medallion "wikilink"). This is a key that
-unlocks the **unfinished tomb**.
+[restless spirit](Restless_Spirit.md "wikilink") to get the [golden
+scarab medallion](Golden_Scarab_Medallion.md "wikilink"). This is a key
+that unlocks the **unfinished tomb**.
 
 #### Olive Branch
 
 Go u,w and kill the [captain of the honor
-guard](Captain_Of_The_Honor_Guard "wikilink"). He spawns an [olive
-branch](Olive_Branch "wikilink") on death. This is one of four tickets
-you need to get the [key to the royal burial
-chamber](Key_To_The_Royal_Burial_Chamber "wikilink").
+guard](Captain_Of_The_Honor_Guard.md "wikilink"). He spawns an [olive
+branch](Olive_Branch.md "wikilink") on death. This is one of four
+tickets you need to get the [key to the royal burial
+chamber](Key_To_The_Royal_Burial_Chamber.md "wikilink").
 
   
 \- Note that this room is one of the most painful rooms on the run. The
@@ -76,13 +76,15 @@ symbols.
 #### Dusty Work Gloves
 
 Go n,e,{e} to enter the **unfinished tomb**. Get the [broken
-pickaxe](Broken_Pickaxe "wikilink") from the pile of stoneworking tools.
-Next go e,s. Give the [broken pickaxe](Broken_Pickaxe "wikilink") to the
-[undead contractor](Undead_Contractor "wikilink") before he dies. He
-will repair it into the [well-maintained
-pickaxe](Well-Maintained_Pickaxe "wikilink"), which is the key you need
-to open the **ransacked tomb**. On death the contractor will spawn the
-[dusty work gloves](Dusty_Work_Gloves "wikilink"), ticket \#2 of 4.
+pickaxe](Broken_Pickaxe.md "wikilink") from the pile of stoneworking
+tools. Next go e,s. Give the [broken
+pickaxe](Broken_Pickaxe.md "wikilink") to the [undead
+contractor](Undead_Contractor.md "wikilink") before he dies. He will
+repair it into the [well-maintained
+pickaxe](Well-Maintained_Pickaxe.md "wikilink"), which is the key you
+need to open the **ransacked tomb**. On death the contractor will spawn
+the [dusty work gloves](Dusty_Work_Gloves.md "wikilink"), ticket \#2 of
+4.
 
   
 \- The dusty work gloves spawn on the ground, but the well-maintained
@@ -97,9 +99,9 @@ from the Lloydable room.) Only casters can enter Shizaga's portal, and
 only melee-types can enter Werredan's portal. At the end of the caster's
 leg there's a lever which opens up the final room of the brute's path.
 Here you will find the [master
-blacksmith](Master_Blacksmith "wikilink"). He can also repair your
+blacksmith](Master_Blacksmith.md "wikilink"). He can also repair your
 pickaxe if you forgot to get the contractor to do it. Kill him and get
-the [handle of a broken knife](Handle_Of_A_Broken_Knife "wikilink").
+the [handle of a broken knife](Handle_Of_A_Broken_Knife.md "wikilink").
 
   
 \- When I do this part of the run, I ideally want the bzk to be within
@@ -130,16 +132,16 @@ giant), Room 2 (a robed priest x 2), Room 3 (enchanted drake, tail
 stun), Room 4 (a cocky magus x 3).
 
 From the symbol room go s, enter beam, n. [Inpuvultu, lord of the
-dead](Inpuvultu,_Lord_Of_The_Dead "wikilink") will tell you that he's
+dead](Inpuvultu,_Lord_Of_The_Dead.md "wikilink") will tell you that he's
 looking for *objects which bear the stain of evil*. The knife handle is
 one such object. Give it to him and he'll awaken the [Prince of
-Knives](Prince_Of_Knives "wikilink") within the **ransacked tomb**. To
-get there from Inpuvultu: enter patch,w,{s} (pickaxe key),s. The prince
-wanders this small 3 room crypt. Killing him will yield the [well-oiled
-leathed sheath](Well-Oiled_Leather_Sheath "wikilink"), ticket \#3. While
-in the ransacked tomb, get the [stray chess
-piece](Stray_Chess_Piece "wikilink") from the [corpse of a Karnathian
-temple guard](Corpse_Of_A_Karnathian_Temple_Guard "wikilink") in the
+Knives](Prince_Of_Knives.md "wikilink") within the **ransacked tomb**.
+To get there from Inpuvultu: enter patch,w,{s} (pickaxe key),s. The
+prince wanders this small 3 room crypt. Killing him will yield the
+[well-oiled leathed sheath](Well-Oiled_Leather_Sheath.md "wikilink"),
+ticket \#3. While in the ransacked tomb, get the [stray chess
+piece](Stray_Chess_Piece.md "wikilink") from the [corpse of a Karnathian
+temple guard](Corpse_Of_A_Karnathian_Temple_Guard.md "wikilink") in the
 room furthest south.
 
   
@@ -159,20 +161,20 @@ type treasure and can be sold for about 350k.
 
 #### Evenly Balanced Scale
 
-Bring the [stray chess piece](Stray_Chess_Piece "wikilink") to
+Bring the [stray chess piece](Stray_Chess_Piece.md "wikilink") to
 Inpuvultu. To get back to Inpuvultu, ne from tunnel to get back to
 condor nest/beam, enter beam & go north. He will summon the [disgraced
-patriarch](Disgraced_Patriarch "wikilink"). The Disgraced Patriach is
+patriarch](Disgraced_Patriarch.md "wikilink"). The Disgraced Patriach is
 north from the room with the nest/beam. Upon his death you will receive
-the [evenly balanced scale](Evenly_Balanced_Scale "wikilink"), the final
-ticket. The disgraced patriarch also carries the [Clenched
+the [evenly balanced scale](Evenly_Balanced_Scale.md "wikilink"), the
+final ticket. The disgraced patriarch also carries the [Clenched
 Fist](Clenched_Fist "wikilink"), a 7/7 gauntlet (t1 hit).
 
 Turn in all four tickets to Inpuvultu. He will open an ominous
 passageway. Through this portal you will find a full-safe infirmary room
 that contains the [key to the royal burial
-chamber](Key_To_The_Royal_Burial_Chamber "wikilink"). When you're ready,
-go down. The door to the royal tomb will be to your north.
+chamber](Key_To_The_Royal_Burial_Chamber.md "wikilink"). When you're
+ready, go down. The door to the royal tomb will be to your north.
 
 ### Tips
 
@@ -197,9 +199,10 @@ not take over 2 spellups:
 4.  At the end of this section, you should have the [Clenched
     Fist](Clenched_Fist "wikilink"), [Cool Onyx
     Bracelet](Cool_Onyx_Bracelet "wikilink"), Bright Silver Bracer,
-    [20/25 knives](Long,_Glinting_Knife "wikilink"), and maybe the
-    [scythe that is a t1 basher](Heavily_Tarnished_Scythe "wikilink").
-    The scythe comes from a reaper that is part of the main run.
+    [20/25 knives](Long,_Glinting_Knife.md "wikilink"), and maybe the
+    [scythe that is a t1
+    basher](Heavily_Tarnished_Scythe.md "wikilink"). The scythe comes
+    from a reaper that is part of the main run.
 
 # Facing the Patriarchs
 
@@ -221,7 +224,7 @@ needed, they're sentinel.
     -95 ac, +150 hp, -50 saves), pops on ground after mobs die
 -   [Open Palm](Open_Palm "wikilink") (-30 ac, t1 ac on hands, zgaunts
     without hr/dr)
--   [The Subjugator](Subjugator "wikilink") (30/30, 80-95-110 whip,
+-   [The Subjugator](Subjugator.md "wikilink") (30/30, 80-95-110 whip,
     cannot be runed)
 
 Other loot includes [Reptilian Battle

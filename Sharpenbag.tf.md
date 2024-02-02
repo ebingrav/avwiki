@@ -81,7 +81,7 @@ file, pointing at the directory with tf scripts like
 
     /def -i sharpenbag_weapon_done = \
             /verbose -o%{verbosity_sharpenbag} -l2 - -aCyellow %%% /%0: This weapon is done.%;\
-            /if (regmatch("^$|no_weapon|no_whetstone", sharpen_exit)) \
+            /if (regmatch("^$.md|no_weapon|no_whetstone", sharpen_exit)) \
                     /verbose -o%{verbosity_sharpenbag} -l1 - -aBCred %%% /%0: Sharpen script exit status: %{sharpen_exit}%;\
                     /verbose -o%{verbosity_sharpenbag} -l1 - -aBCred %%% /%0: Exit sharpenbag, sharpen_err.%;\
                     /sharpenbag_exit %{P1}%;\

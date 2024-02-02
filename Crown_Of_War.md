@@ -5,12 +5,13 @@ arrangement of sharp flame-shaped shards. Staring into it summons
 familiar visions of fire and destruction.*
 
 **Keyword(s):** crown war.  
-**[Level(s)](Object_Level "wikilink"):** 52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow evil nolocate.  
+**[Level(s)](Object_Level.md "wikilink"):** 52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow evil
+nolocate.  
 
 ## Comments
 

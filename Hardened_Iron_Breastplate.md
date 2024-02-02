@@ -10,9 +10,10 @@ originated from.*
 **Levels:** Levels 50-52  
 **Weight:** 30 lbs  
 **Bases:** Base 10-12  
-**Flags:** [hum](Hum_Flag "wikilink"), [magic](Magic_Flag "wikilink")  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Flags:** [hum](Hum_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink")  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Erashnak‎](Erashnak‎ "wikilink")  
 
 ## Comments

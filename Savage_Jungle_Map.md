@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="savage.jungle.jpg" title="savage.jungle.jpg" width="950"
-alt="savage.jungle.jpg" />
-<figcaption aria-hidden="true">savage.jungle.jpg</figcaption>
+<img src="savage.jungle.jpg.md" title="savage.jungle.jpg.md" width="950"
+alt="savage.jungle.jpg.md" />
+<figcaption aria-hidden="true">savage.jungle.jpg.md</figcaption>
 </figure>
 
 [Shunned World Map](Shunned_World_Map "wikilink")  

@@ -4,17 +4,17 @@ his face. Large keychain dangles at his belt, many keys for many slave
 collars.*
 
 **Keywords:** Brutus  
-**[Level](Level "wikilink"):**  
-**[Alignment](Alignment "wikilink"):** demonic  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink")
+**[Level](Level.md "wikilink"):**  
+**[Alignment](Alignment.md "wikilink"):** demonic  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink")
 
 ## Gear
 
 `Brutus is using:`  
-<wielded>` `[`hardboard`` ``slinger`](Hardboard_Slinger "wikilink")  
-<held>` `[`50`` ``piercing`` ``bolts`](Piercing_Bolts "wikilink")
+<wielded>` `[`hardboard`` ``slinger`](Hardboard_Slinger.md "wikilink")  
+<held>` `[`50`` ``piercing`` ``bolts`](Piercing_Bolts.md "wikilink")
 
 ## Comments
 
@@ -24,7 +24,7 @@ soloing and unsure of your hps.
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): ???.
+recall](Eragora_default_recall.md "wikilink"): ???.
 
 Mob is portable.
 

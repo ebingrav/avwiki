@@ -1,33 +1,33 @@
-*A brace of faerie [bullets](:Category:_Bullets "wikilink") are lying on
-the ground.*
+*A brace of faerie [bullets](:Category:_Bullets.md "wikilink") are lying
+on the ground.*
 
 **Keyword(s):** brace, faerie, bullets.  
-**[Level(s)](Object_Level "wikilink"):** 53-54.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ammunition](:Category:_Ammunition "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 2hps.  
-**[Weight](Object_Weight "wikilink"):** 1lb per 20.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 53-54.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ammunition](:Category:_Ammunition.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 2hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1lb per 20.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ammunition](:Category:_Ammunition "wikilink") is used with
-[guns](:Category:_Guns "wikilink").
+This [ammunition](:Category:_Ammunition.md "wikilink") is used with
+[guns](:Category:_Guns.md "wikilink").
 
-These bullets cast [faerie fire](Faerie_Fire "wikilink") on their target
-in addition to doing minor damage. The spell, delivered in such a
+These bullets cast [faerie fire](Faerie_Fire.md "wikilink") on their
+target in addition to doing minor damage. The spell, delivered in such a
 visceral manner, is harder for enemies to resist.
 
 You must be a Druid to use these.
 
 ## Directions
 
-` `**[`Level`](Object_Level "wikilink")`:`` `[`Area`](:Category:_Areas "wikilink")`:`` `[`Map`](:Category:_Maps "wikilink")`:`` `[`Mob`](:Category:_Mobs "wikilink")`/`[`Quest`](:Category:_Ticket_Quests "wikilink")`/`[`Room`](:Category:_Rooms "wikilink")`:`**  
-` 51-51     `[`Heartwood`](:Category:_Heartwood "wikilink")`                     `[`map`](Heartwood_Map "wikilink")`       `[`Pineneedles`](Pineneedles "wikilink")
+` `**[`Level`](Object_Level.md "wikilink")`:`` `[`Area`](:Category:_Areas.md "wikilink")`:`` `[`Map`](:Category:_Maps.md "wikilink")`:`` `[`Mob`](:Category:_Mobs.md "wikilink")`/`[`Quest`](:Category:_Ticket_Quests.md "wikilink")`/`[`Room`](:Category:_Rooms.md "wikilink")`:`**  
+` 51-51     `[`Heartwood`](:Category:_Heartwood.md "wikilink")`                     `[`map`](Heartwood_Map.md "wikilink")`       `[`Pineneedles`](Pineneedles "wikilink")
 
 See individual
-[mob](:Category:_Mobs "wikilink")/[quest](:Category:_Ticket_Quests "wikilink")
+[mob](:Category:_Mobs.md "wikilink")/[quest](:Category:_Ticket_Quests.md "wikilink")
 pages linked above for more information.  
 
 [Category: Gear In Heartwood](Category:_Gear_In_Heartwood "wikilink")

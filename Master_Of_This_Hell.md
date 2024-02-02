@@ -3,23 +3,23 @@ Adorned in leather scrubs and a crown of bone, he stands tall at the top
 of this heap overlooking his kingdom of the cursed and dead.*
 
 **Keywords:** master, hell.  
-**[Level](Level "wikilink"):** 75.  
+**[Level](Level.md "wikilink"):** 75.  
 **Scan Description:** Laughing maniacally, a crazed man reigns over this
 scattered hell.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[necromancer](Corpse-Animating_Mobs "wikilink"),
-[undead](Undead_Mobs "wikilink"), [very
-agressive](Aggressive_Mobs "wikilink"),
-[tranquility](Racial_Tranquility "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[necromancer](Corpse-Animating_Mobs.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink"), [very
+agressive](Aggressive_Mobs.md "wikilink"),
+[tranquility](Racial_Tranquility.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The master of this hell is using:`  
-<held>`              (Glowing) `[`the`` ``mystic`` ``dragoon's`` ``control`` ``wand`](Mystic_Dragoon's_Control_Wand "wikilink")
+<held>`              (Glowing) `[`the`` ``mystic`` ``dragoon's`` ``control`` ``wand`](Mystic_Dragoon's_Control_Wand.md "wikilink")
 
 `The master of this hell is carrying:`  
 `     Nothing.`
@@ -27,17 +27,17 @@ invis](Detect_Invis "wikilink"),
 ## Comments
 
 Hold the wand and brandish to be transported to [A Private
-Hell](:Category:A_Private_Hell "wikilink").
+Hell](:Category:A_Private_Hell.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Greed's
-Gallows](:Category:_Greed's_Gallows "wikilink")
-([Map](Greed's_Gallows_Map "wikilink")).  
-**[Room](:Category:Rooms "wikilink"):** The Master's Throne
+**[Area](:Category:_Areas.md "wikilink"):** [Greed's
+Gallows](:Category:_Greed's_Gallows.md "wikilink")
+([Map](Greed's_Gallows_Map.md "wikilink")).  
+**[Room](:Category:Rooms.md "wikilink"):** The Master's Throne
 
-Walking route from [pod mana](Pod_Of_Manatees "wikilink"): e, s, 3d, u,
-n, w, u, 3w  
+Walking route from [pod mana](Pod_Of_Manatees.md "wikilink"): e, s, 3d,
+u, n, w, u, 3w  
 
 [Category: Mobs In Greed's
 Gallows](Category:_Mobs_In_Greed's_Gallows "wikilink")

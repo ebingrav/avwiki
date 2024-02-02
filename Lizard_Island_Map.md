@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Lizard_Island_Map.jpg" title="Lizard_Island_Map.jpg"
-width="650" alt="Lizard_Island_Map.jpg" />
-<figcaption aria-hidden="true">Lizard_Island_Map.jpg</figcaption>
+<img src="Lizard_Island_Map.jpg.md" title="Lizard_Island_Map.jpg.md"
+width="650" alt="Lizard_Island_Map.jpg.md" />
+<figcaption aria-hidden="true">Lizard_Island_Map.jpg.md</figcaption>
 </figure>
 
 [Sea Of Strayed Hopes Map](Sea_Of_Strayed_Hopes_Map "wikilink")

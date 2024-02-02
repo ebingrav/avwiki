@@ -1,18 +1,18 @@
 *This mass of material is dark blue in hue.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5.`  
 `Modifies damage roll by 1 continuous`  
 `Modifies hit roll by 1 continuous`  
 `Modifies hp by 10 continuous`
 
 **Keyword(s):** hakama indigo material.  
-**[Level(s)](Object_Level "wikilink"):** 25-27.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 25-27.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
@@ -21,10 +21,10 @@ Hakama](Grey_Hakama "wikilink"), these are wearable by all alignments.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Drow
+**[Area](:Category:_Areas.md "wikilink"):**
+[Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Drow
 Shadowfist](Drow_Shadowfist "wikilink")  
 
 [Category: Gear In Tiureess](Category:_Gear_In_Tiureess "wikilink")

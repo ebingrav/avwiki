@@ -4,25 +4,25 @@
 `Modifies hit roll by 3 continuous.`
 
 **Keyword(s):** skin tiger cloak  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 8 lbs  
-**[Level(s)](Object_Level "wikilink"):** 40  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):** [Island Of
-Utami](:Category:_Island_Of_Utami "wikilink")
-([Map](Island_Of_Utami_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Tiger](Tiger "wikilink")  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 40  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Island Of
+Utami](:Category:_Island_Of_Utami.md "wikilink")
+([Map](Island_Of_Utami_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Tiger](Tiger "wikilink")  
 
 ## Comments
 
--   Tiger Skin Cloak is a [skin](Skin_Corpse "wikilink") item.
+-   Tiger Skin Cloak is a [skin](Skin_Corpse.md "wikilink") item.
 -   Cloak is easily enchantable.  
 
 ## Directions
 
-[Teleport](Teleport "wikilink") [varan](Ancient_Varan "wikilink") and
+[Teleport](Teleport "wikilink") [varan](Ancient_Varan.md "wikilink") and
 track tiger. If you end up at a cub kill it and retrack till you get to
 the real tiger. Skin the corpse.
 

@@ -11,6 +11,6 @@ A hand grasping an orb lies on the ground
 ` Modifies damage roll by 3 continuous.`  
 ` Modifies mana by 75 continuous.`
 
-Replaced by [Eye of the Beholder](Eye_Of_The_Beholder "wikilink").
+Replaced by [Eye of the Beholder](Eye_Of_The_Beholder.md "wikilink").
 
 [Category: Grandfathered Gear](Category:_Grandfathered_Gear "wikilink")

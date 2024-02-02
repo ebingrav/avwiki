@@ -46,6 +46,6 @@
 
      
 
-` See also: WIZLIST, `[`RETIRED`](:Category:Retired_Immortals "wikilink")`, ANGELS, ARCHANGELS, HEROLIST, HELP STAFFLIST     `
+` See also: WIZLIST, `[`RETIRED`](:Category:Retired_Immortals.md "wikilink")`, ANGELS, ARCHANGELS, HEROLIST, HELP STAFFLIST     `
 
 [Category:Immortals](Category:Immortals "wikilink")

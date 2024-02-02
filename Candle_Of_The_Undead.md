@@ -1,28 +1,28 @@
 *The candle of the undead is a ghostly thing. You can only faintly see
 it, and the light it casts is rather feeble.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous`  
 `Modifies age by 100 continuous`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -3 continuous`
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -3 continuous`
 
 **Keyword(s):** candle, undead.  
-**[Level(s)](Object_Level "wikilink"):** 49-53.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 40 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 49-53.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Silmavar
-Labyrinth](:Category:_Silmavar_Labyrinth "wikilink")
-([Map](Silmavar_Labyrinth_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Silmavar
+Labyrinth](:Category:_Silmavar_Labyrinth.md "wikilink")
+([Map](Silmavar_Labyrinth_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Spectre](Spectre "wikilink").  
 
 [Category: Gear In Silmavar

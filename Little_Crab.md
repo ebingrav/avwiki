@@ -2,11 +2,11 @@
 home.*
 
 **Keywords:** little, crab.  
-**[Level](Level "wikilink"):** 15.  
+**[Level](Level.md "wikilink"):** 15.  
 **Scan Description:** A small crab pinches your toe.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** .  
 
 ## Gear
@@ -21,10 +21,10 @@ home.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Redtooth's
-Isle](:Category:_Redtooth's_Isle "wikilink")
-([Map](Redtooth's_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The southern beach
+**[Area](:Category:_Areas.md "wikilink"):** [Redtooth's
+Isle](:Category:_Redtooth's_Isle.md "wikilink")
+([Map](Redtooth's_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The southern beach
 
 Mob is portable.
 

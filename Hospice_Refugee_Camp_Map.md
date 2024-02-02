@@ -1,9 +1,10 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="hospice.refugee.camp.jpg" title="hospice.refugee.camp.jpg"
-width="650" alt="hospice.refugee.camp.jpg" />
-<figcaption aria-hidden="true">hospice.refugee.camp.jpg</figcaption>
+<img src="hospice.refugee.camp.jpg.md"
+title="hospice.refugee.camp.jpg.md" width="650"
+alt="hospice.refugee.camp.jpg.md" />
+<figcaption aria-hidden="true">hospice.refugee.camp.jpg.md</figcaption>
 </figure>
 
 [Tul-Sith's Hospice Map](Tul-Sith's_Hospice_Map "wikilink")

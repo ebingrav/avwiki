@@ -34,16 +34,16 @@ journey. If you do so, take the symbol, and give it to this wizard. My
 sword will then be yours."*
 
 **Keywords:** saint, spirit, michael, man, nephilim  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** [sactuary](Sanctuary "wikilink"), [fly](Fly "wikilink"),
-[pass door](Translucent_Flag "wikilink").  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** [sactuary](Sanctuary.md "wikilink"),
+[fly](Fly.md "wikilink"), [pass door](Translucent_Flag.md "wikilink").  
 
 ## Gear
 
 `You peek at the inventory:`  
-`    (Glowing) `[`an`` ``ethereal`` ``symbol`](Ethereal_Symbol "wikilink")
+`    (Glowing) `[`an`` ``ethereal`` ``symbol`](Ethereal_Symbol.md "wikilink")
 
 ## Comments
 
@@ -52,9 +52,9 @@ being a lower level.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Frozen
-Wastes](:Category:_Frozen_Wastes "wikilink")
-([Map](Frozen_Wastes_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Frozen
+Wastes](:Category:_Frozen_Wastes.md "wikilink")
+([Map](Frozen_Wastes_Map.md "wikilink")).  
 
 [Category: Mobs In Frozen
 Wastes](Category:_Mobs_In_Frozen_Wastes "wikilink")

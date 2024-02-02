@@ -1,14 +1,15 @@
-*[Mindbenders](:Category:_Mindbenders "wikilink") have the power to draw
-psychic energy from their groupmates and use it for themselves. This
-[spell](:Category:_Spells "wikilink") gathers the drained psychic energy
-into a floating pool which orbits the caster. As long as this "floating
-object" lasts, the [Mindbender](:Category:_Mindbenders "wikilink")'s
-maximum [mana](Mana_Points "wikilink") will be increased. The size of
-the pool depends on the number of groupmates drained.*
+*[Mindbenders](:Category:_Mindbenders.md "wikilink") have the power to
+draw psychic energy from their groupmates and use it for themselves.
+This [spell](:Category:_Spells.md "wikilink") gathers the drained
+psychic energy into a floating pool which orbits the caster. As long as
+this "floating object" lasts, the
+[Mindbender](:Category:_Mindbenders.md "wikilink")'s maximum
+[mana](Mana_Points.md "wikilink") will be increased. The size of the
+pool depends on the number of groupmates drained.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'hive mind'.
+Syntax: [cast](Cast.md "wikilink") 'hive mind'.
 
 This spell will create a floating object (which is called,
 unsurprisingly a hive mind). You can have up to two hive minds at a

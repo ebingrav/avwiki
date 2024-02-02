@@ -6,25 +6,25 @@
 `Modifies mana by 15 continuous.`
 
 **Keyword(s):** waterlace leggings water  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 41-43  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 41-43  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
 -   Most of the path, and the gear room is water terrain, so make sure
-    you've got [water breathing](Water_Breathing "wikilink") up.
+    you've got [water breathing](Water_Breathing.md "wikilink") up.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Trials Of
-Zin](:Category:_Trials_Of_Zin "wikilink")
-([Map](Trials_Of_Zin_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Giant Water
+**[Area](:Category:_Areas.md "wikilink"):** [Trials Of
+Zin](:Category:_Trials_Of_Zin.md "wikilink")
+([Map](Trials_Of_Zin_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Giant Water
 Elemental](Giant_Water_Elemental "wikilink")  
 From [Zin](Zin "wikilink") - 2w 2n e 2n \[n\] e n w n e n w n u n e 2s.
 Kill elemental.  

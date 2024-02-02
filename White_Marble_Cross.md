@@ -1,31 +1,32 @@
 *A white marble cross is here.*
 
-`Has 2-4(2-4) `[`charges`](Staff_Values "wikilink")` at level (33-34) '`[`sanctuary`](Sanctuary "wikilink")`'.`
+`Has 2-4(2-4) `[`charges`](Staff_Values.md "wikilink")` at level (33-34) '`[`sanctuary`](Sanctuary.md "wikilink")`'.`
 
 **Keyword(s):** cross, white, marble.  
-**[Level(s)](Object_Level "wikilink"):** 32-34.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[staff](:Category:_Staves "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 30 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[bless](Bless_Flag "wikilink"), [glow](Glow_Flag "wikilink"),
-[good](Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 32-34.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[staff](:Category:_Staves.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 30 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[bless](Bless_Flag.md "wikilink"), [glow](Glow_Flag.md "wikilink"),
+[good](Good_Flag.md "wikilink").  
 
 ## Comments
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear_#Suggested_Buffing_Gear "wikilink").
+Gear](Suggested_Spellcasting_Gear_#Suggested_Buffing_Gear.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Coven](:Category:_Coven "wikilink") ([Map](Coven_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The guardian of the white
-temple](Guardian_Of_The_White_Temple "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Coven](:Category:_Coven.md "wikilink")
+([Map](Coven_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The guardian of the white
+temple](Guardian_Of_The_White_Temple.md "wikilink").  
 Portal to Gelda: s, 2w, {w}, 2n, 2e, n.
 
 [Category: Gear In Coven](Category:_Gear_In_Coven "wikilink") [Category:

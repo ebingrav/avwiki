@@ -8,11 +8,11 @@ deep blue flickering torches lining the corridor.*
 **Keywords:** Magical, Presence.  
 **Scan Description:** Magic flows from this presence as it guards the
 way to the altar.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -27,17 +27,17 @@ way to the altar.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [North/South
-Hallway](North/South_Hallway_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [North/South
+Hallway](North/South_Hallway_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
-|                                                               |                         |
-|---------------------------------------------------------------|-------------------------|
-| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): | 3w n 2d n w 7s 2d 2w n. |
-| or:                                                           | 3w n 2d n w 7s 6w 2d n. |
+|                                                                                             |
+|---------------------------------------------------------------------------------------------|
+| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): .md\| 3w n 2d n w 7s 2d 2w n. |
+| or:                                                                                         |
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

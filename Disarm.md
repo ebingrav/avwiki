@@ -1,16 +1,17 @@
 *DISARM is an auxiliary fighting
-[command](:Category:_Commands "wikilink") to relieve your opponent of
-his [weapon](:Category:_Weapons "wikilink"). Needless to say, using
+[command](:Category:_Commands.md "wikilink") to relieve your opponent of
+his [weapon](:Category:_Weapons.md "wikilink"). Needless to say, using
 one's hands to steal an opponent's sword is not smart, so you must be
-[wielding](Wield "wikilink") a [weapon](:Category:_Weapons "wikilink")
-to use this [skill](:Category:_Skills "wikilink"). Attempting to disarm
-an opponent who wields no [weapon](:Category:_Weapons "wikilink") is
-pointless as well. Certain [weapons](:Category:_Weapons "wikilink") are
-particularly useful in disarming opponents.*
+[wielding](Wield.md "wikilink") a
+[weapon](:Category:_Weapons.md "wikilink") to use this
+[skill](:Category:_Skills.md "wikilink"). Attempting to disarm an
+opponent who wields no [weapon](:Category:_Weapons.md "wikilink") is
+pointless as well. Certain [weapons](:Category:_Weapons.md "wikilink")
+are particularly useful in disarming opponents.*
 
 Prerequisite(s): none.
 
-Syntax: disarm \<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: disarm \<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

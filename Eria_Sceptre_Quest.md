@@ -1,12 +1,12 @@
-From [High Sylph](High_Sylph "wikilink"):
+From [High Sylph](High_Sylph.md "wikilink"):
 
 -   Go s, d, s, 2w, 3n, e, 5n, 3w, 3n, 3w, s.
 -   (.sds2w3ne5n3w3n3ws) for ZMud
 
 <!-- -->
 
--   [Get](Get "wikilink") [black lichen](Black_Lichen "wikilink") from
-    ground.
+-   [Get](Get.md "wikilink") [black lichen](Black_Lichen.md "wikilink")
+    from ground.
 
 <!-- -->
 
@@ -14,9 +14,10 @@ From [High Sylph](High_Sylph "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [black lichen](Black_Lichen "wikilink") to
-    [the High Sylph](High_Sylph "wikilink") and receive [the Dryad
-    key](Dryad_Key "wikilink").
+-   [Give](Give.md "wikilink") [black
+    lichen](Black_Lichen.md "wikilink") to [the High
+    Sylph](High_Sylph.md "wikilink") and receive [the Dryad
+    key](Dryad_Key.md "wikilink").
 
 <!-- -->
 
@@ -24,13 +25,13 @@ From [High Sylph](High_Sylph "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") w using [the Dryad
-    key](Dryad_Key "wikilink") (<font color=red>caution: don't get
+-   [Unlock](Unlock.md "wikilink") w using [the Dryad
+    key](Dryad_Key.md "wikilink") (<font color=red>caution: don't get
     locked in the Banshee's cave without this key!</font>).
 
 <!-- -->
 
--   [Open](Open "wikilink") w.
+-   [Open](Open.md "wikilink") w.
 
 <!-- -->
 
@@ -38,12 +39,12 @@ From [High Sylph](High_Sylph "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [the Banshee](Banshee "wikilink").
+-   [Kill](Kill.md "wikilink") [the Banshee](Banshee.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [the Eria sceptre](Eria_Sceptre "wikilink")
-    from her corpse.
+-   [Get](Get.md "wikilink") [the Eria
+    sceptre](Eria_Sceptre.md "wikilink") from her corpse.
 
 [Category: Quests In Morgan
 Vale](Category:_Quests_In_Morgan_Vale "wikilink") [Category: Lowmort

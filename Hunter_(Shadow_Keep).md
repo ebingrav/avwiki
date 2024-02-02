@@ -21,8 +21,8 @@ find a hint of the wolf here...*
 **Keywords:** hunter, ??  
 **[Level](Level "wikilink"):** 68  
 **[Alignment](Alignment "wikilink"):** apathetic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
 **Affects:** [Detect Hidden](Detect_Hidden "wikilink"),
 [Sneak](Sneak "wikilink"), [Hide](Hide "wikilink")
 
@@ -30,16 +30,16 @@ find a hint of the wolf here...*
 
 `A hunter is using:`  
 <worn about body>`   a fur coat `  
-<wielded>`           `[`a`` ``stone`` ``knife`](Stone_Knife "wikilink")
+<wielded>`           `[`a`` ``stone`` ``knife`](Stone_Knife.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Shadow
-Keep](:Category:Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** On the Roof (Portable)  
+**[Area](:Category:Areas.md "wikilink"):** [Shadow
+Keep](:Category:Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** On the Roof (Portable)  
 Walking route from entrance: n, 2e, u
 
 [Category:Mobs In Shadow Keep](Category:Mobs_In_Shadow_Keep "wikilink")

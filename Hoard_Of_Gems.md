@@ -1,34 +1,34 @@
 *Such wealth as you see before your eyes is difficult to imagine, even
-for the greediest of [dwarves](Dwarves "wikilink"). The
-[goblins](Goblins "wikilink") who have inhabited [these
-caverns](:Category:_Goblin_Caverns "wikilink") for eons have amassed
+for the greediest of [dwarves](Dwarves.md "wikilink"). The
+[goblins](Goblins.md "wikilink") who have inhabited [these
+caverns](:Category:_Goblin_Caverns.md "wikilink") for eons have amassed
 extraordinary amounts of treasure from any passing party. As your mind
 is bent on obtaining this treasure, you fail to realize that you could
 spend a lifetime trying to get it.*
 
 **Keyword(s):** hoard, gems.  
-**[Level(s)](Object_Level "wikilink"):** ??.  
-**[Type](:Category:_Object_Types "wikilink"):** ??.  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** ?? hps.  
-**[Weight](Object_Weight "wikilink"):** ?? lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** ??.  
+**[Level(s)](Object_Level.md "wikilink"):** ??.  
+**[Type](:Category:_Object_Types.md "wikilink"):** ??.  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** ?? hps.  
+**[Weight](Object_Weight.md "wikilink"):** ?? lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** ??.  
 
 ## Comments
 
-This [object](:Category:_Objects "wikilink") can not be picked up.
+This [object](:Category:_Objects.md "wikilink") can not be picked up.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Goblin
-Caverns](:Category:_Goblin_Caverns "wikilink")
-([Map](Goblin_Caverns_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** [A goblin
-jailer](Goblin_Jailer "wikilink").  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Hoard of Gems
-Quest](Hoard_Of_Gems_Quest "wikilink").  
-Walking route from [frightened goblin](Frightened_Goblin "wikilink"): e,
-2n, \[d\].  
+**[Area](:Category:_Areas.md "wikilink"):** [Goblin
+Caverns](:Category:_Goblin_Caverns.md "wikilink")
+([Map](Goblin_Caverns_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** [A goblin
+jailer](Goblin_Jailer.md "wikilink").  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Hoard of Gems
+Quest](Hoard_Of_Gems_Quest.md "wikilink").  
+Walking route from [frightened goblin](Frightened_Goblin.md "wikilink"):
+e, 2n, \[d\].  
 
 [Category: Gear In Goblin
 Caverns](Category:_Gear_In_Goblin_Caverns "wikilink") [Category: Lowmort

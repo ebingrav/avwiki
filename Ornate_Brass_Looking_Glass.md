@@ -2,25 +2,25 @@
 carvings and designs. It might be worth a few gold.*
 
 **Keyword(s):** looking, glass, brass.  
-**[Level(s)](Object_Level "wikilink"):** 5-7.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 5-7.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Wayside](:Category:_Wayside "wikilink")
-([Map](Wayside_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Owen the
-Orchard-Owner](Owen_The_Orchard-Owner "wikilink").  
-See [Owen the Orchard-Owner](Owen_The_Orchard-Owner "wikilink") for more
-information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Wayside](:Category:_Wayside.md "wikilink")
+([Map](Wayside_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Owen the
+Orchard-Owner](Owen_The_Orchard-Owner.md "wikilink").  
+See [Owen the Orchard-Owner](Owen_The_Orchard-Owner.md "wikilink") for
+more information.  
 
 [Category: Gear In Wayside](Category:_Gear_In_Wayside "wikilink")
 [Category: Treasure](Category:_Treasure "wikilink") [Category: Lowmort

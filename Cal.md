@@ -1,17 +1,17 @@
 *Cal blinks innocently.*
 
 **Keywords:** Cal, pixie, pygmie.  
-**[Level](Level "wikilink"):** 2.  
-**[Alignment](Alignment "wikilink"):** Apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Steadfast,
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink")  
+**[Level](Level.md "wikilink"):** 2.  
+**[Alignment](Alignment.md "wikilink"):** Apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Steadfast,
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink")  
 **HitPoints:** 15
 
 ## Gear
 
 `Cal is using:`  
-<wielded>` a `[`pixie`` ``crossbow`](Pixie_Crossbow "wikilink")  
+<wielded>` a `[`pixie`` ``crossbow`](Pixie_Crossbow.md "wikilink")  
 <held>` 5 standard bolts`
 
 `Cal is carrying:`  
@@ -21,14 +21,14 @@
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cult of
-Bonk](:Category:_Cult_Of_Bonk "wikilink")
-([Map](Cult_Of_Bonk_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Guardpost two of the Cult of
+**[Area](:Category:_Areas.md "wikilink"):** [Cult of
+Bonk](:Category:_Cult_Of_Bonk.md "wikilink")
+([Map](Cult_Of_Bonk_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Guardpost two of the Cult of
 Bonk (portable).  
-Walking route from [Nom](Nom "wikilink"): e, 2d, 2n, 2e, {e}  
-Walking route from [Sol](Sol "wikilink"): ??  
-Walking route from [Aelmon](Aelmon "wikilink") ??  
+Walking route from [Nom](Nom.md "wikilink"): e, 2d, 2n, 2e, {e}  
+Walking route from [Sol](Sol.md "wikilink"): ??  
+Walking route from [Aelmon](Aelmon.md "wikilink") ??  
 
 [Category: Mobs In Cult Of
 Bonk](Category:_Mobs_In_Cult_Of_Bonk "wikilink") [Category: Scavenging

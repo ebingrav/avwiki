@@ -11,16 +11,16 @@ to come.*
 
 ## Directions
 
-Walking route from [Terrified Woman](Terrified_Woman "wikilink"): w, 2n,
-2w, 2n
+Walking route from [Terrified Woman](Terrified_Woman.md "wikilink"): w,
+2n, 2w, 2n
 
-[Portaling](Portal "wikilink") point(s) suggested: [White
-Raven](White_Raven_Alighting_Unseen "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [White
+Raven](White_Raven_Alighting_Unseen.md "wikilink").
 
 ## Connections
 
 -   [Apocalypse](Apocalypse "wikilink")
-    ([map](Apocalypse_Map "wikilink"))
+    ([map](Apocalypse_Map.md "wikilink"))
 
 ## Navigation
 
@@ -78,9 +78,10 @@ careful as [War](War "wikilink") is just to the west. The entrance
 well, however it is not safe so aggressive mobs sometimes wander in.
 
 The area is of course swarmy, being an
-[EHA](:Category:Elite_Hero_Areas "wikilink"), so be prepared. The [Red
-Skinned Orcs](Red_Skinned_Orc "wikilink") are big and hit hard; when
-soloed they give 200-250xp, not nearly worth it for the pain they cause.
+[EHA](:Category:Elite_Hero_Areas.md "wikilink"), so be prepared. The
+[Red Skinned Orcs](Red_Skinned_Orc.md "wikilink") are big and hit hard;
+when soloed they give 200-250xp, not nearly worth it for the pain they
+cause.
 
 This area has a few types of mobs and particularly interesting areas:
 
@@ -335,8 +336,8 @@ These include:
 -   Ferromancer Ignicar : in a room with a bucket of black ore. Wears a
     [Fiery Horned Sallet](Fiery_Horned_Sallet "wikilink") and a [Liquid
     Iron Cape](Liquid_Iron_Cape "wikilink"), carries a
-    [lodestone](Lodestone_(Forge) "wikilink"). Guarded by a [Fire Giant
-    Myrmidon](Fire_Giant_Myrmidon "wikilink").
+    [lodestone](Lodestone_(Forge).md "wikilink"). Guarded by a [Fire
+    Giant Myrmidon](Fire_Giant_Myrmidon "wikilink").
 -   Ferromancer Sturmiet : holds the [Severed Head Of A
     Giant](Severed_Head_Of_A_Giant "wikilink"), doesn't skin. Surrounded
     by corpse-eating slagslugs but is not guarded by a myrmidon. Casts
@@ -350,7 +351,7 @@ These include:
     wields [Forge Hammer](Forge_Hammer "wikilink") and carries the
     [Crown Of War](Crown_Of_War "wikilink"), a ticket good for one-way
     transport to a very large room. Will trade a
-    [lodestone](Lodestone_(Forge) "wikilink") and other goods for a
+    [lodestone](Lodestone_(Forge).md "wikilink") and other goods for a
     [Chained Morningstar](Chained_Morningstar "wikilink") (might he make
     other weapons if you had other things in your inventory - like the
     elemental armbands quest?).
@@ -393,8 +394,8 @@ somewhere. When you die, your corpse is moved to White Raven's room.
 This is the fourth elite hero area, added August 8th, 2013.
 
 The secrets of this area have yet to be unearthed.
---[Qismat](User:Qismat "wikilink") ([talk](User_talk:Qismat "wikilink"))
-23:38, 8 May 2017 (EDT)
+--[Qismat](User:Qismat.md "wikilink")
+([talk](User_talk:Qismat.md "wikilink")) 23:38, 8 May 2017 (EDT)
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category: Elite
 Hero Areas](Category:_Elite_Hero_Areas "wikilink") [Category:

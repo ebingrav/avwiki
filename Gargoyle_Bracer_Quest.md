@@ -5,10 +5,10 @@ After gaining access to the Nyad's bedroom (at the end of the Nyad
 Letter Quest), you may be able to obtain a lock of her hair (which is
 invisible), if you are high enough level (level 18) to see it.
 
--   [Give](Give "wikilink") [a lock of long white Nyad
-    hair](Lock_Of_Long_White_Nyad_Hair "wikilink") to [a drider
-    witch](Drider_Witch "wikilink") and receive the [gargoyle
-    bracer](Gargoyle_Bracer "wikilink").
+-   [Give](Give.md "wikilink") [a lock of long white Nyad
+    hair](Lock_Of_Long_White_Nyad_Hair.md "wikilink") to [a drider
+    witch](Drider_Witch.md "wikilink") and receive the [gargoyle
+    bracer](Gargoyle_Bracer.md "wikilink").
 
 <spoiler text='Spoiler : explicit instructions on how to complete this quest (via theft) are here.'>
 To steal the hair (nb. a bit quicker, but this will cause you to get a

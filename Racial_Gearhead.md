@@ -6,7 +6,7 @@ improves the ability to fire and restring compound bows without damaging
 them.*
 
 [Races with Racial
-Gearhead](:Category:Races_with_Racial_Gearhead "wikilink")
+Gearhead](:Category:Races_with_Racial_Gearhead.md "wikilink")
 
-[RACIALS](Category:Racials "wikilink") [BOW
-TYPES](Category:Missile_Weapons "wikilink")
+[RACIALS](Category:Racials.md "wikilink") [BOW
+TYPES](Category:Missile_Weapons.md "wikilink")

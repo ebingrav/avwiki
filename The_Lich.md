@@ -25,7 +25,7 @@ keywords: skeleton
 ## Comments
 
 Oddly, this mob does not have 'lich' or 'Tzzan' as keywords. In safe
-room with [ Tzzan's Spirit](Spirit_Of_The_Lich "wikilink").
+room with [ Tzzan's Spirit](Spirit_Of_The_Lich.md "wikilink").
 
 [Category: Mobs In Tssasskkas's
 Lair](Category:_Mobs_In_Tssasskkas's_Lair "wikilink")

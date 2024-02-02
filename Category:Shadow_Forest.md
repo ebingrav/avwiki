@@ -1,42 +1,43 @@
 *This forest, once a bustle, thriving community of huge trees that
 soared high into the sky, has now been reduced to rubble on its eastern
 edge, while erosion is eating away at the cliff-face to the south.
-Enclosed by the [great wall](:Category:_Highways/Great_Wall "wikilink")
-and the path that leads from the large gate into
-[Wildwood](:Category:_Wildwood "wikilink") on the other sides it is the
-sorry remainder of magnificence, of the old time when this area was one
-of best hunting grounds in all of Midgaardia. The
-[druids](:Category:_Druids "wikilink") and
-[rangers](:Category:_Rangers "wikilink") that roam these forests dream
-of it - unless the recently developing new thread is filling their
+Enclosed by the [great
+wall](:Category:_Highways/Great_Wall.md "wikilink") and the path that
+leads from the large gate into
+[Wildwood](:Category:_Wildwood.md "wikilink") on the other sides it is
+the sorry remainder of magnificence, of the old time when this area was
+one of best hunting grounds in all of Midgaardia. The
+[druids](:Category:_Druids.md "wikilink") and
+[rangers](:Category:_Rangers.md "wikilink") that roam these forests
+dream of it - unless the recently developing new thread is filling their
 slumber with nightmares.*
 
 **Level Range:** 35-40
 
-**Builder:** [Zahri](User:AlexyAnna "wikilink")
+**Builder:** [Zahri](User:AlexyAnna.md "wikilink")
 
-This [area](:Category:_Areas "wikilink") was added in 2005 Dec.
+This [area](:Category:_Areas.md "wikilink") was added in 2005 Dec.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, w.
 
-[Portaling](Portal "wikilink") point(s) suggested: [white
-druid](White_Haired_Druid "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [white
+druid](White_Haired_Druid.md "wikilink").
 
 ## Connections
 
 Shadow Forest lies to the south of the
-[Wildwood](:Category:_Wildwood "wikilink") slightly east and south of
-[great wall](:Category:_Highways/Great_Wall "wikilink").
+[Wildwood](:Category:_Wildwood.md "wikilink") slightly east and south of
+[great wall](:Category:_Highways/Great_Wall.md "wikilink").
 
 Shadow Forest provides a walking route to [Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink") along its eastern
+Forest](:Category:_Transfigured_Forest.md "wikilink") along its eastern
 edge.
 
 Shadow Forest is also connected to the [The Sea of Strayed
-Hopes](:Category:_Sea_Of_Strayed_Hopes "wikilink") in the south.
+Hopes](:Category:_Sea_Of_Strayed_Hopes.md "wikilink") in the south.
 
 ## Navigation
 

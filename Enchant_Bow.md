@@ -1,37 +1,37 @@
-*This [spell](:Category:_Spells "wikilink") magically
-[enchants](Enchanting "wikilink") a
-[bow](:Category:_Missile_Weapons "wikilink"), increasing its
-[hitroll](Hit_Roll "wikilink") [bonus](Object_Affects "wikilink"). This
-[spell](:Category:_Spells "wikilink") causes the
-[bow](:Category:_Missile_Weapons "wikilink")'s alignment to become the
-[alignment](Alignment "wikilink") of the [caster](Cast "wikilink"),
-although it does not remove an existing alignment.
-[Enchanting](Enchanting "wikilink") also causes the
-[bow](:Category:_Missile_Weapons "wikilink") to be increased in
-[level](Object_Level "wikilink"). There are several results that can
-happen when this [spell](:Category:_Spells "wikilink") is
-[cast](Cast "wikilink"). The
-[bow](:Category:_Missile_Weapons "wikilink") can be successfully
-[enchanted](Enchanting "wikilink") normally, or
-[brilliantly](Brilling "wikilink"), which means the enchantment bonus is
-greater. The [bow](:Category:_Missile_Weapons "wikilink") can also
-[fade](Fading "wikilink"), which removes all existing
-[enchants](Enchanting "wikilink") as well as [item
-flags](:Category:_Object_Flags "wikilink"). Worst of all, the
-[item](:Category:_Objects "wikilink") has a chance to explode and be
+*This [spell](:Category:_Spells.md "wikilink") magically
+[enchants](Enchanting.md "wikilink") a
+[bow](:Category:_Missile_Weapons.md "wikilink"), increasing its
+[hitroll](Hit_Roll.md "wikilink") [bonus](Object_Affects.md "wikilink").
+This [spell](:Category:_Spells.md "wikilink") causes the
+[bow](:Category:_Missile_Weapons.md "wikilink")'s alignment to become
+the [alignment](Alignment.md "wikilink") of the
+[caster](Cast.md "wikilink"), although it does not remove an existing
+alignment. [Enchanting](Enchanting.md "wikilink") also causes the
+[bow](:Category:_Missile_Weapons.md "wikilink") to be increased in
+[level](Object_Level.md "wikilink"). There are several results that can
+happen when this [spell](:Category:_Spells.md "wikilink") is
+[cast](Cast.md "wikilink"). The
+[bow](:Category:_Missile_Weapons.md "wikilink") can be successfully
+[enchanted](Enchanting.md "wikilink") normally, or
+[brilliantly](Brilling.md "wikilink"), which means the enchantment bonus
+is greater. The [bow](:Category:_Missile_Weapons.md "wikilink") can also
+[fade](Fading.md "wikilink"), which removes all existing
+[enchants](Enchanting.md "wikilink") as well as [item
+flags](:Category:_Object_Flags.md "wikilink"). Worst of all, the
+[item](:Category:_Objects.md "wikilink") has a chance to explode and be
 lost forever.*
 
 Prerequisiste(s): none.
 
-Syntax: [cast](Cast "wikilink") 'enchant weapon'
-\<[missileweapon](:Category:_Missile_Weapons "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'enchant weapon'
+\<[missileweapon](:Category:_Missile_Weapons.md "wikilink")\>.
 
 Spellcasters may find this
-[skill](:Category:_Skills_And_Spells "wikilink") very useful, as all
-[characters](:Category:_Characters "wikilink") benefit from
-[wielding](Wield "wikilink") [enchanted](Enchanting "wikilink")
-[weapons](:Category:_Melee_Weapons "wikilink"). See also
-[Enchanting](Enchanting "wikilink").
+[skill](:Category:_Skills_And_Spells.md "wikilink") very useful, as all
+[characters](:Category:_Characters.md "wikilink") benefit from
+[wielding](Wield.md "wikilink") [enchanted](Enchanting.md "wikilink")
+[weapons](:Category:_Melee_Weapons.md "wikilink"). See also
+[Enchanting](Enchanting.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

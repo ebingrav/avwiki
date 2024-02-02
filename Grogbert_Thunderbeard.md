@@ -4,16 +4,16 @@ shadowed his utter desperation and regret at having to sharpen bone and
 stone weaponry.*
 
 **Keywords:** Grogbert, Thunderbeard, dwarf.  
-**[Level](Level "wikilink"):** 95.  
-**[Alignment](Alignment "wikilink"):** good.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 95.  
+**[Alignment](Alignment.md "wikilink"):** good.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none  
 
 ## Gear
 
 `Grogbert Thunderbeard is using:`  
-<wielded>`           (Magical) (Humming) `[`waterlogged`` ``solid`` ``iron`` ``hammer`](Waterlogged_Solid_Iron_Hammer "wikilink")
+<wielded>`           (Magical) (Humming) `[`waterlogged`` ``solid`` ``iron`` ``hammer`](Waterlogged_Solid_Iron_Hammer.md "wikilink")
 
 ## Comments
 
@@ -24,11 +24,11 @@ Quest](Restoring_Dwarfanity_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sun God
-Altar](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** 'Alfling Army Arm'ry and Arms
-(portable).  
+**[Area](:Category:_Areas.md "wikilink"):** [Sun God
+Altar](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** 'Alfling Army Arm'ry and
+Arms (portable).  
 Grogbert Thunderbeard is portable if you are on Eragora. Otherwise,
 you'll have to get there first.  
 

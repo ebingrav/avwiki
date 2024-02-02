@@ -1,39 +1,39 @@
-*While Druids outwardly follow [Roixa](Roixa "wikilink"), their Order
+*While Druids outwardly follow [Roixa](Roixa.md "wikilink"), their Order
 truly venerates a far more ancient Goddess, whom they credit with the
 creation of the natural world. Druids have a variety of healing and
-protective spells, common to [clerics](:Category:_Clerics "wikilink"),
-but also learn much of the way of the wild, including
-[bow](:Category:_Bows "wikilink") use, and several archery skills. They
-also possess the unique ability to craft and use [mystic
-arrows](:Category:_Mystic_Warheads "wikilink").*
+protective spells, common to
+[clerics](:Category:_Clerics.md "wikilink"), but also learn much of the
+way of the wild, including [bow](:Category:_Bows.md "wikilink") use, and
+several archery skills. They also possess the unique ability to craft
+and use [mystic arrows](:Category:_Mystic_Warheads.md "wikilink").*
 
-*Like all [Prestige Classes](:Category:_Prestige_Classes "wikilink"),
+*Like all [Prestige Classes](:Category:_Prestige_Classes.md "wikilink"),
 they retain the original class's [Prime
-Requisite](Prime_Requisite "wikilink"), in this case,
-[Wisdom](Wisdom "wikilink"). Druids sometimes hang up their bows and
-become [Priests](:Category:_Priests "wikilink"), but this requires a
+Requisite](Prime_Requisite.md "wikilink"), in this case,
+[Wisdom](Wisdom.md "wikilink"). Druids sometimes hang up their bows and
+become [Priests](:Category:_Priests.md "wikilink"), but this requires a
 higher level than it would for a
-[cleric](:Category:_Clerics "wikilink"). Because they eschew melee
+[cleric](:Category:_Clerics.md "wikilink"). Because they eschew melee
 weapons, Druids cannot become
-[Paladins](:Category:_Paladins "wikilink").*
+[Paladins](:Category:_Paladins.md "wikilink").*
 
 *Druid masters tend to favor serene glades for their havens.*
 
 **Abbreviation:** Dru.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Cleric](:Category:_Clerics "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Cleric](:Category:_Clerics.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Wisdom](Wisdom "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Wisdom](Wisdom.md "wikilink").
 
 ## Druids in General
 
-Druids can be summarized as [Clerics](:Category:Clerics "wikilink") with
-bows and with cheaper heals, minus the [Pantheon
-Spells](:Category:Pantheon_Spells "wikilink"). While they are not as
-powerful as [Archers](:Category:Archers "wikilink") in combat, they are
-good at healing groups for a long time while still contributing to
+Druids can be summarized as [Clerics](:Category:Clerics.md "wikilink")
+with bows and with cheaper heals, minus the [Pantheon
+Spells](:Category:Pantheon_Spells.md "wikilink"). While they are not as
+powerful as [Archers](:Category:Archers.md "wikilink") in combat, they
+are good at healing groups for a long time while still contributing to
 damage during runs.
 
 ## Druid Creation
@@ -47,8 +47,8 @@ Requirements:
 Races that can potentially gain the druid prestige:
 [Centaurs](Centaurs "wikilink"), [Demonseeds](Demonseeds "wikilink"),
 [Drow](Drow "wikilink"), [Elves](Elves "wikilink"), [Half
-Elves](Half-Elf "wikilink"), [Half-Orcs](Half-Orc "wikilink"), [High
-Elves](High_Elf "wikilink"), [Humans](Humans "wikilink"),
+Elves](Half-Elf.md "wikilink"), [Half-Orcs](Half-Orc "wikilink"), [High
+Elves](High_Elf.md "wikilink"), [Humans](Humans "wikilink"),
 [Kzinti](Kzinti "wikilink"), [Orcs](Orcs "wikilink"),
 [Sprites](Sprites "wikilink"), and [Tuataurs](Tuataurs "wikilink").
 
@@ -148,7 +148,7 @@ lower than usual. The rescue is out-of-class; thus slow.
 
 **Hitting:** Druids (generally) do more damage than a regular cleric and
 run either in full HR gear, or use specialized [HR/mana
-gear](:Category:Hero_Druid_Gear "wikilink"). While they hit they are
+gear](:Category:Hero_Druid_Gear.md "wikilink"). While they hit they are
 also able (and expected) to do:
 
 **Healing:** while on the run. With cheap curatives they can sustain a
@@ -171,11 +171,11 @@ or held shot with mixed results.
 
 ## Druid Remort Options
 
-Druids can remort into [Priests](:Category:Priests "wikilink").
+Druids can remort into [Priests](:Category:Priests.md "wikilink").
 
 Racial remorts that make good druids are ones that give a [Racial
 Archery Modifier](Racial_Archery_Modifier "wikilink") and/or good
-spellcasting. [High Elves](High_Elf "wikilink"),
+spellcasting. [High Elves](High_Elf.md "wikilink"),
 [Sprites](Sprites "wikilink") and [Tuataurs](Tuataurs "wikilink") are
 good choices.
 

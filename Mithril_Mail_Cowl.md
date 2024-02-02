@@ -1,29 +1,29 @@
 *A mithril mail cowl is here.*
 
-[`Armor`` ``class`](Armor_Class "wikilink")` is 3.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -3 continuous.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 3.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -3 continuous.`
 
 **Keyword(s):** mithril mail cowl  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>  
-**[Weight](Object_Weight "wikilink"):** 4 lbs  
-**[Level(s)](Object_Level "wikilink"):** 8-14  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 8-14  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Elven
-Foothills](:Category:_Elven_Foothills "wikilink")
-([Map](Elven_Foothills_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Gray Elven
+**[Area](:Category:_Areas.md "wikilink"):** [Elven
+Foothills](:Category:_Elven_Foothills.md "wikilink")
+([Map](Elven_Foothills_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Gray Elven
 Knight](Gray_Elven_Knight "wikilink"), [Gray-Elf
 Captain](Gray-Elf_Captain "wikilink"), [Deacon](Deacon "wikilink") ([all
-portable](Teleport "wikilink"))  
+portable](Teleport.md "wikilink"))  
 Deacon is a shopkeeper and sells the item, the others are wearing it.
 Deacon's items tend to be lower level.
 

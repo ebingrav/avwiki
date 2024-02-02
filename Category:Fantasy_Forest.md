@@ -12,12 +12,12 @@ of locusts. The Fae have set Balefire to the woods, trying to erase the
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Arcadia](:Category:Arcadia "wikilink").
+[Arcadia](:Category:Arcadia.md "wikilink").
 
 If you're not confident in your ability to survive a swarm at
-[Arcadia](:Category:Arcadia "wikilink") shift, you can
+[Arcadia](:Category:Arcadia.md "wikilink") shift, you can
 [Planeshift](Planeshift "wikilink") to
-[Astral](:Category:Astral "wikilink"), go 3d (be careful with the
+[Astral](:Category:Astral.md "wikilink"), go 3d (be careful with the
 golems) and portal to a chim or bale. However, be warned that the astral
 shift consists of three Astral Guardians who hit harder than they used
 to and calming may be required to move. Previously, going 3d from shift
@@ -48,15 +48,16 @@ identified).
 
 ## Connections
 
-Connects to [Citadel Arcadia](:Category:Citadel_Arcadia "wikilink").
+Connects to [Citadel Arcadia](:Category:Citadel_Arcadia.md "wikilink").
 From shift go *all* n until you reach the gates. Other ways to get there
 include portalling to [Fae Gate Guard](Fae_Gate_Guard "wikilink") or
-taking the walking route from [Astral](:Category:Astral "wikilink")
+taking the walking route from [Astral](:Category:Astral.md "wikilink")
 (mentioned above).
 
-Also connects to [Dark Fae Tower](:Category:Dark_Fae_Tower "wikilink").
-To get there walk west from shift seeking water rooms on scan. Once you
-find the river, stay on it, and follow it southwards to a waterfall.
+Also connects to [Dark Fae
+Tower](:Category:Dark_Fae_Tower.md "wikilink"). To get there walk west
+from shift seeking water rooms on scan. Once you find the river, stay on
+it, and follow it southwards to a waterfall.
 
 ## Navigation
 

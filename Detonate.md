@@ -1,20 +1,20 @@
 *Reduced to its essential form, the detonate
-[spell](:Category:_Spells "wikilink") is simply an activation of the
+[spell](:Category:_Spells.md "wikilink") is simply an activation of the
 psionic energies within an inanimate
-[object](:Category:_Objects "wikilink"). If these
-[objects](:Category:_Objects "wikilink") are close enough to the
+[object](:Category:_Objects.md "wikilink"). If these
+[objects](:Category:_Objects.md "wikilink") are close enough to the
 intended victim, they can cause great damage. For this reason, most
-[psionicists](:Category:_Psionicists "wikilink") choose the victim
+[psionicists](:Category:_Psionicists.md "wikilink") choose the victim
 itself as the target, since there's bound to be SOMETHING dead on it,
 sooner or later. Put another way, this
-[spell](:Category:_Spells "wikilink") is not at all effective on living
-flesh; it requires a target who has some
-[object](:Category:_Objects "wikilink") equipped.*
+[spell](:Category:_Spells.md "wikilink") is not at all effective on
+living flesh; it requires a target who has some
+[object](:Category:_Objects.md "wikilink") equipped.*
 
-Prerequisite(s): [Blast Bolt](Blast_Bolt "wikilink").
+Prerequisite(s): [Blast Bolt](Blast_Bolt.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'detonate'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'detonate'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

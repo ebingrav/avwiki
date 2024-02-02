@@ -1,13 +1,13 @@
 *A non-ripe, green banana is here.*
 
 **Keyword(s):** green, banana.  
-**[Level(s)](Object_Level "wikilink"):** 124-125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** *n/a*.  
-**[Quality](Object_Quality "wikilink"):** 8-10 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** *none*.  
+**[Level(s)](Object_Level.md "wikilink"):** 124-125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** *n/a*.  
+**[Quality](Object_Quality.md "wikilink"):** 8-10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** *none*.  
 
 ## Comments
 
@@ -16,11 +16,11 @@ Sarong](Green_Silken_Sarong "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Island of
-Utami](:Category:_Island_Of_Utami "wikilink")
-([Map](Island_Of_Utami_Map "wikilink")).  
-**[Portaling](Portal "wikilink") point(s) suggested:** [ancient
-varan](Ancient_Varan "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Island of
+Utami](:Category:_Island_Of_Utami.md "wikilink")
+([Map](Island_Of_Utami_Map.md "wikilink")).  
+**[Portaling](Portal.md "wikilink") point(s) suggested:** [ancient
+varan](Ancient_Varan.md "wikilink")
 
 The Ancient Varan wanders, but the the tree is in the middle of the
 jungle. Find the up exit, and climb it to the top of the tree. The

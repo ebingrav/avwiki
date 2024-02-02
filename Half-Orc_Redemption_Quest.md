@@ -1,8 +1,8 @@
 This short quest serves to reset the previously begotten halfling
 alignment back to neutral toward both parties - halflings and half-orcs
-in [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink"),
-[Eragora](:Category:Eragora "wikilink"). This is done so that the player
-will be free to complete the [Mountain Adventurer
+in [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink"),
+[Eragora](:Category:Eragora.md "wikilink"). This is done so that the
+player will be free to complete the [Mountain Adventurer
 Quest](Mountain_Adventurer_Quest "wikilink"), which is otherwise blocked
 by the previously started [Halfling Detective
 Quest](Halfling_Detective_Quest "wikilink").

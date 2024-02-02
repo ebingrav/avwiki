@@ -5,17 +5,17 @@
 `Modifies hit roll by 5 continuous.`
 
 **Keyword(s):** ice spear  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 36-38  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Area](:Category:_Areas "wikilink"):** [Descent To
-Hell](:Category:_Descent_To_Hell "wikilink")
-([Map](Descent_To_Hell_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Ice
-Devil](Ice_Devil "wikilink") ([portable](Teleport "wikilink"))  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 36-38  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Descent To
+Hell](:Category:_Descent_To_Hell.md "wikilink")
+([Map](Descent_To_Hell_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Ice
+Devil](Ice_Devil "wikilink") ([portable](Teleport.md "wikilink"))  
 
 ## Comments
 

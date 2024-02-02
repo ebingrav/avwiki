@@ -2,15 +2,15 @@
 makes the caster appear to be displaced from his or her actual position,
 thus making him or her more difficult to hit. The caster's mind
 continuously adjusts the image for the duration of this
-[spell](:Category:_Spells "wikilink"), so it is impossible to displace
-another with this [spell](:Category:_Spells "wikilink").*
+[spell](:Category:_Spells.md "wikilink"), so it is impossible to
+displace another with this [spell](:Category:_Spells.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'displacement'.
+Syntax: [cast](Cast.md "wikilink") 'displacement'.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Fortitudes](Fortitudes "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Fortitudes](Fortitudes.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

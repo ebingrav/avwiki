@@ -8,18 +8,19 @@ into the cold grasp of a grinning Death.*
 `Modifies damage roll by 3 continuous.`
 
 **Keyword(s):** soul light lantern  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink") [dark](Dark_Flag "wikilink")
-[evil](Evil_Flag "wikilink") [anti-good](Anti-Good_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 36-37  
-**[Quality](Object_Quality "wikilink"):** 20 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Iceways](:Category:_Iceways "wikilink")
-([Map](Iceways_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Miner's
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink") [dark](Dark_Flag.md "wikilink")
+[evil](Evil_Flag.md "wikilink")
+[anti-good](Anti-Good_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 36-37  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Iceways](:Category:_Iceways.md "wikilink")
+([Map](Iceways_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Miner's
 Ghost](Miner's_Ghost "wikilink")
 
 ## Comments

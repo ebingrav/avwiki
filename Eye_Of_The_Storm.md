@@ -7,12 +7,12 @@ will only be so long until this mental pressure will break the dams of
 your sanity.*
 
 **Keywords:** eye, storm.  
-**[Level](Level "wikilink"):** 74.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
+**[Level](Level.md "wikilink"):** 74.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
 [Aggressive](Aggressive "wikilink").  
-**Affects:** [sanc](Sanctuary "wikilink"), [invis](invis "wikilink")
+**Affects:** [sanc](Sanctuary.md "wikilink"), [invis](invis "wikilink")
 ?.  
 
 ## Gear
@@ -27,11 +27,11 @@ randomized and one-way.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Eye of the storm
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Eye of the storm
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from Slithering Over An Ice-Covered Trunk: eeee.
 
 [Category: Mobs In Transfigured

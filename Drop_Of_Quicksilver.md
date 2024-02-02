@@ -3,21 +3,21 @@ mirrorlike surface of the quicksilver.*
 
 *A drop of liquid metal rolls around.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
 `Modifies damage roll by 2 continuous`  
 `Modifies hit roll by 3 continuous`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 10 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 10 continuous.`  
 ` It improves archery accuracy.`
 
 **Keyword(s):** mercury, quicksilver, drop.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on wrist>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](Nolocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on wrist>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](Nolocate_Flag.md "wikilink").  
 
 ## Comments
 
@@ -25,9 +25,9 @@ Enchanting this item to level 54 will maximise its archery bonus.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Daingean
-Machadae](:Category:_Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Daingean
+Machadae](:Category:_Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).  
 
 [Category: Gear In Daingean
 Machadae](Category:_Gear_In_Daingean_Machadae "wikilink") [Category:

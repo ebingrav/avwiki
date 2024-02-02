@@ -5,15 +5,15 @@ many shoulders, and he does not intend to risk any harm befalling the
 hatch. Behir spear captain is very irritated.*
 
 **Keywords:** behir, captain.  
-**[Level](Level "wikilink"):** 72.  
-**[Alignment](Alignment "wikilink"):** ?.  
-**[Flags](:Category:_Mob_Types "wikilink"):** sentinel.  
+**[Level](Level.md "wikilink"):** 72.  
+**[Alignment](Alignment.md "wikilink"):** ?.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** sentinel.  
 **Affects:** infravision, sanctuary.  
 
 ## Gear
 
 `Behir spear captain is using:`  
-<wielded>`           [Pristine  ] `[`behir's`` ``tooth`](Behir's_Tooth "wikilink")
+<wielded>`           [Pristine  ] `[`behir's`` ``tooth`](Behir's_Tooth.md "wikilink")
 
 `You peek at the inventory:`  
 `    Nothing.`
@@ -25,10 +25,10 @@ Man](Lizard_Man "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-([Map](Cloud_Dracoleum_Map "wikilink")).  
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): 2n, e,
+**[Area](:Category:_Areas.md "wikilink"):** [Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+([Map](Cloud_Dracoleum_Map.md "wikilink")).  
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): 2n, e,
 \[n\].  
 
 [Category: Mobs In Cloud

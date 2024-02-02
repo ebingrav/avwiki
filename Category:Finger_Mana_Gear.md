@@ -16,25 +16,25 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 ?
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 [Ring Of The Rat](Ring_Of_The_Rat "wikilink"), [Sarphyrian Signet
 Ring](Sarphyrian_Signet_Ring "wikilink")
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Chronicler's Ring](Chronicler's_Ring "wikilink"), [Small Emerald
 Ring](Small_Emerald_Ring "wikilink"), [Sylph
 Ring](Sylph_Ring "wikilink")
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Ring Of Fire](Ring_Of_Fire "wikilink")
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 [Riithi Noble's Ring](Riithi_Noble's_Ring "wikilink")
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Ancient Ring](Ancient_Ring "wikilink")(50), [Antharian Signet
 Ring](Antharian_Signet_Ring "wikilink")(10), [Black Ring Of
 Typhus](Black_Ring_Of_Typhus "wikilink")(40), [Demonic Ringband Of
@@ -43,7 +43,7 @@ Ring](Random_Ring "wikilink")(50), [Ring Of The
 Unicorn](Ring_Of_The_Unicorn "wikilink")(30), [Twisted Serpent
 Ring](Twisted_Serpent_Ring "wikilink")(30)
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

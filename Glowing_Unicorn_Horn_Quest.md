@@ -1,25 +1,26 @@
-In [Westwood](:Category:_Westwood "wikilink"):
+In [Westwood](:Category:_Westwood.md "wikilink"):
 
--   Find [Pyris](Pyris "wikilink").
-
-<!-- -->
-
--   [Kill](Kill "wikilink") [Pyris](Pyris "wikilink").
+-   Find [Pyris](Pyris.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [ethereal scales](Ethereal_Scales "wikilink")
-    from its corpse.
+-   [Kill](Kill.md "wikilink") [Pyris](Pyris.md "wikilink").
 
 <!-- -->
 
--   Find [Leah](Leah "wikilink").
+-   [Get](Get.md "wikilink") [ethereal
+    scales](Ethereal_Scales.md "wikilink") from its corpse.
 
 <!-- -->
 
--   [Give](Give "wikilink") [ethereal
-    scales](Ethereal_Scales "wikilink") to [Leah](Leah "wikilink") and
-    receive [glowing unicorn horn](Glowing_Unicorn_Horn "wikilink").
+-   Find [Leah](Leah.md "wikilink").
+
+<!-- -->
+
+-   [Give](Give.md "wikilink") [ethereal
+    scales](Ethereal_Scales.md "wikilink") to [Leah](Leah.md "wikilink")
+    and receive [glowing unicorn
+    horn](Glowing_Unicorn_Horn.md "wikilink").
 
 [Category: Quests In Westwood](Category:_Quests_In_Westwood "wikilink")
 [Category: Lowmort 11-20

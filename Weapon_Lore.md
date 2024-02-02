@@ -1,14 +1,14 @@
 The basic offensive qualities and attack type of a
-[weapon](:Category:_Weapons "wikilink") are revealed to the person who
-has [practiced](Practice "wikilink") this
-[skill](:Category:_Skills "wikilink"). Multiple
-[examinations](Examine "wikilink") may be necessary to ensure that all
-relevant characteristics are revealed.''
+[weapon](:Category:_Weapons.md "wikilink") are revealed to the person
+who has [practiced](Practice.md "wikilink") this
+[skill](:Category:_Skills.md "wikilink"). Multiple
+[examinations](Examine.md "wikilink") may be necessary to ensure that
+all relevant characteristics are revealed.''
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
-Syntax: [examine](Examine "wikilink")
-\<[weapon](:Category:_Weapons "wikilink")\>.
+Syntax: [examine](Examine.md "wikilink")
+\<[weapon](:Category:_Weapons.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

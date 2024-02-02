@@ -1,21 +1,21 @@
-From [Groot](Hermit "wikilink"):
+From [Groot](Hermit.md "wikilink"):
 
 -   Go 2e, 2s, w, d. (note: crosses [water
-    terrain](Water_Terrain "wikilink"))
+    terrain](Water_Terrain.md "wikilink"))
 
 <!-- -->
 
--   [Get](Get "wikilink") [a golden ball](Golden_Ball "wikilink").
+-   [Get](Get.md "wikilink") [a golden ball](Golden_Ball.md "wikilink").
 
 <!-- -->
 
--   Find [Foodles](Foodles "wikilink").
+-   Find [Foodles](Foodles.md "wikilink").
 
 <!-- -->
 
--   [Give](Give "wikilink") [a golden ball](Golden_Ball "wikilink") to
-    [Foodles](Foodles "wikilink") and receive [an amber
-    potion](Amber_Potion "wikilink").
+-   [Give](Give.md "wikilink") [a golden
+    ball](Golden_Ball.md "wikilink") to [Foodles](Foodles.md "wikilink")
+    and receive [an amber potion](Amber_Potion.md "wikilink").
 
 [Category: Quests In Valley Of The
 Dogs](Category:_Quests_In_Valley_Of_The_Dogs "wikilink") [Category:

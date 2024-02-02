@@ -5,12 +5,12 @@ and a murderous look in his eyes.*
 **Keywords:** harvey, gorilla.  
 **Scan Desc:** A huge gorilla bellows and beats his metal claws against
 his chest.  
-**[Level](Level "wikilink"):** 25.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 25.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -18,7 +18,7 @@ his chest.
 `Nothing.`
 
 `Harvey the Gorilla is carrying:`  
-`     `[`some`` ``ergot`` ``contaminated`` ``rye`](Ergot_Contaminated_Rye "wikilink")
+`     `[`some`` ``ergot`` ``contaminated`` ``rye`](Ergot_Contaminated_Rye.md "wikilink")
 
 If you skin Harvey's corpse, you get the [Titanium
 Claw](Titanium_Claw "wikilink").
@@ -27,11 +27,11 @@ Claw](Titanium_Claw "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Dreadful Basement
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [ Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Dreadful Basement
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from [Higgins](Higgins "wikilink"): \[e\], e, \[e\], 2n,
 \[n\], \[e\], \[d\], 2w, s.  
 

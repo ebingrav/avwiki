@@ -1,8 +1,8 @@
 *Little escapes the watchful eye of the hunter. The awareness
-[skill](:Category:_Skills_And_Spells "wikilink") allows an
-[archer](:Category:_Archers "wikilink") to see things which are
-[hidden](Hide_Flag "wikilink"), and aids in keeping a close eye on
-remaining [ammunition](:Category:_Ammunition "wikilink").*
+[skill](:Category:_Skills_And_Spells.md "wikilink") allows an
+[archer](:Category:_Archers.md "wikilink") to see things which are
+[hidden](Hide_Flag.md "wikilink"), and aids in keeping a close eye on
+remaining [ammunition](:Category:_Ammunition.md "wikilink").*
 
 Prerequisite(s): none.
 

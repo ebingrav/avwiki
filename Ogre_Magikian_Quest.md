@@ -2,8 +2,8 @@ The start of this quest can be found by reading the [Ogre
 Magikian](Ogre_Magikian "wikilink")'s description.
 
 -   Kill the [Archaeologist](Archaeologist "wikilink") in [Kingdom Of
-    The Willows](:Category:Kingdom_Of_The_Willows "wikilink") and obtain
-    the [Unusual Stone](Unusual_Stone "wikilink").
+    The Willows](:Category:Kingdom_Of_The_Willows.md "wikilink") and
+    obtain the [Unusual Stone](Unusual_Stone "wikilink").
 -   Give the [Unusual Stone](Unusual_Stone "wikilink") to the [Ogre
     Magikian](Ogre_Magikian "wikilink").
 

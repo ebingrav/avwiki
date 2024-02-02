@@ -2,19 +2,20 @@
 `Modifies mana by 30 continuous.`
 
 **Keyword(s):** chronicler's ring  
-**[Level(s)](Object_Level "wikilink"):** 24-26.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on finger>.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [hum](Hum_Flag "wikilink"),
-[magic](Magic_Flag "wikilink"), [anti-evil](Anti-evil "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24-26.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on finger>.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-evil.md "wikilink").  
 Mob: [Chronicler](Chronicler "wikilink")  
 Location: [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink"))  
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink"))  
 Mob is portable.  
 from [Sol](Sol "wikilink"):
 3e,2n,3e,5n,6e,3s,4e,8n,2d,3w,2s,2w,n,w,2n,2w (takes you to Spiriel Hall

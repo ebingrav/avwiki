@@ -7,14 +7,14 @@
 Slot: legs  
 Flags: evil, magic, anti-good, anti-neutral  
 Weight: 3  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Darker Castle](:Category:Darker_Castle "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Darker Castle](:Category:Darker_Castle.md "wikilink")  
 Mob: [Killl'gher](Killl'gher "wikilink")  
 
 ## Comments
 
 This is a base item that can be used to
-[Transmogrify](transmogrify "wikilink") other gear.
+[Transmogrify](transmogrify.md "wikilink") other gear.
 
 There is a racial restriction for wearing this gear. You must be a
 [Biped](Biped "wikilink") to wear them.

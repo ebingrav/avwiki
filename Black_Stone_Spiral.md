@@ -2,9 +2,9 @@
 
 <b>Level:</b> 27  
 <b>Weight:</b> 12  
-<b>Flags:</b> [hum](Hum_Flag "wikilink"),
-[nolocate](NoLocate_Flag "wikilink")  
-<b>Item Type:</b> [key](:Category:_Keys "wikilink")  
+<b>Flags:</b> [hum](Hum_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink")  
+<b>Item Type:</b> [key](:Category:_Keys.md "wikilink")  
 <b>Carried By:</b> [Osreva, King Of The
 Odevar](Osreva,_King_Of_The_Odevar "wikilink")  
 

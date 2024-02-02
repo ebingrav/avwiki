@@ -19,8 +19,8 @@ from a waterskin twice.
 Typing alias food would then remove the alias.
 
 You may also use variables in your aliases. See [HELP ALIAS
-PARAMETERS](Alias_Parameters "wikilink") for more information. An alias
-command cannot consist solely of a variable.
+PARAMETERS](Alias_Parameters.md "wikilink") for more information. An
+alias command cannot consist solely of a variable.
 
 By etching your gear with a common word, you can create an alias to
 easily wear different sets.
@@ -32,6 +32,6 @@ characters the MUD will process in one command (about 400).
 
 See also: ALIAS PARAMETERS, ALIAS LAW, ETCH, PUT
 
-See also [Mud Side Aliases](:Category:_Mud_Side_Aliases "wikilink").
+See also [Mud Side Aliases](:Category:_Mud_Side_Aliases.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

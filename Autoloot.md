@@ -3,7 +3,7 @@ Syntax: autoloot
 AUTOLOOT toggles your ability to automatically loot corpses after you
 deal the final blow.
 
-See [CONFIGURE](Config "wikilink") to find out which toggle is on and
+See [CONFIGURE](Config.md "wikilink") to find out which toggle is on and
 which is off.
 
 See also: CONFIG

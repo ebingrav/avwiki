@@ -17,13 +17,13 @@ This area was added in 2010 Jan.
 ## Directions
 
 Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 3n, 3e, n.  
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Modrim](Modrim "wikilink"), [Librarian's
-assistant](Librarian's_Assistant "wikilink").
+assistant](Librarian's_Assistant.md "wikilink").
 
 ## Connections
 
--   [Highways](:Category:Highways/Great_Wall "wikilink")
+-   [Highways](:Category:Highways/Great_Wall.md "wikilink")
 
 ## Navigation
 

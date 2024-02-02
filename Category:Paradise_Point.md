@@ -1,11 +1,11 @@
-*South of [the Crystalmir](:Category:_Crystalmir_Lake "wikilink") is a
-peninsula of the most desirable land in the known world. Warm weather
+*South of [the Crystalmir](:Category:_Crystalmir_Lake.md "wikilink") is
+a peninsula of the most desirable land in the known world. Warm weather
 and fertile soil atop a highly defensible rocky peak with a fantastic
-view over [the ocean](:Category:_Sea_Of_Strayed_Hopes "wikilink").
+view over [the ocean](:Category:_Sea_Of_Strayed_Hopes.md "wikilink").
 Throughout the years, various noble families have attempted to claim the
 point, but the trouble is, it's covered in
-[minotaurs](Minotaurs "wikilink"). Though naturally fairly docile, they
-are extremely territorial, and can be quite dangerous to would-be
+[minotaurs](Minotaurs.md "wikilink"). Though naturally fairly docile,
+they are extremely territorial, and can be quite dangerous to would-be
 explorers or real estate agents.*
 
 **Level Range:** 27-32
@@ -14,19 +14,19 @@ explorers or real estate agents.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3s, d, 5w,
-3n, w, s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17w, s, 5w, 3s, d,
+5w, 3n, w, s.
 
-Walking route from [Sol](Sol "wikilink"): 3e, 11s, 4w, 3n, w, s.
+Walking route from [Sol](Sol.md "wikilink"): 3e, 11s, 4w, 3n, w, s.
 
-[Portaling](Portal "wikilink") point(s) suggested: [dwarf Chief
-Hunter](Chief_Hunter "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [dwarf Chief
+Hunter](Chief_Hunter.md "wikilink").
 
 ## Connections
 
--   [Crystalmir Lake](:Category:Crystalmir_Lake "wikilink")
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
--   [The Airways](:Category:Airways "wikilink")
+-   [Crystalmir Lake](:Category:Crystalmir_Lake.md "wikilink")
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
+-   [The Airways](:Category:Airways.md "wikilink")
 
 ## Navigation
 

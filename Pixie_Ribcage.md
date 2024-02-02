@@ -6,8 +6,8 @@ Slot: finger
 Level: 10-12  
 base: 2-4  
 Weight: 1  
-Area: [Sarphyre's Court](:Category:_Sarphyre's_Court "wikilink")
-([Map](Sarphyre's_Court_Map "wikilink"))  
+Area: [Sarphyre's Court](:Category:_Sarphyre's_Court.md "wikilink")
+([Map](Sarphyre's_Court_Map.md "wikilink"))  
 Mob: [Sprite Necromancer](Sprite_Necromancer "wikilink")
 
 This Ring is a NoDrop NoRemove item, so you must have someone cast

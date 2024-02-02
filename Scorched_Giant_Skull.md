@@ -11,13 +11,13 @@ with black scorch marks from some supernatural fire.*
 `Modifies hp by -30 continuous`
 
 **Keyword(s):** scorched giant skull.  
-**[Level(s)](Object_Level "wikilink"):** 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in hands>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** evil anti-good
+**[Level(s)](Object_Level.md "wikilink"):** 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in hands>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** evil anti-good
 nolocate.  
 
 ## Comments

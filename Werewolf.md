@@ -4,16 +4,16 @@ sharp intellect. Its fur is a mottled grey and brown, with streaks of
 grey weaved into the fur. Saliva drools from its mighty jaws.*
 
 **Keywords:** werewolf, wolf.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A werewolf is using:`  
-<worn about body>`   `[`mottled`` ``fur`](Mottled_Fur "wikilink")
+<worn about body>`   `[`mottled`` ``fur`](Mottled_Fur.md "wikilink")
 
 `A werewolf is carrying:`  
 `     Nothing.`
@@ -22,9 +22,9 @@ grey weaved into the fur. Saliva drools from its mighty jaws.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Nubrius](:Category:_Nubrius "wikilink")
-([Map](Nubrius_Map "wikilink")).  
-A werewolf [wanders](Wandering_Mobs "wikilink"), and is portable.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Nubrius](:Category:_Nubrius.md "wikilink")
+([Map](Nubrius_Map.md "wikilink")).  
+A werewolf [wanders](Wandering_Mobs.md "wikilink"), and is portable.  
 
 [Category: Mobs In Nubrius](Category:_Mobs_In_Nubrius "wikilink")

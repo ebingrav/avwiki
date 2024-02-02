@@ -8,8 +8,8 @@
 **Weight**: 5  
 **Flags**: hum magic  
 **Keywords**: sceptre chaotic energies club  
-**Plane**: [ Astral](:Category:_Astral "wikilink")  
-**Area**: [Realm of Chaos](:Category:Realm_of_Chaos "wikilink")  
+**Plane**: [ Astral](:Category:_Astral.md "wikilink")  
+**Area**: [Realm of Chaos](:Category:Realm_of_Chaos.md "wikilink")  
 **Mob**: Genezing  
 
 ------------------------------------------------------------------------

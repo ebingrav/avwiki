@@ -1,13 +1,13 @@
 *What good is a shield? Why, to stop things from hitting you, of course.
 Shield Block does this automatically (once
-[practiced](Practice "wikilink")). If a blow is deflected by Shield
-Block, it does no damage. A high [dexterity](Dexterity "wikilink") helps
-in getting the shield into position to block. Also, chances are
-partially [level](Level "wikilink")-dependant: the lower the mob's
-[level](Level "wikilink") (or the higher your
-[level](Level "wikilink")), the better chance you have of deflecting the
-shot. Some shields contain magic spells which will discharge against the
-attacker after a successful shield block.*
+[practiced](Practice.md "wikilink")). If a blow is deflected by Shield
+Block, it does no damage. A high [dexterity](Dexterity.md "wikilink")
+helps in getting the shield into position to block. Also, chances are
+partially [level](Level.md "wikilink")-dependant: the lower the mob's
+[level](Level.md "wikilink") (or the higher your
+[level](Level.md "wikilink")), the better chance you have of deflecting
+the shot. Some shields contain magic spells which will discharge against
+the attacker after a successful shield block.*
 
 Prerequisite(s): none.
 

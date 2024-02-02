@@ -1,11 +1,12 @@
-*This is a short story that [Waite](User:Waite "wikilink") wrote about
-the [Laboratory Of Chalmus](:Category:Laboratory_Of_Chalmus "wikilink").
-It was published in the gazette 4/18/2006.*
+*This is a short story that [Waite](User:Waite.md "wikilink") wrote
+about the [Laboratory Of
+Chalmus](:Category:Laboratory_Of_Chalmus.md "wikilink"). It was
+published in the gazette 4/18/2006.*
 
 One night we find [Chalmus the
-alchemist](Chalmus_The_Alchemist "wikilink") locked away in his
+alchemist](Chalmus_The_Alchemist.md "wikilink") locked away in his
 laboratory. As usual he is performing experiments with his new
-fascination: [a strange stone](Small_Grey_Stone "wikilink") that he
+fascination: [a strange stone](Small_Grey_Stone.md "wikilink") that he
 bought from a band of gypsies. Despite all the wonderful results he has
 had with it so far, Chalmus still doesn't completely grasp how the stone
 reacts to alchemy. One thing he has learned is that scanning the aura of
@@ -37,17 +38,17 @@ Chalmus heads down to the kitchen to prepare his morning meal. As he
 reaches to fetch an egg it dodges his grasp. Again he tries to capture
 the egg and again it eludes him. "How did this come to be?" the good
 magician wonders. "Did I inadvertently create this magical affect? Is
-[my apprentice](Simon_MacAlvay "wikilink") playing a prank on me? Or is
-it the work of that stone?"
+[my apprentice](Simon_MacAlvay.md "wikilink") playing a prank on me? Or
+is it the work of that stone?"
 
 While pondering this latest mystery, Chalmus nonchalantly blasts the
 shifty egg with magical energy. It emits a high-pitched squeal and pops,
 scattering bits of shell all over the kitchen. "I must remember to pay
-[Marcy](Maid_Marcy "wikilink") a bit extra this month," he tells
+[Marcy](Maid_Marcy.md "wikilink") a bit extra this month," he tells
 himself. "It seems that I'm becoming quite the slob lately." Chalmus
 scoops the egg off the counter and quickly devours it. Once he is
 finished he heads straight for the laboratory, not stopping to change
-[his robe](Robe_Of_Chalmus "wikilink") or tend to his hygeine.
+[his robe](Robe_Of_Chalmus.md "wikilink") or tend to his hygeine.
 
 On his way to the lab Chalmus encounters his only pupil, Simon MacAlvay.
 He addresses his apprentice. "MacAlvay my lad, how are you this fine
@@ -87,7 +88,7 @@ quits his current project. He puts the stone away in his robe and begins
 to focus on some less stimulating work.
 
 He's halfway done creating a batch of [crimson
-fluid](Shot_Of_Crimson_Fluid "wikilink") when a minor incantation
+fluid](Shot_Of_Crimson_Fluid.md "wikilink") when a minor incantation
 fizzles. Annoyed, Chalmus sharpens his focus and repeats the step.
 Instead of fixing the mistake his efforts exacerbate it, and the crimson
 fluid becomes a dull brown. Feeling flustered Chalmus reaches for the

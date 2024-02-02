@@ -1,5 +1,5 @@
 There are 5 of these mobs in
-[Necropolis](:Category:Necropolis "wikilink"). In no specific order:
+[Necropolis](:Category:Necropolis.md "wikilink"). In no specific order:
 
 ## First Child
 
@@ -12,10 +12,10 @@ can see his monstrous face.*
 **Keywords:** High, Drow, Child.  
 **Scan Description:** This figure hides in the shadows, away from the
 flickering torchlight.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -39,10 +39,10 @@ the moments before his death.*
 **Keywords:** High, Drow, Child.  
 **Scan Description:** Surrounded by spinning memories, this child barely
 notices reality.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -65,10 +65,10 @@ soft ditty under her breath, not noticing you.*
 **Keywords:** High, Drow, Child.  
 **Scan Description:** Stumbling along, this child somehow manages to
 keep her balance.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -92,10 +92,10 @@ uncertain, as if she had gotten into a fight with some of the guards.*
 **Keywords:** High, Drow, Child.  
 **Scan Description:** A vacant look is the only thing to escape the
 prison of child's eyes.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -119,10 +119,10 @@ the race.*
 **Keywords:** High, Drow, Child.  
 **Scan Description:** Swaying, this child collapses to the ground,
 overcome by emotion.  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -147,11 +147,11 @@ front of you (note: the spy's aggie).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-High Drow Child [wanders](Wandering_Mobs "wikilink").
+High Drow Child [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

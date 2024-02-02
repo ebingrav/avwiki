@@ -2,10 +2,10 @@
 chances of the caster successfully sneaking up on his victim. Despite
 the name, it works even in broad daylight.*
 
-Prerequisite(s): [Move Hidden](Move_Hidden "wikilink"), [Shadow
-Form](Shadow_Form "wikilink").
+Prerequisite(s): [Move Hidden](Move_Hidden.md "wikilink"), [Shadow
+Form](Shadow_Form.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'nightcloak'.
+Syntax: [cast](Cast.md "wikilink") 'nightcloak'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Black Circle

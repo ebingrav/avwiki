@@ -1,69 +1,70 @@
 *A kit is here, containing fletching tools and materials.*
 
 **Keyword(s):** fletching, kit, tools, materials.  
-**[Level(s)](Object_Level "wikilink"):** various (see chart below).  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** various (see chart below).  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-[Characters](:Category:_Characters "wikilink") must
-[hold](Hold "wikilink") fletching kits in order to
-[fletch](Fletch "wikilink") [arrows](:Category:_Arrows "wikilink"),
-[bolts](:Category:_Bolts "wikilink"),
-[darts](:Category:_Darts "wikilink"), and [sling
-stones](:Category:_Stones "wikilink").
+[Characters](:Category:_Characters.md "wikilink") must
+[hold](Hold.md "wikilink") fletching kits in order to
+[fletch](Fletch.md "wikilink")
+[arrows](:Category:_Arrows.md "wikilink"),
+[bolts](:Category:_Bolts.md "wikilink"),
+[darts](:Category:_Darts.md "wikilink"), and [sling
+stones](:Category:_Stones.md "wikilink").
 
 ## Directions
 
-` `**[`Level`](Object_Level "wikilink")`:`` `[`Area`](:Category:_Areas "wikilink")`:`` `[`Map`](:Category:_Maps "wikilink")`:`` `[`Mob`](:Category:_Mobs "wikilink")`/`[`Quest`](:Category:_Ticket_Quests "wikilink")`/`[`Room`](:Category:_Rooms "wikilink")`:`**  
-` 07-07     `[`Wayside`](:Category:_Wayside "wikilink")`                       `[`map`](Wayside_Map "wikilink")`       `[`Liam`](Liam "wikilink")  
-` 09-11     `[`The`` ``Oak`` ``Circle`](:Category:_Oak_Circle "wikilink")`                `[`map`](Oak_Circle_Map "wikilink")`       `[`a`` ``wood`` ``sprite`](Wood_Sprite "wikilink")  
-` 11-13     `[`Centaur`` ``Camp`](:Category:_Centaur_Camp "wikilink")`                  `[`map`](Centaur_Camp_Map "wikilink")`       `[`Marek`` ``Flicktail`](Marek_Flicktail "wikilink")  
-` 14-14     `[`Elven`` ``Foothills`](:Category:_Elven_Foothills "wikilink")`               `[`map`](Elven_Foothills_Map "wikilink")`       `[`Aurora`](Aurora "wikilink")  
-` 14-16     `[`Sarphyre's`` ``Court`](:Category:_Sarphyre's_Court "wikilink")`              `[`map`](Sarphyre's_Court_Map "wikilink")`       `[`Baron`` ``Amier`` ``Sarphyre`](Baron_Amier_Sarphyre "wikilink")  
-` 23-25     `[`Odevar`` ``Hills`](:Category:_Odevar_Hills "wikilink")`                  `[`map`](Odevar_Hills_Map "wikilink")`       `[`The`` ``Khoridvar`` ``Clan`` ``Chief`](Khoridvar_Clan_Chief "wikilink")  
-` 24-24     `[`Midgaard`](:Category:_Midgaard "wikilink")`                      `[`map`](Midgaard_Map "wikilink")`       `[`the`` ``bow-maker`](Bow-Maker "wikilink")  
-` 33-35     `[`Wildwood`](:Category:_Wildwood "wikilink")`                      `[`map`](Wildwood_Map "wikilink")`       `[`a`` ``centaur`` ``hunter`](Centaur_Hunter "wikilink")  
-` 42-44     `[`LeMans`` ``Vineyard`](:Category:_LeMans_Vineyard "wikilink")`               `[`map`](LeMans_Vineyard_Map "wikilink")`       `[`an`` ``orken`` ``venomist`](Orken_Venomist "wikilink")  
-` 42-44     `[`Icewolf`](:Category:_Icewolf "wikilink")`                       `[`map`](Icewolf_Map "wikilink")`       `[`A`` ``hunter`](Hunter "wikilink")  
-` 45-47     `[`Icewolf`](:Category:_Icewolf "wikilink")`                       `[`map`](Icewolf_Map "wikilink")`       `[`A`` ``hunter`` ``gargoyle`](Hunter_Gargoyle "wikilink")  
-` 46-48     `[`Icewolf`](:Category:_Icewolf "wikilink")`                       `[`map`](Icewolf_Map "wikilink")`       `[`An`` ``elite`` ``hunter`](Elite_Hunter "wikilink")  
-` 47-49     `[`Icewolf`](:Category:_Icewolf "wikilink")`                       `[`map`](Icewolf_Map "wikilink")`       `[`Caymen`](Caymen "wikilink")  
-` 49-51     `[`Hamlet`` ``of`` ``Kreigstadt`](:Category:_Hamlet_Of_Kreigstadt "wikilink")`          `[`map`](Hamlet_Of_Kreigstadt_Map "wikilink")`       `[`a`` ``village`` ``watchman`](Village_Watchman "wikilink")  
-` 50-52     `[`Battleground`](:Category:_Battleground "wikilink")`                  `[`map`](Battleground_Map "wikilink")`       `[`Creela`](Creela "wikilink")  
-` 50-52     `[`Idolatry`` ``of`` ``Lloth`](:Category:_Idolatry_Of_Lloth "wikilink")`             `[`map`](Idolatry_Of_Lloth_Map "wikilink")`       `[`a`` ``drider`` ``hunter`](Drider_Hunter "wikilink")  
-` 50-52     `[`Sir`` ``Michael's`` ``Stronghold`](:Category:_Sir_Michael's_Stronghold "wikilink")`      `[`map`](Sir_Michael's_Stronghold_Map "wikilink")`       `[`An`` ``archer`](Archer "wikilink")  
-` 51-51     `[`Hamlet`` ``of`` ``Kreigstadt`](:Category:_Hamlet_Of_Kreigstadt "wikilink")`          `[`map`](Hamlet_Of_Kreigstadt_Map "wikilink")`       `[`the`` ``village`` ``bowmaster`](Village_Bowmaster "wikilink")
+` `**[`Level`](Object_Level.md "wikilink")`:`` `[`Area`](:Category:_Areas.md "wikilink")`:`` `[`Map`](:Category:_Maps.md "wikilink")`:`` `[`Mob`](:Category:_Mobs.md "wikilink")`/`[`Quest`](:Category:_Ticket_Quests.md "wikilink")`/`[`Room`](:Category:_Rooms.md "wikilink")`:`**  
+` 07-07     `[`Wayside`](:Category:_Wayside.md "wikilink")`                       `[`map`](Wayside_Map.md "wikilink")`       `[`Liam`](Liam.md "wikilink")  
+` 09-11     `[`The`` ``Oak`` ``Circle`](:Category:_Oak_Circle.md "wikilink")`                `[`map`](Oak_Circle_Map.md "wikilink")`       `[`a`` ``wood`` ``sprite`](Wood_Sprite.md "wikilink")  
+` 11-13     `[`Centaur`` ``Camp`](:Category:_Centaur_Camp.md "wikilink")`                  `[`map`](Centaur_Camp_Map.md "wikilink")`       `[`Marek`` ``Flicktail`](Marek_Flicktail.md "wikilink")  
+` 14-14     `[`Elven`` ``Foothills`](:Category:_Elven_Foothills.md "wikilink")`               `[`map`](Elven_Foothills_Map.md "wikilink")`       `[`Aurora`](Aurora.md "wikilink")  
+` 14-16     `[`Sarphyre's`` ``Court`](:Category:_Sarphyre's_Court.md "wikilink")`              `[`map`](Sarphyre's_Court_Map.md "wikilink")`       `[`Baron`` ``Amier`` ``Sarphyre`](Baron_Amier_Sarphyre.md "wikilink")  
+` 23-25     `[`Odevar`` ``Hills`](:Category:_Odevar_Hills.md "wikilink")`                  `[`map`](Odevar_Hills_Map.md "wikilink")`       `[`The`` ``Khoridvar`` ``Clan`` ``Chief`](Khoridvar_Clan_Chief.md "wikilink")  
+` 24-24     `[`Midgaard`](:Category:_Midgaard.md "wikilink")`                      `[`map`](Midgaard_Map.md "wikilink")`       `[`the`` ``bow-maker`](Bow-Maker.md "wikilink")  
+` 33-35     `[`Wildwood`](:Category:_Wildwood.md "wikilink")`                      `[`map`](Wildwood_Map.md "wikilink")`       `[`a`` ``centaur`` ``hunter`](Centaur_Hunter.md "wikilink")  
+` 42-44     `[`LeMans`` ``Vineyard`](:Category:_LeMans_Vineyard.md "wikilink")`               `[`map`](LeMans_Vineyard_Map.md "wikilink")`       `[`an`` ``orken`` ``venomist`](Orken_Venomist.md "wikilink")  
+` 42-44     `[`Icewolf`](:Category:_Icewolf.md "wikilink")`                       `[`map`](Icewolf_Map.md "wikilink")`       `[`A`` ``hunter`](Hunter.md "wikilink")  
+` 45-47     `[`Icewolf`](:Category:_Icewolf.md "wikilink")`                       `[`map`](Icewolf_Map.md "wikilink")`       `[`A`` ``hunter`` ``gargoyle`](Hunter_Gargoyle.md "wikilink")  
+` 46-48     `[`Icewolf`](:Category:_Icewolf.md "wikilink")`                       `[`map`](Icewolf_Map.md "wikilink")`       `[`An`` ``elite`` ``hunter`](Elite_Hunter.md "wikilink")  
+` 47-49     `[`Icewolf`](:Category:_Icewolf.md "wikilink")`                       `[`map`](Icewolf_Map.md "wikilink")`       `[`Caymen`](Caymen.md "wikilink")  
+` 49-51     `[`Hamlet`` ``of`` ``Kreigstadt`](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")`          `[`map`](Hamlet_Of_Kreigstadt_Map.md "wikilink")`       `[`a`` ``village`` ``watchman`](Village_Watchman.md "wikilink")  
+` 50-52     `[`Battleground`](:Category:_Battleground.md "wikilink")`                  `[`map`](Battleground_Map.md "wikilink")`       `[`Creela`](Creela.md "wikilink")  
+` 50-52     `[`Idolatry`` ``of`` ``Lloth`](:Category:_Idolatry_Of_Lloth.md "wikilink")`             `[`map`](Idolatry_Of_Lloth_Map.md "wikilink")`       `[`a`` ``drider`` ``hunter`](Drider_Hunter.md "wikilink")  
+` 50-52     `[`Sir`` ``Michael's`` ``Stronghold`](:Category:_Sir_Michael's_Stronghold.md "wikilink")`      `[`map`](Sir_Michael's_Stronghold_Map.md "wikilink")`       `[`An`` ``archer`](Archer.md "wikilink")  
+` 51-51     `[`Hamlet`` ``of`` ``Kreigstadt`](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")`          `[`map`](Hamlet_Of_Kreigstadt_Map.md "wikilink")`       `[`the`` ``village`` ``bowmaster`](Village_Bowmaster.md "wikilink")
 
 Fletching kits can be purchased from
-[Kreigstadt](:Category:_Hamlet_Of_Kreigstadt "wikilink")'s [village
-bowmaster](Village_Bowmaster "wikilink"); he only sells
-[level](Object_Level "wikilink")-51 kits (which are required to
-[fletch](Fletch "wikilink") [splinter
-arrows](Splinter_Arrows "wikilink")). If you are low on money, you can
-kill [village watchmen](Village_Watchman "wikilink") (who wander about
-the area around this [bowmaster](Village_Bowmaster "wikilink")) but many
-of their kits are below [level](Object_Level "wikilink") 51. If you
-increase the kit levels to 51 by [warding](Ward "wikilink") them, you
-can still use them to make splinter arrows. [Drider
-hunters](Drider_Hunter "wikilink") also have fletching kits, some even
-above [level](Object_Level "wikilink") 51, but [their
-area](:Category:_Idolatry_Of_Lloth "wikilink") can be a very dangerous
-(due to [aggie](Aggressive_Mobs "wikilink")
-[snipers](Sniping_Mobs "wikilink")). You can also buy [splinter
-arrows](Splinter_Arrows "wikilink") from
-[Kreigstadt](:Category:_Hamlet_Of_Kreigstadt "wikilink")'s
-[bowmaster](Village_Bowmaster "wikilink") rather than
-[fletching](Fletch "wikilink") them; he charges about 30k gold for 500
-[splinter arrows](Splinter_Arrows "wikilink") (less when
-[haggling](Haggle "wikilink")).  
+[Kreigstadt](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")'s [village
+bowmaster](Village_Bowmaster.md "wikilink"); he only sells
+[level](Object_Level.md "wikilink")-51 kits (which are required to
+[fletch](Fletch.md "wikilink") [splinter
+arrows](Splinter_Arrows.md "wikilink")). If you are low on money, you
+can kill [village watchmen](Village_Watchman.md "wikilink") (who wander
+about the area around this [bowmaster](Village_Bowmaster.md "wikilink"))
+but many of their kits are below [level](Object_Level.md "wikilink") 51.
+If you increase the kit levels to 51 by [warding](Ward.md "wikilink")
+them, you can still use them to make splinter arrows. [Drider
+hunters](Drider_Hunter.md "wikilink") also have fletching kits, some
+even above [level](Object_Level.md "wikilink") 51, but [their
+area](:Category:_Idolatry_Of_Lloth.md "wikilink") can be a very
+dangerous (due to [aggie](Aggressive_Mobs.md "wikilink")
+[snipers](Sniping_Mobs.md "wikilink")). You can also buy [splinter
+arrows](Splinter_Arrows.md "wikilink") from
+[Kreigstadt](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")'s
+[bowmaster](Village_Bowmaster.md "wikilink") rather than
+[fletching](Fletch.md "wikilink") them; he charges about 30k gold for
+500 [splinter arrows](Splinter_Arrows.md "wikilink") (less when
+[haggling](Haggle.md "wikilink")).  
 See individual
-[mob](:Category:_Mobs "wikilink")/[quest](:Category:_Ticket_Quests "wikilink")
+[mob](:Category:_Mobs.md "wikilink")/[quest](:Category:_Ticket_Quests.md "wikilink")
 pages linked above for more information.  
 
 [Category: Gear In

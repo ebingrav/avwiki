@@ -7,8 +7,8 @@ Modifies damage roll by 18 continuous.
 
 It is a one or two handed weapon which does slicing damage.  
 Flags: glow bless.  
-Plane: [Outland](:Category:Outland "wikilink")  
-Area: [Githzerai Keep](:Category:Githzerai_Keep "wikilink")  
+Plane: [Outland](:Category:Outland.md "wikilink")  
+Area: [Githzerai Keep](:Category:Githzerai_Keep.md "wikilink")  
 Mob: [True King Of The
 Githzerai](True_King_Of_The_Githzerai "wikilink")  
   
@@ -16,7 +16,8 @@ Githzerai](True_King_Of_The_Githzerai "wikilink")
 ------------------------------------------------------------------------
 
 See [Gear In Githzerai
-Keep](:Category:Gear_In_Githzerai_Keep "wikilink") for more information.
+Keep](:Category:Gear_In_Githzerai_Keep.md "wikilink") for more
+information.
 
 [Category:Lord HP Gear](Category:Lord_HP_Gear "wikilink") [Category:Gear
 In Githzerai Keep](Category:Gear_In_Githzerai_Keep "wikilink")

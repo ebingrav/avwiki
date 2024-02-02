@@ -1,30 +1,31 @@
 *A longbeard lantern brightly illuminates the surroundings.*
 
-`It has an unknown `[`duration`](Light_Values "wikilink")`.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -2 continuous.`
+`It has an unknown `[`duration`](Light_Values.md "wikilink")`.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -2 continuous.`
 
 **Keyword(s):** lantern, longbeard.  
-**[Level(s)](Object_Level "wikilink"):** 20-25.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20-25.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Jeremiah
-Longbeard](Jeremiah_Longbeard "wikilink"), [Lolin
-Longbeard](Lolin_Longbeard "wikilink"), [Robarn
-Longbeard](Robarn_Longbeard "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Jeremiah
+Longbeard](Jeremiah_Longbeard.md "wikilink"), [Lolin
+Longbeard](Lolin_Longbeard.md "wikilink"), [Robarn
+Longbeard](Robarn_Longbeard.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")
 [Category: Lights](Category:_Lights "wikilink") [Category: Lowmort 11-20

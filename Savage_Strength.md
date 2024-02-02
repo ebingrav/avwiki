@@ -3,8 +3,8 @@ the same criteria.*
 
 *[Might](Might "wikilink") is a prerequisite for Savage Strength.*
 
-*This is a [Rite](Rites "wikilink"), not a
-[skill](:Category:_Skills "wikilink").*
+*This is a [Rite](Rites.md "wikilink"), not a
+[skill](:Category:_Skills.md "wikilink").*
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Berserker

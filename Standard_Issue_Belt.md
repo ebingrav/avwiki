@@ -4,8 +4,8 @@ Level: 34-36
 Slot: Waist  
 Base AC: 6-8  
 Mob: Guard  
-Area: [Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink"))  
+Area: [Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink"))  
 The mob with this piece of gear is 2n from [Aelmon](Aelmon "wikilink").
 Since he's a guard in Midgaard, you should count on getting an outlaw
 flag if you attack this guy.

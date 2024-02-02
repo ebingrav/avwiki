@@ -5,8 +5,9 @@ Slot: Weapon
 Level: 13-16  
 Weight: 5  
 Mob: None (in a chest)  
-Location: [Duergar Stronghold](:Category:_Duergar_Stronghold "wikilink")
-([Map](Duergar_Stronghold_Map "wikilink"))  
+Location: [Duergar
+Stronghold](:Category:_Duergar_Stronghold.md "wikilink")
+([Map](Duergar_Stronghold_Map.md "wikilink"))  
 **Note:** While this item is wielded like a weapon, it is actually a
 treasure and will not work properly as a weapon.
 

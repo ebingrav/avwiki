@@ -7,7 +7,7 @@ Modifies damage roll by 5 continuous.
 `Modifies hit roll by 5 continuous.`
 
 See [Gear In Citadel
-Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for how to do
+Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for how to do
 this run.
 
 [Category: Incomplete](Category:_Incomplete "wikilink") [Category: Lord

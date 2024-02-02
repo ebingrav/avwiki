@@ -1,16 +1,17 @@
 *One of the fundamental tenets of the psionic discipline is the idea
-that all are connected. This [spell](:Category:_Spells "wikilink")
+that all are connected. This [spell](:Category:_Spells.md "wikilink")
 harnesses that link by transferring some of the caster's
-[strength](Strength "wikilink") to a companion for a while. Provided
-that the caster has enough [strength](Strength "wikilink") left, this
-[spell](:Category:_Spells "wikilink") can be [cast](Cast "wikilink") on
-more than one target; however, it can only be [cast](Cast "wikilink")
-one time on any [character](:Category:_Characters "wikilink").*
+[strength](Strength.md "wikilink") to a companion for a while. Provided
+that the caster has enough [strength](Strength.md "wikilink") left, this
+[spell](:Category:_Spells.md "wikilink") can be
+[cast](Cast.md "wikilink") on more than one target; however, it can only
+be [cast](Cast.md "wikilink") one time on any
+[character](:Category:_Characters.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'share strength'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'share strength'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

@@ -17,10 +17,10 @@ should you bring me one.*
 interesting, if you gave me a look."*
 
 **Keywords:** white, raven, ???.  
-**[Level](Level "wikilink"):** ???.  
-**[Alignment](Alignment "wikilink"):** ???.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ???.  
+**[Alignment](Alignment.md "wikilink"):** ???.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** ???.  
 
 ## Gear
@@ -31,8 +31,8 @@ In a safe (no-fight) room. Mob is portable.
 
 ## Directions
 
-Walking route from [Terrified Woman](Terrified_Woman "wikilink"): w, 2n,
-2w, 2n, n, w
+Walking route from [Terrified Woman](Terrified_Woman.md "wikilink"): w,
+2n, 2w, 2n, n, w
 
 Walking route from area entrance: n, w
 

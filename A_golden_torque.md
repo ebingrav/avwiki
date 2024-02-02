@@ -10,8 +10,8 @@
 Slot: neck  
 Flags: glow, magic, anti-evil  
 Weight: 5  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Overgrowth](:Category:Overgrowth "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Overgrowth](:Category:Overgrowth.md "wikilink")  
 Mob: [A Koa tree](A_Koa_tree "wikilink")  
 
 ## Comments

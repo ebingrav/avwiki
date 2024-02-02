@@ -6,8 +6,8 @@ Level: 19-23
 Base: 3-6  
 Mob: [Willow Guard](Willow_Guard "wikilink")  
 Area: [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink"))  
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink"))  
 mob is portable. "A Strong Elven Guard" is the mob with the sleeves. The
 guards are not aggie to level 20 and you can view the gear before you
 attack.

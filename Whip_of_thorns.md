@@ -8,14 +8,14 @@
 Slot: weapon  
 Flags: none  
 Weight: 5  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Borley's Bond](:Category:_Borley's_Bond "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Borley's Bond](:Category:_Borley's_Bond.md "wikilink")  
 Mob: TBD  
 
 ## Comments
 
 This is a base item that can be used as an ingredient to
-[Transmogrify](transmogrify "wikilink") other gear.
+[Transmogrify](transmogrify.md "wikilink") other gear.
 
 [Category: Shard Area Gear](Category:_Shard_Area_Gear "wikilink")
 [Category: Gear in Borley's

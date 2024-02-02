@@ -1,26 +1,27 @@
 *A pouch that holds enough to travel lies here.*
 
-[`Capacity`](Container_Values "wikilink")` is 25 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 25 lbs.`
 
 **Keyword(s):** pouch travel.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>.  
-**[Quality](Object_Quality "wikilink"):** 1000 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>.  
+**[Quality](Object_Quality.md "wikilink"):** 1000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [container](:Category:_Containers "wikilink") holds the [Peach
+This [container](:Category:_Containers.md "wikilink") holds the [Peach
 Tonic](Peach_Tonic "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Visitor](Visitor "wikilink").  
 See [Visitor](Visitor "wikilink") for more information.  
 

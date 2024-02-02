@@ -6,12 +6,12 @@
 `Modifies hit roll by 4 continuous.`
 
 **Keyword(s):** fossilized dragon bones  
-**[Type](:Category:_Object_Types "wikilink"):** Treasure  
-**[Weight](Object_Weight "wikilink"):** 25 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 20 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** dark magic nolocate
-dull  
+**[Type](:Category:_Object_Types.md "wikilink"):** Treasure  
+**[Weight](Object_Weight.md "wikilink"):** 25 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** dark magic
+nolocate dull  
 
 ## Comments
 

@@ -7,8 +7,8 @@ Weight: 5
 Flags: magic bless anti-evil anti-neutral  
 Base AC: 7  
 Mob: [Priestess Of Ofcol](Priestess_Of_Ofcol "wikilink")  
-Area: [Ofcol](:Category:_Ofcol "wikilink")
-([Map](Ofcol_Map "wikilink"))  
+Area: [Ofcol](:Category:_Ofcol.md "wikilink")
+([Map](Ofcol_Map.md "wikilink"))  
 directions Aelmon: 27n5e
 
 [Category: Gear In Ofcol](Category:_Gear_In_Ofcol "wikilink") [Category:

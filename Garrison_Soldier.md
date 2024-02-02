@@ -2,20 +2,20 @@
 wandering the city and watching over the citizens.*
 
 **Keywords:** trog, garrison, soldier.  
-**[Level](Level "wikilink"):** 31.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 31.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A Garrison soldier is using:`  
-<worn on body>`      `[`a`` ``Lacquered`` ``Breastplate`](Lacquered_Breastplate "wikilink")  
-<worn on head>`      `[`a`` ``Reed`` ``Helmet`](Reed_Helmet "wikilink")  
-<worn on legs>`      `[`lacquered`` ``Reed`` ``Greaves`](Lacquered_Reed_Greaves "wikilink")  
-<worn on feet>`      `[`leather`` ``boots`](Leather_Boots "wikilink")  
-<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear "wikilink")
+<worn on body>`      `[`a`` ``Lacquered`` ``Breastplate`](Lacquered_Breastplate.md "wikilink")  
+<worn on head>`      `[`a`` ``Reed`` ``Helmet`](Reed_Helmet.md "wikilink")  
+<worn on legs>`      `[`lacquered`` ``Reed`` ``Greaves`](Lacquered_Reed_Greaves.md "wikilink")  
+<worn on feet>`      `[`leather`` ``boots`](Leather_Boots.md "wikilink")  
+<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear.md "wikilink")
 
 `A Garrison soldier is carrying:`  
 `     Nothing.`
@@ -24,10 +24,10 @@ wandering the city and watching over the citizens.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-A Garrison soldier [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+A Garrison soldier [wanders](Wandering_Mobs.md "wikilink").
 
 A Garrison soldier is portable.  
 

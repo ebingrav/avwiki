@@ -10,18 +10,18 @@ one such place.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16s, 2e, s, 3e, 2s, 2e,
-2n, e, s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16s, 2e, s, 3e, 2s,
+2e, 2n, e, s.
 
 Walking route from [Kelsee](Kelsee "wikilink"): s, \[s\], s, e, s, d, e,
 d, e, s (safe and northernmost private room)
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
--   [Haunted Forest](:Category:Haunted_Forest "wikilink")
-    ([map](Haunted_Forest_Map "wikilink"))
+-   [Haunted Forest](:Category:Haunted_Forest.md "wikilink")
+    ([map](Haunted_Forest_Map.md "wikilink"))
 
 ## Navigation
 
@@ -40,10 +40,10 @@ rooms, with no mobs in them. To reach the northermost safe room go from
 [Kelsee](Kelsee "wikilink"): 3s,e,s,d,e,d,e,s.
 
 Once in the area proper expect a lot of aggressive wasps. The [unholy
-and ghastly wasps](Ghastly_Wasp "wikilink") are invisible and
-demonfired, and are smaller than the [visible](Irate_Wasp "wikilink")
+and ghastly wasps](Ghastly_Wasp.md "wikilink") are invisible and
+demonfired, and are smaller than the [visible](Irate_Wasp.md "wikilink")
 ones, but just as agressive. Some of the wasps ([cunning
-wasps](Cunning_Wasp "wikilink") for example, may be others) - are
+wasps](Cunning_Wasp.md "wikilink") for example, may be others) - are
 stabbers. One did \*ERADICATING\* through full AC and spells on a high
 level hero, so expect to die regardless of experience or AC. Best
 protection is a large HP pool.
@@ -70,8 +70,8 @@ least 12 group members to do the wasps and more if you plan to take on
 the fourth layer (chloroforms and groundskeepers). Mobs are extremely
 aggie and you'll need a way to heal damage
 (healers/paladins/brandishes). For heroes will small hit points, [hit
-point gear](:Category:Hit-Point_Gear "wikilink") / [animal
-handler](Eragora_-_Animal_Handler "wikilink") is recommended. For low
+point gear](:Category:Hit-Point_Gear.md "wikilink") / [animal
+handler](Eragora_-_Animal_Handler.md "wikilink") is recommended. For low
 level heroes without enough movement points, either bring [Seven-League
 Boots](Seven-League_Boots "wikilink") or [Piece Of Ginseng
 Root](Piece_Of_Ginseng_Root "wikilink").

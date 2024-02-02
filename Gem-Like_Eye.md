@@ -1,24 +1,24 @@
 *A gem eye lies on the ground.*
 
 **Keyword(s):** gem, eye.  
-**[Level(s)](Object_Level "wikilink"):** 43-45.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 43-45.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Trials of
-Zin](:Category:_Trials_Of_Zin "wikilink")
-([Map](Trials_Of_Zin_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The
-phoenix](Phoenix "wikilink").  
-See [The phoenix](Phoenix "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Trials of
+Zin](:Category:_Trials_Of_Zin.md "wikilink")
+([Map](Trials_Of_Zin_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The
+phoenix](Phoenix.md "wikilink").  
+See [The phoenix](Phoenix.md "wikilink") for more information.  
 
 [Category: Gear In Trials Of
 Zin](Category:_Gear_In_Trials_Of_Zin "wikilink") [Category:

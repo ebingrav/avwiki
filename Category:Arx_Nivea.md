@@ -1,6 +1,6 @@
-|                                                                                                                                                           |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <FONT COLOR="88888888"><b>Please do not post any information about this area online. See the [talk page](Category_talk:Arx_Nivea "wikilink") for details. |
+|                                                                                                                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <FONT COLOR="88888888"><b>Please do not post any information about this area online. See the [talk page](Category_talk:Arx_Nivea.md "wikilink") for details. |
 
 Arx Nivea is an ancient half-orc settlement on the continent of Eragora.
 It is situated amid the plains and jungles of the interior, upon a large
@@ -14,36 +14,37 @@ meander in the River Etuan.
 
 **Level Range:** 51-51
 
-**Builder:** [Iktinos](User:Iktinos "wikilink")
+**Builder:** [Iktinos](User:Iktinos.md "wikilink")
 
 ## How to get there
 
 To walk here from Midgaardia:
 
-1.  Withdraw a [ruby](:Category:Gemstones "wikilink") from the bank (the
-    [Ent Banker](Banker "wikilink") in
-    [Mervue](:Category:Mervue "wikilink") as a good starting point for
-    this journey).
+1.  Withdraw a [ruby](:Category:Gemstones.md "wikilink") from the bank
+    (the [Ent Banker](Banker.md "wikilink") in
+    [Mervue](:Category:Mervue.md "wikilink") as a good starting point
+    for this journey).
 2.  Go a little south to the docks, where Charon the Ferryman will ferry
     you and your group to Eragora if you give him a ruby.
 3.  On arrival, head east from the docks and through the [Sphynx
-    Gate](:Category:Sphynx_Gate "wikilink") (you will need to be
+    Gate](:Category:Sphynx_Gate.md "wikilink") (you will need to be
     visible, and enter one at a time).
 4.  Travel east through the [Rhuien
-    Jungle](:Category:Rhuien_Forest "wikilink"), while pausing to admire
-    or fight off some of the interesting local flora.
+    Jungle](:Category:Rhuien_Forest.md "wikilink"), while pausing to
+    admire or fight off some of the interesting local flora.
 5.  Continue travelling east through the [Eragora
-    Walkways](:Category:Eragora_Walkways "wikilink"), a series of paths
-    through the plains and patches of jungle.
+    Walkways](:Category:Eragora_Walkways.md "wikilink"), a series of
+    paths through the plains and patches of jungle.
 6.  After taking a quick rest at the
-    [campfire](Eragora_Default_Recall "wikilink") in Eragora Walkways,
-    the entrance to the settlement is a little to the south east.
+    [campfire](Eragora_Default_Recall.md "wikilink") in Eragora
+    Walkways, the entrance to the settlement is a little to the south
+    east.
 
 <spoiler text='Portal directions:'>Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): 1 south, 1 east, 1 north, 2
-east.
+recall](Eragora_default_recall.md "wikilink"): 1 south, 1 east, 1 north,
+2 east.
 
-[Portaling](Portal "wikilink") point(s) suggested: None, though it is
+[Portaling](Portal.md "wikilink") point(s) suggested: None, though it is
 very easy to get to.</spoiler>
 
   
@@ -92,7 +93,7 @@ complicated for explorers to discover.
 
 One quest in particular should probably be mentioned though:
 
-The [Dark Acolyte Quest](Demonic_Intent_Quest "wikilink") is a
+The [Dark Acolyte Quest](Demonic_Intent_Quest.md "wikilink") is a
 hero-level quest whose reward is permanent. Although, if you rebirth you
 will lose the skill it grants.
 

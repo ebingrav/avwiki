@@ -1,8 +1,8 @@
-*It is rumoured that several [thieves](:Category:_Rogues "wikilink") use
-this cavern as a base for their various nefarious activities. One battle
-scarred adventurer has reported that there is a hidden passage in the
-back of the cavern, but no one who has gone to investigate it has ever
-come out alive.*
+*It is rumoured that several [thieves](:Category:_Rogues.md "wikilink")
+use this cavern as a base for their various nefarious activities. One
+battle scarred adventurer has reported that there is a hidden passage in
+the back of the cavern, but no one who has gone to investigate it has
+ever come out alive.*
 
 **Level Range:** 35-42
 
@@ -10,16 +10,16 @@ come out alive.*
 
 ## Directions
 
-Walking directions from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e,
-u, w, n, u, n, e.
+Walking directions from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u,
+e, u, w, n, u, n, e.
 
 Beware on the way there is one angry ogre that aggies
 
-Walking directions from [elderly sage](Elderly_Sage "wikilink"): s, u,
-w, n, u, n, e.
+Walking directions from [elderly sage](Elderly_Sage.md "wikilink"): s,
+u, w, n, u, n, e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[sentinel](Sentinel "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[sentinel](Sentinel.md "wikilink").
 
 ## Connections
 

@@ -1,11 +1,11 @@
-From [castle guard](Castle_Guard "wikilink"):
+From [castle guard](Castle_Guard.md "wikilink"):
 
 -   Go n, w, n.
 
 <!-- -->
 
--   [Get](Get "wikilink") [a piece of paper](Piece_Of_Paper "wikilink")
-    from ground.
+-   [Get](Get.md "wikilink") [a piece of
+    paper](Piece_Of_Paper.md "wikilink") from ground.
 
 <!-- -->
 
@@ -13,10 +13,10 @@ From [castle guard](Castle_Guard "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a piece of
-    paper](Piece_Of_Paper "wikilink") to [The castle
-    guard](Castle_Guard "wikilink") and receive [the castle gate
-    password](Castle_Gate_Password "wikilink").
+-   [Give](Give.md "wikilink") [a piece of
+    paper](Piece_Of_Paper.md "wikilink") to [The castle
+    guard](Castle_Guard.md "wikilink") and receive [the castle gate
+    password](Castle_Gate_Password.md "wikilink").
 
 [Category: Quests In Dark
 Castle](Category:_Quests_In_Dark_Castle "wikilink")

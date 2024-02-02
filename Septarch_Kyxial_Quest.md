@@ -13,9 +13,9 @@ Perform the following:
 -   c tele kyxial
 -   give rustleaf kyxial
 -   receive [Rod Of Blue Crystal](Rod_Of_Blue_Crystal "wikilink")
-    ([lightning bolt](Lightning_Bolt "wikilink") wand)
+    ([lightning bolt](Lightning_Bolt.md "wikilink") wand)
 -   receive insignia ['Sept Nik'Avrym
-    Problem-Solver'](Sept_Nik'Avrym_Insignia "wikilink")
+    Problem-Solver'](Sept_Nik'Avrym_Insignia.md "wikilink")
 
 *Note*: The quest is repeatable once per week.
 

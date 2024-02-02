@@ -1,7 +1,7 @@
 ![](Avatar_MUD_Area_Map_-_Highways_&_Great_Wall.GIF "Avatar_MUD_Area_Map_-_Highways_&_Great_Wall.GIF")  
 
-<img src="Avatar-Highways.png" title="Avatar-Highways.png" width="800"
-alt="Avatar-Highways.png" />  
+<img src="Avatar-Highways.png.md" title="Avatar-Highways.png.md"
+width="800" alt="Avatar-Highways.png.md" />  
 \*Map by MrKentobi (22-Sep-2023)
 
 [Abbaye Du Livre Map](Abbaye_Du_Livre_Map "wikilink"), [Airways

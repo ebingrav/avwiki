@@ -1,21 +1,22 @@
 *Sneaky and manipulative, Shadowfists corrupt the teachings of
-[Gorn](Gorn "wikilink") to justify their sinister world view; The
+[Gorn](Gorn.md "wikilink") to justify their sinister world view; The
 massacre of all those who stand against them through any means
 neccesary. They combine unarmed fighting with the dishonorable tactics
-usually favored by [Rogues](:Category:_Rogues "wikilink") and
-[Assassins](:Category:_Assassins "wikilink").*
+usually favored by [Rogues](:Category:_Rogues.md "wikilink") and
+[Assassins](:Category:_Assassins.md "wikilink").*
 
-*Like all [Prestige Classes](:Category:_Prestige_Classes "wikilink"),
+*Like all [Prestige Classes](:Category:_Prestige_Classes.md "wikilink"),
 they retain the original class's [Prime
-Requisite](Prime_Requisite "wikilink"), in this case,
-[Dexterity](Dexterity "wikilink"). Shadowfists have strayed too far from
-the light to ever become [Priests](:Category:_Priests "wikilink"), like
-[Monks](:Category:_Monks "wikilink") can, but they can become
-[Assassins](:Category:_Assassins "wikilink"), albeit later than
-[Rogues](:Category:_Rogues "wikilink").*
+Requisite](Prime_Requisite.md "wikilink"), in this case,
+[Dexterity](Dexterity.md "wikilink"). Shadowfists have strayed too far
+from the light to ever become
+[Priests](:Category:_Priests.md "wikilink"), like
+[Monks](:Category:_Monks.md "wikilink") can, but they can become
+[Assassins](:Category:_Assassins.md "wikilink"), albeit later than
+[Rogues](:Category:_Rogues.md "wikilink").*
 
 *Shadowfists masters can sometimes be found training in [inhospitable
-environs](:Category:Desiccated_Farmland "wikilink").*
+environs](:Category:Desiccated_Farmland.md "wikilink").*
 
 *Requirements:  
 *\* level 50 Monk  
@@ -25,11 +26,11 @@ environs](:Category:Desiccated_Farmland "wikilink").*
 
 **Abbreviation:** Shf.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Monk](:Category:_Monks "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Monk](:Category:_Monks.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Dexterity](Dexterity "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Dexterity](Dexterity.md "wikilink").
 
 ## Shadowfists in General
 
@@ -44,13 +45,13 @@ aligned.
 ## Shadowfist Creation
 
 Be evil aligned, be a monk and kill a monk in [Sir Michael's
-Stronghold](:Category:Sir_Michael's_Stronghold "wikilink"). You must
+Stronghold](:Category:Sir_Michael's_Stronghold.md "wikilink"). You must
 have <b>18 base int</b> at lowmort, or 20 int at hero. Any race can
 become a shf with the use of QP. Some popular choices are gargoyle and
 golem. Orc, ogr, or giant would also be good choices (but will need
 quest points to bypass the int requirement) - basically anything that
-would be good for a [Monk](:Category:Monks "wikilink") (drg, grf, trl,
-kzn, etc). Also, note that the amount of hp gained from vamp/vital
+would be good for a [Monk](:Category:Monks.md "wikilink") (drg, grf,
+trl, kzn, etc). Also, note that the amount of hp gained from vamp/vital
 attacks has been limited to less than it once was, thus reducing the
 benefit of a brute race somewhat.
 
@@ -105,8 +106,8 @@ the stance.
 **Soloing:**
 
 **Tanking:** Since Shadowfists don't get [bear
-stance](Bear_Stance "wikilink"), which Monks get, they will suffer an AC
-penalty from using [rescue](rescue "wikilink").
+stance](Bear_Stance.md "wikilink"), which Monks get, they will suffer an
+AC penalty from using [rescue](rescue "wikilink").
 
 **Hitting:**
 
@@ -114,22 +115,22 @@ penalty from using [rescue](rescue "wikilink").
 
 Shadowfists serve as tanks at lord tier. They get a bit more hp than
 monks but tend to get hit significantly more. The reasons include lack
-of [blind devotion](Blind_Devotion "wikilink") and their evil alignment.
-Also many lord mobs are elementals and thus vampire fang doesn't work
-well with them. They do have one "trick" which they obtain at lord 225,
-which is [Countercrush](Countercrush "wikilink") with [Vital
-Counter](Vital_Counter "wikilink") and [Full
+of [blind devotion](Blind_Devotion.md "wikilink") and their evil
+alignment. Also many lord mobs are elementals and thus vampire fang
+doesn't work well with them. They do have one "trick" which they obtain
+at lord 225, which is [Countercrush](Countercrush "wikilink") with
+[Vital Counter](Vital_Counter "wikilink") and [Full
 Counter](Full_Counter "wikilink") (lord 325), which allows them to do
 non-negligible amounts of damage to mobiles which are susceptible to
 vital counter, such as gith in Outland.
 
 In late September of 2014 [Qi](Qi "wikilink") was introduced for
-[Monks](:Category:_Monks "wikilink") and Shadowfists. This adds many new
-skills and abilities.
+[Monks](:Category:_Monks.md "wikilink") and Shadowfists. This adds many
+new skills and abilities.
 
 ## Shadowfist Remort Options
 
-Shadowfists can remort to [assassins](:Category:Assassins "wikilink") at
-lord 150 (300 to keep race).
+Shadowfists can remort to [assassins](:Category:Assassins.md "wikilink")
+at lord 150 (300 to keep race).
 
 [Category: Prestige Classes](Category:_Prestige_Classes "wikilink")

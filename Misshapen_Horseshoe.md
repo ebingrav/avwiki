@@ -3,8 +3,8 @@ Weight: 2
 Level: 9  
 Base: 2  
 Mob: Smiley Wildfilly  
-Area: [The Centaur Camp](:Category:_Centaur_Camp "wikilink")
-([Map](Centaur_Camp_Map "wikilink"))  
+Area: [The Centaur Camp](:Category:_Centaur_Camp.md "wikilink")
+([Map](Centaur_Camp_Map.md "wikilink"))  
 Modifies AC by +10
 
 `Modifies Dex by -1`

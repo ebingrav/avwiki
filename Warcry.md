@@ -1,6 +1,6 @@
-*When [Rallying](Rally "wikilink"), a Master of the Warcry Rite will
-grant his groupmates a [damage](Damage_Roll "wikilink") bonus in
-addition to the [hitroll](Hit_Roll "wikilink") bonus.*
+*When [Rallying](Rally.md "wikilink"), a Master of the Warcry Rite will
+grant his groupmates a [damage](Damage_Roll.md "wikilink") bonus in
+addition to the [hitroll](Hit_Roll.md "wikilink") bonus.*
 
 Prerequisite(s): none.
 

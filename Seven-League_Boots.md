@@ -1,20 +1,20 @@
 *These boots are made of supple leather, and finely stitched.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 8-9.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by 777 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 8-9.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by 777 continuous.`
 
 **Keyword(s):** seven, league, boots.  
-**[Level(s)](Object_Level "wikilink"):** 40.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 40.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -23,13 +23,13 @@ out of movement points when in a group.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Caves of Ancient
-Evil](:Category:_Caves_Of_Ancient_Evil "wikilink")
-([Map](Caves_Of_Ancient_Evil_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Seven-League Boots
-Quest](Seven-League_Boots_Quest "wikilink").  
-See [Seven-League Boots Quest](Seven-League_Boots_Quest "wikilink") for
-more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Caves of Ancient
+Evil](:Category:_Caves_Of_Ancient_Evil.md "wikilink")
+([Map](Caves_Of_Ancient_Evil_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Seven-League Boots
+Quest](Seven-League_Boots_Quest.md "wikilink").  
+See [Seven-League Boots Quest](Seven-League_Boots_Quest.md "wikilink")
+for more information.
 
 [Category: Gear In Caves Of Ancient
 Evil](Category:_Gear_In_Caves_Of_Ancient_Evil "wikilink") [Category:

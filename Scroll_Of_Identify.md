@@ -1,29 +1,29 @@
-*The [scroll](:Category:_Scrolls "wikilink") has a magic formula drawn
-upon it:*
+*The [scroll](:Category:_Scrolls.md "wikilink") has a magic formula
+drawn upon it:*
 
-`Level 12 spells of: '`[`identify`](Identify_(spell) "wikilink")`'.`
+`Level 12 spells of: '`[`identify`](Identify_(spell).md "wikilink")`'.`
 
 **Keyword(s):** scroll, identify.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[scroll](:Category:_Scrolls "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[scroll](:Category:_Scrolls.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Thrul, the
-wizard](Thrul,_The_Wizard "wikilink").  
-[Thrul](Thrul,_The_Wizard "wikilink") sells these. See [his
-page](Thrul,_The_Wizard "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Thrul, the
+wizard](Thrul,_The_Wizard.md "wikilink").  
+[Thrul](Thrul,_The_Wizard.md "wikilink") sells these. See [his
+page](Thrul,_The_Wizard.md "wikilink") for more information.
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Scrolls](Category:_Scrolls "wikilink") [Category: Lowmort

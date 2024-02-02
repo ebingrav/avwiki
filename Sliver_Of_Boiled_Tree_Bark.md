@@ -55,8 +55,8 @@ Level 52 spells of: 'sanctuary' 'curse'.
 </td>
 <td>
 
-[Graves of Reveria](:Category:_Graves_Of_Reveria "wikilink")
-([Map](Graves_Of_Reveria_Map "wikilink"))
+[Graves of Reveria](:Category:_Graves_Of_Reveria.md "wikilink")
+([Map](Graves_Of_Reveria_Map.md "wikilink"))
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ This mob is on the south-west side of the area. One of the bigger mobs
 in the area (level 90), and also aggie.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 [Category: Gear In Graves Of
 Reveria](Category:_Gear_In_Graves_Of_Reveria "wikilink") [Category:

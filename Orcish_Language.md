@@ -9,9 +9,9 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Orcish:     `*`Ja`` ``cichik`` ``rhowien`` ``hoh`` ``gseaj`` ``ovarh`` ``ja`` ``uci`` ``joeg.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Orcish:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Orcish:
 
--   [Orcs](Orcs "wikilink").
+-   [Orcs](Orcs.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

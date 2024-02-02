@@ -1,14 +1,15 @@
 *A DEATH FIELD is a life-sapping region of chaotic psionic energy.
 Essentially, it applies the same destructive kinetic energies in the
-[Detonate](Detonate "wikilink") [spell](:Category:_Spells "wikilink") to
-living tissue. Although this energy is not godly in origin, usage of
-this [spell](:Category:_Spells "wikilink") may attract the attention of
-the god of death, [Bhyss](Bhyss "wikilink"), who has been known to have
-a little fun with those who attract his attention.*
+[Detonate](Detonate.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") to living tissue. Although this
+energy is not godly in origin, usage of this
+[spell](:Category:_Spells.md "wikilink") may attract the attention of
+the god of death, [Bhyss](Bhyss.md "wikilink"), who has been known to
+have a little fun with those who attract his attention.*
 
-Prerequisite(s): [Ultrablast](Ultrablast "wikilink").
+Prerequisite(s): [Ultrablast](Ultrablast.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'death field'.
+Syntax: [cast](Cast.md "wikilink") 'death field'.
 
 ## Comments
 
@@ -17,9 +18,9 @@ is) and has lower lag compared to acid rain, but it has high cost and
 can cause you to be affected by [Deaths Door](Deaths_Door "wikilink").
 Also, there's a small chance of getting caught in your own death field.
 
-See also: [Area Spells](:Category:_Area_Spells "wikilink"), [Death Field
-Gear](:Category:_Death_Field_Gear "wikilink"), [DEATHS
-DOOR](Deaths_Door "wikilink").
+See also: [Area Spells](:Category:_Area_Spells.md "wikilink"), [Death
+Field Gear](:Category:_Death_Field_Gear.md "wikilink"), [DEATHS
+DOOR](Deaths_Door.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

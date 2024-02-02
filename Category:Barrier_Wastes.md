@@ -11,12 +11,12 @@ unwelcome guests.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 3n, 6e, n, e,
-s, e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 3n, 6e, n,
+e, s, e.
 
-[Portaling](Portal "wikilink") point(s) suggested: [ogre
-magikian](Ogre_Magikian "wikilink"), [svlad](Svlad "wikilink") s, e, s,
-e
+[Portaling](Portal.md "wikilink") point(s) suggested: [ogre
+magikian](Ogre_Magikian.md "wikilink"), [svlad](Svlad.md "wikilink") s,
+e, s, e
 
 ## Connections
 

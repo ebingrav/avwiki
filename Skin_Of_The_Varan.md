@@ -1,35 +1,36 @@
 *You have a close look at the scaly skin of [this amazing
-creature](Ancient_Varan "wikilink"). It seems almost impenetrable and
+creature](Ancient_Varan.md "wikilink"). It seems almost impenetrable and
 extremely strong and useful. Then suddenly you realise you just might
 have killed one of the last of [these
-creatures](Ancient_Varan "wikilink")! You decide never to part with this
-skin again.*
+creatures](Ancient_Varan.md "wikilink")! You decide never to part with
+this skin again.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6-9.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -30 continuous.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by -50 continuous.`  
-`Modifies `[`strength`](Strength "wikilink")` by 2 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6-9.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -30 continuous.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by -50 continuous.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** skin, thick.  
-**[Level(s)](Object_Level "wikilink"):** 34-36.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 34-36.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Island of
-Utami](:Category:_Island_Of_Utami "wikilink")
-([Map](Island_Of_Utami_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The ancient
-varan](Ancient_Varan "wikilink").  
-See [The ancient varan](Ancient_Varan "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Island of
+Utami](:Category:_Island_Of_Utami.md "wikilink")
+([Map](Island_Of_Utami_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The ancient
+varan](Ancient_Varan.md "wikilink").  
+See [The ancient varan](Ancient_Varan.md "wikilink") for more
+information.
 
 [Category: Gear In Island Of
 Utami](Category:_Gear_In_Island_Of_Utami "wikilink") [Category:

@@ -1,17 +1,17 @@
 *A pair of steel bracers has been left here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 9-12.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 9-12.`  
 `Faintly lowers resistance to earth continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`
 
 **Keyword(s):** steel, bracers.  
-**[Level(s)](Object_Level "wikilink"):** 49-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 49-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -25,21 +25,21 @@ better.
 ## Directions
 
 To get this piece of gear one must explore the [Hamlet of
-Kreigstadt](:Category:_Hamlet_Of_Kreigstadt "wikilink"). Certain
+Kreigstadt](:Category:_Hamlet_Of_Kreigstadt.md "wikilink"). Certain
 watchman who patrol the area are equipped with the bracer. Ulrich may be
 used as a portal point, and one can simply head north to begin their
 search. The [Robber Baron](Robber_Baron "wikilink"), who is portable and
 aggie, also carries a steel bracer.
 
-**[Area](:Category:_Areas "wikilink"):** [Hamlet of
-Kreigstadt](:Category:_Hamlet_Of_Kreigstadt "wikilink")
-([Map](Hamlet_Of_Kreigstadt_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Herr
-Kruger](Herr_Kruger "wikilink"), [The Robber
-Baron](Robber_Baron "wikilink"), [a village
-watchman](Village_Watchman "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Hamlet of
+Kreigstadt](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")
+([Map](Hamlet_Of_Kreigstadt_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Herr
+Kruger](Herr_Kruger.md "wikilink"), [The Robber
+Baron](Robber_Baron.md "wikilink"), [a village
+watchman](Village_Watchman.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Hamlet Of
 Kreigstadt](Category:_Gear_In_Hamlet_Of_Kreigstadt "wikilink")

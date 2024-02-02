@@ -5,16 +5,16 @@ sanctuary. There is a trigger to keep heighten up. The script will check
 for a reasonable amount of mana before proceeding with a spellup.
 
 Use the "spellban name" alias to add someone to the "banned" list. (Be
-sure to read the Trigger Using [Policy](Trigger-Using_Policy "wikilink")
-about this.)
+sure to read the Trigger Using
+[Policy](Trigger-Using_Policy.md "wikilink") about this.)
 
 *Important Note:* I have another script that captures my current mana
 from my prompt and places it in @currmana . This is a very important
 step that I intentionally left out of here because everyone configures
 their prompt differently. If you use my prompt script here: [CMud Prompt
-& Mob Cond](CMud_Prompt_%26_Mob_Cond "wikilink") script, it should work
-fine. (Thanks to [Scrape](User:Scrape "wikilink") for pointing this
-out.)
+& Mob Cond](CMud_Prompt_%26_Mob_Cond.md "wikilink") script, it should
+work fine. (Thanks to [Scrape](User:Scrape.md "wikilink") for pointing
+this out.)
 
 ## The Script
 
@@ -152,8 +152,8 @@ trigger that fires on logout and disables this class:
 
 ## Designer comments
 
-Feel free to note me [here](User:Shalineth "wikilink") or on board 2 to
-Shalineth with any feedback or suggestions.
+Feel free to note me [here](User:Shalineth.md "wikilink") or on board 2
+to Shalineth with any feedback or suggestions.
 
 Updated for CMud v3.32.
 

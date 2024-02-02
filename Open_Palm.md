@@ -4,8 +4,8 @@
 
 Type: Armor  
 Slot: Hands  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")
 
 [Category: Lord Tank Gear](Category:_Lord_Tank_Gear "wikilink")
 [Category: Gear In Patriarchs'

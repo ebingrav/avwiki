@@ -1,28 +1,28 @@
 *This is a giant clamshell used to store things.*
 
-[`Capacity`](Container_Values "wikilink")` is 250 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 250 lbs.`
 
 **Keyword(s):** giant, clamshell.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 1000 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 1000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
-[Zaertses](Zaertses "wikilink").  
-[Zaertses](Zaertses "wikilink") sells these; see [his
-page](Zaertses "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Zaertses](Zaertses.md "wikilink").  
+[Zaertses](Zaertses.md "wikilink") sells these; see [his
+page](Zaertses.md "wikilink") for more information.  
 
 [Category: Gear In Antharia](Category:_Gear_In_Antharia "wikilink")
 [Category: Containers](Category:_Containers "wikilink") [Category:

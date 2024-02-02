@@ -1,6 +1,6 @@
-[Melee-weapon](:Category:_Melee_Weapons "wikilink")-[type](:Category:_Object_Types "wikilink")
-[objects](:Category:_Objects "wikilink") have several
-[values](:Category:_Object_Values "wikilink") including:
+[Melee-weapon](:Category:_Melee_Weapons.md "wikilink")-[type](:Category:_Object_Types.md "wikilink")
+[objects](:Category:_Objects.md "wikilink") have several
+[values](:Category:_Object_Values.md "wikilink") including:
 
 -   **Damage, Minimum:** the weapon's minimum possible damage.
 
@@ -11,7 +11,7 @@
 <!-- -->
 
 -   **Sharpness:** how many times the weapon has been
-    [sharpened](Sharpen "wikilink").
+    [sharpened](Sharpen.md "wikilink").
 
 <!-- -->
 
@@ -22,37 +22,37 @@
 <!-- -->
 
 -   **Weapon Type:** what type of weapon this is. Weapon types include:
-    [chain](:Category:_Chain_Weapons "wikilink"),
-    [concealable](:Category:_Concealable_Weapons "wikilink"),
-    [double](:Category:_Double_Weapons "wikilink"),
-    [ethereal](:Category:_Ethereal_Weapons "wikilink"),
-    [hafted](:Category:_Hafted_Weapons "wikilink"), [standard
-    one-handed](:Category:_Standard_One-Handed_Weapons "wikilink"),
+    [chain](:Category:_Chain_Weapons.md "wikilink"),
+    [concealable](:Category:_Concealable_Weapons.md "wikilink"),
+    [double](:Category:_Double_Weapons.md "wikilink"),
+    [ethereal](:Category:_Ethereal_Weapons.md "wikilink"),
+    [hafted](:Category:_Hafted_Weapons.md "wikilink"), [standard
+    one-handed](:Category:_Standard_One-Handed_Weapons.md "wikilink"),
     [standard
-    one-or-two-handed](:Category:_Standard_One-Or-Two-Handed_Weapons "wikilink"),
+    one-or-two-handed](:Category:_Standard_One-Or-Two-Handed_Weapons.md "wikilink"),
     or [standard
-    two-handed](:Category:_Standard_Two-Handed_Weapons "wikilink").
+    two-handed](:Category:_Standard_Two-Handed_Weapons.md "wikilink").
 
 <!-- -->
 
 -   **Damage Expression:** which style of damage the weapon does. Damage
     types include:
-    [biting](:Category:_Melee_Weapons_That_Bite "wikilink"),
-    [blasting](:Category:_Melee_Weapons_That_Blast "wikilink"),
-    [chopping](:Category:_Melee_Weapons_That_Chop "wikilink"),
-    [clawing](:Category:_Melee_Weapons_That_Claw "wikilink"),
-    [crushing](:Category:_Melee_Weapons_That_Crush "wikilink"),
-    [hitting](:Category:_Melee_Weapons_That_Hit "wikilink"),
-    [piercing](:Category:_Melee_Weapons_That_Pierce "wikilink"),
-    [pounding](:Category:_Melee_Weapons_That_Pound "wikilink"),
-    [puncturing](:Category:_Melee_Weapons_That_Puncture "wikilink"),
-    [slashing](:Category:_Melee_Weapons_That_Slash "wikilink"),
-    [slicing](:Category:_Melee_Weapons_That_Slice "wikilink"),
-    [smacking](:Category:_Melee_Weapons_That_Smack "wikilink"),
-    [stabbing](:Category:_Melee_Weapons_That_Stab "wikilink"), or
-    [whipping](:Category:_Melee_Weapons_That_Whip "wikilink").
+    [biting](:Category:_Melee_Weapons_That_Bite.md "wikilink"),
+    [blasting](:Category:_Melee_Weapons_That_Blast.md "wikilink"),
+    [chopping](:Category:_Melee_Weapons_That_Chop.md "wikilink"),
+    [clawing](:Category:_Melee_Weapons_That_Claw.md "wikilink"),
+    [crushing](:Category:_Melee_Weapons_That_Crush.md "wikilink"),
+    [hitting](:Category:_Melee_Weapons_That_Hit.md "wikilink"),
+    [piercing](:Category:_Melee_Weapons_That_Pierce.md "wikilink"),
+    [pounding](:Category:_Melee_Weapons_That_Pound.md "wikilink"),
+    [puncturing](:Category:_Melee_Weapons_That_Puncture.md "wikilink"),
+    [slashing](:Category:_Melee_Weapons_That_Slash.md "wikilink"),
+    [slicing](:Category:_Melee_Weapons_That_Slice.md "wikilink"),
+    [smacking](:Category:_Melee_Weapons_That_Smack.md "wikilink"),
+    [stabbing](:Category:_Melee_Weapons_That_Stab.md "wikilink"), or
+    [whipping](:Category:_Melee_Weapons_That_Whip.md "wikilink").
 
   
-See also [Melee Weapons](:Category:_Melee_Weapons "wikilink").
+See also [Melee Weapons](:Category:_Melee_Weapons.md "wikilink").
 
 [Category: Object Values](Category:_Object_Values "wikilink")

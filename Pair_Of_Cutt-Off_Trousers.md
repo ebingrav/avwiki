@@ -2,20 +2,20 @@
 bubble of air around the user, allowing easy under-water exploration and
 fun.*
 
-`'`[`sneak`](Sneak "wikilink")`          '  continuous`  
-` Modifies `[`moves`](Move_Points "wikilink")` by 500 continuous`  
-` Modifies `[`dexterity`](Dexterity "wikilink")` by 2 continuous`  
+`'`[`sneak`](Sneak.md "wikilink")`          '  continuous`  
+` Modifies `[`moves`](Move_Points.md "wikilink")` by 500 continuous`  
+` Modifies `[`dexterity`](Dexterity.md "wikilink")` by 2 continuous`  
 `Armor class is 10-12.`
 
 **Keyword(s):** enchanted cutoff cut off trousers trunks  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
@@ -27,10 +27,10 @@ sneak item.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")
-([Map](Exploration_Outpost_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Apprentice-Wizard
+**[Area](:Category:_Areas.md "wikilink"):** [Exploration
+Outpost](:Category:_Exploration_Outpost.md "wikilink")
+([Map](Exploration_Outpost_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Apprentice-Wizard
 Arakos](Apprentice-Wizard_Arakos "wikilink")
 
 Portal to [Mayflower](Mayflower "wikilink"), follow Mayflower. The ship

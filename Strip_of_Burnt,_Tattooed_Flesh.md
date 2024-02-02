@@ -5,13 +5,13 @@ disfigured by burn scarring. Distorted markings suggest that it was once
 covered in tattoos, but they are utterly illegible.*
 
 **Keyword(s):** strip tattooed flesh.  
-**[Level(s)](Object_Level "wikilink"):** 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** .  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow.  
+**[Level(s)](Object_Level.md "wikilink"):** 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** .  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow.  
 
 ## Comments
 

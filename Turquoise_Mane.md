@@ -1,17 +1,17 @@
-`Modifies `[`mana`](Mana_Points "wikilink")` by 50 continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 1 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 9-12.`
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 50 continuous.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 1 continuous.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 9-12.`
 
 **Keyword(s):** turquoise, mane  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [invis](Invis_Flag "wikilink"),
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 49-53  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [invis](Invis_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 49-53  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Comments
 
@@ -19,14 +19,15 @@ Gear pops invisible.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Desecrated
-Monastery](:Category:_Desecrated_Monastery "wikilink")
-([Map](Desecrated_Monastery_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** None (in a chest).  
-[Portal](Teleport "wikilink") [Mountain Lion](Mountain_Lion "wikilink"),
-n, 3w, s, \[e\], \[u\](locked but [bashable](Bash "wikilink") and
-Pass-Door-able), 4u, \[u\], 4n. u, \[s\], e, s, \[s\], kill
-(aggie)[Chaykin](Chaykin "wikilink"), get seal from corpse.
+**[Area](:Category:_Areas.md "wikilink"):** [Desecrated
+Monastery](:Category:_Desecrated_Monastery.md "wikilink")
+([Map](Desecrated_Monastery_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** None (in a chest).  
+[Portal](Teleport.md "wikilink") [Mountain
+Lion](Mountain_Lion "wikilink"), n, 3w, s, \[e\], \[u\](locked but
+[bashable](Bash.md "wikilink") and Pass-Door-able), 4u, \[u\], 4n. u,
+\[s\], e, s, \[s\], kill (aggie)[Chaykin](Chaykin "wikilink"), get seal
+from corpse.
 
 Next, go to the [Statue Of Daido](Statue_Of_Daido "wikilink"): 2n, e,
 \[e\], d, 3s, e.
@@ -46,8 +47,8 @@ with his tail in one shot no matter your hp, ac and spells
 
 You don't have to kill guardian to get this item. Speedwalk it and you
 can set recall to room with the chest and open it with your rogue. Use
-[BCI](:Category:Black_Circle_Initiates "wikilink") quest kit for that to
-avoid death from detonator trap. Enjoy the easy way to get this
+[BCI](:Category:Black_Circle_Initiates.md "wikilink") quest kit for that
+to avoid death from detonator trap. Enjoy the easy way to get this
 overpriced hero mana item.
 
 [Category: Gear In Desecrated

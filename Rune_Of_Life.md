@@ -2,21 +2,22 @@
 `''like a major artifact! You consider the wisdom of using this`  
 *`obviously`` ``evil`` ``and`` ``corrupting`` ``item.`*
 
-`Modifies `[`mana`](Mana_Points "wikilink")` by 50 continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 50 continuous`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous`  
 `'detect invis   '  continuous`
 
 **Keyword(s):** rune, life, amulet, stone  
 **Type:** armor  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>  
 **Levels:** Levels 50-52  
 **Weight:** 3 lbs  
 **Bases:** Base 10-12  
-**Flags:** [glow](Glow_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink"),
-[noremove](Noremove_Flag "wikilink")  
-**Area:** [Sun God Altar](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink"))  
+**Flags:** [glow](Glow_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[noremove](Noremove_Flag.md "wikilink")  
+**Area:** [Sun God Altar](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink"))  
 **Mob:** [Ruddloaf Mortlock](Ruddloaf_Mortlock "wikilink")  
 
 ## Comments

@@ -4,27 +4,28 @@ land of fantasy.*
 **Keyword(s):** invitation imagination key mist  
 **Floor Text:** A hypnotic swirling mist threatens to pull you into
 another world.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[key](:Category:_Keys "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink") [nolocate](NoLocate_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 27  
-**[Quality](Object_Quality "wikilink"):** 5 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[key](:Category:_Keys.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")
+[nolocate](NoLocate_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 27  
+**[Quality](Object_Quality.md "wikilink"):** 5 hps  
 
 ## Comments
 
-This [key](:Category:_Keys "wikilink") is used in [Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink") to get to [Simon
-MacAlvay](Simon_MacAlvay "wikilink").
+This [key](:Category:_Keys.md "wikilink") is used in [Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink") to get to
+[Simon MacAlvay](Simon_MacAlvay "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink"))  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Invitation To
+**[Area](:Category:_Areas.md "wikilink"):** [Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink"))  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Invitation To
 Imagination Quest](Invitation_To_Imagination_Quest "wikilink").  
 See [Invitation To Imagination
 Quest](Invitation_To_Imagination_Quest "wikilink") for more information.

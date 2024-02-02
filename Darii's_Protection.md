@@ -1,18 +1,18 @@
 *From the corner of your eye you see something glow here.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -80 continuous.`  
-`'`[`protection`` ``evil`](Protection_Evil "wikilink")`'  continuous`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -80 continuous.`  
+`'`[`protection`` ``evil`](Protection_Evil.md "wikilink")`'  continuous`
 
 **Keyword(s):** protection,glow,dariis  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [good](Good_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 75 lbs  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [good](Good_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 75 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Guide
 

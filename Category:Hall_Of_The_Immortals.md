@@ -1,9 +1,9 @@
 *The gods have given [Snikt](Snikt "wikilink") the role of guardian for
 their universe. He has in turn recruited others through time to serve as
 caretakers for Migaardia and the otherworldly planes. While they serve
-the realm, they are [immortal](:Category:_Immortals "wikilink"). These
-Immortals work hard to keep the realm running smoothly. Here, Immortals
-past and present are commemorated for all time.*
+the realm, they are [immortal](:Category:_Immortals.md "wikilink").
+These Immortals work hard to keep the realm running smoothly. Here,
+Immortals past and present are commemorated for all time.*
 
 **Level Range:** 1\~45 **Builder:** [Cerdwyn](Cerdwyn "wikilink") and
 [Qismat](Qismat "wikilink")

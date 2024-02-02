@@ -40,15 +40,15 @@ found in Midgaard:
 ''\* ???  
 **Abbreviation:** Viz.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Cleric](:Category:_Clerics "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Cleric](:Category:_Clerics.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Wisdom](Wisdom "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Wisdom](Wisdom.md "wikilink").
 
 ## Viziers in General
 
-All [Viziers](:Category:_Viziers "wikilink") learn both healing and
+All [Viziers](:Category:_Viziers.md "wikilink") learn both healing and
 damage spells, area as well as targeted. However they cannot wield or
 hold (offhand) items and cannot worship.
 
@@ -56,7 +56,7 @@ hold (offhand) items and cannot worship.
 
 To become a Vizier you need ...
 
-1.  Level 50 [Cleric](:Category:_Clerics "wikilink").
+1.  Level 50 [Cleric](:Category:_Clerics.md "wikilink").
 
 Once these requirements have been met, seek out
 [Alcanus](Alcanus "wikilink") (portable, from Aelmon: wwssu) in the
@@ -65,7 +65,7 @@ induct you.
 
 Good creatable races for Viziers have decent hit points, no fail
 casting, and divine [ spell reduction
-cost](Racial_Spell_Cost_Modifier "wikilink") (which is of particular
+cost](Racial_Spell_Cost_Modifier.md "wikilink") (which is of particular
 importance to Viziers as they're mana gains are minimal).
 [Centaur](Centaur "wikilink") is probably the best of the creatable
 races with good hit points and a -15% spell cost reduction on divine

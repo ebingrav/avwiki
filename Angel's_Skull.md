@@ -1,8 +1,8 @@
 *An angel's skull lies here on the ground.*
 
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -25 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -25 continuous.`
 
 **Keyword(s):** angel's skull  
 **Slot:** head  
@@ -18,10 +18,10 @@ item.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Descent To
-Hell](:Category:_Descent_To_Hell "wikilink")
-([Map](Descent_To_Hell_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Living
+**[Area](:Category:_Areas.md "wikilink"):** [Descent To
+Hell](:Category:_Descent_To_Hell.md "wikilink")
+([Map](Descent_To_Hell_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Living
 Wall](Living_Wall "wikilink") (portable)  
 1 north, 4 west, 1 north from [Guardian Of
 Hell](Guardian_Of_Hell "wikilink").  

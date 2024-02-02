@@ -6,31 +6,32 @@ powerful monsters roaming the sun-cracked desert.*
 surroundings.  
 **Scan Description:**A dwarf cloaked in white sees you and draws her
 blade.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** ??, ??.  
 
 ## Gear
 
 `A white clerist is using:`  
-<worn on body>`      `[`a`` ``robe`` ``of`` ``the`` ``Clerist`](Robe_Of_The_Clerist "wikilink")
+<worn on body>`      `[`a`` ``robe`` ``of`` ``the`` ``Clerist`](Robe_Of_The_Clerist.md "wikilink")
 
 `A white clerist is carrying:`  
 `     Nothing.`
 
 ## Comments
 
-Random grunt in the army of [Crullius](Crullius_The_White "wikilink").
+Random grunt in the army of
+[Crullius](Crullius_The_White.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Varies
-([cursed](Cursed_Rooms "wikilink"))  
-A white clerist [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Varies
+([cursed](Cursed_Rooms.md "wikilink"))  
+A white clerist [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Great
 Divide](Category:_Mobs_In_Great_Divide "wikilink")

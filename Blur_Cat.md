@@ -7,13 +7,13 @@ and close in size.*
 **Keywords:** blur, cat, ??  
 **Level:** ??  
 **Alignment:** ??  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[assassin](Assassin_Mobs "wikilink"),
-[wanders](Wandering_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [hide](Hide "wikilink"),
-[sneak](Sneak "wikilink").  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[assassin](Assassin_Mobs.md "wikilink"),
+[wanders](Wandering_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [hide](Hide.md "wikilink"),
+[sneak](Sneak.md "wikilink").  
 
 ## Comments
 
@@ -27,8 +27,8 @@ Glove](Clawed_Glove "wikilink") on death.
 ## Directions
 
 **Area:** [North Rhuien
-Forest](:Category:North_Rhuien_Forest "wikilink")
-([Map](North_Rhuien_Forest_Map "wikilink"))  
+Forest](:Category:North_Rhuien_Forest.md "wikilink")
+([Map](North_Rhuien_Forest_Map.md "wikilink"))  
 **Room:** wanders
 
 **Walking route from [Rainbow Plant](Rainbow_Plant "wikilink"):** ?

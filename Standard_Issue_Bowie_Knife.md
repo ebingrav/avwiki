@@ -1,36 +1,37 @@
 *You see a standard issue Bowie knife here.*
 
 `Damage is 7 to 21 (average 14).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** knife, bowie, standard, issue.  
-**[Level(s)](Object_Level "wikilink"):** 10 or 15.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 10 or 15.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
-[Characters](:Category:_Characters "wikilink") must
-[wield](Wield "wikilink") a Bowie knife in order to either
-[butcher](Butcher "wikilink") or [skin](Skin_Corpse "wikilink") a
-corpse, unless they have [racial butcher](Racial_Butcher "wikilink")
+[Characters](:Category:_Characters.md "wikilink") must
+[wield](Wield.md "wikilink") a Bowie knife in order to either
+[butcher](Butcher.md "wikilink") or [skin](Skin_Corpse.md "wikilink") a
+corpse, unless they have [racial butcher](Racial_Butcher.md "wikilink")
 ability.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [the
-grocer](Grocer "wikilink"), [the weaponsmith](Weaponsmith "wikilink").  
-Both [the grocer](Grocer "wikilink") and [the
-weaponsmith](Weaponsmith "wikilink") sell these. See their pages for
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [the
+grocer](Grocer.md "wikilink"), [the
+weaponsmith](Weaponsmith.md "wikilink").  
+Both [the grocer](Grocer.md "wikilink") and [the
+weaponsmith](Weaponsmith.md "wikilink") sell these. See their pages for
 more information.
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")

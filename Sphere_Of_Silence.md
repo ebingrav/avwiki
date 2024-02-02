@@ -1,16 +1,16 @@
 *With a silent scream, a little black magic, and a whole lot of
-mischief, a [Sorcerer](:Category:_Sorcerers "wikilink") can make a whole
-crowd of people suddenly stop talking... literally!
-[Cast](Cast "wikilink") this little treasure and set it loose. Silence
-never felt so bad...*
+mischief, a [Sorcerer](:Category:_Sorcerers.md "wikilink") can make a
+whole crowd of people suddenly stop talking... literally!
+[Cast](Cast.md "wikilink") this little treasure and set it loose.
+Silence never felt so bad...*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'sphere of silence'.
+Syntax: [cast](Cast.md "wikilink") 'sphere of silence'.
 
 ## Comments
 
-The sphere disappears on first [tick](Tics "wikilink").
+The sphere disappears on first [tick](Tics.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Sorcerer Hero

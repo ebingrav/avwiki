@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="Lake.of.tears.jpg" title="Lake.of.tears.jpg" width="650"
-alt="Lake.of.tears.jpg" />
-<figcaption aria-hidden="true">Lake.of.tears.jpg</figcaption>
+<img src="Lake.of.tears.jpg.md" title="Lake.of.tears.jpg.md" width="650"
+alt="Lake.of.tears.jpg.md" />
+<figcaption aria-hidden="true">Lake.of.tears.jpg.md</figcaption>
 </figure>
 
 [Alpha Thule Map](Alpha_Thule_Map "wikilink")  

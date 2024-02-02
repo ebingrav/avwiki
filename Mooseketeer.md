@@ -6,20 +6,20 @@ Chieftess has ordered him to make sure the Chief didn't sneak away.*
 world ends.*
 
 **Keywords:** mooseketeer.  
-**[Level](Level "wikilink"):** 30.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](Thieving_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 30.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](Thieving_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 
 `A Mooseketeer is using:`  
-<worn on head>`      `[`antlers`](Antlers "wikilink")  
-<wielded>`           `[`a`` ``pike`](Pike "wikilink")  
-<held>`              `[`a`` ``moosekette`](Moosekette "wikilink")
+<worn on head>`      `[`antlers`](Antlers.md "wikilink")  
+<wielded>`           `[`a`` ``pike`](Pike.md "wikilink")  
+<held>`              `[`a`` ``moosekette`](Moosekette.md "wikilink")
 
 `A Mooseketeer is carrying:`  
 `     Nothing.`
@@ -28,12 +28,12 @@ world ends.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Moose Council Tent
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Moose Council Tent
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, e, \[e\], 4n, e,
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, e, \[e\], 4n, e,
 {n}, n, e, 2n, \[n\].  
 The Mooseketeer is portable.  
 

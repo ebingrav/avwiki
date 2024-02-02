@@ -4,11 +4,11 @@ This is my function, and as much as a machine can, I feel content with
 this knowledge. Can you say the same?*'
 
 **Keywords:** ephemeral, soul, spirit  
-**[Level](Level "wikilink"):** 70  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [flying](Fly "wikilink")  
+**[Level](Level.md "wikilink"):** 70  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [flying](Fly.md "wikilink")  
 
 ## Gear
 
@@ -24,10 +24,10 @@ this knowledge. Can you say the same?*'
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alpha
-Thule](:Category:_Alpha_Thule "wikilink")
-([Map](Alpha_Thule_Map "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): ???.  
+**[Area](:Category:_Areas.md "wikilink"):** [Alpha
+Thule](:Category:_Alpha_Thule.md "wikilink")
+([Map](Alpha_Thule_Map.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.  
 
 [Category: Mobs In Alpha
 Thule](Category:_Mobs_In_Alpha_Thule "wikilink")

@@ -22,8 +22,8 @@ spell for a short time.
 ## Comments
 
 Wizards can gain Ether Link by reading the [
-spellbook](:Category:Spellbooks "wikilink") [Rediscovering Ether, Book 1
-In A 3 Part
+spellbook](:Category:Spellbooks.md "wikilink") [Rediscovering Ether,
+Book 1 In A 3 Part
 Series](Rediscovering_Ether,_Book_1_In_A_3_Part_Series "wikilink").
 
 Each ether spell is a self only spell that has a duration of around 12

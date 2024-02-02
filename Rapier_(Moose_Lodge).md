@@ -1,26 +1,26 @@
 *A rapier rests here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 13 to 34 (average 23).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 13 to 34 (average 23).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** rapier.  
-**[Level(s)](Object_Level "wikilink"):** 34.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 34.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Gray
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Gray
 Mooser](Gray_Mooser "wikilink").  
 See [Gray Mooser](Gray_Mooser "wikilink") for more information.  
 

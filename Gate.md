@@ -16,7 +16,8 @@ as Explained above nope it does not :/
 I'm not sure, but I think that at one point this spell was castable by
 player characters. The version of the story I heard was that people
 would use it to leave relatively high level aggie mobs hanging out in
-newbie areas. Hence why it was removed. [Waite](User:Waite "wikilink")
+newbie areas. Hence why it was removed.
+[Waite](User:Waite.md "wikilink")
 
 [Category: Grandfathered Skills And
 Spells](Category:_Grandfathered_Skills_And_Spells "wikilink")

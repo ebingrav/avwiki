@@ -1,7 +1,7 @@
 This quest confers the [Halfling "Detective"
 Insignia](Halfling_"Detective"_Insignia "wikilink"), and is located
-within [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink") on
-[Eragora](:Category:Eragora "wikilink").
+within [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink") on
+[Eragora](:Category:Eragora.md "wikilink").
 
 To be eligible to start this quest you must not have done the [Mountain
 Adventurer Quest](Mountain_Adventurer_Quest "wikilink"), or if you have,
@@ -14,8 +14,8 @@ only recommended to groups or very large superheroes.
 -   Once on Eragora portal to [Halfling Spy](Halfling_Spy "wikilink")
     and examine the bushes. This will trigger the quest.
 -   push vegetation, e, s, and from here walk towards the top, scanning
-    for the [Nervous Adventurer](Half-Orc_Adventurer "wikilink"). Murder
-    him for the [Commission To Explore The
+    for the [Nervous Adventurer](Half-Orc_Adventurer.md "wikilink").
+    Murder him for the [Commission To Explore The
     Mountains](Commission_To_Explore_The_Mountains "wikilink").
 -   Once you reach [Throdak](Throdak "wikilink"), the Paladin's ghost,
     walk d, e, s and pick up the [Misty Elixir](Misty_Elixir "wikilink")

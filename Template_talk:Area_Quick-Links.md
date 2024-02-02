@@ -22,29 +22,29 @@ It'd be like this:
 And so on. It'd require a revamp of all templates, but it might be
 something to consider. I won't put much effort in this since it's
 probably not the best option, anyway. So far I like the slim one best.
---[Llanor](User:MooNFisH "wikilink") 12:25, 12 February 2007 (CST)
+--[Llanor](User:MooNFisH.md "wikilink") 12:25, 12 February 2007 (CST)
 
 I like the current one best, myself. The only think that I might change
 about it is adding the Gear, Mobs, and Rooms category links, something
 like this...
 
-|                                           |                                                   |                                                    |                                                    |                                                    |                                                    |                                          |                                        |                                        |                                              |                                          |
-|-------------------------------------------|---------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------------|------------------------------------------|
-| **[Areas](:Category:_Areas "wikilink"):** | [01-10](:Category:_Lowmort_1-10_Areas "wikilink") | [11-20](:Category:_Lowmort_11-20_Areas "wikilink") | [21-30](:Category:_Lowmort_21-30_Areas "wikilink") | [31-40](:Category:_Lowmort_31-40_Areas "wikilink") | [41-50](:Category:_Lowmort_41-50_Areas "wikilink") | [Hero](:Category:_Hero_Areas "wikilink") | **[Maps](:Category:_Maps "wikilink")** | **[Mobs](:Category:_Mobs "wikilink")** | **[Objects](:Category:_Objects "wikilink")** | **[Rooms](:Category:_Rooms "wikilink")** |
+|                                               |                                                       |                                                       |                                                       |                                                       |                                                       |                                              |                                            |                                            |                                                  |                                              |
+|-----------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|----------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------------|----------------------------------------------|
+| **[Areas](:Category:_Areas_.md "wikilink"):** | [01-10](:Category:_Lowmort_1-10_Areas_.md "wikilink") | [11-20](:Category:_Lowmort_11-20_Areas.md "wikilink") | [21-30](:Category:_Lowmort_21-30_Areas.md "wikilink") | [31-40](:Category:_Lowmort_31-40_Areas.md "wikilink") | [41-50](:Category:_Lowmort_41-50_Areas.md "wikilink") | [Hero](:Category:_Hero_Areas_.md "wikilink") | **[Maps](:Category:_Maps_.md "wikilink")** | **[Mobs](:Category:_Mobs_.md "wikilink")** | **[Objects](:Category:_Objects_.md "wikilink")** | **[Rooms](:Category:_Rooms_.md "wikilink")** |
 
 **Area Quick-Links Table**
 
---[Dave Garber](User:DaveGarber1975 "wikilink") 15:46, 13 February 2007
-(CST)
+--[Dave Garber](User:DaveGarber1975.md "wikilink") 15:46, 13 February
+2007 (CST)
 
   
 IMHO, that's too wide. Not everyone uses a high res as we probably do.
-We should leave it as it is now. --[Llanor](User:MooNFisH "wikilink")
+We should leave it as it is now. --[Llanor](User:MooNFisH.md "wikilink")
 07:33, 15 February 2007 (CST)
 
 <!-- -->
 
   
   
-Ah, okay then. :D --[Dave Garber](User:DaveGarber1975 "wikilink") 14:33,
-15 February 2007 (CST)
+Ah, okay then. :D --[Dave Garber](User:DaveGarber1975.md "wikilink")
+14:33, 15 February 2007 (CST)

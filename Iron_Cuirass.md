@@ -1,26 +1,26 @@
 *An shiny iron cuirass bears the name Stonehall on both sides.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5 continuous.`
 
 **Keyword(s):** iron cuirass.  
-**[Level(s)](Object_Level "wikilink"):** 16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Dwarven
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Dwarven
 Shooter](Dwarven_Shooter "wikilink"), [Captain
 Balgaar](Captain_Balgaar "wikilink").  
 See each mob's individual page above for more information.  

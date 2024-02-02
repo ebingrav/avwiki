@@ -7,15 +7,15 @@ anyone know why only some leviathans become them.*
 lake. Pity the fool that wakes one...*
 
 **Keywords:** Ouroburos.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**.  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**.  
 **Affects:** .  
 
 ## Gear
 
 `An Ouroburos is using:`  
-<held in offhand>`   `[`a`` ``Leviathan`` ``Scale`](Leviathan_Scale "wikilink")
+<held in offhand>`   `[`a`` ``Leviathan`` ``Scale`](Leviathan_Scale.md "wikilink")
 
 ## Comments
 

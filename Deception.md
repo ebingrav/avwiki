@@ -1,15 +1,16 @@
-*Think you have a pretty good [weapon](:Category:_Weapons "wikilink")?
-What if it turned into a rattlesnake during a fight? With the Deception
-[spell](:Category:_Spells "wikilink"), you can make your victim think a
-piece of [equipment](:Category:_Gear "wikilink") has turned into
-something dangerous, so they try to [remove](Remove "wikilink") or
-[drop](Drop "wikilink") it. You can't control what
-[equipment](:Category:_Gear "wikilink") is affected, it's random.*
+*Think you have a pretty good
+[weapon](:Category:_Weapons.md "wikilink")? What if it turned into a
+rattlesnake during a fight? With the Deception
+[spell](:Category:_Spells.md "wikilink"), you can make your victim think
+a piece of [equipment](:Category:_Gear.md "wikilink") has turned into
+something dangerous, so they try to [remove](Remove.md "wikilink") or
+[drop](Drop.md "wikilink") it. You can't control what
+[equipment](:Category:_Gear.md "wikilink") is affected, it's random.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'deception'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'deception'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

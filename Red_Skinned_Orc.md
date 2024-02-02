@@ -5,10 +5,10 @@ brown earth of the surrounding terrain.*
 <wielded>`           a red dusted hand axe`
 
 **Keywords:** red, orc, ???.  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** ???.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** ???.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** ???.  
 
 ## Gear
@@ -22,8 +22,8 @@ Glowing Dust](Red_Glowing_Dust "wikilink").
 
 Several of these mobs spawn in the first few rooms of Forge. If all of
 them are killed, [A Landslide of Red
-Stone](A_landslide_of_red_stone "wikilink") is spawned in the room with
-the [Mountain Giant](Mountain_Giant "wikilink") and hunts down and
+Stone](A_landslide_of_red_stone.md "wikilink") is spawned in the room
+with the [Mountain Giant](Mountain_Giant "wikilink") and hunts down and
 attacks the player.
 
 Tried skinning one and it did not skin to anything useful.

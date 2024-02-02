@@ -1,27 +1,27 @@
 *A tiny bottle contains a clear pink elixir. It has a pleasant aroma,
 almost fruity.*
 
-`Level 15 spells of: '`[`cure`` ``light`](Cure_Light "wikilink")`' '`[`refresh`](Refresh "wikilink")`'.`
+`Level 15 spells of: '`[`cure`` ``light`](Cure_Light.md "wikilink")`' '`[`refresh`](Refresh.md "wikilink")`'.`
 
 **Keyword(s):** elixir, clear, pink, bottle.  
-**[Level(s)](Object_Level "wikilink"):** 24-26.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 24-26.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tul-Sith's
-Hospice](:Category:_Tul-Sith's_Hospice "wikilink")
-([Map](Tul-Sith's_Hospice_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [hospice
-director](Hospice_Director "wikilink").  
-See [hospice director](Hospice_Director "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Tul-Sith's
+Hospice](:Category:_Tul-Sith's_Hospice.md "wikilink")
+([Map](Tul-Sith's_Hospice_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [hospice
+director](Hospice_Director.md "wikilink").  
+See [hospice director](Hospice_Director.md "wikilink") for more
 information.
 
 [Category: Gear In Tul-Sith's

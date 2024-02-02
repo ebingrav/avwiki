@@ -13,7 +13,7 @@ type treasure, extra flags glow hum magic.
 
 This is made by skinning the corpse of [Denizen Of The
 Wasteland](Denizen_Of_The_Wasteland "wikilink") in [Inferno
-Peak](:Category:Inferno_Peak "wikilink").
+Peak](:Category:Inferno_Peak.md "wikilink").
 
 [Category:Lord KDR Gear](Category:Lord_KDR_Gear "wikilink")
 [Category:Gear In Inferno

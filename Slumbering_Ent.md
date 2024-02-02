@@ -7,10 +7,10 @@ his fellow ents.*
 **Keywords:** slumbering, sleeping, ent  
 **Level:** 24  
 **[Alignment](Alignment "wikilink"):** neutral  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[hide](Hide "wikilink"), [sleeping](Sleep_(spell) "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[hide](Hide.md "wikilink"), [sleeping](Sleep_(spell).md "wikilink")  
 
 ### Comments
 
@@ -18,10 +18,10 @@ Three Slumbering Ents populate The Walking Woods.
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [The Walking
-Woods](:Category:Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** A corner of the glen, The
+**[Area](:Category:Areas.md "wikilink"):** [The Walking
+Woods](:Category:Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** A corner of the glen, The
 eastern edge of the glen  
 **Walking route from [Nom](Nom "wikilink"):** 4s 6e s 2e s 2e 2n w  
 **Walking route from [Terrified Goblin](Terrified_Goblin "wikilink"):**

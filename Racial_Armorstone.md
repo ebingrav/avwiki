@@ -1,4 +1,4 @@
-*This [racial](:Category:_Racials "wikilink") offers some level of
+*This [racial](:Category:_Racials.md "wikilink") offers some level of
 protection from damage. It is automatic and continuous.*
 
 Armorstone is better than [Racial

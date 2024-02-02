@@ -1,32 +1,32 @@
 *The wide, quasi-stiff leather of this belt should provide excellent
 support for longer battles, with plenty of hooks to hang equipment.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4-6.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5 continuous.`  
-`Modifies `[`constitution`](Constitution "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4-6.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5 continuous.`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** broad, Leather, Belt.  
-**[Level(s)](Object_Level "wikilink"):** 21-23.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about waist>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nodrop](NoDrop_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 21-23.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about waist>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nodrop](NoDrop_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Senex
-Operis](:Category:_Senex_Operis "wikilink")
-([Map](Senex_Operis_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Spectre of a
-gladiator](Spectre_Of_A_Gladiator_(Andabata) "wikilink"), [Spectre of a
-gladiator](Spectre_Of_A_Gladiator_(Samnite) "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Senex
+Operis](:Category:_Senex_Operis.md "wikilink")
+([Map](Senex_Operis_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Spectre of a
+gladiator](Spectre_Of_A_Gladiator_(Andabata).md "wikilink"), [Spectre of
+a gladiator](Spectre_Of_A_Gladiator_(Samnite).md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Senex
 Operis](Category:_Gear_In_Senex_Operis "wikilink") [Category:

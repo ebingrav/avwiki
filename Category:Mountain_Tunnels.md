@@ -14,14 +14,14 @@ Walking route from [Eragora default
 recall](Eragora_default_recall "wikilink"): 2s, d, 6e, 2s, 2e, 2s, e,
 2s, 4e, 2s, 2e, d, 5e, n, 2e, n, 2e
 
-[Portaling](Portal "wikilink") point(s) suggested: [halfling
-spy](Halfling_Spy "wikilink") is the only recall settable portal point.
-The rest of the area is cursed.
+[Portaling](Portal.md "wikilink") point(s) suggested: [halfling
+spy](Halfling_Spy.md "wikilink") is the only recall settable portal
+point. The rest of the area is cursed.
 
 ## Connections
 
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
--   [Quarries and Mines](:Category:Quarries_and_Mines "wikilink")
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
+-   [Quarries and Mines](:Category:Quarries_and_Mines.md "wikilink")
     (inbound only)
 
 ## Navigation
@@ -50,22 +50,22 @@ here unless you enjoy very difficult CRs.
 
 To enter through you will be required to either pick a side (halfling or
 half-orc) by proving your loyalty (ie. doing their
-[quests](:Category:Quests_In_Mountain_Tunnels "wikilink")), or to push
-hidden lever (vegetation) found at halfling spy. To get out the same
-applies, there is a secret way out at the eastern side of the gate
+[quests](:Category:Quests_In_Mountain_Tunnels.md "wikilink")), or to
+push hidden lever (vegetation) found at halfling spy. To get out the
+same applies, there is a secret way out at the eastern side of the gate
 (*enter tunnel*).
 
-Doing the [half-orc quest](Mountain_Adventurer_Quest "wikilink") is
+Doing the [half-orc quest](Mountain_Adventurer_Quest.md "wikilink") is
 rather "trivial", as it involves going to an other area entirely, namely
-the [Halfling's Paradise](:Category:Halfling's_Paradise "wikilink"), and
-returning with the forged papers. This will reward you with a
+the [Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink"),
+and returning with the forged papers. This will reward you with a
 *permahero* -2 AC insignia, access to the tunnels
 ([Madak](Madak "wikilink") will open the doors for 60 seconds every time
 you come to him), and will set your alignment with the half-orcs, making
 the half-orcs within the maze non-aggressive to you.
 
-Choosing the [halfling side](Halfling_Detective_Quest "wikilink") is a
-more difficult affair as it requires investigating the tunnels,
+Choosing the [halfling side](Halfling_Detective_Quest.md "wikilink") is
+a more difficult affair as it requires investigating the tunnels,
 returning to the halfling with everything found in the post-entrance and
 maze parts, but will also give you a *permahero* +3% xp insignia. This
 is naturally fantastic for high-TNL races, and those not morphing early.
@@ -75,14 +75,14 @@ halflings will not be aggressive.
 ## Switching Alignments
 
 Hitting 999 might make you wish to switch to the [half-orc
-insignia](Mountain_Adventurer_Insignia "wikilink"). Regardless, to
+insignia](Mountain_Adventurer_Insignia.md "wikilink"). Regardless, to
 switch alignments, there are two quests, one for each side. Doing either
 will set your alignment to neutral towards both halflings and half-orcs
 and you will need to redo the appropriate entrance quest.
 
 To switch to half-orken side, you will be required to travel to [Sun God
-Altar](:Category:Sun_God_Altar "wikilink") and murder [Sou
-f'Fle](Sou_F'Fle "wikilink") as a part of the [Half-Orc Redemption
+Altar](:Category:Sun_God_Altar.md "wikilink") and murder [Sou
+f'Fle](Sou_F'Fle.md "wikilink") as a part of the [Half-Orc Redemption
 Quest](Half-Orc_Redemption_Quest "wikilink"), and return with his
 necklace. To switch to halfling side, you will need to retrieve a
 certain sword from within the bowels of the maze in the [Halfling
@@ -92,10 +92,11 @@ Redemption Quest](Halfling_Redemption_Quest "wikilink").
 
 Regular mazes usually run 3-4 rooms, sometimes a bit more. There is a
 very hard maze at [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink") that counts 7 rooms.
-This one is 11 rooms big, every room has a full set of 4 exits, and only
-a single exit from a single room leads towards the maze exit (or back
-out, for that matter). Fortunately the room exits do not change.
+Machadae](:Category:Daingean_Machadae.md "wikilink") that counts 7
+rooms. This one is 11 rooms big, every room has a full set of 4 exits,
+and only a single exit from a single room leads towards the maze exit
+(or back out, for that matter). Fortunately the room exits do not
+change.
 
 The maze is chock full with fully-aggressive halflings, half-orcs,
 dust-imps, doppelgangers (which are always nasty), all of which see
@@ -116,10 +117,10 @@ caught when pushed.
 ## The Grand Finale
 
 [Throdak](Throdak "wikilink") will give you a
-[quest](Suntamer_Quest "wikilink") to free him, should you come and
+[quest](Suntamer_Quest.md "wikilink") to free him, should you come and
 visit him during the in-game day hours. This will require navigating the
 maze to the altar, quaffing, and murdering all there is on the other
-side, which again is a [story for itself](Suntamer_Quest "wikilink").
+side, which again is a [story for itself](Suntamer_Quest.md "wikilink").
 The rewards will be an exotic armor piece and weapon, but nothing overly
 powerful. Also, there is no insignia for doing this quest.
 

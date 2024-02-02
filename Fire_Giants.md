@@ -15,8 +15,9 @@ dramatically increases their ferocity in combat.*
 perform admirably when working with fire magic.*
 
 Fire Giants have three main racial commands that set them apart. They
-are [Glow](Racial_Glow "wikilink"), [Ignite](Racial_Ignite "wikilink"),
-and [Burning Blood](Racial_Burning_Blood "wikilink").
+are [Glow](Racial_Glow.md "wikilink"),
+[Ignite](Racial_Ignite.md "wikilink"), and [Burning
+Blood](Racial_Burning_Blood.md "wikilink").
 
 [Category: Races](Category:_Races "wikilink") [Category: Quest
 Races](Category:_Quest_Races "wikilink") [Category: Greater

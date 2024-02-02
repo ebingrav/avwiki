@@ -4,24 +4,26 @@
 `Modifies hp by -15 continuous.`
 
 **Keyword(s):** hide, skin, demon.  
-**[Level(s)](Object_Level "wikilink"):** 51-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** worn about body.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, evil, magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 51-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** worn about body.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, evil,
+magic.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Neraka](:Category:_Neraka "wikilink") ([Map](Neraka_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[Neraka](:Category:_Neraka.md "wikilink")
+([Map](Neraka_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Kekerasan](Kekerasan "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 See [Symbol Of Darkness](Symbol_Of_Darkness "wikilink") for more
 information.
 

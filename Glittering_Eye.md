@@ -1,30 +1,30 @@
 *Ripped from a head, large compound eye glistens here.*
 
-[`Armor`` ``Class`](Armor_Values "wikilink")` is 5.`  
-`'`[`detect`` ``hidden`](Detect_Hidden "wikilink")`  ' continuous.`  
-`'`[`detect`` ``invis`](Detect_Invis "wikilink")`   ' continuous.`
+[`Armor`` ``Class`](Armor_Values.md "wikilink")` is 5.`  
+`'`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")`  ' continuous.`  
+`'`[`detect`` ``invis`](Detect_Invis.md "wikilink")`   ' continuous.`
 
 **Keyword(s):** compound cho-ja cho eye queens queen.  
-**[Level(s)](Object_Level "wikilink"):** 21.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lb.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 21.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lb.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cho-ja
-Hive](:Category:_Cho-ja_Hive "wikilink")
-([Map](Cho-ja_Hive_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Immature
+**[Area](:Category:_Areas.md "wikilink"):** [Cho-ja
+Hive](:Category:_Cho-ja_Hive.md "wikilink")
+([Map](Cho-ja_Hive_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Immature
 Queen](Immature_Queen "wikilink").  
 See [Immature Queen](Immature_Queen "wikilink") for more information.
 

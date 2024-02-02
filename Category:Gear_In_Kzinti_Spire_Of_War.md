@@ -1,7 +1,7 @@
-From [Kzinti Homeworld](:Category:Kzinti_Homeworld "wikilink") shift go
-in a northeasterly direction to the sublevel in the [Spire Of
-War](:Category:Kzinti_Spire_Of_War "wikilink"). If you have entered the
-portal chambers, you've gone too far north. Head east once you are
+From [Kzinti Homeworld](:Category:Kzinti_Homeworld.md "wikilink") shift
+go in a northeasterly direction to the sublevel in the [Spire Of
+War](:Category:Kzinti_Spire_Of_War.md "wikilink"). If you have entered
+the portal chambers, you've gone too far north. Head east once you are
 before the pillars. *If in doubt, from shift go 1e, all n, all e, all n,
 3s, w, u, track alch.* In the jungle be wary of invis [Kzinti
 Hunters](Kzinti_Hunter "wikilink") who stab. Also, psions need to be
@@ -12,7 +12,7 @@ Spire of War, which means you're on the right path.
 
 Once you're inside, head southwest, ignoring
 [Raskartan](Raskartan "wikilink") who guards the choke point to the
-[Spire Of Knowledge](:Category:Kzinti_Spire_Of_Knowledge "wikilink"),
+[Spire Of Knowledge](:Category:Kzinti_Spire_Of_Knowledge.md "wikilink"),
 looking for an open up exit to Level One. The up exit to Level Two is
 also southwest. The up exit to Level Three (note: one way to Level
 Three) is north in the center.

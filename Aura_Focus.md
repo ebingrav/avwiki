@@ -1,15 +1,16 @@
 ''By applying your knowledge of the
-[psionic](:Category:_Psionicists "wikilink") art to analyzing a target's
-aura, you can determine what [spells](:Category:_Spells "wikilink")
-[affect](Affects "wikilink") that person, and for how long. This
-examination will only reveal [spells](:Category:_Spells "wikilink"); it
-cannot detect effects from non-magical
-[skills](:Category:_Skills_And_Spells "wikilink").
+[psionic](:Category:_Psionicists.md "wikilink") art to analyzing a
+target's aura, you can determine what
+[spells](:Category:_Spells.md "wikilink")
+[affect](Affects.md "wikilink") that person, and for how long. This
+examination will only reveal [spells](:Category:_Spells.md "wikilink");
+it cannot detect effects from non-magical
+[skills](:Category:_Skills_And_Spells.md "wikilink").
 
-Prerequisite(s): [Aura Sight](Aura_Sight "wikilink").
+Prerequisite(s): [Aura Sight](Aura_Sight.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'aura focus'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'aura focus'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

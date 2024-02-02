@@ -17,8 +17,8 @@ has wrought.*
 **Weight:** 12 lbs  
 **Bases:** 5-7  
 **Flags:** none  
-**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink"))  
+**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink"))  
 **Mob:**  
 
 ## Comments

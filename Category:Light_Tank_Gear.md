@@ -16,32 +16,32 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 ?
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 [Longbeard Lantern](Longbeard_Lantern "wikilink"), [Orb Of
 Sunshine](Orb_Of_Sunshine "wikilink")
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Severed Tentacle Of A Soul
 Squid](Severed_Tentacle_Of_A_Soul_Squid "wikilink")
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Magically Glowing Branch](Magically_Glowing_Branch "wikilink"), [War
 Banner](War_Banner "wikilink")
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 ?
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Elvish Guiding Light](Elvish_Guiding_Light "wikilink"), [Glowing
 Twig](Glowing_Twig "wikilink"), [Mega's Spark In A
 Bottle](Mega's_Spark_In_A_Bottle "wikilink"), [Orb Of The
 Shogun](Orb_Of_The_Shogun "wikilink"), [Torch Of The
 Traveller](Torch_Of_The_Traveller "wikilink")
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Tank Gear](Category:_Tank_Gear "wikilink")

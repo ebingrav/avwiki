@@ -1,16 +1,17 @@
-*With this [spell](:Category:_Spells "wikilink") you can Transfer your
-life into another. This is not an efficient process however, and even
-less efficient if the target is at max [hits](Hit_Points "wikilink").
-The cost is high for using this [spell](:Category:_Spells "wikilink"),
-not in [mana](Mana_Points "wikilink"), but in YOUR life, and you will be
+*With this [spell](:Category:_Spells.md "wikilink") you can Transfer
+your life into another. This is not an efficient process however, and
+even less efficient if the target is at max
+[hits](Hit_Points.md "wikilink"). The cost is high for using this
+[spell](:Category:_Spells.md "wikilink"), not in
+[mana](Mana_Points.md "wikilink"), but in YOUR life, and you will be
 unable to stop the process, and will fall unconscious yourself!*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'transfer life'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'transfer life'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

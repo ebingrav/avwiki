@@ -1,24 +1,24 @@
 *What does it do? It gives you information about the
-[item](:Category:_Objects "wikilink"), of course.
-[Weight](Object_Weight "wikilink"), what it is, and more can be seen
+[item](:Category:_Objects.md "wikilink"), of course.
+[Weight](Object_Weight.md "wikilink"), what it is, and more can be seen
 with this spell.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'identify'
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'identify'
+\<[object](:Category:_Objects.md "wikilink")\>.
 
 This spell is invaluable to
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink"). It provides very detailed
-information about [objects](:Category:_Objects "wikilink"), more than
-may be obtained using [commands](:Category:_Commands "wikilink") like
-[examine](Examine "wikilink"). See
-[Identifiers](:Category:_Identifiers "wikilink") for some
-[mobs](:Category:_Mobs "wikilink") who will identify
-[items](:Category:_Objects "wikilink") for you for a price.
+[characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink"). It provides very detailed
+information about [objects](:Category:_Objects.md "wikilink"), more than
+may be obtained using [commands](:Category:_Commands.md "wikilink") like
+[examine](Examine.md "wikilink"). See
+[Identifiers](:Category:_Identifiers.md "wikilink") for some
+[mobs](:Category:_Mobs.md "wikilink") who will identify
+[items](:Category:_Objects.md "wikilink") for you for a price.
 
-See also [Identify Gear](:Category:_Identify_Gear "wikilink").
+See also [Identify Gear](:Category:_Identify_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

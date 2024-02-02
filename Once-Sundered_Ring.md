@@ -9,22 +9,23 @@ Modifies armor class by -40 continuous.
 Keywords: bands diamond obsidian once-sundered ring  
 Flags: glow magic bless  
 Weight: 1  
-Plane: [Thorngate](:Category:Thorngate "wikilink")  
-Area: [Rietta's Wonders](:Category:Rietta's_Wonders "wikilink")  
+Plane: [Thorngate](:Category:Thorngate.md "wikilink")  
+Area: [Rietta's Wonders](:Category:Rietta's_Wonders.md "wikilink")  
 Mob: [Lost Spirit Of Pascilon](Lost_Spirit_Of_Pascilon "wikilink")
 (ticket quest)  
 To get this item you need to collect two pieces of gear from
-[Noctopia](:Category:Noctopia "wikilink"). Both are called [Half Of The
-Sundered Ring](Half_Of_The_Sundered_Ring "wikilink").
+[Noctopia](:Category:Noctopia.md "wikilink"). Both are called [Half Of
+The Sundered Ring](Half_Of_The_Sundered_Ring "wikilink").
 
--   Get [one half](Half_Of_The_Sundered_Ring_(Duke) "wikilink") from
+-   Get [one half](Half_Of_The_Sundered_Ring_(Duke).md "wikilink") from
     [Duke Malafont](Duke_Malafont "wikilink"). See [Gear In Obsidian
-    Arena; Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink")
+    Arena; Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink")
     for more information on how that's done.
--   Get [the other half](Half_Of_The_Sundered_Ring_(Queen) "wikilink")
-    from [Dark Queen Zydarielle](Zydarielle,_Queen_Of_Stars "wikilink").
-    See [Gear In Obsidian Arena;
-    Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink").
+-   Get [the other
+    half](Half_Of_The_Sundered_Ring_(Queen).md "wikilink") from [Dark
+    Queen Zydarielle](Zydarielle,_Queen_Of_Stars.md "wikilink"). See
+    [Gear In Obsidian Arena;
+    Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink").
 -   Give both pieces to [Garrow](Garrow "wikilink"):
 
 `You give half of the Sundered Ring to Garrow.`  
@@ -36,11 +37,11 @@ Sundered Ring](Half_Of_The_Sundered_Ring "wikilink").
   
 `"Or I could be wrong and it could just be another ring. If so...`  
 `well, I know a fence, maybe..." `  
-[`Garrow`](Garrow "wikilink")` gives you the `[`Once-Sundered`` ``Ring`](Once-Sundered_Ring_(ticket) "wikilink")`!`
+[`Garrow`](Garrow "wikilink")` gives you the `[`Once-Sundered`` ``Ring`](Once-Sundered_Ring_(ticket).md "wikilink")`!`
 
 -   Give [Once-Sundered Ring
     (ticket)](Once-Sundered_Ring_(ticket) "wikilink") and [ Girth of the
-    Most Holy](Girth_Of_The_Most_Holy "wikilink") to [Lost Spirit Of
+    Most Holy](Girth_Of_The_Most_Holy.md "wikilink") to [Lost Spirit Of
     Pascilon](Lost_Spirit_Of_Pascilon "wikilink"):
 
 `You give the Once-Sundered Ring to The lost spirit of Pascilon.`  
@@ -49,10 +50,10 @@ Sundered Ring](Half_Of_The_Sundered_Ring "wikilink").
 `this ring again. It will never be quite what it was, of course, but I`  
 `believe I can use the Holy Power of this girth to restore some of its former`  
 `glory. Wear it with pride, friend."`  
-[`The`` ``lost`` ``spirit`` ``of`` ``Pascilon`](Lost_Spirit_Of_Pascilon "wikilink")` gives you the `**`Once-Sundered`` ``Ring`**`!`
+[`The`` ``lost`` ``spirit`` ``of`` ``Pascilon`](Lost_Spirit_Of_Pascilon.md "wikilink")` gives you the `**`Once-Sundered`` ``Ring`**`!`
 
 Note that the ring is bound to the person who
-[Pascilon](Lost_Spirit_Of_Pascilon "wikilink") gives it to.
+[Pascilon](Lost_Spirit_Of_Pascilon.md "wikilink") gives it to.
 
 [Category:Gear In Rietta's
 Wonders](Category:Gear_In_Rietta's_Wonders "wikilink") [Category:Gear In

@@ -3,8 +3,8 @@
 Bases: 10-12  
 Levels: 50-52  
 Weight: 5  
-Area: [Shadow Keep](:Category:_Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink"))  
+Area: [Shadow Keep](:Category:_Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink"))  
 Mob: [Carrion Crawler](Carrion_Crawler "wikilink")  
 *portable* Suggested pp: carr crawl
 

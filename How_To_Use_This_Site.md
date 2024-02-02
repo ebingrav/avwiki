@@ -22,8 +22,8 @@ onto the end of the article.
 Of course, if you find a section of the Wiki that is really useful to
 you, you can always bookmark it. Finally, if you're bored, take a look
 at the information we've begun to gather under the
-[Miscellaneous](:Category:Miscellaneous "wikilink") section. You might
-see something there that interests you that you wouldn't have even
+[Miscellaneous](:Category:Miscellaneous.md "wikilink") section. You
+might see something there that interests you that you wouldn't have even
 thought to search for. Anyways, that's about it. I hope you enjoy using
 this site. If you're interested in helping us make this website even
 more useful than it already is, take a look at

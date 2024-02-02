@@ -42,7 +42,7 @@ be looking for three seperate items as proof of your actions.
 drop three different tattoo items (they are: 'tattoo of a black shining
 sun', 'a black scale tattoo', and 'tattoed pair of black wings'). Get
 all three and then give one of them to Jerome and he will give you [
-fossilized dragon bones](Fossilized_Dragon_Bones "wikilink").
+fossilized dragon bones](Fossilized_Dragon_Bones.md "wikilink").
 
 the Assassins use psi spells and are fairly difficult to solo for
 smaller heroes. also there seems to be a timer, so they will disappear

@@ -1,8 +1,8 @@
-*This [skill](:Category:_Skills "wikilink"), once learned, will give the
-[wielder](Wield "wikilink") of a [weapon](:Category:_Weapons "wikilink")
-the knowledge to get the most out of a sword or spear. When you can
-achieve this enhanced damage, your average swing of a club becomes
-something more powerful.*
+*This [skill](:Category:_Skills.md "wikilink"), once learned, will give
+the [wielder](Wield.md "wikilink") of a
+[weapon](:Category:_Weapons.md "wikilink") the knowledge to get the most
+out of a sword or spear. When you can achieve this enhanced damage, your
+average swing of a club becomes something more powerful.*
 
 Prerequisites: none.
 

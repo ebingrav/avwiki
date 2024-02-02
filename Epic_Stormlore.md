@@ -4,7 +4,7 @@ Legend stormlord lore.
 
 # Prereqs
 
--   [greater stormlore](Greater_Stormlore "wikilink")
+-   [greater stormlore](Greater_Stormlore.md "wikilink")
 
 # Skills/Spells Granted
 

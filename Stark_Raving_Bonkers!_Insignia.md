@@ -1,6 +1,6 @@
 The insignia is received by completing the [Bonkers!
 Quest](Bonkers!_Quest "wikilink") in [Cult Of
-Bonk](:Category:Cult_Of_Bonk "wikilink").
+Bonk](:Category:Cult_Of_Bonk.md "wikilink").
 
 `   Stark Raving Bonkers!`  
 `     Modifies hp by 30 continuous`  

@@ -18,8 +18,9 @@ perform admirably when working with earth, caustic, or telekinetic
 magic.*
 
 Stone Giants have three main racials that set them apart. They are
-[Hurl](Racial_Hurl "wikilink"), [Fetter](Racial_Fetter "wikilink"), and
-[Hardheaded](Racial_Hardheaded "wikilink").
+[Hurl](Racial_Hurl.md "wikilink"),
+[Fetter](Racial_Fetter.md "wikilink"), and
+[Hardheaded](Racial_Hardheaded.md "wikilink").
 
 The casting bonus hinted at in the help file has been confirmed to apply
 to the following spells:

@@ -11,16 +11,16 @@ to have some intense sentimental value to him, although it seems
 unlikely that anyone but he will ever know why he cherishes it so.*
 
 **Keywords:** centaur, worker.  
-**[Level](Level "wikilink"):** 13.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 13.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A mysterious worker of the ruins is using:`  
-<worn around neck>`  `[`amulet`` ``of`` ``westwood`` ``ruin`](Amulet_Of_Westwood_Ruin "wikilink")
+<worn around neck>`  `[`amulet`` ``of`` ``westwood`` ``ruin`](Amulet_Of_Westwood_Ruin.md "wikilink")
 
 `A mysterious worker of the ruins is carrying:`  
 `     Nothing.`
@@ -29,10 +29,10 @@ unlikely that anyone but he will ever know why he cherishes it so.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ruins of
-Westwood](:Category:_Ruins_Of_Westwood "wikilink")
-([Map](Ruins_Of_Westwood_Map "wikilink")).  
-**[Room{s}](:Category:_Rooms "wikilink"):** Within the lower ruins
+**[Area](:Category:_Areas.md "wikilink"):** [Ruins of
+Westwood](:Category:_Ruins_Of_Westwood.md "wikilink")
+([Map](Ruins_Of_Westwood_Map.md "wikilink")).  
+**[Room{s}](:Category:_Rooms.md "wikilink"):** Within the lower ruins
 (portable)
 
 Walking directions from [Sol](Sol "wikilink"): 2e, n, 2w, s, 2w, s, d,

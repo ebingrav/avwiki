@@ -1,15 +1,16 @@
 *By turning his shield into an offensive weapon, a person may be able to
 inflict greater damage with his sword until the opponent regains its
-feet. Spellcasters, it should be noted, cannot [cast](Cast "wikilink")
-spells while sprawled out on the ground as a result of being bashed. A
-person's [dexterity](Dexterity "wikilink") helps to play a role in the
-successful bashing of opponents, and it should be noted that attempting
-to shield-bash an opponent whose [level](Level "wikilink") is much
-greater than your own is rarely a good idea...*
+feet. Spellcasters, it should be noted, cannot
+[cast](Cast.md "wikilink") spells while sprawled out on the ground as a
+result of being bashed. A person's [dexterity](Dexterity.md "wikilink")
+helps to play a role in the successful bashing of opponents, and it
+should be noted that attempting to shield-bash an opponent whose
+[level](Level.md "wikilink") is much greater than your own is rarely a
+good idea...*
 
 Prerequisite(s): none.
 
-Syntax: bash \<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: bash \<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

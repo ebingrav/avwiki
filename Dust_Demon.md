@@ -5,11 +5,11 @@ him, and his eyes glow a dull red.*
 *The dust demon throws back his head and cackles with insane glee!*
 
 **Keywords:** dust, demon  
-**[Level](Level "wikilink"):** 80  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 80  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 

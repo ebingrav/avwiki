@@ -1,10 +1,10 @@
-*Steadfast [Berserkers](:Category:_Berserkers "wikilink") cannot be
+*Steadfast [Berserkers](:Category:_Berserkers.md "wikilink") cannot be
 deterred from finishing their battles. This Rite grants its Master
-immunity to [calm](Calm "wikilink"), [dread](Dread "wikilink") and
-[awe](Awe "wikilink"). Since it works on the enemy, rather than the
-[Berserker](:Category:_Berserkers "wikilink"), the
-[innocence](Innocence "wikilink") [spell](:Category:_Spells "wikilink")
-is unaffected.*
+immunity to [calm](Calm.md "wikilink"), [dread](Dread.md "wikilink") and
+[awe](Awe.md "wikilink"). Since it works on the enemy, rather than the
+[Berserker](:Category:_Berserkers.md "wikilink"), the
+[innocence](Innocence.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") is unaffected.*
 
 Prerequisite(s): none.
 

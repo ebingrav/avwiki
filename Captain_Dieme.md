@@ -11,19 +11,19 @@ back down into his paperwork, mumbling something about an interloper.*
 **Keywords:** Captain, Dieme  
 **Level:** 48  
 **[Alignment](Alignment "wikilink"):** angelic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[battle-hardened](Warlord_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[battle-hardened](Warlord_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Captain Dieme is using:`  
 <worn on body>`      a shiny leather vest`  
-<wielded>`           `[`captain`` ``Dieme's`` ``saber`](Captain_Dieme's_Saber "wikilink")
+<wielded>`           `[`captain`` ``Dieme's`` ``saber`](Captain_Dieme's_Saber.md "wikilink")
 
 `You peek at the inventory:`  
-`     `[`a`` ``letter`` ``of`` ``ultimatum`](Letter_Of_Ultimatum "wikilink")
+`     `[`a`` ``letter`` ``of`` ``ultimatum`](Letter_Of_Ultimatum.md "wikilink")
 
 ## Comments
 
@@ -31,10 +31,10 @@ Captain Dieme takes part in a minor quest.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:_Rooms "wikilink"):** Captain Dieme's Room
+**[Area](:Category:_Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:_Rooms.md "wikilink"):** Captain Dieme's Room
 (portable)  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 39s, 3w, 3n, 3e,
 3n  

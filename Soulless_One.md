@@ -4,9 +4,9 @@ again.*
 **Keywords:** one, soulless, ??.  
 **Scan Description:** Dead eyes and grinning teeth come rushing toward
 you!  
-**[Level](Level "wikilink"):** 82.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** aggressive, ??  
+**[Level](Level.md "wikilink"):** 82.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** aggressive, ??  
 **Affects:** ??, ??.  
 == Gear ==
 
@@ -20,11 +20,11 @@ you!
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** ???
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** ???
+([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Great
 Divide](Category:_Mobs_In_Great_Divide "wikilink")

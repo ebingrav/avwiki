@@ -1,13 +1,13 @@
-*[Mages](:Category:_Mages "wikilink") have done it! They've cracked the
-mystic code and can now [cast](Cast "wikilink") [fly](Fly "wikilink")
-upon their entire group at once. One small step for groupmates... one
-giant leap for magic fun!*
+*[Mages](:Category:_Mages.md "wikilink") have done it! They've cracked
+the mystic code and can now [cast](Cast.md "wikilink")
+[fly](Fly.md "wikilink") upon their entire group at once. One small step
+for groupmates... one giant leap for magic fun!*
 
-Prerequisite(s): [Fly](Fly "wikilink").
+Prerequisite(s): [Fly](Fly.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass fly'.
+Syntax: [cast](Cast.md "wikilink") 'mass fly'.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

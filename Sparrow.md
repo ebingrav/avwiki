@@ -2,11 +2,11 @@
 should close its beak permanently.*
 
 **Keywords:** Sparrow.  
-**[Level](Level "wikilink"):** 2.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Flying](Fly "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 2.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Flying](Fly.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 **HitPoints:** 14
 
 ## Gear
@@ -21,11 +21,12 @@ should close its beak permanently.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Meadow](:Category:_Meadow "wikilink") ([Map](Meadow_Map "wikilink")).  
-Walking route from [Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-A sparrow [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Meadow](:Category:_Meadow.md "wikilink")
+([Map](Meadow_Map.md "wikilink")).  
+Walking route from [Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+A sparrow [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Meadow](Category:_Mobs_In_Meadow "wikilink")

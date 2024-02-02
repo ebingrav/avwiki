@@ -3,12 +3,12 @@ breaking. Probably this is due to the fact that each rests on and
 supports the others.*
 
 **Keywords:** cracked, pillar, ice.  
-**[Level](Level "wikilink"):** 59.  
+**[Level](Level.md "wikilink"):** 59.  
 **Scan Description:** A tall ice pillar stands close to some others.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** .  
-**Affects:** [sneak](Sneak "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** .  
+**Affects:** [sneak](Sneak.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -22,12 +22,12 @@ supports the others.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Storm
-Canyon](:Category:_Storm_Canyon "wikilink")
-([Map](Storm_Canyon_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Storm
+Canyon](:Category:_Storm_Canyon.md "wikilink")
+([Map](Storm_Canyon_Map.md "wikilink")).  
 There are several instances of this mob in this area.  
-[Portaling](Portal "wikilink") point suggested: [big
-fish](Big_Fish_In_Cold_Water "wikilink"), n, w, n  
+[Portaling](Portal.md "wikilink") point suggested: [big
+fish](Big_Fish_In_Cold_Water.md "wikilink"), n, w, n  
 
 [Category: Mobs In Storm
 Canyon](Category:_Mobs_In_Storm_Canyon "wikilink")

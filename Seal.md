@@ -1,18 +1,18 @@
-*The seal [spell](:Category:_Spells "wikilink") mends rips in the fabric
-of space, sealing [portals](Portals "wikilink") or
-[nexuses](Nexuses "wikilink") shut.*
+*The seal [spell](:Category:_Spells.md "wikilink") mends rips in the
+fabric of space, sealing [portals](Portals.md "wikilink") or
+[nexuses](Nexuses.md "wikilink") shut.*
 
-Prerequisite(s): [Portal](Portal "wikilink").
+Prerequisite(s): [Portal](Portal.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'seal'
-\<[portal](Portals "wikilink")/[nexus](Nexuses "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'seal'
+\<[portal](Portals.md "wikilink")/[nexus](Nexuses.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is midly useful for
-[characters](:Category:_Characters "wikilink") wanting to quickly
-eliminate unwanted [player](:Category:_Characters "wikilink")-made
-[portals](Portals "wikilink") or [nexuses](Nexuses "wikilink") for one
-reason or another, rather than letting them disappear naturally after a
-period of time.
+This [spell](:Category:_Spells.md "wikilink") is midly useful for
+[characters](:Category:_Characters.md "wikilink") wanting to quickly
+eliminate unwanted [player](:Category:_Characters.md "wikilink")-made
+[portals](Portals.md "wikilink") or [nexuses](Nexuses.md "wikilink") for
+one reason or another, rather than letting them disappear naturally
+after a period of time.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

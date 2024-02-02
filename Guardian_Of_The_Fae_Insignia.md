@@ -13,13 +13,14 @@ enough!*
 done their part in the battle to find themselves victorious!*
 
 This insignia shows your dedication the Sprite cause against the attacks
-of the harpies from [Lloth's Peak](:Category:Lloth's_Peak "wikilink"),
-and your help in securing support of a foreign benevolent party.
+of the harpies from [Lloth's
+Peak](:Category:Lloth's_Peak.md "wikilink"), and your help in securing
+support of a foreign benevolent party.
 
 For further info, see the [Guardian Of The Fae
 Quest](Guardian_Of_The_Fae_Quest "wikilink"). The insignia itself is
 nice and shiny, though entirely cosmetic. However, having this insignia
 will alter the attitude of certain [Sarphyre's
-Court](:Category:Sarphyre's_Court "wikilink") denizens.
+Court](:Category:Sarphyre's_Court.md "wikilink") denizens.
 
 [Category:Insignia](Category:Insignia "wikilink")

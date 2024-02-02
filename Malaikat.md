@@ -5,19 +5,19 @@ of the rulers of the Temple of Utami to prevent all that dwell here from
 freeing their master Belag.*
 
 **Keywords:** malaikat, ??.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** Heroically.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Steadfast, Psion.  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** Heroically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Steadfast, Psion.  
 **Affects:** Sanctuary, Detect Hidden, Detect invis, Infravision,
 Flying.  
 
 ## Gear
 
 `Malaikat is using:`  
-<held>`              `[`(Glowing)the`` ``emerald`` ``key`](Emerald_Key "wikilink")
+<held>`              `[`(Glowing)the`` ``emerald`` ``key`](Emerald_Key.md "wikilink")
 
 `Malaikat is carrying:`  
-`     `[`(Glowing)scroll`` ``of`` ``Utami`](Scroll_Of_Utami "wikilink")
+`     `[`(Glowing)scroll`` ``of`` ``Utami`](Scroll_Of_Utami.md "wikilink")
 
 ## Comments
 
@@ -32,10 +32,11 @@ naked.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Neraka](:Category:_Neraka "wikilink") ([Map](Neraka_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Before the emerald door
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Neraka](:Category:_Neraka.md "wikilink")
+([Map](Neraka_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Before the emerald door
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from [Kekerasan](Kekerasan "wikilink"): n.  
 See [Symbol Of Darkness](Symbol_Of_Darkness "wikilink") for more
 information.

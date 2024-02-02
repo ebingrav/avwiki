@@ -1,7 +1,7 @@
 Syntax: c 'mass comfort'
 
-Prerequisite Chart: [comfort](Comfort "wikilink") & [mass heal
-ii](Mass_Heal_ii "wikilink") -\> mass comfort
+Prerequisite Chart: [comfort](Comfort.md "wikilink") & [mass heal
+ii](Mass_Heal_ii.md "wikilink") -\> mass comfort
 
 Comfort and Mass Comfort are the most powerful of the Lord Level healing
 spells. Only those for whom healing is a way of life may learn comfort.

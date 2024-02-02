@@ -1,5 +1,5 @@
-*Near [Midgaard](:Category:_Midgaard "wikilink") there lie the grounds
-where AVATAR's Olympic events are held. When not in use by the
+*Near [Midgaard](:Category:_Midgaard.md "wikilink") there lie the
+grounds where AVATAR's Olympic events are held. When not in use by the
 atheletes, the grounds are patrolled by powerful keepers.*
 
 **Level Range:** 51-51
@@ -8,14 +8,14 @@ atheletes, the grounds are patrolled by powerful keepers.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 7w, \[s\], d.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 7w, \[s\], d.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Gnomish
-Tinker](Gnomish_Tinker "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Gnomish
+Tinker](Gnomish_Tinker.md "wikilink").
 
 ## Connections
 
--   [Diplomatic Corps](:Category:Diplomatic_Corps "wikilink")
+-   [Diplomatic Corps](:Category:Diplomatic_Corps.md "wikilink")
 
 ## Navigation
 

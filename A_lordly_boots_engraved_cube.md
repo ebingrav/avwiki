@@ -10,15 +10,15 @@ Instrinsic Level: 125
 Total valid item limit (ingredients and base item) is 5.  
 Wear location:feet
 
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Silmavar Lost](:Category:Silmavar_Lost "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Silmavar Lost](:Category:Silmavar_Lost.md "wikilink")  
 Mob: [Sverrecik the war leader](Sverrecik_the_war_leader "wikilink")  
 
 ## Comments
 
 This is a cube that can use [base
-items](:Category:Transmogrify_Base_Items "wikilink") to
-[Transmogrify](transmogrify "wikilink") other gear.
+items](:Category:Transmogrify_Base_Items.md "wikilink") to
+[Transmogrify](transmogrify.md "wikilink") other gear.
 
 [Category: Shard Area Gear](Category:_Shard_Area_Gear "wikilink")
 [Category: Gear In Astral](Category:_Gear_In_Astral "wikilink")

@@ -1,25 +1,26 @@
 *By controlling the production and release of adrenaline, the
-[caster](Cast "wikilink") of this psionic spell can gain a temporary
-boost in [dexterity](Dexterity "wikilink"). This control cannot be
+[caster](Cast.md "wikilink") of this psionic spell can gain a temporary
+boost in [dexterity](Dexterity.md "wikilink"). This control cannot be
 initiated during battle because that's a little too exciting. ADRENALINE
 PUMP is a [BIOCENTRIC Psionic
-Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It can only
-be [cast](Cast "wikilink") on others if the caster first masters the art
-of [BIO EMPATHY](Bio_Empathy "wikilink").*
+Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It can
+only be [cast](Cast.md "wikilink") on others if the caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'adrenaline pump'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'adrenaline pump'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This is a rather useful [skill](:Category:_Skills_And_Spells "wikilink")
-for all [characters](:Category:_Characters "wikilink") (who can) to
-[learn](Practice "wikilink"). It increases its target
-[character](:Category:_Characters "wikilink")'s
-[dexterity](Dexterity "wikilink") by 4, though not more than 3 above its
-target's maximum [trainable](Train "wikilink")
-[dexterity](Dexterity "wikilink"). It is included in
-[Fortitudes](Fortitudes "wikilink").
+This is a rather useful
+[skill](:Category:_Skills_And_Spells.md "wikilink") for all
+[characters](:Category:_Characters.md "wikilink") (who can) to
+[learn](Practice.md "wikilink"). It increases its target
+[character](:Category:_Characters.md "wikilink")'s
+[dexterity](Dexterity.md "wikilink") by 4, though not more than 3 above
+its target's maximum [trainable](Train.md "wikilink")
+[dexterity](Dexterity.md "wikilink"). It is included in
+[Fortitudes](Fortitudes.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

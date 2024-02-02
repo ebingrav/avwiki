@@ -7,8 +7,8 @@ Type: armor
 Slot: arms  
 Extra flags: none  
 Weight: 15  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Plane Of Water](:Category:Plane_Of_Water "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Plane Of Water](:Category:Plane_Of_Water.md "wikilink")  
 Mob: [Surly water elemental](Surly_water_elemental "wikilink") (in
 maelstrom)
 

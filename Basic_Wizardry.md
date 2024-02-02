@@ -4,7 +4,7 @@ Lowmort wizard lore. Provides access to the hero wizard lore.
 
 # Prereqs
 
--   [basic magic](Basic_Magic "wikilink")
+-   [basic magic](Basic_Magic.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -13,7 +13,7 @@ Lowmort wizard lore. Provides access to the hero wizard lore.
 
 # Lores Unlocked
 
--   [lesser wizardry](Lesser_Wizardry "wikilink")
+-   [lesser wizardry](Lesser_Wizardry.md "wikilink")
 
 # Other Notes
 

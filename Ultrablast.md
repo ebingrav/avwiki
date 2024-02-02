@@ -1,10 +1,10 @@
 *Ultrablast channels raw psionic energy into both the target's body and
 conscious mind for truly impressive damage.*
 
-Prerequisite(s): [Psionic Blast](Psionic_Blast "wikilink").
+Prerequisite(s): [Psionic Blast](Psionic_Blast.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'ultrablast'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'ultrablast'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

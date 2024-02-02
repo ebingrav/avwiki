@@ -1,24 +1,25 @@
-*All [archers](:Category:_Archers "wikilink") have to keep one hand free
-to operate and reload their [weapons](:Category:_Weapons "wikilink").
-[Fusiliers](:Category:_Fusiliers "wikilink") with the quick draw
-[skill](:Category:_Skills "wikilink") can use this empty hand to rapidly
-draw and throw a [weapon](:Category:_Weapons "wikilink") from their
-belts (inventory) between shots.*
+*All [archers](:Category:_Archers.md "wikilink") have to keep one hand
+free to operate and reload their
+[weapons](:Category:_Weapons.md "wikilink").
+[Fusiliers](:Category:_Fusiliers.md "wikilink") with the quick draw
+[skill](:Category:_Skills.md "wikilink") can use this empty hand to
+rapidly draw and throw a [weapon](:Category:_Weapons.md "wikilink") from
+their belts (inventory) between shots.*
 
-Prerequisite(s): [Precise Shot](Precise_Shot "wikilink").
+Prerequisite(s): [Precise Shot](Precise_Shot.md "wikilink").
 
-Syntax: [throw](Throw "wikilink")
-\<[weapon](:Category:_Weapons "wikilink")\>
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [throw](Throw.md "wikilink")
+\<[weapon](:Category:_Weapons.md "wikilink")\>
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-The description for this [skill](:Category:_Skills "wikilink") should
+The description for this [skill](:Category:_Skills.md "wikilink") should
 say "draw and throw a [Throwing
-Weapon](:Category:Throwing_Weapons "wikilink") from their belts". One of
-the most popular [throwing
-weapons](:Category:Throwing_Weapons "wikilink") for
-[Fusiliers](:Category:Fusiliers "wikilink") is the [Short
-Spear](Short_Spear_(Naam'Sa) "wikilink") as it does pretty good damage
-and it usually returns.
+Weapon](:Category:Throwing_Weapons.md "wikilink") from their belts". One
+of the most popular [throwing
+weapons](:Category:Throwing_Weapons.md "wikilink") for
+[Fusiliers](:Category:Fusiliers.md "wikilink") is the [Short
+Spear](Short_Spear_(Naam'Sa).md "wikilink") as it does pretty good
+damage and it usually returns.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Fusilier Hero

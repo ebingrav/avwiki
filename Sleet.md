@@ -1,17 +1,17 @@
-*All [Stormlord](:Category:_Stormlords "wikilink")
-[spells](:Category:_Spells "wikilink") manipulate weather in a very
+*All [Stormlord](:Category:_Stormlords.md "wikilink")
+[spells](:Category:_Spells.md "wikilink") manipulate weather in a very
 localized manner. They can call forth a blizzard in the middle of a
 summer meadow, or a shower of rain while miles underground. They must be
 sustained, and will end early if the caster is struck, moved, or enters
 a command. Sleet lays down a slick coating of icy sludge, making any
 knockdown attempts more likely to be successful. This
-[spell](:Category:_Spells "wikilink") affects ally and foe alike, and
+[spell](:Category:_Spells.md "wikilink") affects ally and foe alike, and
 sometimes lingers briefly after the
-[Stormlord](:Category:_Stormlords "wikilink") stops controlling it.*
+[Stormlord](:Category:_Stormlords.md "wikilink") stops controlling it.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'sleet'.
+Syntax: [cast](Cast.md "wikilink") 'sleet'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

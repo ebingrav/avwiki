@@ -44,8 +44,9 @@ levels).
 ## Empirical Method
 
 Using Avatar's Twitter feed to collect
-[data](User:WinterRose/Morph_Data "wikilink"), we can take, for example,
-all the non-999 morphs and see when, on average, a player morphs.
+[data](User:WinterRose/Morph_Data.md "wikilink"), we can take, for
+example, all the non-999 morphs and see when, on average, a player
+morphs.
 
     mysql> select sum(level), count(success), sum(level)/count(success) from morph where level!=999 and success=1;
     +------------+----------------+---------------------------+

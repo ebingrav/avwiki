@@ -5,14 +5,14 @@ listen. She has agreed to lend her followers to the exploration of this
 cavern.*
 
 **Keywords:** iync, ice, mistress.  
-**[Level](Level "wikilink"):** 75.  
+**[Level](Level.md "wikilink"):** 75.  
 **Scan Description:** A mist of frost follows in the wake of this
 woman's pale blue robe.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[hide](Hide "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[hide](Hide.md "wikilink").  
 
 ## Gear
 
@@ -25,9 +25,9 @@ Her robe cannot be looted.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ruin Of The
-Arcanists](:Category:_Ruin_Of_The_Arcanists "wikilink")
-([Map](Ruin_Of_The_Arcanists_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Ruin Of The
+Arcanists](:Category:_Ruin_Of_The_Arcanists.md "wikilink")
+([Map](Ruin_Of_The_Arcanists_Map.md "wikilink")).  
 ??
 
 [Category: Mobs In Ruin Of The

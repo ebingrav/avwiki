@@ -10,9 +10,9 @@
 Slot: about body  
 Weight: 30  
 Flags: (I don't quite remember - I think anti-good dark)  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Memory Lane](:Category:Memory_Lane "wikilink")  
-Mob: [Thing That Time Forgot](Thing_That_Time_Forgot "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Memory Lane](:Category:Memory_Lane.md "wikilink")  
+Mob: [Thing That Time Forgot](Thing_That_Time_Forgot.md "wikilink")  
 This is an about-body item of type weapon. I'm pretty sure it starts out
 anti-good and dark.
 
@@ -22,8 +22,8 @@ fade it, then brill it twice, you get to 9/9, which is better than the
 
 ------------------------------------------------------------------------
 
-See [Gear In Memory Lane](:Category:Gear_In_Memory_Lane "wikilink") for
-instructions on how to get this gear.
+See [Gear In Memory Lane](:Category:Gear_In_Memory_Lane.md "wikilink")
+for instructions on how to get this gear.
 
 [Category:Lord Hit Gear](Category:Lord_Hit_Gear "wikilink")
 [Category:Lord Archer Gear](Category:Lord_Archer_Gear "wikilink")

@@ -1,17 +1,18 @@
-*This [spell](:Category:_Spells "wikilink") replenishes a [drink
-container](:Category:_Drink_Containers "wikilink") with water. However,
-as thirst has been banished from the realm, this
-[spell](:Category:_Spells "wikilink") assists only the creatures of
+*This [spell](:Category:_Spells.md "wikilink") replenishes a [drink
+container](:Category:_Drink_Containers.md "wikilink") with water.
+However, as thirst has been banished from the realm, this
+[spell](:Category:_Spells.md "wikilink") assists only the creatures of
 Avatar.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'create water'
-\<[drink-container](:Category:_Drink_Containers "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'create water'
+\<[drink-container](:Category:_Drink_Containers.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") has no practical
-value at present, as [characters](:Category:_Characters "wikilink") no
-longer suffer from hunger and thirst.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") has no
+practical value at present, as
+[characters](:Category:_Characters.md "wikilink") no longer suffer from
+hunger and thirst.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

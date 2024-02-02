@@ -1,14 +1,14 @@
-*After a successful [parry](Parry "wikilink"), a master of riposte will
-automatically attempt a counter attack. Although other
-[classes](:Category:_Classes "wikilink") can learn this later, it will
-work less well for them based on how far removed they are from
-[warriors](:Category:_Warriors "wikilink"). IE- fairly well for
-[rangers](:Category:_Rangers "wikilink"), worse for
-[clerics](:Category:_Clerics "wikilink") and god-awful for
-[monks](:Category:_Monks "wikilink") who aren't used to weapon-based
-[skills](:Category:_Skills "wikilink").*
+*After a successful [parry](Parry.md "wikilink"), a master of riposte
+will automatically attempt a counter attack. Although other
+[classes](:Category:_Classes.md "wikilink") can learn this later, it
+will work less well for them based on how far removed they are from
+[warriors](:Category:_Warriors.md "wikilink"). IE- fairly well for
+[rangers](:Category:_Rangers.md "wikilink"), worse for
+[clerics](:Category:_Clerics.md "wikilink") and god-awful for
+[monks](:Category:_Monks.md "wikilink") who aren't used to weapon-based
+[skills](:Category:_Skills.md "wikilink").*
 
-Prerequisite(s): [Parry](Parry "wikilink").
+Prerequisite(s): [Parry](Parry.md "wikilink").
 
 Syntax: none (automatic).
 

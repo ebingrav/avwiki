@@ -1,16 +1,16 @@
-*The innocence [spell](:Category:_Spells "wikilink") stops combat, much
-like the [calm](Calm "wikilink") or [awe](Awe "wikilink")
-[spells](:Category:_Spells "wikilink"), but is [cast](Cast "wikilink")
-directly on one ally. Most enemies attacking the target of this
-[spell](:Category:_Spells "wikilink") will feel compelled to spare the
-innocent. Unlike [calm](Calm "wikilink") or [awe](Awe "wikilink"), there
-is no unpleasant side-effect that can worsen performance in future
-combat.*
+*The innocence [spell](:Category:_Spells.md "wikilink") stops combat,
+much like the [calm](Calm.md "wikilink") or [awe](Awe.md "wikilink")
+[spells](:Category:_Spells.md "wikilink"), but is
+[cast](Cast.md "wikilink") directly on one ally. Most enemies attacking
+the target of this [spell](:Category:_Spells.md "wikilink") will feel
+compelled to spare the innocent. Unlike [calm](Calm.md "wikilink") or
+[awe](Awe.md "wikilink"), there is no unpleasant side-effect that can
+worsen performance in future combat.*
 
-Prerequisite(s): [Absolve](Absolve "wikilink").
+Prerequisite(s): [Absolve](Absolve.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'innocence'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'innocence'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Priest

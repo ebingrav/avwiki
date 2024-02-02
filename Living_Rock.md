@@ -3,9 +3,10 @@ wars animated some of the very rock..and gave it a taste for blood.*
 
 **Keywords:** living, rock, ??.  
 **Scan Description:**The cliff itself slowly tries to devour you.  
-**[Level](Level "wikilink"):** 72.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** very aggressive, ??, ??.  
+**[Level](Level.md "wikilink"):** 72.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** very aggressive, ??,
+??.  
 **Affects:** ??, ??.  
 
 ## Gear
@@ -20,11 +21,11 @@ wars animated some of the very rock..and gave it a taste for blood.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** ???
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** ???
+([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Great
 Divide](Category:_Mobs_In_Great_Divide "wikilink")

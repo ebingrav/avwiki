@@ -1,16 +1,16 @@
 *A tiny shield covered in leather, with fancy knotwork carved in it.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5 continuous.`
 
 **Keyword(s):** small shield targ.  
-**[Level(s)](Object_Level "wikilink"):** 28.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 28.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -19,10 +19,10 @@ This shield is charged with Retribution, but no mortal can use this
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Angus
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Angus
 McMoose](Angus_McMoose "wikilink").  
 See [Angus McMoose](Angus_McMoose "wikilink") for more information.  
 

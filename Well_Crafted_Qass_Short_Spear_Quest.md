@@ -2,12 +2,13 @@
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [A regal zombie](Regal_Zombie "wikilink").
+-   [Kill](Kill.md "wikilink") [A regal
+    zombie](Regal_Zombie.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a shark tooth
-    necklace](Shark_Tooth_Necklace "wikilink") from its corpse.
+-   [Get](Get.md "wikilink") [a shark tooth
+    necklace](Shark_Tooth_Necklace.md "wikilink") from its corpse.
 
 <!-- -->
 
@@ -16,10 +17,10 @@
 
 <!-- -->
 
--   [Give](Give "wikilink") [a shark tooth
-    necklace](Shark_Tooth_Necklace "wikilink") to
-    [Odertha](Odertha "wikilink") and receive [a shark tooth
-    token](Shark_Tooth_Token "wikilink").
+-   [Give](Give.md "wikilink") [a shark tooth
+    necklace](Shark_Tooth_Necklace.md "wikilink") to
+    [Odertha](Odertha.md "wikilink") and receive [a shark tooth
+    token](Shark_Tooth_Token.md "wikilink").
 
 <!-- -->
 
@@ -28,10 +29,10 @@
 
 <!-- -->
 
--   [Give](Give "wikilink") [a shark tooth
-    token](Shark_Tooth_Token "wikilink") to [Leah](Leah "wikilink") and
-    receive [a glowing chunk of
-    meteorite](Glowing_Chunk_Of_Meteorite "wikilink").
+-   [Give](Give.md "wikilink") [a shark tooth
+    token](Shark_Tooth_Token.md "wikilink") to
+    [Leah](Leah.md "wikilink") and receive [a glowing chunk of
+    meteorite](Glowing_Chunk_Of_Meteorite.md "wikilink").
 
 <!-- -->
 
@@ -39,10 +40,10 @@
 
 <!-- -->
 
--   [Give](Give "wikilink") [a glowing chunk of
-    meteorite](Glowing_Chunk_Of_Meteorite "wikilink") to
-    [Odertha](Odertha "wikilink") and receive [a well crafted Qass short
-    spear](Well_Crafted_Qass_Short_Spear "wikilink").
+-   [Give](Give.md "wikilink") [a glowing chunk of
+    meteorite](Glowing_Chunk_Of_Meteorite.md "wikilink") to
+    [Odertha](Odertha.md "wikilink") and receive [a well crafted Qass
+    short spear](Well_Crafted_Qass_Short_Spear.md "wikilink").
 
 [Category: Quests In Qanza
 Prairie](Category:_Quests_In_Qanza_Prairie "wikilink") [Category: Quests

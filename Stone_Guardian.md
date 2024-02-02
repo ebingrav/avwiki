@@ -4,12 +4,12 @@ making you realise that this is no animated statue that you now face. It
 slowly stands, flexing its wings out in preparation for battle.*
 
 **Keywords:** stone, statue.  
-**[Level](Level "wikilink"):** 42.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](Thieving_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [protection evil](Protection_Evil "wikilink").  
+**[Level](Level.md "wikilink"):** 42.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](Thieving_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [protection evil](Protection_Evil.md "wikilink").  
 
 ## Gear
 
@@ -17,24 +17,24 @@ slowly stands, flexing its wings out in preparation for battle.*
 `Nothing.`
 
 `The stone guardian is carrying:`  
-`     `[`a`` ``warped`` ``key`](Warped_Key "wikilink")
+`     `[`a`` ``warped`` ``key`](Warped_Key.md "wikilink")
 
 ## Comments
 
-[Characters](:Category:_Characters "wikilink") need both [a really small
-key](Really_Small_Key "wikilink") and [a black
-rod](Black_Rod "wikilink") to unlock doors between [The
-sentinel](Sentinel "wikilink") and this mob.
+[Characters](:Category:_Characters.md "wikilink") need both [a really
+small key](Really_Small_Key.md "wikilink") and [a black
+rod](Black_Rod.md "wikilink") to unlock doors between [The
+sentinel](Sentinel.md "wikilink") and this mob.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Thieves'
-Haunt](:Category:_Thieves'_Haunt "wikilink")
-([Map](Thieves'_Haunt_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** An Empty Room
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [sentinel](Sentinel "wikilink"): {n}, n, e, \[e\], e,
-{d}, quaff.  
+**[Area](:Category:_Areas.md "wikilink"):** [Thieves'
+Haunt](:Category:_Thieves'_Haunt.md "wikilink")
+([Map](Thieves'_Haunt_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** An Empty Room
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [sentinel](Sentinel.md "wikilink"): {n}, n, e, \[e\],
+e, {d}, quaff.  
 
 [Category: Mobs In Thieves'
 Haunt](Category:_Mobs_In_Thieves'_Haunt "wikilink")

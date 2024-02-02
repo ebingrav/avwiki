@@ -15,15 +15,15 @@ chains which dangle from multiple piercings.*
 
 Zydarielle, Queen of Stars is using:
 
-<used as light>`     (Demonic) (Magical) (Glowing) `[`a`` ``starshard`](Starshard "wikilink")  
-<worn on finger>`    `[`the`` ``signet`` ``of`` ``Zydarielle`](Signet_Of_Zydarielle "wikilink")  
-<worn around neck>`  (Magical) `[`half`` ``of`` ``the`` ``Sundered`` ``Ring`](Half_Of_The_Sundered_Ring_(Queen) "wikilink")  
-<worn on body>`      (Magical) `[`the`` ``Black`` ``Widow`` ``Bodice`](Black_Widow_Bodice "wikilink")  
-<worn on head>`      (Magical) `[`a`` ``shapeless`` ``crown`` ``of`` ``shadows`](Shapeless_Crown_Of_Shadows "wikilink")  
-<worn on arms>`      (Magical) `[`the`` ``armband`` ``of`` ``the`` ``Unseen`](Armband_Of_The_Unseen "wikilink")
+<used as light>`     (Demonic) (Magical) (Glowing) `[`a`` ``starshard`](Starshard.md "wikilink")  
+<worn on finger>`    `[`the`` ``signet`` ``of`` ``Zydarielle`](Signet_Of_Zydarielle.md "wikilink")  
+<worn around neck>`  (Magical) `[`half`` ``of`` ``the`` ``Sundered`` ``Ring`](Half_Of_The_Sundered_Ring_(Queen).md "wikilink")  
+<worn on body>`      (Magical) `[`the`` ``Black`` ``Widow`` ``Bodice`](Black_Widow_Bodice.md "wikilink")  
+<worn on head>`      (Magical) `[`a`` ``shapeless`` ``crown`` ``of`` ``shadows`](Shapeless_Crown_Of_Shadows.md "wikilink")  
+<worn on arms>`      (Magical) `[`the`` ``armband`` ``of`` ``the`` ``Unseen`](Armband_Of_The_Unseen.md "wikilink")
 
 `Zydarielle, Queen of Stars is carrying:`  
-`     `[`the`` ``long`` ``bow,`` ``"Deep`` ``Shadow"`](Long_Bow,_"Deep_Shadow"_(Noctopia) "wikilink")
+`     `[`the`` ``long`` ``bow,`` ``"Deep`` ``Shadow"`](Long_Bow,_"Deep_Shadow"_(Noctopia).md "wikilink")
 
 ## Comments
 
@@ -33,10 +33,10 @@ Sometimes cast immolate to instantly kill players.
 
 ## Directions
 
-**[Area](:Category:_Lord_Areas "wikilink"):** [ Obsidian Arena;
-Stands](:Category:_Obsidian_Arena;_Stands "wikilink")  
+**[Area](:Category:_Lord_Areas.md "wikilink"):** [ Obsidian Arena;
+Stands](:Category:_Obsidian_Arena;_Stands.md "wikilink")  
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category: Mobs In Obsidian Arena;

@@ -7,19 +7,19 @@ various ingredients with the brew distilled elsewhere. Her blackened,
 burned skin suggests her experiments are often unsuccessful.*
 
 **Keywords:** goblin, shaman.  
-**[Level](Level "wikilink"):** 6.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[cleric](Spellcasting_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 6.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[cleric](Spellcasting_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `The goblin shaman is using:`  
-<worn on finger>`    `[`a`` ``skull`` ``ring`](Skull_Ring "wikilink")  
+<worn on finger>`    `[`a`` ``skull`` ``ring`](Skull_Ring.md "wikilink")  
 <worn around neck>`  a silver necklace`  
-<held>`              `[`a`` ``wooden`` ``staff`` ``adorned`` ``with`` ``furs`` ``and`` ``skins`](Wooden_Staff_Adorned_With_Furs_And_Skins "wikilink")
+<held>`              `[`a`` ``wooden`` ``staff`` ``adorned`` ``with`` ``furs`` ``and`` ``skins`](Wooden_Staff_Adorned_With_Furs_And_Skins.md "wikilink")
 
 ## Comments
 
@@ -32,10 +32,10 @@ noremove. Weight 0, value 1000, level 7. Object Quality (10 / 10 hps)
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The goblin shaman's
+**[Area](:Category:_Areas.md "wikilink"):** [Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The goblin shaman's
 laboratory (portable).  
 Walking route from [Nom](Nom "wikilink"): s, 7e, u, 3e, 5n, \[e\].  
 The goblin shaman is portable.  

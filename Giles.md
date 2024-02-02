@@ -1,16 +1,16 @@
-*A young [human](Humans "wikilink") of a quiet disposition, this
-[shopkeeper](:Category:_Shopkeepers "wikilink") sells his wares to the
-passersby. Having a gift with glass has made him most popular in these
-parts, and his smile is warm and gentle, if not a touch reserved.*
+*A young [human](Humans.md "wikilink") of a quiet disposition, this
+[shopkeeper](:Category:_Shopkeepers.md "wikilink") sells his wares to
+the passersby. Having a gift with glass has made him most popular in
+these parts, and his smile is warm and gentle, if not a touch reserved.*
 
 **Keywords:** Giles, man.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -25,11 +25,12 @@ parts, and his smile is warm and gentle, if not a touch reserved.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Mervue](:Category:_Mervue "wikilink") ([Map](Mervue_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Within a glassmaker's shop
-(portable, [safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 23s, e.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Mervue](:Category:_Mervue.md "wikilink")
+([Map](Mervue_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Within a glassmaker's
+shop (portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 23s, e.  
 Giles is portable.  
 
 [Category: Mobs In Mervue](Category:_Mobs_In_Mervue "wikilink")

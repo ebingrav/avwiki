@@ -4,7 +4,7 @@ Hero sorcerer lore. Provides access to the lord sorcerer lore.
 
 # Prereqs
 
--   [basic sorcery](Basic_Sorcery "wikilink")
+-   [basic sorcery](Basic_Sorcery.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -19,7 +19,7 @@ Hero sorcerer lore. Provides access to the lord sorcerer lore.
 
 # Lores Unlocked
 
--   [greater sorcery](Greater_Sorcery "wikilink")
+-   [greater sorcery](Greater_Sorcery.md "wikilink")
 
 # Other Notes
 

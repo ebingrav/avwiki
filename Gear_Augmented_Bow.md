@@ -1,6 +1,6 @@
 *A bow with an elaborate pulley system looks quite complex.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 40 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 40 continuous.`  
 `5% chance of halved cost of divine spells continuous.`
 
 **Type**: Bow  
@@ -10,7 +10,7 @@
 **Weight**: 7  
 **Draw Strength**: 10  
 **Health**: 25 hps  
-**Plane**: [Airscape](:Category:Airscape "wikilink")  
+**Plane**: [Airscape](:Category:Airscape.md "wikilink")  
 **Area**: [:Category:](:Category: "wikilink")  
 **Mob**: []( "wikilink")
 

@@ -2,7 +2,7 @@
 Although part of the island is a bustling trading bazaar with visitors
 from all over the realm, legends speak of the 5 sinister Masters who
 gather in darkness below, and seek to control the power of an
-otherwordly force known only as [The Doom](Doom "wikilink").*
+otherwordly force known only as [The Doom](Doom.md "wikilink").*
 
 **Level Range:** 51-51
 
@@ -10,19 +10,19 @@ otherwordly force known only as [The Doom](Doom "wikilink").*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 41s, w (note: crosses
-[water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 41s, w (note: crosses
+[water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Vapul](Vapul "wikilink") (warning:
-[aggressive](Aggressive_Mobs "wikilink")), Imp Army (aggie),
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Vapul](Vapul.md "wikilink") (warning:
+[aggressive](Aggressive_Mobs.md "wikilink")), Imp Army (aggie),
 [Administrator Gru-Dzek](Administrator_Gru-Dzek "wikilink"), [Heruta
 Skash Gzug](Heruta_Skash_Gzug "wikilink")
 
 ## Connections
 
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
-    ([map](Sea_Of_Strayed_Hopes_Map "wikilink"))
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
+    ([map](Sea_Of_Strayed_Hopes_Map.md "wikilink"))
 
 ## Navigation
 

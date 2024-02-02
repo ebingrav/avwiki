@@ -1,4 +1,4 @@
-*This [racial](:Category:_Racials "wikilink") offers some level of
+*This [racial](:Category:_Racials.md "wikilink") offers some level of
 protection from damage. It is automatic and continuous.*
 
 Armorleather is better than [Racial
@@ -10,7 +10,7 @@ Armorbark](Racial_Armorbark "wikilink").
 [Tuataurs](Tuataurs "wikilink") all possess racial armorleather.
 
 [Races with
-Armorleather](:Category:Races_with_Racial_Armorleather "wikilink")
+Armorleather](:Category:Races_with_Racial_Armorleather.md "wikilink")
 
 [Category: Racials](Category:_Racials "wikilink") [Category: Racial
 Armor](Category:_Racial_Armor "wikilink")

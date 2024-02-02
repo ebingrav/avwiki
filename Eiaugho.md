@@ -5,9 +5,9 @@ quick meal for the beast.*
 **Keywords:** eiaugho beetle queen.  
 **Scan Description:** The monsterous beetle is feasting on the remains
 of an unfortunate soldier.  
-**[Level](Level "wikilink"):** 75.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none  
+**[Level](Level.md "wikilink"):** 75.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none  
 **Affects:** Demonic.  
 
 ## Gear

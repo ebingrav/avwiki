@@ -1,20 +1,21 @@
 *A silken red sash lies here, apparently forgotten when its owner left
 the realm.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 5 continuous.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 2 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 5 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** red, sash, rackhirs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about waist>.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [Anti-Good](Anti-Good_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 20 lbs  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about waist>.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"),
+[Anti-Good](Anti-Good_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Guide
 

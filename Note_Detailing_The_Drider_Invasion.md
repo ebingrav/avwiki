@@ -10,29 +10,29 @@ the heart of Veyah, rumored to be buried in some hidden room behind a
 mountain of bones.''
 
 **Keyword(s)**: Battle, Note  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:Object_Types "wikilink"):**
-[tickets](:Category:Tickets "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:Object_Types.md "wikilink"):**
+[tickets](:Category:Tickets.md "wikilink")  
 **[Object Slots](Object_Slots "wikilink"):** none  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:Object_Flags "wikilink"):** none
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:Object_Flags.md "wikilink"):** none
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):**
-[Necropolis](:Category:Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink"))
+**[Area](:Category:Areas.md "wikilink"):**
+[Necropolis](:Category:Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink"))
 
-You get this if you give [a small painting](Small_Painting "wikilink")
-to the [High Drow Mother](High_Drow_Mother "wikilink") that is searching
-for one.
+You get this if you give [a small
+painting](Small_Painting.md "wikilink") to the [High Drow
+Mother](High_Drow_Mother "wikilink") that is searching for one.
 
 If you give this to the [Statue Of Veyah
 L'Aturii](Statue_Of_Veyah_L'Aturii "wikilink") in [Graves Of
-Reveria](:Category:Graves_Of_Reveria "wikilink"), it will give you
+Reveria](:Category:Graves_Of_Reveria.md "wikilink"), it will give you
 [Battle Commands For Veyah's
 Commander](Battle_Commands_For_Veyah's_Commander "wikilink").
 

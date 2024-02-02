@@ -1,14 +1,14 @@
 *If you successfully HIDE, then other
-[characters](:Category:_Characters "wikilink") can't see you.*
+[characters](:Category:_Characters.md "wikilink") can't see you.*
 
 Prerequisite(s): none.
 
 Syntax: hide.
 
-See also [Racial Hide](Racial_Hide "wikilink").
+See also [Racial Hide](Racial_Hide.md "wikilink").
 
-See [Hide Flag](Hide_Flag "wikilink") for this
-[skill](:Category:_Skills "wikilink")'s effects.
+See [Hide Flag](Hide_Flag.md "wikilink") for this
+[skill](:Category:_Skills.md "wikilink")'s effects.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

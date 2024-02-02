@@ -5,13 +5,13 @@ squeeze, but in its eyes is a glimmer of...what?*
 **Keywords:** nemo  
 **Level:** 78  
 **Alignment:** demonic  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[undead](Undead_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink")
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink")
 
 ## Gear
 

@@ -1,9 +1,9 @@
 *Note: If you are looking for the archer gear page, the page you want is
-the [Category:Lord Archer Gear](:Category:Lord_Archer_Gear "wikilink")
-page.*  
+the [Category:Lord Archer
+Gear](:Category:Lord_Archer_Gear.md "wikilink") page.*  
   
 Origional unreadable blurb broken up and "Quoted". My Comments in ('s
---[Kerdor](User:Kerdor "wikilink") 01:17, 1 January 2007 (CST))
+--[Kerdor](User:Kerdor.md "wikilink") 01:17, 1 January 2007 (CST))
 
 "a few notes written in my infancy as a lord that may aid those who come
 after me. Do NOT!!! waste your time with ANY bow or crossbow that
@@ -74,7 +74,7 @@ typical run, twice that if and when you tank"
 (Do not bother with mithril arrows. They are useless. Your fletchkit
 uses are much better spent on ammo that actually DOES stuff.)
 
-( --[Kerdor](User:Kerdor "wikilink") 01:17, 1 January 2007 (CST)
+( --[Kerdor](User:Kerdor.md "wikilink") 01:17, 1 January 2007 (CST)
 
 *Additional tips for lord archers*
 
@@ -89,6 +89,6 @@ can get, there are a couple of 2nd, and 3rd tier archer gear that you
 can use till you can get the best gear. Having all tier one gear at lord
 is not a requirement to run lord.
 
---[Redwinter](User:Redwinter "wikilink") 09:36, 7 May 2007 (CDT)
+--[Redwinter](User:Redwinter.md "wikilink") 09:36, 7 May 2007 (CDT)
 
 [Category: Lord Archer Gear](Category:_Lord_Archer_Gear "wikilink")

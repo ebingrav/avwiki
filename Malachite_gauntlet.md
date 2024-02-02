@@ -14,8 +14,8 @@ You look at A malachite gauntlet in your inventory...
 Slot: ?  
 Flags: ?  
 Weight: ?  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Darker Castle](:Category:Darker_Castle "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Darker Castle](:Category:Darker_Castle.md "wikilink")  
 Mob: ?  
 
 ## Comments

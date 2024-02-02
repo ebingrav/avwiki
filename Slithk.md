@@ -5,24 +5,24 @@ absolutely terrifying! Slithk the devourer is covered with wounds.
 
 **Keywords:** slithk, devourer, .  
 **Scan Description:** The devourer is here, looking very very hungry.  
-**[Level](Level "wikilink"):** 95.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [agressive/very
-agressive](Aggressive_Mobs "wikilink"), [armed with a variety of breath
-attacks](Breathing_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-.  
+**[Level](Level.md "wikilink"):** 95.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [agressive/very
+agressive](Aggressive_Mobs.md "wikilink"), [armed with a variety of
+breath attacks](Breathing_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"), .  
 
 ## Gear
 
 `Slithk the devourer is using:`  
-<worn on body>`      (Glowing)`[`the`` ``hide`` ``of`` ``Slithk`](Hide_Of_Slithk "wikilink")  
-<wielded>`           (Glowing)`[`mighty`` ``claws`](Mighty_Claws "wikilink")
+<worn on body>`      (Glowing)`[`the`` ``hide`` ``of`` ``Slithk`](Hide_Of_Slithk.md "wikilink")  
+<wielded>`           (Glowing)`[`mighty`` ``claws`](Mighty_Claws.md "wikilink")
 
 `Slithk the devourer is carrying:`  
-`     `[`black`` ``amulet`](Black_Amulet "wikilink")
+`     `[`black`` ``amulet`](Black_Amulet.md "wikilink")
 
 ## Comments
 
@@ -37,16 +37,16 @@ LIKELY THAT HE WILL DEVOUR CORPSES.</b>
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Redtooth's
-Isle](:Category:_Redtooth's_Isle "wikilink")
-([Map](Redtooth's_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The devourer's lair
-([cursed](Cursed_Rooms "wikilink"), [safe](Safe_Rooms "wikilink") one s
-of Slithk the devourer,
-[RoomFlag](:Category:_Room_Types "wikilink")?).  
+**[Area](:Category:_Areas.md "wikilink"):** [Redtooth's
+Isle](:Category:_Redtooth's_Isle.md "wikilink")
+([Map](Redtooth's_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The devourer's lair
+([cursed](Cursed_Rooms.md "wikilink"), [safe](Safe_Rooms.md "wikilink")
+one s of Slithk the devourer,
+[RoomFlag](:Category:_Room_Types.md "wikilink")?).  
 Slithk the devourer is trackable. Slithk the devourer is not portable.
 
-Walking route from a [little crab](Little_Crab "wikilink"):
+Walking route from a [little crab](Little_Crab.md "wikilink"):
 n:n:n:d:d:d:e:d:e:s:s:e:e:s:s:e:s:e:e:d:e:e:e:s:s:e:s:e:d:d:d.  
 .3n3dede2s2e2ses2ed3e2sese3d
 

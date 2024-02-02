@@ -1,8 +1,8 @@
-*This represents the [Centaur](Centaurs "wikilink")'s natural defense;
-their powerful hind leg kick.*
+*This represents the [Centaur](Centaurs.md "wikilink")'s natural
+defense; their powerful hind leg kick.*
 
 Syntax: racial kick.
 
-[Races with Racial Kick](:Category:Races_with_Racial_Kick "wikilink")
+[Races with Racial Kick](:Category:Races_with_Racial_Kick.md "wikilink")
 
 [Category: Racials](Category:_Racials "wikilink")

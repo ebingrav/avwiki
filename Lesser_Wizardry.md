@@ -4,7 +4,7 @@ Hero wizard lore. Provides access to the lord wizard lore.
 
 # Prereqs
 
--   [basic wizardry](Basic_Wizardry "wikilink")
+-   [basic wizardry](Basic_Wizardry.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -22,7 +22,7 @@ Hero wizard lore. Provides access to the lord wizard lore.
 
 # Lores Unlocked
 
--   [greater wizardry](Greater_Wizardry "wikilink")
+-   [greater wizardry](Greater_Wizardry.md "wikilink")
 
 # Other Notes
 

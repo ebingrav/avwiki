@@ -8,16 +8,16 @@
 **Keywords**: armband unseen silver gazing eye  
 **Flags**: magic nolocate  
 **Weight**: 2  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
 **Area**: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 **Mob**: [Dark Queen Zydarielle
-(Noctopia)](Zydarielle,_Queen_Of_Stars "wikilink")
+(Noctopia)](Zydarielle,_Queen_Of_Stars.md "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

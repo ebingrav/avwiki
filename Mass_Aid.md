@@ -1,17 +1,18 @@
-*This [spell](:Category:_Spells "wikilink") costs 100
-[mana](Mana_Points "wikilink"), but cures all in the room of
-[blindness](Cure_Blindness "wikilink"), [poison](Cure_Poison "wikilink")
-and most importantly, [PLAGUE](Cure_Disease "wikilink")!!!*
+*This [spell](:Category:_Spells.md "wikilink") costs 100
+[mana](Mana_Points.md "wikilink"), but cures all in the room of
+[blindness](Cure_Blindness.md "wikilink"),
+[poison](Cure_Poison.md "wikilink") and most importantly,
+[PLAGUE](Cure_Disease.md "wikilink")!!!*
 
-Prerequisite(s): [Cure Disease](Cure_Disease "wikilink"), [Cure
-Poison](Cure_Poison "wikilink").
+Prerequisite(s): [Cure Disease](Cure_Disease.md "wikilink"), [Cure
+Poison](Cure_Poison.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass aid'.
+Syntax: [cast](Cast.md "wikilink") 'mass aid'.
 
-This [spell](:Category:_Spells "wikilink") is useful on occasion,
+This [spell](:Category:_Spells.md "wikilink") is useful on occasion,
 especially when trying to cure multiple
-[characters](:Category:_Characters "wikilink") of
-[plague](Plague "wikilink").
+[characters](:Category:_Characters.md "wikilink") of
+[plague](Plague.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

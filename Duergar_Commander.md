@@ -5,18 +5,18 @@ He is currently poring over a map of the city, planning his next strike
 against the defending drow forces.*
 
 **Keywords:** duergar, commander.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The duergar commander is using:`  
-<worn on body>`      `[`a`` ``duergar`` ``breast`` ``plate`](Duergar_Breast_Plate "wikilink")  
-<wielded>`           `[`a`` ``large`` ``duergar`` ``battle`` ``axe`](Large_Duergar_Battle_Axe "wikilink")
+<worn on body>`      `[`a`` ``duergar`` ``breast`` ``plate`](Duergar_Breast_Plate.md "wikilink")  
+<wielded>`           `[`a`` ``large`` ``duergar`` ``battle`` ``axe`](Large_Duergar_Battle_Axe.md "wikilink")
 
 `The duergar commander is carrying:`  
 `     Nothing.`
@@ -27,13 +27,13 @@ This mob is found in two areas.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-City](:Category:_Drow_City "wikilink")
-([Map](Drow_City_Map "wikilink")).  
-**[Area](:Category:_Areas "wikilink"):** [Duergar
-Stronghold](:Category:_Duergar_Stronghold "wikilink")
-([Map](Duergar_Stronghold_Map "wikilink")).  
-The duergar commander [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+City](:Category:_Drow_City.md "wikilink")
+([Map](Drow_City_Map.md "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Duergar
+Stronghold](:Category:_Duergar_Stronghold.md "wikilink")
+([Map](Duergar_Stronghold_Map.md "wikilink")).  
+The duergar commander [wanders](Wandering_Mobs.md "wikilink").
 
 The duergar commander is portable.
 

@@ -16,13 +16,13 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 [Jewelled Cat Collar](Jewelled_Cat_Collar "wikilink")
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 [Oak Leaf Medal](Oak_Leaf_Medal "wikilink")
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Amber Antler Amulet](Amber_Antler_Amulet "wikilink"), [Gnomish Holy
 Symbol](Gnomish_Holy_Symbol "wikilink"), [Holy Symbol Of
 Bahamut](Holy_Symbol_Of_Bahamut "wikilink"), [Holy Symbol Of
@@ -31,14 +31,14 @@ Scarf](Orken_Mage's_Scarf "wikilink"), [Silver Scale On A
 String](Silver_Scale_On_A_String "wikilink"), [Shining Steel
 Mantle](Shining_Steel_Mantle "wikilink")
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Onyx Talisman](Onyx_Talisman "wikilink")
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 [Beads Of Devotion](Beads_Of_Devotion "wikilink"), [Mage's
 Medallion](Mage's_Medallion "wikilink")
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Batwing Cape](Batwing_Cape "wikilink")(30), [Dryad
 Necklace](Dryad_Necklace "wikilink")(40), [Golden
 Torque](Golden_Torque "wikilink")(30), [Mantle Of
@@ -49,7 +49,7 @@ Blood](Talisman_Of_Innocent_Blood "wikilink")(50), [Turquoise
 Mane](Turquoise_Mane "wikilink")(50), [Wreath Of
 Icicles](Wreath_Of_Icicles "wikilink")(25)
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

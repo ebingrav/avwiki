@@ -10,8 +10,8 @@
 Slot: legs  
 Flags: glow, evil, noremove  
 Weight: 5  
-Plane: [Hell](:Category:_Hell "wikilink")  
-Area: [Kwalashai](:Category:_Kwalashai "wikilink")  
+Plane: [Hell](:Category:_Hell.md "wikilink")  
+Area: [Kwalashai](:Category:_Kwalashai.md "wikilink")  
 Mob: TBD  
 
 ## Comments

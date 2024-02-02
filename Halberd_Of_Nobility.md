@@ -1,21 +1,21 @@
 *A large halberd, inlaid with gold and jewels has been placed against
 the wall.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 18 to 55 (average 36).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 11 continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 11 continuous`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 18 to 55 (average 36).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 11 continuous`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 11 continuous`  
 `Modifies hp by -25 continuous`  
 `Modifies constitution by -2 continuous`  
 `Modifies dexterity by -2 continuous`
 
 **Keyword(s):** captain halberd nobility.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** anti-evil
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** anti-evil
 anti-neutral nolocate.  
 
 ## Comments
@@ -30,8 +30,8 @@ you 'the halberd of nobility'.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:_Obsidian_Tower "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:_Obsidian_Tower.md "wikilink").  
   
 
 [Category: Gear In Obsidian

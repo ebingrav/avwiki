@@ -8,10 +8,10 @@ most precious thing any being can fight for: a life... his own.*
 
 **Keywords:** Spy.  
 **Scan Description:** ??.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"), ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"), ??.  
 **Affects:** ??.  
 
 ## Gear
@@ -20,21 +20,21 @@ most precious thing any being can fight for: a life... his own.*
 `Nothing.`
 
 `One Of Veyah's Spies is carrying:`  
-`     `[`GearName`](GearName "wikilink")  
+`     `[`GearName`](GearName.md "wikilink")  
 `     Nothing.`
 
 ## Comments
 
 This mob appears after you kill one of the [High Drow
-children](High_Drow_Child "wikilink") (the fifth one listed - scan
+children](High_Drow_Child.md "wikilink") (the fifth one listed - scan
 description says it's overcome with emotion). The spy is aggie and
 stabs.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

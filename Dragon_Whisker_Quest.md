@@ -3,7 +3,7 @@ Detailed instructions:
 -   Visit the elder Bleak (portable, but use pp Big fish then go 2n).
 -   Go north and fight the shade (lvl 45) for the energy crystal ticket.
 -   Take the ticket to Stormkeep, go to the very top (see
-    [map](Stormkeep_Map "wikilink")).
+    [map](Stormkeep_Map.md "wikilink")).
 -   Kill Icewolf to get the fang and the key.
 -   Unlock north, give the fang to the statue move s to reach Onaan.
 -   Give the energy crystal to Onaan and receive an empty crystal ball.

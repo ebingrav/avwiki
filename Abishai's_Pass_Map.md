@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Abishais_Pass.jpg" title="Abishais_Pass.jpg" width="650"
-alt="Abishais_Pass.jpg" />
-<figcaption aria-hidden="true">Abishais_Pass.jpg</figcaption>
+<img src="Abishais_Pass.jpg.md" title="Abishais_Pass.jpg.md" width="650"
+alt="Abishais_Pass.jpg.md" />
+<figcaption aria-hidden="true">Abishais_Pass.jpg.md</figcaption>
 </figure>
 
 [North Of Ofcol Map](North_Of_Ofcol_Map "wikilink")  

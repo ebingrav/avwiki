@@ -1,19 +1,19 @@
 i've done testing and there is definitely
-a--[3nki](User:3nki "wikilink") 18:35, 12 February 2012 (CST) diference
-using hit gear. of course you have lower ac and get hit more, but you
-definitely hit more often and harder each time. i figured about two full
-verbs for a difference from full hit (monk oriented, ie more towards
-hr). for a high level shf for example you are better off running in hit
-gear i think. but for most mon/shf certainly ac is their preferred set
-to be in.
+a--[3nki](User:3nki.md "wikilink") 18:35, 12 February 2012 (CST)
+diference using hit gear. of course you have lower ac and get hit more,
+but you definitely hit more often and harder each time. i figured about
+two full verbs for a difference from full hit (monk oriented, ie more
+towards hr). for a high level shf for example you are better off running
+in hit gear i think. but for most mon/shf certainly ac is their
+preferred set to be in.
 
 -let me clarify - if you are a high level shf with some hp hit gear it
 might be ok because you can vamp more, and not care about getting hit a
 little. similar, if you have a big group but are running an area like
 alpha thule where you can't vamp, you are like a monk and need healers
 or to be sure not to get hit too much. for a monk i can't see an
-advantage at hero tier to using hit gear.--[3nki](User:3nki "wikilink")
-18:41, 12 February 2012 (CST)
+advantage at hero tier to using hit
+gear.--[3nki](User:3nki.md "wikilink") 18:41, 12 February 2012 (CST)
 
 Please make sure you have a nice discussion prior to changing someone's
 edit. - Zaf

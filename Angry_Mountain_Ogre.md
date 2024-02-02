@@ -1,13 +1,13 @@
-*These mountain [ogres](Ogres "wikilink") are much tougher than their
+*These mountain [ogres](Ogres.md "wikilink") are much tougher than their
 cousins!*
 
 **Keywords:** angry, mountain, ogre.  
-**[Level](Level "wikilink"):** 48.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 48.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -21,10 +21,10 @@ cousins!*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [North of
-Ofcol](:Category:_North_Of_Ofcol "wikilink")
-([Map](North_Of_Ofcol_Map "wikilink")).  
-An angry mountain ogre [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [North of
+Ofcol](:Category:_North_Of_Ofcol.md "wikilink")
+([Map](North_Of_Ofcol_Map.md "wikilink")).  
+An angry mountain ogre [wanders](Wandering_Mobs.md "wikilink").  
 An angry mountain ogre is portable.  
 
 [Category: Mobs In North Of

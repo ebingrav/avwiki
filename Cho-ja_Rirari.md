@@ -4,25 +4,25 @@ which is carried by a worker through the archway to the east. Her fine,
 delicate wings are a constant blur.*
 
 **Keywords:** cho-ja rirari female.  
-**[Level](Level "wikilink"):** 13.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 13.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `Cho-ja rirari is using:`  
-<worn around neck>`  (Humming) `[`translucent`` ``cho-ja`` ``wings`](Translucent_Cho-ja_Wings "wikilink")
+<worn around neck>`  (Humming) `[`translucent`` ``cho-ja`` ``wings`](Translucent_Cho-ja_Wings.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cho-ja
-Hive](:Category:_Cho-ja_Hive "wikilink")
-([Map](Cho-ja_Hive_Map "wikilink")).  
-Cho-ja rirari [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Cho-ja
+Hive](:Category:_Cho-ja_Hive.md "wikilink")
+([Map](Cho-ja_Hive_Map.md "wikilink")).  
+Cho-ja rirari [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Cho-ja
 Hive](Category:_Mobs_In_Cho-ja_Hive "wikilink")

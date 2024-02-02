@@ -1,24 +1,24 @@
 There are a couple useful parts to this script.
 
-The first part is an auto-[fletch](Fletch "wikilink") trigger. Type
+The first part is an auto-[fletch](Fletch.md "wikilink") trigger. Type
 **autofletch** to scroll through the options to automatically create
-hero or lord level [arrows](:Category:Arrows "wikilink") or
-[bolts](:Category:Bolts "wikilink"). You can specify type (including
+hero or lord level [arrows](:Category:Arrows.md "wikilink") or
+[bolts](:Category:Bolts.md "wikilink"). You can specify type (including
 poison) and quantity you wish to make. The script will continue
 fletching until you make or exceed your goal.
 
-The second part is an [autoheld](Held_Shot "wikilink") trigger. Type
+The second part is an [autoheld](Held_Shot.md "wikilink") trigger. Type
 **autoheld** to turn the feature on or off. An echo will let you know
 your autoheld status.
 
-The third part is a [longshot](Longshot "wikilink") script. <u>This is
-**not** an automatic feature</u>. When a mob flees, it will create a
+The third part is a [longshot](Longshot.md "wikilink") script. <u>This
+is **not** an automatic feature</u>. When a mob flees, it will create a
 hotkey with what it thinks is the best chance at a longshot and echo it.
 Hit the **F8** key to fire the longshot. If the script is not right,
 don't fire it. This does not violate the longshot trigger policy, as it
 does not automatically fire longshot, the user has to make the conscious
 decision to fire.  
-<img src="Longshot.jpg" title=" | |Longshot Echo Example" width="600"
+<img src="Longshot.jpg.md" title=" | |Longshot Echo Example" width="600"
 alt=" | |Longshot Echo Example" />
 
 This script will automatically pick up any arrows and bolts on the floor
@@ -26,8 +26,8 @@ after a fight. Be sure to have [Autopull](Autopull "wikilink") turned
 on!
 
 I use this ArcherClass script in conjunction with my
-[AmmoCheck](CMud_Ammocheck "wikilink") script to keep my ammo counts up
-to date.
+[AmmoCheck](CMud_Ammocheck.md "wikilink") script to keep my ammo counts
+up to date.
 
 ## The Script
 
@@ -122,7 +122,7 @@ This script has been updated for CMud v 3.32.
 
 ## Designer comments
 
-Feel free to note me [here](User:Shalineth "wikilink") or on board 2 to
-Shalineth with any feedback or suggestions.
+Feel free to note me [here](User:Shalineth.md "wikilink") or on board 2
+to Shalineth with any feedback or suggestions.
 
 [Category: Cmud Scripting](Category:_Cmud_Scripting "wikilink")

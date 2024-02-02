@@ -1,5 +1,6 @@
 *The northern muddy tunnel no longer ends abruptly but connects to the
-public house in [Cathracharraig](:Category:Cathracharraig "wikilink").*
+public house in
+[Cathracharraig](:Category:Cathracharraig.md "wikilink").*
 
 ![](Avatar_MUD_Area_Map_-_Outsiders.GIF "Avatar_MUD_Area_Map_-_Outsiders.GIF")
 

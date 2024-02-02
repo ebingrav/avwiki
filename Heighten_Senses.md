@@ -2,7 +2,7 @@
 from the outside world; the spiritual and restorative value of
 meditation is hardly disputed. However, it is often just as important to
 be entirely conscious of one's surroundings, and after a little
-[practice](Practice "wikilink") almost anyone can eventually achieve
+[practice](Practice.md "wikilink") almost anyone can eventually achieve
 this first step toward total awareness.*
 
 Prerequisite(s): none.

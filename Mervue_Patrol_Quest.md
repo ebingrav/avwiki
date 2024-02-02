@@ -1,7 +1,8 @@
 This is a second in the chain of Patrol Quests, to start it give your
 [Badge Of Solace](Badge_Of_Solace "wikilink") from the [Solace Patrol
 Quest](Solace_Patrol_Quest "wikilink") to the mayor of Mervue. You can
-find him in the inn 2n, 3w, 2n, w from [Ent banker](banker "wikilink").
+find him in the inn 2n, 3w, 2n, w from [Ent
+banker](banker.md "wikilink").
 
 Step 1: You are tasked to find some smugglers and bring the mayor the
 smuggled loot. Smugglers are on the beach, in the far southeast of the

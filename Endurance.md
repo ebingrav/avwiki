@@ -1,12 +1,12 @@
-*This [spell](:Category:_Spells "wikilink") increases your maximum
-number of [movement points](Move_Points "wikilink") for a duration.*
+*This [spell](:Category:_Spells.md "wikilink") increases your maximum
+number of [movement points](Move_Points.md "wikilink") for a duration.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'endurance'.
+Syntax: [cast](Cast.md "wikilink") 'endurance'.
 
 See also [Gear That Applies
-Endurance](:Category:_Gear_That_Applies_Endurance "wikilink").
+Endurance](:Category:_Gear_That_Applies_Endurance.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

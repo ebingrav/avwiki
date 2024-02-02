@@ -3,10 +3,10 @@ may redeem them for items on this list.*
 
 *To redeem a prize, check the various QP Catalogs. They are accessible
 by typing HELP followed by:
-[QPC-CONSUMABLES](Quest_Point_Catalog_-_Consumables "wikilink"),
-[QPC-MISC](Quest_Point_Catalog_-_Misc "wikilink"),
-[QPC-CHARACTER](Quest_Point_Catalog_-_Character "wikilink"),
-[QPC-ITEMS](Quest_Point_Catalog_-_Items "wikilink").*
+[QPC-CONSUMABLES](Quest_Point_Catalog_-_Consumables.md "wikilink"),
+[QPC-MISC](Quest_Point_Catalog_-_Misc.md "wikilink"),
+[QPC-CHARACTER](Quest_Point_Catalog_-_Character.md "wikilink"),
+[QPC-ITEMS](Quest_Point_Catalog_-_Items.md "wikilink").*
 
 *Many of the prizes are redeemable without IMM-assistance. These are
 markes with a \* in the catalogs. To redeem, find the Quest Automaton in
@@ -17,6 +17,6 @@ please send an email to the quest team mailer (quest@outland.org) to
 explain your concept.*
 
 **NOTE: Always check if the prizes are still available in the in-game
-[Quest Point](Quest_Points "wikilink") Catalog (HELP QPCATALOG).**
+[Quest Point](Quest_Points.md "wikilink") Catalog (HELP QPCATALOG).**
 
 [Category:Quests](Category:Quests "wikilink")

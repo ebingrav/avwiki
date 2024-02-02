@@ -20,7 +20,7 @@ Modifies hp by -10 continuous
 ## Comments
 
 Located on the [Night Hag](Night_Hag "wikilink") in
-[Astral](:Category:Astral_Plane "wikilink") (portable).
+[Astral](:Category:Astral_Plane.md "wikilink") (portable).
 
 [Category:Gear In Astral
 Plane](Category:Gear_In_Astral_Plane "wikilink")

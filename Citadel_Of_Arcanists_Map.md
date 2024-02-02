@@ -1,10 +1,11 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Citadel_Of_Arcanists_map.jpg"
-title="Citadel_Of_Arcanists_map.jpg" width="600"
-alt="Citadel_Of_Arcanists_map.jpg" />
-<figcaption aria-hidden="true">Citadel_Of_Arcanists_map.jpg</figcaption>
+<img src="Citadel_Of_Arcanists_map.jpg.md"
+title="Citadel_Of_Arcanists_map.jpg.md" width="600"
+alt="Citadel_Of_Arcanists_map.jpg.md" />
+<figcaption
+aria-hidden="true">Citadel_Of_Arcanists_map.jpg.md</figcaption>
 </figure>
 
 [Wildwood Map](Wildwood_Map "wikilink")

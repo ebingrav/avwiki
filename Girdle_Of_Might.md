@@ -4,7 +4,7 @@ Slot: Waist
 Level: 26  
 Weight: 5  
 Mob: [One-Eye The Pirate Lord](One-Eye_The_Pirate_Lord "wikilink")  
-Area: [Pirate Lord Isles](:Category:Pirate_Lord_Isles "wikilink")  
+Area: [Pirate Lord Isles](:Category:Pirate_Lord_Isles.md "wikilink")  
 Mob is portable.
 
 Grandfathered, replaced by [Hideous Creature's

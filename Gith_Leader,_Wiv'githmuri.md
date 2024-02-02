@@ -6,17 +6,17 @@ until Wiv'muri was given the additional title of gith so he could
 command.*
 
 **Keywords:** githzerai, leader, wiv'githmuri.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [very
-aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [very
+aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 
 `The gith leader, Wiv'githmuri is using:`  
-<worn about body>`   `[`a`` ``dark`` ``but`` ``see`` ``through`` ``cloak`](Dark_But_See_Through_Cloak "wikilink")  
-<wielded>`           `[`a`` ``dull`` ``silver`` ``lance`](Dull_Silver_Lance "wikilink")
+<worn about body>`   `[`a`` ``dark`` ``but`` ``see`` ``through`` ``cloak`](Dark_But_See_Through_Cloak.md "wikilink")  
+<wielded>`           `[`a`` ``dull`` ``silver`` ``lance`](Dull_Silver_Lance.md "wikilink")
 
 `The gith leader, Wiv'githmuri is carrying:`  
 `     Nothing.`
@@ -25,10 +25,10 @@ aggressive](Aggressive_Mobs "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Githzerai
-Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink")).  
-The gith leader, Wiv'githmuri [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Githzerai
+Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink")).  
+The gith leader, Wiv'githmuri [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Githzerai
 Tower](Category:_Mobs_In_Githzerai_Tower "wikilink")

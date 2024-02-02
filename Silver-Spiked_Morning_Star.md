@@ -1,33 +1,33 @@
 *It is a wonder that the silver spikes don't flatten against armor when
-this [weapon](:Category:_Melee_Weapons "wikilink") is used. It must be
-infused with powerful magic.*
+this [weapon](:Category:_Melee_Weapons.md "wikilink") is used. It must
+be infused with powerful magic.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 11-12 to 33-36 (average 22-24).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 11-12 to 33-36 (average 22-24).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** morning, star ball, chain, silver.  
-**[Level(s)](Object_Level "wikilink"):** 32-36.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 16 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 32-36.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 16 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Crescent
-Bog](:Category:_Crescent_Bog "wikilink")
-([Map](Crescent_Bog_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a Captain of the Silver
-Brigade](Captain_Of_The_Silver_Brigade "wikilink"), [a Silver
-Captain](Silver_Captain "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [The Crescent
+Bog](:Category:_Crescent_Bog.md "wikilink")
+([Map](Crescent_Bog_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a Captain of the Silver
+Brigade](Captain_Of_The_Silver_Brigade.md "wikilink"), [a Silver
+Captain](Silver_Captain.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Crescent
 Bog](Category:_Gear_In_Crescent_Bog "wikilink") [Category: Chain

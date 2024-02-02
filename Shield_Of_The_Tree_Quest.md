@@ -10,17 +10,17 @@ Three can be found scattered around the area, in no fixed location.
 
 <spoiler> Retrieve the following items:
 
--   [clump of stone](Clump_Of_Stone "wikilink")
--   [clump of leaves](Clump_Of_Leaves "wikilink")
--   [clump of ice](Clump_Of_Ice "wikilink")
+-   [clump of stone](Clump_Of_Stone.md "wikilink")
+-   [clump of leaves](Clump_Of_Leaves.md "wikilink")
+-   [clump of ice](Clump_Of_Ice.md "wikilink")
 
 These are scattered around on several mobs. The ice (by far the hardest
 one to get) is in the "Ice Tree" section on a [Giant Creature Of
 Ice](Giant_Creature_Of_Ice "wikilink") (A strange creature of ice stands
 quietly among the branches), a level 82 [Frost
-Giant](Frost_Giants "wikilink"), the leaves on a [Giant-Shaped Swirl Of
-Leaves](Giant-Shaped_Swirl_Of_Leaves "wikilink") (A giant-shaped swirl
-of half-decayed leaves drifts along), and the stone on a [Trunk Of
+Giant](Frost_Giants.md "wikilink"), the leaves on a [Giant-Shaped Swirl
+Of Leaves](Giant-Shaped_Swirl_Of_Leaves "wikilink") (A giant-shaped
+swirl of half-decayed leaves drifts along), and the stone on a [Trunk Of
 Stone](Trunk_Of_Stone "wikilink") (The stubby old trunk of a tree stands
 here, grey as stone). There are several of each mob (three?). Kill all
 of them in one pop for clump to re-spawn. </spoiler>
@@ -42,18 +42,18 @@ need a mix of good/melee, good/caster, evil/melee, evil/caster.
 </spoiler>
 
 After you have all these items get started by getting the
-[root](Glowing_Root "wikilink") in the secret tunnel (hidden west exit
-in the shortcut to Ent). Give it to the [Heavily Scarred
+[root](Glowing_Root.md "wikilink") in the secret tunnel (hidden west
+exit in the shortcut to Ent). Give it to the [Heavily Scarred
 Ent](Heavily_Scarred_Ent "wikilink") to begin the quest.
 
 <spoiler> He will give you a new [glowing
-root](Glowing_Root_(Transformed) "wikilink"). You will then give the new
-root to the [Vortex Of Souls](Vortex_Of_Souls "wikilink") which will
+root](Glowing_Root_(Transformed).md "wikilink"). You will then give the
+new root to the [Vortex Of Souls](Vortex_Of_Souls "wikilink") which will
 take it and the four mana items and give you a [glowing
-seed](Glowing_Seed "wikilink"). Take the seed back to the scarred ent
+seed](Glowing_Seed.md "wikilink"). Take the seed back to the scarred ent
 and give it to him. He will take it and give you back [glowing
-seed](Glowing_Seed_(Transformed) "wikilink"). Give the seed back to ent
-and he will take the three clumps and give you the [Shield Of The
+seed](Glowing_Seed_(Transformed).md "wikilink"). Give the seed back to
+ent and he will take the three clumps and give you the [Shield Of The
 Tree](Shield_Of_The_Tree "wikilink"). </spoiler>
 
 [Category: Quests In Transfigured

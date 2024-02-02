@@ -11,13 +11,13 @@ using their racial breath abilities.*
 *This is a powerful pantheon spell. Any single cleric can only maintain
 (i.e. be the caster of) one of these spells at any given time.*
 
-|           |             |                                                |                 |
-|-----------|-------------|------------------------------------------------|-----------------|
-| **Race**  | **Worship** | **[Resistance](Racial_Resistance "wikilink")** | **Other Thing** |
-| Dwarf     | Tor         | Hardly                                         | 13              |
-| Drow      | Shizaga     | Faintly                                        | 6               |
-| Demonseed | Quixoltan   | Scarcely                                       | 20              |
-| Lizardman | Kra         | Insignificantly                                | 3               |
+|           |             |                                                   |                 |
+|-----------|-------------|---------------------------------------------------|-----------------|
+| **Race**  | **Worship** | **[Resistance](Racial_Resistance.md "wikilink")** | **Other Thing** |
+| Dwarf     | Tor         | Hardly                                            | 13              |
+| Drow      | Shizaga     | Faintly                                           | 6               |
+| Demonseed | Quixoltan   | Scarcely                                          | 20              |
+| Lizardman | Kra         | Insignificantly                                   | 3               |
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

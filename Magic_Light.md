@@ -1,25 +1,26 @@
-*This [spell](:Category:_Spells "wikilink") creates a ball of light
-which you can [hold](Hold "wikilink") as a [light
-source](:Category:_Lights "wikilink"). It isn't much, and it certainly
-won't last forever, but it beats fumbling around in the dark, especially
-if there are things there that plan to eat you.*
+*This [spell](:Category:_Spells.md "wikilink") creates a ball of light
+which you can [hold](Hold.md "wikilink") as a [light
+source](:Category:_Lights.md "wikilink"). It isn't much, and it
+certainly won't last forever, but it beats fumbling around in the dark,
+especially if there are things there that plan to eat you.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'magic light'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'magic light'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") can be quite handy for
-[characters](:Category:_Characters "wikilink") who can not yet obtain or
-[hold](Hold "wikilink") a permanent [light
-source](:Category:_Lights "wikilink") (such as an [orb of faerie
-magic](Orb_Of_Faerie_Magic "wikilink")) and who do not wish to
-[buy](Buy "wikilink") temporary ones. It can also be handy for
-[characters](:Category:_Characters "wikilink") who
-[die](Death "wikilink") in [dark places](Dark_Rooms "wikilink") after
-[level](Level "wikilink") ?? (when [Tul-Sith](Tul-Sith "wikilink") quits
-giving [lights](:Category:_Lights "wikilink") to dead players) and then
-try to [retrieve their gear](Corpse_Retrieval "wikilink") on their own.
+This [spell](:Category:_Spells.md "wikilink") can be quite handy for
+[characters](:Category:_Characters.md "wikilink") who can not yet obtain
+or [hold](Hold.md "wikilink") a permanent [light
+source](:Category:_Lights.md "wikilink") (such as an [orb of faerie
+magic](Orb_Of_Faerie_Magic.md "wikilink")) and who do not wish to
+[buy](Buy.md "wikilink") temporary ones. It can also be handy for
+[characters](:Category:_Characters.md "wikilink") who
+[die](Death.md "wikilink") in [dark places](Dark_Rooms.md "wikilink")
+after [level](Level.md "wikilink") ?? (when
+[Tul-Sith](Tul-Sith.md "wikilink") quits giving
+[lights](:Category:_Lights.md "wikilink") to dead players) and then try
+to [retrieve their gear](Corpse_Retrieval.md "wikilink") on their own.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

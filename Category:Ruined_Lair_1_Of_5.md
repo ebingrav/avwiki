@@ -1,5 +1,5 @@
 *This area is part of the [Ruined
-Lairs](:Category:_Ruined_Lairs "wikilink") area.*
+Lairs](:Category:_Ruined_Lairs.md "wikilink") area.*
 
 **Level Range:** 51-51
 
@@ -7,15 +7,15 @@ Lairs](:Category:_Ruined_Lairs "wikilink") area.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 7n, w, s, 4w, \[s\],
+Walking route from [Aelmon](Aelmon.md "wikilink"): 7n, w, s, 4w, \[s\],
 \[d\].
 
-[Portaling](Portal "wikilink") point(s) suggested: none, all cursed.
+[Portaling](Portal.md "wikilink") point(s) suggested: none, all cursed.
 
 ## Connections
 
--   [Midgaard](:Category:Midgaard "wikilink")
-    ([map](Midgaard_Map "wikilink"))
+-   [Midgaard](:Category:Midgaard.md "wikilink")
+    ([map](Midgaard_Map.md "wikilink"))
 
 ## Navigation
 
@@ -28,11 +28,11 @@ the lich perhaps double that. The area is unlikely to sustain a longer
 run, so it's usually ran just for the [Great White Battle
 Axe](Great_White_Battle_Axe "wikilink") quest.
 
-A warning to those [BCI](:Category:Black_Circle_Initiates "wikilink")
-(and [Berserkers](:Category:Berserkers "wikilink") as well) interested
-in running this area - the entrance door is not pickable, and there is
-no key. Losing [Pass Door](Pass_Door "wikilink") will leave you without
-an exit.
+A warning to those [BCI](:Category:Black_Circle_Initiates.md "wikilink")
+(and [Berserkers](:Category:Berserkers.md "wikilink") as well)
+interested in running this area - the entrance door is not pickable, and
+there is no key. Losing [Pass Door](Pass_Door "wikilink") will leave you
+without an exit.
 
 [Category: Ruined Lairs](Category:_Ruined_Lairs "wikilink") [Category:
 Hero Areas](Category:_Hero_Areas "wikilink")

@@ -8,17 +8,17 @@ Type: Armor
 Slot: Finger  
 Weight: 8  
 Flags: none  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Plane Of Water](:Category:Plane_Of_Water "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Plane Of Water](:Category:Plane_Of_Water.md "wikilink")  
 Mob: [Frostbite](Frostbite "wikilink"),
-[Blizzard](Blizzard_(Mob) "wikilink"), or [Ice
+[Blizzard](Blizzard_(Mob).md "wikilink"), or [Ice
 Efreet](Ice_Efreet "wikilink") (not sure which, but they're all in the
 same room)  
 
 ------------------------------------------------------------------------
 
 See [Gear In Plane Of
-Water](:Category:Gear_In_Plane_Of_Water "wikilink") for more
+Water](:Category:Gear_In_Plane_Of_Water.md "wikilink") for more
 information.
 
 [Category:Lord KDR Gear](Category:Lord_KDR_Gear "wikilink")

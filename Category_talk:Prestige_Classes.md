@@ -3,7 +3,7 @@ prestige class. Of course, remort races can be nearly any prestige
 class. All of the information might not be correct, such as druid and
 mnd races. I am not completely sure whether hel and hor get an arc
 bonus, and I don't know all of the races that get a psi bonus.
---[Morgul](User:Morgul "wikilink") 18:57, 23 April 2007 (EDT)
+--[Morgul](User:Morgul.md "wikilink") 18:57, 23 April 2007 (EDT)
 
 Few thoughts:
 
@@ -18,11 +18,12 @@ Few thoughts:
     doing research for a class, will go directly to that class page and
     want all the relevant information there.
 
---[Ylem](User:Ylem "wikilink") 16:00, 30 April 2007 (EDT)
+--[Ylem](User:Ylem.md "wikilink") 16:00, 30 April 2007 (EDT)
 
 Thanks for the input. I think the giant info might be incorrect because
 of clipboard inheritance when I was creating the table. You are right, a
 link to the actual class would be better. I am not sure why I linked to
 the skills and spells. I agree that adding the prestige options to each
 class page and possibly also to each race page too would be better. I'll
-work on that. --[Morgul](User:Morgul "wikilink") 10:23, 2 May 2007 (EDT)
+work on that. --[Morgul](User:Morgul.md "wikilink") 10:23, 2 May 2007
+(EDT)

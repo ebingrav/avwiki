@@ -1,25 +1,25 @@
 *A large and intricate staff rests here.*
 
-`Has 4(4) charges at level 25 '`[`charm`` ``person`](Charm_Person "wikilink")`'.`
+`Has 4(4) charges at level 25 '`[`charm`` ``person`](Charm_Person.md "wikilink")`'.`
 
 **Keyword(s):** staff ruling large  
-**[Level(s)](Object_Level "wikilink"):** 24  
-**[Type](:Category:_Object_Types "wikilink"):**
-[staff](:Category:_Staves "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held>  
-**[Weight](Object_Weight "wikilink"):** 10 lbs  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[staff](:Category:_Staves.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Duergar
-Stronghold](:Category:_Duergar_Stronghold "wikilink")
-([Map](Duergar_Stronghold_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Dwarven
+**[Area](:Category:_Areas.md "wikilink"):** [Duergar
+Stronghold](:Category:_Duergar_Stronghold.md "wikilink")
+([Map](Duergar_Stronghold_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Dwarven
 Spirit](Dwarven_Spirit "wikilink")  
 
 [Category: Gear In Duergar

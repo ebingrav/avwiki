@@ -1,20 +1,21 @@
 This is a protective discipline which relies on psionics. BODY BRACE is
-a [BIOCENTRIC spell](:Category:_Biocentric_Skills_And_Spells "wikilink")
-which causes the caster's body to "brace" for damage by toughening
-muscle tissue and body fat. Unless the caster is capable of [BIO
-EMPATHY](Bio_Empathy "wikilink"), this
-[spell](:Category:_Spells "wikilink") cannot be [cast](Cast "wikilink")
-on others.''
+a [BIOCENTRIC
+spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink") which
+causes the caster's body to "brace" for damage by toughening muscle
+tissue and body fat. Unless the caster is capable of [BIO
+EMPATHY](Bio_Empathy.md "wikilink"), this
+[spell](:Category:_Spells.md "wikilink") cannot be
+[cast](Cast.md "wikilink") on others.''
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'body brace'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'body brace'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Fortitudes](Fortitudes "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Fortitudes](Fortitudes.md "wikilink").
 
-See also [Body Brace Gear](:Category:_Body_Brace_Gear "wikilink").
+See also [Body Brace Gear](:Category:_Body_Brace_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

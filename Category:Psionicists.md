@@ -1,37 +1,37 @@
 *The PSIONICIST class is a 'spellcasting' class similar to
-[Mages](:Category:_Mages "wikilink") and
-[Clerics](:Category:_Clerics "wikilink"), but with several important
-differences. Where a [Mage](:Category:_Mages "wikilink")'s power comes
-from harnessing external energies present in all matter, and a
-[Cleric](:Category:_Clerics "wikilink")'s comes from his or her deity,
-the Psionicist derives all of his or her power from within. Psions are
-masters of [BIOCENTRIC
-SPELLS](:Category:_Biocentric_Skills_And_Spells "wikilink") that alter
-the body on a cellular level, [Telepathic
-spells](:Category:_Telepathic_Skills_And_Spells "wikilink") that can
+[Mages](:Category:_Mages.md "wikilink") and
+[Clerics](:Category:_Clerics.md "wikilink"), but with several important
+differences. Where a [Mage](:Category:_Mages.md "wikilink")'s power
+comes from harnessing external energies present in all matter, and a
+[Cleric](:Category:_Clerics.md "wikilink")'s comes from his or her
+deity, the Psionicist derives all of his or her power from within.
+Psions are masters of [BIOCENTRIC
+SPELLS](:Category:_Biocentric_Skills_And_Spells.md "wikilink") that
+alter the body on a cellular level, [Telepathic
+spells](:Category:_Telepathic_Skills_And_Spells.md "wikilink") that can
 cripple the weak-minded, and [TELEKINETIC
-SPELLS](:Category:_Telekinetic_Skills_And_Spells "wikilink") that range
-from simple [levitation](Levitation "wikilink") to complex attack
-spells. Although slightly less powerful than
-[MAGEs](:Category:_Mages "wikilink") in terms of spell damage, they make
-up for it with their versatility and bevy of [unique
-abilities](:Category:_Psionicist_Class_Definers "wikilink"). The [Prime
-Stat](Prime_Requisite "wikilink") of a Psion is
-[INTelligence](Intelligence "wikilink").*
+SPELLS](:Category:_Telekinetic_Skills_And_Spells.md "wikilink") that
+range from simple [levitation](Levitation.md "wikilink") to complex
+attack spells. Although slightly less powerful than
+[MAGEs](:Category:_Mages.md "wikilink") in terms of spell damage, they
+make up for it with their versatility and bevy of [unique
+abilities](:Category:_Psionicist_Class_Definers.md "wikilink"). The
+[Prime Stat](Prime_Requisite.md "wikilink") of a Psion is
+[INTelligence](Intelligence.md "wikilink").*
 
 **Abbreviation:** Psi.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Intelligence](Intelligence "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Intelligence](Intelligence.md "wikilink").
 
 ## Psionicist Creation
 
 Like any spellcasting class, races with good mana are recommended. In
 addition, psionicists run in DR gear and are similar to melee types in
 their damage, so a race with a positive [damage
-modifier](Racial_Damage_Modifier "wikilink") is good. There aren't many
-races with both good spellcasting ability and good damage modifier, so
-people give one or the other more importance.
+modifier](Racial_Damage_Modifier.md "wikilink") is good. There aren't
+many races with both good spellcasting ability and good damage modifier,
+so people give one or the other more importance.
 
 Good creatable races are drow/elf/cen (good mana, but no damage mod).
 Liz has average mana (and a small psi spellcost bonus) and good hp with
@@ -42,11 +42,12 @@ also good options if you can handle the tnl/abomination.
 ## Psionicists in General
 
 Psionicists seem to get more hp and less mana than mages. When using
-[telekinetic spells](:Category:Telekinetic_Skills_And_Spells "wikilink")
-such as [Dancing Weapon](Dancing_Weapon "wikilink") and
+[telekinetic
+spells](:Category:Telekinetic_Skills_And_Spells.md "wikilink") such as
+[Dancing Weapon](Dancing_Weapon "wikilink") and
 [Fandango](Fandango "wikilink") be sure to watch out for [Mobs that
-Stomp](:Category:Stomping_Mobs "wikilink") and [Mobs that
-Scavenge](:Category:Scavenging_Mobs "wikilink").
+Stomp](:Category:Stomping_Mobs.md "wikilink") and [Mobs that
+Scavenge](:Category:Scavenging_Mobs.md "wikilink").
 
 Note on [Dancing Weapon](Dancing_Weapon "wikilink") use: Be sure to read
 about [Kinetic Weapon Control](Kinetic_Weapon_Control "wikilink"). It's
@@ -56,8 +57,8 @@ Using a weaker weapon such as a two-handed hafted weapon with less DR
 than a separate main hand wield and offhand wield (which combine their
 DR) might give the same damage with [Dancing
 Weapon](Dancing_Weapon "wikilink"). Furthermore, low-weight [hafted
-weapons](:Category:Hafted_Weapons "wikilink") and [ethereal
-weapons](:Category:Ethereal_Weapons "wikilink") are supposed to be
+weapons](:Category:Hafted_Weapons.md "wikilink") and [ethereal
+weapons](:Category:Ethereal_Weapons.md "wikilink") are supposed to be
 easier to catch, so they might be a better choice. Hafted weapons can
 also be used to [bash](bash "wikilink") if necessary. There is still a
 lot more testing required on this topic. Additionally it's worth
@@ -89,12 +90,12 @@ Orb of Knowledge for the held slot) to be worn at level 3 directly
 ### Practicing
 
 Due to the recent events which have befallen
-[Midgaard](:Category:_Midgaard "wikilink"), the Psion Mistress has moved
-her guild to [Solace](:Category:_Town_Of_Solace "wikilink"). She is
-quite tight-lipped about the specific chain of events that caused her to
-leave Midgaard, but she is grateful to be able to continue helping
-psionicists practice. At the moment she can be found in the Inn of the
-Last Home.
+[Midgaard](:Category:_Midgaard.md "wikilink"), the Psion Mistress has
+moved her guild to [Solace](:Category:_Town_Of_Solace.md "wikilink").
+She is quite tight-lipped about the specific chain of events that caused
+her to leave Midgaard, but she is grateful to be able to continue
+helping psionicists practice. At the moment she can be found in the Inn
+of the Last Home.
 
 ### Worshipping
 
@@ -108,35 +109,36 @@ levelling.
 ### Fighting
 
 When soloing, tank gear seems to be the best bet for the low level psi.
-Until you get [Dart](Dart "wikilink"), [psychic
-drain](Psychic_Drain "wikilink") will be your most damaging spell.
+Until you get [Dart](Dart.md "wikilink"), [psychic
+drain](Psychic_Drain.md "wikilink") will be your most damaging spell.
 Between your melee and spells, nothing should really be able to stop you
 levels 1-10, so long as you remember to stick to areas your own level.
 Level 10 and up will be a bit more difficult, but possible. Be sure to
-wear gear that maxes your [Int](Intelligence "wikilink") so you can
-[Dart](Dart "wikilink") the heaviest item available to you (depends on
-your [Int](Intelligence "wikilink")).
+wear gear that maxes your [Int](Intelligence.md "wikilink") so you can
+[Dart](Dart.md "wikilink") the heaviest item available to you (depends
+on your [Int](Intelligence.md "wikilink")).
 
-As [Dart](Dart "wikilink") costs a bare fraction of your mana, it will
-be easiest to use [quicken](Quicken "wikilink") as enemies get stronger,
-rather than using a stronger spell. When you learn [Blast
+As [Dart](Dart.md "wikilink") costs a bare fraction of your mana, it
+will be easiest to use [quicken](Quicken.md "wikilink") as enemies get
+stronger, rather than using a stronger spell. When you learn [Blast
 Bolt](Blast_Bolt "wikilink") and [Detonate](Detonate "wikilink"), for
 instance, keep using Dart (or at higher levels when you need the damage,
 use a non-telekinetic attack spell). Blast Bolt wastes fodder for a poor
 damage increase, and Detonate isn't really a damage spell at all. Like
 all kinetic spells, [Torch](Torch "wikilink") outdamages [chaos
-channelling](Chaos_Channel "wikilink") mages of the same level, for less
-mana cost too, so use it as soon as you are able, and it should be your
-primary damage spell until [Dancing Weapon](Dancing_Weapon "wikilink").
-([Weapon Rush](Weapon_Rush "wikilink") is useless unless you happen to
-have [20k DR at your disposal](Hand_Of_God "wikilink").) Avoid
-non-telekinetic attacks unless you need to [surge](Surge "wikilink")
-(max psi surge is 4).
+channelling](Chaos_Channel.md "wikilink") mages of the same level, for
+less mana cost too, so use it as soon as you are able, and it should be
+your primary damage spell until [Dancing
+Weapon](Dancing_Weapon "wikilink"). ([Weapon
+Rush](Weapon_Rush "wikilink") is useless unless you happen to have [20k
+DR at your disposal](Hand_Of_God.md "wikilink").) Avoid non-telekinetic
+attacks unless you need to [surge](Surge.md "wikilink") (max psi surge
+is 4).
 
 ## Psionicist Prestige Options
 
-[Level](Level "wikilink")-50 psionicists may choose to become
-[mindbenders](:Category:_Mindbenders "wikilink") instead.
+[Level](Level.md "wikilink")-50 psionicists may choose to become
+[mindbenders](:Category:_Mindbenders.md "wikilink") instead.
 
 ## Psionicists at Hero Tier
 
@@ -157,7 +159,7 @@ non-telekinetic attacks unless you need to [surge](Surge "wikilink")
     learned third (or second) attack yet.
 2.  Wear tank gear and use [Death Field](Death_Field "wikilink"). Death
     field is the most powerful area spell at hero (use to be, now [blood
-    nova](Blood_Nova "wikilink") is) and it has lower lag compared to
+    nova](Blood_Nova.md "wikilink") is) and it has lower lag compared to
     acid rain, but it has high cost and big downsides (see [Deaths
     Door](Deaths_Door "wikilink")).
 
@@ -170,7 +172,7 @@ spell like mages and clerics do, so they will have to resort to
 quickening [Burning Hands](Burning_Hands "wikilink") to aggress an
 entire room. Like other casters, Psis are limited by their middling HP
 pool, so having [high quality tank
-gear](:Category:Hero_Tank_Gear "wikilink"), and perhaps a charged
+gear](:Category:Hero_Tank_Gear.md "wikilink"), and perhaps a charged
 shield, is important. Since [Dancing Weapon](Dancing_Weapon "wikilink")
 is underwhelming in tank gear and non-kinetic damage spells are
 underwhelming always, debuff spells (scramble, deception, etc.) are
@@ -206,22 +208,22 @@ heal spells.
 **Leveling:** If using [rupture](rupture "wikilink") at all it's easy to
 end up with a negative intelligence modifier. For these times it's
 helpful to have an alias (or two) to quickly wear some [positive int
-gear](:Category:Int_Gear "wikilink") when leveling. Also, note that
-[clarify](Clarify "wikilink") can clear the negative int affect.
+gear](:Category:Int_Gear.md "wikilink") when leveling. Also, note that
+[clarify](Clarify.md "wikilink") can clear the negative int affect.
 
 ### Kinetic enhancers
 
 Higher level psionicists receive [ kinetic
-enhancers](:Category:Kinetic_Enhancers "wikilink") which can be cast on
-their weapons. The most important of these are
+enhancers](:Category:Kinetic_Enhancers.md "wikilink") which can be cast
+on their weapons. The most important of these are
 
--   [stunning weapon](Stunning_Weapon "wikilink") (hero 500) - can stun
-    mobs
--   [felling weapon](Felling_Weapon "wikilink") (lord 400) - can knock
-    down mobs
--   [conscious weapon](Conscious_Weapon "wikilink") (lord 500) -
+-   [stunning weapon](Stunning_Weapon.md "wikilink") (hero 500) - can
+    stun mobs
+-   [felling weapon](Felling_Weapon.md "wikilink") (lord 400) - can
+    knock down mobs
+-   [conscious weapon](Conscious_Weapon.md "wikilink") (lord 500) -
     increases damage
--   [intelligent weapon](Intelligent_Weapon "wikilink") (lord 800) -
+-   [intelligent weapon](Intelligent_Weapon.md "wikilink") (lord 800) -
     increase damage even more
 
 ## Psionicists at Lord Tier

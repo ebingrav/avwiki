@@ -1,7 +1,7 @@
-To gain a map of [ Westwood](:Category:_Westwood "wikilink"), and its
+To gain a map of [ Westwood](:Category:_Westwood.md "wikilink"), and its
 surroundings, search for torn piece of paper to start the quest.
 Visiting the sprites in the [ Oak
-Circle](:Category:_Oak_Circle "wikilink") may also point you in the
+Circle](:Category:_Oak_Circle.md "wikilink") may also point you in the
 right direction for finding this item along the way, as you help them
 out.
 

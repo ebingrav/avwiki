@@ -1,22 +1,23 @@
-*This [spell](:Category:_Spells "wikilink") makes the
-[weather](Weather "wikilink") either better or worse. It is often useful
-in combination with such [spells](:Category:_Spells "wikilink") as [call
-lightning](Call_Lightning "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") makes the
+[weather](Weather.md "wikilink") either better or worse. It is often
+useful in combination with such
+[spells](:Category:_Spells.md "wikilink") as [call
+lightning](Call_Lightning.md "wikilink").*
 
-Prerequisite(s): [Call Lightning](Call_Lightning "wikilink").
+Prerequisite(s): [Call Lightning](Call_Lightning.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'control weather' better.  
-Syntax: [cast](Cast "wikilink") 'control weather' worse.  
-This [skill](:Category:_Skills_And_Spells "wikilink") is seldom used,
-though it is a prerequisite for [Acid Rain](Acid_Rain "wikilink"), which
-is very useful to [hero](:Category:_Hero "wikilink")
-[mages](:Category:_Mages "wikilink").
+Syntax: [cast](Cast.md "wikilink") 'control weather' better.  
+Syntax: [cast](Cast.md "wikilink") 'control weather' worse.  
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is seldom used,
+though it is a prerequisite for [Acid Rain](Acid_Rain.md "wikilink"),
+which is very useful to [hero](:Category:_Hero.md "wikilink")
+[mages](:Category:_Mages.md "wikilink").
 
 Some quests require certain weather conditions, which can be achieved by
 casting this spell.
 
 See also [ Control Weather
-Gear](:Category:_Control_Weather_Gear "wikilink").
+Gear](:Category:_Control_Weather_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

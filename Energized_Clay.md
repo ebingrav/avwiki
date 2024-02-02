@@ -5,10 +5,10 @@ the gods themselves. Perhaps with a sufficient force of will, this clay
 could become something...*'
 
 **Keywords:** energized, clay  
-**[Level](Level "wikilink"):** 70–77  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 70–77  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** ?  
 
 ## Comments
@@ -21,10 +21,10 @@ The one in the center room (Beneath the Shafts) is the biggest at level
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alpha
-Thule](:Category:_Alpha_Thule "wikilink")
-([Map](Alpha_Thule_Map "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): ???.  
+**[Area](:Category:_Areas.md "wikilink"):** [Alpha
+Thule](:Category:_Alpha_Thule.md "wikilink")
+([Map](Alpha_Thule_Map.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.  
 
 [Category: Mobs In Alpha
 Thule](Category:_Mobs_In_Alpha_Thule "wikilink")

@@ -1,14 +1,14 @@
 The goblin magician needs your help in obtaining a tome.
 
 **Start Location:** [Ascension
-Woods](:Category:Ascension_Woods "wikilink")  
+Woods](:Category:Ascension_Woods.md "wikilink")  
 **Starting Room:** In Air, look at the [Goblin
 Magician](Goblin_Magician "wikilink")'s description.  
 **Reward:** There may be more to this quest than what's given in the
 spoilers (below). The reward is a single gold coin.  
 <spoiler> Go to the [Cleric](Cleric "wikilink") in [Royal Midgaard
-Library](:Category:_Royal_Midgaard_Library "wikilink"), and kill him to
-get the [Leather-Bound Book](Leather-Bound_Book "wikilink"). Give the
+Library](:Category:_Royal_Midgaard_Library.md "wikilink"), and kill him
+to get the [Leather-Bound Book](Leather-Bound_Book "wikilink"). Give the
 book to the goblin. </spoiler>
 
 [Category: Quests In Ascension

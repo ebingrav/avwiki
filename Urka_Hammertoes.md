@@ -6,13 +6,13 @@ locals - and as beards are important to dwarves, the result is logical.
 It defintitely draws your eye.*
 
 **Keywords:** urka, hammertoes, plenipotentiary.  
-**[Level](Level "wikilink"):** 22.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 22.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -23,16 +23,17 @@ invis](Detect_Invis "wikilink"),
 
 Urka is a member of the Guild of Explorers. Follow for instruction on
 joining the guild and earning an
-[insignia](Guild_of_Explorers_and_Cavern_Crawlers_Insignia "wikilink")
+[insignia](Guild_of_Explorers_and_Cavern_Crawlers_Insignia.md "wikilink")
 which will grant you access to things to purchase.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Graw
-Akkuurattaan](:Category:_Graw_Akkuurattaan "wikilink")
-([Map](Graw_Akkuurattaan_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A chapterhouse of the Guild of
-Explorers and Cavern Crawlers ([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Graw
+Akkuurattaan](:Category:_Graw_Akkuurattaan.md "wikilink")
+([Map](Graw_Akkuurattaan_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A chapterhouse of the Guild
+of Explorers and Cavern Crawlers
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from [Duergar Caravan
 Master](Duergar_Caravan_Master "wikilink"): n, e, s, e, \[e\].  
 

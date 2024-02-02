@@ -4,18 +4,20 @@ and their dark power, he became the power liche you see here, prepare to
 die!*
 
 **Keywords:** power, liche, azric.  
-**[Level](Level "wikilink"):** 90.  
+**[Level](Level.md "wikilink"):** 90.  
 **Scan Description:** A blindingly bright light tries to devour your
 soul!  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[lich](Spellcasting_Mobs "wikilink"), [undead](Undead_Mobs "wikilink"),
-[very agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [hidden](Hide "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink"),
-[protection](Protection_Good "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[lich](Spellcasting_Mobs.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink"), [very
+agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [hidden](Hide.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink"),
+[protection](Protection_Good.md "wikilink").  
 
 ## Gear
 
@@ -29,12 +31,12 @@ invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morte
-Vallta](:Category:_Morte_Vallta "wikilink")
-([Map](Morte_Vallta_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Morte
+Vallta](:Category:_Morte_Vallta.md "wikilink")
+([Map](Morte_Vallta_Map.md "wikilink")).  
 The power liche, Azric wanders.  
-[Portaling](Portal "wikilink") point suggested: [gia
-vul](Giant_Vulture "wikilink").  
+[Portaling](Portal.md "wikilink") point suggested: [gia
+vul](Giant_Vulture.md "wikilink").  
 
 [Category: Mobs In Morte
 Vallta](Category:_Mobs_In_Morte_Vallta "wikilink")

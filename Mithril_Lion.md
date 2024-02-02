@@ -10,27 +10,27 @@ Instead of fur, its skin is made out of this precious metal!*
 **Keywords:** mithril, lion  
 **Scan Description:** (Hide) (Sneak) The mithril hide of a diabolical
 looking creature shines brightly here.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink")  
 **Affects:** [Sneak](Sneak "wikilink"), [Move
 Hidden](Move_Hidden "wikilink"), ?.  
 
 ## Gear
 
 `Mithril lion is using:`  
-<worn around neck>`  `[`mithril`` ``manes`](Mithril_Manes "wikilink")
+<worn around neck>`  `[`mithril`` ``manes`](Mithril_Manes.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink")
-([Map](Obsidian_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The lion's den
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:Obsidian_Tower.md "wikilink")
+([Map](Obsidian_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The lion's den
+([Cursed](Cursed_Rooms.md "wikilink")).  
 
 [Category:Mobs In Obsidian
 Tower](Category:Mobs_In_Obsidian_Tower "wikilink")

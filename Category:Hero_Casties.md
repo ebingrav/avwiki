@@ -1,8 +1,9 @@
 ## Recommended Gear
 
--   Both [black staves of Typhus](Black_Staff_Of_Typhus "wikilink") and
-    [emerald sceptres of light](Emerald_Sceptre_Of_Light "wikilink") are
-    excellent for mass healing.
+-   Both [black staves of Typhus](Black_Staff_Of_Typhus.md "wikilink")
+    and [emerald sceptres of
+    light](Emerald_Sceptre_Of_Light.md "wikilink") are excellent for
+    mass healing.
 
 <!-- -->
 

@@ -30,8 +30,8 @@ name *Brandies*, it would probably be a good idea to change it now,
 before it gets worked into too many pages and becomes tedious to change.
 On the other hand, an explanation of what a *Brandie* is at the top of
 the page would be just as good, though personally I only consider
-*Brandies* to be staves. --[Shadowtop](User:Shadowtop "wikilink") 13:34,
-31 Oct 2005 (EST)
+*Brandies* to be staves. --[Shadowtop](User:Shadowtop.md "wikilink")
+13:34, 31 Oct 2005 (EST)
 
 Yup, I always figured that brandies meant objects that characters can
 brandish, not pills and potions and whatnot. I'm all for categorizing

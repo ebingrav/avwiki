@@ -1,21 +1,21 @@
 *A cheap holy symbol is lying here.*
 
-`Has 5(5) charges at level 5 '`[`remove`` ``curse`](Remove_Curse "wikilink")`'.`
+`Has 5(5) charges at level 5 '`[`remove`` ``curse`](Remove_Curse.md "wikilink")`'.`
 
 **Keyword(s):** travellers holy symbol  
-**[Type](:Category:_Object_Types "wikilink"):**
-[staff](:Category:_Staves "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 20 lbs  
-**[Level(s)](Object_Level "wikilink"):** 11-13  
-**[Quality](Object_Quality "wikilink"):** 30 hps  
-**[Area](:Category:_Areas "wikilink"):** [Ruins Of
-Keresh](:Category:_Ruins_Of_Keresh "wikilink")
-([Map](Ruins_Of_Keresh_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Apprentice
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[staff](:Category:_Staves.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 11-13  
+**[Quality](Object_Quality.md "wikilink"):** 30 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Ruins Of
+Keresh](:Category:_Ruins_Of_Keresh.md "wikilink")
+([Map](Ruins_Of_Keresh_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Apprentice
 Surveyor](Apprentice_Surveyor "wikilink")  
 See also [Suggested Curative
-Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear.md "wikilink")
 
 ## Directions
 

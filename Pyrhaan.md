@@ -9,7 +9,7 @@
 `Pyrhaan, the lava prince is in perfect health.`
 
 `Pyrhaan, the lava prince is using:`  
-<worn on finger>`    [Pristine  ] (Magical) (Glowing) the `[`ring`` ``of`` ``the`` ``Burning`` ``River`](Ring_Of_The_Burning_River "wikilink")  
+<worn on finger>`    [Pristine  ] (Magical) (Glowing) the `[`ring`` ``of`` ``the`` ``Burning`` ``River`](Ring_Of_The_Burning_River.md "wikilink")  
 <worn about body>`   [Pristine  ] (Demonic) (Magical) a black cloak`  
 <wielded>`           [Pristine  ] (Demonic) (Magical) (Glowing) a flametongue called 'Firebrand'`
 

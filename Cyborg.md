@@ -5,20 +5,20 @@ purposes.*
 
 <!-- -->
 
--   **[Language(s)](:Category:_Languages "wikilink"):**
+-   **[Language(s)](:Category:_Languages.md "wikilink"):**
 
 <!-- -->
 
--   **[Racial(s)](:Category:_Racials "wikilink"):**
-    [armorsteel](Racial_Armorsteel "wikilink")
+-   **[Racial(s)](:Category:_Racials.md "wikilink"):**
+    [armorsteel](Racial_Armorsteel.md "wikilink")
 
 <!-- -->
 
--   **[Racial Size](Racial_Size "wikilink"):**
+-   **[Racial Size](Racial_Size.md "wikilink"):**
 
 <!-- -->
 
--   **[Racial TNL](Racial_TNL "wikilink"):** 333
+-   **[Racial TNL](Racial_TNL.md "wikilink"):** 333
 
 <!-- -->
 

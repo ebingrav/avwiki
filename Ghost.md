@@ -1,11 +1,12 @@
 *Pale and barely visible, it doesn't look very happy.*
 
 **Keywords:** Ghost, Spectre.  
-**[Level](Level "wikilink"):** 35.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[flying](Flying_Flag "wikilink"), [invisibility](Invis_Flag "wikilink"),
-[ undead](Undead_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 35.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[flying](Flying_Flag.md "wikilink"),
+[invisibility](Invis_Flag.md "wikilink"), [
+undead](Undead_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -22,10 +23,10 @@ Mob will assist.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Graveyard](:Category:_Graveyard "wikilink")
-([Map](Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Mob wanders.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Graveyard](:Category:_Graveyard.md "wikilink")
+([Map](Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Mob wanders.  
 Unknown if MOB is portable  
 
 [Category: Mobs In Graveyard](Category:_Mobs_In_Graveyard "wikilink")

@@ -1,14 +1,14 @@
 *If you successfully SNEAK, then you can move in and out of
-[rooms](:Category:_Rooms "wikilink") without being noticed.*
+[rooms](:Category:_Rooms.md "wikilink") without being noticed.*
 
 Prerequisite(s): none.
 
 Syntax: sneak.
 
 See also [Gear That Applies
-Sneak](:Category:_Gear_That_Applies_Sneak "wikilink"), [Racial
-Sneak](Racial_Sneak "wikilink"), and [Sneak
-Flag](Sneak_Flag "wikilink").
+Sneak](:Category:_Gear_That_Applies_Sneak.md "wikilink"), [Racial
+Sneak](Racial_Sneak.md "wikilink"), and [Sneak
+Flag](Sneak_Flag.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

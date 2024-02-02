@@ -4,7 +4,7 @@ Lord psionicist lore. Provides access to the legend psionicist lore.
 
 # Prereqs
 
--   [lesser psionics](Lesser_Psionics "wikilink")
+-   [lesser psionics](Lesser_Psionics.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -34,7 +34,7 @@ Lord psionicist lore. Provides access to the legend psionicist lore.
 
 # Lores Unlocked
 
--   [epic psionics](Epic_Psionics "wikilink")
+-   [epic psionics](Epic_Psionics.md "wikilink")
 
 # Other Notes
 

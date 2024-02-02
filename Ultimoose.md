@@ -2,7 +2,7 @@
 all moose everywhere and everywhen. Defeat it, and the power is yours.*
 
 **Keywords:** Ultimoose, moose, ulti.  
-**[Level](Level "wikilink"):** 65.  
+**[Level](Level.md "wikilink"):** 65.  
 **Affects:** Sanctuary.  
 
 ## Gear
@@ -16,10 +16,10 @@ all moose everywhere and everywhen. Defeat it, and the power is yours.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Home of the UltiMoose.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Home of the UltiMoose.  
 
 [Category: Mobs In Moose
 Lodge](Category:_Mobs_In_Moose_Lodge "wikilink")

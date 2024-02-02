@@ -1,20 +1,20 @@
 *A pair of mystical sandals lie on the ground.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -20 continuous.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by -200 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -20 continuous.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by -200 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
 `Armor class is 10-12.`
 
 **Keyword(s):** fatewalkers, mystical, sandals.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink").  
 
 ## Comments
 
@@ -28,13 +28,14 @@ with no move penalty.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cavern of the
-Fates](:Category:_Cavern_Of_The_Fates "wikilink")
-([Map](Cavern_Of_The_Fates_Map "wikilink"))  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Fatewalkers
+**[Area](:Category:_Areas.md "wikilink"):** [Cavern of the
+Fates](:Category:_Cavern_Of_The_Fates.md "wikilink")
+([Map](Cavern_Of_The_Fates_Map.md "wikilink"))  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Fatewalkers
 Quest](Fatewalkers_Quest "wikilink")  
-A [ticket quest](:Category:_Ticket_Quests "wikilink"). See the
-Fatewalkers [quest page](Fatewalkers_Quest "wikilink") for directions.
+A [ticket quest](:Category:_Ticket_Quests.md "wikilink"). See the
+Fatewalkers [quest page](Fatewalkers_Quest.md "wikilink") for
+directions.
 
 [Category: Gear In Cavern Of The
 Fates](Category:_Gear_In_Cavern_Of_The_Fates "wikilink") [Category:

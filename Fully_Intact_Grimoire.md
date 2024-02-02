@@ -15,7 +15,7 @@ This item is used for boons. For more information see
 [Erudizo](Erudizo "wikilink").
 
 Can be purchased from the Kzinti Bookseller in [Shunned
-World](:Category:Shunned_World "wikilink"), along with its cousin the
+World](:Category:Shunned_World.md "wikilink"), along with its cousin the
 [Partially Burnt Grimoire](Partially_Burnt_Grimoire "wikilink").
 
 [Category: Incomplete](Category:_Incomplete "wikilink")

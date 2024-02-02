@@ -203,7 +203,7 @@ going to show examples for a few of them.
 
 arcstring:
 
-`$var hitterstr "@hitterstr |g|Arc(|bg|@arccount|g|) {@arcnames } "`  
+`$var hitterstr "@hitterstr.md|g|Arc(|bg|@arccount|g|) {@arcnames } "`  
 
 bodstring:
 

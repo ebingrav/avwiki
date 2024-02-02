@@ -8,7 +8,7 @@ make splinter arrows, and also on mobs wearing armor.
 Fletch kits can be purchased from the [Village
 Bowmaster](Village_Bowmaster "wikilink") and he only sells level 51
 (required for splinter). If you are low on money, you can kill
-[watchmen](Watchman "wikilink") (area around bowmaster) but many of
+[watchmen](Watchman.md "wikilink") (area around bowmaster) but many of
 their kits are less than 51. [Drider Hunters](Drider_Hunter "wikilink")
 also have fletch kits, some even above level 51 but it can be a very
 dangerous area (aggie snipers). You can also buy arrows from bowmaster:
@@ -30,7 +30,7 @@ some tips:
 -   Have your dex maxed (drow rings give 2 each, or just cast adrenaline
     pump)
 
-See also [Fletching Kits](Fletching_Tools_And_Materials "wikilink") and
-[Ammuntion](:Category:_Ammunition "wikilink").
+See also [Fletching Kits](Fletching_Tools_And_Materials.md "wikilink")
+and [Ammuntion](:Category:_Ammunition.md "wikilink").
 
 [Category: Hero Archer Gear](Category:_Hero_Archer_Gear "wikilink")

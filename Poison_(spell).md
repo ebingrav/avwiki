@@ -1,20 +1,21 @@
-*This [spell](:Category:_Spells "wikilink") reduces the
-[strength](Strength "wikilink") of the
-[victim](:Category:_Mobs "wikilink") by two, as well as reducing the
-[victim](:Category:_Mobs "wikilink")'s regeneration rate.*
+*This [spell](:Category:_Spells.md "wikilink") reduces the
+[strength](Strength.md "wikilink") of the
+[victim](:Category:_Mobs.md "wikilink") by two, as well as reducing the
+[victim](:Category:_Mobs.md "wikilink")'s regeneration rate.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'poison'
-\<[mobs](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'poison'
+\<[mobs](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.  
-This spell modifies [strength](Strength "wikilink") by -2, and deals
+This [spell](:Category:_Spells.md "wikilink") is practically never
+used.  
+This spell modifies [strength](Strength.md "wikilink") by -2, and deals
 small amounts of damage over time. It is cured by [Cure
 Poison](Cure_Poison "wikilink").  
 See also [Gear That Applies
-Poison](:Category:_Gear_That_Applies_Poison "wikilink") and [Poison
-Gear](:Category:_Poison_Gear "wikilink").
+Poison](:Category:_Gear_That_Applies_Poison.md "wikilink") and [Poison
+Gear](:Category:_Poison_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

@@ -1,9 +1,9 @@
 `Map is huge, click repeatedly to enlarge fully.`
 
 <figure>
-<img src="Eragora.walkways.jpg" title="Eragora.walkways.jpg" width="650"
-alt="Eragora.walkways.jpg" />
-<figcaption aria-hidden="true">Eragora.walkways.jpg</figcaption>
+<img src="Eragora.walkways.jpg.md" title="Eragora.walkways.jpg.md"
+width="650" alt="Eragora.walkways.jpg.md" />
+<figcaption aria-hidden="true">Eragora.walkways.jpg.md</figcaption>
 </figure>
 
 [Akrikto's Farm Map](Akrikto's_Farm_Map "wikilink")  

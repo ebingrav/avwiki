@@ -6,20 +6,20 @@ blue embroidery circle the waist.*
 `Modifies mana by 21 continuous`
 
 **Keyword(s):** blue sea priestess skirt  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Slot(s)](Slot "wikilink"):** <worn on legs>  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Slot(s)](Slot.md "wikilink"):** <worn on legs>  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Comments
 
 Result of the [Sea Priestess' Skirt
 Quest](Sea_Priestess'_Skirt_Quest "wikilink") done primarily in the
-[Rim](:Category:Rim "wikilink"), ending in [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink").
+[Rim](:Category:Rim.md "wikilink"), ending in [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink").
 
 If you receive this item while having a [Far Hunter Tattoo
 Insignia](Far_Hunter_Tattoo_Insignia "wikilink"), the skirt is better:
@@ -32,11 +32,11 @@ It will also be bound.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")) / [ Gorn's
-Anchor](:Category:_Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")) / [
+Gorn's Anchor](:Category:_Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 [Category: Gear In Gorn's
 Anchor](Category:_Gear_In_Gorn's_Anchor "wikilink") [Category:

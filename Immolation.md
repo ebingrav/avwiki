@@ -5,10 +5,10 @@ through the immolation, you can use it to boost the strength of your
 damage spells for a period of time. The spirit doesn't mind... much. A
 little afterlife pain is an enlightening experience for them.*
 
-Prerequisite(s): [Demonic Intent](Demonic_Intent "wikilink").
+Prerequisite(s): [Demonic Intent](Demonic_Intent.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'immolation'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'immolation'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 Max level for a mob you can immolate is 1/2 casters level rounded up, so
 26 for heroes as all heroes are considered level 51. The higher the

@@ -59,7 +59,7 @@ Save the following code as an .xml file, and import it into Cmud:
         <var name="currlag">0</var>
         <alias name="setprompt">
           <value>#verbatim
-    prompt &lt;|w|%h|n|/%Hhp |w|%m|n|/%Mma %vv |y|%T|n|&gt; %s lag 
+    prompt &lt;.md|w|%h|n|/%Hhp |w|%m|n|/%Mma %vv |y|%T|n|&gt; %s lag 
     prompt2 %w %P surge %S %n
     prompt2
     #verbatim</value>
@@ -125,8 +125,8 @@ is convenient, but non-intrusive.
 
 ## Designer comments
 
-Feel free to note me [here](User:Shalineth "wikilink") or on board 2 to
-Shalineth with any feedback or suggestions.
+Feel free to note me [here](User:Shalineth.md "wikilink") or on board 2
+to Shalineth with any feedback or suggestions.
 
 Updated for CMud v3.32.
 

@@ -9,4 +9,4 @@ Partly for this reason, I am about to post a new and (hopefully)
 accurate map of these ruins. If I find time and if nobody else does so
 first, then I will soon verify all other sets of directions in this
 region's areas. Thanks again! --[Dave
-Garber](User:DaveGarber1975 "wikilink") 00:14, 19 May 2006 (EDT)
+Garber](User:DaveGarber1975.md "wikilink") 00:14, 19 May 2006 (EDT)

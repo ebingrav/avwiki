@@ -1,31 +1,32 @@
-*A basic creation of the [Psionic](:Category:_Psionicists "wikilink")
-art, the fear spell allows the [caster](Cast "wikilink") to instill a
-feeling of fright into the [enemy](:Category:_Mobs "wikilink"). Once
-filled with fear, an [enemy](:Category:_Mobs "wikilink") has trouble
-aiming at its targets. Also, the [victim](:Category:_Mobs "wikilink")
+*A basic creation of the [Psionic](:Category:_Psionicists.md "wikilink")
+art, the fear spell allows the [caster](Cast.md "wikilink") to instill a
+feeling of fright into the [enemy](:Category:_Mobs.md "wikilink"). Once
+filled with fear, an [enemy](:Category:_Mobs.md "wikilink") has trouble
+aiming at its targets. Also, the [victim](:Category:_Mobs.md "wikilink")
 will be so frightened of danger as to be unable to use the
-[rescue](Rescue "wikilink") [command](:Category:_Mobs "wikilink"). Not
-all of the effects of the fear spell are detrimental to the
-[victim](:Category:_Mobs "wikilink"). A frightened
-[creature](:Category:_Mobs "wikilink") is generally more wary and on its
-guard, so its [saving throw](Saving_Throw "wikilink") is improved. The
-effects of this [spell](:Category:_Spells "wikilink") become more
-dramatic as the [caster](Cast "wikilink") advances in
-[level](Level "wikilink") and can create a more forceful impression of
-fear. Because this [spell](:Category:_Skills_And_Spells "wikilink")
-relies partly on manipulating an unaware
-[victim](:Category:_Mobs "wikilink")'s perception of reality, it can
-only be [cast](Cast "wikilink") when initiating combat.*
+[rescue](Rescue.md "wikilink") [command](:Category:_Mobs.md "wikilink").
+Not all of the effects of the fear spell are detrimental to the
+[victim](:Category:_Mobs.md "wikilink"). A frightened
+[creature](:Category:_Mobs.md "wikilink") is generally more wary and on
+its guard, so its [saving throw](Saving_Throw.md "wikilink") is
+improved. The effects of this [spell](:Category:_Spells.md "wikilink")
+become more dramatic as the [caster](Cast.md "wikilink") advances in
+[level](Level.md "wikilink") and can create a more forceful impression
+of fear. Because this
+[spell](:Category:_Skills_And_Spells.md "wikilink") relies partly on
+manipulating an unaware [victim](:Category:_Mobs.md "wikilink")'s
+perception of reality, it can only be [cast](Cast.md "wikilink") when
+initiating combat.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'fear'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'fear'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-[Psionicists](:Category:_Psionicists "wikilink") may find this
-[spell](:Category:_Spells "wikilink") useful for starting fights.
-[Characters](:Category:_Characters "wikilink") of other
-[classes](:Category:_Classes "wikilink") hardly ever use it (or do
+[Psionicists](:Category:_Psionicists.md "wikilink") may find this
+[spell](:Category:_Spells.md "wikilink") useful for starting fights.
+[Characters](:Category:_Characters.md "wikilink") of other
+[classes](:Category:_Classes.md "wikilink") hardly ever use it (or do
 they?).
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

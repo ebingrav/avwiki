@@ -4,28 +4,28 @@ little armor and weapons the goblins have. Years of drinking have left
 little time to plunder equipment and more valuable treasures.*
 
 **Keywords:** goblin, guard.  
-**[Level](Level "wikilink"):** 8.  
-**[Alignment](Alignment "wikilink"):** demonically.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 8.  
+**[Alignment](Alignment.md "wikilink"):** demonically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The goblin guard is using:`  
-<worn on body>`      `[`a`` ``worn`` ``breastplate`](Worn_Breastplate "wikilink")  
-<worn on head>`      `[`a`` ``battered`` ``helmet`](Battered_Helmet "wikilink")  
+<worn on body>`      `[`a`` ``worn`` ``breastplate`](Worn_Breastplate.md "wikilink")  
+<worn on head>`      `[`a`` ``battered`` ``helmet`](Battered_Helmet.md "wikilink")  
 <wielded>`           a rusty sword`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Goblin King's Throne Room
+**[Area](:Category:_Areas.md "wikilink"):** [The Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Goblin King's Throne Room
 (portable).  
 Walking route from [Nom](Nom "wikilink"): s, 7e, u, 3e, 5n, w, n,
 \[n\].  

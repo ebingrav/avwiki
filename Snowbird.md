@@ -5,12 +5,12 @@ north. Over the years, they have moved into the wild, and slowly
 migrated north.*
 
 **Keywords:** snowbird, bird.  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[thief](Thieving_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"),
-[fly](Fly "wikilink"), [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[thief](Thieving_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"),
+[fly](Fly.md "wikilink"), [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -24,10 +24,10 @@ migrated north.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Frozen
-Wastes](:Category:_Frozen_Wastes "wikilink")
-([Map](Frozen_Wastes_Map "wikilink")).  
-Snowbird [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Frozen
+Wastes](:Category:_Frozen_Wastes.md "wikilink")
+([Map](Frozen_Wastes_Map.md "wikilink")).  
+Snowbird [wanders](Wandering_Mobs.md "wikilink").  
 Snowbird is portable.  
 
 [Category: Mobs In Frozen

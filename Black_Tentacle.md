@@ -24,8 +24,8 @@ oozing out of the cut that severed it.*
 ## Comments
 
 Despite its weight, this [throwing
-weapon](:Category:Throwing_Weapons "wikilink") can be used by a
-[Fusilier](:Category:Fusiliers "wikilink") who has practiced [Quick
+weapon](:Category:Throwing_Weapons.md "wikilink") can be used by a
+[Fusilier](:Category:Fusiliers.md "wikilink") who has practiced [Quick
 Draw](Quick_Draw "wikilink"). However it deals a significant amount of
 damage to the Fusilier when it returns.
 

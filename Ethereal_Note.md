@@ -18,7 +18,7 @@ Flags: glow hum magic
 Weight 5  
 level 126  
 Mob: ??  
-Area: [Savage Jungle](:Category:Savage_Jungle "wikilink")
+Area: [Savage Jungle](:Category:Savage_Jungle.md "wikilink")
 
 [Category:Gear In Savage
 Jungle](Category:Gear_In_Savage_Jungle "wikilink")

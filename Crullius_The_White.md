@@ -6,27 +6,27 @@ the abyss, then all is lost. He has secretly been in contact with
 Arcanthra, guaranteeing himself a position on whichever side wins.*
 
 **Keywords:** dwarf, crullius, ???.  
-**[Level](Level "wikilink"):** 78.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 78.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** ??.  
 
 ## Gear
 
 `Crullius the White is using:`  
-<worn about body>`   `[`the`` ``High`` ``Clerist`` ``Robe`](High_Clerist_Robe "wikilink")  
-<wielded>`           `[`an`` ``ancient`` ``dwarven`` ``dagger`](Ancient_Dwarven_Dagger "wikilink")
+<worn about body>`   `[`the`` ``High`` ``Clerist`` ``Robe`](High_Clerist_Robe.md "wikilink")  
+<wielded>`           `[`an`` ``ancient`` ``dwarven`` ``dagger`](Ancient_Dwarven_Dagger.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Crullius' Bedchamber
+**[Area](:Category:_Areas.md "wikilink"):** [Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Crullius' Bedchamber
 (cursed).  
 Walking route from [Wartha](Wartha "wikilink"): 3w, n, e, 3n, w, 4n, e,
 n, 4e, u, s, w.  

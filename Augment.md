@@ -21,9 +21,9 @@ price.
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p>Level</p></th>
-<th style="text-align: center;"><p><a href="Mana_Points"
+<th style="text-align: center;"><p><a href="Mana_Points.md"
 title="wikilink">Mana Cost</a></p></th>
-<th style="text-align: center;"><p><a href="Hit_Points"
+<th style="text-align: center;"><p><a href="Hit_Points.md"
 title="wikilink">Amount Healed</a></p></th>
 </tr>
 </thead>

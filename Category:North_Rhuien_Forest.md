@@ -21,7 +21,7 @@ Walk north in Rhuien Forest.
 
 ## Connections
 
--   [ Rhuien Forest](:Category:Rhuien_Forest "wikilink")
+-   [ Rhuien Forest](:Category:Rhuien_Forest.md "wikilink")
 
 ## Navigation
 
@@ -51,11 +51,11 @@ mob to their aid while fighting ([Thunder and
 Lightning](Thunder_and_Lightning "wikilink") --\>
 [Sundew](Sundew "wikilink")).
 
-Items to be found here include: [a cloudstone](Cloudstone "wikilink")
-(treasure), [ashleaf leaf](Ashleaf_Leaf "wikilink") (trash), [a
-well-worn notebook](Well-Worn_Notebook "wikilink") (scroll), [a clawed
-glove](Clawed_Glove "wikilink") (piercing weapon), [Ornamental Lightning
-Bolt](Ornamental_Lightning_Bolt "wikilink") (held DR gear).
+Items to be found here include: [a cloudstone](Cloudstone.md "wikilink")
+(treasure), [ashleaf leaf](Ashleaf_Leaf.md "wikilink") (trash), [a
+well-worn notebook](Well-Worn_Notebook.md "wikilink") (scroll), [a
+clawed glove](Clawed_Glove.md "wikilink") (piercing weapon), [Ornamental
+Lightning Bolt](Ornamental_Lightning_Bolt "wikilink") (held DR gear).
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category:
 Eragora](Category:_Eragora "wikilink")

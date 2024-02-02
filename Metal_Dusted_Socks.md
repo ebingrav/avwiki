@@ -10,14 +10,15 @@ someone*
 Modifies mana by 80 continuous. Slot: Feet  
 Flags: glow magic  
 Weight: 5  
-Plane: [Nowhere](:Category:Nowhere "wikilink")  
-Area: [When Elements Align](:Category:When_Elements_Align "wikilink")  
+Plane: [Nowhere](:Category:Nowhere.md "wikilink")  
+Area: [When Elements
+Align](:Category:When_Elements_Align.md "wikilink")  
 Mob: [Mithril Bits](Mithril_Bits "wikilink")?  
 
 ------------------------------------------------------------------------
 
 See [Gear In When Elements
-Align](:Category:Gear_In_When_Elements_Align "wikilink") for more
+Align](:Category:Gear_In_When_Elements_Align.md "wikilink") for more
 information.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")

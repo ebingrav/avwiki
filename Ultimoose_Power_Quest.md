@@ -17,7 +17,7 @@ port to moose guard, 3s 2e, give the mistletoe to
 `smell of smoke.`
 
 **Walk** to Nostradamoose again (2n 3e), give mask to him to be
-transported to a [Nospell](Anti-Magic_Rooms "wikilink") aggie zone.  
+transported to a [Nospell](Anti-Magic_Rooms.md "wikilink") aggie zone.  
 
 `You give the Mask of the Green Man to Nostradomoose.`  
 `Nostradomoose looks at the the Mask of the Green Man and exclaims,`  
@@ -60,7 +60,7 @@ then a little south.)
 This will transport you to [Ultimoose](Ultimoose "wikilink"), who is
 aggie. (The ultimoose was not aggie to me. I was sneak move. Consider
 shows merciless.) Kill him and claim your
-[prize](Ultimoose_Power "wikilink").  
+[prize](Ultimoose_Power.md "wikilink").  
 quote jove:  
 "Aggie hero quest zone, corpse eater, never go up"  
 That part about not going up is actually because up exits the area. So

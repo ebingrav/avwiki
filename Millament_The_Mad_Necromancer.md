@@ -5,22 +5,23 @@ the vile witch taunts. "You're next!"*
 **Keywords:** millament, necromancer, witch.  
 **Scan Description:** (Flying) (Black Aura) Millament is here! She is to
 blame for all the undead!  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [
-Steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink")  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [
+Steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink")  
 
 ## Gear
 
 `Millament the mad Necromancer is using:`  
-<worn on feet>`      `[`a`` ``pair`` ``of`` ``wyrmskin`` ``boots`](Pair_Of_Wyrmskin_Boots "wikilink")  
-<worn about body>`   `[`the`` ``Unholy`` ``Shroud`](Unholy_Shroud "wikilink")  
-<worn on wrist>`     `[`a`` ``sprite`` ``ribcage`](Sprite_Ribcage "wikilink")  
-<wielded>`           `[`the`` ``Shard`` ``Whip`](Shard_Whip "wikilink")  
-<held>`              `[`millament's`` ``staff`](Millament's_Staff "wikilink")
+<worn on feet>`      `[`a`` ``pair`` ``of`` ``wyrmskin`` ``boots`](Pair_Of_Wyrmskin_Boots.md "wikilink")  
+<worn about body>`   `[`the`` ``Unholy`` ``Shroud`](Unholy_Shroud.md "wikilink")  
+<worn on wrist>`     `[`a`` ``sprite`` ``ribcage`](Sprite_Ribcage.md "wikilink")  
+<wielded>`           `[`the`` ``Shard`` ``Whip`](Shard_Whip.md "wikilink")  
+<held>`              `[`millament's`` ``staff`](Millament's_Staff.md "wikilink")
 
 `Millament the mad Necromancer is carrying:`  
 `     Nothing.`
@@ -35,7 +36,7 @@ could potentially attack, turn on config +autosac.
 
 To get to Millament, bash down the door or get the key from [Romostaros
 The Sane](Romostaros_The_Sane "wikilink") (one of the burial options
-will grant you a [key](Crystal_Skull_Key "wikilink") and not death).
+will grant you a [key](Crystal_Skull_Key.md "wikilink") and not death).
 Probably one of the more expensive ones, likely the perfect gem option
 (but you don't lose the gem).
 
@@ -48,16 +49,16 @@ her pet.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-([Map](Cloud_Dracoleum_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The bottom of the pit of bones
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, n, u, e, u, n, w, u, n, u, s, 3u, 5n, u, e, \[e\],
-2d.  
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): 3n, u, e,
-{e}, 2d.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+([Map](Cloud_Dracoleum_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The bottom of the pit of
+bones ([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, n, u, e, u, n, w, u, n, u, s, 3u, 5n, u, e,
+\[e\], 2d.  
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): 3n, u,
+e, {e}, 2d.  
 
 [Category:Mobs In Cloud
 Dracoleum](Category:Mobs_In_Cloud_Dracoleum "wikilink")

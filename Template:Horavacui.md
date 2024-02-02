@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Horavacui_Proper" title="wikilink">Horavacui
-Proper</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Horavacui_Proper"
+<td><p><a href=":Category:Horavacui_Proper.md"
+title="wikilink">Horavacui Proper</a></p></td>
+<td><p>(<a href=":Category:Gear_In_Horavacui_Proper.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

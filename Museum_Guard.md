@@ -2,18 +2,18 @@
 look in his eye.*
 
 **Keywords:** museum, guard.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `A museum guard is using:`  
-<worn about body>`   `[`a`` ``canteen`` ``on`` ``a`` ``strap`](Canteen_On_A_Strap "wikilink")  
-<wielded>`           `[`a`` ``ceremonial`` ``sword`](Ceremonial_Sword "wikilink")
+<worn about body>`   `[`a`` ``canteen`` ``on`` ``a`` ``strap`](Canteen_On_A_Strap.md "wikilink")  
+<wielded>`           `[`a`` ``ceremonial`` ``sword`](Ceremonial_Sword.md "wikilink")
 
 `A museum guard is carrying:`  
 `     Nothing.`
@@ -22,9 +22,10 @@ look in his eye.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Landing Before the Museum
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Landing Before the Museum
 (portable)
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 5s, 2e, 2s, w, n,

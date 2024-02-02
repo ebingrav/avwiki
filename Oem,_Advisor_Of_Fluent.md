@@ -4,7 +4,7 @@ Well, at least their in-fighting is comical. Oem, advisor to Fluent is
 in perfect health.
 
 `Oem, advisor to Fluent is using:`  
-<worn on wrist>`     [Pristine  ] (Demonic) (Magical) (Glowing) `[`a`` ``show`` ``of`` ``loyalty`](Show_Of_Loyalty "wikilink")  
+<worn on wrist>`     [Pristine  ] (Demonic) (Magical) (Glowing) `[`a`` ``show`` ``of`` ``loyalty`](Show_Of_Loyalty.md "wikilink")  
 <wielded>`           [Pristine  ] (Demonic) (Glowing) `[`a`` ``dagger`` ``of`` ``dark`` ``rites`](a_dagger_of_dark_rites "wikilink")
 
 `You peek at the inventory:`  

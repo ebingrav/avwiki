@@ -1,30 +1,32 @@
-*This [spell](:Category:_Spells "wikilink"), if successful, causes the
-[victim](:Category:_Mobs "wikilink") to [follow](Follow "wikilink") you
-and to take orders from you. Use [ORDER](Order "wikilink") to order your
-[charmed](Charmed_Flag "wikilink") followers. You are responsible for
+*This [spell](:Category:_Spells.md "wikilink"), if successful, causes
+the [victim](:Category:_Mobs.md "wikilink") to
+[follow](Follow.md "wikilink") you and to take orders from you. Use
+[ORDER](Order.md "wikilink") to order your
+[charmed](Charmed_Flag.md "wikilink") followers. You are responsible for
 the actions of your followers. Conversely, other people who attack your
 followers will be penalized as if they attacked you. Please do not spam
-any [channels](:Category:_Channels "wikilink") with your
-[charmed](Charmed_Flag "wikilink") followers. Be careful where you leave
-your followers; leading high-[level](Level "wikilink")
-[creatures](:Category:_Mobs "wikilink") to low-[level](Level "wikilink")
-[areas](:Category:_Areas "wikilink") or moving a common
-[portal](Portals "wikilink") point is highly frowned upon. If you
-[quit](Quit "wikilink"), your [charmed](Charmed_Flag "wikilink")
-followers will disappear.*
+any [channels](:Category:_Channels.md "wikilink") with your
+[charmed](Charmed_Flag.md "wikilink") followers. Be careful where you
+leave your followers; leading high-[level](Level.md "wikilink")
+[creatures](:Category:_Mobs.md "wikilink") to
+low-[level](Level.md "wikilink") [areas](:Category:_Areas.md "wikilink")
+or moving a common [portal](Portals.md "wikilink") point is highly
+frowned upon. If you [quit](Quit.md "wikilink"), your
+[charmed](Charmed_Flag.md "wikilink") followers will disappear.*
 
-Prerequisite(s): [Sleep](Sleep_(spell) "wikilink").
+Prerequisite(s): [Sleep](Sleep_(spell).md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'charm person'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'charm person'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") has limited practical value,
-though it can be highly entertaining for some.
-[Charmed](Charmed_Flag "wikilink") [mobs](:Category:_Mobs "wikilink")
-will display a [(Charmed) "flag"](Charmed_Flag "wikilink").
+This [spell](:Category:_Spells.md "wikilink") has limited practical
+value, though it can be highly entertaining for some.
+[Charmed](Charmed_Flag.md "wikilink")
+[mobs](:Category:_Mobs.md "wikilink") will display a [(Charmed)
+"flag"](Charmed_Flag.md "wikilink").
 
-See also [Charm Person Gear](:Category:_Charm_Person_Gear "wikilink")
-and [Charmed Flag](Charmed_Flag "wikilink").
+See also [Charm Person Gear](:Category:_Charm_Person_Gear.md "wikilink")
+and [Charmed Flag](Charmed_Flag.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

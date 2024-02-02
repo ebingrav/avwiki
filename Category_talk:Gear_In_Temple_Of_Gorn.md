@@ -24,4 +24,4 @@ self-explanatory.
 
 You can use the move feature to rename a page whose title is too
 generic. Let me know if you need more help.
-[Waite](User:Waite "wikilink") 13:42, 9 March 2009 (UTC)
+[Waite](User:Waite.md "wikilink") 13:42, 9 March 2009 (UTC)

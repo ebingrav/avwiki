@@ -6,17 +6,17 @@ shoulders.*
 
 `It lasts for a while.`  
 `'sanctuary      '  continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -25 continuous.`
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -25 continuous.`
 
 **Keyword(s):** adamantine halo crescent.  
-**[Level(s)](Object_Level "wikilink"):** 52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 40 hps.  
-**[Weight](Object_Weight "wikilink"):** 8 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow evil magic bless
-nolocate.  
+**[Level(s)](Object_Level.md "wikilink"):** 52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow evil magic
+bless nolocate.  
 
 ## Comments
 

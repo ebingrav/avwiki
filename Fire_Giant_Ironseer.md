@@ -10,10 +10,10 @@ acclimating to working beside a roaring, searing beast.*
 ` `<wielded>`           [Pristine  ] a wrought iron hammer`
 
 **Keywords:** fire, giant, ironseer ???.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ???.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ???.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** ???.  
 
 ## Gear

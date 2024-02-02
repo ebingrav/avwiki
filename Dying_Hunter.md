@@ -14,23 +14,24 @@ catches his breath. 'Which you might find useful...'*
   
 *He has passed out, his breathing shallow and rapid.*  
 **Keywords:** orc, hunter.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sniper](Sniping_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[protection evil](Protection_Evil "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sniper](Sniping_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink").  
 
 ## Gear
 
 `A Half orc hunter is using:`  
-<wielded>`           `[`a`` ``hunting`` ``bow`](Hunting_Bow "wikilink")  
-<held>`              `[`barbed`` ``arrows`](Barbed_Arrows "wikilink")
+<wielded>`           `[`a`` ``hunting`` ``bow`](Hunting_Bow.md "wikilink")  
+<held>`              `[`barbed`` ``arrows`](Barbed_Arrows.md "wikilink")
 
 `A Half orc hunter is carrying:`  
-`     `[`fletching`` ``tools`` ``and`` ``materials`](Fletching_Tools_And_Materials "wikilink")
+`     `[`fletching`` ``tools`` ``and`` ``materials`](Fletching_Tools_And_Materials.md "wikilink")
 
 ## Comments
 
@@ -39,12 +40,13 @@ Quest](Rough_Band_Of_Tin_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Barrier
-Wastes](:Category:_Barrier_Wastes "wikilink")
-([Map](Barrier_Wastes_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A rocky dell (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 24n, 10e, n, 2e, s, e,
-s, e, push stone, 2e, u, e, u, e, d, e, s, u, n, e.  
+**[Area](:Category:_Areas.md "wikilink"):** [Barrier
+Wastes](:Category:_Barrier_Wastes.md "wikilink")
+([Map](Barrier_Wastes_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A rocky dell
+(portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 24n, 10e, n, 2e, s,
+e, s, e, push stone, 2e, u, e, u, e, d, e, s, u, n, e.  
 A Half orc hunter is portable.  
 
 [Category: Mobs In Barrier

@@ -7,15 +7,16 @@ Modifies hit roll by 2 continuous.
 Slot: Wrist  
 Weight: 3  
 Flags: glow magic nolocate  
-Plane: [Kzinti Homeworld](:Category:Kzinti_Homeworld "wikilink")  
-Area: [Kzinti Spire Of War](:Category:Kzinti_Spire_Of_War "wikilink")  
+Plane: [Kzinti Homeworld](:Category:Kzinti_Homeworld.md "wikilink")  
+Area: [Kzinti Spire Of
+War](:Category:Kzinti_Spire_Of_War.md "wikilink")  
 Mob: [Taragaul](Taragaul "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Kzinti Spire Of
-War](:Category:Gear_In_Kzinti_Spire_Of_War "wikilink") for directions on
-this run
+War](:Category:Gear_In_Kzinti_Spire_Of_War.md "wikilink") for directions
+on this run
 
 [Category:Lord Tank Gear](Category:Lord_Tank_Gear "wikilink")
 [Category:Gear In Kzinti Spire Of

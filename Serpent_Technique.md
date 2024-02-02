@@ -1,6 +1,6 @@
-*[Open Hand](Open_Hand "wikilink") Fourth Attack.*
+*[Open Hand](Open_Hand.md "wikilink") Fourth Attack.*
 
-Prerequisite(s): [Bear Technique](Bear_Technique "wikilink").
+Prerequisite(s): [Bear Technique](Bear_Technique.md "wikilink").
 
 Syntax: none (automatic).
 

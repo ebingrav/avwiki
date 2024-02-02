@@ -1,14 +1,14 @@
 *???*
 
 **Keywords:** sniper.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[sniper](Sniping_Mobs "wikilink"), ??.  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[sniper](Sniping_Mobs.md "wikilink"), ??.  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"), ??.  
 
 ## Gear
 
@@ -31,9 +31,9 @@ hitting even move/sneak/invis.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Dragon's
-Atoll](:Category:_Dragon's_Atoll "wikilink")
-([Map](Dragon's_Atoll_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Dragon's
+Atoll](:Category:_Dragon's_Atoll.md "wikilink")
+([Map](Dragon's_Atoll_Map.md "wikilink")).  
 
 [Category: Mobs In Dragon's
 Atoll](Category:_Mobs_In_Dragon's_Atoll "wikilink")

@@ -1,36 +1,37 @@
 *For many generations, sailors have been coming to this particular
-temple of [Shizaga](Shizaga "wikilink") in hopes that through their
+temple of [Shizaga](Shizaga.md "wikilink") in hopes that through their
 offerings, they can been assured safe passage through the seas. While
 small in size, this alabaster temple has always been an important
-landmark between [Midgaard](:Category:_Midgaard "wikilink") to the north
-and [the coastal city](:Category:_Mervue "wikilink") to the south.*
+landmark between [Midgaard](:Category:_Midgaard.md "wikilink") to the
+north and [the coastal city](:Category:_Mervue.md "wikilink") to the
+south.*
 
 **Level Range:** 30-35
 
-**Builder:** [Zahri](User:AlexyAnna "wikilink")
+**Builder:** [Zahri](User:AlexyAnna.md "wikilink")
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19s, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19s, w.
 
-Speedwalk route from [Aelmon](Aelmon "wikilink") with some clients:
+Speedwalk route from [Aelmon](Aelmon.md "wikilink") with some clients:
 s=s=s=s=s=s=s=s=s=s=s=s=s=s=s=s=s=s=s=w
 
-[Portaling](Portal "wikilink") point(s) suggested: [Huran
-representative](Representative_Of_Huran,_Hand_Of_Gorn "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Huran
+representative](Representative_Of_Huran,_Hand_Of_Gorn.md "wikilink").
 
 ## Connections
 
 The Temple is reached west from the [Ocean Trade
-Route](:Category:Highways/Great_Wall "wikilink"), just north of
-[Mervue](:Category:Mervue "wikilink").
+Route](:Category:Highways/Great_Wall.md "wikilink"), just north of
+[Mervue](:Category:Mervue.md "wikilink").
 
 ## Navigation
 
 A small area, the temple proper is basically laid out in a 3x3 block,
 with the **Entrance** just off to the east before leaving for the [Ocean
-Trade Route](:Category:Highways/Great_Wall "wikilink"). There is also a
-second floor built around the dome. Notable features are a pool in the
+Trade Route](:Category:Highways/Great_Wall.md "wikilink"). There is also
+a second floor built around the dome. Notable features are a pool in the
 **Center of Shizaga's Temple** and if you go up, you can reach **Inside
 the Alabaster Dome**.
 
@@ -53,8 +54,8 @@ he is quite nice xp although he is a lot tougher than the other mobs in
 the area.
 
 A good alternative levelling area if
-[Oddities](:Category:Zin's_Hall_Of_Oddities "wikilink") is unavailable,
-or has got stale.
+[Oddities](:Category:Zin's_Hall_Of_Oddities.md "wikilink") is
+unavailable, or has got stale.
 
 [Category: Lowmort 21-30
 Areas](Category:_Lowmort_21-30_Areas "wikilink") [Category: Lowmort

@@ -4,11 +4,11 @@ return patiently.*
 **Keywords:** Saul.  
 **Scan Description:** Saul, a personal friend of Sir Michael's awaits
 here.  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** Good.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink").  
-**Affects:** [sactuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** Good.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sactuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -22,10 +22,10 @@ Carries the key to "formidable oak chest" which contains the key to
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sir Michael's
-Stronghold](:Category:_Sir_Michael's_Stronghold "wikilink")
-([Map](Sir_Michael's_Stronghold_Map "wikilink")).  
-Walking route from [Marcus](Marcus "wikilink"): 3w2n3w2n\[e\]  
+**[Area](:Category:_Areas.md "wikilink"):** [Sir Michael's
+Stronghold](:Category:_Sir_Michael's_Stronghold.md "wikilink")
+([Map](Sir_Michael's_Stronghold_Map.md "wikilink")).  
+Walking route from [Marcus](Marcus.md "wikilink"): 3w2n3w2n\[e\]  
 Saul is portable.  
 
 [Category: Mobs In Sir Michael's

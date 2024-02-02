@@ -1,19 +1,20 @@
 *A tiny golden toe-ring lies here.*
 
-`Modifies `[`mana`](Mana_Points "wikilink")` by 60 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by -1 continuous.`
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 60 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by -1 continuous.`
 
 **Keyword(s):** toe ring  
 **Type:** armor  
 **Levels:** Levels 50-52  
 **Weight:** 3 lbs  
 **Bases:** Base 10-12  
-**Flags:** [glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[nolocate](NoLocate_Flag "wikilink")  
-**Area:** [Temple of Utami](:Category:_Temple_Of_Utami "wikilink")
-([Map](Temple_Of_Utami_Map "wikilink"))  
+**Flags:** [glow](Glow_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink")  
+**Area:** [Temple of Utami](:Category:_Temple_Of_Utami.md "wikilink")
+([Map](Temple_Of_Utami_Map.md "wikilink"))  
 **Mob:** [Statue Of Utami](Statue_Of_Utami "wikilink")  
 
 ## Comments

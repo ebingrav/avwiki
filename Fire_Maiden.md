@@ -6,7 +6,7 @@ replaced by spigots of pure flame, she seems possessed by something
 downright otherworldly.
 
 ` A fire maiden is using:`  
-` `<worn on body>`      [Pristine  ] (Demonic) (Glowing) `[`white`` ``hot`` ``cuirass`](White_Hot_Cuirass "wikilink")
+` `<worn on body>`      [Pristine  ] (Demonic) (Glowing) `[`white`` ``hot`` ``cuirass`](White_Hot_Cuirass.md "wikilink")
 
 The version of this mob in Overlooking Midgaardia's Doom wears:
 
@@ -15,10 +15,10 @@ The version of this mob in Overlooking Midgaardia's Doom wears:
 ` `<worn on body>`      [Pristine  ] (Demonic) (Glowing) white hot cuirass`
 
 **Keywords:** giant, maiden, ???.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** evil.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** evil.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** ???.  
 
 ## Gear

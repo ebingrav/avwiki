@@ -1,31 +1,31 @@
 *Amassed seratim rings lay here in a pile.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous`  
-`Modifies `[`armor`` ``class`](armor_Class "wikilink")` by -5 continuous`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 5 continuous`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous`  
+`Modifies `[`armor`` ``class`](armor_Class.md "wikilink")` by -5 continuous`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 5 continuous`
 
 **Keyword(s):** tasset cryptid.  
-**[Level(s)](Object_Level "wikilink"):** 22-24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 22-24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink").  
 
 ## Comments
 
-This [anti-evil](Anti-Evil_Flag "wikilink") item is attainable only once
-per alt. See [Ssithtarr's Fur Collection
+This [anti-evil](Anti-Evil_Flag.md "wikilink") item is attainable only
+once per alt. See [Ssithtarr's Fur Collection
 Quest](Ssithtarr's_Fur_Collection_Quest "wikilink") for more info.
 
 ## Directions
 
-**Area:** [Cryptid Hollow](:Category:_Cryptid_Hollow "wikilink")
-([Map](Cryptid_Hollow_Map "wikilink"))  
+**Area:** [Cryptid Hollow](:Category:_Cryptid_Hollow.md "wikilink")
+([Map](Cryptid_Hollow_Map.md "wikilink"))  
 **Mob:** [Ssithtarr](Ssithtarr "wikilink") (portable)  
 
 [Category: Gear In Cryptid

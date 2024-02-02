@@ -8,18 +8,18 @@ dwells deep beneath the earth and preys on the souls of the unwary.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, e.
 
-Walking route from [stone gargoyle](Stone_Gargoyle "wikilink"): 2s, 2w,
-u, e.
+Walking route from [stone gargoyle](Stone_Gargoyle.md "wikilink"): 2s,
+2w, u, e.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
--   [North Of Ofcol](:Category:North_Of_Ofcol "wikilink")
-    ([map](North_Of_Ofcol_Map "wikilink"))
+-   [North Of Ofcol](:Category:North_Of_Ofcol.md "wikilink")
+    ([map](North_Of_Ofcol_Map.md "wikilink"))
 
 ## Navigation
 
@@ -33,9 +33,9 @@ will have to run the area to its conclusion to get out.
 ## Adventuring
 
 This is a quest area, built around the main item - the [Glyph of
-Tao](Glyph_Of_Tao_(1_of_2) "wikilink"). As such, it is very small, has a
-low amount of mobs, not all of which are aggie, and most of which do not
-see hidden characters.
+Tao](Glyph_Of_Tao_(1_of_2).md "wikilink"). As such, it is very small,
+has a low amount of mobs, not all of which are aggie, and most of which
+do not see hidden characters.
 
 Levels of the mobs are appropriate for lowhero soloing or even high
 lowmort groups.

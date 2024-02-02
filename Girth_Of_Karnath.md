@@ -1,6 +1,6 @@
 *Traditionally bestowed upon the champion of
-[Karnath](:Category:Karnath "wikilink"), this girth demands bravery and
-strength of its owner.*
+[Karnath](:Category:Karnath.md "wikilink"), this girth demands bravery
+and strength of its owner.*
 
 `Modifies armor class by -65 continuous.`
 
@@ -8,13 +8,13 @@ strength of its owner.*
 **Type**: armor  
 **Flags**: glow bless anti-evil nolocate major-ward  
 **Weight**: 7  
-**Plane**: [Nowhere](:Category:Nowhere "wikilink")  
-**Area**: [Soulgorger's Lair](:Category:Soulgorger's_Lair "wikilink")
+**Plane**: [Nowhere](:Category:Nowhere.md "wikilink")  
+**Area**: [Soulgorger's Lair](:Category:Soulgorger's_Lair.md "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Soulgorger's
-Lair](:Category:Gear_In_Soulgorger's_Lair "wikilink") for more
+Lair](:Category:Gear_In_Soulgorger's_Lair.md "wikilink") for more
 information.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")

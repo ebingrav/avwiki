@@ -4,11 +4,11 @@ passed from generation to generation. The secret is well kept, and
 rightly so -- for theirs is the best.*
 
 **Keywords:** Heaustf.  
-**[Level](Level "wikilink"):** 99.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 99.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 **Race:** Lizard (tail stuns).  
 
@@ -18,20 +18,22 @@ rightly so -- for theirs is the best.*
 `Nothing.`
 
 `Heaustf is carrying:                                                                [Lv Price]`  
-`     (Humming) `[`a`` ``sea`` ``turtle`` ``shell`](Sea_Turtle_Shell "wikilink")`                                                   [ 14    99]`
+`     (Humming) `[`a`` ``sea`` ``turtle`` ``shell`](Sea_Turtle_Shell.md "wikilink")`                                                   [ 14    99]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Heaustf's Armory
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Heaustf's Armory
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d, 2n, w, 2n,
-e, 2n, e, n. (note: crosses [water terrain](Water_Terrain "wikilink"))  
-Walking route from [Suretin](Suretin "wikilink"): w, 2n, e, 2n, e, n.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d, 2n, w,
+2n, e, 2n, e, n. (note: crosses [water
+terrain](Water_Terrain.md "wikilink"))  
+Walking route from [Suretin](Suretin.md "wikilink"): w, 2n, e, 2n, e,
+n.  
 Heaustf is portable.  
 
 [Category: Mobs In Antharia](Category:_Mobs_In_Antharia "wikilink")

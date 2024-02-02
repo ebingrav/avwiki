@@ -1,7 +1,7 @@
 This quest takes place within [Mountain
-Tunnels](:Category:Mountain_Tunnels "wikilink"), on
-[Eragora](:Category:Eragora "wikilink"). A small yet powerful group is
-suggested to complete it.
+Tunnels](:Category:Mountain_Tunnels.md "wikilink"), on
+[Eragora](:Category:Eragora.md "wikilink"). A small yet powerful group
+is suggested to complete it.
 
 -   Upon arriving on Eragora proper, teleport to [Halfling
     Spy](Halfling_Spy "wikilink"). From here you must reach
@@ -16,7 +16,7 @@ suggested to complete it.
     Of The Moon](Guardian_Of_The_Moon "wikilink") protecting it.
 -   Quaff to be transported into the quest part of the area. You will
     arrive at the north-west corner of a 3x2 block. (See
-    [map](Mountain_Tunnels_Map "wikilink"))
+    [map](Mountain_Tunnels_Map.md "wikilink"))
 -   Kill all the [Moon Guards](Moon_Guard "wikilink"), including the
     [Silent Golem](Silent_Golem "wikilink") to proceed. They are all
     rather big and have uncomfortable abilities, from "standard" warrior
@@ -24,8 +24,8 @@ suggested to complete it.
 -   Once all are dead a [Frantic Guard](Frantic_Guard "wikilink") will
     appear (along other reinforcements) just north of the door, where
     the golem used to be. Kill him to unlock the door, but beware his
-    mnd abilities - he can easily [scramble](Scramble "wikilink") and
-    [overconfidence](Overconfidence "wikilink").
+    mnd abilities - he can easily [scramble](Scramble.md "wikilink") and
+    [overconfidence](Overconfidence.md "wikilink").
 -   Go s, and defeat the demigod [Erashnak](Erashnak "wikilink"). While
     his gear is lackluster, be sure to loot the [Wand Of The
     Moon](Wand_Of_The_Moon "wikilink").

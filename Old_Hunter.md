@@ -7,9 +7,9 @@ whiskey, kid!"
 
 Sells:
 
-[`a`` ``simple`` ``leather`` ``sling`](Sling "wikilink")  
-[`an`` ``ugly`` ``crossbow`](Ugly_Crossbow "wikilink")  
-[`an`` ``elegant`` ``longbow`](Elegant_Longbow "wikilink")  
+[`a`` ``simple`` ``leather`` ``sling`](Sling.md "wikilink")  
+[`an`` ``ugly`` ``crossbow`](Ugly_Crossbow.md "wikilink")  
+[`an`` ``elegant`` ``longbow`](Elegant_Longbow.md "wikilink")  
 `fletching tools and materials`
 
 Room Desc: ''A grey and grizzled old hunter sits here, muttering stories

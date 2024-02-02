@@ -2,15 +2,15 @@
 Modifies mana by 100 continuous. Weight: 2  
 Type: treasure  
 Flags: extra flags magic nolocate  
-Plane: [Thorngate](:Category:Thorngate "wikilink")  
-Area: [Rietta's Wonders](:Category:Rietta's_Wonders "wikilink")  
+Plane: [Thorngate](:Category:Thorngate.md "wikilink")  
+Area: [Rietta's Wonders](:Category:Rietta's_Wonders.md "wikilink")  
 Mob: [Ashara](Ashara "wikilink") (ticket quest)  
 
 ------------------------------------------------------------------------
 
 Get a [Green Banana](Green_Banana "wikilink") from Top of the tree in
-[Island Of Utami](:Category:Island_Of_Utami "wikilink"). Bring it back
-to [Thorngate](:Category:Thorngate "wikilink") and give it to
+[Island Of Utami](:Category:Island_Of_Utami.md "wikilink"). Bring it
+back to [Thorngate](:Category:Thorngate.md "wikilink") and give it to
 [Ashara](Ashara "wikilink").
 
 [Category:Lord Mana Gear](Category:Lord_Mana_Gear "wikilink")

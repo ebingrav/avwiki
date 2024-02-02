@@ -1,20 +1,20 @@
 *STEEL SKELETON causes the caster's very bones to become as unbreakable
 as steel. This technique is so advanced that only
-[Psions](:Category:_Psionicists "wikilink") can ever learn it. This
-[spell](:Category:_Spells "wikilink") is a [BIOCENTRIC Psionic
-Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It can only
-be [cast](Cast "wikilink") on others if the Caster first masters the art
-of [BIO EMPATHY](Bio_Empathy "wikilink").*
+[Psions](:Category:_Psionicists.md "wikilink") can ever learn it. This
+[spell](:Category:_Spells.md "wikilink") is a [BIOCENTRIC Psionic
+Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It can
+only be [cast](Cast.md "wikilink") on others if the Caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
-Prerequisite(s): [Iron Skin](Iron_Skin "wikilink").
+Prerequisite(s): [Iron Skin](Iron_Skin.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'steel skeleton'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'steel skeleton'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-Note: Modifies AC by -50 for 48 [hours](Tics "wikilink") when cast by an
-athiest hero-level [Psion](:Category:_Psionicists "wikilink").
+Note: Modifies AC by -50 for 48 [hours](Tics.md "wikilink") when cast by
+an athiest hero-level [Psion](:Category:_Psionicists.md "wikilink").
 
-See [Steel Skeleton Gear](:Category:Steel_Skeleton_Gear "wikilink").
+See [Steel Skeleton Gear](:Category:Steel_Skeleton_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

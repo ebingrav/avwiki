@@ -22,14 +22,14 @@ never gets clean.*
 **Bases:** Base 10-12  
 **Flags:** magic nolocate  
 **Area:** [Hospice Refugee
-Camp](:Category:_Hospice_Refugee_Camp "wikilink")  
+Camp](:Category:_Hospice_Refugee_Camp.md "wikilink")  
 **Mob:** [Captain Jacklyn](Captain_Jacklyn "wikilink")  
 
 ## Comments
 
 This is a quest item, get a [Hand Made Out Of
 Coal](Hand_Made_Out_Of_Coal "wikilink") and give it to
-[Jacklyn](Captain_Jacklyn "wikilink") for more information. Note that
+[Jacklyn](Captain_Jacklyn.md "wikilink") for more information. Note that
 because this item applies the "curse" affect, savespell won't work after
 you put it on. Need the [Ornate Obsidian
 Key](Ornate_Obsidian_Key "wikilink") from [Ogre

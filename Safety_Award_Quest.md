@@ -11,8 +11,8 @@ Walkthrough:
     Dingersen](Ginormous_Dingersen "wikilink"), go w, and follow
     [Mayflower](Mayflower "wikilink").
 -   Once dumped into the air room, move down to enter area proper.
-    Consult [map](Exploration_Outpost_Map "wikilink") on directions how
-    to navigate the area.
+    Consult [map](Exploration_Outpost_Map.md "wikilink") on directions
+    how to navigate the area.
 
 The goal is to kill as many fish, eels and turtles as fast as possible
 (condors and kelp do not help). When an appropriate number of fish, eels

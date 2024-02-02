@@ -3,21 +3,21 @@ sharpened beyond recognition, the entire weapon is about the size of a
 human forearm.*
 
 `Damage is 11-14 to 37-38 (average 24-26).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 8 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 8 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 8 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 8 continuous.`
 
-**[Levels](Object_Level "wikilink"):** 44-46.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink"),
-[concealable](:Category:_Concealable_Weapons "wikilink"),
-[piercing](:Category:_Melee_Weapons_That_Pierce "wikilink").  
-**[Slot](Object_Slots "wikilink"):** wielded.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Area](:Category:_Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink")).  
-**[Mob](:Category:_Mobs "wikilink"):** [Cunning
+**[Levels](Object_Level.md "wikilink"):** 44-46.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink"),
+[concealable](:Category:_Concealable_Weapons.md "wikilink"),
+[piercing](:Category:_Melee_Weapons_That_Pierce.md "wikilink").  
+**[Slot](Object_Slots.md "wikilink"):** wielded.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Area](:Category:_Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink")).  
+**[Mob](:Category:_Mobs.md "wikilink"):** [Cunning
 Thief](Cunning_Thief "wikilink").  
 Caution: Cunning Thief stabs.
 

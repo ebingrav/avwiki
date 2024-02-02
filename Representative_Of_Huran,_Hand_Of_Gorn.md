@@ -1,18 +1,20 @@
-*In an unprecedented move, [Huran](Huran,_A_Hand_Of_Gorn "wikilink") has
-sent one of his [monks](:Category:_Monks "wikilink") to visit [this
-temple honoring Shizaga](:Category:_Shizaga's_Temple "wikilink"). Though
-the visitor is tight-lipped about why he has been sent, he has been
-quick to point out that no tricks of [Shizaga](Shizaga "wikilink") will
-get any information out of him regarding [the monk's own mysterious
-temple](:Category:_Temple_Of_Gorn "wikilink").*
+*In an unprecedented move, [Huran](Huran,_A_Hand_Of_Gorn.md "wikilink")
+has sent one of his [monks](:Category:_Monks.md "wikilink") to visit
+[this temple honoring
+Shizaga](:Category:_Shizaga's_Temple.md "wikilink"). Though the visitor
+is tight-lipped about why he has been sent, he has been quick to point
+out that no tricks of [Shizaga](Shizaga.md "wikilink") will get any
+information out of him regarding [the monk's own mysterious
+temple](:Category:_Temple_Of_Gorn.md "wikilink").*
 
 **Keywords:** representative, Huran, Gorn.  
-**[Level](Level "wikilink"):** 36.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 36.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -26,12 +28,12 @@ invis](Detect_Invis "wikilink"), [sanctuary](Sanctuary "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shizaga's
-Temple](:Category:_Shizaga's_Temple "wikilink")
-([Map](Shizaga's_Temple_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Center of Shizaga's Temple
-(portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 19s, 3w.  
+**[Area](:Category:_Areas.md "wikilink"):** [Shizaga's
+Temple](:Category:_Shizaga's_Temple.md "wikilink")
+([Map](Shizaga's_Temple_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Center of Shizaga's
+Temple (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19s, 3w.  
 A representative of Huran, hand of Gorn is portable.  
 
 [Category: Mobs In Shizaga's

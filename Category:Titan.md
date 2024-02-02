@@ -19,6 +19,6 @@ journey.*
 true ability. The indiscriminate use of that mastery of magic and nature
 may explain why there are no Titans today.*
 
-**[Levels](Level "wikilink"):** ??? - ???
+**[Levels](Level.md "wikilink"):** ??? - ???
 
 [Category: Tiers](Category:_Tiers "wikilink")

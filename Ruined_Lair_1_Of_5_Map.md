@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Ruined_lair_1_map.png" title="Ruined_lair_1_map.png"
-width="650" alt="Ruined_lair_1_map.png" />
-<figcaption aria-hidden="true">Ruined_lair_1_map.png</figcaption>
+<img src="Ruined_lair_1_map.png.md" title="Ruined_lair_1_map.png.md"
+width="650" alt="Ruined_lair_1_map.png.md" />
+<figcaption aria-hidden="true">Ruined_lair_1_map.png.md</figcaption>
 </figure>
 
 [Midgaard Map](Midgaard_Map "wikilink")

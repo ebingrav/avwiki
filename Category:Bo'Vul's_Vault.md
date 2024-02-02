@@ -14,11 +14,11 @@ cleansed by a priest and copied by rogues (key copying toolkit required)
 to cut down costs. Check if some kind soul has kept some in the pot in
 Bandu's kitchen, or on the dwarf.
 
-To get to vault, go e2d from [ Airscape](:Category:_Airscape "wikilink")
-shift. You'll see [Tormak](Tormak "wikilink") there (scan desc: A
-wraithlike devil looks bored). The room is full safe and noregen. Up
-from here leads back to [ Airscape
-Proper](:Category:_Airscape_Proper "wikilink").
+To get to vault, go e2d from [
+Airscape](:Category:_Airscape.md "wikilink") shift. You'll see
+[Tormak](Tormak "wikilink") there (scan desc: A wraithlike devil looks
+bored). The room is full safe and noregen. Up from here leads back to [
+Airscape Proper](:Category:_Airscape_Proper.md "wikilink").
 
 Note that the area spans multiple planes.
 
@@ -122,59 +122,15 @@ Are, time lords </spoiler>
 
 </spoiler>
 
-<spoiler text="Timelock Codes">
-
-|          |          |
-|----------|----------|
-| **Time** | **Code** |
-| 23       | 367      |
-|          |          |
-| 22       | 51       |
-|          |          |
-| 21       | 48       |
-|          |          |
-| 20       | 97       |
-|          |          |
-| 19       | 6187     |
-|          |          |
-| 18       | 3549     |
-|          |          |
-| 17       | 9453     |
-|          |          |
-| 16       | 75       |
-|          |          |
-| 15       | 7816     |
-|          |          |
-| 14       | 57       |
-|          |          |
-| 13       | 65       |
-|          |          |
-| 12       | 714      |
-|          |          |
-| 11       | 417      |
-|          |          |
-| 10       | 89       |
-|          |          |
-| 9        | 98       |
-|          |          |
-| 8        | 56       |
-|          |          |
-| 7        | 3        |
-|          |          |
-| 6        | 3        |
-|          |          |
-| 5        | 7        |
-|          |          |
-| 4        | 7        |
-|          |          |
-| 3        | 15       |
-|          |          |
-| 2        | 84       |
-|          |          |
-| 1        | 763      |
-|          |          |
-| 0        | 79       |
-|          |          |
+<spoiler text="Timelock Codes"> {.md\| class="sortable" border="2"
+cellpadding="2" cellspacing="0" align="center" style="text-align:center"
+\|- \|**Time** \|**Code** \|- \|23 \|367 \|- \|- \|22 \|51 \|- \|- \|21
+\|48 \|- \|- \|20 \|97 \|- \|- \|19 \|6187 \|- \|- \|18 \|3549 \|- \|-
+\|17 \|9453 \|- \|- \|16 \|75 \|- \|- \|15 \|7816 \|- \|- \|14 \|57 \|-
+\|- \|13 \|65 \|- \|- \|12 \|714 \|- \|- \|11 \|417 \|- \|- \|10 \|89
+\|- \|- \|9 \|98 \|- \|- \|8 \|56 \|- \|- \|7 \|3 \|- \|- \|6 \|3 \|-
+\|- \|5 \|7 \|- \|- \|4 \|7 \|- \|- \|3 \|15 \|- \|- \|2 \|84 \|- \|-
+\|1 \|763 \|- \|- \|0 \|79 \|- \|}
 
 The code is just the kakuro puzzle answers read off in the direction
 opposite to the corresponding sigil. </spoiler>
@@ -220,9 +176,10 @@ Kzinti: e s s e d
 </spoiler>
 
 At the end there is an animator deathwish in the [
-Arcadian](:Category:_Arcadia "wikilink") plane. Killing the deathwishes
-increases menagerie xp and opens the next area (GEARBOX). There's a fair
-bit of area spells, and some mobs hit quite hard. Group size: 12+
+Arcadian](:Category:_Arcadia.md "wikilink") plane. Killing the
+deathwishes increases menagerie xp and opens the next area (GEARBOX).
+There's a fair bit of area spells, and some mobs hit quite hard. Group
+size: 12+
 
 The "Arcadian Fire" room with 1w, 1u exit is an OK place to regenerate.
 
@@ -281,8 +238,8 @@ the automata first and then deal with the gnome. Requires a fairly long
 tank chain. Notable things he can do are (there is advance notice of
 what it's going to do by the color):
 
--   Cast [death's door](Deaths_Door "wikilink") on the tank, which can
-    reduce your tank's max hp to 1. Death's door can be cured with
+-   Cast [death's door](Deaths_Door.md "wikilink") on the tank, which
+    can reduce your tank's max hp to 1. Death's door can be cured with
     clarify. (color: black)
 -   Cast detonate on the tank (color: yellow)
 -   Make the room nospell (forgot the color)
@@ -329,8 +286,8 @@ There are also some special mobs (all are trackable):
     the thief in this part of the vault, so his corpse can be skinned.
     He carries a demonic lapis lazuli (a special type of gem to craft
     special items). To see how to use the [demonic
-    gem](Demonic_Lapis_Lazuli "wikilink"), go to the demonic crafter in
-    the area north of the bank and type **LOOK MENU**.
+    gem](Demonic_Lapis_Lazuli.md "wikilink"), go to the demonic crafter
+    in the area north of the bank and type **LOOK MENU**.
 -   Golem: spawns when you walk into the "Widow Tear Heart" room. Note
     that there are two hearts - "(Pink Aura) (Demonfire) The gem's
     purple light is focused towards the heart of the jewel." located in

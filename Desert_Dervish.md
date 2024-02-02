@@ -3,9 +3,10 @@
 **Keywords:** dervish, desert, ??.  
 **Scan Description:**Blinded by the sun, a crazed man whirls wildly
 about.  
-**[Level](Level "wikilink"):** 62.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** very aggressive, ??, ??.  
+**[Level](Level.md "wikilink"):** 62.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** very aggressive, ??,
+??.  
 **Affects:** ??, ??.  
 
 ## Gear
@@ -20,12 +21,12 @@ about.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Varies
-([cursed](Cursed_Rooms "wikilink"))  
-A desert dervish [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Varies
+([cursed](Cursed_Rooms.md "wikilink"))  
+A desert dervish [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Great
 Divide](Category:_Mobs_In_Great_Divide "wikilink")

@@ -4,7 +4,7 @@ Legend sorcerer lore.
 
 # Prereqs
 
--   [greater sorcery](Greater_Sorcery "wikilink")
+-   [greater sorcery](Greater_Sorcery.md "wikilink")
 
 # Skills/Spells Granted
 

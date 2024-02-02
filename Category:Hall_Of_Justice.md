@@ -4,9 +4,9 @@ would stay alive, searching for the hidden panels, all the time hearing
 Mxyzptlk's insane laughter. I barely escaped with my life. Scribes note:
 at this point the subject exploded into a strange laughter and did not
 speak again. Unfortunately, the subject escaped soon after this session
-and was last rumored to be in the care of [Aelmon](Aelmon "wikilink")
-the [Healer](:Category:_Healers "wikilink"). -Taken from the archives of
-Arkham Asylum*
+and was last rumored to be in the care of [Aelmon](Aelmon.md "wikilink")
+the [Healer](:Category:_Healers.md "wikilink"). -Taken from the archives
+of Arkham Asylum*
 
 **Level Range:** 51-51
 
@@ -14,15 +14,15 @@ Arkham Asylum*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 2s, \[e\], e, 2u, 2w, u,
-n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 2s, \[e\], e, 2u, 2w,
+u, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Floating
-Wizard](Floating_Wizard "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Floating
+Wizard](Floating_Wizard.md "wikilink").
 
 ## Connections
 
--   [Midgaard](:Category:Midgaard "wikilink")
+-   [Midgaard](:Category:Midgaard.md "wikilink")
 
 ## Navigation
 
@@ -36,10 +36,11 @@ solo quest.
 
 Once inside the area is a linear pathway to the north with each mob
 having the key to the next mob, much akin to [House Of
-Quests](:Category:House_Of_Quests "wikilink"). There are two safe rooms
-for recuperation - west of the [Green Knight](Green_Knight "wikilink")
-and east of the [Warrior Chieftain](Warrior_Chieftain "wikilink"). Their
-doors are invisible but unlocked.
+Quests](:Category:House_Of_Quests.md "wikilink"). There are two safe
+rooms for recuperation - west of the [Green
+Knight](Green_Knight "wikilink") and east of the [Warrior
+Chieftain](Warrior_Chieftain "wikilink"). Their doors are invisible but
+unlocked.
 
 Going south from any room leads to the [Floating
 Wizard](Floating_Wizard "wikilink"), the sole uncursed room in the area

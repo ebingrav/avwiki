@@ -7,6 +7,6 @@
   
 ` Modifies armor class by -50 continuous`
 
-Plane: [Arcadia](:Category:Arcadia "wikilink")  
-Area: [Dark Fae Tower](:Category:Dark_Fae_Tower "wikilink")  
+Plane: [Arcadia](:Category:Arcadia.md "wikilink")  
+Area: [Dark Fae Tower](:Category:Dark_Fae_Tower.md "wikilink")  
 Mob: [Baronnes Kipparielle](Baronnes_Kipparielle "wikilink")

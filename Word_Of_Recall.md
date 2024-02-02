@@ -1,19 +1,20 @@
-*This [spell](:Category:_Spells "wikilink") duplicates the built-in
-[RECALL](Recall "wikilink") ability without the [movement
-cost](Movement_Costs "wikilink") beyond the [casting](Cast "wikilink")
-of the [spell](:Category:_Skills_And_Spells "wikilink"). An added
-limitation of [casting](Cast "wikilink") the
-[spell](:Category:_Skills_And_Spells "wikilink") is that it must be done
-while not fighting.*
+*This [spell](:Category:_Spells.md "wikilink") duplicates the built-in
+[RECALL](Recall.md "wikilink") ability without the [movement
+cost](Movement_Costs.md "wikilink") beyond the
+[casting](Cast.md "wikilink") of the
+[spell](:Category:_Skills_And_Spells.md "wikilink"). An added limitation
+of [casting](Cast.md "wikilink") the
+[spell](:Category:_Skills_And_Spells.md "wikilink") is that it must be
+done while not fighting.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'word of recall'.
+Syntax: [cast](Cast.md "wikilink") 'word of recall'.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
 See also [Word Of Recall
-Gear](:Category:_Word_Of_Recall_Gear "wikilink").
+Gear](:Category:_Word_Of_Recall_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

@@ -65,9 +65,9 @@
 Prompts can be extremely useful if done correctly. With the addition of
 color codes, effective spacing and separation symbols, players can put
 all of the necessary information in two lines of prompt. Players can
-also use their [client](:Category:Scripting "wikilink") software to grab
-information from their prompts to put in information bars, gauges and
-other fancy displays.
+also use their [client](:Category:Scripting.md "wikilink") software to
+grab information from their prompts to put in information bars, gauges
+and other fancy displays.
 
 ## Sample Prompt
 

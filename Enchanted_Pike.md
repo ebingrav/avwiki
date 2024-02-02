@@ -7,12 +7,12 @@ Level: 11
 Weight: 15  
 Damage: 5-8 to 17-20  
 Flags: magic  
-Mob: [Townguard](Townguard_(solace) "wikilink")  
-Area: [Town of Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
+Mob: [Townguard](Townguard_(solace).md "wikilink")  
+Area: [Town of Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
 From [Sol](Sol "wikilink") go 3e, s to enter the [Town Of
-Solace](:Category:Town_Of_Solace "wikilink"), where the
-[townguards](Townguard_(solace) "wikilink") patrol the streets.
+Solace](:Category:Town_Of_Solace.md "wikilink"), where the
+[townguards](Townguard_(solace).md "wikilink") patrol the streets.
 
 [Category: Gear In Town Of
 Solace](Category:_Gear_In_Town_Of_Solace "wikilink") [Category: Standard

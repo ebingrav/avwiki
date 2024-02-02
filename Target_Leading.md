@@ -1,5 +1,5 @@
-*This [skill](:Category:_Skills "wikilink") helps an
-[archer](:Category:_Archers "wikilink") lead a target and negate any
+*This [skill](:Category:_Skills.md "wikilink") helps an
+[archer](:Category:_Archers.md "wikilink") lead a target and negate any
 dodges the victim may try to make.*
 
 Prerequisite(s): none.

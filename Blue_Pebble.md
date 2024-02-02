@@ -1,25 +1,25 @@
 *A pale blue worrying stone lies in the mud here.*
 
-`Modifies `[`strength`](Strength "wikilink")` by 1 continuous.`
+`Modifies `[`strength`](Strength.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** blue pebble worrying stone.  
-**[Level(s)](Object_Level "wikilink"):** 12.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 12.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ruins of
-Keresh](:Category:_Ruins_Of_Keresh "wikilink")
-([Map](Ruins_Of_Keresh_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** Among the Rubble of an
+**[Area](:Category:_Areas.md "wikilink"):** [Ruins of
+Keresh](:Category:_Ruins_Of_Keresh.md "wikilink")
+([Map](Ruins_Of_Keresh_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Among the Rubble of an
 Ancient House.  
 Walking directions from [Aelmon](Aelmon "wikilink"): 16s, 5w, 5n, 3w,
 3s.

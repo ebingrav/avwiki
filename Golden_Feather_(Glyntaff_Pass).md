@@ -2,21 +2,21 @@
 is all so long ago now, you can barely remember...*
 
 `'fly            '  continuous`  
-`Modifies `[`constitution`](Constitution "wikilink")` by 3 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 3 continuous.`
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 3 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** golden feather  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held>  
-**[Quality](Object_Quality "wikilink"):** 10 hps  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
-**[Area](:Category:_Areas "wikilink"):** [ Glyntaff
-Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Glyntaff
+Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 ## Comments
 

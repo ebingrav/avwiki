@@ -4,7 +4,7 @@ found a **large iron key** but no door that needs it. Anyone more
 familiar with this place? I've found the summoner but there was nothing
 down there but him. Did I miss something? Anyone?
 
---[Ylem](User:Ylem "wikilink") 18:23, 5 December 2008 (UTC)
+--[Ylem](User:Ylem.md "wikilink") 18:23, 5 December 2008 (UTC)
 
 ------------------------------------------------------------------------
 
@@ -30,8 +30,8 @@ that, because in the contest, we did not create any objects or quests.
 
 Given the opportunity, I would love to go back and rework this area.
 
---[Shalineth](User:Shalineth "wikilink") 21:25, 5 December 2008 (UTC)
+--[Shalineth](User:Shalineth.md "wikilink") 21:25, 5 December 2008 (UTC)
 
 Well I'll put up the map later this weekend of what I have. You can tell
-me if I missed anything. --[Ylem](User:Ylem "wikilink") 00:13, 6
+me if I missed anything. --[Ylem](User:Ylem.md "wikilink") 00:13, 6
 December 2008 (UTC)

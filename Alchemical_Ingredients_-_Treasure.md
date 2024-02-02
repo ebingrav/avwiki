@@ -1,11 +1,11 @@
-`a natural reagent that is a `**[`treasure`](:Category:_Treasure "wikilink")**
+`a natural reagent that is a `**[`treasure`](:Category:_Treasure.md "wikilink")**
 
 Confirmed Treasure:
 
 -   [golden feather
-    (Glyntaff)](Golden_Feather_(Glyntaff_Pass) "wikilink")
--   [ring of viscous magic](Ring_of_Viscous_Magic "wikilink") (from
-    [Kzinti Raid](:Category:Kzinti_Raid "wikilink"))
+    (Glyntaff)](Golden_Feather_(Glyntaff_Pass).md "wikilink")
+-   [ring of viscous magic](Ring_of_Viscous_Magic.md "wikilink") (from
+    [Kzinti Raid](:Category:Kzinti_Raid.md "wikilink"))
 -   [Rimwhale Blubber](Rimwhale_Blubber "wikilink") - ?? didn't work
     when I tried
 
@@ -24,7 +24,7 @@ Not treasures:
 -   [Glow Moth Wings](Glow_Moth_Wings "wikilink")
 -   [Impure Diamond Shield](Impure_Diamond_Shield "wikilink")
 -   [compendium of island
-    mythology](Compendium_of_Island_Mythology "wikilink")
+    mythology](Compendium_of_Island_Mythology.md "wikilink")
 
 [Category:Wise Travelers](Category:Wise_Travelers "wikilink")
 [Category:Alchemical

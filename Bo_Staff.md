@@ -9,18 +9,19 @@
 **Slot:** wielded.  
 **Quality:** 100 hps.  
 **Weight:** 5 lbs.  
-**[Flags](:Category:Object_Flags "wikilink"):**
-[invis](Invis_Flag "wikilink"), [noremove](NoRemove_Flag "wikilink")
+**[Flags](:Category:Object_Flags.md "wikilink"):**
+[invis](Invis_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**Area:** [Shogun](:Category:Shogun "wikilink")
-([Map](Shogun_Map "wikilink"))  
-**Mog(s):** [The Monk Guard](Monk_Guard_(Shogun) "wikilink"), [The ninja
-leader](Ninja_Leader "wikilink"), [The Merchant Lord
-Denbosai](Merchant_Lord_Denbosai "wikilink")
+**Area:** [Shogun](:Category:Shogun.md "wikilink")
+([Map](Shogun_Map.md "wikilink"))  
+**Mog(s):** [The Monk Guard](Monk_Guard_(Shogun).md "wikilink"), [The
+ninja leader](Ninja_Leader.md "wikilink"), [The Merchant Lord
+Denbosai](Merchant_Lord_Denbosai.md "wikilink")
 
 [Category:Gear In Shogun](Category:Gear_In_Shogun "wikilink")
 [Category:Double Weapons](Category:Double_Weapons "wikilink") [Category:

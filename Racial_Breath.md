@@ -1,7 +1,7 @@
-*This is a breath attack that [Dragons](Dragons "wikilink") may use. It
-can only be used once before having to rest. Typing 'racial breath' with
-no target attacks a [mob](:Category:_Mobs "wikilink") you are already in
-combat with.*
+*This is a breath attack that [Dragons](Dragons.md "wikilink") may use.
+It can only be used once before having to rest. Typing 'racial breath'
+with no target attacks a [mob](:Category:_Mobs.md "wikilink") you are
+already in combat with.*
 
 *Typing 'racial breath all' will try to attack all enemies in the room
 with the breath attack. However, this requires a high level of breath

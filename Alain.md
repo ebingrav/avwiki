@@ -6,9 +6,9 @@ particularly successful hunter, but he knows a thing or two about the
 subject.*
 
 **Keywords:** alain, hunter  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Scavenger.  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Scavenger.  
 **Affects:** ??.  
 
 ## Comments
@@ -18,8 +18,9 @@ Spawns [Jon](Jon "wikilink") when killed.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Deepways
-](:Category:_Deepways "wikilink") ([Map](Deepways_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Deepways
+](:Category:_Deepways.md "wikilink")
+([Map](Deepways_Map.md "wikilink")).  
 
 [Category: Mobs In Deepways](Category:_Mobs_In_Deepways "wikilink")
 [Category: Shopkeepers](Category:_Shopkeepers "wikilink")

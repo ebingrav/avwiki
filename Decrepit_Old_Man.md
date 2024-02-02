@@ -9,17 +9,17 @@ spell Veyah's sorcerer cast on the rest of them.*
 **Keywords:** Man, Guard.  
 **Scan Description:** Shuffling steps and downcast eyes make the soul of
 this guardian dim.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** Neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** Neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `MobName is using:`  
-<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd "wikilink")
+<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd.md "wikilink")
 
 `MobName is carrying:`  
 `     Nothing.`
@@ -28,10 +28,10 @@ this guardian dim.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-MobName [wanders](Wandering_Mobs "wikilink").
+MobName [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")

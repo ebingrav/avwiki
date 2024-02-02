@@ -8,10 +8,10 @@
 `control the scales, only to slip into madness at their hubris.`  
 `Will you be next?`
 
-**[Commune Bonus](Commune "wikilink"):** hp regeneration +10%, mana
+**[Commune Bonus](Commune.md "wikilink"):** hp regeneration +10%, mana
 regeneration +10% or hp +10%, mana +10%
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Openness](Aspect_-_Openness "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Openness](Aspect_-_Openness.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

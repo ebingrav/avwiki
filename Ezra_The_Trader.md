@@ -4,12 +4,12 @@ experienced in what he does, and with a twinkle in his eye, you can be
 sure he doesn't take life too seriously.*
 
 **Keywords:** Ezra, gnome, Trader.  
-**[Level](Level "wikilink"):** 13.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 13.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -26,14 +26,15 @@ sure he doesn't take life too seriously.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Village of
-Gnimh](:Category:_Village_Of_Gnimh "wikilink")
-([Map](Village_Of_Gnimh_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Ezra's Trading Post
+**[Area](:Category:_Areas.md "wikilink"):** [Village of
+Gnimh](:Category:_Village_Of_Gnimh.md "wikilink")
+([Map](Village_Of_Gnimh_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Ezra's Trading Post
 (portable).  
-Walking route from [Nom](Nom "wikilink"): 9n, \[n\], w, 12n, 2w, 3s,
+Walking route from [Nom](Nom.md "wikilink"): 9n, \[n\], w, 12n, 2w, 3s,
 3w.  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 2w, 3s, 3w.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 2w, 3s,
+3w.  
 Ezra the Trader is portable.  
 
 [Category: Mobs In Village Of

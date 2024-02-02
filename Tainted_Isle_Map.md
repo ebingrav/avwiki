@@ -1,9 +1,9 @@
 `Map is very big, click repeatedly to enlarge.`
 
 <figure>
-<img src="tainted.isle.jpg" title="tainted.isle.jpg" width="650"
-alt="tainted.isle.jpg" />
-<figcaption aria-hidden="true">tainted.isle.jpg</figcaption>
+<img src="tainted.isle.jpg.md" title="tainted.isle.jpg.md" width="650"
+alt="tainted.isle.jpg.md" />
+<figcaption aria-hidden="true">tainted.isle.jpg.md</figcaption>
 </figure>
 
 [Sea Of Strayed Hopes Map](Sea_Of_Strayed_Hopes_Map "wikilink")  

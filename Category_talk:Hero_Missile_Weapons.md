@@ -28,7 +28,7 @@ you could tighten/loosen until you brill restrung the bow as many times
 as you wanted. The fix was to have the chance for something to go wrong
 or snap the bow occur at any draw strength level. Though i'm not sure on
 the snap though since I can't remember the last time i snapped a
-bow.--[Kerd](User:Kerd "wikilink") ([talk](User_talk:Kerd "wikilink"))
-16:48, 22 September 2016 (EDT)
+bow.--[Kerd](User:Kerd.md "wikilink")
+([talk](User_talk:Kerd.md "wikilink")) 16:48, 22 September 2016 (EDT)
 
 ------------------------------------------------------------------------

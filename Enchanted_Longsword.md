@@ -7,8 +7,8 @@ Weight:7
 Level:9-12  
 Damage:4-8 to 15-19
 
-Area: [Town of Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
+Area: [Town of Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
 Mob:Townguard
 
 [Category: Gear In Town Of

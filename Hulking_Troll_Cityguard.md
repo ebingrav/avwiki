@@ -4,19 +4,19 @@ citizenry. He marches from streetcorner to streetcorner, looking for
 potential troublemakers.*
 
 **Keywords:** hulking, troll, cityguard.  
-**[Level](Level "wikilink"):** 111.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** lawful, townguard.  
+**[Level](Level.md "wikilink"):** 111.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** lawful, townguard.  
 **Affects:** detect hidden, detect invis, infravision, bless,
 sanctuary.  
 
 ## Gear
 
 `A hulking troll cityguard is using:`  
-<worn on body>`      [Pristine  ] `[`a`` ``spiked`` ``leather`` ``vest`](Spiked_Leather_Vest "wikilink")  
+<worn on body>`      [Pristine  ] `[`a`` ``spiked`` ``leather`` ``vest`](Spiked_Leather_Vest.md "wikilink")  
 <worn about body>`   [Pristine  ] (Glowing) `[`Mistress`` ``Machadae's`` ``War`` ``Banner`](Mistress_Machadae's_War_Banner "wikilink")  
-<worn about waist>`  [Pristine  ] `[`a`` ``stone`` ``plated`` ``skirt`](Stone_Plated_Skirt "wikilink")  
-<wielded>`           [Pristine  ] `[`a`` ``stone`` ``maul`](Stone_Maul "wikilink")
+<worn about waist>`  [Pristine  ] `[`a`` ``stone`` ``plated`` ``skirt`](Stone_Plated_Skirt.md "wikilink")  
+<wielded>`           [Pristine  ] `[`a`` ``stone`` ``maul`](Stone_Maul.md "wikilink")
 
 ## Comments
 
@@ -28,10 +28,10 @@ to jail instead of obliterating you into dust. Most of the time.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Cathracharraig](:Category:_Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** roaming.  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Cathracharraig](:Category:_Cathracharraig.md "wikilink")
+([Map](Cathracharraig_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** roaming.  
 Hulking Troll Cityguard is portable.  
 
 [Category: Mobs In

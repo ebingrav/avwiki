@@ -1,19 +1,19 @@
-*This [spell](:Category:_Spells "wikilink") [protects the
-caster](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink") by
-altering their [Armor Class](Armor_Class "wikilink"). Stone Skin
-provides 40 points of [AC](Armor_Class "wikilink") change and can only
-be [cast](Cast "wikilink") on self.*
+*This [spell](:Category:_Spells.md "wikilink") [protects the
+caster](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
+by altering their [Armor Class](Armor_Class.md "wikilink"). Stone Skin
+provides 40 points of [AC](Armor_Class.md "wikilink") change and can
+only be [cast](Cast.md "wikilink") on self.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'stone skin'.
+Syntax: [cast](Cast.md "wikilink") 'stone skin'.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Foci](Foci "wikilink"). Its [AC](Armor_Class "wikilink") bonus may be
-modified by its [caster](Cast "wikilink")'s choice of
-[worship](Worship "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Foci](Foci.md "wikilink"). Its [AC](Armor_Class.md "wikilink") bonus
+may be modified by its [caster](Cast.md "wikilink")'s choice of
+[worship](Worship.md "wikilink").
 
-See also [Stone Skin Gear](:Category:_Stone_Skin_Gear "wikilink").
+See also [Stone Skin Gear](:Category:_Stone_Skin_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

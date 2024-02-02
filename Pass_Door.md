@@ -1,20 +1,20 @@
-*This [spell](:Category:_Spells "wikilink") enables the caster to pass
-through most closed [doors](:Category:_Doors "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") enables the caster to
+pass through most closed [doors](:Category:_Doors.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'pass door'.
+Syntax: [cast](Cast.md "wikilink") 'pass door'.
 
-This [spell](:Category:_Spells "wikilink") is rather useful to all
-[characters](:Category:_Characters "wikilink"). It is superfluous to
-[characters](:Category:_Characters "wikilink") affected by [Ectoplasmic
-Form](Ectoplasmic_Form "wikilink"). See [Translucent
-Flag](Translucent_Flag "wikilink") for more information about its
+This [spell](:Category:_Spells.md "wikilink") is rather useful to all
+[characters](:Category:_Characters.md "wikilink"). It is superfluous to
+[characters](:Category:_Characters.md "wikilink") affected by
+[Ectoplasmic Form](Ectoplasmic_Form.md "wikilink"). See [Translucent
+Flag](Translucent_Flag.md "wikilink") for more information about its
 effects.
 
 See also [Gear That Applies Pass
-Door](:Category:_Gear_That_Applies_Pass_Door "wikilink") and [Pass Door
-Gear](:Category:_Pass_Door_Gear "wikilink").
+Door](:Category:_Gear_That_Applies_Pass_Door.md "wikilink") and [Pass
+Door Gear](:Category:_Pass_Door_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

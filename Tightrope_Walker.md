@@ -2,25 +2,26 @@
 that, would you?*
 
 **Keywords:** tightrope, walker.  
-**[Level](Level "wikilink"):** 4.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 4.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `A tightrope walker is using:`  
-<held>`              (Glowing) `[`tightrope`` ``walker's`` ``pole`](Tightrope_Walker's_Pole "wikilink")
+<held>`              (Glowing) `[`tightrope`` ``walker's`` ``pole`](Tightrope_Walker's_Pole.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Circus](:Category:_Circus "wikilink") ([Map](Circus_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** On the High Wire
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Circus](:Category:_Circus.md "wikilink")
+([Map](Circus_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** On the High Wire
 (portable).  
 Walking route from [Nom](Nom "wikilink"): n, 8w, 2n, w, 6s, \[s\], 2s,
 u, 2w.

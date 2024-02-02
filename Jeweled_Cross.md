@@ -1,14 +1,15 @@
 *An old cross waits to be taken up by devoted hands.*
 
-` Has seven (7) charges at level 47 '`[`protection`` ``evil`](Protection_Evil "wikilink")`'.`
+` Has seven (7) charges at level 47 '`[`protection`` ``evil`](Protection_Evil.md "wikilink")`'.`
 
 **Keyword(s):**old, jeweled, cross.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Slot(s)](Object_Slots "wikilink"):** held.  
-**[Quality](Object_Quality "wikilink"):** 60 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[good](Good_Flag "wikilink"), [anti-evil](Anti-Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Slot(s)](Object_Slots.md "wikilink"):** held.  
+**[Quality](Object_Quality.md "wikilink"):** 60 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[good](Good_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink").  
 
 ## Comments
 
@@ -17,8 +18,8 @@ This item is received when you give [Horinos](Horinos "wikilink") a
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sir Michael's
-Stronghold](:Category:_Sir_Michael's_Stronghold "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Sir Michael's
+Stronghold](:Category:_Sir_Michael's_Stronghold.md "wikilink")  
 See [Horinos](Horinos "wikilink") for more information.  
 
 [Category: Gear In Sir Michael's

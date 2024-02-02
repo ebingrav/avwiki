@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Ruinedlair5.GIF" title="Ruinedlair5.GIF" width="650"
-alt="Ruinedlair5.GIF" />
-<figcaption aria-hidden="true">Ruinedlair5.GIF</figcaption>
+<img src="Ruinedlair5.GIF.md" title="Ruinedlair5.GIF.md" width="650"
+alt="Ruinedlair5.GIF.md" />
+<figcaption aria-hidden="true">Ruinedlair5.GIF.md</figcaption>
 </figure>
 
 [Defender's Graveyard Map](Defender's_Graveyard_Map "wikilink")  

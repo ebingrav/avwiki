@@ -1,27 +1,27 @@
-*This [spell](:Category:_Spells "wikilink") enables the caster to detect
-[magical](Magic_Flag "wikilink")
-[objects](:Category:_Objects "wikilink"). Occasionally, powerful
-[Wizards](:Category:_Wizards "wikilink") will create
-[magical](Magic_Flag "wikilink") [runes or symbols](Markings "wikilink")
-which can only be seen by those who are affected by this
-[spell](:Category:_Spells "wikilink"). These
-[symbols](Markings "wikilink") are often used to guide initiates toward
-Guilds and other arcane places without tipping off the un-initiated
-herd.*
+*This [spell](:Category:_Spells.md "wikilink") enables the caster to
+detect [magical](Magic_Flag.md "wikilink")
+[objects](:Category:_Objects.md "wikilink"). Occasionally, powerful
+[Wizards](:Category:_Wizards.md "wikilink") will create
+[magical](Magic_Flag.md "wikilink") [runes or
+symbols](Markings.md "wikilink") which can only be seen by those who are
+affected by this [spell](:Category:_Spells.md "wikilink"). These
+[symbols](Markings.md "wikilink") are often used to guide initiates
+toward Guilds and other arcane places without tipping off the
+un-initiated herd.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'detect magic'.
+Syntax: [cast](Cast.md "wikilink") 'detect magic'.
 
-This [spell](:Category:_Spells "wikilink")'s main use is to aid
-[mages](:Category:_Mages "wikilink") in finding [their
-guildmaster](Guildmaster_(mage) "wikilink") in
-[Midgaard](:Category:_Midgaard "wikilink"). It is included in [Holy
-Sight](Holy_Sight "wikilink").
+This [spell](:Category:_Spells.md "wikilink")'s main use is to aid
+[mages](:Category:_Mages.md "wikilink") in finding [their
+guildmaster](Guildmaster_(mage).md "wikilink") in
+[Midgaard](:Category:_Midgaard.md "wikilink"). It is included in [Holy
+Sight](Holy_Sight.md "wikilink").
 
 See also [Gear That Applies Detect
-Magic](:Category:_Gear_That_Applies_Detect_Magic "wikilink") and [Detect
-Magic Gear](:Category:_Detect_Magic_Gear "wikilink").
+Magic](:Category:_Gear_That_Applies_Detect_Magic.md "wikilink") and
+[Detect Magic Gear](:Category:_Detect_Magic_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

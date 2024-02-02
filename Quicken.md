@@ -1,16 +1,18 @@
-*QUICKEN is a toggle [command](:Category:_Commands "wikilink") which,
-when turned on, decreases your [spell](:Category:_Spells "wikilink")
-lag. You will be able to [cast](Cast "wikilink") more
-[spells](:Category:_Spells "wikilink") per [round](Rounds "wikilink"),
-but your [mana](Mana_Points "wikilink") cost will also increase in
-proportion to the speed at which you set quicken.*
+*QUICKEN is a toggle [command](:Category:_Commands.md "wikilink") which,
+when turned on, decreases your [spell](:Category:_Spells.md "wikilink")
+lag. You will be able to [cast](Cast.md "wikilink") more
+[spells](:Category:_Spells.md "wikilink") per
+[round](Rounds.md "wikilink"), but your
+[mana](Mana_Points.md "wikilink") cost will also increase in proportion
+to the speed at which you set quicken.*
 
-Prerequisite(s): [Magic Lore](Magic_Lore "wikilink").
+Prerequisite(s): [Magic Lore](Magic_Lore.md "wikilink").
 
 Syntax: quicken on.  
 Syntax: quicken off.  
 Syntax: quicken <speed:1-9>.  
-See also [Augment](Augment "wikilink") and [Surge](Surge "wikilink").
+See also [Augment](Augment.md "wikilink") and
+[Surge](Surge.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

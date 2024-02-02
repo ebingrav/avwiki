@@ -9,14 +9,14 @@ at times.
 <!-- -->
 
 -   From Shen, go d, 3n, w, 2n, 2e, 7n, {d} to get to the [Ice
-    Nagas](Ice_Naga "wikilink") (Ice nagas are also portable, but
+    Nagas](Ice_Naga.md "wikilink") (Ice nagas are also portable, but
     aggie).
 
 <!-- -->
 
 -   Kill Nagas until you get the [ice
-    seed](Ice_Seed_(Ice_Naga) "wikilink"). There are a bunch of nagas,
-    but only one of them carries the seed.
+    seed](Ice_Seed_(Ice_Naga).md "wikilink"). There are a bunch of
+    nagas, but only one of them carries the seed.
 
 <!-- -->
 
@@ -26,8 +26,8 @@ at times.
 
 <!-- -->
 
--   Give the [ice seed](Ice_Seed_(Ice_Naga) "wikilink") you got from the
-    Ice Naga to Grandmother Ent and she'll prepare it for
+-   Give the [ice seed](Ice_Seed_(Ice_Naga).md "wikilink") you got from
+    the Ice Naga to Grandmother Ent and she'll prepare it for
     [Greigon](Greigon "wikilink").
 
 <!-- -->

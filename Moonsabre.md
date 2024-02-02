@@ -1,18 +1,19 @@
 *Formed in the shape of a crescent moon, this sabre emits an eerie
 light.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 9 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 9 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 9 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 9 continuous.`
 
 **Keyword(s):** crescent, moonsabre, sabre.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
@@ -21,8 +22,8 @@ a [Moonlight Arc](Moonlight_Arc "wikilink").
 
 ## Directions
 
-Area: [Idolatry Of Lloth](:Category:_Idolatry_Of_Lloth "wikilink")
-([Map](Idolatry_Of_Lloth_Map "wikilink"))  
+Area: [Idolatry Of Lloth](:Category:_Idolatry_Of_Lloth.md "wikilink")
+([Map](Idolatry_Of_Lloth_Map.md "wikilink"))  
 Mob: [Lloth-ra Knight](Lloth-ra_Knight "wikilink")  
 See individual mob pages linked above for more information.
 

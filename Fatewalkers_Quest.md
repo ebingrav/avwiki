@@ -1,6 +1,6 @@
 pp [Ulrich](Ulrich "wikilink"), go n, w, 6n, 3e, 2s, 3e, 3s. This will
 take to you a room in [Cavern Of The
-Fates](:Category:Cavern_Of_The_Fates "wikilink") titled "A Strange
+Fates](:Category:Cavern_Of_The_Fates.md "wikilink") titled "A Strange
 Rock", which is west of the gypsy's wagon. This will be your base of
 operations as you attempt to get the Fatewalkers. You need to go deeper
 into the cavern and kill the 3 fates (all three are L75 and cast).

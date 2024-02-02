@@ -4,7 +4,7 @@ pun. Begin by looking for anything out of the ordinary on the island,
 possibly in the town square. Mysterious ancient Temple of Gorn, active
 volcano, and foreign invasion force aside, there is a locked storefront
 on the west end of the square. If we try to gain access, we'll find it's
-been boarded up, so we'd better [pull](Pull "wikilink") those aside
+been boarded up, so we'd better [pull](Pull.md "wikilink") those aside
 first.
 
 Gaze in horror at two maimed bodies on the floor. One is the skeletal
@@ -12,8 +12,8 @@ remains of a human, the other the leathery husk of some terrible
 creature. [Get](Get "wikilink") any evidence you can from the room and
 present it to [Namure](Namure "wikilink"). She doesn't want the secret
 of Gorn's Anchor getting out, so she'll give us a
-[topaz](Small_Topaz "wikilink") worth 4,000 gold to shut us up. Clearly,
-she doesn't know us very well.
+[topaz](Small_Topaz.md "wikilink") worth 4,000 gold to shut us up.
+Clearly, she doesn't know us very well.
 
 *You give an iadh bone to Namure, the Hand of Gorn. Namure winces as you
 hand her the bone. "I'm not sure how you found this," she says, looking

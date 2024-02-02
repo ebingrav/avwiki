@@ -1,7 +1,7 @@
 <figure>
-<img src="foldedschematics.jpg" title="foldedschematics.jpg" width="800"
-alt="foldedschematics.jpg" />
-<figcaption aria-hidden="true">foldedschematics.jpg</figcaption>
+<img src="foldedschematics.jpg.md" title="foldedschematics.jpg.md"
+width="800" alt="foldedschematics.jpg.md" />
+<figcaption aria-hidden="true">foldedschematics.jpg.md</figcaption>
 </figure>
 
 ## Comments
@@ -18,10 +18,10 @@ alt="foldedschematics.jpg" />
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Pariah's
-Paradise](:Category:Pariah's_Paradise "wikilink")
-([Map](Pariah's_Paradise_Map "wikilink"))  
-**[Mob](:Category:_Mobs "wikilink"):** ?
+**[Area](:Category:_Areas.md "wikilink"):** [Pariah's
+Paradise](:Category:Pariah's_Paradise.md "wikilink")
+([Map](Pariah's_Paradise_Map.md "wikilink"))  
+**[Mob](:Category:_Mobs.md "wikilink"):** ?
 
 [Category:Gear In Pariah's
 Paradise‎](Category:Gear_In_Pariah's_Paradise‎ "wikilink")

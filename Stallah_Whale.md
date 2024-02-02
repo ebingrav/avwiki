@@ -2,11 +2,11 @@
 whale blasts air out of its blowhole as it breaks the oceans surface.*
 
 **Keywords:** Stallah, Whale.  
-**[Level](Level "wikilink"):** 26.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 26.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -20,10 +20,10 @@ whale blasts air out of its blowhole as it breaks the oceans surface.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Sea of Strayed
-Hopes](:Category:_Sea_Of_Strayed_Hopes "wikilink")
-([Map](Sea_Of_Strayed_Hopes_Map "wikilink")).  
-Stallah Whale [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Sea of Strayed
+Hopes](:Category:_Sea_Of_Strayed_Hopes.md "wikilink")
+([Map](Sea_Of_Strayed_Hopes_Map.md "wikilink")).  
+Stallah Whale [wanders](Wandering_Mobs.md "wikilink").  
 Stallah Whale is portable.  
 
 [Category: Mobs In Sea Of Strayed

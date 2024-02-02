@@ -1,30 +1,31 @@
-*This [spell](:Category:_Spells "wikilink") removes a
-[curse](Curse "wikilink") from a
-[character](:Category:_Characters "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") removes a
+[curse](Curse.md "wikilink") from a
+[character](:Category:_Characters.md "wikilink").*
 
-Prerequisite(s): [Curse](Curse "wikilink").
+Prerequisite(s): [Curse](Curse.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'remove curse'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'remove curse'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rather valuable for all
-[characters](:Category:_Characters "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is rather valuable for all
+[characters](:Category:_Characters.md "wikilink").
 
-See also [Remove Curse Gear](:Category:_Remove_Curse_Gear "wikilink").
+See also [Remove Curse
+Gear](:Category:_Remove_Curse_Gear.md "wikilink").
 
-See also [NoDrop Flag](NoDrop_Flag "wikilink") and [NoRemove
-Flag](NoRemove_Flag "wikilink").
+See also [NoDrop Flag](NoDrop_Flag.md "wikilink") and [NoRemove
+Flag](NoRemove_Flag.md "wikilink").
 
 Note that for in-class users like
-[Clerics](:Category:Clerics "wikilink") remove curse always seems to
+[Clerics](:Category:Clerics.md "wikilink") remove curse always seems to
 work. Characters who learn this spell out-of-class may find that they
 have to cast multiple times before it removes the
-[nodrop](NoDrop_Flag "wikilink")/[noremove](NoRemove_Flag "wikilink")
+[nodrop](NoDrop_Flag.md "wikilink")/[noremove](NoRemove_Flag.md "wikilink")
 flags from gear in their inventory. If you're having problems making the
 spell work, remove all of your gear, as your gear lowers your [saving
-throw](Saving_Throw "wikilink"). This trick is especially handy if
+throw](Saving_Throw.md "wikilink"). This trick is especially handy if
 you're utilizing [Remove Curse
-Gear](:Category:_Remove_Curse_Gear "wikilink").
+Gear](:Category:_Remove_Curse_Gear.md "wikilink").
 
 ## Comments
 

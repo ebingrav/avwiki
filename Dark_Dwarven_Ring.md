@@ -3,14 +3,14 @@
 Base(s): 11-12  
 Level(s): 50  
 Weight: 1  
-Area: [The Great Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink"))  
-Mob: [Grantus](Grantus,_Dwarven_Military_Strategist "wikilink")  
+Area: [The Great Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink"))  
+Mob: [Grantus](Grantus,_Dwarven_Military_Strategist.md "wikilink")  
 Port [Wartha](Wartha "wikilink") *(Aggie)*, track Grantus. Grantus is in
 the north-westish part of the area. [Arcanthra the
-Black](Arcanthra_The_Black "wikilink") and [Grantus, dwarven military
-strategist](Grantus,_Dwarven_Military_Strategist "wikilink") are in the
-same room so be ready.
+Black](Arcanthra_The_Black.md "wikilink") and [Grantus, dwarven military
+strategist](Grantus,_Dwarven_Military_Strategist.md "wikilink") are in
+the same room so be ready.
 
 '''Warning: This area is full of aggie mobs; beware.
 

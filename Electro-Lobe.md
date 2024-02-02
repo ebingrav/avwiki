@@ -1,15 +1,15 @@
 *A disembodied brain is here, still sizzling with electricity...*
 
-`Level 52 spells of: '`[`cell`` ``adjustment`](Cell_Adjustment "wikilink")`', '`[`heal`](Heal "wikilink")`', '`[`cure`` ``blindness`](Cure_Blindness "wikilink")`'.`
+`Level 52 spells of: '`[`cell`` ``adjustment`](Cell_Adjustment.md "wikilink")`', '`[`heal`](Heal.md "wikilink")`', '`[`cure`` ``blindness`](Cure_Blindness.md "wikilink")`'.`
 
 **Keyword(s):** electrolobe electro-lobe brain.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Pill](:Category:Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Pill](:Category:Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow magic.  
 
 ## Comments
 
@@ -18,8 +18,8 @@ electrolobe](A_crackling_electrolobe "wikilink").
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):**
-[Rim](:Category:Rim "wikilink")  
+**[Area](:Category:Areas.md "wikilink"):**
+[Rim](:Category:Rim.md "wikilink")  
 
 [Category:Gear In Rim](Category:Gear_In_Rim "wikilink") [Category: Skin
 Items](Category:_Skin_Items "wikilink") [Category: Hero

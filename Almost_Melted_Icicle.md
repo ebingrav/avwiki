@@ -6,25 +6,25 @@ state must be the result of something else.*
 
 **Keyword(s):** broom  
 **Slot:** held  
-**[Type](:Category:_Object_Types "wikilink"):**
-[wands](:Category:_Wands "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 2 lbs  
-**[Level(s)](Object_Level "wikilink"):** 39  
-**[Quality](Object_Quality "wikilink"):** 20 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[wands](:Category:_Wands.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 39  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps  
 
 ## Comments
 
 See also [Suggested Attack
-Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties "wikilink")
+Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties.md "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Arcana
-Excelsis](:Category:_Arcana_Excelsis "wikilink")
-([Map](Arcana_Excelsis_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** none  
+**[Area](:Category:_Areas.md "wikilink"):** [Arcana
+Excelsis](:Category:_Arcana_Excelsis.md "wikilink")
+([Map](Arcana_Excelsis_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** none  
 
 [Category: Gear In Arcana
 Excelsis](Category:_Gear_In_Arcana_Excelsis "wikilink") [Category:

@@ -1,5 +1,5 @@
-Each portion of [this area](:Category:_Secrets "wikilink") has its own
-[map](:Category:_Maps "wikilink"), as follows:
+Each portion of [this area](:Category:_Secrets.md "wikilink") has its
+own [map](:Category:_Maps.md "wikilink"), as follows:
 
 -   [Black Circle Initiate Guild
     Map](Black_Circle_Initiate_Guild_Map "wikilink").  

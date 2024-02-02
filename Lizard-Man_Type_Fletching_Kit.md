@@ -2,25 +2,26 @@
 ground.*
 
 **Keyword(s):** fletching, kit, box.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moss
-Village](:Category:_Moss_Village "wikilink")
-([Map](Moss_Village_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [BlackThorn, the Weapons
-Maker](BlackThorn,_The_Weapons_Maker "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Moss
+Village](:Category:_Moss_Village.md "wikilink")
+([Map](Moss_Village_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [BlackThorn, the Weapons
+Maker](BlackThorn,_The_Weapons_Maker.md "wikilink").  
 See [BlackThorn, the Weapons
-Maker](BlackThorn,_The_Weapons_Maker "wikilink") for more information.
+Maker](BlackThorn,_The_Weapons_Maker.md "wikilink") for more
+information.
 
 [Category: Gear In Moss
 Village](Category:_Gear_In_Moss_Village "wikilink") [Category:

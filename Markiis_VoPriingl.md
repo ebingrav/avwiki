@@ -11,23 +11,24 @@ tablets listing the items the group has already sent back to the Riithi
 city, deeper in the bowels of the earth.*
 
 **Keywords:** Markiis, VoPriingl, riithi, noble, banriith.  
-**[Level](Level "wikilink"):** 46.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[agggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 46.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[agggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Markiis VoPriingl is using:`  
-<worn on body>`      `[`a`` ``Riithi`` ``Scholar's`` ``robes`](Riithi_Scholar's_Robes "wikilink")  
-<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``Scholar's`` ``boots`](Pair_Of_Riithi_Scholar's_Boots "wikilink")
+<worn on body>`      `[`a`` ``Riithi`` ``Scholar's`` ``robes`](Riithi_Scholar's_Robes.md "wikilink")  
+<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``Scholar's`` ``boots`](Pair_Of_Riithi_Scholar's_Boots.md "wikilink")
 
 `Markiis VoPriingl is carrying:`  
-`    `[`a`` ``stone`` ``tablet`](Stone_Tablet "wikilink")
+`    `[`a`` ``stone`` ``tablet`](Stone_Tablet.md "wikilink")
 
 ## Comments
 
@@ -43,11 +44,11 @@ itself.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Surveyor's Base
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [The Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Surveyor's Base
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d,
 s, d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, s, e, 3n,

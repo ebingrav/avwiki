@@ -10,33 +10,33 @@ night.*
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): stand still.
+recall](Eragora_default_recall.md "wikilink"): stand still.
 
 Walking route from [The twin Sphynx
-entrance](:Category:Sphynx_Gate "wikilink"): e, s, 2e, n, 3e. Warning:
-multiple aggies along the way.
+entrance](:Category:Sphynx_Gate.md "wikilink"): e, s, 2e, n, 3e.
+Warning: multiple aggies along the way.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Lookout](Lookout "wikilink") (aggressive, hard hitting, and there are 7
 at fixed positions all over the map). Use default recall instead.
 
 ## Connections
 
--   [Arx Nivea](:Category:Arx_Nivea "wikilink")
--   [Akrikto's Farm](:Category:Akrikto's_Farm "wikilink")
--   [Exploration Outpost](:Category:Exploration_Outpost "wikilink")
--   [Healing Springs](:Category:Healing_Springs "wikilink")
--   [Moonbay Village](:Category:Moonbay_Village "wikilink")
--   [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
--   [Rapture](:Category:Rapture "wikilink")
--   [River Etuan](:Category:River_Etuan "wikilink")
--   [Rhuien Forest](:Category:Rhuien_Forest "wikilink")
--   [Sun God Altar](:Category:Sun_God_Altar "wikilink")
+-   [Arx Nivea](:Category:Arx_Nivea.md "wikilink")
+-   [Akrikto's Farm](:Category:Akrikto's_Farm.md "wikilink")
+-   [Exploration Outpost](:Category:Exploration_Outpost.md "wikilink")
+-   [Healing Springs](:Category:Healing_Springs.md "wikilink")
+-   [Moonbay Village](:Category:Moonbay_Village.md "wikilink")
+-   [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+-   [Rapture](:Category:Rapture.md "wikilink")
+-   [River Etuan](:Category:River_Etuan.md "wikilink")
+-   [Rhuien Forest](:Category:Rhuien_Forest.md "wikilink")
+-   [Sun God Altar](:Category:Sun_God_Altar.md "wikilink")
 
 Indirect connection to:
 
--   [Halfling's Paradise](:Category:Halfling's_Paradise "wikilink") - go
-    to the Sun God Altar area and move 1e.
+-   [Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink") -
+    go to the Sun God Altar area and move 1e.
 
 ## Navigation
 

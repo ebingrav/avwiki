@@ -31,25 +31,25 @@ your corpse back. Morgue is your friend.*
 
 **Builder:** Izanagi
 
-This [area](:Category:_Areas "wikilink") was added on 8th of September
-2012.
+This [area](:Category:_Areas.md "wikilink") was added on 8th of
+September 2012.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3w, 5n, d, 3n, w,
-n, w, 3n, u, 2n, e, 3n, w, n, w, 12n, 5w, 8n, 2w, 2n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3w, 5n, d, 3n,
+w, n, w, 3n, u, 2n, e, 3n, w, n, w, 12n, 5w, 8n, 2w, 2n.
 
-Walking route from [Big Fish](Big_Fish_In_Cold_Water "wikilink"): n,
+Walking route from [Big Fish](Big_Fish_In_Cold_Water.md "wikilink"): n,
 5w,8n, 2w, 2n.
 
-[Portaling](Portal "wikilink") point(s) suggested: Selkie, then locate
-entrance to the north, west of [Alpha
-Thule](:Category:Alpha_Thule "wikilink") entrance.
+[Portaling](Portal.md "wikilink") point(s) suggested: Selkie, then
+locate entrance to the north, west of [Alpha
+Thule](:Category:Alpha_Thule.md "wikilink") entrance.
 
 ## Connections
 
--   [Lake Of Tears](:Category:_Lake_Of_Tears "wikilink")
-    ([map](Lake_Of_Tears_Map "wikilink"))
+-   [Lake Of Tears](:Category:_Lake_Of_Tears.md "wikilink")
+    ([map](Lake_Of_Tears_Map.md "wikilink"))
 -   Yet unimplemented area across the Pass.
 
 ## Navigation

@@ -2,20 +2,20 @@
 massive and complex that it practically requires a second operator to
 aim and fire.*
 
-`Modifies `[`constitution`](Constitution "wikilink")` by 2 continuous. `  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 22 continuous.`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 2 continuous. `  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 22 continuous.`  
 `Damage is 25 to 76.`  
 `Draw strength is ??.`
 
 **Keyword(s):** siege, ballista, contraption.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Bows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 50 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Bows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 50 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
@@ -24,10 +24,10 @@ this.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Cathracharraig](:Category:Cathracharraig "wikilink")
-([map](Cathracharraig_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [A siege
+**[Area](:Category:_Areas.md "wikilink"):**
+[Cathracharraig](:Category:Cathracharraig.md "wikilink")
+([map](Cathracharraig_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [A siege
 golem](A_siege_golem "wikilink") (portable)
 
 NOTE: DO NOT ATTACK THE GOLEM COMMANDER!! YOU WILL BECOME AN OUTLAW!!

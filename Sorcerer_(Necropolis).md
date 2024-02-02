@@ -8,11 +8,11 @@ go wherever he wished and do whatever he pleased.*
 **Keywords:** Sorcerer.  
 **Scan Description:** Masquerading as a guard, this sorcerer slips
 further into the Necropolis.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** .  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** .  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
@@ -25,22 +25,23 @@ further into the Necropolis.
 
 ## Comments
 
-This mob has [Sorcerer](:Category:Sorcerers "wikilink") abilities, so
-make sure you have something to [cure blind](Cure_Blindness "wikilink").
+This mob has [Sorcerer](:Category:Sorcerers.md "wikilink") abilities, so
+make sure you have something to [cure
+blind](Cure_Blindness.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Within An Ice
-Sculpture](Within_An_Ice_Sculpture_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Within An Ice
+Sculpture](Within_An_Ice_Sculpture_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
-|                                                               |                       |
-|---------------------------------------------------------------|-----------------------|
-| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): | 3w n 2d n w 7s 2d 2w. |
-| or:                                                           | 3w n 2d n w 7s 6w 2d. |
+|                                                                                           |
+|-------------------------------------------------------------------------------------------|
+| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): .md\| 3w n 2d n w 7s 2d 2w. |
+| or:                                                                                       |
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

@@ -6,14 +6,15 @@ serrated teeth!*
 `Modifies hp by 35 continuous`
 
 **Keyword(s):** powerful, jaws  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 50 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 50 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
@@ -26,9 +27,9 @@ Since it's a biting weapon it is not blunt (ie. not bzk weapon).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Crattenos](Crattenos "wikilink").  
 
 [Category: Gear In Rim](Category:_Gear_In_Rim "wikilink") [Category:

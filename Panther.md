@@ -2,7 +2,7 @@ Level 82, sanctuary, apathetic.
 
 Has [Carburized Steel Plate
 Armor](Carburized_Steel_Plate_Armor "wikilink"). To get to him one must
-venture into [Apocalypse](:Category:Apocalypse "wikilink"). Cast a
+venture into [Apocalypse](:Category:Apocalypse.md "wikilink"). Cast a
 [Portal](Portal "wikilink") to [Skeletal
 Guard](Skeletal_Guard "wikilink"). Panther tends to repop with more base
 12 carbs than Jackal.

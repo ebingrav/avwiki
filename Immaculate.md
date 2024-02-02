@@ -1,4 +1,4 @@
-Prerequisites: [purity](Purity "wikilink")  
+Prerequisites: [purity](Purity.md "wikilink")  
 Syntax: c immaculate
 
 Immaculate is a more powerful version of the Purity spell. The caster

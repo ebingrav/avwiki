@@ -1,11 +1,11 @@
-*Using this [skill](:Category:_Skills "wikilink"), an
-[archer](:Category:_Archers "wikilink") holds their shot one round,
+*Using this [skill](:Category:_Skills.md "wikilink"), an
+[archer](:Category:_Archers.md "wikilink") holds their shot one round,
 aiming carefully so that their shot the following
-[round](Rounds "wikilink") will be that much more damaging.*
+[round](Rounds.md "wikilink") will be that much more damaging.*
 
-Prerequisite(s): [Fleeing Shot](Fleeing_Shot "wikilink").
+Prerequisite(s): [Fleeing Shot](Fleeing_Shot.md "wikilink").
 
-Syntax: [held](Held "wikilink").
+Syntax: [held](Held.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

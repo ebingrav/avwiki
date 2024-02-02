@@ -2,18 +2,18 @@
 hard to understand by the average adventurer on the run. In fact,
 they're impossible to understand unless you know how to read it. Once
 you learn how to read magic, the biggest benefit is that you will then
-be able to [recite](Recite "wikilink")
-[scrolls](:Category:_Scrolls "wikilink").*
+be able to [recite](Recite.md "wikilink")
+[scrolls](:Category:_Scrolls.md "wikilink").*
 
-Prerequisite(s): [Magic Lore](Magic_Lore "wikilink").
+Prerequisite(s): [Magic Lore](Magic_Lore.md "wikilink").
 
 Syntax: none (automatic).
 
 Spellcasters and even non-spellcasters may find rare occasion to use
-this [skill](:Category:_Skills_And_Spells "wikilink"), but they will
+this [skill](:Category:_Skills_And_Spells.md "wikilink"), but they will
 probably find most other
-[skills](:Category:_Skills_And_Spells "wikilink") far more useful to
-[learn](Practice "wikilink") than this one.
+[skills](:Category:_Skills_And_Spells.md "wikilink") far more useful to
+[learn](Practice.md "wikilink") than this one.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

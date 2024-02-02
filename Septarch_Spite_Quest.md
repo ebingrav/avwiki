@@ -16,7 +16,7 @@ Perform the following:
 -   give notebook spite
 -   get gemstone
 -   receive ['Sept N'Tel'Sha
-    Retainer'](Sept_N'Tel'Sha_Insignia "wikilink")
+    Retainer'](Sept_N'Tel'Sha_Insignia.md "wikilink")
 
 *Note*: This quest is repeatable once per week.
 

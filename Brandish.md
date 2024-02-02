@@ -1,8 +1,8 @@
-*BRANDISH brandishes a [magical staff](:Category:Staves "wikilink"). You
-must HOLD a staff before using BRANDISH. This command uses up the staff.
-Staves have multiple charges. When a magical object has no more charges,
-it will be consumed. One must be adept with the "[arcane
-knowledge](Arcane_Knowledge "wikilink")" skill to be able to brandish
+*BRANDISH brandishes a [magical staff](:Category:Staves.md "wikilink").
+You must HOLD a staff before using BRANDISH. This command uses up the
+staff. Staves have multiple charges. When a magical object has no more
+charges, it will be consumed. One must be adept with the "[arcane
+knowledge](Arcane_Knowledge.md "wikilink")" skill to be able to brandish
 items.*
 
   

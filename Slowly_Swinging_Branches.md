@@ -6,11 +6,11 @@ comfortable feeling of being stalked by the most unlikely of attackers,
 a bunch of slowly swinging branches.*
 
 **Keywords:** swinging, branches.  
-**[Level](Level "wikilink"):** 74.  
+**[Level](Level.md "wikilink"):** 74.  
 **Scan Description:** Swinging from side to side the thick branches
 block further progress.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
 [steadfast](steadfast "wikilink").  
 **Affects:** ?.  
 
@@ -30,9 +30,9 @@ location: Tearing through a lacework of ice-covered branches
 \[Exits: north-\>closed east-\>closed south-\>closed west
 down-\>closed\]
 
-**[Area](:Category:_Areas "wikilink"):** [The Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
 
 [Category: Mobs In Transfigured
 Forest](Category:_Mobs_In_Transfigured_Forest "wikilink")

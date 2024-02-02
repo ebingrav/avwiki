@@ -1,27 +1,27 @@
-*SURGE is a toggle [command](:Category:_Commands "wikilink") which, when
-turned ON, increases the damage you can do with [combat
-spells](:Category:_Skills_And_Spells_That_Harm_Mobs "wikilink"). You may
-also set the power level (1 - 5) at which you wish to surge (i.e. the
-size of the damage modifier). However, this added energy comes at a
-price - the [mana](Mana_Points "wikilink") required to
-[cast](Cast "wikilink") your [combat
-spells](:Category:_Skills_And_Spells_That_Harm_Mobs "wikilink") will
+*SURGE is a toggle [command](:Category:_Commands.md "wikilink") which,
+when turned ON, increases the damage you can do with [combat
+spells](:Category:_Skills_And_Spells_That_Harm_Mobs.md "wikilink"). You
+may also set the power level (1 - 5) at which you wish to surge (i.e.
+the size of the damage modifier). However, this added energy comes at a
+price - the [mana](Mana_Points.md "wikilink") required to
+[cast](Cast.md "wikilink") your [combat
+spells](:Category:_Skills_And_Spells_That_Harm_Mobs.md "wikilink") will
 increase in proportion to the power level at which you set surge. The
-[maximum surge power level](Surging_Ability "wikilink") is attainable by
-[sorcerers](:Category:_Sorcerers "wikilink"),
-[wizards](:Category:_Wizards "wikilink") and
-[mages](:Category:_Mages "wikilink"). Other
-[classes](:Category:_Classes "wikilink") have a lower
-[limit](Surging_Ability "wikilink").*
+[maximum surge power level](Surging_Ability.md "wikilink") is attainable
+by [sorcerers](:Category:_Sorcerers.md "wikilink"),
+[wizards](:Category:_Wizards.md "wikilink") and
+[mages](:Category:_Mages.md "wikilink"). Other
+[classes](:Category:_Classes.md "wikilink") have a lower
+[limit](Surging_Ability.md "wikilink").*
 
-Prerequisite(s): [Magic Lore](Magic_Lore "wikilink").
+Prerequisite(s): [Magic Lore](Magic_Lore.md "wikilink").
 
 Syntax: surge on.  
 Syntax: surge off.  
 Syntax: surge <power:1-5>.  
-See also [Augment](Augment "wikilink") and
-[Quicken](Quicken "wikilink"), as well as [Surging
-Ability](Surging_Ability "wikilink").
+See also [Augment](Augment.md "wikilink") and
+[Quicken](Quicken.md "wikilink"), as well as [Surging
+Ability](Surging_Ability.md "wikilink").
 
 Note that all races and classes have the same chance at surge failure or
 success.

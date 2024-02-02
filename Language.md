@@ -1,5 +1,5 @@
 *Language is used to identify your current
-[tongue](:Category:_Languages "wikilink").*
+[tongue](:Category:_Languages.md "wikilink").*
 
 Syntax: language.
 

@@ -1,10 +1,10 @@
 *PsiSting causes damage by channeling raw psionic energy into the
 target's body.*
 
-Prerequisite(s): [Psychic Drain](Psychic_Drain "wikilink").
+Prerequisite(s): [Psychic Drain](Psychic_Drain.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'psisting'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'psisting'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

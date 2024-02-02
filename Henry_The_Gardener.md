@@ -4,9 +4,9 @@ deep sorrow and depression. He is haunted by a memory of a lost
 paradise.*
 
 **Keywords:** Henry, Gardener.  
-**[Level](Level "wikilink"):** 40.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 40.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
@@ -15,19 +15,19 @@ paradise.*
 `Nothing.`
 
 `Henry the Gardener is carrying:`  
-`     `[`a`` ``brandy`` ``bottle`](Brandy_Bottle "wikilink")
+`     `[`a`` ``brandy`` ``bottle`](Brandy_Bottle.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Graveyard](:Category:_Graveyard "wikilink")
-([Map](Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In a shed on the Graveyard
-(portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\], w, s, w, s,
-\[w\].  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Graveyard](:Category:_Graveyard.md "wikilink")
+([Map](Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In a shed on the
+Graveyard (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\], w, s, w,
+s, \[w\].  
 Henry the Gardener is portable.  
 
 [Category: Mobs In Graveyard](Category:_Mobs_In_Graveyard "wikilink")

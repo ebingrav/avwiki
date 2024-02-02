@@ -6,7 +6,7 @@ Type: long bow
 Weight: 5  
 Keywords: girtablilu longbow bow  
 Flags: no locate  
-Plane: [Karnath](:Category:Karnath "wikilink")  
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
 Area:  
 Mob: Girtablilu Archer  
 

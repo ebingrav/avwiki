@@ -1,17 +1,17 @@
 *A pair of fins, of Antharian make, are here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-11.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by 50/75/100 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-11.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by 50/75/100 continuous.`
 
 **Keyword(s):** synthetic fins pair.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink").  
 
 ## Comments
 
@@ -20,10 +20,10 @@ to the Peace Guard/High Guard/Knight, respectively.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Antharian Peace
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Antharian Peace
 Guard](Antharian_Peace_Guard "wikilink"), [High Guard Of
 Antharia](High_Guard_Of_Antharia "wikilink"), [Antharian
 Knight](Antharian_Knight "wikilink").  

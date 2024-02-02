@@ -4,13 +4,13 @@
 <b>Weight:</b> 1  
 <b>Level:</b> 18-20  
 <b>Mob:</b> None (in a chest)  
-<b>Area:</b> [Undrehand](:Category:_Undrehand "wikilink")
-([Map](Undrehand_Map "wikilink"))  
+<b>Area:</b> [Undrehand](:Category:_Undrehand.md "wikilink")
+([Map](Undrehand_Map.md "wikilink"))  
 Kill [Undrehand](Undrehand "wikilink"), loot the key from his corpse. Go
 s, d, n, unl drawer, op drawer, get all drawer
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 [Category: Gear In Undrehand](Category:_Gear_In_Undrehand "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category: Lowmort 11-20

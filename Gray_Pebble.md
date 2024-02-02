@@ -7,7 +7,7 @@
 
 **Keywords:** gray pebble  
 **Level:** \~40  
-**Type:** [Treasure](:Category:Treasure "wikilink")  
+**Type:** [Treasure](:Category:Treasure.md "wikilink")  
 **Slot:** held  
 **Quality:** 10 hps  
 **Weight:** 10 lbs  
@@ -26,9 +26,9 @@ hidden and sneaking.
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):**
+**[Area](:Category:Areas.md "wikilink"):**
 [Cathracharraig](Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink"))  
+([Map](Cathracharraig_Map.md "wikilink"))  
 **Mob:** one of 4 stone imps
 
 [Category: Lowmort 31-40 Mana

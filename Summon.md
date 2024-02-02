@@ -1,19 +1,20 @@
-*This [spell](:Category:_Spells "wikilink") summons a
-[character](:Category:_Characters "wikilink") from almost anywhere into
-your [room](:Category:_Rooms "wikilink").
-[Characters](:Category:_Characters "wikilink") who are fighting may not
-be summoned. Be careful what you summon; it would be unwise to transport
-high-[level](Level "wikilink") [mobiles](:Category:_Mobs "wikilink")
-into low-[level](Level "wikilink") [areas](:Category:_Areas "wikilink")
-or to move a common [portal](Portal "wikilink") point.*
+*This [spell](:Category:_Spells.md "wikilink") summons a
+[character](:Category:_Characters.md "wikilink") from almost anywhere
+into your [room](:Category:_Rooms.md "wikilink").
+[Characters](:Category:_Characters.md "wikilink") who are fighting may
+not be summoned. Be careful what you summon; it would be unwise to
+transport high-[level](Level.md "wikilink")
+[mobiles](:Category:_Mobs.md "wikilink") into
+low-[level](Level.md "wikilink") [areas](:Category:_Areas.md "wikilink")
+or to move a common [portal](Portal.md "wikilink") point.*
 
 Prerequiste(s): none.
 
-Syntax: [cast](Cast "wikilink") 'summon'
-\<[character](:Category:_Characters "wikilink")/[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'summon'
+\<[character](:Category:_Characters.md "wikilink")/[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is handy on occasion but is
-not as useful as many others.
+This [spell](:Category:_Spells.md "wikilink") is handy on occasion but
+is not as useful as many others.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

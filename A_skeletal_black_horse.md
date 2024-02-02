@@ -3,11 +3,11 @@ regards you simply as another meal which will never satiate its endless
 hunger.'
 
 **Keywords:** black horse.  
-**[Level](Level "wikilink"):**  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):**  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:**  
 
 `A fearsome white horse is using:`  

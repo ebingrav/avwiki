@@ -5,19 +5,19 @@ vicious grin as you enter the room. Whatever he has planned, there will
 be blood...*
 
 **Keywords:** deacon  
-**[Level](Level "wikilink"):** 90  
-**[Alignment](Alignment "wikilink"):** saintly  
-**[Flags](:Category:_Mob_Types "wikilink"):**[steadfast](Sentinel_Mobs "wikilink"),
-[very aggressive](Aggressive_Mobs "wikilink"), priest  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink")
+**[Level](Level.md "wikilink"):** 90  
+**[Alignment](Alignment.md "wikilink"):** saintly  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**[steadfast](Sentinel_Mobs.md "wikilink"),
+[very aggressive](Aggressive_Mobs.md "wikilink"), priest  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink")
 
 `The Deacon is using:`  
-<wielded>`           [Pristine  ] `[`a`` ``jagged`` ``blade`` ``of`` ``obsidian`](Jagged_Blade_Of_Obsidian "wikilink")  
+<wielded>`           [Pristine  ] `[`a`` ``jagged`` ``blade`` ``of`` ``obsidian`](Jagged_Blade_Of_Obsidian.md "wikilink")  
   
 `The Deacon is carrying:`  
-`  `[`a`` ``beautiful`` ``handcrafted`` ``fishing`` ``rod`](Beautiful_Handcrafted_Fishing_Rod "wikilink")
+`  `[`a`` ``beautiful`` ``handcrafted`` ``fishing`` ``rod`](Beautiful_Handcrafted_Fishing_Rod.md "wikilink")
 
 ## Comments
 
@@ -36,7 +36,7 @@ to either him or his bodyguards will Auto-CR the player.
 
 ## Directions
 
-Portal to [clam girl](Clam-Digger "wikilink"), 2n, w, d. There are
+Portal to [clam girl](Clam-Digger.md "wikilink"), 2n, w, d. There are
 aggies along the way.
 
 [Category: Mobs In Halfling's

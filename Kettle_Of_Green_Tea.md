@@ -1,33 +1,34 @@
-*[Old Brort](Old_Brort "wikilink")'s own secret recipe, brewed from the
-finest green tea a close friend of his brings him picked from high on
-[Mt Durr](:Category:_Mt_Durr "wikilink").*
+*[Old Brort](Old_Brort.md "wikilink")'s own secret recipe, brewed from
+the finest green tea a close friend of his brings him picked from high
+on [Mt Durr](:Category:_Mt_Durr.md "wikilink").*
 
-`Level 20-21 spells of: '`[`water`` ``breathing`](Water_Breathing "wikilink")`' '`[`cure`` ``critical`](Cure_Critical "wikilink")`'.`
+`Level 20-21 spells of: '`[`water`` ``breathing`](Water_Breathing.md "wikilink")`' '`[`cure`` ``critical`](Cure_Critical.md "wikilink")`'.`
 
 **Keyword(s):** kettle, green, tea.  
-**[Level(s)](Object_Level "wikilink"):** 20-22.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20-22.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear_#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear_#Suggested_Healing_Gear.md "wikilink")
 and [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear_#Suggested_Buffing_Gear "wikilink").
+Gear](Suggested_Spellcasting_Gear_#Suggested_Buffing_Gear.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Old
-Brort](Old_Brort "wikilink").  
-See [Old Brort](Old_Brort "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Old
+Brort](Old_Brort.md "wikilink").  
+See [Old Brort](Old_Brort.md "wikilink") for more information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")
 [Category: Potions](Category:_Potions "wikilink") [Category: Lowmort

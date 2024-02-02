@@ -1,9 +1,9 @@
 *For centuries the proud Borley Mansion looked down over
-[Ofcol](:Category:_Ofcol "wikilink"), even when it was little more than
-a northern farming village. The Borley family was famed for their innate
-musical talent, and the farmers would often gather near the mansion
-simply to overhear the melodic sounds. It has been many decades since
-the music of the Borleys was heard. Now the mansion only produces
+[Ofcol](:Category:_Ofcol.md "wikilink"), even when it was little more
+than a northern farming village. The Borley family was famed for their
+innate musical talent, and the farmers would often gather near the
+mansion simply to overhear the melodic sounds. It has been many decades
+since the music of the Borleys was heard. Now the mansion only produces
 hideous wails and screams by the light of the moon, and the farmers that
 used to live near the Manor have fled in terror.*
 
@@ -13,15 +13,15 @@ used to live near the Manor have fled in terror.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, e, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, e, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [stone
-gargoyle](Stone_Gargoyle "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [stone
+gargoyle](Stone_Gargoyle.md "wikilink").
 
 ## Conncections
 
--   [ North Of Ofcol](:Category:_North_Of_Ofcol "wikilink")
+-   [ North Of Ofcol](:Category:_North_Of_Ofcol.md "wikilink")
 
 ## Navigation
 
@@ -39,7 +39,7 @@ Borley, Dicentra Borley, the large Tentacle mob, The Guardian,
 Cacophany, Nemo) and scattered rotting cadavers who wield and aggie. All
 the rooms are cursed, and a CR is fairly complicated. The experience is
 average at best, so the area is virtually never run, except by Zaffer.
-Connected to [North of Ofcol](:Category:_North_Of_Ofcol "wikilink")
+Connected to [North of Ofcol](:Category:_North_Of_Ofcol.md "wikilink")
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category:
 Incomplete](Category:_Incomplete "wikilink")

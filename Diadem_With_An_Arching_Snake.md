@@ -22,10 +22,10 @@ Skull](Angel's_Skull "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Serpent
-Weyr](:Category:_Serpent_Weyr "wikilink")
-([Map](Serpent_Weyr_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain
+**[Area](:Category:_Areas.md "wikilink"):** [Serpent
+Weyr](:Category:_Serpent_Weyr.md "wikilink")
+([Map](Serpent_Weyr_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain
 K'styrn](Captain_K'styrn "wikilink") (portable)  
 
 [Category:Gear In Serpent

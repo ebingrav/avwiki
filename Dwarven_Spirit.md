@@ -4,18 +4,19 @@ descendants where ever possible, but even these spirits could not stand
 the brute strength of Domi.*
 
 **Keywords:** dwarven, spirit.  
-**[Level](Level "wikilink"):** 24.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[hidden](Hide "wikilink").  
+**[Level](Level.md "wikilink"):** 24.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[hidden](Hide.md "wikilink").  
 
 ## Gear
 
 `The dwarven spirit is using:`  
-<held>`              (Humming) `[`the`` ``staff`` ``of`` ``ruling`](Staff_Of_Ruling "wikilink")
+<held>`              (Humming) `[`the`` ``staff`` ``of`` ``ruling`](Staff_Of_Ruling.md "wikilink")
 
 `The dwarven spirit is carrying:`  
 `     Nothing.`
@@ -24,11 +25,11 @@ invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Duergar
-Stronghold](:Category:Duergar_Stronghold "wikilink")
-([Map](Duergar_Stronghold_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Ancient's Vault
-([cursed](Cursed_Rooms "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):** [Duergar
+Stronghold](:Category:Duergar_Stronghold.md "wikilink")
+([Map](Duergar_Stronghold_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Ancient's Vault
+([cursed](Cursed_Rooms.md "wikilink")).
 
 Walking directions from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 3w, n,
 2u, 2w, u, 3n, 3e, 2n, 2e, 2s, \[e\], \[d\], d, e, n, 2e, n, w, 3s, e,

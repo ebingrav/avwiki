@@ -1,19 +1,19 @@
 *Through deep attention to the details of your surroundings, you can
 learn to anticipate the motions and tactics of your enemies. For the
-duration of this [Psionic](:Category:_Psionicists "wikilink")
-[spell](:Category:_Spells "wikilink"), your mind will be aware enough of
-your opponents that you will have a better chance of hitting them.
+duration of this [Psionic](:Category:_Psionicists.md "wikilink")
+[spell](:Category:_Spells.md "wikilink"), your mind will be aware enough
+of your opponents that you will have a better chance of hitting them.
 ANTICIPATE is a [BIOCENTRIC
-spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It cannot be
-[cast](Cast "wikilink") on others until the caster masters the art of
-[BIO EMPATHY](Bio_Empathy "wikilink").*
+spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It cannot
+be [cast](Cast.md "wikilink") on others until the caster masters the art
+of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'anticipate'.
+Syntax: [cast](Cast.md "wikilink") 'anticipate'.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Fortitudes](Fortitudes "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Fortitudes](Fortitudes.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

@@ -8,12 +8,13 @@ Weight: 3
 Level: 124  
 Keywords: blazing fire belt plate balteus  
 Flags: magic nolocate  
-Plane: [ Kzinti Homeworld](:Category:_Kzinti_Homeworld "wikilink")  
+Plane: [ Kzinti Homeworld](:Category:_Kzinti_Homeworld.md "wikilink")  
 Area: Inferno Peak  
 Mob: Imix?
 
-See [ Gear In Inferno Peak](:Category:_Gear_In_Inferno_Peak "wikilink")
-for more information.
+See [ Gear In Inferno
+Peak](:Category:_Gear_In_Inferno_Peak.md "wikilink") for more
+information.
 
 ## Comments
 

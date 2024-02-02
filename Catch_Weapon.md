@@ -1,12 +1,12 @@
 *If an opponent throws a
-[weapon](:Category:_Throwing_Weapons "wikilink") at you, what better way
-to counter than to catch the thing? That's exactly what this
-[skill](:Category:_Skills "wikilink") does. Some
-[weapons](:Category:_Throwing_Weapons "wikilink") are particularly easy
-to catch, and some can't be caught at all.*
+[weapon](:Category:_Throwing_Weapons.md "wikilink") at you, what better
+way to counter than to catch the thing? That's exactly what this
+[skill](:Category:_Skills.md "wikilink") does. Some
+[weapons](:Category:_Throwing_Weapons.md "wikilink") are particularly
+easy to catch, and some can't be caught at all.*
 
-Prerequisite(s): [Dodge](Dodge "wikilink"), [Weapon
-Lore](Weapon_Lore "wikilink").
+Prerequisite(s): [Dodge](Dodge.md "wikilink"), [Weapon
+Lore](Weapon_Lore.md "wikilink").
 
 Syntax: none (automatic).
 

@@ -1,5 +1,5 @@
 There are two mobs with this name in
-[Necropolis](:Category:Necropolis "wikilink"). In no specific order:
+[Necropolis](:Category:Necropolis.md "wikilink"). In no specific order:
 
 ## First Sorcerer
 
@@ -13,12 +13,12 @@ to kill her, either way.*
 **Keywords:** Sorcerer.  
 **Scan Description:** This sorcerer spends her existence trying to rid
 the world of Lloth.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Spellcaster](Spellcasting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Spellcaster](Spellcasting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -31,12 +31,12 @@ the world of Lloth.
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Ice, Ice,
-Everywhere](Ice,_Ice,_Everywhere_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Ice, Ice,
+Everywhere](Ice,_Ice,_Everywhere_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 2d 2n.
@@ -53,12 +53,12 @@ shuddering with the strength magic demands.*
 **Keywords:** Sorcerer.  
 **Scan Description:** This sorcerer tries his best to counter the spread
 of the driders.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Spellcaster](Spellcasting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Spellcaster](Spellcasting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -71,23 +71,24 @@ of the driders.
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Awash In
-Ice](Awash_In_Ice_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Awash In
+Ice](Awash_In_Ice_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
-|                                                               |                            |
-|---------------------------------------------------------------|----------------------------|
-| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): | 3w n 2d n w 7s 2d 2n 2w.   |
-| or:                                                           | 3w n 2d n w 7s 2d 2w 2n.   |
-| ór:                                                           | 3w n 2d n w s 6w 6s 2d 2n. |
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| Walking route from [Mourning Drow](Mourning_Drow "wikilink"): .md\| 3w n 2d n w 7s 2d 2n 2w. |
+| or:                                                                                          |
+| ór:                                                                                          |
 
 ## Comments
 
 These mobs have [Sorcerer](:Category:Sorcerers "wikilink") abilities, so
-make sure you have something to [cure blind](Cure_Blindness "wikilink").
+make sure you have something to [cure
+blind](Cure_Blindness.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

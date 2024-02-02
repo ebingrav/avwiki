@@ -1,19 +1,19 @@
-`'`[`detect`` ``invis`](Detect_Invis "wikilink")`   ' continuous.`  
-`'`[`detect`` ``hidden`](Detect_Hidden "wikilink")`  ' continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 4 continuous.`
+`'`[`detect`` ``invis`](Detect_Invis.md "wikilink")`   ' continuous.`  
+`'`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")`  ' continuous.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 4 continuous.`
 
 Slot: head  
 Level: 32  
 Base: 7  
 Weight: 2  
 Flags: none  
-Area: [Paradise Point](:Category:_Paradise_Point "wikilink")
-([Map](Paradise_Point_Map "wikilink"))  
+Area: [Paradise Point](:Category:_Paradise_Point.md "wikilink")
+([Map](Paradise_Point_Map.md "wikilink"))  
 Mob: [Older Half-Elven Ranger](Older_Half-Elven_Ranger "wikilink")  
   
 Port to [Chief Hunter](Chief_Hunter "wikilink") and go wss. See also
 [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 [Category: Gear In Paradise
 Point](Category:_Gear_In_Paradise_Point "wikilink") [Category:

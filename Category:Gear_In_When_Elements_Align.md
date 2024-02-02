@@ -1,18 +1,18 @@
-First make your way to [Nothing](:Category:Nothing "wikilink"). You can
-do this from [Water](:Category:Water "wikilink") (2n e u),
-[Stone](:Category:World_Of_Stone "wikilink") (n 4w), or
-[Air](:Category:Airscape "wikilink") (3e). See
-[Nothing](:Category:Nothing "wikilink") for more information about that
-area. [Nothing](:Category:Nothing "wikilink") is a big det maze whose
-exits change every repop.("oh goodie").
+First make your way to [Nothing](:Category:Nothing.md "wikilink"). You
+can do this from [Water](:Category:Water.md "wikilink") (2n e u),
+[Stone](:Category:World_Of_Stone.md "wikilink") (n 4w), or
+[Air](:Category:Airscape.md "wikilink") (3e). See
+[Nothing](:Category:Nothing.md "wikilink") for more information about
+that area. [Nothing](:Category:Nothing.md "wikilink") is a big det maze
+whose exits change every repop.("oh goodie").
 
-From [Nothing](:Category:Nothing "wikilink") the entrance to [When
-Elements Align](:Category:When_Elements_Align "wikilink") is an up exit.
-Have an archer scout up as you move about to find "golems, gnomes, rocks
-of some sort". It doesn't have to be a golem, it can be a lump of clay,
-It can also be an animated rock, or a gnome of some sort. Basically if
-you see anything that isn't a nihilistic cultist that's where you want
-to go.
+From [Nothing](:Category:Nothing.md "wikilink") the entrance to [When
+Elements Align](:Category:When_Elements_Align.md "wikilink") is an up
+exit. Have an archer scout up as you move about to find "golems, gnomes,
+rocks of some sort". It doesn't have to be a golem, it can be a lump of
+clay, It can also be an animated rock, or a gnome of some sort.
+Basically if you see anything that isn't a nihilistic cultist that's
+where you want to go.
 
 Enter that room to enter the quest area. The first room of the area is
 [Lloydable](Lloydable "wikilink") so feel free to use [Planar
@@ -89,7 +89,7 @@ the gear mobs are.
 Currently the gear mobs aren't too tough, but that might change in the
 future. Here's some example damage, but notice that the [Adamantite
 Golem](Adamantite_Golem "wikilink") isn't present, and he's the buffest.
-Note that the "you" is [Melanarchy](User:Mel "wikilink")  
+Note that the "you" is [Melanarchy](User:Mel.md "wikilink")  
 Steel bits's attacks strike Nayru 7 times, with obliterating intensity!
 
 `Turning aside Mithril bits's attack, you counter-strike!`  

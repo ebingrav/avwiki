@@ -1,7 +1,7 @@
 One of the very first insignias that can be gained on a fresh adventurer
 is that of [winning the Jousting
-competition](Jousting_Champion_Quest "wikilink") at the
-[Carnival](:Category:Carnival "wikilink"). The insignia will be
+competition](Jousting_Champion_Quest.md "wikilink") at the
+[Carnival](:Category:Carnival.md "wikilink"). The insignia will be
 customized to the holder - it will have the player's name on it.
 
 While purely cosmetic, unlike [Wayside Kobold Slayer

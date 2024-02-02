@@ -20,7 +20,7 @@ Spells and skills learnable by the Ripper class at Hero level.
 ` 19:              bless       dispel evil             track   adrenaline pump`  
 ` 21:      detect hidden       move hidden              scry enhanced strength`  
 ` 23:       detect invis    mental barrier`  
-` 25:     know alignment            shield      displacement            `[`pounce`](Pounce "wikilink")`*`  
+` 25:     know alignment            shield      displacement            `[`pounce`](Pounce.md "wikilink")`*`  
 ` 27:      burning hands      cure serious         earthbind   cell adjustment`  
 `            blood scent`  
 ` 29:       dispel magic        holy armor        mass invis      regeneration`  
@@ -36,7 +36,7 @@ Spells and skills learnable by the Ripper class at Hero level.
 ` 43:      cure critical   water breathing`  
 ` 45:          sanctuary              toss`  
 ` 47:      enchant armor            summon`  
-` 50:               `[`flay`](Flay "wikilink")`*`  
+` 50:               `[`flay`](Flay.md "wikilink")`*`  
 ` 51:           mass aid              mask`  
 ` 55: mass cure critical`  
 ` 57:    control weather               awe`  
@@ -47,19 +47,19 @@ Spells and skills learnable by the Ripper class at Hero level.
 ` 69:               calm        fortitudes        invigorate`  
 ` 71:          mass heal`  
 ` 73:   ectoplasmic form`  
-` 75:               `[`maul`](Maul "wikilink")`*`  
+` 75:               `[`maul`](Maul.md "wikilink")`*`  
 ` 79:              nexus              foci   mass invigorate        bloodhound`  
 ` 89:          iron skin`  
-` 97:               `[`awen`](Awen "wikilink")  
-` 99:         `[`lead`` ``posse`](Lead_Posse "wikilink")  
-`100:               `[`rend`](Rend "wikilink")`*`  
-`101:        `[`create`` ``food`](Create_Food "wikilink")`     `[`create`` ``spring`](Create_Spring "wikilink")`      `[`create`` ``water`](Create_Water "wikilink")`     `[`fourth`` ``attack`](Fourth_Attack "wikilink")  
-`        `[`fast`` ``healing`` ``ii`](Fast_Healing_II "wikilink")`     `[`meditation`` ``ii`](Meditation_II "wikilink")`       `[`blood`` ``trail`](Blood_Trail "wikilink")`  `[`improved`` ``stamina`](Improved_Stamina "wikilink")  
-`            `[`tutor`` ``other`](Tutor_Other "wikilink")`        `[`lead`` ``flock`](Lead_Flock "wikilink")  
-`150:               `[`tear`](Tear "wikilink")`*`  
-`200:           `[`specimen`](Specimen "wikilink")`*`  
+` 97:               `[`awen`](Awen.md "wikilink")  
+` 99:         `[`lead`` ``posse`](Lead_Posse.md "wikilink")  
+`100:               `[`rend`](Rend.md "wikilink")`*`  
+`101:        `[`create`` ``food`](Create_Food.md "wikilink")`     `[`create`` ``spring`](Create_Spring.md "wikilink")`      `[`create`` ``water`](Create_Water.md "wikilink")`     `[`fourth`` ``attack`](Fourth_Attack.md "wikilink")  
+`        `[`fast`` ``healing`` ``ii`](Fast_Healing_II.md "wikilink")`     `[`meditation`` ``ii`](Meditation_II.md "wikilink")`       `[`blood`` ``trail`](Blood_Trail.md "wikilink")`  `[`improved`` ``stamina`](Improved_Stamina.md "wikilink")  
+`            `[`tutor`` ``other`](Tutor_Other.md "wikilink")`        `[`lead`` ``flock`](Lead_Flock.md "wikilink")  
+`150:               `[`tear`](Tear.md "wikilink")`*`  
+`200:           `[`specimen`](Specimen.md "wikilink")`*`  
 `500:             eulogy      catch weapon`  
   
-`   * `[`Hero`](:Category:_Hero "wikilink")` skills & spells that `[`Rippers`](:Category:_Rippers "wikilink")` may learn but `[`Warriors`](:Category:_Warriors "wikilink")` may not.`
+`   * `[`Hero`](:Category:_Hero.md "wikilink")` skills & spells that `[`Rippers`](:Category:_Rippers.md "wikilink")` may learn but `[`Warriors`](:Category:_Warriors.md "wikilink")` may not.`
 
 [Category: Ripper Skills](Category:_Ripper_Skills "wikilink")

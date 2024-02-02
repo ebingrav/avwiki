@@ -9,17 +9,18 @@ here? The answer may be sought.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 3e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+3e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Hans](Hans_The_Smith_Of_Dunkeldorf "wikilink"),
-[Gelda](Hag_Gelda "wikilink"), [woodsman
-guard](Woodsman_Guard "wikilink") (note:
-[hidden](Hide_Flag "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Hans](Hans_The_Smith_Of_Dunkeldorf.md "wikilink"),
+[Gelda](Hag_Gelda.md "wikilink"), [woodsman
+guard](Woodsman_Guard.md "wikilink") (note:
+[hidden](Hide_Flag.md "wikilink")).
 
 ## Connections
 
--   [ Wildwood](:Category:_Wildwood "wikilink")
+-   [ Wildwood](:Category:_Wildwood.md "wikilink")
 
 ## Navigation
 

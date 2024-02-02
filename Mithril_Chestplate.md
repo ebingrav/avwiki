@@ -1,28 +1,28 @@
 *You see an unscathed chestplate made of pure mithril.*
 
-[`Armor`` ``class`](Armor_Class "wikilink")` is 4.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 4.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`
 
 **Keyword(s):** mithril chestplate  
-**[Level(s)](Object_Level "wikilink"):** 17-18  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>  
-**[Weight](Object_Weight "wikilink"):** 6 lbs  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 17-18  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Elven
-Foothills](:Category:_Elven_Foothills "wikilink")
-([Map](Elven_Foothills_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Gray-Elf
+**[Area](:Category:_Areas.md "wikilink"):** [Elven
+Foothills](:Category:_Elven_Foothills.md "wikilink")
+([Map](Elven_Foothills_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Gray-Elf
 Captain](Gray-Elf_Captain "wikilink")
-([portable](Teleport "wikilink"))  
+([portable](Teleport.md "wikilink"))  
 
 [Category: Gear In Elven
 Foothills](Category:_Gear_In_Elven_Foothills "wikilink") [Category:

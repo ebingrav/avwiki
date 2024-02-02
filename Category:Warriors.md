@@ -1,23 +1,24 @@
 *It seems that most cultures have one thing in common, a need for
 warriors. These are the men and women who train from birth to survive
 the lethal environment of close combat with
-[weapons](:Category:_Weapons "wikilink") and armor. These soldiers,
+[weapons](:Category:_Weapons.md "wikilink") and armor. These soldiers,
 mercenaries, guards, etc. utilize their knowledge of armor,
-[weapons](:Category:_Weapons "wikilink"), and tactics to great effect.
-While they may not have a lot of skills with which to draw from, the
-[skills](:Category:_Warrior_Skills_And_Spells "wikilink") they do learn
-are extremely effective, and are generally learned quite early. The only
-drawback of the warrior lies in its main strength, its simplicity.*
+[weapons](:Category:_Weapons.md "wikilink"), and tactics to great
+effect. While they may not have a lot of skills with which to draw from,
+the [skills](:Category:_Warrior_Skills_And_Spells.md "wikilink") they do
+learn are extremely effective, and are generally learned quite early.
+The only drawback of the warrior lies in its main strength, its
+simplicity.*
 
-*The [prime requisite](Prime_Requisite "wikilink") of Warriors is
-[STRength](Strength "wikilink"), giving them the capacity to mete out
-more damage, and carry more [gear](:Category:_Gear "wikilink") and
-equipment than any other [class](:Category:_Classes "wikilink").*
+*The [prime requisite](Prime_Requisite.md "wikilink") of Warriors is
+[STRength](Strength.md "wikilink"), giving them the capacity to mete out
+more damage, and carry more [gear](:Category:_Gear.md "wikilink") and
+equipment than any other [class](:Category:_Classes.md "wikilink").*
 
 **Abbreviation:** War.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Strength](Strength "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Strength](Strength.md "wikilink").
 
 ## Warriors in General
 
@@ -46,7 +47,7 @@ much hp. [Constitution](Constitution "wikilink") and
 [Dexterity](Dexterity "wikilink") are secondary aspects to consider if
 you want to maximize the effectiveness of your warrior. One final thing
 to look at is each race's [racial damage
-modifier](Racial_Damage_Modifier "wikilink"), as some races are more
+modifier](Racial_Damage_Modifier.md "wikilink"), as some races are more
 inclined towards beating things into mush than others!
 
 ## Warriors at Lowmort Tier
@@ -143,13 +144,13 @@ classes.
 At lowmort, warriors learn neither heal spells or [Arcane
 Knowledge](Arcane_Knowledge "wikilink"), so they are flat-out incapable
 of healing, forced to rely on group mates or quaffing
-[potions](:Category:Potions "wikilink").
+[potions](:Category:Potions.md "wikilink").
 
 ## Warrior Prestige Options
 
-Warriors can [prestige](:Category:Prestige_Classes "wikilink") to
-[bodyguards](:Category:Bodyguards "wikilink") or
-[rippers](:Category:Rippers "wikilink") at level 50.
+Warriors can [prestige](:Category:Prestige_Classes.md "wikilink") to
+[bodyguards](:Category:Bodyguards.md "wikilink") or
+[rippers](:Category:Rippers.md "wikilink") at level 50.
 
 ## Warriors at Hero Tier
 
@@ -192,18 +193,19 @@ have significantly more HP.
 
 ## Warrior Remort Options
 
-Warriors at [lord](:Category:Lord "wikilink")
-[tier](:Category:_Tiers "wikilink") may [remort](Remort "wikilink") into
-[paladins](:Category:_Paladins "wikilink") or
-[berserkers](:Category:_Berserkers "wikilink"). See [Remort
-classes](:Category:Remort_Classes "wikilink") for information on the
+Warriors at [lord](:Category:Lord.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") may
+[remort](Remort.md "wikilink") into
+[paladins](:Category:_Paladins.md "wikilink") or
+[berserkers](:Category:_Berserkers.md "wikilink"). See [Remort
+classes](:Category:Remort_Classes.md "wikilink") for information on the
 requirements for each of these classes.
 
-[Remort races](:Category:_Remort_Races "wikilink") that are well-suited
-for warriorliness include [ trolls](Trolls "wikilink"),
-[dragons](Dragons "wikilink"), [ griffons](Griffons "wikilink"), [
-minotaurs](Minotaurs "wikilink") and [ golems](Golems "wikilink"). See
-[Remort Races](:Category:Remort_Races "wikilink") for information on the
-requirements for each of these races.
+[Remort races](:Category:_Remort_Races.md "wikilink") that are
+well-suited for warriorliness include [ trolls](Trolls.md "wikilink"),
+[dragons](Dragons.md "wikilink"), [ griffons](Griffons.md "wikilink"), [
+minotaurs](Minotaurs.md "wikilink") and [ golems](Golems.md "wikilink").
+See [Remort Races](:Category:Remort_Races.md "wikilink") for information
+on the requirements for each of these races.
 
 [Category: Core Classes](Category:_Core_Classes "wikilink")

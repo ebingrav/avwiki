@@ -4,23 +4,23 @@ of stagnant water rises from its form - whoever thought putting metal
 and water together was clearly having an 'off' day.*
 
 **Keywords:** rusty, servitor  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** demonic.  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
 
 ## Comments
 
 The servitor crashes to the ground and from its wreckage surges an
-[elemental](Wrathful_Water_Elemental "wikilink")!
+[elemental](Wrathful_Water_Elemental.md "wikilink")!
 
 The Rusty Servitor is involved in [Citadel Of
-Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")' [Staff of Water
-Quest](Staff_Of_Water_Quest "wikilink").
+Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")' [Staff of
+Water Quest](Staff_Of_Water_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
 It is portable.
 
 [Category: Mobs In Citadel Of

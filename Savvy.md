@@ -1,19 +1,21 @@
-*This [sagely](:Category:_Sages "wikilink")
-[spell](:Category:_Spells "wikilink") increases the
-[intelligence](Intelligence "wikilink") of the [caster](Cast "wikilink")
-for a duration.*
+*This [sagely](:Category:_Sages.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") increases the
+[intelligence](Intelligence.md "wikilink") of the
+[caster](Cast.md "wikilink") for a duration.*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'savvy'.
+Syntax: [cast](Cast.md "wikilink") 'savvy'.
 
 This is a somewhat useful
-[skill](:Category:_Skills_And_Spells "wikilink") for all
-[characters](:Category:_Characters "wikilink") (who can) to
-[learn](Practice "wikilink"). It increases its
-[caster](Cast "wikilink")'s [intelligence](Intelligence "wikilink") by
-4, though not more than 3 above its [caster](Cast "wikilink")'s maximum
-[trainable](Train "wikilink") [intelligence](Intelligence "wikilink").
+[skill](:Category:_Skills_And_Spells.md "wikilink") for all
+[characters](:Category:_Characters.md "wikilink") (who can) to
+[learn](Practice.md "wikilink"). It increases its
+[caster](Cast.md "wikilink")'s
+[intelligence](Intelligence.md "wikilink") by 4, though not more than 3
+above its [caster](Cast.md "wikilink")'s maximum
+[trainable](Train.md "wikilink")
+[intelligence](Intelligence.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Assassin Hero

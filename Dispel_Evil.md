@@ -1,17 +1,17 @@
 *The forces of Good normally tend to healing and health, but when this
 spell invokes them, all the wrath of the Good is expelled onto an evil
-[victim](:Category:_Mobs "wikilink"). You must be of good
-[alignment](Alignment "wikilink") for this
-[spell](:Category:_Spells "wikilink") to inflict damage.*
+[victim](:Category:_Mobs.md "wikilink"). You must be of good
+[alignment](Alignment.md "wikilink") for this
+[spell](:Category:_Spells.md "wikilink") to inflict damage.*
 
-Prerequisite(s): [Detect Evil](Detect_Evil "wikilink").
+Prerequisite(s): [Detect Evil](Detect_Evil.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'dispel evil'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'dispel evil'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
-See also [Dispel Evil Gear](:Category:_Dispel_Evil_Gear "wikilink").
+See also [Dispel Evil Gear](:Category:_Dispel_Evil_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

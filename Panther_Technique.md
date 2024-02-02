@@ -1,6 +1,6 @@
-*[Open Hand](Open_Hand "wikilink") Sixth Attack.*
+*[Open Hand](Open_Hand.md "wikilink") Sixth Attack.*
 
-Prerequisite(s): [Mongoose Technique](Mongoose_Technique "wikilink").
+Prerequisite(s): [Mongoose Technique](Mongoose_Technique.md "wikilink").
 
 `   "A giant fell to its knees in disbelief, its lifeblood spilling`  
 `    from a wound in its throat.  Like a panther, Gretta the Hand,`  

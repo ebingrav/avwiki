@@ -24,33 +24,34 @@ or less safe.*
 
 ## Directions
 
-[Portaling](Portal "wikilink") point(s) suggested: [Dirk
+[Portaling](Portal.md "wikilink") point(s) suggested: [Dirk
 Chivers](Dirk_Chivers "wikilink"), [Hiram
 Chivers](Hiram_Chivers "wikilink")
 
 ## Connections
 
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
--   [Moonbay Village](:Category:Moonbay_Village "wikilink")
--   [Healing Springs](:Category:Healing_Springs "wikilink")
--   [Arx Nivea](:Category:Arx_Nivea "wikilink")
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
+-   [Moonbay Village](:Category:Moonbay_Village.md "wikilink")
+-   [Healing Springs](:Category:Healing_Springs.md "wikilink")
+-   [Arx Nivea](:Category:Arx_Nivea.md "wikilink")
 
 ## Navigation
 
 Starting from the river's delta that connects directly to [Moonbay
-Village](:Category:Moonbay_Village "wikilink") in two places, the river
-is entirely straightforward for a long way. First branch connects to
-[Eragora Walkways](:Category:Eragora_Walkways "wikilink"), just south of
-the [Arx Nivea](:Category:Arx_Nivea "wikilink") crossing. Arx Nivea
-technically splits the area into two, with one room in the middle
-connecting north and south river parts. Following the river northward it
-forks; the eastern path (Black River) leads to [Healing
-Springs](:Category:Healing_Springs "wikilink") connection, and further
-onto the *Black Lake*, which has miniscule offshoots called *Enja Gorge*
-(north) and *Moonkiss River* (east). The other fork leads westward
-towards the *second* half-orc village (to be implemented yet) and
-further, branching again into two miniscule parts - *Red River* heading
-west and *White River* heading north, behind the *Glacial Waterfall*.
+Village](:Category:Moonbay_Village.md "wikilink") in two places, the
+river is entirely straightforward for a long way. First branch connects
+to [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink"), just
+south of the [Arx Nivea](:Category:Arx_Nivea.md "wikilink") crossing.
+Arx Nivea technically splits the area into two, with one room in the
+middle connecting north and south river parts. Following the river
+northward it forks; the eastern path (Black River) leads to [Healing
+Springs](:Category:Healing_Springs.md "wikilink") connection, and
+further onto the *Black Lake*, which has miniscule offshoots called
+*Enja Gorge* (north) and *Moonkiss River* (east). The other fork leads
+westward towards the *second* half-orc village (to be implemented yet)
+and further, branching again into two miniscule parts - *Red River*
+heading west and *White River* heading north, behind the *Glacial
+Waterfall*.
 
 A secret door can be found west of the waterfall, with a path to the
 *Widow's Peak*, where [Faceless Statue

@@ -6,11 +6,11 @@
 
 <big><big>
 
-1.  [Help files for people using screen readers](/help "wikilink")
-2.  [Basic commands](/commands "wikilink")
-3.  [Equipment for levels 1 to 10](/Equipment "wikilink")
-4.  [Quests for levels 1 to 10](/Quests1 "wikilink")
-5.  [Areas for levels 1 to 10](/Areas1 "wikilink")
+1.  [Help files for people using screen readers](/help.md "wikilink")
+2.  [Basic commands](/commands.md "wikilink")
+3.  [Equipment for levels 1 to 10](/Equipment.md "wikilink")
+4.  [Quests for levels 1 to 10](/Quests1.md "wikilink")
+5.  [Areas for levels 1 to 10](/Areas1.md "wikilink")
 
 </big></big>
 

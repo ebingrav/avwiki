@@ -1,29 +1,29 @@
 *A curved bronze sword glistens here.*
 
-` Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5 continuous.`  
-` `[`Damage`](Melee_Weapon_Values "wikilink")` is 17 to 48 (average 32).`  
-` Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 7 continuous.`  
-` Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 9 continuous.`
+` Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5 continuous.`  
+` `[`Damage`](Melee_Weapon_Values.md "wikilink")` is 17 to 48 (average 32).`  
+` Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 7 continuous.`  
+` Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 9 continuous.`
 
 **Keyword(s):** exotic, shortsword.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 13 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [good](Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 13 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [good](Good_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Captain
+**[Area](:Category:_Areas.md "wikilink"):** [Captain
 Shyl](Captain_Shyl "wikilink") (portable)  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Pyrrus
-Island](:Category:_Pyrrus_Island "wikilink")
-([Map](Pyrrus_Island_Map "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Pyrrus
+Island](:Category:_Pyrrus_Island.md "wikilink")
+([Map](Pyrrus_Island_Map.md "wikilink"))  
 
 [Category: Gear In Pyrrus
 Island](Category:_Gear_In_Pyrrus_Island "wikilink") [Category: Hero Tank

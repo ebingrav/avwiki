@@ -1,46 +1,48 @@
 *"The Stage of Suffering." That's what they call the floor of
-[Noctopia's](:Category:Noctopia "wikilink") Obsidian Arena. It is the
+[Noctopia's](:Category:Noctopia.md "wikilink") Obsidian Arena. It is the
 plane's largest structure, and an everlasting monument to the cruelty of
 the Dark Fae. They gather in the stands in large numbers, eager to rub
 elbows with the Elite, and protected by automaton guards. [The Grand
-Duke](Duke_Malafont "wikilink") uses the arena as a training ground for
-his soldiers, feeding them any unlucky enough to become a captive of the
-Dark Fae. Rumor holds that [a dark prize](Shield_Of_Shadows "wikilink")
-awaits the Noctopian strong enough to defeat all comers in the arena.*
+Duke](Duke_Malafont.md "wikilink") uses the arena as a training ground
+for his soldiers, feeding them any unlucky enough to become a captive of
+the Dark Fae. Rumor holds that [a dark
+prize](Shield_Of_Shadows.md "wikilink") awaits the Noctopian strong
+enough to defeat all comers in the arena.*
 
 **Builder:** Dev
 
 ## Directions
 
 Head east from the [Corpse Collector](Corpse_Collector "wikilink") in
-[Pits Of Blood And Chain](:Category:Pits_Of_Blood_And_Chain "wikilink")
-seeking an up exit.
+[Pits Of Blood And
+Chain](:Category:Pits_Of_Blood_And_Chain.md "wikilink") seeking an up
+exit.
 
 -or-
 
 Examine down exits from [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink") looking for mobs in
-this area.
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink") looking for mobs
+in this area.
 
 ## Connections
 
 The aforementioned entrance from [Pits Of Blood And
-Chain](:Category:Pits_Of_Blood_And_Chain "wikilink") is a one-way exit
-(needs confirmation). Not sure if the entrance from [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink") is one-way, but I
-think it is, since I haven't come across a safe-looking up exit from the
-floor.
+Chain](:Category:Pits_Of_Blood_And_Chain.md "wikilink") is a one-way
+exit (needs confirmation). Not sure if the entrance from [Obsidian
+Arena; Stands](:Category:Obsidian_Arena;_Stands.md "wikilink") is
+one-way, but I think it is, since I haven't come across a safe-looking
+up exit from the floor.
 
 This area is loaded with 7 mob, nospell, det (read: suicidal) entrances
 to [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink").
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink").
 
 ## Navigation
 
 North and a bit east from the [Pits Of Blood And
-Chain](:Category:Pits_Of_Blood_And_Chain "wikilink") entrance is [Duke
-Malafont](Duke_Malafont "wikilink"). See [Gear In Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Chain](:Category:Pits_Of_Blood_And_Chain.md "wikilink") entrance is
+[Duke Malafont](Duke_Malafont "wikilink"). See [Gear In Obsidian Arena;
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.
 
 ## Adventuring

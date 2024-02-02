@@ -6,8 +6,8 @@ Level: 20
 Base: 4-6  
 Mob: [Willow Guard](Willow_Guard "wikilink")  
 Area: [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink"))  
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink"))  
 mob is portable. Aelmon: 14n4wn
 
 [Category: Gear In Kingdom Of The

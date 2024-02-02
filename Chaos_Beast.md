@@ -14,17 +14,17 @@
 ## Comments
 
 This mob's wield is cursed, has an inventory flag, and is poisoned with
-[Necrotia](:Category:_Necrotia "wikilink"). Immaculate, detonate, &
+[Necrotia](:Category:_Necrotia.md "wikilink"). Immaculate, detonate, &
 shatterstrike are your friend when facing these guys.
 
 Also note that he casts [Shard Storm](Shard_Storm "wikilink"). This is
 particularly rough on small casters when you enter the det portion of
-the [Unravelling](:Category:Unravelling "wikilink").
+the [Unravelling](:Category:Unravelling.md "wikilink").
 
 ## Directions
 
 Can be found just about anywhere in the
-[Unravelling](:Category:Unravelling "wikilink").
+[Unravelling](:Category:Unravelling.md "wikilink").
 
 [Category: Mobs In
 Unravelling](Category:_Mobs_In_Unravelling "wikilink")

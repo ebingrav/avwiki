@@ -1,26 +1,26 @@
 *The sapphire-coated sleeves burst forth in a blaze of light. Not a
 single speck lies undisturbed by jewels.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
-`Modifies `[`strength`](Strength "wikilink")` by 1 continuous.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 1 continuous.`  
 `Modifies armor class by -8 continuous`  
 `Modifies mana by 15 continuous`  
 `It improves archery damage.`  
 `It facilitates the archery skill scattershot.`
 
 **Keyword(s):** sapphire, sleeves.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[nodrop](NoDrop_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
@@ -38,9 +38,10 @@ piece for solo casters.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Abyss](:Category:_Abyss "wikilink") ([Map](Abyss_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A toyshop with yellow and
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Abyss](:Category:_Abyss.md "wikilink")
+([Map](Abyss_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A toyshop with yellow and
 green patterns on it (portable)
 
 Walking route from [Giant Pillbug](Giant_Pillbug "wikilink"): e, d, e.

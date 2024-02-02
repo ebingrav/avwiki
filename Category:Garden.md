@@ -15,24 +15,25 @@ Lord known as Bask returned bloody and broken from a Shift to Tarterus.*
 
 ## Directions
 
-From [Tarterus](:Category:Tarterus "wikilink") shift portal to [Garden
-Gargoyle](Garden_Gargoyle "wikilink"), or walk 1u, 1s, 3e and quaff the
-fountain. The rest of the garden lies south from this room, behind a
-locked gate. Check the dwarf on
-[Thorngate](:Category:Thorngate "wikilink") before you shift. If he has
-the [Cold Iron Key](Cold_Iron_Key "wikilink") buy it from him. Otherwise
-you'll need to get the key from [Anthraxus](Anthraxus "wikilink"). See
-[Gear In Garden](:Category:Gear_In_Garden "wikilink") for more
-information.
+From [Tarterus](:Category:Tarterus.md "wikilink") shift portal to
+[Garden Gargoyle](Garden_Gargoyle "wikilink"), or walk 1u, 1s, 3e and
+quaff the fountain. The rest of the garden lies south from this room,
+behind a locked gate. Check the dwarf on
+[Thorngate](:Category:Thorngate.md "wikilink") before you shift. If he
+has the [Cold Iron Key](Cold_Iron_Key "wikilink") buy it from him.
+Otherwise you'll need to get the key from
+[Anthraxus](Anthraxus "wikilink"). See [Gear In
+Garden](:Category:Gear_In_Garden.md "wikilink") for more information.
 
 ## Connections
 
--   From [Tarterus](:Category:Tarterus "wikilink"): 1u, 1s, 3e, quaff.
-    Quaffing at the Gargoyle Guardians takes you back into Tarterus - to
-    [Anthraxus](Anthraxus "wikilink").
--   [Temple Of The Council](:Category:Temple_Of_The_Council "wikilink"):
-    Kill all servants within a repop for the portal to appear. Temple of
-    the Council is the [Demon](Demon "wikilink") quest area.
+-   From [Tarterus](:Category:Tarterus.md "wikilink"): 1u, 1s, 3e,
+    quaff. Quaffing at the Gargoyle Guardians takes you back into
+    Tarterus - to [Anthraxus](Anthraxus "wikilink").
+-   [Temple Of The
+    Council](:Category:Temple_Of_The_Council.md "wikilink"): Kill all
+    servants within a repop for the portal to appear. Temple of the
+    Council is the [Demon](Demon "wikilink") quest area.
 -   2n2d2ed from shift to demogorg
 
 ## Navigation
@@ -45,7 +46,7 @@ Alternatively, avoid the mazes and approach him from the other side: 8s,
 2w, n, e, n.
 
 The model of
-[Midgaardia](:Category:Midgaardia "wikilink")/[Thorngate](:Category:Thorngate "wikilink")
+[Midgaardia](:Category:Midgaardia.md "wikilink")/[Thorngate](:Category:Thorngate.md "wikilink")
 is 8s, 3e from the gate. This part of the area is less swarmy, and is
 home to the [Stone Wings](Stone_Wings "wikilink") and [Great Shield
 Tyranny](Great_Shield_Tyranny "wikilink"). Straight directions to the
@@ -62,9 +63,9 @@ A great area for groups size 5 to 15. Home of the [Stone
 Wings](Stone_Wings "wikilink"), [Great Shield
 Tyranny](Great_Shield_Tyranny "wikilink"), and [Black
 Armband](Black_Armband "wikilink"). See [Gear In
-Garden](:Category:Gear_In_Garden "wikilink") for more information. The
-[Digger Demons](Digger_Demon "wikilink") that roam parts of the garden
-are also very nice exp.
+Garden](:Category:Gear_In_Garden.md "wikilink") for more information.
+The [Digger Demons](Digger_Demon "wikilink") that roam parts of the
+garden are also very nice exp.
 
 [Category:Tarterus](Category:Tarterus "wikilink") [Category:Lord
 Areas](Category:Lord_Areas "wikilink")

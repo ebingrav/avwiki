@@ -4,13 +4,13 @@ filigree, which forms the shape of the sylvan rune for 'Y.'*
 Type: ticket  
 Flags: nolocate  
 Weight: 1  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
-Area: [Under The Stars](:Category:Under_The_Stars "wikilink") or
-[Obsidian Arena; Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
+Area: [Under The Stars](:Category:Under_The_Stars.md "wikilink") or
+[Obsidian Arena; Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 Mob: [Yorimandil The Blind](Yorimandil_The_Blind "wikilink")  
 If you give this ring to the [Weaver Mother](Weaver_Mother "wikilink")
 she will tell you the following story about
-[Yorimandil](Yorimandil_The_Blind "wikilink"):
+[Yorimandil](Yorimandil_The_Blind.md "wikilink"):
 
 *After a pause, the Mother Weaver says, "Yorimandil. There has never
 been a finer swordsman. He often sparred with the Grand Duke, and with
@@ -29,9 +29,9 @@ only to ambush her with the help of the Grand Duke.*
 ------------------------------------------------------------------------
 
 See [Gear In Under The
-Stars](:Category:Gear_In_Under_The_Stars "wikilink") or [Gear In
+Stars](:Category:Gear_In_Under_The_Stars.md "wikilink") or [Gear In
 Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.
 
 [Category:Gear In Under The

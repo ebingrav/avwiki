@@ -1,16 +1,18 @@
-*With nimble fingers, a stealthy [rogue](:Category:_Rogues "wikilink")
-may take [items](:Category:_Objects "wikilink") unseen. Like
-[peek](Peek "wikilink"), this will be forever upon
-[practicing](Practice "wikilink"). If you don't want to hide your
-movements from others, don't [practice](Practice "wikilink") this. The
-[skill](:Category:_Skills "wikilink") is now toggleable with use of the
-[command](:Category:_Commands "wikilink"). Note: This is only effective
-in [GETting](Get "wikilink") [objects](:Category:_Objects "wikilink").*
+*With nimble fingers, a stealthy
+[rogue](:Category:_Rogues.md "wikilink") may take
+[items](:Category:_Objects.md "wikilink") unseen. Like
+[peek](Peek.md "wikilink"), this will be forever upon
+[practicing](Practice.md "wikilink"). If you don't want to hide your
+movements from others, don't [practice](Practice.md "wikilink") this.
+The [skill](:Category:_Skills.md "wikilink") is now toggleable with use
+of the [command](:Category:_Commands.md "wikilink"). Note: This is only
+effective in [GETting](Get.md "wikilink")
+[objects](:Category:_Objects.md "wikilink").*
 
-Prerequisites: [Rogue Lore](Rogue_Lore "wikilink"),
-[Steal](Steal "wikilink").
+Prerequisites: [Rogue Lore](Rogue_Lore.md "wikilink"),
+[Steal](Steal.md "wikilink").
 
-Syntax: [sleight](Sleight "wikilink").
+Syntax: [sleight](Sleight.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Black Circle

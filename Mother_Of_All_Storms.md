@@ -5,9 +5,9 @@ gathered here.*
 **Keywords:** deafen.  
 **Scan Description:** Roaring its rage, this must be the mother of all
 storms.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** evil.  
-**[Flags](:Category:_Mob_Types "wikilink"):** aggressive, steadfast,
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** evil.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** aggressive, steadfast,
 ??.  
 **Affects:** ??, ??, ??.  
 
@@ -19,13 +19,13 @@ storms.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tainted
-Isle](:Category:_Tainted_Isle "wikilink").  
-**[Room](:Category:_Rooms "wikilink"):** Atop the spire.  
-Walking route from [Aelmon](Aelmon "wikilink"): 40s, w, n, w, s, w, u,
-e, n, e, n, w, s, w, u, e, n, e, n, e, s, w.  
-Walking route from [surf](Raging_Surf "wikilink"): n, w, s, w, u, e, n,
-e, n, w, s, w, u, e, n, e, n, e, s, w.  
+**[Area](:Category:_Areas.md "wikilink"):** [Tainted
+Isle](:Category:_Tainted_Isle.md "wikilink").  
+**[Room](:Category:_Rooms.md "wikilink"):** Atop the spire.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 40s, w, n, w, s, w,
+u, e, n, e, n, w, s, w, u, e, n, e, n, e, s, w.  
+Walking route from [surf](Raging_Surf.md "wikilink"): n, w, s, w, u, e,
+n, e, n, w, s, w, u, e, n, e, n, e, s, w.  
 
 [Category: Mobs In Tainted
 Isle](Category:_Mobs_In_Tainted_Isle "wikilink")

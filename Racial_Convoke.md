@@ -8,8 +8,8 @@ lost or destroyed.
 The power of the weapon will grow with the power of the
 [Gith](Gith "wikilink").
 
-This racial is [EXHAUSTED](Exhaustion "wikilink") for a short time when
-used.
+This racial is [EXHAUSTED](Exhaustion.md "wikilink") for a short time
+when used.
 
 [Category: Racials](Category:_Racials "wikilink") [Category: Convoke
 Weapons](Category:_Convoke_Weapons "wikilink")

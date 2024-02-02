@@ -11,33 +11,33 @@ multi-headed abomination of dragonkind.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e, n,
-2e, n, e, 4n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e,
+n, 2e, n, e, 4n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Seer](Dragon_Seer "wikilink") (wanders) and [Golden
-Hydra](Golden_Hydra "wikilink"). Both [aggie](Aggressive "wikilink") and
-tail.
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Seer](Dragon_Seer.md "wikilink") (wanders) and [Golden
+Hydra](Golden_Hydra "wikilink"). Both [aggie](Aggressive.md "wikilink")
+and tail.
 
 ## Connections
 
-A list of [areas](:Category:_Areas "wikilink") connected to Ancient
+A list of [areas](:Category:_Areas.md "wikilink") connected to Ancient
 Bronze Wyrm:
 
--   [Wildwood](:Category:Wildwood "wikilink").
--   [Midgaard](:Category:Midgaard "wikilink").
+-   [Wildwood](:Category:Wildwood.md "wikilink").
+-   [Midgaard](:Category:Midgaard.md "wikilink").
 
 ## Navigation
 
 This area is really two parts. The first part is the general area with
-[seer](Dragon_Seer "wikilink"), [Golden Hydra](Golden_Hydra "wikilink"),
-and [The Bronze Dragon, Kastinius](Kastinius "wikilink"). All here tail
-and are really nasty. Once you defeat Kastinius pull the lever that
-appears and enter the second part. Not as nasty here with non-aggie
-librarians. There are a few aggie here ([Alayna](Alayna "wikilink")) and
-it is as small as the previous area. Look for some nice history books
-here.
+[seer](Dragon_Seer.md "wikilink"), [Golden
+Hydra](Golden_Hydra "wikilink"), and [The Bronze Dragon,
+Kastinius](Kastinius.md "wikilink"). All here tail and are really nasty.
+Once you defeat Kastinius pull the lever that appears and enter the
+second part. Not as nasty here with non-aggie librarians. There are a
+few aggie here ([Alayna](Alayna "wikilink")) and it is as small as the
+previous area. Look for some nice history books here.
 
 ## Adventuring
 

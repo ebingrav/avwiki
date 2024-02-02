@@ -8,28 +8,28 @@ you've learned. What they're doing on this heavy rod is beyond you.
 *
 
 **Keyword(s):strange device astral disruption rod** .  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:Tickets "wikilink") is used in Sceptre Of
+This [ticket](:Category:Tickets.md "wikilink") is used in Sceptre Of
 Blazing Fury run.  
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kzinti
-Homeworld](:Category:_Kzinti_Homeworld "wikilink")  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [the Projection of
-Imix](Projection_of_Imix "wikilink").  
-See [the Projection of Imix](Projection_of_Imix "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Kzinti
+Homeworld](:Category:_Kzinti_Homeworld.md "wikilink")  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [the Projection of
+Imix](Projection_of_Imix.md "wikilink").  
+See [the Projection of Imix](Projection_of_Imix.md "wikilink") for more
 information.
 
 [Category:Gear In Inferno

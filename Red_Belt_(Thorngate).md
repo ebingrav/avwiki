@@ -6,8 +6,8 @@
 Slot: Waist  
 Weight: 1  
 Flags: nolocate  
-Plane: [Thorngate](:Category:Thorngate "wikilink")  
-Area: [Temple of Gorn](:Category:Temple_of_Gorn "wikilink")  
+Plane: [Thorngate](:Category:Thorngate.md "wikilink")  
+Area: [Temple of Gorn](:Category:Temple_of_Gorn.md "wikilink")  
 Mob: ?  
 
 [Category:Lord Third Tier Tank

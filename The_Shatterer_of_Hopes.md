@@ -9,10 +9,10 @@
 `dreams were squashed like ants, battered into oblivion. Let it`  
 `rest, let there be the faint hope of the weak.`
 
-**[Commune Bonus](Commune "wikilink"):** spell power +15%, dr +30, -5
+**[Commune Bonus](Commune.md "wikilink"):** spell power +15%, dr +30, -5
 wis
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Destruction](Aspect_-_Destruction "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Destruction](Aspect_-_Destruction.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

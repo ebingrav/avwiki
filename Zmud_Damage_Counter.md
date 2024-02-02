@@ -3,7 +3,7 @@ Tested for zmud 7.21
 This trigger and alias set will track damage dealt and received for all
 on a member list. For each line of combat the hit is stored by damage
 verb if the person attacking was on the list, and a running damage total
-is kept. Damage values were taken from [Damage](Damage "wikilink").
+is kept. Damage values were taken from [Damage](Damage.md "wikilink").
 Report options include a display of {damage done/ average hit/ damage
 taken} or a breakdown of all hits by verb. You may display these for
 yourself, everyone or a partial selection. Latest triggers should catch

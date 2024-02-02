@@ -1,17 +1,17 @@
 <b>Slot:</b> About Body  
 <b>Armor Class:</b> 3-5  
 <b>Bonuses:</b>  
-Modifies [armor class](Armor_Class "wikilink") by -10
+Modifies [armor class](Armor_Class.md "wikilink") by -10
 
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2`
 
 <b>Weight:</b> 8  
 <b>Level:</b> 17-19  
 <b>Mob:</b> [Rrgl](Rrgl "wikilink")  
-<b>Area:</b> [Undrehand](:Category:_Undrehand "wikilink")
-([Map](Undrehand_Map "wikilink"))  
-<b>Flags:</b> [anti-good](Anti-Good_Flag "wikilink"), [anti-neutral
-](Anti-Neutral_Flag "wikilink")  
+<b>Area:</b> [Undrehand](:Category:_Undrehand.md "wikilink")
+([Map](Undrehand_Map.md "wikilink"))  
+<b>Flags:</b> [anti-good](Anti-Good_Flag.md "wikilink"), [anti-neutral
+](Anti-Neutral_Flag.md "wikilink")  
 Mob is portable. She's down from [Undrehand](Undrehand "wikilink").
 
 [Category: Gear In Undrehand](Category:_Gear_In_Undrehand "wikilink")

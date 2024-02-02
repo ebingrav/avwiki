@@ -3,9 +3,9 @@ lingering power of the Fae which still remains.*
 
 **Keywords:** shade, ashoreus.  
 **Scan Description:** The shade of a fae warrior haunts these ruins.  
-**[Level](Level "wikilink"):** ?.  
-**[Alignment](Alignment "wikilink"):** saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** ?.  
+**[Alignment](Alignment.md "wikilink"):** saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
@@ -20,10 +20,10 @@ lingering power of the Fae which still remains.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The ruin of a crystal palace
+**[Area](:Category:_Areas.md "wikilink"):** [Kingdom of the
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The ruin of a crystal palace
 (portable).  
 Ashoreus is involved in [Firedrake](Firedrake "wikilink") evolution
 quests.

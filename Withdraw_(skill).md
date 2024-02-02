@@ -1,22 +1,23 @@
 *Withdraw represents the ability of a seasoned
-[Rogue](:Category:_Rogues "wikilink") to [flee](Flee "wikilink") from
-combat in a controlled and calculated fashion. By simply providing a
-direction when he uses the [flee](Flee "wikilink")
-[command](:Category:_Commands "wikilink"), a
-[Rogue](:Category:_Rogues "wikilink") who has mastered Withdraw will
-[flee](Flee "wikilink") in the specified direction, instead of running
-out randomly. [Rogues](:Category:_Rogues "wikilink") who wish to use
-this [skill](:Category:_Skills "wikilink") must be actively using the
-[Alertness](Alertness "wikilink") [skill](:Category:_Skills "wikilink")
-to do so, in order to scout out all possible escape routes. NOTE: You
-must type out the full word "north" "south" "east" "west" "up" "down".
-Partial typing, typos or any other mistake will be considered a random
-[flee](Flee "wikilink") attempt.*
+[Rogue](:Category:_Rogues.md "wikilink") to [flee](Flee.md "wikilink")
+from combat in a controlled and calculated fashion. By simply providing
+a direction when he uses the [flee](Flee.md "wikilink")
+[command](:Category:_Commands.md "wikilink"), a
+[Rogue](:Category:_Rogues.md "wikilink") who has mastered Withdraw will
+[flee](Flee.md "wikilink") in the specified direction, instead of
+running out randomly. [Rogues](:Category:_Rogues.md "wikilink") who wish
+to use this [skill](:Category:_Skills.md "wikilink") must be actively
+using the [Alertness](Alertness.md "wikilink")
+[skill](:Category:_Skills.md "wikilink") to do so, in order to scout out
+all possible escape routes. NOTE: You must type out the full word
+"north" "south" "east" "west" "up" "down". Partial typing, typos or any
+other mistake will be considered a random [flee](Flee.md "wikilink")
+attempt.*
 
-Prerequisite(s): [Alertness](Alertness "wikilink"),
-[Misdirection](Misdirection "wikilink").
+Prerequisite(s): [Alertness](Alertness.md "wikilink"),
+[Misdirection](Misdirection.md "wikilink").
 
-Syntax: [flee](Flee "wikilink") <direction>.
+Syntax: [flee](Flee.md "wikilink") <direction>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Assassin

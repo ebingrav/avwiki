@@ -4,7 +4,7 @@ information (a good example being run counters) to sending commands to
 the MUD. Scripts are separated into categories based on the clients for
 which they are written.
 
-See also [Commands](:Category:_Commands "wikilink").
+See also [Commands](:Category:_Commands.md "wikilink").
 
 [Category: Miscellaneous](Category:_Miscellaneous "wikilink") [Category:
 Characters](Category:_Characters "wikilink") [Category:

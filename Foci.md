@@ -1,26 +1,27 @@
 *This focusing of magical energies allows the caster to simultaneously
-cast [giant strength](Giant_Strength "wikilink"), [stone
-skin](Stone_Skin "wikilink"), [shield](Shield "wikilink"),
-[fly](Fly "wikilink"), and [pass door](Pass_Door "wikilink"). The Foci
-[spell](:Category:_Skills_And_Spells "wikilink") allows the
-[casting](Cast "wikilink") of a group of spells at once. The amount of
-[mana](Mana_Points "wikilink") it costs is balanced by the speed of
-casting a variety of complex spells simultaneously. NOTE: the foci
-affect which show up on your [affects](Affects "wikilink") list is
+cast [giant strength](Giant_Strength.md "wikilink"), [stone
+skin](Stone_Skin.md "wikilink"), [shield](Shield.md "wikilink"),
+[fly](Fly.md "wikilink"), and [pass door](Pass_Door.md "wikilink"). The
+Foci [spell](:Category:_Skills_And_Spells.md "wikilink") allows the
+[casting](Cast.md "wikilink") of a group of spells at once. The amount
+of [mana](Mana_Points.md "wikilink") it costs is balanced by the speed
+of casting a variety of complex spells simultaneously. NOTE: the foci
+affect which show up on your [affects](Affects.md "wikilink") list is
 merely a placeholder and does not actually modify anything.*
 
-Prerequisite(s): [Giant Strength](Giant_Strength "wikilink"), [Pass
-Door](Pass_Door "wikilink").
+Prerequisite(s): [Giant Strength](Giant_Strength.md "wikilink"), [Pass
+Door](Pass_Door.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'foci'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'foci'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-[Characters](:Category:_Characters "wikilink") will find this
-[mage](:Category:_Mages "wikilink") "macro"
-[spell](:Category:_Spells "wikilink"), like both
-[Fortiudes](Fortitudes "wikilink") and either [Aegis](Aegis "wikilink")
-or [Awen](Awen "wikilink"), highly valuable for
-[buffing](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
+[Characters](:Category:_Characters.md "wikilink") will find this
+[mage](:Category:_Mages.md "wikilink") "macro"
+[spell](:Category:_Spells.md "wikilink"), like both
+[Fortiudes](Fortitudes.md "wikilink") and either
+[Aegis](Aegis.md "wikilink") or [Awen](Awen.md "wikilink"), highly
+valuable for
+[buffing](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
 either themselves or others.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

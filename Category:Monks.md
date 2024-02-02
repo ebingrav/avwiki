@@ -1,33 +1,33 @@
 *There is a group of monks who originally worshipped the
-[god](:Category:_Gods_And_Goddesses "wikilink"),
-[Gorn](Gorn "wikilink"). [Gorn](Gorn "wikilink")'s prescripts prohibited
-the drawing of blood of thy fellow creatures, it did not prohibit the
-use of body to bring people into the light which is the Almighty Blessed
-[Gorn](Gorn "wikilink").*
+[god](:Category:_Gods_And_Goddesses.md "wikilink"),
+[Gorn](Gorn.md "wikilink"). [Gorn](Gorn.md "wikilink")'s prescripts
+prohibited the drawing of blood of thy fellow creatures, it did not
+prohibit the use of body to bring people into the light which is the
+Almighty Blessed [Gorn](Gorn.md "wikilink").*
 
 *These monks developed a series of skills based upon a bare-handed
 fighting style. Through speed and skill these fierce and faithful
 followers fight with purity of body and soul for the glory of
-[Gorn](Gorn "wikilink").*
+[Gorn](Gorn.md "wikilink").*
 
 *Since that time, there have been factions which have split off and
 started worshipping their own
-[gods](:Category:_Gods_And_Goddesses "wikilink"). They have, however,
+[gods](:Category:_Gods_And_Goddesses.md "wikilink"). They have, however,
 maintained the practices that have existed for the past 2000 years.*
 
 **Abbreviation:** Mon.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Dexterity](Dexterity "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Dexterity](Dexterity.md "wikilink").
 
 ## Monks in General
 
-Monks are naturally suited to [tank](Tanks "wikilink") with high
+Monks are naturally suited to [tank](Tanks.md "wikilink") with high
 dexterity and many counterattack skills which increase their
 effectiveness as tanks. They also get a decent amount of mana which can
 be useful in a pinch.
 
-While monks (and [shadowfists](:Category:Shadowfists "wikilink")) are
+While monks (and [shadowfists](:Category:Shadowfists.md "wikilink")) are
 better tanks than hitters they can do hitting with the right gear,
 particularly with a gorn worship. Hit roll (hr) is important as well as
 damage roll (dr) on gear since you want as many of the monks multiple
@@ -52,11 +52,11 @@ isn't a big deal for a monk anyway.
 
 Depending on race and the way you level your monk, it is easiest to use
 weapons instead of fighting open-handed. At level 10 you get [inner
-balance](Inner_Balance "wikilink") and at level 15 you get [scorpion
-style](Scorpion_Style "wikilink"), either of which could be a turnpoint
-for your race. If it's not (you'll have to experiment and see), it's
-wise to wait until level 25 where you get your open hand [third
-attack](Bear_Technique "wikilink").
+balance](Inner_Balance.md "wikilink") and at level 15 you get [scorpion
+style](Scorpion_Style.md "wikilink"), either of which could be a
+turnpoint for your race. If it's not (you'll have to experiment and
+see), it's wise to wait until level 25 where you get your open hand
+[third attack](Bear_Technique.md "wikilink").
 
 ### Training
 
@@ -92,8 +92,8 @@ skills and spells.
 ## Monk Prestige Options
 
 Those Monks who have more sinister desires may opt to become
-[Shadowfists](:Category:_Shadowfists "wikilink") at any time from Mortal
-level 50 to Hero level 100.
+[Shadowfists](:Category:_Shadowfists.md "wikilink") at any time from
+Mortal level 50 to Hero level 100.
 
 ## Monks at Hero Tier
 
@@ -150,8 +150,8 @@ significantly more. They also do an appreciable amount of damage
 Also, with good tank gear, monks rarely get hit by normal lord mobs.
 
 In late September of 2014 [Qi](Qi "wikilink") was introduced for Monks
-and [Shadowfists](:Category:_Shadowfists "wikilink"). This adds many new
-skills and abilities.
+and [Shadowfists](:Category:_Shadowfists.md "wikilink"). This adds many
+new skills and abilities.
 
 ## Monk Remort Options
 

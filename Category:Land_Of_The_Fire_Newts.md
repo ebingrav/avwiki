@@ -2,8 +2,8 @@
 said to never leave home. Being only able to live in a very hot
 temperature, Fire Newts are only found in mountains with a recent
 volcanic history. Such a place can be found along [the mountain
-path](:Category:_Highways/Great_Wall "wikilink"), far north of [the
-meadow](:Category:_Meadow "wikilink").*
+path](:Category:_Highways/Great_Wall.md "wikilink"), far north of [the
+meadow](:Category:_Meadow.md "wikilink").*
 
 **Level Range:** 7-15
 
@@ -11,17 +11,17 @@ meadow](:Category:_Meadow "wikilink").*
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): 9n, \[n\], w, 15n, 6e.
+Walking route from [Nom](Nom.md "wikilink"): 9n, \[n\], w, 15n, 6e.
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 8n, 6e.
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 8n, 6e.
 
-[Portaling](Portal "wikilink") point(s) suggested: [fire newt
-leader](Fire_Newt_Leader "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [fire newt
+leader](Fire_Newt_Leader.md "wikilink").
 
 ## Connections
 
 This area is connected to [Highways/Great
-Wall](:Category:_Highways/Great_Wall "wikilink").
+Wall](:Category:_Highways/Great_Wall.md "wikilink").
 
 ## Navigation
 
@@ -38,13 +38,13 @@ Don't.
 On a more serious note, this area is pretty terrible for exp unless your
 character is highly spelled. The mobs are grouped together in large
 numbers, a good number have weapons, and nearly all of them are
-[aggressive](Aggressive_Mobs "wikilink"). All this adds up to a swarm of
-mobs overtaking you.
+[aggressive](Aggressive_Mobs.md "wikilink"). All this adds up to a swarm
+of mobs overtaking you.
 
 There isn't too much in the way of gear in this area, either. Most
 players that visit this area are much higher level than the suggested
-area range, and use it to fix their [alignment](Alignment "wikilink") by
-killing the swarms of newts, or for grabbing an [Orange
+area range, and use it to fix their [alignment](Alignment.md "wikilink")
+by killing the swarms of newts, or for grabbing an [Orange
 Potion](Orange_Potion "wikilink") or two.
 
 [Category: Lowmort 1-10 Areas](Category:_Lowmort_1-10_Areas "wikilink")

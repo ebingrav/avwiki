@@ -7,7 +7,7 @@ Type: Spellbook
 Keywords: book series 2 rediscovering ether warp  
 Weight: 4  
 Flags: magic nolocate  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: ?  
 Mob: ?  
 

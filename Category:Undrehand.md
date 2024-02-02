@@ -1,13 +1,13 @@
-*The Man known as [Undrehand](Undrehand "wikilink") is an
-ex-[thief](:Category:_Rogues "wikilink") who has recently claimed to be
-of Noble Blood, and seized all the land between [Woodbridge
-Road](:Category:_Highways/Great_Wall "wikilink") and the [Dwarven Trade
-Route](:Category:_Highways/Great_Wall "wikilink") as his own, including
-the [halfling](Halflings "wikilink") farming village of [Heather
-Flats](:Category:_Heather_Flats "wikilink"). According to most maps,
-this land is really part of the protectorate of the [High
-Elven](High_Elves "wikilink") [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink").*
+*The Man known as [Undrehand](Undrehand.md "wikilink") is an
+ex-[thief](:Category:_Rogues.md "wikilink") who has recently claimed to
+be of Noble Blood, and seized all the land between [Woodbridge
+Road](:Category:_Highways/Great_Wall.md "wikilink") and the [Dwarven
+Trade Route](:Category:_Highways/Great_Wall.md "wikilink") as his own,
+including the [halfling](Halflings.md "wikilink") farming village of
+[Heather Flats](:Category:_Heather_Flats.md "wikilink"). According to
+most maps, this land is really part of the protectorate of the [High
+Elven](High_Elves.md "wikilink") [Kingdom of the
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink").*
 
 **Level Range:** 15-18
 
@@ -15,24 +15,24 @@ Willows](:Category:_Kingdom_Of_The_Willows "wikilink").*
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 3s, 5e, n, 4e, 3n,
-e, 2n, w, 3n, 3w, n, 4w.
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 3s, 5e, n, 4e,
+3n, e, 2n, w, 3n, 3w, n, 4w.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 13w, 3n, e, 2n, w, 3n,
-3w, n, 4w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 13w, 3n, e, 2n, w,
+3n, 3w, n, 4w.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Undrehand](Undrehand "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Undrehand](Undrehand.md "wikilink").
 
 Zmud speedwalking directions from Aelmon: .13w3ne2nw3n3wn4w
 
 ## Connections
 
 Undrehand connects only with [Heather
-Flats](:Category:Heather_Flats "wikilink"), and is reached by a path
+Flats](:Category:Heather_Flats.md "wikilink"), and is reached by a path
 which can be accessed west of the town square or west from the small
 path which enters Heather Flats from the [Dwarven Trade
-Route](:Category:Highways/Great_Wall "wikilink").
+Route](:Category:Highways/Great_Wall.md "wikilink").
 
 ## Navigation
 
@@ -65,7 +65,7 @@ weapon. However, he does not move, so can be safely avoided. Moving
 through the Orken Encampment is is an easy way to get access to
 Undrehand on his balcony without being worried about being jumped.
 
-Inside the house, [Orken Enforcers](Enforcer_Orc "wikilink") are
+Inside the house, [Orken Enforcers](Enforcer_Orc.md "wikilink") are
 aggressive and can cause trouble. In the staff quarters, safely behind a
 door, things are different though. The mobs here are less well armed,
 and easier to deal with with little chance of an aggressive guard

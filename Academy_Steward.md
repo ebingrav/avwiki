@@ -5,11 +5,11 @@ academy itself. He seems well qualified for the position, and looks to
 be a consummate manager.*
 
 **Keywords:** academy, steward, gnome.  
-**[Level](Level "wikilink"):** 12.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 12.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -23,13 +23,14 @@ be a consummate manager.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Village of
-Gnimh](:Category:_Village_Of_Gnimh "wikilink")
-([Map](Village_Of_Gnimh_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Academy Foyer (portable).  
-Walking route from [Nom](Nom "wikilink"): 9n, \[n\], w, 12n, 2w, 3s, 2w,
-6s, 6w.  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 2w, 3s, 2w,
+**[Area](:Category:_Areas.md "wikilink"):** [Village of
+Gnimh](:Category:_Village_Of_Gnimh.md "wikilink")
+([Map](Village_Of_Gnimh_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Academy Foyer
+(portable).  
+Walking route from [Nom](Nom.md "wikilink"): 9n, \[n\], w, 12n, 2w, 3s,
+2w, 6s, 6w.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 2w, 3s, 2w,
 6s, 6w.  
 The Academy steward is portable.  
 

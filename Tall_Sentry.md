@@ -5,16 +5,16 @@ So be gone!'
 business.*
 
 **Keywords:** tall, sentry.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** ?.  
 
 ## Gear
 
 `The tall sentry is using:`  
-<wielded>`           `[`the`` ``morning`` ``star`](Morning_Star "wikilink")
+<wielded>`           `[`the`` ``morning`` ``star`](Morning_Star.md "wikilink")
 
 `The tall sentry is carrying:`  
 `     Nothing.`
@@ -25,14 +25,14 @@ business.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Dark
-Castle](:Category:_Dark_Castle "wikilink")
-([Map](Dark_Castle_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** At the castle gates
+**[Area](:Category:_Areas.md "wikilink"):** [The Dark
+Castle](:Category:_Dark_Castle.md "wikilink")
+([Map](Dark_Castle_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** At the castle gates
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e, n,
-2e, n, e, 2n, w, 3n, 2e.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e,
+n, 2e, n, e, 2n, w, 3n, 2e.  
 The tall sentry is portable.  
 
 [Category: Mobs In Dark

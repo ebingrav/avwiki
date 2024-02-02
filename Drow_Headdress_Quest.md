@@ -10,7 +10,7 @@ Then complete:
 
 -   [Septarch Animosity Quest](Septarch_Animosity_Quest "wikilink")
 
-After that the [Drow Headdress](Drow_Headdress_(Tiureess) "wikilink")
+After that the [Drow Headdress](Drow_Headdress_(Tiureess).md "wikilink")
 may be on the ground.
 
 [Category: Quests In Tiureess](Category:_Quests_In_Tiureess "wikilink")

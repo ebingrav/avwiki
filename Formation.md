@@ -7,6 +7,6 @@
 ` `  
 ` Formation skills cannot be purchased out of class.`  
 ` `  
-` See Also: `[`STANCE`](Stance "wikilink")
+` See Also: `[`STANCE`](Stance.md "wikilink")
 
 [Category:Skills](Category:Skills "wikilink")

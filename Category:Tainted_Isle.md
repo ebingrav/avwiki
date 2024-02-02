@@ -12,15 +12,15 @@ Yet such a one must be both brave - and very lucky.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 40s, w (note: crosses
-[water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 40s, w (note: crosses
+[water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[surf](Raging_Surf "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[surf](Raging_Surf.md "wikilink").
 
 ## Connections
 
-[Sea of Strayed Hopes](:Category:_Sea_Of_Strayed_Hopes "wikilink")
+[Sea of Strayed Hopes](:Category:_Sea_Of_Strayed_Hopes.md "wikilink")
 
 ## Navigation
 

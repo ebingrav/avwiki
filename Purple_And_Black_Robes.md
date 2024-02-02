@@ -12,14 +12,14 @@ permeate every thread.*
 **Slot:** about body  
 **Quality:** 100 hps  
 **Weight:** 2 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** evil
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** evil
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Haunted
-Forest](:Category:Haunted_Forest "wikilink")
-([Map](Haunted_Forest_Map "wikilink"))  
-**[Mob](:Category:_Mobs "wikilink"):** [Necromancer (Haunted
+**[Area](:Category:_Areas.md "wikilink"):** [Haunted
+Forest](:Category:Haunted_Forest.md "wikilink")
+([Map](Haunted_Forest_Map.md "wikilink"))  
+**[Mob](:Category:_Mobs.md "wikilink"):** [Necromancer (Haunted
 Forest)](Necromancer_(Haunted_Forest) "wikilink")  
 **Walking route from [Kelsee](Kelsee "wikilink"):** s{s}3s2esw
 

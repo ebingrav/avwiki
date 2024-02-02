@@ -3,18 +3,19 @@ elegant silver chain. It is as if the moonlight was piercing the cloudy
 sky to reveal some houses or a path. Very strange that someone should
 loose this piece of jewelery, which so obviously radiates with power.*
 
-`Modifies `[`mana`](Mana_Points "wikilink")` by 15 continuous.`
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** gem frozen moonlight.  
-**[Level(s)](Object_Level "wikilink"):** 23.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 23.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink").  
 
 ## Comments
 
@@ -24,11 +25,11 @@ hidden mobs.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Odevar
-Hills](:Category:_Odevar_Hills "wikilink") ([Odevar Hills
-Map](Odevar_Hills_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Gem Of Frozen
-Moonlight Quest](Gem_Of_Frozen_Moonlight_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Odevar
+Hills](:Category:_Odevar_Hills.md "wikilink") ([Odevar Hills
+Map](Odevar_Hills_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Gem Of Frozen
+Moonlight Quest](Gem_Of_Frozen_Moonlight_Quest.md "wikilink").  
 The starting point for this quest is at the [Huge
 Troll](Huge_Troll "wikilink") in Odevar Hills. Check out her description
 for clues to the quest.

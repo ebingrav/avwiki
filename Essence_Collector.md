@@ -20,7 +20,7 @@ to lose its wield will result in it casting detonate more frequently.
 
 Can be found in the maze east/west of the [Weaver
 Mother](Weaver_Mother "wikilink") in the
-[Unravelling](:Category:Unravelling "wikilink").
+[Unravelling](:Category:Unravelling.md "wikilink").
 
 [Category: Mobs In
 Unravelling](Category:_Mobs_In_Unravelling "wikilink")

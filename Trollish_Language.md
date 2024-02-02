@@ -9,9 +9,9 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Trollish:   `*`Ja`` ``krugejku`` ``dodegu`` ``toough`` ``gugdon`` ``o`` ``ja`` ``ruda`` ``nod.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Trollish:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Trollish:
 
--   [Trolls](Trolls "wikilink").
+-   [Trolls](Trolls.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

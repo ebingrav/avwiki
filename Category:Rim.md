@@ -130,7 +130,7 @@ weather, perhaps other things yet to be discovered.
 **Warning**: This area is all no-quit, no-linkrefresh, cursed (and thus
 no Sanctum either). Teleport/portal out is still available.
 
-This [area](:Category:_Areas "wikilink") was added on 10th of February
-2013.
+This [area](:Category:_Areas.md "wikilink") was added on 10th of
+February 2013.
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink")

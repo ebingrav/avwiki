@@ -7,21 +7,21 @@ that Tannah might have seen him and will petrify him.*
 
 **Keywords:** ogre, servant  
 **Scan Description:**  
-**[Level](Level "wikilink"):** 50.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Wimpy](Wimpy_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 50.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Wimpy](Wimpy_Mobs.md "wikilink")  
 **Affects:** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink")
-([Map](Obsidian_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** <Interior of the tower>
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:Obsidian_Tower.md "wikilink")
+([Map](Obsidian_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** <Interior of the tower>
+([Cursed](Cursed_Rooms.md "wikilink")).  
 Ogre Servant wanders.
 
 [Category:Mobs In Obsidian

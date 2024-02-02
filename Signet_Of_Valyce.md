@@ -2,9 +2,9 @@
 Type: ticket  
 Flags: nolocate  
 Weight: ?  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 Mob: [Valyce Of The Winter](Valyce_Of_The_Winter "wikilink")  
 If you give this to the [Weaver Mother](Weaver_Mother "wikilink") she
 will tell you the following story about [Valyce Of The
@@ -24,7 +24,7 @@ who secretly smiled to hear she had met her end upon Manon's daggers."*
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

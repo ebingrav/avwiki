@@ -12,23 +12,23 @@ from each end are a series of large spikes. Just one clean hit would be
 enough to impale you!*
 
 **Keywords:** demigod, erashnak.  
-**[Level](Level "wikilink"):** 85.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), very aggressive.  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink")  
+**[Level](Level.md "wikilink"):** 85.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), very aggressive.  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink")  
 
 `The demigod Erashnak is using:`  
-<worn on body>`      [Pristine  ] (Humming) `[`a`` ``hardened`` ``iron`` ``breastplate`](Hardened_Iron_Breastplate "wikilink")  
-<worn on legs>`      [Pristine  ] `[`painted`` ``leggings`](Painted_Leggings "wikilink")  
-<worn on wrist>`     [Pristine  ] (Glowing) `[`jewelled`` ``wrist`` ``guards`](Jewelled_Wrist_Guards "wikilink")  
-<worn on wrist>`     [Pristine  ] (Glowing) `[`jewelled`` ``wrist`` ``guards`](Jewelled_Wrist_Guards "wikilink")  
-<wielded>`           [Pristine  ] (Glowing) (Humming) `[`a`` ``massive`` ``two-headed`` ``mace`](Massive_Two-Headed_Mace "wikilink")  
+<worn on body>`      [Pristine  ] (Humming) `[`a`` ``hardened`` ``iron`` ``breastplate`](Hardened_Iron_Breastplate.md "wikilink")  
+<worn on legs>`      [Pristine  ] `[`painted`` ``leggings`](Painted_Leggings.md "wikilink")  
+<worn on wrist>`     [Pristine  ] (Glowing) `[`jewelled`` ``wrist`` ``guards`](Jewelled_Wrist_Guards.md "wikilink")  
+<worn on wrist>`     [Pristine  ] (Glowing) `[`jewelled`` ``wrist`` ``guards`](Jewelled_Wrist_Guards.md "wikilink")  
+<wielded>`           [Pristine  ] (Glowing) (Humming) `[`a`` ``massive`` ``two-headed`` ``mace`](Massive_Two-Headed_Mace.md "wikilink")  
   
 `You peek at the inventory:`  
-`    [Pristine  ] `[`wand`` ``of`` ``the`` ``moon`](Wand_Of_The_Moon "wikilink")
+`    [Pristine  ] `[`wand`` ``of`` ``the`` ``moon`](Wand_Of_The_Moon.md "wikilink")
 
 ## Comments
 
@@ -37,10 +37,10 @@ Quest](Suntamer_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mountain
-Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A mysterious enclave!  
+**[Area](:Category:_Areas.md "wikilink"):** [Mountain
+Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A mysterious enclave!  
 
 [Category: Mobs In Mountain
 Tunnels](Category:_Mobs_In_Mountain_Tunnels "wikilink")

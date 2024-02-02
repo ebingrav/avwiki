@@ -7,11 +7,11 @@ subsequent slinks and spurts.*
 **Keywords:** seawater, quasielemental.  
 **Scan Description:** A sentient SOMETHING swirls with surprising
 celerity!  
-**[Level](Level "wikilink"):** 72.  
-**[Alignment](Alignment "wikilink"):** angelic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** aggressive.  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[sanctuary](Sanctuary "wikilink"), [sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 72.  
+**[Alignment](Alignment.md "wikilink"):** angelic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** aggressive.  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink"), [sneak](Sneak.md "wikilink").  
 
 ## Gear
 
@@ -23,9 +23,9 @@ Bottle](Message_In_A_Bottle "wikilink") (ticket).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A swamp of stagnant seawater
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A swamp of stagnant seawater
+([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Rim](Category:_Mobs_In_Rim "wikilink")

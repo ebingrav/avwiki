@@ -6,9 +6,9 @@
 Bases: 10-12  
 Levels: 50-52  
 Weight: 7  
-Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink"))  
-Mob: [Cultist members](Cultist_Of_Ecstasy "wikilink")  
+Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink"))  
+Mob: [Cultist members](Cultist_Of_Ecstasy.md "wikilink")  
 
 Portal to leper. Go north, east, north, up, and search around. Typically
 the cultist members will be behind closed doors. Be sure to watch out

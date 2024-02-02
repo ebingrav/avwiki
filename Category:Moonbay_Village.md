@@ -14,15 +14,15 @@ moon, or you might not live to regret it!*
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_Default_Recall "wikilink"): 2s, d, 2s, e, 3s, 3e, 2s,
+recall](Eragora_Default_Recall.md "wikilink"): 2s, d, 2s, e, 3s, 3e, 2s,
 2e, 2s, e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Binbinka](Binbinka "wikilink").
 
 ## Connections
 
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
 
 ## Navigation
 

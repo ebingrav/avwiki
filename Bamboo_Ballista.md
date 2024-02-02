@@ -6,13 +6,13 @@ wood makes it unsuited for parrying incoming blows, though.*
 `Modifies hit roll by 18 continuous.`
 
 **Keyword(s):** bamboo, ballista  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):** [Light
-Crossbow](:Category:Light_Crossbows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** hum.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [Light
+Crossbow](:Category:Light_Crossbows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** hum.  
 
 ## Comments
 
@@ -26,9 +26,9 @@ killed him yet? Unclear.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Rapture](:Category:_Rapture "wikilink")
-([Map](Rapture_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Rapture](:Category:_Rapture.md "wikilink")
+([Map](Rapture_Map.md "wikilink"))  
 
 [Category: Gear In Rapture](Category:_Gear_In_Rapture "wikilink")
 [Category: Light Crossbows](Category:_Light_Crossbows "wikilink")

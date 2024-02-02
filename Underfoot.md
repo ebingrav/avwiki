@@ -1,9 +1,10 @@
-''[Fusiliers](:Category:_Fusiliers "wikilink") are adept at using their
-small size to confound larger enemies. This
-[skill](:Category:_Skills "wikilink") acts like an enhanced
-[dodge](Dodge "wikilink") against enemies who are larger than the user.
+''[Fusiliers](:Category:_Fusiliers.md "wikilink") are adept at using
+their small size to confound larger enemies. This
+[skill](:Category:_Skills.md "wikilink") acts like an enhanced
+[dodge](Dodge.md "wikilink") against enemies who are larger than the
+user.
 
-Prerequisite(s): [Dodge](Dodge "wikilink").
+Prerequisite(s): [Dodge](Dodge.md "wikilink").
 
 Syntax: none (automatic).
 

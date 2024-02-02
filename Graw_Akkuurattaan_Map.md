@@ -1,9 +1,10 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Graw_Akkuurattaan_Map.jpg" title="Graw_Akkuurattaan_Map.jpg"
-width="800" alt="Graw_Akkuurattaan_Map.jpg" />
-<figcaption aria-hidden="true">Graw_Akkuurattaan_Map.jpg</figcaption>
+<img src="Graw_Akkuurattaan_Map.jpg.md"
+title="Graw_Akkuurattaan_Map.jpg.md" width="800"
+alt="Graw_Akkuurattaan_Map.jpg.md" />
+<figcaption aria-hidden="true">Graw_Akkuurattaan_Map.jpg.md</figcaption>
 </figure>
 
 [Deepways Map](Deepways_Map "wikilink")  

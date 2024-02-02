@@ -1,26 +1,27 @@
-*This [spell](:Category:_Spells "wikilink") enables the target
-[character](:Category:_Characters "wikilink") to see heat in the dark.
-For some [races](:Category:_Races "wikilink"),
-[infravision](Racial_Infravision "wikilink") is [an innate racial
-ability](:Category:_Racials "wikilink"). These
-[races](:Category:_Races "wikilink"), such as the
-[drow](Drow "wikilink"), can then see in the dark. But, there may be a
-price to pay, so these [races](:Category:_Races "wikilink") should watch
-[their sensitivity to light in bright rooms](Racial_Nosun "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") enables the target
+[character](:Category:_Characters.md "wikilink") to see heat in the
+dark. For some [races](:Category:_Races.md "wikilink"),
+[infravision](Racial_Infravision.md "wikilink") is [an innate racial
+ability](:Category:_Racials.md "wikilink"). These
+[races](:Category:_Races.md "wikilink"), such as the
+[drow](Drow.md "wikilink"), can then see in the dark. But, there may be
+a price to pay, so these [races](:Category:_Races.md "wikilink") should
+watch [their sensitivity to light in bright
+rooms](Racial_Nosun.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'infravision'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'infravision'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-See also [Racial Infravision](Racial_Infravision "wikilink").
+See also [Racial Infravision](Racial_Infravision.md "wikilink").
 
-This [spell](:Category:_Spells "wikilink") is included in [Holy
-Sight](Holy_Sight "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in [Holy
+Sight](Holy_Sight.md "wikilink").
 
 See also [Gear That Applies
-Infravision](:Category:_Gear_That_Applies_Infravision "wikilink") and
-[Infravision Gear](:Category:_Infravision_Gear "wikilink").
+Infravision](:Category:_Gear_That_Applies_Infravision.md "wikilink") and
+[Infravision Gear](:Category:_Infravision_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

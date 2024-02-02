@@ -1,31 +1,32 @@
 *A heart-shaped amulet lies here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
-`'`[`detect`` ``evil`](Detect_Evil "wikilink")`' continuous.`  
-`'`[`detect`` ``hidden`](Detect_Hidden "wikilink")`' continuous.`  
-`'`[`detect`` ``invis`](Detect_Invis "wikilink")`' continuous.`  
-`'`[`detect`` ``magic`](Detect_Magic "wikilink")`' continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
+`'`[`detect`` ``evil`](Detect_Evil.md "wikilink")`' continuous.`  
+`'`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")`' continuous.`  
+`'`[`detect`` ``invis`](Detect_Invis.md "wikilink")`' continuous.`  
+`'`[`detect`` ``magic`](Detect_Magic.md "wikilink")`' continuous.`
 
 **Keyword(s):** amulet, heart-shaped, heart.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"), [glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Haunted
-Forest](:Category:_Haunted_Forest "wikilink")
-([Map](Haunted_Forest_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a huge black
-demon](Huge_Black_Demon "wikilink").  
-See [a huge black demon](Huge_Black_Demon "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [The Haunted
+Forest](:Category:_Haunted_Forest.md "wikilink")
+([Map](Haunted_Forest_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a huge black
+demon](Huge_Black_Demon.md "wikilink").  
+See [a huge black demon](Huge_Black_Demon.md "wikilink") for more
 information.
 
 [Category: Gear In Haunted

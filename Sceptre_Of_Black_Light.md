@@ -1,35 +1,36 @@
 *The sceptre consists of a metal shaft with a round globe atop it.
 Within the globe beats the heart of
-[Sycoltan](Mutate,_Sycoltan "wikilink"), the evil
-[drow](Drow "wikilink") [sorcerer](:Category:_Sorcerers "wikilink").*
+[Sycoltan](Mutate,_Sycoltan.md "wikilink"), the evil
+[drow](Drow.md "wikilink")
+[sorcerer](:Category:_Sorcerers.md "wikilink").*
 
-`It has an unknown `[`duration`](Light_Values "wikilink")`.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`
+`It has an unknown `[`duration`](Light_Values.md "wikilink")`.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** sceptre, black, light.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 40 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink"), [dark](Dark_Flag "wikilink"),
-[evil](Evil_Flag "wikilink"), [glow](Glow_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[dark](Dark_Flag.md "wikilink"), [evil](Evil_Flag.md "wikilink"),
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Forgotten
-One](:Category:_Forgotten_One "wikilink")
-([Map](Forgotten_One_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Sceptre of Black
-Light Quest](Sceptre_Of_Black_Light_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Forgotten
+One](:Category:_Forgotten_One.md "wikilink")
+([Map](Forgotten_One_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Sceptre of Black
+Light Quest](Sceptre_Of_Black_Light_Quest.md "wikilink").  
 See [Sceptre of Black Light
-Quest](Sceptre_Of_Black_Light_Quest "wikilink") for more information.
+Quest](Sceptre_Of_Black_Light_Quest.md "wikilink") for more information.
 
 [Category: Gear In Forgotten
 One](Category:_Gear_In_Forgotten_One "wikilink") [Category:

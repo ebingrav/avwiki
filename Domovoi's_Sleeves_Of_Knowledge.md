@@ -7,13 +7,13 @@
 `Modifies strength by 1 continuous`
 
 **Keyword(s):** sleeves, knowledge, domovois.  
-**[Level(s)](Object_Level "wikilink"):** 45.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** hum, magic,
+**[Level(s)](Object_Level.md "wikilink"):** 45.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** hum, magic,
 nolocate.  
 
 ## Recipe
@@ -32,8 +32,8 @@ Sleeves](Spiked_Sleeves "wikilink") \[pp Volse Pinescu, aggie\])
 
 *Although the item is low mort level, there is a quest available to
 upgrade the item to Hero stats. Search in one of the [major
-cities](:Category:Mervue "wikilink") for a
-[clue](Domovoi's_Treasure_Quest "wikilink").*
+cities](:Category:Mervue.md "wikilink") for a
+[clue](Domovoi's_Treasure_Quest.md "wikilink").*
 
 ## Comments
 
@@ -42,14 +42,14 @@ about Veil of Ecstasy after "a wave of bugs hit the MUD" over a couple
 of weeks, resulting in corrupted Immortal pfiles running havoc around
 there.
 
-Once [Domovoi's Treasure Quest](Domovoi's_Treasure_Quest "wikilink") is
-done, give the old lamp and sleeves to the armorsmith in Mervue and
+Once [Domovoi's Treasure Quest](Domovoi's_Treasure_Quest.md "wikilink")
+is done, give the old lamp and sleeves to the armorsmith in Mervue and
 choose between:
 
 -   spellpower boost: Sets level to 51, adds +2% spellpower.
 -   fighting boost: Sets level to 51, adds +2% melee power. (should be
-    more damage than the 4DR [brand](Dark_Dwarven_Brand "wikilink") or
-    [sleeves](Spiked_Sleeves "wikilink") grant).
+    more damage than the 4DR [brand](Dark_Dwarven_Brand.md "wikilink")
+    or [sleeves](Spiked_Sleeves.md "wikilink") grant).
 -   healing boost: Sets level to 51, adds +2% healing power.
 
 [Category: Manifest Gear](Category:_Manifest_Gear "wikilink") [Category:

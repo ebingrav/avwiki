@@ -4,30 +4,30 @@ it was before its demise, the land green and luscious. This might be the
 source of the Mistress' hold on the farm, but you have no idea how to
 undo the damage.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-8.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5.`  
-`Modifies `[`save`](Saving_Throw "wikilink")` vs spell by -5.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-8.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5.`  
+`Modifies `[`save`](Saving_Throw.md "wikilink")` vs spell by -5.`
 
 **Keyword(s):** burning lavaliere.  
-**[Level(s)](Object_Level "wikilink"):** 31-33.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 31-33.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [evil](Evil_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [:Category: Desiccated
+**[Area](:Category:_Areas.md "wikilink"):** [:Category: Desiccated
 Farmland](:Category:_Desiccated_Farmland "wikilink")
-([Map](Desiccated_Farmland_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Half-Orken
+([Map](Desiccated_Farmland_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Half-Orken
 Man](Half-Orken_Man "wikilink").  
 See [Half-Orken Man](Half-Orken_Man "wikilink") for more information.  
 from [Diryn](Diryn "wikilink"): 2s, e, 2s, w, 2e, 3s, 2n, \[d\], d, push

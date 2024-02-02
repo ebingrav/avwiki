@@ -5,10 +5,10 @@ blood of their fallen prey.*
 **Keywords:** harpy, apex.  
 **Scan Description:** A hideous winged creature screams at you, spewing
 spittle.  
-**[Level](Level "wikilink"):** 73.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 73.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** [Sneak](Sneak "wikilink").  
 
 ## Gear
@@ -32,11 +32,11 @@ are still dangerous to fight (invis wraiths may wander in, etc.).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Abishai's
-Pass](:Category:_Abishai's_Pass "wikilink")
-([Map](Abishai's_Pass_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):** [Abishai's
+Pass](:Category:_Abishai's_Pass.md "wikilink")
+([Map](Abishai's_Pass_Map.md "wikilink")).
 
-Apex Harpy [wanders](Wandering_Mobs "wikilink").
+Apex Harpy [wanders](Wandering_Mobs.md "wikilink").
 
 [Category:Mobs In Abishai's
 Pass](Category:Mobs_In_Abishai's_Pass "wikilink")

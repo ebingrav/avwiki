@@ -43,8 +43,8 @@
 </td>
 <td>
 
-[Verdant Isle](:Category:_Verdant_Isle "wikilink")
-([Map](Verdant_Isle_Map "wikilink"))
+[Verdant Isle](:Category:_Verdant_Isle.md "wikilink")
+([Map](Verdant_Isle_Map.md "wikilink"))
 
 </td>
 </tr>
@@ -56,7 +56,7 @@
 </td>
 <td>
 
-an [Ohia Lehua tree](Ohia_Lehua_Tree "wikilink") *(Aggressive)*
+an [Ohia Lehua tree](Ohia_Lehua_Tree.md "wikilink") *(Aggressive)*
 
 </td>
 </tr>

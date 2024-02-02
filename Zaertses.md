@@ -4,11 +4,11 @@ others for himself. He also donates some relics to the Antharian
 councils, which are said to be displayed in a museum inside the Temple.*
 
 **Keywords:** Zaertses.  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -17,21 +17,21 @@ councils, which are said to be displayed in a museum inside the Temple.*
 `Nothing.`
 
 `Zaertses is carrying:                                                                [Lv Price]`  
-`     (Glowing) `[`a`` ``crystal`` ``scroll`](Crystal_Scroll "wikilink")`                                                      [ 0 15000]`  
-`     (Glowing) `[`a`` ``giant`` ``clamshell`](Giant_Clamshell "wikilink")`                                                     [ 0    16]`
+`     (Glowing) `[`a`` ``crystal`` ``scroll`](Crystal_Scroll.md "wikilink")`                                                      [ 0 15000]`  
+`     (Glowing) `[`a`` ``giant`` ``clamshell`](Giant_Clamshell.md "wikilink")`                                                     [ 0    16]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Zaertses' House of Relics
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Zaertses' House of Relics
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d, 2n, 2w, s.
-(note: crosses [water terrain](Water_Terrain "wikilink"))  
-Walking route from [Suretin](Suretin "wikilink"): 2w, s.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d, 2n, 2w,
+s. (note: crosses [water terrain](Water_Terrain.md "wikilink"))  
+Walking route from [Suretin](Suretin.md "wikilink"): 2w, s.  
 Zaertses is portable.  
 
 [Category: Mobs In Antharia](Category:_Mobs_In_Antharia "wikilink")

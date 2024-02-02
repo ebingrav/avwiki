@@ -11,9 +11,9 @@ Assumptions:
     Hat](Wide_Brimmed_Black_Hat "wikilink") as well as a [Silver
     Crucifix](Silver_Crucifix "wikilink"), both etched *lvlgear*. This
     is a common combo of items for those characters
-    [devoting](Devotion "wikilink") [Quixoltan](Quixoltan "wikilink").
-    If you do not need both items, simply remove the line in question
-    below.
+    [devoting](Devotion.md "wikilink")
+    [Quixoltan](Quixoltan "wikilink"). If you do not need both items,
+    simply remove the line in question below.
 -   Similarly, replace the line wearing items back with the correct etch
     for your running items, or directly put in item names if you use
     unetched gear.

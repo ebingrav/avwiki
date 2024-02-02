@@ -1,17 +1,18 @@
 **A rogue with lockpicks is very handy for this run**
 
 If the [Planar Anchor](Planar_Anchor "wikilink") is not already in
-[Noctopia](:Category:Noctopia "wikilink") you get to experience the joy
-that is [Noctopia](:Category:Noctopia "wikilink") shift. See [Shiftwatch
-Orb](:Category:Shiftwatch_Orb "wikilink") for hints on surviving this
-process. Once you clear shift go s, d, w, {d} to reach a
+[Noctopia](:Category:Noctopia.md "wikilink") you get to experience the
+joy that is [Noctopia](:Category:Noctopia.md "wikilink") shift. See
+[Shiftwatch Orb](:Category:Shiftwatch_Orb.md "wikilink") for hints on
+surviving this process. Once you clear shift go s, d, w, {d} to reach a
 [Lloydable](Lloydable "wikilink") room in [Under The
-Stars](:Category:Under_The_Stars "wikilink"). Note that that final down
-exit is a bashable door. Also note that the "bleeding tunnels" portion
-of [Under The Stars](:Category:Under_The_Stars "wikilink") is noregen.
+Stars](:Category:Under_The_Stars.md "wikilink"). Note that that final
+down exit is a bashable door. Also note that the "bleeding tunnels"
+portion of [Under The Stars](:Category:Under_The_Stars.md "wikilink") is
+noregen.
 
 From the [Lloydable](Lloydable "wikilink") room in [Under The
-Stars](:Category:Under_The_Stars "wikilink") go all north, west, all
+Stars](:Category:Under_The_Stars.md "wikilink") go all north, west, all
 north, down, and all north. At the end of all north, you will need a
 rogue to pick west. After picking this door, head north again until you
 see a closed up, which you can bashdoor open. Heading up should put you
@@ -44,10 +45,10 @@ intervention and heal the other mobs, so it's a good idea to target her
 first.
 
 While you're on the [arena
-floor](:Category:Obsidian_Arena;_Floor "wikilink") you can check if
+floor](:Category:Obsidian_Arena;_Floor.md "wikilink") you can check if
 [Yorimandil The Blind](Yorimandil_The_Blind "wikilink") is home. I'm
 pretty sure he splits his time between this area and the "iron walkways"
-portion of [Under The Stars](:Category:Under_The_Stars "wikilink").
+portion of [Under The Stars](:Category:Under_The_Stars.md "wikilink").
 
 If you kill all the mobs in the area, then you can obtain the [Shield Of
 Shadows](Shield_Of_Shadows "wikilink"). The message will look like:

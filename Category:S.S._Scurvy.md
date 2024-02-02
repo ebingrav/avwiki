@@ -1,9 +1,9 @@
-*The town of [Mervue](:Category:_Mervue "wikilink") is one of only two
-towns to be built on the coast. The Pirate
-[Captain](Captain_Black_Beard "wikilink") of the S.S. Scurvy says he is
-docked south of [Mervue](:Category:_Mervue "wikilink") in order to trade
-goods, and is not there to watch for heavily laden ships leaving the
-port. You believe him, don't you?*
+*The town of [Mervue](:Category:_Mervue.md "wikilink") is one of only
+two towns to be built on the coast. The Pirate
+[Captain](Captain_Black_Beard.md "wikilink") of the S.S. Scurvy says he
+is docked south of [Mervue](:Category:_Mervue.md "wikilink") in order to
+trade goods, and is not there to watch for heavily laden ships leaving
+the port. You believe him, don't you?*
 
 **Level Range:** 28-33
 
@@ -11,11 +11,11 @@ port. You believe him, don't you?*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2e, u (note:
-crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2e, u (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [Captain Black
-Beard](Captain_Black_Beard "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Captain Black
+Beard](Captain_Black_Beard.md "wikilink").
 
 ## Connections
 

@@ -1,26 +1,27 @@
-*This [spell](:Category:_Spells "wikilink") increases the
-[strength](Strength "wikilink") of the target
-[character](:Category:_Characters "wikilink") up to 2x his normal
-[strength](Strength "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") increases the
+[strength](Strength.md "wikilink") of the target
+[character](:Category:_Characters.md "wikilink") up to 2x his normal
+[strength](Strength.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'giant strength'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'giant strength'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This is a very useful [skill](:Category:_Skills_And_Spells "wikilink")
-for all [characters](:Category:_Characters "wikilink") (who can) to
-[learn](Practice "wikilink"). It increases its target
-[character](:Category:_Characters "wikilink")'s
-[strength](Strength "wikilink") by 4, though not more than 3 above its
-target's maximum [trainable](Train "wikilink")
-[strength](Strength "wikilink"). It is superfluous for
-[characters](:Category:_Characters "wikilink") affected by [Enhanced
-Strength](Enhanced_Strength "wikilink"). It is included in
-[Foci](Foci "wikilink").
+This is a very useful
+[skill](:Category:_Skills_And_Spells.md "wikilink") for all
+[characters](:Category:_Characters.md "wikilink") (who can) to
+[learn](Practice.md "wikilink"). It increases its target
+[character](:Category:_Characters.md "wikilink")'s
+[strength](Strength.md "wikilink") by 4, though not more than 3 above
+its target's maximum [trainable](Train.md "wikilink")
+[strength](Strength.md "wikilink"). It is superfluous for
+[characters](:Category:_Characters.md "wikilink") affected by [Enhanced
+Strength](Enhanced_Strength.md "wikilink"). It is included in
+[Foci](Foci.md "wikilink").
 
 See also [Giant Strength
-Gear](:Category:_Giant_Strength_Gear "wikilink").
+Gear](:Category:_Giant_Strength_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

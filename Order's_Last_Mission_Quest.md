@@ -25,7 +25,8 @@ not be granted again.
 **Disclaimer**: My memory is frail and the following information may be
 incomplete, inaccurate or entirely made up. If you ran the quest
 recently feel free to update the guide. --
-[WinterRose](User:WinterRose "wikilink") 03:14, 11 September 2013 (EDT)
+[WinterRose](User:WinterRose.md "wikilink") 03:14, 11 September 2013
+(EDT)
 
 Quest starts with the players entering the Shadow Keep and locating the
 librarian's ghost. Upon getting his attention by

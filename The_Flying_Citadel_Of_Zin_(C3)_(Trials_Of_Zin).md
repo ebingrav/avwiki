@@ -4,11 +4,11 @@ few feet downward. A tall skinny man in robes is here concentrating on
 something unseen. You can wander the courtyard in any direction, go down
 through the fountain to the land far below, or you can rest here awhile.
 
-**[Room Exits](:Category:Room_Exits "wikilink"):** north, east, south,
-west, down  
-**[Room Types](:Category:Room_Types "wikilink"):**
-[infirmary](:Category:Infirmaries "wikilink"),
-[safe](Safe_Rooms "wikilink").
+**[Room Exits](:Category:Room_Exits.md "wikilink"):** north, east,
+south, west, down  
+**[Room Types](:Category:Room_Types.md "wikilink"):**
+[infirmary](:Category:Infirmaries.md "wikilink"),
+[safe](Safe_Rooms.md "wikilink").
 
 ## Mobs In This Room
 

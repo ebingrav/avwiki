@@ -1,15 +1,15 @@
 *An onyx knife, perfect for kitchen work, lies on the ground here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 9 to 33 (average 21).`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 9 to 33 (average 21).`
 
 **Keyword(s):** onyx knife.  
-**[Level(s)](Object_Level "wikilink"):** 35.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 35.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -18,10 +18,10 @@ armor value can also go up to base 12.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Property
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Property
 Owner](Property_Owner "wikilink"), [Abbesicn
 Housewife](Abbesicn_Housewife "wikilink").  
 See each mob's individual page for more information.  

@@ -28,19 +28,19 @@ role of an Immortal, as they work hard to improve Avatar.</p>
 <p>You can contact the immortal staff by sending an in-game <a
 href="note" title="wikilink">note</a> to immortal on board 2, or an
 out-of-game email to: <em>immortal's name</em> @outland.org</p>
-<p>You can also use the <a href="pray" title="wikilink">PRAY</a> channel
-to send a message to all the <a href="wizlist"
-title="wikilink">immortals</a> and <a href=":Category:_Angels"
+<p>You can also use the <a href="pray.md" title="wikilink">PRAY</a>
+channel to send a message to all the <a href="wizlist.md"
+title="wikilink">immortals</a> and <a href=":Category:_Angels.md"
 title="wikilink">angels</a> online at that time, request assistance from
-the community at large using <a href="nchat" title="wikilink">NCHAT</a>,
-or send a <a href="tell" title="wikilink">TELL</a> to the most junior
-immortal around (unless you really need the more senior immortal's
-assistance).</p>
-<p><strong><a href="Level" title="wikilink">Levels</a>:</strong> 850 -
-1000</p>
-<p>See also <a href="Wizlist" title="wikilink">List of Immortals</a>, <a
-href=":Category:Retired_Immortals" title="wikilink">List of Retired
-Immortals</a>, <a href=":Category:_Angels"
+the community at large using <a href="nchat.md"
+title="wikilink">NCHAT</a>, or send a <a href="tell.md"
+title="wikilink">TELL</a> to the most junior immortal around (unless you
+really need the more senior immortal's assistance).</p>
+<p><strong><a href="Level.md" title="wikilink">Levels</a>:</strong> 850
+- 1000</p>
+<p>See also <a href="Wizlist.md" title="wikilink">List of Immortals</a>,
+<a href=":Category:Retired_Immortals.md" title="wikilink">List of
+Retired Immortals</a>, <a href=":Category:_Angels.md"
 title="wikilink">Angels</a>.</p></td>
 </tr>
 </tbody>

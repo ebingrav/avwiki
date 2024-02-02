@@ -1,32 +1,32 @@
-*This [spell](:Category:_Spells "wikilink") enables the caster to detect
-[invisible](Invis_Flag "wikilink")
-[objects](:Category:_Objects "wikilink") and
-[characters](:Category:_Characters "wikilink").
-[Creatures](:Category:_Mobs "wikilink") and
-[players](:Category:_Characters "wikilink") more than 3
-[levels](Level "wikilink") above yourself will NOT be detected,
+*This [spell](:Category:_Spells.md "wikilink") enables the caster to
+detect [invisible](Invis_Flag.md "wikilink")
+[objects](:Category:_Objects.md "wikilink") and
+[characters](:Category:_Characters.md "wikilink").
+[Creatures](:Category:_Mobs.md "wikilink") and
+[players](:Category:_Characters.md "wikilink") more than 3
+[levels](Level.md "wikilink") above yourself will NOT be detected,
 however.*
 
-Prerequisite(s): [Detect Hidden](Detect_Hidden "wikilink"),
-[Invis](Invis "wikilink").
+Prerequisite(s): [Detect Hidden](Detect_Hidden.md "wikilink"),
+[Invis](Invis.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'detect invis'.
+Syntax: [cast](Cast.md "wikilink") 'detect invis'.
 
-See also [Racial Seeinvis](Racial_Seeinvis "wikilink").
+See also [Racial Seeinvis](Racial_Seeinvis.md "wikilink").
 
-This [spell](:Category:_Spells "wikilink") is fairly useful to
-[characters](:Category:_Characters "wikilink") wishing to
-[attack](Kill "wikilink") [invisible](Invis_Flag "wikilink")
-[mobs](:Category:_Mobs "wikilink") or to heal
-[invisible](Invis_Flag "wikilink")
-[players](:Category:_Characters "wikilink") or whatnot. It is included
-in [Holy Sight](Holy_Sight "wikilink"). It is superfluous to
-[characters](:Category:_Characters "wikilink") affected by [Heighten
-Senses](Heighten_Senses "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is fairly useful to
+[characters](:Category:_Characters.md "wikilink") wishing to
+[attack](Kill.md "wikilink") [invisible](Invis_Flag.md "wikilink")
+[mobs](:Category:_Mobs.md "wikilink") or to heal
+[invisible](Invis_Flag.md "wikilink")
+[players](:Category:_Characters.md "wikilink") or whatnot. It is
+included in [Holy Sight](Holy_Sight.md "wikilink"). It is superfluous to
+[characters](:Category:_Characters.md "wikilink") affected by [Heighten
+Senses](Heighten_Senses.md "wikilink").
 
 See also [Gear That Applies Detect
-Invis](:Category:_Gear_That_Applies_Detect_Invis "wikilink") and [Detect
-Invis Gear](:Category:_Detect_Invis_Gear "wikilink").
+Invis](:Category:_Gear_That_Applies_Detect_Invis.md "wikilink") and
+[Detect Invis Gear](:Category:_Detect_Invis_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

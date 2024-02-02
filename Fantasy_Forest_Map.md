@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="fantasy.forest.jpg" title="fantasy.forest.jpg" width="600"
-alt="fantasy.forest.jpg" />
-<figcaption aria-hidden="true">fantasy.forest.jpg</figcaption>
+<img src="fantasy.forest.jpg.md" title="fantasy.forest.jpg.md"
+width="600" alt="fantasy.forest.jpg.md" />
+<figcaption aria-hidden="true">fantasy.forest.jpg.md</figcaption>
 </figure>
 
 [Citadel Arcadia Map](Citadel_Arcadia_Map "wikilink")  

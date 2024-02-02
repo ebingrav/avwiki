@@ -1,16 +1,16 @@
-*Some [characters](:Category:_Characters "wikilink") have the ability to
-embed particular [gemstones](:Category:_Gemstones "wikilink") into
-[objects](:Category:_Objects "wikilink"). If the right combination of
-[gemstones](:Category:_Gemstones "wikilink") is embedded into the right
-[item](:Category:_Objects "wikilink"), then a player can attempt to
-[manifest](Manifest "wikilink") that
-[item](:Category:_Objects "wikilink") into something more powerful.*
+*Some [characters](:Category:_Characters.md "wikilink") have the ability
+to embed particular [gemstones](:Category:_Gemstones.md "wikilink") into
+[objects](:Category:_Objects.md "wikilink"). If the right combination of
+[gemstones](:Category:_Gemstones.md "wikilink") is embedded into the
+right [item](:Category:_Objects.md "wikilink"), then a player can
+attempt to [manifest](Manifest.md "wikilink") that
+[item](:Category:_Objects.md "wikilink") into something more powerful.*
 
-Prerequisite(s): [Gem Lore](Gem_Lore "wikilink"), [Weapon
-Lore](Weapon_Lore "wikilink").
+Prerequisite(s): [Gem Lore](Gem_Lore.md "wikilink"), [Weapon
+Lore](Weapon_Lore.md "wikilink").
 
-Syntax: embed \<[perfect-gemstone](Perfect_Gemstones "wikilink")\>
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: embed \<[perfect-gemstone](Perfect_Gemstones.md "wikilink")\>
+\<[object](:Category:_Objects.md "wikilink")\>.
 
 Possible outcomes:
 
@@ -30,7 +30,7 @@ way you minimize your chances of shattering a perfect gemstone.
 
 Lord 800+ warriors have a skill that makes them virtually no-fail, but
 in general, the same rules apply to embedding as for
-[sharpening](Sharpen_Weapon "wikilink").
+[sharpening](Sharpen_Weapon.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Bodyguard

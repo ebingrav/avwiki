@@ -2,30 +2,31 @@
 river. At the top is carved a shell. Magic emanates from the heart of
 the wood. This is obviously the staff of someone with magical power.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 10 to 29 (average 19).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 10 to 29 (average 19).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** shamans, staff.  
-**[Level(s)](Object_Level "wikilink"):** 22-24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [good](Good_Flag "wikilink"),
-[hum](Hum_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 22-24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [good](Good_Flag.md "wikilink"),
+[hum](Hum_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The River
-Folk](:Category:_River_Folk "wikilink")
-([Map](River_Folk_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a Lhadvar
-Shaman](Lhadvar_Shaman "wikilink").  
-See [a Lhadvar Shaman](Lhadvar_Shaman "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [The River
+Folk](:Category:_River_Folk.md "wikilink")
+([Map](River_Folk_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a Lhadvar
+Shaman](Lhadvar_Shaman.md "wikilink").  
+See [a Lhadvar Shaman](Lhadvar_Shaman.md "wikilink") for more
+information.
 
 [Category: Gear In River Folk](Category:_Gear_In_River_Folk "wikilink")
 [Category: Standard Two-Handed

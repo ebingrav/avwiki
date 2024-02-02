@@ -11,19 +11,19 @@ mysterious fortitude.*
 
 *<b>\* Please note that all Legends are required to multiregister.</b>*
 
-**[Levels](Level "wikilink"):** 250(001) - 250(999)
+**[Levels](Level.md "wikilink"):** 250(001) - 250(999)
 
-| [Legend Information](Legend_Information "wikilink")                                | Information about the Legend tier                                                |
-|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [New Legends](New_Legends "wikilink")                                              | Overview for new Legends                                                         |
-| [ Legend Commands](:Category:Legend_Commands "wikilink")                           | [ Aspects](:Category:Aspects "wikilink")                                         |
-| [ Legend Lores](:Category:Legend_Lores "wikilink")                                 | Legend lore build information                                                    |
-| [ Lore Builds](Lore_Builds "wikilink")                                             | Lore build ideas                                                                 |
-| [ Genesis Results](Genesis_Results "wikilink")                                     | Results of genesis with lore builds                                              |
-| [Legend Gear](:Category:Legend_Gear "wikilink")                                    | Notable legend gear                                                              |
-| [ Legend Tank Gear](:Category:Legend_Tank_Gear "wikilink")                         | [ Legend Hit Gear](:Category:Legend_Hit_Gear "wikilink")                         |
-| [ Legend Second Tier Tank Gear](:Category:Legend_Second_Tier_Tank_Gear "wikilink") | [ Legend Second Tier Hit Gear](:Category:Legend_Second_Tier_Hit_Gear "wikilink") |
-| [Legend Areas](:Category:Legend_Areas "wikilink")                                  | Places to go                                                                     |
+| [Legend Information](Legend_Information.md "wikilink")                                | Information about the Legend tier                                                   |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [New Legends](New_Legends.md "wikilink")                                              | Overview for new Legends                                                            |
+| [ Legend Commands](:Category:Legend_Commands.md "wikilink")                           | [ Aspects](:Category:Aspects.md "wikilink")                                         |
+| [ Legend Lores](:Category:Legend_Lores.md "wikilink")                                 | Legend lore build information                                                       |
+| [ Lore Builds](Lore_Builds.md "wikilink")                                             | Lore build ideas                                                                    |
+| [ Genesis Results](Genesis_Results.md "wikilink")                                     | Results of genesis with lore builds                                                 |
+| [Legend Gear](:Category:Legend_Gear.md "wikilink")                                    | Notable legend gear                                                                 |
+| [ Legend Tank Gear](:Category:Legend_Tank_Gear.md "wikilink")                         | [ Legend Hit Gear](:Category:Legend_Hit_Gear.md "wikilink")                         |
+| [ Legend Second Tier Tank Gear](:Category:Legend_Second_Tier_Tank_Gear.md "wikilink") | [ Legend Second Tier Hit Gear](:Category:Legend_Second_Tier_Hit_Gear.md "wikilink") |
+| [Legend Areas](:Category:Legend_Areas.md "wikilink")                                  | Places to go                                                                        |
 
 **<big>LegendWiki Navigation</big>**
 

@@ -2,32 +2,33 @@
 
 `Damage is 21-29 to 68-77 (average 45-51).`  
 `Draw strength is 16.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 21 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 21 continuous.`
 
 **Keyword(s):** bow, sliver, glowing, moonlight, arc.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Bows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink"),
-[evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Bows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Idolatry Of
-Lloth](:Category:Idolatry_Of_Lloth "wikilink")
-([map](Idolatry_Of_Lloth_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Priestess
+**[Area](:Category:_Areas.md "wikilink"):** [Idolatry Of
+Lloth](:Category:Idolatry_Of_Lloth.md "wikilink")
+([map](Idolatry_Of_Lloth_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Priestess
 Queen](Priestess_Queen "wikilink")  
 Before you try to get this piece of gear, you would be wise to study the
 map!
 
-[Portal](Teleport "wikilink") "drid hunt". This will take you to the
+[Portal](Teleport.md "wikilink") "drid hunt". This will take you to the
 portion of the area labeled "In the web" on the map.
 
 From here head to the northwest corner, where you will find a hole
@@ -36,8 +37,8 @@ area. Now venture into the dangerous Golden Web, which is in the
 southeast corner of the floor.
 
 You need to let yourself get pummeled by [Lloth-ra
-Knights](Lloth-ra_Knight "wikilink"). Instead of killing you, they will
-get you to 10hp and capture you, dragging you to the [Priestess
+Knights](Lloth-ra_Knight.md "wikilink"). Instead of killing you, they
+will get you to 10hp and capture you, dragging you to the [Priestess
 Queen](Priestess_Queen "wikilink"). Note that these knights won't drag
 lords, so don't bother trying to get this item with your lord alt. The
 only mobs to drag you to the [Priestess
@@ -68,7 +69,7 @@ tough. Maybe you'll be able to survive by quaffing in full ac until
 you're healthy. Edit this page with strategies that work for you:
 
 -   A Cle in full hitgear can keep themselves alive with Divinity.
-    --[Kerdor](User:Kerdor "wikilink") 12:48, 9 January 2007 (CST)
+    --[Kerdor](User:Kerdor.md "wikilink") 12:48, 9 January 2007 (CST)
 -   I managed to get a few of these with a hero 156 cen mage. First I
     tried to get to the queen and cr myself a bunch of times with just a
     ball of light as eq just to make sure I wouldn't lose my good ac.

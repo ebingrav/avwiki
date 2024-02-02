@@ -1,5 +1,5 @@
 Syntax: cast 'light of hope'  
-Prerequisites: [salvation](Salvation "wikilink"),
+Prerequisites: [salvation](Salvation.md "wikilink"),
 [prayer](prayer "wikilink")
 
 Light of hope is a form of prayer to your God to be used in dire

@@ -4,27 +4,27 @@ also look sharp enough to cause some reasonable pain to an opponent when
 raked across their face.*
 
 `Damage is 10 to 28 (average 19).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 10 continuous`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 10 continuous`
 
 **Keyword(s):** fingerspikes.  
-**[Level(s)](Object_Level "wikilink"):** 27-29.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lb.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** Magic, Sharp.  
+**[Level(s)](Object_Level.md "wikilink"):** 27-29.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lb.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** Magic, Sharp.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Septarch
-Kyxial](Septarch_Kyxial "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Septarch
+Kyxial](Septarch_Kyxial.md "wikilink").  
 
 [Category: Gear In Tiureess](Category:_Gear_In_Tiureess "wikilink")
 [Category: Standard One-Handed

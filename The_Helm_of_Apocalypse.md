@@ -10,8 +10,8 @@
 Slot: head  
 Flags: magic, glow, hum  
 Weight: 15  
-Plane: [Hell](:Category:_Hell "wikilink")  
-Area: [Kwalashai](:Category:_Kwalashai "wikilink")  
+Plane: [Hell](:Category:_Hell.md "wikilink")  
+Area: [Kwalashai](:Category:_Kwalashai.md "wikilink")  
 Mob: [Apocalypse\_(Lord)](Apocalypse_(Lord) "wikilink")  
 
 ## Comments
@@ -22,7 +22,7 @@ This is a base item that can be used with
 Ingredients that can be used to modify this item:
 
 ` `[`Gish`` ``blood`](Gish_blood "wikilink")`                                  mana         head    125      4     30 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
-` `[`Survivor`` ``tattoo`](Survivor_tattoo_(Lord) "wikilink")`                      damage roll         head    125      4      2 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
+` `[`Survivor`` ``tattoo`](Survivor_tattoo_(Lord).md "wikilink")`                      damage roll         head    125      4      2 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
 ` `[`Violet`` ``psi-blade`](Violet_psi-blade "wikilink")`             kinetic damage roll         head    125      4      3 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
 ` `[`Violet`` ``psi-blade`](Violet_psi-blade "wikilink")`                        hit roll         head    125      4      3 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")
 

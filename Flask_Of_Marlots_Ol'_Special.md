@@ -1,36 +1,37 @@
-*[Marlot](Marlot "wikilink")'s own home brewed ale is infamous
-throughout [Mt Durr](:Category:_Mt_Durr "wikilink") even though few have
-ever actually drunk some. It is rumoured to be a panacea for all ills, a
-drink so strong, it will inebriate the strongest and yet leave no
-hangover.*
+*[Marlot](Marlot.md "wikilink")'s own home brewed ale is infamous
+throughout [Mt Durr](:Category:_Mt_Durr.md "wikilink") even though few
+have ever actually drunk some. It is rumoured to be a panacea for all
+ills, a drink so strong, it will inebriate the strongest and yet leave
+no hangover.*
 
-`Level 38-40 spells of: '`[`cure`` ``serious`](Cure_Serious "wikilink")`' '`[`cure`` ``disease`](Cure_Disease "wikilink")`' '`[`cure`` ``poison`](Cure_Poison "wikilink")`'.`
+`Level 38-40 spells of: '`[`cure`` ``serious`](Cure_Serious.md "wikilink")`' '`[`cure`` ``disease`](Cure_Disease.md "wikilink")`' '`[`cure`` ``poison`](Cure_Poison.md "wikilink")`'.`
 
 **Keyword(s):** marlot, old, special, ale, flask.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear_#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear_#Suggested_Healing_Gear.md "wikilink")
 and [Suggested Curative
-Gear](Suggested_Spellcasting_Gear_#Suggested_Curative_Gear "wikilink").
+Gear](Suggested_Spellcasting_Gear_#Suggested_Curative_Gear.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Flask of Marlots Ol'
-Special Quest](Flask_Of_Marlots_Ol'_Special_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Mt
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Flask of Marlots
+Ol' Special Quest](Flask_Of_Marlots_Ol'_Special_Quest.md "wikilink").  
 See [Flask of Marlots Ol' Special
-Quest](Flask_Of_Marlots_Ol'_Special_Quest "wikilink") for more
+Quest](Flask_Of_Marlots_Ol'_Special_Quest.md "wikilink") for more
 information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")

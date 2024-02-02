@@ -1,9 +1,9 @@
-*This [skill](:Category:_Skills "wikilink") inflicts additional melee
+*This [skill](:Category:_Skills.md "wikilink") inflicts additional melee
 damage upon your opponent.*
 
 Prerequisite(s): none.
 
-Syntax: kick \<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: kick \<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

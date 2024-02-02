@@ -4,16 +4,16 @@ destruction. Diseased and harrowed by taint, it is still a force to be
 reckoned with.*
 
 **Keywords:** corrupted, guardian, ??.  
-**[Level](Level "wikilink"):** 85.  
-**[Alignment](Alignment "wikilink"):** evil.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"), corpse eater, ??.  
-**Affects:** ??, ??, [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 85.  
+**[Alignment](Alignment.md "wikilink"):** evil.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"), corpse eater, ??.  
+**Affects:** ??, ??, [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `The corrupted guardian is using:`  
-`(Invis) an `[`aura`` ``of`` ``tainted`` ``foulness`](Aura_Of_Tainted_Foulness "wikilink")
+`(Invis) an `[`aura`` ``of`` ``tainted`` ``foulness`](Aura_Of_Tainted_Foulness.md "wikilink")
 
 ## Comments
 
@@ -29,21 +29,21 @@ mobs (one level 85 sanced not aggy or no detect, and one level 95 not
 sanced aggy), good experience, and some interesting gear ([Glowing Heart
 Of Tainted Isle](Glowing_Heart_Of_Tainted_Isle "wikilink"), [a writhing
 lash formed of tainted
-darkness](Writhing_Lash_Of_Tainted_Darkness "wikilink") (9/11 single
+darkness](Writhing_Lash_Of_Tainted_Darkness.md "wikilink") (9/11 single
 handed whip)) .
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tainted
-Isle](:Category:_Tainted_Isle "wikilink")
-([Map](Tainted_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A fallen guardian
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 40s, w, n, w, s, w, u,
-e, n, e, n, w, s, w, u, e, n, e, n, 2e, s, e, s, 3d, w, n, w. (note:
-crosses [water terrain](Water_Terrain "wikilink"))  
-Walking route from [surf](Raging_Surf "wikilink"): n, w, s, w, u, e, n,
-e, n, w, s, w, u, e, n, e, n, 2e, s, e, s, 3d, w, n, w.  
+**[Area](:Category:_Areas.md "wikilink"):** [Tainted
+Isle](:Category:_Tainted_Isle.md "wikilink")
+([Map](Tainted_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A fallen guardian
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 40s, w, n, w, s, w,
+u, e, n, e, n, w, s, w, u, e, n, e, n, 2e, s, e, s, 3d, w, n, w. (note:
+crosses [water terrain](Water_Terrain.md "wikilink"))  
+Walking route from [surf](Raging_Surf.md "wikilink"): n, w, s, w, u, e,
+n, e, n, w, s, w, u, e, n, e, n, 2e, s, e, s, 3d, w, n, w.  
 (.nwswuenenwswuenen2eses3dwnw)
 
 [Category: Mobs In Tainted

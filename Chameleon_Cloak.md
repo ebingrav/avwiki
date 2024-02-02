@@ -1,28 +1,28 @@
 *Barely visible, a crumpled cloak blends into background.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
-`'`[`move`` ``hidden`](Move_Hidden "wikilink")`' continuous.`  
-`'`[`sneak`](Sneak "wikilink")`' continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
+`'`[`move`` ``hidden`](Move_Hidden.md "wikilink")`' continuous.`  
+`'`[`sneak`](Sneak.md "wikilink")`' continuous.`
 
 **Keyword(s):** chameleon, cloak.  
-**[Level(s)](Object_Level "wikilink"):** 49-51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 49-51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Lord Audis'
-Villa](:Category:_Lord_Audis'_Villa "wikilink")
-([Map](Lord_Audis'_Villa_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The
-assassin](Assassin_(Lord_Audis'_Villa) "wikilink").  
-See [The assassin](Assassin_(Lord_Audis'_Villa) "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Lord Audis'
+Villa](:Category:_Lord_Audis'_Villa.md "wikilink")
+([Map](Lord_Audis'_Villa_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The
+assassin](Assassin_(Lord_Audis'_Villa).md "wikilink").  
+See [The assassin](Assassin_(Lord_Audis'_Villa).md "wikilink") for more
 information.  
 
 [Category: Gear In Lord Audis'

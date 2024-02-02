@@ -5,19 +5,19 @@ between the Realms, he now stands watch over the barrier. He nods
 solemnly to you and whispers, 'Be at peace...'*
 
 **Keywords:** ghost, paladin.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** Heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** steadfast, undead,
-[protected](Protection_Evil "wikilink"),
-[Sorcerer](Spellcasting_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [invis](Invis "wikilink"),
-[flying](Fly "wikilink"), [sanctuary](sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** Heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** steadfast, undead,
+[protected](Protection_Evil.md "wikilink"),
+[Sorcerer](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [invis](Invis.md "wikilink"),
+[flying](Fly.md "wikilink"), [sanctuary](sanctuary "wikilink").  
 
 ## Gear
 
 `The paladin's ghost is using:`  
-<held in offhand>`   `[`the`` ``Shield`` ``of`` ``Heroes`](Shield_Of_Heroes "wikilink")
+<held in offhand>`   `[`the`` ``Shield`` ``of`` ``Heroes`](Shield_Of_Heroes.md "wikilink")
 
 `The paladin's ghost is carrying:`  
 `     Nothing.`
@@ -34,17 +34,17 @@ Prepare for a good fight, and have at least 2500 mana available.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Keep](:Category:_Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Chamber of the Guardian
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Keep](:Category:_Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Chamber of the Guardian
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking here from anywhere besides the close area is very problematic,
 as there are 4x aggie stomping mobs in cursed part of [Shadow
-Keep](:Category:_Shadow_Keep "wikilink"). Walking route from
-[Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
+Keep](:Category:_Shadow_Keep.md "wikilink"). Walking route from
+[Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
 
 [Category: Mobs In Shadow
 Keep](Category:_Mobs_In_Shadow_Keep "wikilink")

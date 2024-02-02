@@ -6,8 +6,8 @@
 
 Weight: 2  
 Flags: glow hum magic nolocate  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Reckoning](:Category:Reckoning "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Reckoning](:Category:Reckoning.md "wikilink")  
 Mob: ??
 
 [Category:Incomplete](Category:Incomplete "wikilink") [Category:Lord

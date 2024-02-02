@@ -1,18 +1,18 @@
-*When this [spell](:Category:_Spells "wikilink") is
-[cast](Cast "wikilink"), a quick prayer for divine intervention is
+*When this [spell](:Category:_Spells.md "wikilink") is
+[cast](Cast.md "wikilink"), a quick prayer for divine intervention is
 followed by a searing magical bolt of flame that mercilessly strikes a
 single target. All basic attack and area spells are more powerful for
 in-class users who do not have to fear a counterattack thanks to [a
-group-mate tanking the target](Tanks "wikilink").*
+group-mate tanking the target](Tanks.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'flamestrike'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'flamestrike'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
-See also [Flamestrike Gear](:Category:_Flamestrike_Gear "wikilink").
+See also [Flamestrike Gear](:Category:_Flamestrike_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

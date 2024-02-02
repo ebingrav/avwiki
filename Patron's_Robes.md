@@ -1,26 +1,27 @@
 *Deep maroon velvet Patron's Robes are draped artistically here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 9.`  
-`Modifies `[`armor`](Armor_Class "wikilink")` by -10 continuous.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 30 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 9.`  
+`Modifies `[`armor`](Armor_Class.md "wikilink")` by -10 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 30 continuous.`
 
 **Keyword(s):** patron robes.  
-**[Level(s)](Object_Level "wikilink"):** 40.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 40.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Curator](Curator "wikilink").  
 See [Curator](Curator "wikilink") for more information.  
 

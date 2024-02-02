@@ -1,9 +1,10 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Avatars_great_divide.gif" title="Avatars_great_divide.gif"
-width="650" alt="Avatars_great_divide.gif" />
-<figcaption aria-hidden="true">Avatars_great_divide.gif</figcaption>
+<img src="Avatars_great_divide.gif.md"
+title="Avatars_great_divide.gif.md" width="650"
+alt="Avatars_great_divide.gif.md" />
+<figcaption aria-hidden="true">Avatars_great_divide.gif.md</figcaption>
 </figure>
 
 See also: [Deepways Map](Deepways_Map "wikilink"), [Mt Durr

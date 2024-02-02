@@ -10,9 +10,9 @@ It is a one handed weapon which does whipping damage.
 Slot: wield/offhand  
 Weight: 11  
 Flags: glow bless nolocate  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")  
-Mob: [spirit of Qahhar-Ra](Spirit_Of_Qahhar-Ra "wikilink")  
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")  
+Mob: [spirit of Qahhar-Ra](Spirit_Of_Qahhar-Ra.md "wikilink")  
 
 # Comments
 
@@ -29,8 +29,8 @@ predetermined maximum and minimum damage.
 ------------------------------------------------------------------------
 
 See [Gear In Patriarchs'
-Gulch](:Category:Gear_In_Patriarchs'_Gulch "wikilink") for instructions
-on how to get this gear.
+Gulch](:Category:Gear_In_Patriarchs'_Gulch.md "wikilink") for
+instructions on how to get this gear.
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:Gear
 In Patriarchs' Gulch](Category:Gear_In_Patriarchs'_Gulch "wikilink")

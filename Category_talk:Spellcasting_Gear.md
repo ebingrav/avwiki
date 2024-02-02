@@ -42,7 +42,7 @@ populated one, and I don't want to reduce the usefulness of
 there's a ton of spells that can't be cast by using an object, so those
 categories would **never** get populated.
 
-Sound like a good plan? --[Waite](User:Waite "wikilink") 14:37, 14
+Sound like a good plan? --[Waite](User:Waite.md "wikilink") 14:37, 14
 February 2006 (EST)
 
 On second thought, the categories should probably be called "Water
@@ -58,8 +58,8 @@ charges. It requires a bit more overhead, but that could be done by the
 "regulars" whenever a new spellcasting item is added by someone else if
 they don't know the convention. I'm rather fond of tables I suppose :).
 Definitely not adverse to them being filed in a categorical system
-either. [JonDooger](User:JonDooger "wikilink") 15:03, 14 February 2006
-(EST)
+either. [JonDooger](User:JonDooger.md "wikilink") 15:03, 14 February
+2006 (EST)
 
 Great thinking, you two! I love your idea, Waite, for not filing any
 pages here but, instead, providing some means for players to easily find
@@ -82,7 +82,7 @@ object-type categories are spread out while Gear In... categories are
 consolidated. In any case, I promise that, at least in this instance, I
 won't go ahead and make categories to cover every possibility that might
 arise--just ones that we already have items for, if we decide to go
-ahead with this plan. --[Dave Garber](User:DaveGarber1975 "wikilink")
+ahead with this plan. --[Dave Garber](User:DaveGarber1975.md "wikilink")
 16:02, 14 February 2006 (EST)
 
 Oooo! Looks like you've already started. Cool. Hmmm. I still have my
@@ -92,7 +92,7 @@ few occasions, I've plunged ahead with something, looked over the final
 product, played around with it for a bit, and then reconsidered my
 decision and immediately undid it all. I enjoy experimenting and trying
 stuff out. Will be nice to see how this turns out. Anyway... Go, Waite,
-go!!! You the man. --[Dave Garber](User:DaveGarber1975 "wikilink")
+go!!! You the man. --[Dave Garber](User:DaveGarber1975.md "wikilink")
 16:12, 14 February 2006 (EST)
 
 Wow! So, we have two different types of items here now, then? Both
@@ -100,7 +100,7 @@ objects that cast spells on you when you consume (either quaff or
 brandish) them and objects that affect you (via their affect flags) when
 you wear them. Interesting. If that's how we're gonna do it then we may
 have to find a more accurate name for this category... --[Dave
-Garber](User:DaveGarber1975 "wikilink") 17:49, 14 February 2006 (EST)
+Garber](User:DaveGarber1975.md "wikilink") 17:49, 14 February 2006 (EST)
 
 Yeah, adding items like exquisite diamond and ring of the rat to these
 categories was an afterthought, but I think it makes a lot of sense. If
@@ -114,21 +114,21 @@ message is). I guess one case where you could be nit-picky is the
 displacer cloak. Along with pass door, it gives you movehidden, which is
 technically a skill, not a spell. In any event I'm not too worried about
 people getting confused by the name of this category.
---[Waite](User:Waite "wikilink") 10:12, 15 February 2006 (EST)
+--[Waite](User:Waite.md "wikilink") 10:12, 15 February 2006 (EST)
 
 It was a good afterthought to add these items, in my opinion, and I
 agree with your reasoning on why you added them. And I suppose that what
 these objects do could be considered casting, also. At least for now,
 I'm quite satisfied. Well done, Waite, and thanks for your work on this.
---[Dave Garber](User:DaveGarber1975 "wikilink") 15:03, 15 February 2006
-(EST)
+--[Dave Garber](User:DaveGarber1975.md "wikilink") 15:03, 15 February
+2006 (EST)
 
 ------------------------------------------------------------------------
 
 Well, Waite, it looks like you made the rest of the changes that you
 wanted to these categories. Those interested in following our discussion
 about these changes may find it
-[here](Category_Talk:_Object_Affects "wikilink"). My inclination is
+[here](Category_Talk:_Object_Affects.md "wikilink"). My inclination is
 still to categorize these things as follows:
 
 `* Gear:`  
@@ -167,8 +167,8 @@ Hmmm. Anyone else care to contribute their thoughts on this matter?
 Anyone? Or are Waite and I the only two who care at all about this?
 Which format do you prefer, if either? Why? Or do you have a better
 structure in mind than either Waite or I have thought of yet? Please let
-us know. --[Dave Garber](User:DaveGarber1975 "wikilink") 17:40, 10 March
-2006 (EST)
+us know. --[Dave Garber](User:DaveGarber1975.md "wikilink") 17:40, 10
+March 2006 (EST)
 
 ------------------------------------------------------------------------
 
@@ -192,25 +192,25 @@ people will never notice. Both our categorization methods provide ample
 connections between relevant articles.
 
 I don't see a need to divorce [Gear That Applies Skills And
-Spells](:Category:Gear_That_Applies_Skills_And_Spells "wikilink") from
-[Spellcasting Gear](:Category:Spellcasting_Gear "wikilink") to such a
-point that their only common denominator is
-[Gear](:Category:Gear "wikilink"). There is something more similar about
-these two categories than the fact that they're both "gear".
+Spells](:Category:Gear_That_Applies_Skills_And_Spells.md "wikilink")
+from [Spellcasting Gear](:Category:Spellcasting_Gear.md "wikilink") to
+such a point that their only common denominator is
+[Gear](:Category:Gear.md "wikilink"). There is something more similar
+about these two categories than the fact that they're both "gear".
 Essentially, I consider [Spellcasting
-Gear](:Category:Spellcasting_Gear "wikilink") to be synonomous with
+Gear](:Category:Spellcasting_Gear.md "wikilink") to be synonomous with
 "ways I can get around not knowing a spell". Both "consumables" and
 [Gear That Applies Skills And
-Spells](:Category:Gear_That_Applies_Skills_And_Spells "wikilink")
+Spells](:Category:Gear_That_Applies_Skills_And_Spells.md "wikilink")
 provide you with a way of getting a spell that you couldn't otherwise
 cast. Whether or not that's a good thing varies case to case :). That's
 why I made [Gear That Applies Skills And
-Spells](:Category:Gear_That_Applies_Skills_And_Spells "wikilink") a
+Spells](:Category:Gear_That_Applies_Skills_And_Spells.md "wikilink") a
 subcategory of [Spellcasting
-Gear](:Category:Spellcasting_Gear "wikilink").
+Gear](:Category:Spellcasting_Gear.md "wikilink").
 
 I understand the differences between [Gear That Applies Skills And
-Spells](:Category:Gear_That_Applies_Skills_And_Spells "wikilink") and
+Spells](:Category:Gear_That_Applies_Skills_And_Spells.md "wikilink") and
 "consumables", and I've conceded that we should categorize them
 separately. But there's always more ways of carving up a section. We
 could differentiate between pill/pots/applies and wands/staves. Nobody's
@@ -222,15 +222,15 @@ yourself (wand/staff)". I think at some point we have to count on our
 users being able to figure out that difference for themselves.
 
 I'll agree with you that the current category names aren't perfect. For
-instances, I think [Poison Gear](:Category:Poison_Gear "wikilink")
-versus [Poisons](:Category:Poisons "wikilink") is pretty damned
+instances, I think [Poison Gear](:Category:Poison_Gear.md "wikilink")
+versus [Poisons](:Category:Poisons.md "wikilink") is pretty damned
 confusing. But as I've said before, I like starting the category name
 with the name of the spell, simply for the reason that it leaves the
 automatically generated "articles in..." list better sorted. So yeah, in
 general I'm not horribly attached to the current category names for this
 section.
 
---[Waite](User:Waite "wikilink") 18:27, 10 March 2006 (EST)
+--[Waite](User:Waite.md "wikilink") 18:27, 10 March 2006 (EST)
 
 ------------------------------------------------------------------------
 
@@ -275,7 +275,7 @@ In any case, thanks much for your input on all of this! I think that I
 understand all of your points and I hope that you understand mine, too.
 Two heads are certainly better than one. And I'm curious to hear
 comments from some other folks on these matters, as well. Thanks for all
-of your effort here! --[Dave Garber](User:DaveGarber1975 "wikilink")
+of your effort here! --[Dave Garber](User:DaveGarber1975.md "wikilink")
 20:01, 10 March 2006 (EST)
 
 ------------------------------------------------------------------------
@@ -318,14 +318,14 @@ one at a time. So look at the most effectively organized spaces on the
 wiki(the Main page and the Gear pages in my opinion) and you will find
 what I think is the most effective solution to the problem: A well
 designed table on an easy to find page.
--[JonDooger](User:JonDooger "wikilink") 16:09, 12 March 2006 (EST)
+-[JonDooger](User:JonDooger.md "wikilink") 16:09, 12 March 2006 (EST)
 
 ------------------------------------------------------------------------
 
-I think [JonDooger](User:JonDooger "wikilink") has some good points. I
-propose we create four new articles, named something like [Table Of Gear
-That Restores HP](Table_Of_Gear_That_Restores_HP "wikilink"), [Table Of
-Gear That Restores Movement
+I think [JonDooger](User:JonDooger.md "wikilink") has some good points.
+I propose we create four new articles, named something like [Table Of
+Gear That Restores HP](Table_Of_Gear_That_Restores_HP "wikilink"),
+[Table Of Gear That Restores Movement
 Points](Table_Of_Gear_That_Restores_Movement_Points "wikilink"), [Table
 Of Gear That Casts Offensive
 Spells](Table_Of_Gear_That_Casts_Offensive_Spells "wikilink"), and
@@ -347,24 +347,24 @@ better than heal x2. These tables should probably be sorted by level,
 similar to the layout of
 [Treasure-Hunting](Treasure-Hunting "wikilink"). Also, I think these
 four articles should all be categorized under [Spellcasting
-Gear](:Category:Spellcasting_Gear "wikilink"). Sound good?
---[Waite](User:Waite "wikilink") 11:29, 13 March 2006 (EST)
+Gear](:Category:Spellcasting_Gear.md "wikilink"). Sound good?
+--[Waite](User:Waite.md "wikilink") 11:29, 13 March 2006 (EST)
 
 I agree that a few tables would be very helpful. Offhand, I'm not sure
 if I favor using separate pages or sections for each table or not. If
 put in sections, then using grey boxes for these tables might minimize
 the amount of space that they consume. I'd like to give this matter a
 bit more thought but I'm pretty preoccupied today with things related to
-the contest areas. --[Dave Garber](User:DaveGarber1975 "wikilink")
+the contest areas. --[Dave Garber](User:DaveGarber1975.md "wikilink")
 15:03, 13 March 2006 (EST)
 
 Good points. My first instinct was to make a few tables and insert them
 onto the main page of [Spellcasting
-Gear](:Category:Spellcasting_Gear "wikilink") but this would make that
-page too busy and bloated. Instead of having a different article for
-each table we could try putting all them all on a single article, named
-something like [Suggested Spellcasting
+Gear](:Category:Spellcasting_Gear.md "wikilink") but this would make
+that page too busy and bloated. Instead of having a different article
+for each table we could try putting all them all on a single article,
+named something like [Suggested Spellcasting
 Gear](Suggested_Spellcasting_Gear "wikilink").
---[Waite](User:Waite "wikilink") 10:33, 14 March 2006 (EST)
+--[Waite](User:Waite.md "wikilink") 10:33, 14 March 2006 (EST)
 
 ------------------------------------------------------------------------

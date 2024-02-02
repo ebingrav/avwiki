@@ -2,30 +2,31 @@
 trapped in the house with her step-mother and two step-sisters.*
 
 **Keywords:** cinderella.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](Thieving_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](Thieving_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `Cinderella is carrying:`  
-`   `[`a`` ``silver`` ``slipper`](Silver_Slipper "wikilink")
+`   `[`a`` ``silver`` ``slipper`](Silver_Slipper.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Brothers
-Grimm](:Category:_Brothers_Grimm "wikilink")
-([Map](Brothers_Grimm_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A Castle Cellar
+**[Area](:Category:_Areas.md "wikilink"):** [Brothers
+Grimm](:Category:_Brothers_Grimm.md "wikilink")
+([Map](Brothers_Grimm_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A Castle Cellar
 (portable).  
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 4s, 2e, \[e\],
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 4s, 2e, \[e\],
 \[n\].  
-Walking route from [Brother Grimm](Brother_Grimm "wikilink"): \[n\].  
+Walking route from [Brother Grimm](Brother_Grimm.md "wikilink"):
+\[n\].  
 Cinderella is portable.  
 
 [Category: Mobs In Brothers

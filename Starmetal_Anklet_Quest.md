@@ -1,29 +1,29 @@
 ## General Directions
 
-From [the memory of Tazimarc](Memory_of_Tazimarc "wikilink"):
+From [the memory of Tazimarc](Memory_of_Tazimarc.md "wikilink"):
 
--   Kill [the memory of Tazimarc](Memory_of_Tazimarc "wikilink")
+-   Kill [the memory of Tazimarc](Memory_of_Tazimarc.md "wikilink")
     (nospell).
 
 <!-- -->
 
--   Get [an acorn](Acorn_(1_of_3) "wikilink") from its corpse.
+-   Get [an acorn](Acorn_(1_of_3).md "wikilink") from its corpse.
 
-From [the ghost of Thalimus](Ghost_of_Thalimus "wikilink"):
+From [the ghost of Thalimus](Ghost_of_Thalimus.md "wikilink"):
 
--   Give [an acorn](Acorn_(1_of_3) "wikilink") to [the ghost of
-    Thalimus](Ghost_of_Thalimus "wikilink") to receive [an
-    acorn](Acorn_(2_of_3) "wikilink").
+-   Give [an acorn](Acorn_(1_of_3).md "wikilink") to [the ghost of
+    Thalimus](Ghost_of_Thalimus.md "wikilink") to receive [an
+    acorn](Acorn_(2_of_3).md "wikilink").
 
-From [the ghost of Abbot Temian](Ghost_of_Abbot_Temian "wikilink"):
+From [the ghost of Abbot Temian](Ghost_of_Abbot_Temian.md "wikilink"):
 
--   Give [an acorn](Acorn_(2_of_3) "wikilink") to [the ghost of Abbot
-    Temian](Ghost_of_Abbot_Temian "wikilink") to receive [an
-    acorn](Acorn_(3_of_3) "wikilink").
+-   Give [an acorn](Acorn_(2_of_3).md "wikilink") to [the ghost of Abbot
+    Temian](Ghost_of_Abbot_Temian.md "wikilink") to receive [an
+    acorn](Acorn_(3_of_3).md "wikilink").
 
 From [Abbot Cassinus](Abbot_Cassinus "wikilink"):
 
--   Give [an acorn](Acorn_(3_of_3) "wikilink") to [Abbot
+-   Give [an acorn](Acorn_(3_of_3).md "wikilink") to [Abbot
     Cassinus](Abbot_Cassinus "wikilink") to receive [Starmetal
     Anklet](Starmetal_Anklet "wikilink").
 
@@ -32,7 +32,7 @@ From [Abbot Cassinus](Abbot_Cassinus "wikilink"):
 From Aelmon:
 
 -   Go 15e, \[s\] to get to the entrance of [Defender's
-    Graveyard](:Category:Defender's_Graveyard "wikilink").
+    Graveyard](:Category:Defender's_Graveyard.md "wikilink").
 
 <!-- -->
 
@@ -40,12 +40,12 @@ From Aelmon:
 
 <!-- -->
 
--   Kill [a twisted wood spirit](Twisted_Wood_Spirit "wikilink").
+-   Kill [a twisted wood spirit](Twisted_Wood_Spirit.md "wikilink").
 
 <!-- -->
 
 -   Enter hole that is created when the [twisted wood
-    spirit](Twisted_Wood_Spirit "wikilink") dies.
+    spirit](Twisted_Wood_Spirit.md "wikilink") dies.
 
 <!-- -->
 
@@ -53,15 +53,15 @@ From Aelmon:
 
 <!-- -->
 
--   Kill [an elemental guardian](Elemental_Guardian "wikilink").
+-   Kill [an elemental guardian](Elemental_Guardian.md "wikilink").
 
 <!-- -->
 
--   Get [a jade rod](Jade_Rod "wikilink") from its corpse.
+-   Get [a jade rod](Jade_Rod.md "wikilink") from its corpse.
 
 <!-- -->
 
--   Unlock patina using [a jade rod](Jade_Rod "wikilink").
+-   Unlock patina using [a jade rod](Jade_Rod.md "wikilink").
 
 <!-- -->
 
@@ -73,12 +73,12 @@ From Aelmon:
 
 <!-- -->
 
--   Kill [the memory of Tazimarc](Memory_of_Tazimarc "wikilink")
+-   Kill [the memory of Tazimarc](Memory_of_Tazimarc.md "wikilink")
     (nospell).
 
 <!-- -->
 
--   Get [an acorn](Acorn_(1_of_3) "wikilink") from its corpse.
+-   Get [an acorn](Acorn_(1_of_3).md "wikilink") from its corpse.
 
 <!-- -->
 
@@ -102,9 +102,9 @@ From Aelmon:
 
 <!-- -->
 
--   Give [an acorn](Acorn_(1_of_3) "wikilink") to [the ghost of
-    Thalimus](Ghost_of_Thalimus "wikilink") to receive [an
-    acorn](Acorn_(2_of_3) "wikilink").
+-   Give [an acorn](Acorn_(1_of_3).md "wikilink") to [the ghost of
+    Thalimus](Ghost_of_Thalimus.md "wikilink") to receive [an
+    acorn](Acorn_(2_of_3).md "wikilink").
 
 <!-- -->
 
@@ -120,9 +120,9 @@ From Aelmon:
 
 <!-- -->
 
--   Give [an acorn](Acorn_(2_of_3) "wikilink") to [the ghost of Abbot
-    Temian](Ghost_of_Abbot_Temian "wikilink") to receive [an
-    acorn](Acorn_(3_of_3) "wikilink").
+-   Give [an acorn](Acorn_(2_of_3).md "wikilink") to [the ghost of Abbot
+    Temian](Ghost_of_Abbot_Temian.md "wikilink") to receive [an
+    acorn](Acorn_(3_of_3).md "wikilink").
 
 <!-- -->
 
@@ -130,7 +130,7 @@ From Aelmon:
 
 <!-- -->
 
--   Give [an acorn](Acorn_(3_of_3) "wikilink") to [Abbot
+-   Give [an acorn](Acorn_(3_of_3).md "wikilink") to [Abbot
     Cassinus](Abbot_Cassinus "wikilink") to receive [Starmetal
     Anklet](Starmetal_Anklet "wikilink").
 

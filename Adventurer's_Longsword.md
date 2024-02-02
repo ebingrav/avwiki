@@ -11,8 +11,8 @@ large catoblepa, crouched ready to charge.*
 **Levels:** Levels 50-52  
 **Weight:** 10 lbs  
 **Flags:** none  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Mad Adventurer](Mad_Adventurer "wikilink")  
 
 ## Comments

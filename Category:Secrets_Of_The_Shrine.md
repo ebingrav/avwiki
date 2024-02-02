@@ -1,11 +1,12 @@
 *The shrine near the [ruins of
-Reveria](:Category:_Ruins_Of_Reveria "wikilink") was built in the time
-of the High [Drow](Drow "wikilink"), and had originally been a place of
-worship, but soon became a place where outcast [drow](Drow "wikilink"),
-known as veldri, fled from their kin and mysteriously vanished.
-Recently, reports of creatures of stone moving in the shrine have been
-cited. [King Domi](King_Domi "wikilink") has ordered a thorough
-investigation of this area, seeking to rid the place of magic.*
+Reveria](:Category:_Ruins_Of_Reveria.md "wikilink") was built in the
+time of the High [Drow](Drow.md "wikilink"), and had originally been a
+place of worship, but soon became a place where outcast
+[drow](Drow.md "wikilink"), known as veldri, fled from their kin and
+mysteriously vanished. Recently, reports of creatures of stone moving in
+the shrine have been cited. [King Domi](King_Domi.md "wikilink") has
+ordered a thorough investigation of this area, seeking to rid the place
+of magic.*
 
 **Level Range:** 35-41
 
@@ -13,18 +14,18 @@ investigation of this area, seeking to rid the place of magic.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, e, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, e, n.
 
 Walking route from [Drow Spectre](Drow_Spectre "wikilink"): s, w, w, n,
 w, n, w, w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
-This [area](:Category:_Areas "wikilink") is connected to the [Ruins of
-Reveria](:Category:_Ruins_Of_Reveria "wikilink").
+This [area](:Category:_Areas.md "wikilink") is connected to the [Ruins
+of Reveria](:Category:_Ruins_Of_Reveria.md "wikilink").
 
 ## Navigation
 

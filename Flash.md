@@ -1,15 +1,15 @@
 *With knowledge comes power and with power come nice ways to make things
 go your way. One is the perfect little flash which when timed well can
-[blind](Blindness "wikilink") everyone in the
-[room](:Category:_Rooms "wikilink"). This leaves you free to do some
+[blind](Blindness.md "wikilink") everyone in the
+[room](:Category:_Rooms.md "wikilink"). This leaves you free to do some
 serious blood letting and soul wrenching without prying eyes.*
 
-Prerequisite(s): [Blindness](Blindness "wikilink").
+Prerequisite(s): [Blindness](Blindness.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'flash'.
+Syntax: [cast](Cast.md "wikilink") 'flash'.
 
-This spell has a low (5%?) chance to [blind](Blindness "wikilink") mobs
-that aren't already attacking the caster.
+This spell has a low (5%?) chance to [blind](Blindness.md "wikilink")
+mobs that aren't already attacking the caster.
 
 If this spell is cast on mobs that are already attacking the caster it
 is guaranteed to blind them. One way to ensure that this happens is to
@@ -20,10 +20,10 @@ one mob that you'd like to Flash, [Quicken](Quicken "wikilink") 9
 the mob with the kill command, which has the least lag of any method of
 starting a fight.
 
-Note that [Wizards](:Category:Wizards "wikilink") learn this spell
-through a [Spellbook](:Category:Spellbooks "wikilink"), and that is it
-out-of-class, and therefore has double the lag of a
-[Sorcerer's](:Category:Sorcerers "wikilink") Flash.
+Note that [Wizards](:Category:Wizards.md "wikilink") learn this spell
+through a [Spellbook](:Category:Spellbooks.md "wikilink"), and that is
+it out-of-class, and therefore has double the lag of a
+[Sorcerer's](:Category:Sorcerers.md "wikilink") Flash.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Area

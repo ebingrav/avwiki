@@ -4,7 +4,7 @@ Legend wizard lore.
 
 # Prereqs
 
--   [greater wizardry](Greater_Wizardry "wikilink")
+-   [greater wizardry](Greater_Wizardry.md "wikilink")
 
 # Skills/Spells Granted
 

@@ -1,4 +1,4 @@
-*This area is part of the [Secrets](:Category:_Secrets "wikilink")
+*This area is part of the [Secrets](:Category:_Secrets.md "wikilink")
 area.*
 
 **Level Range:** all
@@ -7,20 +7,20 @@ area.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, n, u, 3n, 2e, 2n,
-2e, 2n, e, 3n, d, \[d\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, n, u, 3n, 2e,
+2n, 2e, 2n, e, 3n, d, \[d\].
 
-Walking route from [king lion](King_Lion "wikilink"): s, \[d\].
+Walking route from [king lion](King_Lion.md "wikilink"): s, \[d\].
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
 This area is reached via the [Tortured
-Terrain](:Category:Tortured_Terrain "wikilink"). It also has a
+Terrain](:Category:Tortured_Terrain.md "wikilink"). It also has a
 connection to one of the [Ruined
-Lairs](:Category:Ruined_Lairs "wikilink") and a one-way exit into
-[Midgaard Country](:Category:Midgaard_Country "wikilink").
+Lairs](:Category:Ruined_Lairs.md "wikilink") and a one-way exit into
+[Midgaard Country](:Category:Midgaard_Country.md "wikilink").
 
 ## Navigation
 
@@ -31,7 +31,7 @@ Essentially a single tunnel with a couple of turns, and a door to divide
 the tunnel into two. A single hidden room can be found along the
 north-south section of the tunnel. The tunnel ends in a one-way door
 which exits (somewhat strangely) into a loft in a farmhouse in [Midgaard
-Country](:Category:Midgaard_Country "wikilink").
+Country](:Category:Midgaard_Country.md "wikilink").
 
 ## Adventuring
 

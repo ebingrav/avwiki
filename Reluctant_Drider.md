@@ -9,11 +9,11 @@ L'Aturii.*
 **Keywords:** .  
 **Scan Description:** Reluctant to fight, reluctant to die, this drider
 shivers in the shadows.  
-**[Level](Level "wikilink"):** 72.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 72.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -28,10 +28,10 @@ shivers in the shadows.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Reluctant Drider [wanders](Wandering_Mobs "wikilink").
+Reluctant Drider [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")

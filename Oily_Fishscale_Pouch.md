@@ -1,15 +1,15 @@
 *A pile of fishscales.*
 
-[`Capacity`](Container_Values "wikilink")` is 375 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 375 lbs.`
 
 **Keyword(s):** fishscale, fishscales, pouch  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2000 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -17,9 +17,9 @@ It can't be worn, which is a desirable container feature.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Healing
-Springs](:Category:_Healing_Springs "wikilink")  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Area](:Category:_Areas.md "wikilink"):** [Healing
+Springs](:Category:_Healing_Springs.md "wikilink")  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 [Category: Gear In Healing
 Springs](Category:_Gear_In_Healing_Springs "wikilink") [Category:

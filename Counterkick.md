@@ -1,10 +1,11 @@
 *While the hand blocks, the foot can retaliate. Like standard counters,
-counterkicks follow successful [crane style](Crane_Style "wikilink")
+counterkicks follow successful [crane style](Crane_Style.md "wikilink")
 blocks.*
 
-Prerequisite(s): [Counter](Counter "wikilink"), [Kick](Kick "wikilink").
+Prerequisite(s): [Counter](Counter.md "wikilink"),
+[Kick](Kick.md "wikilink").
 
-Syntax: [ctr](Ctr "wikilink") kick.
+Syntax: [ctr](Ctr.md "wikilink") kick.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Monk Hero

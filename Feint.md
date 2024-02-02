@@ -1,12 +1,13 @@
 *The feint is a maneuver adapted from nobles' fencing tactics that can
 fool your victim into thinking your blow is intended to land someplace
 other than where you're aiming. The feint
-[skill](:Category:_Skills "wikilink") is only available to truly
+[skill](:Category:_Skills.md "wikilink") is only available to truly
 accomplished swordsmen (or swordswomen). Once
-[practiced](Practice "wikilink"), it is used automatically during combat
-at every available opportunity.*
+[practiced](Practice.md "wikilink"), it is used automatically during
+combat at every available opportunity.*
 
-Prerequisite(s): [Disarm](Disarm "wikilink"), [Parry](Parry "wikilink").
+Prerequisite(s): [Disarm](Disarm.md "wikilink"),
+[Parry](Parry.md "wikilink").
 
 Syntax: none (automatic).
 

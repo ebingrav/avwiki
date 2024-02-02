@@ -1,8 +1,8 @@
 `''These crafty dark robes hold promise of a very long life to the wearer.`  
 `''At a terrible price.`
 
-`Modifies `[`constitution`](Constitution "wikilink")` by 3 continuous`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 100 continuous`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 3 continuous`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 100 continuous`  
 `'curse          '  continuous`
 
 **Keyword(s):** robes, sustainment, life, robe  
@@ -11,10 +11,10 @@
 **Levels:** Levels 50-52  
 **Weight:** 5 lbs  
 **Bases:** Base 10-12  
-**Flags:** [evil](Evil_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink")  
-**Area:** [Sun God Altar](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink"))  
+**Flags:** [evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink")  
+**Area:** [Sun God Altar](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink"))  
 **Mob:** [Seneca Rottberry](Seneca_Rottberry "wikilink")  
 
 ## Comments

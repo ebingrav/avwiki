@@ -9,29 +9,30 @@ of those sources.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 6e, s, 2e, n, e, n
-(note: crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 6e, s, 2e, n, e,
+n (note: crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [an Ohia Lehua
-tree](Ohia_Lehua_Tree "wikilink") (warning:
-[aggressive](Aggressive_Mobs "wikilink")). There are two Ohia Lehua
+[Portaling](Portal.md "wikilink") point(s) suggested: [an Ohia Lehua
+tree](Ohia_Lehua_Tree.md "wikilink") (warning:
+[aggressive](Aggressive_Mobs.md "wikilink")). There are two Ohia Lehua
 trees, one of which is in a cursed room. So you might need to use
 2.lehua.
 
-Alternatively, portal to [little crab](Little_Crab "wikilink") and go s,
-e, n, e, n.
+Alternatively, portal to [little crab](Little_Crab.md "wikilink") and go
+s, e, n, e, n.
 
 ## Connections
 
--   [ Sea Of Strayed Hopes](:Category:_Sea_Of_Strayed_Hopes "wikilink")
--   [ Sem Vida](:Category:_Sem_Vida "wikilink")
+-   [ Sea Of Strayed
+    Hopes](:Category:_Sea_Of_Strayed_Hopes.md "wikilink")
+-   [ Sem Vida](:Category:_Sem_Vida.md "wikilink")
 
 ## Navigation
 
 The area is roughly rectangular and mostly cursed. There is a shack 2e
 from the uncursed ohia lehua tree, which contains more mobs (enter shack
 to get inside). There is also a down exit which leads to [ Sem
-Vida](:Category:_Sem_Vida "wikilink").
+Vida](:Category:_Sem_Vida.md "wikilink").
 
 ## Adventuring
 

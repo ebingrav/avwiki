@@ -4,7 +4,7 @@ Hero stormlord lore. Provides access to the lord stormlord lore.
 
 # Prereqs
 
--   [basic stormlore](Basic_Stormlore "wikilink")
+-   [basic stormlore](Basic_Stormlore.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -22,7 +22,7 @@ Hero stormlord lore. Provides access to the lord stormlord lore.
 
 # Lores Unlocked
 
--   [greater stormlore](Greater_Stormlore "wikilink")
+-   [greater stormlore](Greater_Stormlore.md "wikilink")
 
 # Other Notes
 

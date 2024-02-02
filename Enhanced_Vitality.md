@@ -1,18 +1,19 @@
-*By [learning](Practice "wikilink") this
-[skill](:Category:_Skills_And_Spells "wikilink"), you shall regen your
-physical energy quicker. It only works if you are
-[sleeping](Sleep_(command) "wikilink"), however, and only works up to a
-point. To regen quicker, you will have to [learn](Practice "wikilink")
-further [skills](:Category:_Skills_And_Spells "wikilink").*
+*By [learning](Practice.md "wikilink") this
+[skill](:Category:_Skills_And_Spells.md "wikilink"), you shall regen
+your physical energy quicker. It only works if you are
+[sleeping](Sleep_(command).md "wikilink"), however, and only works up to
+a point. To regen quicker, you will have to
+[learn](Practice.md "wikilink") further
+[skills](:Category:_Skills_And_Spells.md "wikilink").*
 
 Prerequisites: none.
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is rather
-beneficial to [characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink") as it increases their
-[move-point](Move_Points "wikilink") (?) regeneration rates.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is rather
+beneficial to [characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink") as it increases their
+[move-point](Move_Points.md "wikilink") (?) regeneration rates.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

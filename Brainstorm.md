@@ -3,8 +3,8 @@ mind.*
 
 Prerequisite(s): [Mindlash](Mindlash "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'brainstorm'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'brainstorm'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

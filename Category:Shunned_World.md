@@ -34,11 +34,11 @@ Shopkeeper items -
 The Haggler accepts:
 
 "the earthen mace of might" from Earth for [the heart of a
-pyrolisk](Heart_Of_A_Pyrolisk "wikilink"), a poison item that holds 100
-doses of [Necrotia](:Category:_Necrotia "wikilink")
+pyrolisk](Heart_Of_A_Pyrolisk.md "wikilink"), a poison item that holds
+100 doses of [Necrotia](:Category:_Necrotia.md "wikilink")
 
 "the Blade of Discord" from Tarterus for [panthrodrine-skin
-leggings](Panthrodrine-Skin_Leggings "wikilink")
+leggings](Panthrodrine-Skin_Leggings.md "wikilink")
 
 "iron web shield" from Noctopia for a pair of coarse leather boots (3hr,
 6dr, and 65hp)
@@ -49,7 +49,7 @@ divinity and sanctuary)
 Chandler accepts:
 
 "a storm-skin cloak" from Water for [a pair of wind-ravaged
-boots](Pair_Of_Wind-Ravaged_Boots "wikilink")
+boots](Pair_Of_Wind-Ravaged_Boots.md "wikilink")
 
 "ball of seething blue flame" from Arcadia for a vial of shifting
 shadows (10 doses of heartbane)
@@ -64,8 +64,8 @@ shadows (10 doses of heartbane)
 
 The kzinti bookseller sells:
 
-`* `[`a`` ``fully`` ``intact`` ``grimoire`](Fully_Intact_Grimoire "wikilink")` - 4000000`  
-`* `[`a`` ``partially`` ``burnt`` ``grimoire`](Partially_Burnt_Grimoire "wikilink")` - 750000`
+`* `[`a`` ``fully`` ``intact`` ``grimoire`](Fully_Intact_Grimoire.md "wikilink")` - 4000000`  
+`* `[`a`` ``partially`` ``burnt`` ``grimoire`](Partially_Burnt_Grimoire.md "wikilink")` - 750000`
 
 [Category:Lord Areas](Category:Lord_Areas "wikilink") [Category:Kzinti
 Homeworld](Category:Kzinti_Homeworld "wikilink") [Category:Areas That

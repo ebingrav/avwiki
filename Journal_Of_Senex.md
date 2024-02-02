@@ -1,28 +1,28 @@
 *A magical book lies on the ground here, refusing to age.*
 
-`Level 24 spells of: '`[`enchant`` ``weapon`](Enchant_Weapon "wikilink")`'.`
+`Level 24 spells of: '`[`enchant`` ``weapon`](Enchant_Weapon.md "wikilink")`'.`
 
 **Keyword(s):** journal senex.  
-**[Level(s)](Object_Level "wikilink"):** 29.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[scroll](:Category:_Scrolls "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 29.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[scroll](:Category:_Scrolls.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
-This item is sometimes used to [fade](Fading "wikilink") high level
+This item is sometimes used to [fade](Fading.md "wikilink") high level
 items.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Senex
-Operis](:Category:_Senex_Operis "wikilink")
-([Map](Senex_Operis_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Re-Animated Corpse Of
+**[Area](:Category:_Areas.md "wikilink"):** [Senex
+Operis](:Category:_Senex_Operis.md "wikilink")
+([Map](Senex_Operis_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Re-Animated Corpse Of
 Senex](Re-Animated_Corpse_Of_Senex "wikilink").  
 See [Re-Animated Corpse Of
 Senex](Re-Animated_Corpse_Of_Senex "wikilink") for more information.  

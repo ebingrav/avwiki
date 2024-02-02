@@ -9,13 +9,13 @@ it's a crossbow, thus it should use propper bolts.*
 `Modifies hit roll by 16 continuous.`
 
 **Keyword(s):** hardboard slinger  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):** [Light
-Crossbow](:Category:Light_Crossbows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 13 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** reinforced.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [Light
+Crossbow](:Category:Light_Crossbows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 13 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** reinforced.  
 
 ## Comments
 
@@ -24,9 +24,9 @@ manner.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Rapture](:Category:_Rapture "wikilink")
-([Map](Rapture_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Rapture](:Category:_Rapture.md "wikilink")
+([Map](Rapture_Map.md "wikilink"))  
 Portal to [Brutus](Brutus "wikilink").
 
 [Category: Gear In Rapture](Category:_Gear_In_Rapture "wikilink")

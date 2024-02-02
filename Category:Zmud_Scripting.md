@@ -45,12 +45,12 @@ zMUD is not and won't be supported in Vista or 7.
 
 ## Scripts
 
-**[Run Stats Counter](Zmud_Run_Stats_Counter "wikilink"):** *Counts
+**[Run Stats Counter](Zmud_Run_Stats_Counter.md "wikilink"):** *Counts
 numerous things during your runs. Mostly xp gained and lost, and certain
 actions performed during runs (bash, trip, rescue, flee, death, etc) and
 shows them only when appropriate.*  
-**[WikiSearch](Zmud_WikiSearch "wikilink"):** *Searches for the selected
-text on AvatarWiki when you select and right click it.*  
+**[WikiSearch](Zmud_WikiSearch.md "wikilink"):** *Searches for the
+selected text on AvatarWiki when you select and right click it.*  
 **[Zmud Prompt Gag](Zmud_Prompt_Gag "wikilink"):** *This 'gags' your
 prompt, placing it in the bar between the input and output frames of
 your window.*  
@@ -78,6 +78,6 @@ Clean Working zMUD 7.21
 DamageCounter/Autorescue\]
 
 **Before using triggers, make sure you are familiar with Avatar's
-[Trigger Policy](Trigger-Using_Policy "wikilink").**
+[Trigger Policy](Trigger-Using_Policy.md "wikilink").**
 
 [Category: Scripting](Category:_Scripting "wikilink")

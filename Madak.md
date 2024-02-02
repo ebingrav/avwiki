@@ -4,12 +4,12 @@ the guard post here. He makes sure that only those with the proper
 permission are able to enter into the mountain caves.*
 
 **Keywords:** half, orc, madak, captain, guard.  
-**[Level](Level "wikilink"):** N/A.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink")  
+**[Level](Level.md "wikilink"):** N/A.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink")  
 
 `Madak, the half-orc captain is using:`  
 <worn on body>`      [Pristine  ] (Glowing) a engraved bronze chestplate`  
@@ -24,10 +24,10 @@ Madak is involved in several area quests.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mountain
-Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Approaching the mountains of
+**[Area](:Category:_Areas.md "wikilink"):** [Mountain
+Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Approaching the mountains of
 Eragora (safe)  
 Walking route from [Eragora default
 recall](Eragora_default_recall "wikilink"): 2s, d, 6e, 2s, 2e, 2s, e,

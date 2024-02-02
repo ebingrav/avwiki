@@ -13,9 +13,9 @@
 **Keywords**: scales scalamandrix  
 **Flags**: hum  
 **Weight**: 25  
-**Plane**: [Astral](:Category:_Astral "wikilink")  
-**Area**: [Flayer Keep](:Category:Flayer_Keep "wikilink")  
-**Mob**: [Scalamandrix](Scalamandrix "wikilink")  
+**Plane**: [Astral](:Category:_Astral.md "wikilink")  
+**Area**: [Flayer Keep](:Category:Flayer_Keep.md "wikilink")  
+**Mob**: [Scalamandrix](Scalamandrix.md "wikilink")  
 Skinned from [Scalamandrix](Scalamandrix "wikilink").
 
 Note that there is a race restriction to these. You must be

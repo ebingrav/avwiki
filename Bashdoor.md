@@ -1,10 +1,10 @@
-*This [skill](:Category:_Skills_And_Spells "wikilink") enables a player
-to bash open a [door](:Category:_Doors "wikilink") to gain entrance. It
-may cost a certain amount of [hp](Hit_Points "wikilink") to smash the
-[door](:Category:_Doors "wikilink"). Although it does not require a
-shield, a shield will make it less painful.*
+*This [skill](:Category:_Skills_And_Spells.md "wikilink") enables a
+player to bash open a [door](:Category:_Doors.md "wikilink") to gain
+entrance. It may cost a certain amount of [hp](Hit_Points.md "wikilink")
+to smash the [door](:Category:_Doors.md "wikilink"). Although it does
+not require a shield, a shield will make it less painful.*
 
-Prerequisite(s): [Bash](Bash "wikilink").
+Prerequisite(s): [Bash](Bash.md "wikilink").
 
 Syntax: bashdoor <direction>.
 

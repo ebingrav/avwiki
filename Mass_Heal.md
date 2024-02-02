@@ -1,17 +1,17 @@
-*This [spell](:Category:_Spells "wikilink") [casts](Cast "wikilink")
-[heal](Heal_(spell) "wikilink") on everyone in the
-[room](:Category:_Rooms "wikilink") as well as
-[refresh](Refresh "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink")
+[casts](Cast.md "wikilink") [heal](Heal_(spell).md "wikilink") on
+everyone in the [room](:Category:_Rooms.md "wikilink") as well as
+[refresh](Refresh.md "wikilink").*
 
-Prerequisite(s): [Heal](Heal_(spell) "wikilink"), [Mass Cure
-Critical](Mass_Cure_Critical "wikilink").
+Prerequisite(s): [Heal](Heal_(spell).md "wikilink"), [Mass Cure
+Critical](Mass_Cure_Critical.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass heal'.
+Syntax: [cast](Cast.md "wikilink") 'mass heal'.
 
-This [spell](:Category:_Spells "wikilink") is rarely used.
-[Brandishes](:Category:_Brandishes "wikilink") are normally used rather
-than [mana](Mana_Points "wikilink") to heal mutiple
-[characters](:Category:_Characters "wikilink") simultaneously.
+This [spell](:Category:_Spells.md "wikilink") is rarely used.
+[Brandishes](:Category:_Brandishes.md "wikilink") are normally used
+rather than [mana](Mana_Points.md "wikilink") to heal mutiple
+[characters](:Category:_Characters.md "wikilink") simultaneously.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

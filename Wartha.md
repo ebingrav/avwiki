@@ -4,12 +4,12 @@ fabled battle abilities. The Gods discovered Wartha's plan and
 imprisoned him in the rock beside her.*
 
 **Keywords:** dwarf, wartha.  
-**[Level](Level "wikilink"):** 66.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 66.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -17,10 +17,10 @@ imprisoned him in the rock beside her.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** An Opening in the Cliffs
+**[Area](:Category:_Areas.md "wikilink"):** [Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** An Opening in the Cliffs
 (portable).  
 Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 9w, n, 2u,
 2w, u, 2n, 3w, 2n, w, 2n, 2e, \[n\].  

@@ -1,6 +1,6 @@
-*[Open Hand](Open_Hand "wikilink") Third Attack.*
+*[Open Hand](Open_Hand.md "wikilink") Third Attack.*
 
-Prerequisite(s): [Mantis Technique](Mantis_Technique "wikilink").
+Prerequisite(s): [Mantis Technique](Mantis_Technique.md "wikilink").
 
 Syntax: none (automatic).
 

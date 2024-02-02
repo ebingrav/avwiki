@@ -6,9 +6,9 @@
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p>Spell</p></th>
-<th style="text-align: center;"><p><a href="Mana_Points"
+<th style="text-align: center;"><p><a href="Mana_Points.md"
 title="wikilink">Mana Cost</a><small>1</small></p></th>
-<th style="text-align: center;"><p><a href=":Category:_Points"
+<th style="text-align: center;"><p><a href=":Category:_Points.md"
 title="wikilink">Type of Healing</a></p></th>
 <th style="text-align: center;"><p>Amount
 Healed<small>2</small></p></th>
@@ -80,16 +80,16 @@ Ratio<small>3</small></p></th>
 </table>
 
 **1**: This number is unmodified by either
-[race](:Category:_Races "wikilink") or [worship](Worship "wikilink"),
-both of which can have a significant effect on this number, both
-positive and negative.  
-**2**: This number is unmodified by [worship](Worship "wikilink"), or
-[augment](Augment "wikilink").  
+[race](:Category:_Races.md "wikilink") or
+[worship](Worship.md "wikilink"), both of which can have a significant
+effect on this number, both positive and negative.  
+**2**: This number is unmodified by [worship](Worship.md "wikilink"), or
+[augment](Augment.md "wikilink").  
 **3**: Essentially just Amount Healed divided by Mana, the higher this
 number the more efficient the spell in terms of long term mana
 consumption. Higher cost spells are less economical, but provide faster
-healing. For even faster rates, see [augment](Augment "wikilink"). For
-targetted spells this is based on a single target. For spells with
+healing. For even faster rates, see [augment](Augment.md "wikilink").
+For targetted spells this is based on a single target. For spells with
 multiple targets, this is based on the number of targets when the spell
 becomes more economical that its single target version.
 

@@ -1,5 +1,5 @@
 *You can get your items labeled at certain places like [the Ent in
-Stonehall](Edmuntrillion "wikilink") for a small fee. This label is
+Stonehall](Edmuntrillion.md "wikilink") for a small fee. This label is
 visible to the person carrying the item only ( if they have switched on
 label-visibility with config +label ). The label can be changed as often
 as you may wish, or even removed.*
@@ -17,9 +17,9 @@ current language and in-theme policies will be enforced and can result
 in repercussions if ignored. (If there's too much abuse, the command
 will no longer be offered to everyone.)*
 
-Syntax: label \<[object](:Category:_Objects "wikilink")\> \<word(s)\> OR
-label \<[object](:Category:_Objects "wikilink")\> remove
+Syntax: label \<[object](:Category:_Objects.md "wikilink")\> \<word(s)\>
+OR label \<[object](:Category:_Objects.md "wikilink")\> remove
 
-See also [Labelers](:Category:_Labelers "wikilink").
+See also [Labelers](:Category:_Labelers.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

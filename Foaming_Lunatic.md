@@ -1,9 +1,9 @@
 *He's INSANE! Run away or he may try to bite your leg!*
 
 **Keywords:** insane, man.  
-**[Level](Level "wikilink"):** 20.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 20.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
@@ -12,16 +12,16 @@
 `Nothing.`
 
 `Foaming Lunatic is carrying:`  
-`     (Glowing) `[`scales`` ``of`` ``Justice`](Scales_Of_Justice "wikilink")
+`     (Glowing) `[`scales`` ``of`` ``Justice`](Scales_Of_Justice.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-Foaming Lunatic [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+Foaming Lunatic [wanders](Wandering_Mobs.md "wikilink").  
 Foaming Lunatic is portable.  
 
 [Category: Mobs In Midgaard](Category:_Mobs_In_Midgaard "wikilink")

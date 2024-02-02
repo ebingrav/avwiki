@@ -1,27 +1,27 @@
 *A leather bound book with an arcane symbol is lying here.*
 
-`Has 5(5) charges at level 18 '`[`acid`` ``breath`](Acid_Breath "wikilink")`'.`
+`Has 5(5) charges at level 18 '`[`acid`` ``breath`](Acid_Breath.md "wikilink")`'.`
 
 **Keyword(s):** magnus's spellbook  
-**[Level(s)](Object_Level "wikilink"):** 15  
-**[Type](:Category:_Object_Types "wikilink"):**
-[staff](:Category:_Staves "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Weight](Object_Weight "wikilink"):** 55 lbs  
-**[Quality](Object_Quality "wikilink"):** 30 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Level(s)](Object_Level.md "wikilink"):** 15  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[staff](:Category:_Staves.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Weight](Object_Weight.md "wikilink"):** 55 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 30 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 
 ## Comments
 
 See also [Suggested Attack
-Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties "wikilink")
+Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties.md "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Town Of
-Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Magnus
+**[Area](:Category:_Areas.md "wikilink"):** [Town Of
+Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Magnus
 Wizard](Magnus_Wizard "wikilink")  
 See [Magnus Wizard](Magnus_Wizard "wikilink") for more information.
 

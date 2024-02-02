@@ -1,29 +1,29 @@
 *Patches of cloth of different shades of blue have been sewn together to
 make this skirt.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6-7.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 5 continuous.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -20 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6-7.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 5 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -20 continuous.`
 
 **Keyword(s):** blue, skirt.  
-**[Level(s)](Object_Level "wikilink"):** 34-36.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 34-36.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Grieving
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Grieving
 Widow](Grieving_Widow "wikilink")  
-See a [grieving widow](Grieving_Widow "wikilink") for more
+See a [grieving widow](Grieving_Widow.md "wikilink") for more
 information.  
 
 [Category: Gear In Defender's

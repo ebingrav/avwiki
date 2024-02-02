@@ -2,11 +2,11 @@
 lazily.*
 
 **Keywords:** bloat, hippopotamuses.  
-**[Level](Level "wikilink"):** 68.  
+**[Level](Level.md "wikilink"):** 68.  
 **Scan Description:** Twiddling ears emerge from the surface of the
 water.  
-**[Alignment](Alignment "wikilink"):** heroically.  
-**[Flags](:Category:_Mob_Types "wikilink"):**  
+**[Alignment](Alignment.md "wikilink"):** heroically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**  
 **Affects:**  
 
 ## Gear
@@ -21,9 +21,9 @@ water.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Greed's
-Gallows](:Category:_Greed's_Gallows "wikilink")
-([Map](Greed's_Gallows_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Greed's
+Gallows](:Category:_Greed's_Gallows.md "wikilink")
+([Map](Greed's_Gallows_Map.md "wikilink")).  
 Mob is portable.  
 
 [Category: Mobs In Greed's

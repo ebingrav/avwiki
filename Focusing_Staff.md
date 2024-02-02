@@ -2,7 +2,7 @@
 very elaborate display of extravagance. It also has dark necromantic
 runes that glow with evil red light etched in the wood.
 
-`Modifies `[`mana`](Mana_Points "wikilink")` by 50 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 50 continuous.`  
 `'protection evil'  continuous.`
 
 **Keyword(s):** focusing, staff  
@@ -11,10 +11,10 @@ runes that glow with evil red light etched in the wood.
 **Levels:** Levels 50-52  
 **Weight:** 10 lbs  
 **Bases:** Base 10-12  
-**Flags:** [hum](Hum_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink")  
-**Area:** [Sun God Altar](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink"))  
+**Flags:** [hum](Hum_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink")  
+**Area:** [Sun God Altar](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink"))  
 **Mob:** various.  
 
 ## Comments

@@ -1,8 +1,8 @@
 *This Rite reduces the odds of berserking from damage inflicted by any
-source other than the [scar](Scar "wikilink")
-[command](:Category:_Commands "wikilink"). This applies to both
-[racial](:Category:_Races "wikilink") and
-[class](:Category:_Classes "wikilink") abilities.*
+source other than the [scar](Scar.md "wikilink")
+[command](:Category:_Commands.md "wikilink"). This applies to both
+[racial](:Category:_Races.md "wikilink") and
+[class](:Category:_Classes.md "wikilink") abilities.*
 
 Prerequisite(s): none.
 

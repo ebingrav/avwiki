@@ -11,16 +11,16 @@ has become a captain of the guard of sorts for Icewolf.*
 **Keywords:** Icytree, Icy.  
 **Scan Description:** Oldest and strongest of hunters, Icytree gruffly
 welcomes you.  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** Good.  
-**[Flags](:Category:_Mob_Types "wikilink"):** *none*.  
-**Affects:** [sactuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** Good.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** *none*.  
+**Affects:** [sactuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Icytree is using:`  
-`     `<worn on body>`      `[`a`` ``leather`` ``hauberk`](Leather_Hauberk "wikilink")  
-`     `<wielded>`           `[`a`` ``wooden`` ``spear`](Wooden_Spear "wikilink")
+`     `<worn on body>`      `[`a`` ``leather`` ``hauberk`](Leather_Hauberk.md "wikilink")  
+`     `<wielded>`           `[`a`` ``wooden`` ``spear`](Wooden_Spear.md "wikilink")
 
 `Icytree is carrying:`  
 `     Nothing.`
@@ -29,13 +29,13 @@ welcomes you.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Icewolf](:Category:_Icewolf "wikilink")
-([Map](Icewolf_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Inside Icytree's House
+**[Area](:Category:_Areas.md "wikilink"):**
+[Icewolf](:Category:_Icewolf.md "wikilink")
+([Map](Icewolf_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Inside Icytree's House
 (portable).  
 
-Walking route from [Big Fish](Big_Fish_In_Cold_Water "wikilink"):
+Walking route from [Big Fish](Big_Fish_In_Cold_Water.md "wikilink"):
 e2sese.  
 Icytree is portable.  
 

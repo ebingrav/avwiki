@@ -2,12 +2,12 @@
 lies here.*
 
 **Keyword(s):** token, ambassador, approval.  
-**[Level(s)](Object_Level "wikilink"):** 10.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 10.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## A Tradeable Quest Item
 
@@ -23,7 +23,7 @@ quitting, as the bound potions cannot be saved by another character and
 will fall to the floor.
 
 These potions are especially important to those players wishing to
-defeat the [Ultimate Dragon](:Category:Hero_Quest "wikilink"), since
+defeat the [Ultimate Dragon](:Category:Hero_Quest.md "wikilink"), since
 these may be the only sources of certain spells, in potion form.
 
 Shopkeepers have one or two potions in stock, and will trade a random
@@ -34,27 +34,27 @@ All potions hold a lvl 60 spell.
 ## Incomplete Trade-in Shopkeepers
 
 [Kanih](Kanih "wikilink") ([Sir Michael's
-Stronghold](:Category:Sir_Michael's_Stronghold "wikilink")) - divinity,
-invincibility
+Stronghold](:Category:Sir_Michael's_Stronghold.md "wikilink")) -
+divinity, invincibility
 
 [Celestial](Celestial "wikilink") ([Alpha
-Thule](:Category:Alpha_Thule "wikilink")) - divinity, heal ii
+Thule](:Category:Alpha_Thule.md "wikilink")) - divinity, heal ii
 
 [Visitor From Solace](Visitor_From_Solace "wikilink")
-([Padmasa](:Category:Padmasa "wikilink")) - divinity, sanctuary
+([Padmasa](:Category:Padmasa.md "wikilink")) - divinity, sanctuary
 
 [Bram The Wandering Trader](Bram_The_Wandering_Trader "wikilink")
-([Gorn's Anchor](:Category:Gorn's_Anchor "wikilink")) - divinity, holy
-sight
+([Gorn's Anchor](:Category:Gorn's_Anchor.md "wikilink")) - divinity,
+holy sight
 
 [Lars The Supplier](Lars_The_Supplier "wikilink")
-([Icewolf](:Category:Icewolf "wikilink")) - sanctuary, steel skeleton
+([Icewolf](:Category:Icewolf.md "wikilink")) - sanctuary, steel skeleton
 
 [Angelika](Angelika "wikilink") ([Graw
-Akkuurattaan](:Category:Graw_Akkuurattaan "wikilink")) - bless
+Akkuurattaan](:Category:Graw_Akkuurattaan.md "wikilink")) - bless
 
 [Guardian](Guardian "wikilink") ([Borley
-Manor](:Category:Borley_Manor "wikilink")) - barkskin, steel skeleton
+Manor](:Category:Borley_Manor.md "wikilink")) - barkskin, steel skeleton
 
 (more probably exist)
 

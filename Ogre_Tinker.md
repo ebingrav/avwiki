@@ -4,13 +4,14 @@ it he just bellows over his shoulder: 'Anything to trade, small one? I
 can also work with items - for a price.'*
 
 **Keywords:** ogre tinker.  
-**[Level](Level "wikilink"):** 310.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
+**[Level](Level.md "wikilink"):** 310.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
 
 ## Comments
 
-The ogre tinker will [etch](etch "wikilink"), [label](label "wikilink")
-and [identify](identify "wikilink") items.
+The ogre tinker will [etch](etch.md "wikilink"),
+[label](label.md "wikilink") and [identify](identify.md "wikilink")
+items.
 
 [Category:Mobs In Planar
 Nexus](Category:Mobs_In_Planar_Nexus "wikilink")

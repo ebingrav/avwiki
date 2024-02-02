@@ -1,10 +1,10 @@
--   [Portal](Teleport "wikilink") to the [The Golden
-    Hydra](Golden_Hydra "wikilink") (aggie).
+-   [Portal](Teleport.md "wikilink") to the [The Golden
+    Hydra](Golden_Hydra.md "wikilink") (aggie).
 -   Go s e u n u.
--   Kill [The Bronze Dragon, Kastinius](Kastinius "wikilink") and get
-    his [scales](Some_Dragon_Scales "wikilink").
+-   Kill [The Bronze Dragon, Kastinius](Kastinius.md "wikilink") and get
+    his [scales](Some_Dragon_Scales.md "wikilink").
 -   Portal to [Jake The Thorn-Slayer](Jake_The_Thorn-Slayer "wikilink")
-    in [Midgaard](:Category:_Midgaard "wikilink") and give him the
+    in [Midgaard](:Category:_Midgaard.md "wikilink") and give him the
     scales. He will reward you with the [Heroic Dragonscale
     Sleeves](Heroic_Dragonscale_Sleeves "wikilink").
 

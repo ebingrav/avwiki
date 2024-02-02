@@ -4,29 +4,30 @@ in the dark times.*
 
 `Damage is 21-24 to 68-77.`  
 `Draw strength is 16.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 19 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by 2 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 19 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** bow, aranor.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Bows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 12 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Bows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 12 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Silmavar
-Labyrinth](:Category:_Silmavar_Labyrinth "wikilink")
-([Map](Silmavar_Labyrinth_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Silmavar
+Labyrinth](:Category:_Silmavar_Labyrinth.md "wikilink")
+([Map](Silmavar_Labyrinth_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Kalimindroph](Kalimindroph "wikilink")  
-[Portal](Teleport "wikilink") [Numenor](Numenor_The_Lich "wikilink")
-(move, sneak, invis, fly, water breath, pass door)
+[Portal](Teleport.md "wikilink")
+[Numenor](Numenor_The_Lich.md "wikilink") (move, sneak, invis, fly,
+water breath, pass door)
 
 2wsenen4e2d9eses3esenedwn2ws3ws3w
 

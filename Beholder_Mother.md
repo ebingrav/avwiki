@@ -5,16 +5,16 @@ appears to have no visible eyestalks, but the body is covered it
 protective structures which you think contain eyes.*
 
 **Keywords:** beholder, mother.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Psion, Steadfast, Very
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Psion, Steadfast, Very
 Aggressive.  
 **Affects:** Flying, Sanctuary, Detect Hidden, Detect Invis.  
 
 ## Gear
 
 `The beholder mother is using:`  
-<worn on head>`      `[`(Glowing)`` ``the`` ``eye`` ``of`` ``the`` ``beholder`](Eye_Of_The_Beholder "wikilink")
+<worn on head>`      `[`(Glowing)`` ``the`` ``eye`` ``of`` ``the`` ``beholder`](Eye_Of_The_Beholder.md "wikilink")
 
 `The beholder mother is carrying:`  
 `     Nothing.`
@@ -26,11 +26,11 @@ caster.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Labyrinth of
-Despair](:Category:_Labyrinth_Of_Despair "wikilink")
-([Map](Labyrinth_Of_Despair_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Lair of the hive-mother
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [ Labyrinth of
+Despair](:Category:_Labyrinth_Of_Despair.md "wikilink")
+([Map](Labyrinth_Of_Despair_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Lair of the hive-mother
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from [Beholder Overseer](Beholder_Overseer "wikilink"):
 e4n.  
 See [Eye Of The Beholder](Eye_Of_The_Beholder "wikilink") for more

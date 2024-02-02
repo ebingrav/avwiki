@@ -1,16 +1,17 @@
-*This [spell](:Category:_Spells "wikilink") reveals all manner of
-[invisible](Invis_Flag "wikilink"), [hidden](Hide_Flag "wikilink"), and
-[sneaking](Sneak_Flag "wikilink")
-[creatures](:Category:_Mobs "wikilink") in the same
-[room](:Category:_Rooms "wikilink") as you.*
+*This [spell](:Category:_Spells.md "wikilink") reveals all manner of
+[invisible](Invis_Flag.md "wikilink"),
+[hidden](Hide_Flag.md "wikilink"), and
+[sneaking](Sneak_Flag.md "wikilink")
+[creatures](:Category:_Mobs.md "wikilink") in the same
+[room](:Category:_Rooms.md "wikilink") as you.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'faeire fog'.
+Syntax: [cast](Cast.md "wikilink") 'faeire fog'.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is rarely used.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is rarely used.
 
-See also [Faerie Fog Gear](:Category:_Faerie_Fog_Gear "wikilink").
+See also [Faerie Fog Gear](:Category:_Faerie_Fog_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

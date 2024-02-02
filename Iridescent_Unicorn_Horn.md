@@ -1,29 +1,30 @@
 *An iridescent unicorn horn lays here.*
 
-`Has 9(9) charges at level 20 '`[`cure`` ``poison`](Cure_Poison "wikilink")`'.`
+`Has 9(9) charges at level 20 '`[`cure`` ``poison`](Cure_Poison.md "wikilink")`'.`
 
 **Keyword(s):** iridescent, unicorn, horn.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[wand](:Category:_Wands "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"), [glow](Glow_Flag "wikilink"),
-[hum](Hum_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[wand](:Category:_Wands.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[glow](Glow_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Westwood](:Category:_Westwood "wikilink")
-([Map](Westwood_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Iridescent Unicorn
-Horn Quest](Iridescent_Unicorn_Horn_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Westwood](:Category:_Westwood.md "wikilink")
+([Map](Westwood_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Iridescent Unicorn
+Horn Quest](Iridescent_Unicorn_Horn_Quest.md "wikilink").  
 See [Iridescent Unicorn Horn
-Quest](Iridescent_Unicorn_Horn_Quest "wikilink") for more information.
+Quest](Iridescent_Unicorn_Horn_Quest.md "wikilink") for more
+information.
 
 [Category: Gear In Westwood](Category:_Gear_In_Westwood "wikilink")
 [Category: Wands](Category:_Wands "wikilink") [Category: Lowmort 11-20

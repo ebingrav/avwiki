@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="ofcol.refugee.camp.jpg" title="ofcol.refugee.camp.jpg"
-width="650" alt="ofcol.refugee.camp.jpg" />
-<figcaption aria-hidden="true">ofcol.refugee.camp.jpg</figcaption>
+<img src="ofcol.refugee.camp.jpg.md" title="ofcol.refugee.camp.jpg.md"
+width="650" alt="ofcol.refugee.camp.jpg.md" />
+<figcaption aria-hidden="true">ofcol.refugee.camp.jpg.md</figcaption>
 </figure>
 
 [Highways/Great Wall Map](Highways/Great_Wall_Map "wikilink")

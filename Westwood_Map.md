@@ -3,7 +3,7 @@
 Secret Centaur Map!
 
 `-------------------------------------------------------------------------`  
-`our secret camp          ^ : Odevar  Hills : ^       |    (lizardmen)    |`  
+`our secret camp          ^ : Odevar  Hills : ^      .md|    (lizardmen)    |`  
 `|......:....             | :  (lizardmen)  : |        \____________     _|`  
 `|      :   :........       :....   ........:                       \   / |`  
 `|      :           :           :   :                                | |  |`  

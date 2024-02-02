@@ -10,28 +10,29 @@ seems to have a placid demeanor, to the extent of ignoring you whilst it
 continues spinning.*
 
 **Keywords:** cho-ja artisan.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").br\>
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").br\>
 
 ## Gear
 
 `Silk producer is using:`  
-<wielded>`           `[`a`` ``silken`` ``garrotte`](Silken_Garrotte "wikilink")
+<wielded>`           `[`a`` ``silken`` ``garrotte`](Silken_Garrotte.md "wikilink")
 
 `Silk producer is carrying:`  
-`    `[`an`` ``antique`` ``emerald`` ``earring`](Antique_Emerald_Earring "wikilink")
+`    `[`an`` ``antique`` ``emerald`` ``earring`](Antique_Emerald_Earring.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cho-ja
-Hive](:Category:_Cho-ja_Hive "wikilink")
-([Map](Cho-ja_Hive_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Silk production workshop.  
+**[Area](:Category:_Areas.md "wikilink"):** [Cho-ja
+Hive](:Category:_Cho-ja_Hive.md "wikilink")
+([Map](Cho-ja_Hive_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Silk production
+workshop.  
 Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 8n, 5e, 2n, 6e,
 3s, 6e, 3n, 5e, n, \[d\], n, d, 2w.
 

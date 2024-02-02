@@ -1,15 +1,15 @@
 *A finely crafted magnifying lens is here, hoping not to get scratched.*
 
-`Modifies `[`inteligence`](Intelligence "wikilink")` by 1 continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -1 continuous`  
+`Modifies `[`inteligence`](Intelligence.md "wikilink")` by 1 continuous`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -1 continuous`  
 `Armor class is 1-4.`
 
 Level: 9-11  
 Weight: 8  
 worn about head  
 Mob: [Gallatin](Gallatin "wikilink") portable  
-Location: [Village of Gnimh](:Category:_Village_Of_Gnimh "wikilink")
-([Map](Village_Of_Gnimh_Map "wikilink"))  
+Location: [Village of Gnimh](:Category:_Village_Of_Gnimh.md "wikilink")
+([Map](Village_Of_Gnimh_Map.md "wikilink"))  
 From [Nom](Nom "wikilink"): go 9n3ed2e5n5w4n2w2u to get to the Village,
 then go s4w2ne and kill Gallatin for the loupe.  
 From [Sol](Sol "wikilink"): go 3e2n3e5n2ws to get to the Village, then

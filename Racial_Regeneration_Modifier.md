@@ -17,35 +17,35 @@ will be updated as more data is collected.
 | Bad           |
 | Absurd        |
 
-| Race                                |  HP Regen |  Mana Regen |
-|-------------------------------------|-----------|-------------|
-| [Centaur](Centaur "wikilink")       | ?         | ?           |
-| [Deep Gnome](Deep_Gnome "wikilink") | ?         | ?           |
-| [Draconian](Draconian "wikilink")   | ?         | ?           |
-| [Drow](Drow "wikilink")             | ?         | ?           |
-| [Duergar](Duergar "wikilink")       | ?         | ?           |
-| [Dwarf](Dwarf "wikilink")           | ?         | ?           |
-| [Elf](Elf "wikilink")               | ?         | ?           |
-| [Ent](Ent "wikilink")               | ?         | ?           |
-| [Firedrake](Firedrake "wikilink")   | ?         | ?           |
-| [Gargoyle](Gargoyle "wikilink")     | ?         | ?           |
-| [Giant](Giant "wikilink")           | ?         | ?           |
-| [Gnome](Gnome "wikilink")           | ?         | ?           |
-| [Goblin](Goblin "wikilink")         | ?         | ?           |
-| [Halfling](Halfling "wikilink")     | ?         | ?           |
-| [Half-Elf](Half-Elf "wikilink")     | ?         | ?           |
-| [Half-Orc](Half-Orc "wikilink")     | ?         | ?           |
-| [Harpy](Harpy "wikilink")           | ?         | ?           |
-| [Human](Human "wikilink")           | 0         | 0           |
-| [Imp](Imp "wikilink")               | ?         | ?           |
-| [Kobold](Kobold "wikilink")         | ?         | ?           |
-| [Kzinti](Kzinti "wikilink")         | ?         | ?           |
-| [Lizardmen](Lizardmen "wikilink")   | ?         | ?           |
-| [Ogres](Ogres "wikilink")           | ?         | ?           |
-| [Orc](Orc "wikilink")               | ?         | ?           |
-| [Troglodyte](Troglodyte "wikilink") | ?         | ?           |
+| Race                                        |  HP Regen |  Mana Regen |
+|---------------------------------------------|-----------|-------------|
+| [Centaur](Centaur "wikilink") .md\| ?       | ?         |             |
+| [Deep Gnome](Deep_Gnome "wikilink")         | ?         | ?           |
+| [Draconian](Draconian "wikilink") .md\| ?   | ?         |             |
+| [Drow](Drow "wikilink")                     | ?         | ?           |
+| [Duergar](Duergar "wikilink") .md\| ?       | ?         |             |
+| [Dwarf](Dwarf "wikilink")                   | ?         | ?           |
+| [Elf](Elf "wikilink") .md\| ?               | ?         |             |
+| [Ent](Ent "wikilink")                       | ?         | ?           |
+| [Firedrake](Firedrake "wikilink") .md\| ?   | ?         |             |
+| [Gargoyle](Gargoyle "wikilink")             | ?         | ?           |
+| [Giant](Giant "wikilink") .md\| ?           | ?         |             |
+| [Gnome](Gnome "wikilink")                   | ?         | ?           |
+| [Goblin](Goblin "wikilink") .md\| ?         | ?         |             |
+| [Halfling](Halfling "wikilink")             | ?         | ?           |
+| [Half-Elf](Half-Elf "wikilink") .md\| ?     | ?         |             |
+| [Half-Orc](Half-Orc "wikilink")             | ?         | ?           |
+| [Harpy](Harpy "wikilink") .md\| ?           | ?         |             |
+| [Human](Human "wikilink")                   | 0         | 0           |
+| [Imp](Imp "wikilink") .md\| ?               | ?         |             |
+| [Kobold](Kobold "wikilink")                 | ?         | ?           |
+| [Kzinti](Kzinti "wikilink") .md\| ?         | ?         |             |
+| [Lizardmen](Lizardmen "wikilink")           | ?         | ?           |
+| [Ogres](Ogres "wikilink") .md\| ?           | ?         |             |
+| [Orc](Orc "wikilink")                       | ?         | ?           |
+| [Troglodyte](Troglodyte "wikilink") .md\| ? | ?         |             |
 
-<big>**[Creatable Races](:Category:_Creatable_Races "wikilink")
+<big>**[Creatable Races](:Category:_Creatable_Races.md "wikilink")
 Regeneration Modifiers**</big>
 
 <div style="clear: both;">
@@ -53,22 +53,22 @@ Regeneration Modifiers**</big>
 
   
 
-| Race                              |  HP Regen       |  Mana Regen |
-|-----------------------------------|-----------------|-------------|
-| [Demonseed](Demonseed "wikilink") | ?               | ?           |
-| [Dragon](Dragon "wikilink")       | ?               | ?           |
-| [Drider](Driders "wikilink")      | ?               | ?           |
-| [Gith](Gith "wikilink")           | ?               | ?           |
-| [Golem](Golem "wikilink")         | ?               | ?           |
-| [Griffon](Griffon "wikilink")     | ?               | ?           |
-| [High Elf](High_Elf "wikilink")   | ?               | ?           |
-| [Hobgoblin](Hobgoblin "wikilink") | ?               | ?           |
-| [Ignatur](Ignatur "wikilink")     | -3 <sup>1</sup> | ?           |
-| [Minotaur](Minotaur "wikilink")   | ?               | ?           |
-| [Miraar](Miraar "wikilink")       | 0               | 0           |
-| [Sprite](Sprite "wikilink")       | ?               | +3          |
-| [Troll](Troll "wikilink")         | +3              | -3          |
-| [Tuataur](Tuataur "wikilink")     | ?               | ?           |
+| Race                                      |  HP Regen       |  Mana Regen |
+|-------------------------------------------|-----------------|-------------|
+| [Demonseed](Demonseed "wikilink") .md\| ? | ?               |             |
+| [Dragon](Dragon "wikilink")               | ?               | ?           |
+| [Drider](Driders.md "wikilink")           | ?               | ?           |
+| [Gith](Gith "wikilink") .md\| ?           | ?               |             |
+| [Golem](Golem "wikilink")                 | ?               | ?           |
+| [Griffon](Griffon "wikilink") .md\| ?     | ?               |             |
+| [High Elf](High_Elf "wikilink")           | ?               | ?           |
+| [Hobgoblin](Hobgoblin "wikilink") .md\| ? | ?               |             |
+| [Ignatur](Ignatur "wikilink")             | -3 <sup>1</sup> | ?           |
+| [Minotaur](Minotaur "wikilink") .md\| ?   | ?               |             |
+| [Miraar](Miraar "wikilink")               | 0               | 0           |
+| [Sprite](Sprite "wikilink") .md\| ?       | +3              |             |
+| [Troll](Troll "wikilink")                 | +3              | -3          |
+| [Tuataur](Tuataur "wikilink") .md\| ?     | ?               |             |
 
 <big>**[Remort Races](:Category:_Remort_Races "wikilink") Regeneration
 Modifiers**</big>

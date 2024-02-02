@@ -7,10 +7,10 @@ counter with a rag.
 
 Sells:
 
-[`A`` ``bottle`` ``of`` ``local`` ``specialty.`](Bottle_Local "wikilink")  
-[`bottle`` ``of`` ``firebreather.`](Bottle_Firebreather "wikilink")  
-[`A`` ``bottle`` ``of`` ``beer.`](Bottle_Beer "wikilink")  
-[`A`` ``slab`` ``of`` ``beef.`](Slab_Beef "wikilink")
+[`A`` ``bottle`` ``of`` ``local`` ``specialty.`](Bottle_Local.md "wikilink")  
+[`bottle`` ``of`` ``firebreather.`](Bottle_Firebreather.md "wikilink")  
+[`A`` ``bottle`` ``of`` ``beer.`](Bottle_Beer.md "wikilink")  
+[`A`` ``slab`` ``of`` ``beef.`](Slab_Beef.md "wikilink")
 
 Room Desc: ''A round olive skinned man stands here, smiling nervously.  
 

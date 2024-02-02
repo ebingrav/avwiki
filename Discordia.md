@@ -28,7 +28,7 @@ sure what these are!*
 
 -   Improves Save vs. Spell by some amount,
 -   "Improves" area spells by applying random amount of random [damage
-    types](Damage_Types "wikilink"),
+    types](Damage_Types.md "wikilink"),
 -   Causes single target spells to sometimes do much less damage (-50%)
     or more damage (+50%),
 -   Appears to give the same bonuses at Lord and Hero

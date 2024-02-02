@@ -3,11 +3,11 @@ is possible. Conquer the rings and towers, then shall freedom and glory
 be yours."*
 
 **Keywords:** drow, spectre.  
-**[Level](Level "wikilink"):** (?).  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [fly](Fly "wikilink").  
+**[Level](Level.md "wikilink"):** (?).  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [fly](Fly.md "wikilink").  
 
 ## Gear
 
@@ -21,13 +21,13 @@ be yours."*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Trials](:Category:_Drow_Trials "wikilink")
-([Map](Drow_Trials_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Trial's Entrance (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, 2s, 3e, n.  
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Trials](:Category:_Drow_Trials.md "wikilink")
+([Map](Drow_Trials_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Trial's Entrance (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, 2s, 3e, n.  
 Drow spectre is portable.  
 
 [Category: Mobs In Drow

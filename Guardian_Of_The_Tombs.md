@@ -8,18 +8,18 @@ afraid that his words might stop their attempt.*
 **Keywords:** Guardian.  
 **Scan Description:** This guardian's footsteps echo as he marches to
 the beat of Veyah.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Drifting](Drifting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Drifting](Drifting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `Guardian Of The Tombs is using:`  
-<worn on body>`      `[`glass`` ``platemail`](Glass_Platemail "wikilink")  
-<wielded>`           `[`a`` ``stone`` ``halberd`](Stone_Halberd "wikilink")
+<worn on body>`      `[`glass`` ``platemail`](Glass_Platemail.md "wikilink")  
+<wielded>`           `[`a`` ``stone`` ``halberd`](Stone_Halberd.md "wikilink")
 
 `Guardian Of The Tombs is carrying:`  
 `     Nothing.`
@@ -28,11 +28,11 @@ the beat of Veyah.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Guardian Of The Tombs [drifts](Drifting_Mobs "wikilink").
+Guardian Of The Tombs [drifts](Drifting_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

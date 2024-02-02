@@ -2,10 +2,10 @@
 souls. A perfect relationship....as long as you're Rastar or Tialoc!*
 
 `Rastar the Injestor is using:`  
-<wielded>`           [Pristine  ] (Demonic) (Glowing) `[`the`` ``sword`` ``of`` ``ascension`](Sword_Of_Ascension "wikilink")
+<wielded>`           [Pristine  ] (Demonic) (Glowing) `[`the`` ``sword`` ``of`` ``ascension`](Sword_Of_Ascension.md "wikilink")
 
 `You peek at the inventory:`  
-`    [Pristine  ] (Demonic) `[`a`` ``tooled`` ``bone`](Tooled_Bone "wikilink")
+`    [Pristine  ] (Demonic) `[`a`` ``tooled`` ``bone`](Tooled_Bone.md "wikilink")
 
 **Level**: 200  
 **On scan**: (Demonic) (Black Aura) A giant, winged demon picks at a leg

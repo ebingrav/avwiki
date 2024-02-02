@@ -4,16 +4,16 @@ you coldly. His features are nearly sekeltal, but fire still burns in
 his eyes, betraying the icy demeanor he projects.*
 
 **Keywords:** Seneca, Rotberry, healer.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink")  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink")  
 
 ## Gear
 
 `Seneca Rotberry is using:`  
-<worn about body>`   [Pristine  ] (Demonic) `[`robes`` ``of`` ``life`` ``sustainment`](Robes_Of_Life_Sustainment "wikilink")
+<worn about body>`   [Pristine  ] (Demonic) `[`robes`` ``of`` ``life`` ``sustainment`](Robes_Of_Life_Sustainment.md "wikilink")
 
 ## Comments
 
@@ -29,10 +29,11 @@ some more.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sun God
-Altar](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Master Halfhealer's Office.  
+**[Area](:Category:_Areas.md "wikilink"):** [Sun God
+Altar](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Master Halfhealer's
+Office.  
 Seneca Rotberry is portable.
 
 [Category: Mobs In Sun God

@@ -1,19 +1,19 @@
 *Sandstorm creates a sweeping gust of sand which pelts your
-[opponents](:Category:_Mobs "wikilink") into oblivion.
-[Opponents](:Category:_Mobs "wikilink") are also blinded. This is an
+[opponents](:Category:_Mobs.md "wikilink") into oblivion.
+[Opponents](:Category:_Mobs.md "wikilink") are also blinded. This is an
 area spell.*
 
-Prerequisite(s): [Control Weather](Control_Weather "wikilink").
+Prerequisite(s): [Control Weather](Control_Weather.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'sandstorm'.
+Syntax: [cast](Cast.md "wikilink") 'sandstorm'.
 
-Some [hero](:Category:_Hero "wikilink") [tanks](Tanks "wikilink") may
-find this [ranger](:Category:_Rangers "wikilink")
-[spell](:Category:_Spells "wikilink") useful for initiating combat with
-multiple [mobs](:Category:_Mobs "wikilink") simultaneously.
+Some [hero](:Category:_Hero.md "wikilink") [tanks](Tanks.md "wikilink")
+may find this [ranger](:Category:_Rangers.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") useful for initiating combat
+with multiple [mobs](:Category:_Mobs.md "wikilink") simultaneously.
 
-See also: [Area Spells](:Category:_Area_Spells "wikilink"), [Sandstorm
-Gear](:Category:_Sandstorm_Gear "wikilink").
+See also: [Area Spells](:Category:_Area_Spells.md "wikilink"),
+[Sandstorm Gear](:Category:_Sandstorm_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Area

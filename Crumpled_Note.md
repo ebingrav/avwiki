@@ -18,8 +18,8 @@ power."*
 **Flags:** glow hum magic  
 **Weight:** 5 lbs  
 **Level:** 125  
-**Mob:** [A kzinti scientist](Kziniti_Scientist "wikilink")  
-**Area:** [Savage Jungle](:Category:Savage_Jungle "wikilink")
+**Mob:** [A kzinti scientist](Kziniti_Scientist.md "wikilink")  
+**Area:** [Savage Jungle](:Category:Savage_Jungle.md "wikilink")
 
 [Category:Gear In Savage
 Jungle](Category:Gear_In_Savage_Jungle "wikilink")

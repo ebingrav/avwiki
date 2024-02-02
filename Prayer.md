@@ -1,13 +1,13 @@
-*With prayer, a [worshipper](Worship "wikilink") may seek a blessing or
-submit to a curse dependent upon the needs of their
-[God](:Category:_Gods_And_Goddesses "wikilink"). The results of a prayer
-are varied and only your particular [god or
-goddess](:Category:_Gods_And_Goddesses "wikilink") knows the reasons for
-each.*
+*With prayer, a [worshipper](Worship.md "wikilink") may seek a blessing
+or submit to a curse dependent upon the needs of their
+[God](:Category:_Gods_And_Goddesses.md "wikilink"). The results of a
+prayer are varied and only your particular [god or
+goddess](:Category:_Gods_And_Goddesses.md "wikilink") knows the reasons
+for each.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'prayer'
+Syntax: [cast](Cast.md "wikilink") 'prayer'
 
 ## Paladin Prayer
 
@@ -23,7 +23,7 @@ it costs mana to do so. More boons become available as a paladin levels.
 <td><table>
 <thead>
 <tr class="header">
-<th style="text-align: center;"><p><a href="Level"
+<th style="text-align: center;"><p><a href="Level.md"
 title="wikilink">Level</a></p></th>
 <th style="text-align: center;"><p>Prayer Name</p></th>
 <th style="text-align: center;"><p>Description</p></th>

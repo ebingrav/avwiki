@@ -1,5 +1,5 @@
-Each house within [this area](:Category:_Houses "wikilink") has its own
-[map](:Category:_Maps "wikilink"), as follows:
+Each house within [this area](:Category:_Houses.md "wikilink") has its
+own [map](:Category:_Maps.md "wikilink"), as follows:
 
 -   [Bard's House Map](Bard's_House_Map "wikilink").  
 -   [Brewer's House Map](Brewer's_House_Map "wikilink").  

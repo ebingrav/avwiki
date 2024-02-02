@@ -1,5 +1,5 @@
 Syntax: cast 'unholy bargain'  
-Prerequisites: [demonic intent](Demonic_Intent "wikilink")  
+Prerequisites: [demonic intent](Demonic_Intent.md "wikilink")  
 
 `"8:00pm. Forging an agreement with hellish fiends,`  
 `Oglandor of the Circle of Pain sacrificed his body's`  

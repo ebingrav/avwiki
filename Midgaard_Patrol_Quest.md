@@ -2,7 +2,7 @@ This is the third in the chain of Patrol quests, to start it give your
 [Badge Of Mervue](Badge_Of_Mervue "wikilink") from the [Mervue Patrol
 Quest](Mervue_Patrol_Quest "wikilink") to
 [Carlotta](Carlotta "wikilink") in
-[Midgaard](:Category:Midgaard "wikilink").
+[Midgaard](:Category:Midgaard.md "wikilink").
 
 *This quest has recently changed, you can find the instructions to the
 old quest further down on the page.*
@@ -157,7 +157,7 @@ Also, it can be faster to walk between some of these places than getting
 a portal from sanctum, especially when
 
 the bots are busy. If you are having trouble finding a particular place,
-you can find a [map of Midgaard here](Midgaard_Map "wikilink").
+you can find a [map of Midgaard here](Midgaard_Map.md "wikilink").
 
 <!-- -->
 

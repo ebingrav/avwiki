@@ -21,20 +21,20 @@ within the zoo past the glacial aquarium.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d, 2n, 3e, 5n,
-3e. (note: crosses [water terrain](Water_Terrain "wikilink"))
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d, 2n, 3e,
+5n, 3e. (note: crosses [water terrain](Water_Terrain.md "wikilink"))
 
-[Portaling](Portal "wikilink") point(s) suggested: [Antharian
-Zookeeper](Antharian_Zookeeper "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Antharian
+Zookeeper](Antharian_Zookeeper.md "wikilink").
 
 ## Connections
 
--   [Antharia](:Category:Antharia "wikilink")
-    ([map](Antharia_Map "wikilink"))
+-   [Antharia](:Category:Antharia.md "wikilink")
+    ([map](Antharia_Map.md "wikilink"))
 
 ## Navigation
 
-To enter the area, you have to buy a [zoo pass](Zoo_Pass "wikilink")
+To enter the area, you have to buy a [zoo pass](Zoo_Pass.md "wikilink")
 from the zookeeper and unlock e.
 
 ## Adventuring

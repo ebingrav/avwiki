@@ -5,15 +5,15 @@ me ol' mule here, she's good company, if ye not be minding a bit now and
 then, can find durrite veins, sniffs 'em out fur real."*
 
 **Keywords:** Elmore.  
-**[Level](Level "wikilink"):** 22.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 22.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
 
 `Elmore is using:`  
-<worn on arms>`      `[`a`` ``braying`` ``mule`` ``tattoo`](Braying_Mule_Tattoo "wikilink")
+<worn on arms>`      `[`a`` ``braying`` ``mule`` ``tattoo`](Braying_Mule_Tattoo.md "wikilink")
 
 `Elmore is carrying:`  
 `     Nothing.`
@@ -22,9 +22,10 @@ then, can find durrite veins, sniffs 'em out fur real."*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-Elmore [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+Elmore [wanders](Wandering_Mobs.md "wikilink").  
 Elmore is sometimes not portable.  
 Teleport to Bomli and track Elmore if tele doesn't work.  
 

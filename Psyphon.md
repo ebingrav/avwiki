@@ -1,15 +1,15 @@
-*This [spell](:Category:_Spells "wikilink") does minimal physical
+*This [spell](:Category:_Spells.md "wikilink") does minimal physical
 damage, but against enemies with spellcasting abilities (and not merely
-[natural abilities](:Category:_Racials "wikilink") similar to
-[spells](:Category:_Spells "wikilink"), such as
-[dragon](Dragons "wikilink") [breath](Racial_Breath "wikilink")) it will
-also drain [mana](Mana_Points "wikilink") and transfer it to the
-caster.*
+[natural abilities](:Category:_Racials.md "wikilink") similar to
+[spells](:Category:_Spells.md "wikilink"), such as
+[dragon](Dragons.md "wikilink") [breath](Racial_Breath.md "wikilink"))
+it will also drain [mana](Mana_Points.md "wikilink") and transfer it to
+the caster.*
 
-Prerequisite(s): [Psychic Drain](Psychic_Drain "wikilink").
+Prerequisite(s): [Psychic Drain](Psychic_Drain.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'psyphon'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'psyphon'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 Since this spell has no mana cost there's no reason not to quicken it.
 

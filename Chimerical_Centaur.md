@@ -5,16 +5,16 @@ very powerful.'
 **(White Aura) A Chimerical Centaur trots along.**
 
 **Keywords:** chimerical, centaur.  
-**[Level](Level "wikilink"):** 150-160.  
-**[Alignment](Alignment "wikilink"):** neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink"), [
-aggressive](Aggressive "wikilink"),
-[psion](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 150-160.  
+**[Alignment](Alignment.md "wikilink"):** neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink"), [
+aggressive](Aggressive.md "wikilink"),
+[psion](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 

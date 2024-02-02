@@ -1,13 +1,13 @@
 *The basic protective qualities of a piece of
-[armor](:Category:_Armor "wikilink") are revealed to the person who has
-[practiced](Practice "wikilink") this
-[skill](:Category:_Skills_And_Spells "wikilink"). Multiple
-[examinations](Examine "wikilink") may be necessary to ensure that all
-relevant characteristics are revealed.*
+[armor](:Category:_Armor.md "wikilink") are revealed to the person who
+has [practiced](Practice.md "wikilink") this
+[skill](:Category:_Skills_And_Spells.md "wikilink"). Multiple
+[examinations](Examine.md "wikilink") may be necessary to ensure that
+all relevant characteristics are revealed.*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
-Syntax: [examine](Examine "wikilink") <armor>.
+Syntax: [examine](Examine.md "wikilink") <armor>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

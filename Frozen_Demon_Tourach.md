@@ -6,17 +6,17 @@ power.*
 **Keywords:** tourach, demon, frozen  
 **Scan Description:** (Demonic) The great demon Tourach appears to be
 frozen here.  
-**[Level](Level "wikilink"):** 85  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink")  
+**[Level](Level.md "wikilink"):** 85  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink")  
 
 ## Gear
 
 `The Frozen Demon Tourach is using:`  
-<wielded>`           `[`tourach's`` ``Sword`](tourach's_Sword "wikilink")
+<wielded>`           `[`tourach's`` ``Sword`](tourach's_Sword.md "wikilink")
 
 `The Frozen Demon Tourach is carrying:`  
 `     Nothing.`
@@ -28,8 +28,8 @@ weapon. He isnt sanced.
 
 ## Directions
 
-Area: [Frozen Wastes](:Category:_Frozen_Wastes "wikilink")
-([Map](Frozen_Wastes_Map "wikilink"))  
+Area: [Frozen Wastes](:Category:_Frozen_Wastes.md "wikilink")
+([Map](Frozen_Wastes_Map.md "wikilink"))  
 pp [snowbird](snowbird "wikilink") or [breen](breen "wikilink"), make
 your way to the heart of the glacier, tourach resides in a down exit to
 the southeast. He's a high level unsanced aggie stabber.

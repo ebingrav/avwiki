@@ -8,22 +8,22 @@ the bolt, so that snared prey can easily be hauled onto the boat.*
 `Modifies hit roll by 19 continuous`
 
 **Keyword(s):** crossbow sea hunters seahunters  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):** [Heavy
-Crossbow](:Category:Heavy_Crossbows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[Evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [Heavy
+Crossbow](:Category:Heavy_Crossbows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[Evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Grim Looking
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Grim Looking
 Whaler](Grim_Looking_Whaler "wikilink").  
 See [Grim Looking Whaler](Grim_Looking_Whaler "wikilink") for more
 information.

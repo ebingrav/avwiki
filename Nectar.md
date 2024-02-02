@@ -55,7 +55,8 @@ Double Heal
 </td>
 <td>
 
-[Padmasa](:Category:_Padmasa "wikilink") ([Map](Padmasa_Map "wikilink"))
+[Padmasa](:Category:_Padmasa.md "wikilink")
+([Map](Padmasa_Map.md "wikilink"))
 
 </td>
 </tr>
@@ -74,7 +75,7 @@ Double Heal
 </table>
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink")
 
 [Category: Gear In Padmasa](Category:_Gear_In_Padmasa "wikilink")
 [Category: Potions](Category:_Potions "wikilink") [Category: Hero

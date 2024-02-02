@@ -3,9 +3,9 @@ for some excitement to bring meaning to his existence.*
 
 **Keywords:** Wandering Peasant.  
 **Scan Description:** A peasant wanders down the street.  
-**[Level](Level "wikilink"):** 52.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 52.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:**.  
 
 ## Gear
@@ -22,10 +22,10 @@ An easy mob for mediocre experience gains. Yields 25-35xp a piece.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink")**: [Sir Michael's
-Stronghold](:Category:_Sir_Michael's_Stronghold "wikilink")
-([Map](Sir_Michael's_Stronghold_Map "wikilink")).  
-A wandering peasant [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink")**: [Sir Michael's
+Stronghold](:Category:_Sir_Michael's_Stronghold.md "wikilink")
+([Map](Sir_Michael's_Stronghold_Map.md "wikilink")).  
+A wandering peasant [wanders](Wandering_Mobs.md "wikilink").  
 A wandering peasant is portable.  
 
 [Category: Mobs In Sir Michael's

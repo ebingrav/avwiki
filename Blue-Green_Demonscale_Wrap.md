@@ -6,14 +6,14 @@
 Type: Armor  
 Slot: on body  
 Flags: dark nolocate  
-Plane: [Tarterus](:Category:_Tarterus "wikilink")  
-Area: [Tarterus Proper](:Category:_Tarterus_Proper "wikilink")  
+Plane: [Tarterus](:Category:_Tarterus.md "wikilink")  
+Area: [Tarterus Proper](:Category:_Tarterus_Proper.md "wikilink")  
 Mob: [Demogorgon](Demogorgon "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Tarterus
-Proper](:Category:_Gear_In_Tarterus_Proper "wikilink") to see how to
+Proper](:Category:_Gear_In_Tarterus_Proper.md "wikilink") to see how to
 obtain this gear.
 
 [Category:Lord KDR Gear](Category:Lord_KDR_Gear "wikilink")

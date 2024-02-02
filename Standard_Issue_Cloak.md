@@ -1,25 +1,26 @@
 *You see a standard issue cloak here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 9.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 9.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`
 
 **Keyword(s):** standard issue cloak.  
-**[Level(s)](Object_Level "wikilink"):** 35.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 35.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Guard](Guard "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Guard](Guard "wikilink").  
 See [Guard](Guard "wikilink") for more information.  
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")

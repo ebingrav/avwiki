@@ -2,10 +2,10 @@
 many pockets, stuffed with tools and bits of fletching.*
 
 **Keywords:** bow-maker, half-elven, man.  
-**[Level](Level "wikilink"):** 24.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 24.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -14,25 +14,25 @@ many pockets, stuffed with tools and bits of fletching.*
 `Nothing.`
 
 `The bow-maker is carrying:                                                           [Lv Price]`  
-`     `[`20`` ``barbed`` ``bolts`](Barbed_Bolts "wikilink")`                                                                 [26   150]`  
-`     `[`20`` ``barbed`` ``arrows`](Barbed_Arrows "wikilink")`                                                                [26   150]`  
-`     `[`25`` ``steel`` ``arrows`](Steel_Arrows "wikilink")`                                                                 [16   375]`  
-`     `[`25`` ``steel`` ``bolts`](Steel_Bolts "wikilink")`                                                                  [16   375]`  
+`     `[`20`` ``barbed`` ``bolts`](Barbed_Bolts.md "wikilink")`                                                                 [26   150]`  
+`     `[`20`` ``barbed`` ``arrows`](Barbed_Arrows.md "wikilink")`                                                                [26   150]`  
+`     `[`25`` ``steel`` ``arrows`](Steel_Arrows.md "wikilink")`                                                                 [16   375]`  
+`     `[`25`` ``steel`` ``bolts`](Steel_Bolts.md "wikilink")`                                                                  [16   375]`  
 `     a short bow                                                                     [24   450]`  
 `     a light crossbow                                                                [24   808]`  
-`     `[`75`` ``standard`` ``bolts`](Standard_Bolts "wikilink")`                                                               [ 4   112]`  
-`     `[`75`` ``standard`` ``arrows`](Standard_Bolts "wikilink")`                                                              [ 4   112]`  
-`     `[`fletching`` ``tools`` ``and`` ``materials`](Fletching_Tools_And_Materials "wikilink")`                                                   [24   577]`
+`     `[`75`` ``standard`` ``bolts`](Standard_Bolts.md "wikilink")`                                                               [ 4   112]`  
+`     `[`75`` ``standard`` ``arrows`](Standard_Bolts.md "wikilink")`                                                              [ 4   112]`  
+`     `[`fletching`` ``tools`` ``and`` ``materials`](Fletching_Tools_And_Materials.md "wikilink")`                                                   [24   577]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Fletchery (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 5s, w.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Fletchery (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5s, w.  
 The bow-maker is portable.  
 
 [Category: Mobs In Midgaard](Category:_Mobs_In_Midgaard "wikilink")

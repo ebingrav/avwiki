@@ -4,19 +4,20 @@ stone bowl resting upon the pedestal before it, almost daring you to
 drink.*
 
 **Keywords:** statue.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[psion](Spellcasting_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[psion](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `The Statue of a God is using:`  
-<worn about body>`   (Glowing) `[`a`` ``garland`` ``of`` ``stone`](Garland_Of_Stone "wikilink")
+<worn about body>`   (Glowing) `[`a`` ``garland`` ``of`` ``stone`](Garland_Of_Stone.md "wikilink")
 
 `The Statue of a God is carrying:`  
 `     Nothing.`
@@ -25,12 +26,12 @@ invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Catacombs of
-Solace](:Category:_Catacombs_Of_Solace "wikilink")
-([Map](Catacombs_Of_Solace_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** An Ancient Altar
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Otik Sandath](Otik_Sandath "wikilink"): \[d\],
+**[Area](:Category:_Areas.md "wikilink"):** [Catacombs of
+Solace](:Category:_Catacombs_Of_Solace.md "wikilink")
+([Map](Catacombs_Of_Solace_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** An Ancient Altar
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Otik Sandath](Otik_Sandath.md "wikilink"): \[d\],
 \[d\], 5w.
 
 [Category: Mobs In Catacombs Of

@@ -35,7 +35,7 @@ about his weapon. See [Old Double-Curved
 Sword](Old_Double-Curved_Sword "wikilink") for more information.
 
 Update: we've spotted Yorimandil wandering the [Obsidian Arena
-Floor](:Category:Obsidian_Arena;_Floor "wikilink"). This version of
+Floor](:Category:Obsidian_Arena;_Floor.md "wikilink"). This version of
 Yorimandil was wearing a "Champion's Sash" (or something like that) on
 his arms. This item had an inventory flag, so we couldn't loot it after
 killing him.
@@ -46,14 +46,14 @@ around his head.
 
 ## Directions
 
-**[Area](:Category:_Lord_Areas "wikilink"):** [Under The
-Stars](:Category:Under_The_Stars "wikilink")  
+**[Area](:Category:_Lord_Areas.md "wikilink"):** [Under The
+Stars](:Category:Under_The_Stars.md "wikilink")  
 **Room**: Silken Gazebo (part of the iron walkways portion of the area)
 
 or
 
-**[Area](:Category:_Lord_Areas "wikilink"):** [Obsidian Arena;
-Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+**[Area](:Category:_Lord_Areas.md "wikilink"):** [Obsidian Arena;
+Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 **Room**: wanders?
 
 [Category: Mobs In Under The

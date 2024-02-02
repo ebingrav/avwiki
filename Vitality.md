@@ -1,5 +1,6 @@
-*This Rite prevents the loss of [constitution](Constitution "wikilink")
-due to [death](Death "wikilink").*
+*This Rite prevents the loss of
+[constitution](Constitution.md "wikilink") due to
+[death](Death.md "wikilink").*
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Berserker

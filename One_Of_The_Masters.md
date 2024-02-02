@@ -5,17 +5,17 @@ attempt to ascend has drained him, but he is still a formidable opponent
 for the unprepared.*
 
 **Keywords:** hobgoblin, master.  
-**[Level](Level "wikilink"):** 16.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 16.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `One of the masters is using:`  
-<worn around neck>`  (Glowing) `[`a`` ``scarlet`` ``bloodstone`` ``necklace`](Bloodstone_Scarlet_Necklace "wikilink")
+<worn around neck>`  (Glowing) `[`a`` ``scarlet`` ``bloodstone`` ``necklace`](Bloodstone_Scarlet_Necklace.md "wikilink")
 
 ## Comments
 
@@ -27,14 +27,14 @@ Master](Hobgoblin_Master "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ascension
-Woods](:Category:_Ascension_Woods "wikilink")
-([Map](Ascension_Woods_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Inside the ceremonial room
-(portalable).  
-Walking route from [Nom](Nom "wikilink"): n, 8w, s, 3e, 4s, e, 3s, e, s,
-4e, 3s, 4e, 2d, \[n\], n.  
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 4s, e, 3s, e, s,
+**[Area](:Category:_Areas.md "wikilink"):** [Ascension
+Woods](:Category:_Ascension_Woods.md "wikilink")
+([Map](Ascension_Woods_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Inside the ceremonial
+room (portalable).  
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, s, 3e, 4s, e, 3s, e,
+s, 4e, 3s, 4e, 2d, \[n\], n.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 4s, e, 3s, e, s,
 4e, 3s, 4e, 2d, \[n\], n.  
 
 [Category: Mobs In Ascension

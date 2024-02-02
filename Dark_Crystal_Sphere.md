@@ -3,19 +3,19 @@ smooth and hard, almost looking like the glass eyes some people would
 wear if they lost their own.*
 
 **Keyword(s):** dark crystal eye sphere  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](Nolocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](Nolocate_Flag.md "wikilink").  
 .  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used for getting a
+This [ticket](:Category:_Tickets.md "wikilink") is used for getting a
 bright blue crystal disk.
 
 `You give a dark crystal sphere to A shade.`  
@@ -34,8 +34,8 @@ bright blue crystal disk.
 
 ## Directions
 
-[Portaling](Portal "wikilink") point(s) suggested: [NaamSa
-Scribe](Scribe "wikilink").  
+[Portaling](Portal.md "wikilink") point(s) suggested: [NaamSa
+Scribe](Scribe.md "wikilink").  
 
 [Category: Tickets](Category:_Tickets "wikilink") [Category: Gear In
 Isle Of

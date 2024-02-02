@@ -1,22 +1,23 @@
-*Long after the obliteration of the high [drow](Drow "wikilink"), the
-world of the surface [drow](Drow "wikilink") stood on the brink of a
+*Long after the obliteration of the high [drow](Drow.md "wikilink"), the
+world of the surface [drow](Drow.md "wikilink") stood on the brink of a
 similar fate. By sheer fortune or divine grace (none can say for
-certain), the [drow](Drow "wikilink") stumbled onto an underground
+certain), the [drow](Drow.md "wikilink") stumbled onto an underground
 fortress built by their ancestors. Although it meant forsaking the
-surface, long their beloved home, the [drow](Drow "wikilink") took
+surface, long their beloved home, the [drow](Drow.md "wikilink") took
 shelter deep within the earth. Time passed, and an earthquake shook the
 land, devastating the finally rebuilt fortress. All but a few died.
-Among the survivors were [a king](Drow_King_E'Kim "wikilink"), [a
-princess](I'Sal's_Spirit "wikilink"), and some prisoners. In order to
+Among the survivors were [a king](Drow_King_E'Kim.md "wikilink"), [a
+princess](I'Sal's_Spirit.md "wikilink"), and some prisoners. In order to
 prevent such a catastrophe from occurring again, the court of [King
-E'Kim](Drow_King_E'Kim "wikilink") was frozen by Ellstraee's
+E'Kim](Drow_King_E'Kim.md "wikilink") was frozen by Ellstraee's
 intervention. Sealed in time to protect its inhabitants, the Frozen
-Court of [E'Kim](Drow_King_E'Kim "wikilink") is guarded by
-[drow](Drow "wikilink") soldiers, the only living, breathing creatures
-to still roam its desecrated halls... at least, so it is said... Rumors
-tell of a beautiful [drow maiden](I'Sal's_Spirit "wikilink") and [her
-human lover](Kaz-Cyton's_Spirit "wikilink"), one, a princess, the other,
-a prisoner, but both equally trapped. What secrets lie within this
+Court of [E'Kim](Drow_King_E'Kim.md "wikilink") is guarded by
+[drow](Drow.md "wikilink") soldiers, the only living, breathing
+creatures to still roam its desecrated halls... at least, so it is
+said... Rumors tell of a beautiful [drow
+maiden](I'Sal's_Spirit.md "wikilink") and [her human
+lover](Kaz-Cyton's_Spirit.md "wikilink"), one, a princess, the other, a
+prisoner, but both equally trapped. What secrets lie within this
 subterranean outpost? The answer, yet untouched by the outside world,
 remains buried, along with so many others, beneath the dust of ages.*
 
@@ -26,11 +27,11 @@ remains buried, along with so many others, beneath the dust of ages.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, d, e, 2d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, 2s, 2e, u, 4n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, d, e, 2d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, 2s, 2e, u, 4n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Ellstraee](Drow_Priestess_Of_Ellstraee "wikilink"), [Human
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Ellstraee](Drow_Priestess_Of_Ellstraee.md "wikilink"), [Human
 Explorer](Human_Explorer "wikilink").
 
 ## Connections

@@ -1,19 +1,20 @@
-*The [gods](:Category:_Gods_And_Goddesses "wikilink") are fickle
+*The [gods](:Category:_Gods_And_Goddesses.md "wikilink") are fickle
 creatures and if you desire to get closer to them with a higher level of
-devotion, this is the next step after [worshipping](Worship "wikilink").
-As a result of becoming devoted, your enhanced
-[statistic](:Category:_Statistics "wikilink") bonuses will be modified
-in conjunction with your
-[god](:Category:_Gods_And_Goddesses "wikilink")'s biases. Please note,
-you will not be able to [train](Train "wikilink") more/less with this
-change. It simply affects how high or low you can go in regards to
-magical enhancements such as [spells](:Category:_Spells "wikilink") and
-magical [item](:Category:_Objects "wikilink")
-[bonuses](Object_Affects "wikilink"). This can be removed with the
-[unworship](Unworship "wikilink")
-[command](:Category:_Commands "wikilink") at the same time you decide to
-[stop worshipping](Unworship "wikilink") your
-[god](:Category:_Gods_And_Goddesses "wikilink").*
+devotion, this is the next step after
+[worshipping](Worship.md "wikilink"). As a result of becoming devoted,
+your enhanced [statistic](:Category:_Statistics.md "wikilink") bonuses
+will be modified in conjunction with your
+[god](:Category:_Gods_And_Goddesses.md "wikilink")'s biases. Please
+note, you will not be able to [train](Train.md "wikilink") more/less
+with this change. It simply affects how high or low you can go in
+regards to magical enhancements such as
+[spells](:Category:_Spells.md "wikilink") and magical
+[item](:Category:_Objects.md "wikilink")
+[bonuses](Object_Affects.md "wikilink"). This can be removed with the
+[unworship](Unworship.md "wikilink")
+[command](:Category:_Commands.md "wikilink") at the same time you decide
+to [stop worshipping](Unworship.md "wikilink") your
+[god](:Category:_Gods_And_Goddesses.md "wikilink").*
 
 <table>
 <tbody>
@@ -23,22 +24,23 @@ magical [item](:Category:_Objects "wikilink")
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p><a
-href=":Category:_Gods_And_Goddesses" title="wikilink">God</a></p></th>
-<th style="text-align: center;"><p><a href="Strength"
+href=":Category:_Gods_And_Goddesses.md"
+title="wikilink">God</a></p></th>
+<th style="text-align: center;"><p><a href="Strength_.md"
 title="wikilink">Str</a></p></th>
-<th style="text-align: center;"><p><a href="Intelligence"
+<th style="text-align: center;"><p><a href="Intelligence.md"
 title="wikilink">Int</a></p></th>
-<th style="text-align: center;"><p><a href="Wisdom"
+<th style="text-align: center;"><p><a href="Wisdom_.md"
 title="wikilink">Wis</a></p></th>
-<th style="text-align: center;"><p><a href="Dexterity"
+<th style="text-align: center;"><p><a href="Dexterity_.md"
 title="wikilink">Dex</a></p></th>
-<th style="text-align: center;"><p><a href="Constitution"
+<th style="text-align: center;"><p><a href="Constitution.md"
 title="wikilink">Con</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="Annakinesia"
+<td style="text-align: center;"><p><a href="Annakinesia_.md"
 title="wikilink">Ann</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 <td style="text-align: center;"><p>0</p></td>
@@ -47,7 +49,7 @@ title="wikilink">Ann</a></p></td>
 <td style="text-align: center;"><p>0</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="Bhyss"
+<td style="text-align: center;"><p><a href="Bhyss_.md"
 title="wikilink">Bhy</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 <td style="text-align: center;"><p>+1</p></td>
@@ -56,7 +58,7 @@ title="wikilink">Bhy</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="Durr"
+<td style="text-align: center;"><p><a href="Durr_.md"
 title="wikilink">Dur</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 <td style="text-align: center;"><p>+1</p></td>
@@ -65,7 +67,7 @@ title="wikilink">Dur</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="Gorn"
+<td style="text-align: center;"><p><a href="Gorn_.md"
 title="wikilink">Grn</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 <td style="text-align: center;"><p>+1</p></td>
@@ -74,7 +76,7 @@ title="wikilink">Grn</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="Kra"
+<td style="text-align: center;"><p><a href="Kra_.md"
 title="wikilink">Kra</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 <td style="text-align: center;"><p>0</p></td>
@@ -83,7 +85,7 @@ title="wikilink">Kra</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="Quixoltan"
+<td style="text-align: center;"><p><a href="Quixoltan.md"
 title="wikilink">Qxl</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 <td style="text-align: center;"><p>+1</p></td>
@@ -92,7 +94,7 @@ title="wikilink">Qxl</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="Roixa"
+<td style="text-align: center;"><p><a href="Roixa_.md"
 title="wikilink">Rxa</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 <td style="text-align: center;"><p>-1</p></td>
@@ -101,7 +103,7 @@ title="wikilink">Rxa</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="Shizaga"
+<td style="text-align: center;"><p><a href="Shizaga_.md"
 title="wikilink">Shz</a></p></td>
 <td style="text-align: center;"><p>0</p></td>
 <td style="text-align: center;"><p>0</p></td>
@@ -110,7 +112,7 @@ title="wikilink">Shz</a></p></td>
 <td style="text-align: center;"><p>0</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="Tor"
+<td style="text-align: center;"><p><a href="Tor_.md"
 title="wikilink">Tor</a></p></td>
 <td style="text-align: center;"><p>+2</p></td>
 <td style="text-align: center;"><p>-1</p></td>
@@ -119,7 +121,7 @@ title="wikilink">Tor</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="Tul-Sith"
+<td style="text-align: center;"><p><a href="Tul-Sith_.md"
 title="wikilink">Tul</a></p></td>
 <td style="text-align: center;"><p>-1</p></td>
 <td style="text-align: center;"><p>0</p></td>
@@ -128,7 +130,7 @@ title="wikilink">Tul</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="Werredan"
+<td style="text-align: center;"><p><a href="Werredan_.md"
 title="wikilink">Wer</a></p></td>
 <td style="text-align: center;"><p>+1</p></td>
 <td style="text-align: center;"><p>-1</p></td>
@@ -146,7 +148,7 @@ Devotion only affects max stats and thus anything that is affected by
 those stats. Things like spell duration, spell AC bonus, and XP bonus
 are strictly tied to worship.
 
-See also [Worship](Worship "wikilink").
+See also [Worship](Worship.md "wikilink").
 
 [Category: Characters](Category:_Characters "wikilink") [Category:
 Commands](Category:_Commands "wikilink") [Category:

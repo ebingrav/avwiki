@@ -11,15 +11,15 @@ the Heartwood, let entish enemies beware.*
 **Description:** *Blending in with the trees, an ent keeps an eye on the
 path.*  
 **Alignment:** neutral  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Steadfast "wikilink") (?)  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Steadfast.md "wikilink") (?)  
 **Affects:** [Sneak](Sneak "wikilink"), [Hide](Hide "wikilink"), ?
 
 ## Gear
 
 `Tinderhand is using:`  
-<worn on body>`      `[`ironwood`` ``bark`` ``plate`](Ironwood_Bark_Plate "wikilink")  
-<wielded>`           `[`ironwood`` ``spear`](Ironwood_Spear "wikilink")  
+<worn on body>`      `[`ironwood`` ``bark`` ``plate`](Ironwood_Bark_Plate.md "wikilink")  
+<wielded>`           `[`ironwood`` ``spear`](Ironwood_Spear.md "wikilink")  
   
 `You peek at the inventory:`  
 `     Nothing.`
@@ -27,12 +27,12 @@ path.*
 ## Comments
 
 Tinderhand is a sentinel for the area and will attack certain type of
-players. See the [area page](:Category:Heartwood "wikilink") for more
+players. See the [area page](:Category:Heartwood.md "wikilink") for more
 details.
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):**   
+**[Area](:Category:Areas.md "wikilink"):**   
 **Room:** A path through the forest
 
 Walking route from [Shen](Shen "wikilink"): 2n, w, 2s, w, s, w, s.

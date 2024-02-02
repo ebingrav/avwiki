@@ -79,13 +79,13 @@ Corps.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Diplomatic
-Corps](:Category:_Diplomatic_Corps "wikilink")
-([Map](Diplomatic_Corps_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A mission from the forests and
-dales ([safe](Safe_Rooms "wikilink"),
-[cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 7w, \[s\], d, 2n,
+**[Area](:Category:_Areas.md "wikilink"):** [Diplomatic
+Corps](:Category:_Diplomatic_Corps.md "wikilink")
+([Map](Diplomatic_Corps_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A mission from the forests
+and dales ([safe](Safe_Rooms.md "wikilink"),
+[cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 7w, \[s\], d, 2n,
 *X*w, s
 
 ## Notes

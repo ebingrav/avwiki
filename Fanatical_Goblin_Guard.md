@@ -4,27 +4,27 @@ surroundings, and is determined not to let you go any further. There is
 a metal bottle from round his neck.*
 
 **Keywords:** fanatical, goblin, guard.  
-**[Level](Level "wikilink"):** 8.  
-**[Alignment](Alignment "wikilink"):** demonically.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 8.  
+**[Alignment](Alignment.md "wikilink"):** demonically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The fanatical goblin guard is using:`  
 <worn around neck>`  a small metal bottle`  
-<wielded>`           `[`a`` ``jagged`` ``dagger`](Jagged_Dagger_(Mushroom_Caves) "wikilink")
+<wielded>`           `[`a`` ``jagged`` ``dagger`](Jagged_Dagger_(Mushroom_Caves).md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A short dark tunnel
+**[Area](:Category:_Areas.md "wikilink"):** [The Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A short dark tunnel
 (portable).  
 Walking route from [Nom](Nom "wikilink"): s, 7e, u, 3e, 5n, w, n.  
 The fanatical goblin guard is portable.  

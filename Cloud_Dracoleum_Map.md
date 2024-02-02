@@ -1,11 +1,11 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="Avatar-map_Cloud-Dracoleum.png"
-title="Avatar-map_Cloud-Dracoleum.png" width="850"
-alt="Avatar-map_Cloud-Dracoleum.png" />
+<img src="Avatar-map_Cloud-Dracoleum.png.md"
+title="Avatar-map_Cloud-Dracoleum.png.md" width="850"
+alt="Avatar-map_Cloud-Dracoleum.png.md" />
 <figcaption
-aria-hidden="true">Avatar-map_Cloud-Dracoleum.png</figcaption>
+aria-hidden="true">Avatar-map_Cloud-Dracoleum.png.md</figcaption>
 </figure>
 
 ([Summoning Map](Summoning_Map "wikilink"))  

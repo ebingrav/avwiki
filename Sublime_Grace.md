@@ -1,16 +1,18 @@
-*The [Bladedancer](:Category:_Bladedancers "wikilink") fighting style
-requires two identical [weapons](:Category:_Melee_Weapons "wikilink").
-They must be the exact same item, not merely named the same or the same
-[weight](Object_Weight "wikilink"). If these conditions are met, the
-[Bladedancer](:Category:_Bladedancers "wikilink") with Sublime Grace can
-use their offhand [weapon](:Category:_Melee_Weapons "wikilink") just as
-effectively as their main one, in terms of the number of hit attempts
-they gain per round. Also, because the
-[Dancer](:Category:_Bladedancers "wikilink") isn't favoring either
-[weapon](:Category:_Melee_Weapons "wikilink"), they become harder to
-[disarm](Disarm "wikilink").*
+*The [Bladedancer](:Category:_Bladedancers.md "wikilink") fighting style
+requires two identical
+[weapons](:Category:_Melee_Weapons.md "wikilink"). They must be the
+exact same item, not merely named the same or the same
+[weight](Object_Weight.md "wikilink"). If these conditions are met, the
+[Bladedancer](:Category:_Bladedancers.md "wikilink") with Sublime Grace
+can use their offhand [weapon](:Category:_Melee_Weapons.md "wikilink")
+just as effectively as their main one, in terms of the number of hit
+attempts they gain per round. Also, because the
+[Dancer](:Category:_Bladedancers.md "wikilink") isn't favoring either
+[weapon](:Category:_Melee_Weapons.md "wikilink"), they become harder to
+[disarm](Disarm.md "wikilink").*
 
-Prerequisite(s): [Dual](Dual "wikilink"), [Poise](Poise "wikilink").
+Prerequisite(s): [Dual](Dual.md "wikilink"),
+[Poise](Poise.md "wikilink").
 
 Syntax: none (automatic).
 

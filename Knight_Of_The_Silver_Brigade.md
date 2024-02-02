@@ -3,37 +3,38 @@ This, and his obviously magical equipment make him a foe not to be
 underestimated.*
 
 **Keywords:** lizard, man, silver, knight.  
-**[Level](Level "wikilink"):** 32.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 32.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A Lizard Man Brigadier is using:`  
-<worn on body>`      `[`silvermail`` ``armor`](Silvermail_Armor "wikilink")  
-<worn on legs>`      `[`silvermail`` ``leggings`](Silvermail_Leggings "wikilink")  
-<worn on hands>`     `[`silvermail`` ``gauntlets`](Silvermail_Gauntlets "wikilink")  
-<held in offhand>`   `[`a`` ``black`` ``and`` ``silver`` ``shield`](Black_And_Silver_Shield "wikilink")  
-<worn about body>`   `[`a`` ``black`` ``and`` ``silver`` ``cloak`](Black_And_Silver_Cloak "wikilink")  
-<worn on wrist>`     `[`a`` ``black`` ``and`` ``silver`` ``bracer`](Black_And_Silver_Bracer "wikilink")  
-<wielded>`           `[`a`` ``silver-bladed`` ``pike`](Silver-Bladed_Pike "wikilink")
+<worn on body>`      `[`silvermail`` ``armor`](Silvermail_Armor.md "wikilink")  
+<worn on legs>`      `[`silvermail`` ``leggings`](Silvermail_Leggings.md "wikilink")  
+<worn on hands>`     `[`silvermail`` ``gauntlets`](Silvermail_Gauntlets.md "wikilink")  
+<held in offhand>`   `[`a`` ``black`` ``and`` ``silver`` ``shield`](Black_And_Silver_Shield.md "wikilink")  
+<worn about body>`   `[`a`` ``black`` ``and`` ``silver`` ``cloak`](Black_And_Silver_Cloak.md "wikilink")  
+<worn on wrist>`     `[`a`` ``black`` ``and`` ``silver`` ``bracer`](Black_And_Silver_Bracer.md "wikilink")  
+<wielded>`           `[`a`` ``silver-bladed`` ``pike`](Silver-Bladed_Pike.md "wikilink")
 
 `A Lizard Man Brigadier is carrying:`  
 `     Nothing.`
 
 ## Comments
 
-There are three of these. [Gear](:Category:_Gear "wikilink") varies from
-[mob](:Category:_Mobs "wikilink") to [mob](:Category:_Mobs "wikilink").
+There are three of these. [Gear](:Category:_Gear.md "wikilink") varies
+from [mob](:Category:_Mobs.md "wikilink") to
+[mob](:Category:_Mobs.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Crescent
-Bog](:Category:_Crescent_Bog "wikilink")
-([Map](Crescent_Bog_Map "wikilink")).  
-A Lizard Man Brigadier [wanders](Wandering_Mobs "wikilink") above the
+**[Area](:Category:_Areas.md "wikilink"):** [The Crescent
+Bog](:Category:_Crescent_Bog.md "wikilink")
+([Map](Crescent_Bog_Map.md "wikilink")).  
+A Lizard Man Brigadier [wanders](Wandering_Mobs.md "wikilink") above the
 bog.  
 A Lizard Man Brigadier is portable.  
 

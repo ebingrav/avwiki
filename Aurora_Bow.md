@@ -6,8 +6,8 @@ Type: long bow
 Weight: 1  
 Keywords: aurora bow flickering lights  
 Flags: glow magic  
-Plane: [Airscape](:Category:Airscape "wikilink")  
-Area: [Airscape Proper](:Category:Airscape_Proper "wikilink")  
+Plane: [Airscape](:Category:Airscape.md "wikilink")  
+Area: [Airscape Proper](:Category:Airscape_Proper.md "wikilink")  
 Mob: [Oriad The Windprincess](Oriad_The_Windprincess "wikilink")  
 
 [Category:Lord Bows](Category:Lord_Bows "wikilink") [Category:Gear In

@@ -1,28 +1,28 @@
-From [Jagdyth WillowLegs](Jagdyth_WillowLegs "wikilink"):
+From [Jagdyth WillowLegs](Jagdyth_WillowLegs.md "wikilink"):
 
--   Go 2w, [pull](Pull "wikilink") a large branch of an elm tree, 2s.
+-   Go 2w, [pull](Pull.md "wikilink") a large branch of an elm tree, 2s.
 
 <!-- -->
 
--   [Get](Get "wikilink") [a blue silk
-    kerchief](Blue_Silk_Kerchief "wikilink") from the corpse of
+-   [Get](Get.md "wikilink") [a blue silk
+    kerchief](Blue_Silk_Kerchief.md "wikilink") from the corpse of
     Bucephadyth SwiftFoot.
 
 <!-- -->
 
--   Go n, [pull](Pull "wikilink") a large branch of an elm tree, n.
+-   Go n, [pull](Pull.md "wikilink") a large branch of an elm tree, n.
 
 <!-- -->
 
--   [Track](Track "wikilink") [Jenony
-    WhiteMane](Jenony_WhiteMane "wikilink").
+-   [Track](Track.md "wikilink") [Jenony
+    WhiteMane](Jenony_WhiteMane.md "wikilink").
 
 <!-- -->
 
--   [Give](Give "wikilink") [a blue silk
-    kerchief](Blue_Silk_Kerchief "wikilink") to [Jenony
-    WhiteMane](Jenony_WhiteMane "wikilink") and receive [a good luck
-    charm](Good_Luck_Charm "wikilink").
+-   [Give](Give.md "wikilink") [a blue silk
+    kerchief](Blue_Silk_Kerchief.md "wikilink") to [Jenony
+    WhiteMane](Jenony_WhiteMane.md "wikilink") and receive [a good luck
+    charm](Good_Luck_Charm.md "wikilink").
 
 [Category: Quests In Centaur
 Camp](Category:_Quests_In_Centaur_Camp "wikilink") [Category: Lowmort

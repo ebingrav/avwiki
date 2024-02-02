@@ -24,7 +24,7 @@ more groups you'll be asked into.
 Just remember to enjoy your time at lowmort, and never be afraid to ask
 for help or advice! Good luck and good hunting!
 
-**[Levels](Level "wikilink"):** 1 - 50
+**[Levels](Level.md "wikilink"):** 1 - 50
 
 [Category: Miscellaneous](Category:_Miscellaneous "wikilink") [Category:
 Tiers](Category:_Tiers "wikilink")

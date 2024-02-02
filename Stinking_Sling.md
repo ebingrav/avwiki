@@ -6,23 +6,23 @@ it a perfect sling, in case you can cope with the stench.*
 `Modifies hit roll by 18 continuous.`
 
 **Keywords**: black leather stinking sling  
-**Type**: [sling](:Category:Slings "wikilink")  
-**Flags**: [dark](Dark_Flag "wikilink")
-[anti-good](Anti-Good_Flag "wikilink")
-[anti-neutral](Anti-Neutral_Flag "wikilink")  
+**Type**: [sling](:Category:Slings.md "wikilink")  
+**Flags**: [dark](Dark_Flag.md "wikilink")
+[anti-good](Anti-Good_Flag.md "wikilink")
+[anti-neutral](Anti-Neutral_Flag.md "wikilink")  
 **Weight**: 4  
 **Level Range**: 50 - 52  
 **Object Quality**: 50 hps  
 
 ## Comments
 
-Only usable by evil characters unless [faded](Fading "wikilink").
+Only usable by evil characters unless [faded](Fading.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink"))  
 Notes: To get this sling, you have to find and kill the seething core of
 tentacles, then skin it. It's on the west side of the forest, down at
 the bottom of the hole. Mob is level 74 and sanced, and has 3 pals.

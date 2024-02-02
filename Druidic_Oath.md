@@ -1,15 +1,15 @@
-*[Druids](:Category:_Druids "wikilink") undertake an Oath to live by the
-[bow](:Category:_Missile_Weapons "wikilink"). As a consequence of this,
-their [spells](:Category:_Spells "wikilink") become cheaper if
-[cast](Cast "wikilink") while [wielding](Wield "wikilink") a
-[bow](:Category:_Missile_Weapons "wikilink"), but five times as
-expensive if they [wield](Wield "wikilink") any other type of
-[weapon](:Category:_Weapons "wikilink") or wear a shield. The Oath also
-enables a [Druid](:Category:_Druid "wikilink") to assemble natural
-fletch kits using the [forage](Forage "wikilink")
-[command](:Category:_Commands "wikilink") in a wilderness setting, and
-unlocks the secrets of [mystic
-arrows](:Category:_Mystic_Warheads "wikilink").*
+*[Druids](:Category:_Druids.md "wikilink") undertake an Oath to live by
+the [bow](:Category:_Missile_Weapons.md "wikilink"). As a consequence of
+this, their [spells](:Category:_Spells.md "wikilink") become cheaper if
+[cast](Cast.md "wikilink") while [wielding](Wield.md "wikilink") a
+[bow](:Category:_Missile_Weapons.md "wikilink"), but five times as
+expensive if they [wield](Wield.md "wikilink") any other type of
+[weapon](:Category:_Weapons.md "wikilink") or wear a shield. The Oath
+also enables a [Druid](:Category:_Druid.md "wikilink") to assemble
+natural fletch kits using the [forage](Forage.md "wikilink")
+[command](:Category:_Commands.md "wikilink") in a wilderness setting,
+and unlocks the secrets of [mystic
+arrows](:Category:_Mystic_Warheads.md "wikilink").*
 
 Prerequisite(s): none.
 

@@ -4,34 +4,34 @@ and yellow wood stained with the blood. You are unsure of how this
 beautiful mask is to stay, but with the strangeness of everything else,
 you know it will stay on.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-6.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by -1 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 2 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-6.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by -1 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** feathers, feathered, raven, mask.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [glow](Glow_Flag "wikilink"),
-[invis](Invis_Flag "wikilink"), [nodrop](NoDrop_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"), [glow](Glow_Flag.md "wikilink"),
+[invis](Invis_Flag.md "wikilink"), [nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moss
-Village](:Category:_Moss_Village "wikilink")
-([Map](Moss_Village_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Sssanth's Hidden Hut
+**[Area](:Category:_Areas.md "wikilink"):** [Moss
+Village](:Category:_Moss_Village.md "wikilink")
+([Map](Moss_Village_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Sssanth's Hidden Hut
 (portable) in a chest in the shape of raven.  
-[Portaling](Portal "wikilink") point(s) suggested:
-[Sssanth](Sssanth "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Sssanth](Sssanth.md "wikilink").
 
 [Category: Gear In Moss
 Village](Category:_Gear_In_Moss_Village "wikilink") [Category:

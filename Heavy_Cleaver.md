@@ -1,17 +1,17 @@
 *A heavy, bloodstained cleaver lies on the ground here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 8-10 to 23-24 (average 15-17).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 8-10 to 23-24 (average 15-17).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** cleaver, bloodstained.  
 **[Object Level](Object_Level "wikilink"):** 17.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -19,10 +19,10 @@ Object Value: 160 gold
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Undead
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Undead
 Goblin](Undead_Goblin "wikilink") (portable, wanders)
 
 **Note:** Three versions of Undead Goblin wander The Walking Woods. The

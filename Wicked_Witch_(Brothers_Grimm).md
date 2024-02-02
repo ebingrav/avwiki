@@ -2,17 +2,17 @@
 smelling, ugly crones, this witch is for you.*
 
 **Keywords:** witch.  
-**[Level](Level "wikilink"):** 16.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](Thieving_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 16.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](Thieving_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `A wicked witch is using:`  
-<held>`              `[`frilly`` ``underwear`](Frilly_Underwear "wikilink")
+<held>`              `[`frilly`` ``underwear`](Frilly_Underwear.md "wikilink")
 
 ## Comments
 
@@ -24,14 +24,14 @@ area. She does not load with the underwear.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Brothers
-Grimm](:Category:_Brothers_Grimm "wikilink")
-([Map](Brothers_Grimm_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Throne Room (portable).  
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 4s, 2e, \[e\],
+**[Area](:Category:_Areas.md "wikilink"):** [Brothers
+Grimm](:Category:_Brothers_Grimm.md "wikilink")
+([Map](Brothers_Grimm_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Throne Room (portable).  
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 4s, 2e, \[e\],
 \[s\], e, 2n, u.  
-Walking route from [Brother Grimm](Brother_Grimm "wikilink"): \[s\], e,
-2n, u.  
+Walking route from [Brother Grimm](Brother_Grimm.md "wikilink"): \[s\],
+e, 2n, u.  
 A wicked witch is portable, but the lack of keywords may make it
 difficult. Use [Brother Grimm](Brother_Grimm "wikilink") and walk,
 instead.  

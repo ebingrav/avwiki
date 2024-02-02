@@ -7,8 +7,8 @@
 `eyes. Visions of a multitude of possibilities seem to flow from`  
 `the symbols engraved on the blade.`
 
-**[Commune Bonus](Commune "wikilink"):** 2 bonuses from a set of bonuses
-(may be duplicated):
+**[Commune Bonus](Commune.md "wikilink"):** 2 bonuses from a set of
+bonuses (may be duplicated):
 
 -   +10% experience gain
 -   +10% hp regen, +10% mana regen
@@ -25,7 +25,7 @@
 
 Note: This is likely an incomplete set of bonuses.
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Chaos](Aspect_-_Chaos "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Chaos](Aspect_-_Chaos.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

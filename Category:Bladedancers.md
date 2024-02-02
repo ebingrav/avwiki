@@ -1,20 +1,20 @@
-*Long ago, in the time of the Great [Fae](Fae "wikilink"), there lived a
-[warrior](:Category:_Warriors "wikilink") of sublime grace and cunning,
-known as Tessrah Bladedancer. She developed a unique fighting style
-which she taught to some of her fellow [Fae](Fae "wikilink"), and which
-was passed down among the [High Elves](High_Elves "wikilink") after her
-death. Most [High Elf](High_Elves "wikilink") Bladedancers were killed
-in the Second Great War, and the [Fae](Fae "wikilink") who remember the
-art do not teach it to Midgaardians. Legend describes it as a
-semi-magical fighting style concentrating on misdirection and surprise.
-Like all [Prestige Classes](:Category:_Prestige_Classes "wikilink"),
-they retain the original class's [Prime
-Requisite](Prime_Requisite "wikilink"), in this case,
-[Dexterity](Dexterity "wikilink"). As the Bladedance is a highly
-passionate fighting style, Bladedancers can become
-[Berserkers](:Category:_Berserkers "wikilink") earlier than
-[Rogues](:Category:_Rogues "wikilink"). However, they cannot become
-[Assassins](:Category:_Assassins "wikilink").*
+*Long ago, in the time of the Great [Fae](Fae.md "wikilink"), there
+lived a [warrior](:Category:_Warriors.md "wikilink") of sublime grace
+and cunning, known as Tessrah Bladedancer. She developed a unique
+fighting style which she taught to some of her fellow
+[Fae](Fae.md "wikilink"), and which was passed down among the [High
+Elves](High_Elves.md "wikilink") after her death. Most [High
+Elf](High_Elves.md "wikilink") Bladedancers were killed in the Second
+Great War, and the [Fae](Fae.md "wikilink") who remember the art do not
+teach it to Midgaardians. Legend describes it as a semi-magical fighting
+style concentrating on misdirection and surprise. Like all [Prestige
+Classes](:Category:_Prestige_Classes.md "wikilink"), they retain the
+original class's [Prime Requisite](Prime_Requisite.md "wikilink"), in
+this case, [Dexterity](Dexterity.md "wikilink"). As the Bladedance is a
+highly passionate fighting style, Bladedancers can become
+[Berserkers](:Category:_Berserkers.md "wikilink") earlier than
+[Rogues](:Category:_Rogues.md "wikilink"). However, they cannot become
+[Assassins](:Category:_Assassins.md "wikilink").*
 
 *Requirements:  
 *\* level 50 Rogue  
@@ -26,11 +26,11 @@ passionate fighting style, Bladedancers can become
 
 **Abbreviation:** Bld.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Rogue](:Category:_Rogues "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Rogue](:Category:_Rogues.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Dexterity](Dexterity "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Dexterity](Dexterity.md "wikilink").
 
 ## Bladedancers in General
 
@@ -39,20 +39,20 @@ in-class spells of their own, but with plenty of mana for secondary
 support or utility spells. They can take the role of tank or hitter with
 equal ease, drifting between the two as they need, more than competent
 in both positions, though not the best at either. Most similar in
-game-play to [Rogues](:Category:Rogues "wikilink"), they are a versatile
-class with plenty of different options and a solid set of things to do
-in any group. With their [Stances](Stance "wikilink"), and high number
-of hits, Bladedancers can also resemble armed monks to some degree -
-[Dexterity](Dexterity "wikilink") being a prime stat and mana being
-acquired easily but with little or no focus on it (aside from
+game-play to [Rogues](:Category:Rogues.md "wikilink"), they are a
+versatile class with plenty of different options and a solid set of
+things to do in any group. With their [Stances](Stance "wikilink"), and
+high number of hits, Bladedancers can also resemble armed monks to some
+degree - [Dexterity](Dexterity "wikilink") being a prime stat and mana
+being acquired easily but with little or no focus on it (aside from
 [Bladetrance](Bladetrance "wikilink") at lord). In some ways,
 Bladedancers could be seen to take the place of the old [Martial
-Artists](:Category:Martial_Artists "wikilink"), but with more emphasis
-on combat and less on spell casting.
+Artists](:Category:Martial_Artists.md "wikilink"), but with more
+emphasis on combat and less on spell casting.
 
 ## Bladedancer Creation
 
-At level 50, [Rogues](:Category:Rogues "wikilink") who meet the
+At level 50, [Rogues](:Category:Rogues.md "wikilink") who meet the
 following requirements may become Bladedancers;
 
 -   Female - No male characters may become Bladedancers, nor neuter.
@@ -60,37 +60,37 @@ following requirements may become Bladedancers;
     point, ever. If you are not sure if you have died or not so far,
     type score to find out.
 -   No, or, very very low racial damage modifier. Current known races:
-    [Drw](Drow "wikilink"), [Elf](Elves "wikilink"),
-    [Gob](Goblins "wikilink"), [Gno](Gnomes "wikilink"),
-    [Dgn](Deep_Gnome "wikilink"), [Hel](Half-Elves "wikilink"),
-    [Har](Harpy "wikilink"), [HiE](High_Elves "wikilink"),
-    [Hum](Human "wikilink"), [Kzn](Kzinti "wikilink"),
-    [Liz](Lizardmen "wikilink"), [Mir](Miraar "wikilink"),
-    [Spr](Sprites "wikilink"), [Cen](Centaur "wikilink") and presumably
-    a number of other unconfirmed races.
+    [Drw](Drow.md "wikilink"), [Elf](Elves.md "wikilink"),
+    [Gob](Goblins.md "wikilink"), [Gno](Gnomes.md "wikilink"),
+    [Dgn](Deep_Gnome.md "wikilink"), [Hel](Half-Elves.md "wikilink"),
+    [Har](Harpy.md "wikilink"), [HiE](High_Elves.md "wikilink"),
+    [Hum](Human.md "wikilink"), [Kzn](Kzinti.md "wikilink"),
+    [Liz](Lizardmen.md "wikilink"), [Mir](Miraar.md "wikilink"),
+    [Spr](Sprites.md "wikilink"), [Cen](Centaur.md "wikilink") and
+    presumably a number of other unconfirmed races.
 -   [Poise](Poise "wikilink") practiced.
 -   You may not have [Racial Evil](Racial_Evil "wikilink"). Due to this,
-    [Hob](Hobgoblin "wikilink") and [Dsd](Demonseed "wikilink") are not
-    able to become Bladedancers. If a Bladedancer remorts to a race with
-    Racial Evil they will suffer a small mana cost penalty to some
-    Bladedancer spells.
+    [Hob](Hobgoblin.md "wikilink") and [Dsd](Demonseed.md "wikilink")
+    are not able to become Bladedancers. If a Bladedancer remorts to a
+    race with Racial Evil they will suffer a small mana cost penalty to
+    some Bladedancer spells.
 
 If all these requirements are met, find [Araxia](Araxia "wikilink") in
 [the Kingdom of the
-Willows](:Category:Kingdom_Of_The_Willows "wikilink") to be inducted
-into this [Prestige Class](:Category:Prestige_Classes "wikilink").
+Willows](:Category:Kingdom_Of_The_Willows.md "wikilink") to be inducted
+into this [Prestige Class](:Category:Prestige_Classes.md "wikilink").
 
 With [Dodge](Dodge "wikilink") being such an essential skill for
 Bladedancers in that it so strongly affects their stances, races with
-higher [dexterity](Dexterity "wikilink"), rather than lower, would seem
-to be better suited to this Prestige Class. With creatable races, this
-would be Kzinti. Furthermore, as [Racial Fly](Racial_Fly "wikilink") has
-a positive affect on one's chance to hit (i.e, negate a target's Dodge),
-then Harpy, or Sprite with Remort, may also prove to be good choices.
-Other races too may have advantages in play for Bladedancers, depending
-on play style. Lizardmen's use of tail to stun will increase the chance
-of dodging, while elves and drow will be able to make effective use of
-the Bladedancer's surplus of mana.
+higher [dexterity](Dexterity.md "wikilink"), rather than lower, would
+seem to be better suited to this Prestige Class. With creatable races,
+this would be Kzinti. Furthermore, as [Racial
+Fly](Racial_Fly "wikilink") has a positive affect on one's chance to hit
+(i.e, negate a target's Dodge), then Harpy, or Sprite with Remort, may
+also prove to be good choices. Other races too may have advantages in
+play for Bladedancers, depending on play style. Lizardmen's use of tail
+to stun will increase the chance of dodging, while elves and drow will
+be able to make effective use of the Bladedancer's surplus of mana.
 
 Also with the addition of [Bladetrance](Bladetrance "wikilink") this
 gives more use of the Bladedancers mana (especially at lord).
@@ -108,7 +108,7 @@ included:
 
 Bladedancers have five quests by which they can unlock and improve the
 bladetrance ability.  
-See [HELP BLADEDANCER QUESTS](Bladedancer_Quests "wikilink") for more
+See [HELP BLADEDANCER QUESTS](Bladedancer_Quests.md "wikilink") for more
 information. The first quest is available at Hero 675.
 
 <small>(No spoilers, please.)</small>
@@ -117,25 +117,26 @@ information. The first quest is available at Hero 675.
 
 ### Training
 
-Bladedancers at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink") will be able to
-[train](Train "wikilink") their [dexterity](Dexterity "wikilink") five
-higher than at [lowmort](:Category:_Lowmort "wikilink")
-[tier](:Category:_Tiers "wikilink") and to [train](Train "wikilink")
-their other [statistics](:Category:_Statistics "wikilink") two higher
-than at [lowmort](:Category:_Lowmort "wikilink")
-[tier](:Category:_Tiers "wikilink"). They will continue to be able to
-raise each of their [statistics](:Category:_Statistics "wikilink") up to
-three more than they can [train](Train "wikilink") them to
-(respectively), unless they [devote](Devotion "wikilink") themselves to
-a [deity](:Category:_Gods_And_Goddesses "wikilink"), in which case these
-amounts may be modified slightly. See *Devoting* below for more
+Bladedancers at [hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") will be able to
+[train](Train.md "wikilink") their [dexterity](Dexterity.md "wikilink")
+five higher than at [lowmort](:Category:_Lowmort.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") and to
+[train](Train.md "wikilink") their other
+[statistics](:Category:_Statistics.md "wikilink") two higher than at
+[lowmort](:Category:_Lowmort.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). They will continue to be able to
+raise each of their [statistics](:Category:_Statistics.md "wikilink") up
+to three more than they can [train](Train.md "wikilink") them to
+(respectively), unless they [devote](Devotion.md "wikilink") themselves
+to a [deity](:Category:_Gods_And_Goddesses.md "wikilink"), in which case
+these amounts may be modified slightly. See *Devoting* below for more
 information about this subject.
 
 ### Practicing
 
 Bladedancers practice with [Araxia](Araxia "wikilink") in [Kingdom of
-the Willows](:Category:Kingdom_Of_The_Willows "wikilink"). [Sublime
+the Willows](:Category:Kingdom_Of_The_Willows.md "wikilink"). [Sublime
 Grace](Sublime_Grace "wikilink") is the first skill which should be
 practiced. This is the central skill for Bladedancers as it is a
 prerequisite for a number of other skills later on down the line, but
@@ -155,8 +156,8 @@ Once at 101, Bladancers will be able to practice
 [Balance](Balance "wikilink") to increase the range of weapons they will
 be able to make use of effectively, learn
 [Quickstrike](Quickstrike "wikilink") and gain access to their
-[Stances](Stance "wikilink"). [Bladedance](Bladedance "wikilink") will
-only be useful when soloing or tanking, and [Inspiring
+[Stances](Stance.md "wikilink"). [Bladedance](Bladedance "wikilink")
+will only be useful when soloing or tanking, and [Inspiring
 Dance](Inspiring_Dance "wikilink") only for the later when leading mana
 users. [Dervish Dance](Dervish_Dance "wikilink"), however, can be used
 from any position within the group.
@@ -164,18 +165,18 @@ from any position within the group.
 ### Devoting
 
 [Shizaga](Shizaga "wikilink") gives an increase to both mana gains and
-rogue damage. Also, [devoting](Devotion "wikilink") will give a +1 to
+rogue damage. Also, [devoting](Devotion.md "wikilink") will give a +1 to
 maximum [dexterity](dexterity "wikilink"). However, Shizaga reduces
 melee damage. [Tor](Tor "wikilink") increases both rogue and melee
 damage, and if devoted gives +1 [constitution](constitution "wikilink")
 and +2 [strength](strength "wikilink"), but does reduce mana gains.
 Also, remember that worship affects crafting skills such as [ poison
-weapon](Poison_Weapon "wikilink") (tor is much worse than shz).
+weapon](Poison_Weapon.md "wikilink") (tor is much worse than shz).
 
 ### Fighting
 
 Prior to 101, Bladedancers fight in a very similar way to
-[Rogues](:Category:Rogues "wikilink") and even afterwards, there are
+[Rogues](:Category:Rogues.md "wikilink") and even afterwards, there are
 more similarities than differences to their play styles. They are
 reasonably versatile from the very beginning and can take tank or hit
 positions, and their ability to solo steadily increases as they advance
@@ -204,12 +205,12 @@ With a decent set of tank gear, Bladedancers can tank from level 1 hero.
 However, with low hps it is inadvisable without a decent healer along on
 the run, or a significant amount of potions. Their high
 [Dexterity](Dexterity "wikilink") makes them naturally good at tanking,
-but without using a shield, [Rogues](:Category:Rogues "wikilink") will
-have the edge in this field until 101. As with rogues, popular theory is
-to start fights using [Vital Shot](Vital_Shot "wikilink") to the eye to
-create blindness, or [Sneak Attack](Sneak_Attack "wikilink") for more
-significant early damage, depending on the individual preference and the
-size of the mob.
+but without using a shield, [Rogues](:Category:Rogues.md "wikilink")
+will have the edge in this field until 101. As with rogues, popular
+theory is to start fights using [Vital Shot](Vital_Shot "wikilink") to
+the eye to create blindness, or [Sneak Attack](Sneak_Attack "wikilink")
+for more significant early damage, depending on the individual
+preference and the size of the mob.
 
 Once at 101, a tanking Bladedancer will probably not want to use a
 shield at all, if they have even used one so far. This is because they
@@ -223,7 +224,7 @@ and taking a hit to one's AC may be preferable to simply carrying a
 shield. In addition, rather than simply using purely defensive weapons
 (eg. [Captain Dieme's Saber](Captain_Dieme's_Saber "wikilink")), some
 may find this tactic more effective if using a pair of 'normal' attack
-weapons which have been [runed](Rune "wikilink") with AC bonuses.
+weapons which have been [runed](Rune.md "wikilink") with AC bonuses.
 Essentially, dropping from a [Shield Of
 Heroes](Shield_Of_Heroes "wikilink") and Dieme's Saber to a pair of
 sabers will worsen the Bladedancer's AC by as much as 66 (or more, if
@@ -268,14 +269,14 @@ than your average Bladedancer.
 
 A [Sneak Attack](Sneak_Attack "wikilink") trigger to activate off the
 tank's target will increase a Bladedancer's effectiveness in combat, as
-will the use of [poisoned weapons](Poison_Weapon "wikilink"). With sneak
-attack it's important to note that only about half will get through, so
-a normal kill trigger should be set to fire in this case. In general it
-is a good idea to use a different poison on each weapon, as
+will the use of [poisoned weapons](Poison_Weapon.md "wikilink"). With
+sneak attack it's important to note that only about half will get
+through, so a normal kill trigger should be set to fire in this case. In
+general it is a good idea to use a different poison on each weapon, as
 Bladedancer's use both weapons equally well. Depending on the group
-make-up, [tripping](Trip "wikilink") or [tossing](Toss "wikilink") may
-be useful additions to the usual moves and with nothing better to do in
-a longer fight, a [surged 2](Surge "wikilink")
+make-up, [tripping](Trip.md "wikilink") or [tossing](Toss.md "wikilink")
+may be useful additions to the usual moves and with nothing better to do
+in a longer fight, a [surged 2](Surge.md "wikilink")
 [Desiccate](Desiccate "wikilink") or [Ultrablast](Ultrablast "wikilink")
 can give you something to do.
 
@@ -286,15 +287,15 @@ weapons can be poisoned. It is unclear if the damage increase from
 Sublime Flow is enough to offset the loss of poison weapons.
 
 [Dervish Dance](Dervish_Dance "wikilink") is the only Bladedancer
-[stance](Stance "wikilink") which is likely to be of any real use to you
-from a hit position (ignoring the advent of an aggie mob jumping you).
-However, this stance is only useful if **two or more** mobs are
+[stance](Stance.md "wikilink") which is likely to be of any real use to
+you from a hit position (ignoring the advent of an aggie mob jumping
+you). However, this stance is only useful if **two or more** mobs are
 attacking your group at once. Striking automatically at each additional
 attacker beyond the first who is attacking anyone in your group is
 useful in aggressive or assisty areas, and areas which get swarmy. Where
 it really comes into its own though, is when you are part of an Area
-Effect run, probably lead by a [Mage](:Category:Mages "wikilink") or
-[Wizard](:Category:Wizards "wikilink") who is using [Acid
+Effect run, probably lead by a [Mage](:Category:Mages.md "wikilink") or
+[Wizard](:Category:Wizards.md "wikilink") who is using [Acid
 Rain](Acid_Rain "wikilink") a lot.
 
 **Healing:**
@@ -308,7 +309,7 @@ often have a surfeit of mana, and prior to 101 and
 do in a fight. In such circumstances, Bladedancers, especially those who
 are no-fail like [Drow](Drow "wikilink") and [Elves](Elves "wikilink"),
 are useful for topping up a group member's hps. Likewise, the ability to
-[brandish](Brandish "wikilink") here can be a useful enhancement to a
+[brandish](Brandish.md "wikilink") here can be a useful enhancement to a
 run. However, Bladedancers should probably not be counted on to act as
 primary healers.
 
@@ -350,9 +351,10 @@ a bonus when switching dances while in combat:
 ## Bladedancers Remort Options
 
 Bladedancers who wish to, may
-[remort](:Category:Remort_Classes "wikilink") into
-[Human](Human "wikilink") [Berserkers](:Category:Berserkers "wikilink")
-at [Lord](:Category:Lord "wikilink") 100, or a Berserker of their own
+[remort](:Category:Remort_Classes.md "wikilink") into
+[Human](Human "wikilink")
+[Berserkers](:Category:Berserkers.md "wikilink") at
+[Lord](:Category:Lord.md "wikilink") 100, or a Berserker of their own
 race at Lord 200.
 
 There are no other class options available for a Bladedancer.

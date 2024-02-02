@@ -3,11 +3,11 @@ it often seems today. Forces of Evil had great artifacts at their
 disposal and used them to the dread of all. After a decisive victory,
 some of these artifacts were destroyed. Others with magic too terrible
 to undo were scattered throughout the realm and hidden well. [A great
-wizard](Saliri "wikilink") has found the resting place of [one such
-item](Evil_Crystal "wikilink") in a cavern deep in a mountainside. Here
-[the wizard](Saliri "wikilink") has enlisted the help of deadly beasts,
-enslaved by his will, to tap into [the item](Evil_Crystal "wikilink")'s
-ancient power.*
+wizard](Saliri.md "wikilink") has found the resting place of [one such
+item](Evil_Crystal.md "wikilink") in a cavern deep in a mountainside.
+Here [the wizard](Saliri.md "wikilink") has enlisted the help of deadly
+beasts, enslaved by his will, to tap into [the
+item](Evil_Crystal.md "wikilink")'s ancient power.*
 
 **Level Range:** 35-40
 
@@ -15,10 +15,10 @@ ancient power.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [elderly
-sage](Elderly_Sage "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [elderly
+sage](Elderly_Sage.md "wikilink").
 
 ## Connections
 

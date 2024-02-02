@@ -1,6 +1,7 @@
 # Notable Mobs
 
--   [A trap-laying rogue](Trap-Laying_Rogue "wikilink") located at E2.
+-   [A trap-laying rogue](Trap-Laying_Rogue.md "wikilink") located at
+    E2.
 
 # Other Notes
 

@@ -2,29 +2,29 @@
 of snowflakes, the stones glow with an unnatural light buried deep
 within.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 3.`  
-`Modifies `[`ac`](Armor_Class "wikilink")` by -3 continuous.`  
-`Modifies `[`damage`](Damage_Roll "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 3.`  
+`Modifies `[`ac`](Armor_Class.md "wikilink")` by -3 continuous.`  
+`Modifies `[`damage`](Damage_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** blood stone scarlet necklace.  
-**[Level(s)](Object_Level "wikilink"):** 15-16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 15-16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ascension
-Woods](:Category:_Ascension_Woods "wikilink")
-([Map](Ascension_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [One Of The
+**[Area](:Category:_Areas.md "wikilink"):** [Ascension
+Woods](:Category:_Ascension_Woods.md "wikilink")
+([Map](Ascension_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [One Of The
 Masters](One_Of_The_Masters "wikilink").  
 See [One Of The Masters](One_Of_The_Masters "wikilink") for more
 information.  

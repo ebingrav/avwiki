@@ -1,16 +1,16 @@
 *A small ring with a green gemstone is here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 8`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 20 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 8`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 20 continuous.`
 
 **Keyword(s):** emerald, ring  
-**[Level(s)](Object_Level "wikilink"):** 31-34.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on finger>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 31-34.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on finger>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -26,10 +26,11 @@ to open the TABLE containing this item is? It's not on any of the Drow,
 so I suspect it can only be opened by a rogue or BCI. There's a locked
 stone north of this room that also requires inspection.
 
-**[Area](:Category:_Areas "wikilink"):** [Alien
-Hive](:Category:_Alien_Hive "wikilink")
-([Map](Alien_Hive_Map "wikilink")).  
-See [the Drow General](Drow_General "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Alien
+Hive](:Category:_Alien_Hive.md "wikilink")
+([Map](Alien_Hive_Map.md "wikilink")).  
+See [the Drow General](Drow_General.md "wikilink") for more
+information.  
 
 [Category: Gear In Alien Hive](Category:_Gear_In_Alien_Hive "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category: Lowmort 21-30

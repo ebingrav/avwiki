@@ -2,31 +2,33 @@
 Admit one, level two.*
 
 **Keyword(s):** mine, pass, level, two.  
-**[Level(s)](Object_Level "wikilink"):** 22-24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[key](:Category:_Keys "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 5 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 22-24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[key](:Category:_Keys.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 5 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [key](:Category:_Keys "wikilink") is used in [Mt.
-Durr](:Category:_Mt_Durr "wikilink")'s [Flask of Marlots Ol' Special
-Quest](Flask_Of_Marlots_Ol'_Special_Quest "wikilink"), its [Legacy of
-King Vorin Quest](Legacy_Of_King_Vorin_Quest "wikilink"), and its [Set
-of Three Loaded Dice Quest](Set_Of_Three_Loaded_Dice_Quest "wikilink");
-it [unlocks](Unlock "wikilink") the door between The mine shaft level
+This [key](:Category:_Keys.md "wikilink") is used in [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")'s [Flask of Marlots Ol' Special
+Quest](Flask_Of_Marlots_Ol'_Special_Quest.md "wikilink"), its [Legacy of
+King Vorin Quest](Legacy_Of_King_Vorin_Quest.md "wikilink"), and its
+[Set of Three Loaded Dice
+Quest](Set_Of_Three_Loaded_Dice_Quest.md "wikilink"); it
+[unlocks](Unlock.md "wikilink") the door between The mine shaft level
 one and The Mine Shaft level two.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a humble
-pilgrim](Humble_Pilgrim "wikilink").  
-See [a humble pilgrim](Humble_Pilgrim "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a humble
+pilgrim](Humble_Pilgrim.md "wikilink").  
+See [a humble pilgrim](Humble_Pilgrim.md "wikilink") for more
 information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")

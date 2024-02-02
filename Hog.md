@@ -1,8 +1,8 @@
-*HOG is an acronym for [Hand of God](Hand_Of_God "wikilink"). HOG
-drastically boosts melee [damage](Damage "wikilink"). Your
-[character](:Category:_Characters "wikilink") is otherwise unaltered.
-The [command](:Category:_Commands "wikilink") is available only during
-Avatar's famed [hog-a-thons](Hogathons "wikilink").*
+*HOG is an acronym for [Hand of God](Hand_Of_God.md "wikilink"). HOG
+drastically boosts melee [damage](Damage.md "wikilink"). Your
+[character](:Category:_Characters.md "wikilink") is otherwise unaltered.
+The [command](:Category:_Commands.md "wikilink") is available only
+during Avatar's famed [hog-a-thons](Hogathons.md "wikilink").*
 
 Syntax: hog.
 
@@ -14,7 +14,7 @@ The announced ones usually run for an hour, while the latter type might
 last less than a minute for the chance to type in hog and get the 24 tic
 bonus to hr/dr.
 
-See also [Hand of God](Hand_Of_God "wikilink"),
-[Hogathons](Hogathons "wikilink").
+See also [Hand of God](Hand_Of_God.md "wikilink"),
+[Hogathons](Hogathons.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

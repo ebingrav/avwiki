@@ -1,28 +1,28 @@
 *A small black object remains unclaimed here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 10 to 33 (average 21-22).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 6 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 10 to 33 (average 21-22).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 6 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** dagger, soul  
-**[Level(s)](Object_Level "wikilink"):** 35-36  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 35-36  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink")  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Waterfall
-Cave](:Category:_Waterfall_Cave "wikilink")
-([Map](Waterfall_Cave_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Drow
-Assassin](Drow_Assassin "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Waterfall
+Cave](:Category:_Waterfall_Cave.md "wikilink")
+([Map](Waterfall_Cave_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Drow
+Assassin](Drow_Assassin.md "wikilink")  
 See [Drow Assassin](Drow_Assassin "wikilink") for more information  
 
 [Category: Gear In Waterfall

@@ -1,20 +1,21 @@
 *A golden feather sits lightly on the ground.*
 
-`Modifies `[`constitution`](Constitution "wikilink")` by 1 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 1 continuous.`
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 1 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** golden feather newbie  
-**[Level(s)](Object_Level "wikilink"):** 2  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held>  
-**[Quality](Object_Quality "wikilink"):** 10 hps  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), etc  
-**[Area](:Category:_Areas "wikilink"):**
-[Meadow](:Category:_Meadow "wikilink") ([Map](Meadow_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Golden
+**[Level(s)](Object_Level.md "wikilink"):** 2  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"), etc  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Meadow](:Category:_Meadow.md "wikilink")
+([Map](Meadow_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Golden
 Hawk](Golden_Hawk "wikilink").  
 
 ## Comments

@@ -2,7 +2,7 @@
 
 The beginning of this quest starts with a visit to
 [Lightroot](Lightroot "wikilink") in
-[Heartwood's](:Category:Heartwood "wikilink") Sacred Grove. Find the
+[Heartwood's](:Category:Heartwood.md "wikilink") Sacred Grove. Find the
 path from [Tinderhand](Tinderhand "wikilink") to entrance where
 [Ironwood](Ironwood "wikilink") stands guard. She stands in the NE
 corner of the grove.
@@ -35,11 +35,11 @@ Pteridophyta's quest is a request for an item.
 <spoiler text="Pteridophyta quest help">Pteridophyta is looking for
 (utlimately) three items that can be found in the area.</spoiler>
 <spoiler text="Pteridophyta quest details">The three items are the
-[goose feather](Goose_Feather "wikilink") found on the ground, a
-[vallenwood bark](Wide_Strip_Of_Vallenwood_Bark "wikilink") also found
-on the ground (but no description so it looks invisible), and a [handful
-of berries](Handful_Of_Berries "wikilink") found in some bushes. All
-will be in the deep woods.</spoiler>
+[goose feather](Goose_Feather.md "wikilink") found on the ground, a
+[vallenwood bark](Wide_Strip_Of_Vallenwood_Bark.md "wikilink") also
+found on the ground (but no description so it looks invisible), and a
+[handful of berries](Handful_Of_Berries.md "wikilink") found in some
+bushes. All will be in the deep woods.</spoiler>
 
 ## Silverbark Quest
 
@@ -47,8 +47,8 @@ Silverbark is 2 south from Lightroot.
 Silverbark's quest is a simple delivery and return with proof.
 
 <spoiler text="Silverbark quest details">The first will be to an [ent
-banker](Banker "wikilink") to deliver a letter. Then to a
-[relative](Edmuntrillion "wikilink") for a second part of the
+banker](Banker.md "wikilink") to deliver a letter. Then to a
+[relative](Edmuntrillion.md "wikilink") for a second part of the
 quest.</spoiler>
 
 ## Ironwood Quest
@@ -87,7 +87,7 @@ Return it and he will indicate it needs "enhancement". See Psilocybin at
 Fungal Forest and give it to him to enhance it. Return and give it to
 Redleaf and he will change it to a very nice, hero-level
 [mushroom-shaped
-amulet](Mushroom-Shaped_Amulet_(Heartwood) "wikilink").</spoiler>
+amulet](Mushroom-Shaped_Amulet_(Heartwood).md "wikilink").</spoiler>
 
 ## Fantasamagora Quest
 

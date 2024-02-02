@@ -7,32 +7,34 @@ considered rude (even punishable) to ask for one. Here are some tips for
 zombie fest participants:*
 
 -   *Losses during zombie fests are not reimbursable.
-    [Insured](Insure "wikilink") [items](:Category:_Objects "wikilink")
-    lost in a crash are the only exception.*
+    [Insured](Insure.md "wikilink")
+    [items](:Category:_Objects.md "wikilink") lost in a crash are the
+    only exception.*
 -   *If you do not wish to participate, stay in a [safe
-    room](Safe_Rooms "wikilink") or [log off](Quit "wikilink"). All
-    other actions will put your character at risk.*
--   *Zombies will have ([ZOMBIE](Zombie_Flag "wikilink")) next to their
-    names and are easily recognizable. All other players are on the
-    opposing team.*
+    room](Safe_Rooms.md "wikilink") or [log off](Quit.md "wikilink").
+    All other actions will put your character at risk.*
+-   *Zombies will have ([ZOMBIE](Zombie_Flag.md "wikilink")) next to
+    their names and are easily recognizable. All other players are on
+    the opposing team.*
 -   *Combat may only occur between opposing groups.*
 -   *There are limitations on killing players smaller than you.*
--   *Successful [bounty](Bounty_Flag "wikilink") kills result in a
-    generous [experience](Experience_Points "wikilink") gain.*
--   *There is no [gear](:Category:_Gear "wikilink") loss when you die;
-    [equipment](:Category:_Gear "wikilink") stays on your body.*
--   ''[Effects](Affects "wikilink") of
-    [skills](:Category:_Skills "wikilink"),
-    [spells](:Category:_Spells "wikilink"),
-    [racials](:Category:_Racials "wikilink"), or anything else are not
-    cleared upon [death](Death "wikilink").
--   [Death](Death "wikilink") is inevitable. Embrace it and move on.''
--   *[Hit points](Hit_Points "wikilink"),
-    [mana](Mana_Points "wikilink"), and [movement
-    points](Move_Points "wikilink") will be scarce. Stock up on useful
-    [items](:Category:_Objects "wikilink").*
+-   *Successful [bounty](Bounty_Flag.md "wikilink") kills result in a
+    generous [experience](Experience_Points.md "wikilink") gain.*
+-   *There is no [gear](:Category:_Gear.md "wikilink") loss when you
+    die; [equipment](:Category:_Gear.md "wikilink") stays on your body.*
+-   ''[Effects](Affects.md "wikilink") of
+    [skills](:Category:_Skills.md "wikilink"),
+    [spells](:Category:_Spells.md "wikilink"),
+    [racials](:Category:_Racials.md "wikilink"), or anything else are
+    not cleared upon [death](Death.md "wikilink").
+-   [Death](Death.md "wikilink") is inevitable. Embrace it and move
+    on.''
+-   *[Hit points](Hit_Points.md "wikilink"),
+    [mana](Mana_Points.md "wikilink"), and [movement
+    points](Move_Points.md "wikilink") will be scarce. Stock up on
+    useful [items](:Category:_Objects.md "wikilink").*
 -   *Have fun.*
 
-See also [Zombie Flag](Zombie_Flag "wikilink").
+See also [Zombie Flag](Zombie_Flag.md "wikilink").
 
 [Category: Events](Category:_Events "wikilink")

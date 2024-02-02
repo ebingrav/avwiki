@@ -5,7 +5,7 @@ sorcerer.
 
 # Prereqs
 
--   [lesser magic](Lesser_Magic "wikilink")
+-   [lesser magic](Lesser_Magic.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -37,8 +37,8 @@ sorcerer.
 
 # Lores Unlocked
 
--   [epic magic](Epic_Magic "wikilink")
--   [basic sorcery](Basic_Sorcery "wikilink")
+-   [epic magic](Epic_Magic.md "wikilink")
+-   [basic sorcery](Basic_Sorcery.md "wikilink")
 
 # Other Notes
 

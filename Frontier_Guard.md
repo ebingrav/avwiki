@@ -7,18 +7,18 @@ only consolation is that he gets to peg off orcs from up here with his
 crossbow, instead of fight them toe to toe down below.*
 
 **Keywords:** frontier, guard.  
-**[Level](Level "wikilink"):** 19.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 19.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `A frontier guard is using:`  
-<worn on body>`      `[`chainmail`` ``armor`](Chainmail_Armor "wikilink")  
-<wielded>`           `[`a`` ``light`` ``crossbow`](Light_Crossbow "wikilink")` or `[`a`` ``steel`` ``longsword`](Steel_Longsword "wikilink")  
-<held>`              `[`5`` ``standard`` ``bolts`](Standard_Bolts "wikilink")
+<worn on body>`      `[`chainmail`` ``armor`](Chainmail_Armor.md "wikilink")  
+<wielded>`           `[`a`` ``light`` ``crossbow`](Light_Crossbow.md "wikilink")` or `[`a`` ``steel`` ``longsword`](Steel_Longsword.md "wikilink")  
+<held>`              `[`5`` ``standard`` ``bolts`](Standard_Bolts.md "wikilink")
 
 `A frontier guard is carrying:`  
 `     Nothing.`
@@ -31,14 +31,14 @@ the area.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Frontier
-Outpost](:Category:_Frontier_Outpost "wikilink")
-([Map](Frontier_Outpost_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Various (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16n, e, s, 11e, s, 2e, u
-(for crossbow).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16n, e, s, 11e, s, 2e,
-u, n, e, s (for longsword).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Frontier
+Outpost](:Category:_Frontier_Outpost.md "wikilink")
+([Map](Frontier_Outpost_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Various (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16n, e, s, 11e, s,
+2e, u (for crossbow).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16n, e, s, 11e, s,
+2e, u, n, e, s (for longsword).  
 A frontier guard is portable, but there are multiple mobs with the same
 keywords.  
 

@@ -1,31 +1,32 @@
 *This simple sword is made of blackened steel. The emblem of
-[Tul-Sith](Tul-Sith "wikilink") is proudly engraved into the pommel.*
+[Tul-Sith](Tul-Sith.md "wikilink") is proudly engraved into the pommel.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 0 to 24 (average 12).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 0 to 24 (average 12).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** paladin, shortsword, sword.  
-**[Level(s)](Object_Level "wikilink"):** 21.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"), [glow](Glow_Flag "wikilink"),
-[good](Good_Flag "wikilink"), [hum](Hum_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 21.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[glow](Glow_Flag.md "wikilink"), [good](Good_Flag.md "wikilink"),
+[hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tul-Sith's
-Hospice](:Category:_Tul-Sith's_Hospice "wikilink")
-([Map](Tul-Sith's_Hospice_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Lists (portable).  
-Walking route from [elderly cleric](Elderly_Cleric "wikilink"): w, n, e,
-s.
+**[Area](:Category:_Areas.md "wikilink"):** [Tul-Sith's
+Hospice](:Category:_Tul-Sith's_Hospice.md "wikilink")
+([Map](Tul-Sith's_Hospice_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Lists (portable).  
+Walking route from [elderly cleric](Elderly_Cleric.md "wikilink"): w, n,
+e, s.
 
 [Category: Gear In Tul-Sith's
 Hospice](Category:_Gear_In_Tul-Sith's_Hospice "wikilink") [Category:

@@ -6,22 +6,22 @@ this is one Jeli's special recipes.*
 
 **Keyword(s):** bowl, octopus, stew  
 **Slot:** none  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 2 lbs  
-**[Level(s)](Object_Level "wikilink"):** 36  
-**[Quality](Object_Quality "wikilink"):** 1 hp  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 36  
+**[Quality](Object_Quality.md "wikilink"):** 1 hp  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Arcana
-Excelsis](:Category:_Arcana_Excelsis "wikilink")
-([Map](Arcana_Excelsis_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** none  
+**[Area](:Category:_Areas.md "wikilink"):** [Arcana
+Excelsis](:Category:_Arcana_Excelsis.md "wikilink")
+([Map](Arcana_Excelsis_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** none  
 
 [Category: Gear In Arcana
 Excelsis](Category:_Gear_In_Arcana_Excelsis "wikilink") [Category:

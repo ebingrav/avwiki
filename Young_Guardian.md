@@ -9,16 +9,16 @@ believe that they have truly lived.*
 **Keywords:** Guardian.  
 **Scan Description:** This guardian's enthusiasm isn't catching much,
 but he still tries.  
-**[Level](Level "wikilink"):** 74.  
-**[Alignment](Alignment "wikilink"):** Neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 74.  
+**[Alignment](Alignment.md "wikilink"):** Neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `Young Guardian is using:`  
-<wielded>`           `[`A`` ``Battered`` ``Iron`` ``Sword`](Battered_Iron_Sword "wikilink")
+<wielded>`           `[`A`` ``Battered`` ``Iron`` ``Sword`](Battered_Iron_Sword.md "wikilink")
 
 `Young Guardian is carrying:`  
 `     Nothing.`
@@ -27,10 +27,10 @@ but he still tries.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Young Guardian [wanders](Wandering_Mobs "wikilink").
+Young Guardian [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")

@@ -1,8 +1,8 @@
-*Sometimes little more than a desperate [shot](Shoot "wikilink") over
-their shoulder, this [skill](:Category:_Skills "wikilink") is used by
-[archers](:Category:_Archers "wikilink") to fire a last
-[arrow](:Category:_Arrows "wikilink") when [fleeing](Flee "wikilink")
-from combat.*
+*Sometimes little more than a desperate [shot](Shoot.md "wikilink") over
+their shoulder, this [skill](:Category:_Skills.md "wikilink") is used by
+[archers](:Category:_Archers.md "wikilink") to fire a last
+[arrow](:Category:_Arrows.md "wikilink") when
+[fleeing](Flee.md "wikilink") from combat.*
 
 Prerequisite(s): none.
 

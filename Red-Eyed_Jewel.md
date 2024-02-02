@@ -1,26 +1,26 @@
 *The red-eyed jewel glares at you greedily.*
 
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 2 continuous.`
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** jewel, red-eyed, gem.  
-**[Level(s)](Object_Level "wikilink"):** 8-10.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[treasure](:Category:_Treasure "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 10 hps.  
-**[Weight](Object_Weight "wikilink"):** 30 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 8-10.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[treasure](:Category:_Treasure.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 10 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 30 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [River
-Tunnels](:Category:_River_Tunnels "wikilink")
-([Map](River_Tunnels_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a large red-eyed
-fish](Large_Red-Eyed_Fish "wikilink").  
-See [a large red-eyed fish](Large_Red-Eyed_Fish "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [River
+Tunnels](:Category:_River_Tunnels.md "wikilink")
+([Map](River_Tunnels_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a large red-eyed
+fish](Large_Red-Eyed_Fish.md "wikilink").  
+See [a large red-eyed fish](Large_Red-Eyed_Fish.md "wikilink") for more
 information.
 
 [Category: Gear In River

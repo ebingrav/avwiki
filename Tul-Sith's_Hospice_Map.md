@@ -1,5 +1,5 @@
 ''The Cemetary room now extends northwards to the [Hospice Refugee
-Camp](:Category:Hospice_Refugee_Camp "wikilink").
+Camp](:Category:Hospice_Refugee_Camp.md "wikilink").
 
 ![](Avatar_MUD_Area_Map_-_Tul-Sith's_Hospice.GIF "Avatar_MUD_Area_Map_-_Tul-Sith's_Hospice.GIF")
 

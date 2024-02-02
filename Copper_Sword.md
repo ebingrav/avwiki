@@ -2,25 +2,25 @@
 edges of its blade. The metal appears to have been beaten and pressed
 into its current shape, while the handle is made of a black wood.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 14 to 38 (average 26).`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 14 to 38 (average 26).`
 
 **Keyword(s):** copper, sword  
-**[Level(s)](Object_Level "wikilink"):** 40  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Weight](Object_Weight "wikilink"):** 7 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 40  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Waterfall
-Cave](:Category:_Waterfall_Cave "wikilink")
-([Map](Waterfall_Cave_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** Guard Room (portable)  
+**[Area](:Category:_Areas.md "wikilink"):** [Waterfall
+Cave](:Category:_Waterfall_Cave.md "wikilink")
+([Map](Waterfall_Cave_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Guard Room (portable)  
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d,
 s, d, w, 2d, e, 2n, 2e, u, 2n, w.
 

@@ -6,13 +6,13 @@ Modifies armor class by -35 continuous.
 Slot: Neck  
 Flags: glow dark magic nolocate  
 Weight: 1  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Plane](:Category:Astral_Plane "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Plane](:Category:Astral_Plane.md "wikilink")  
 Mob: [Nightmare](Nightmare "wikilink")  
 
 ------------------------------------------------------------------------
 
-See [Gear In Astral Plane](:Category:Gear_In_Astral_Plane "wikilink")
+See [Gear In Astral Plane](:Category:Gear_In_Astral_Plane.md "wikilink")
 for directions on how to get this gear.
 
 [Category:Lord Second Tier Tank

@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="storm_canyon_map.jpg" title="storm_canyon_map.jpg" width="650"
-alt="storm_canyon_map.jpg" />
-<figcaption aria-hidden="true">storm_canyon_map.jpg</figcaption>
+<img src="storm_canyon_map.jpg.md" title="storm_canyon_map.jpg.md"
+width="650" alt="storm_canyon_map.jpg.md" />
+<figcaption aria-hidden="true">storm_canyon_map.jpg.md</figcaption>
 </figure>
 
 [Icewolf Map](Icewolf_Map "wikilink")

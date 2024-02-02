@@ -5,11 +5,11 @@ sight](http://avatar.melanarchy.info/index.php?title=Assassin_Sight),
 
 At Lord level, a rogue's prowess as an assassin is so advanced, that
 virtually anything on the
-[Midgaardian](:Category:_Midgaardia "wikilink") plane will fall before
-their lethal backstab. However, a Lord's calling is elsewhere, and the
-Githyanki and Fae and Planar
-[Kzin](:Category:_Kzinti_Homeworld "wikilink") and Demons of
-[Tarterus](:Category:_Tarterus "wikilink") are a different kind of
+[Midgaardian](:Category:_Midgaardia.md "wikilink") plane will fall
+before their lethal backstab. However, a Lord's calling is elsewhere,
+and the Githyanki and Fae and Planar
+[Kzin](:Category:_Kzinti_Homeworld.md "wikilink") and Demons of
+[Tarterus](:Category:_Tarterus.md "wikilink") are a different kind of
 enemy, in some cases with entirely different anatomy. A normal backstab
 will be almost useless against them.
 

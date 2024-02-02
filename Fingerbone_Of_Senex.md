@@ -1,14 +1,14 @@
-`Has 3 charges at level 13 '`[`cure`` ``critical`](Cure_Critical "wikilink")`'.`
+`Has 3 charges at level 13 '`[`cure`` ``critical`](Cure_Critical.md "wikilink")`'.`
 
 no base  
 Level: 28ish  
 Weight: 20  
-Area: [Senex Operis](:Category:_Senex_Operis "wikilink")
-([Map](Senex_Operis_Map "wikilink"))  
-From [Paige](Paige "wikilink"): 2n, w, 7n, d, 3w, 2s.
+Area: [Senex Operis](:Category:_Senex_Operis.md "wikilink")
+([Map](Senex_Operis_Map.md "wikilink"))  
+From [Paige](Paige.md "wikilink"): 2n, w, 7n, d, 3w, 2s.
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink")
 
 [Category: Gear In Senex
 Operis](Category:_Gear_In_Senex_Operis "wikilink") [Category:

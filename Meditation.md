@@ -1,20 +1,21 @@
-*The Meditation [skill](:Category:_Skills_And_Spells "wikilink"), once
-[practiced](Practice "wikilink"), allows faster regeneration of
-[mana](Mana_Points "wikilink"). This is automatic, but only happens when
-[sleeping](Sleep_(command) "wikilink").*
+*The Meditation [skill](:Category:_Skills_And_Spells.md "wikilink"),
+once [practiced](Practice.md "wikilink"), allows faster regeneration of
+[mana](Mana_Points.md "wikilink"). This is automatic, but only happens
+when [sleeping](Sleep_(command).md "wikilink").*
 
 Prerequisite(s): none.
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is very valuable
-to [characters](:Category:_Characters "wikilink") of
-[spellcasting](Cast "wikilink") [classes](:Category:_Classes "wikilink")
-like [psionicists](:Category:_Psionicists "wikilink"),
-[mages](:Category:_Mages "wikilink"), and
-[clerics](:Category:_Clerics "wikilink"), as it greatly reduces time
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is very
+valuable to [characters](:Category:_Characters.md "wikilink") of
+[spellcasting](Cast.md "wikilink")
+[classes](:Category:_Classes.md "wikilink") like
+[psionicists](:Category:_Psionicists.md "wikilink"),
+[mages](:Category:_Mages.md "wikilink"), and
+[clerics](:Category:_Clerics.md "wikilink"), as it greatly reduces time
 needed for them to fully regenerate their
-[mana](Mana_Points "wikilink").
+[mana](Mana_Points.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

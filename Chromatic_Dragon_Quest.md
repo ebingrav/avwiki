@@ -5,7 +5,7 @@ Are you hero level 250 or higher? You have the ability to change your
 color:
 
 1.  Your goal is to locate Quixoltan's Temple, which is connected to the
-    [Ancient Bronze Wyrm](:Category:Ancient_Bronze_Wyrm "wikilink")
+    [Ancient Bronze Wyrm](:Category:Ancient_Bronze_Wyrm.md "wikilink")
 2.  Once there, initiate the quest, which is a simple combat versus a
     solitary mob. Your Bane.
 3.  You will be cleared of all affects and gear, and will have to regear

@@ -4,15 +4,15 @@ stone feet and advance towards you in heavy, deliberate footsteps, the
 answer must have been yes.*
 
 **Keywords:** obsidian, golem.  
-**[Level](Level "wikilink"):** 75.  
+**[Level](Level.md "wikilink"):** 75.  
 **Scan Description:** A golem stalks the corridors, flexing its obsidian
 fists.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [very
-agressive](Aggressive_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [very
+agressive](Aggressive_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -25,12 +25,12 @@ Shard](Obsidian_Shard "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [:Category: Daingean
+**[Area](:Category:_Areas.md "wikilink"):** [:Category: Daingean
 Machadae](:Category:_Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Obsidian tunnels high in the
+([Map](Daingean_Machadae_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Obsidian tunnels high in the
 keep (cursed).  
-[Portaling](Portal "wikilink") point suggested:
+[Portaling](Portal.md "wikilink") point suggested:
 [Riscgnarl](Riscgnarl "wikilink"), kill him for the key (and become
 OUTLAW) or steal the key off him, all w, {w}, s, u, w, u, e, u, s, w.
 

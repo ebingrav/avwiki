@@ -2,31 +2,31 @@
 bone. A large white gem sits in the pommel, supported by a small bat
 skull.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 10-13 to 26-33 (average 18-23).`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -15 continuous.`  
-`Modifies `[`age`](Age "wikilink")` by 25 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 10-13 to 26-33 (average 18-23).`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -15 continuous.`  
+`Modifies `[`age`](Age.md "wikilink")` by 25 continuous.`
 
 **Keyword(s):** bone, sword.  
-**[Level(s)](Object_Level "wikilink"):** 25-27, 31-33.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 25 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 25-27, 31-33.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 25 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Nubrius](:Category:_Nubrius "wikilink")
-([Map](Nubrius_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a bone
-golem](Bone_Golem "wikilink"), [Nubrius](Nubrius "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.
+**[Area](:Category:_Areas.md "wikilink"):**
+[Nubrius](:Category:_Nubrius.md "wikilink")
+([Map](Nubrius_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a bone
+golem](Bone_Golem.md "wikilink"), [Nubrius](Nubrius.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.
 
 [Category: Gear In Nubrius](Category:_Gear_In_Nubrius "wikilink")
 [Category: Standard One-Or-Two-Handed

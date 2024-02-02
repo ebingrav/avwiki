@@ -14,7 +14,8 @@ the more cautious predators.*
 **Weight:** 5 lbs  
 **Bases:** Base 10-12  
 **Flags:** glow  
-**Area:** [Daingean Machadae](:Category:Daingean_Machadae "wikilink")  
+**Area:** [Daingean
+Machadae](:Category:Daingean_Machadae.md "wikilink")  
 
 ## Comments
 

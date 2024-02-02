@@ -1,4 +1,4 @@
-This is one of the quests done in [Rim](:Category:Rim "wikilink").
+This is one of the quests done in [Rim](:Category:Rim.md "wikilink").
 
 Goal is to gather various lore in form of writing that corresponds with
 the four sea deities:

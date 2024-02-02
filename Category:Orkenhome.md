@@ -1,9 +1,9 @@
 *Near the [remains of the kingdom of the High
-Drow](:Category:_Ruins_Of_Reveria "wikilink"), there exists an
-underground city of [orcs](Orcs "wikilink") called Orkenhome. Though no
-one is quite sure why, the [orcs](Orcs "wikilink") of this region aren't
-like others of their kind. They don't make war, they earn their keep
-through labor, and, worst of all, they act downright civilized.*
+Drow](:Category:_Ruins_Of_Reveria.md "wikilink"), there exists an
+underground city of [orcs](Orcs.md "wikilink") called Orkenhome. Though
+no one is quite sure why, the [orcs](Orcs.md "wikilink") of this region
+aren't like others of their kind. They don't make war, they earn their
+keep through labor, and, worst of all, they act downright civilized.*
 
 **Level Range:** 23-29
 
@@ -11,20 +11,20 @@ through labor, and, worst of all, they act downright civilized.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, e, 2s, w, s, w, d, 3w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, e, 2s, w, s, w, d, 3w.
 
 (route travels through water)
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Ailne](Ailne "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Ailne](Ailne.md "wikilink").
 
 Zmud speedwalking directions: .14n8wne4dsdw2dededwd2se2swswd2w
 
 ## Connections
 
 Orkenhome has but one entrance and exit, and that is with the [Ruins of
-Reveria](:Category:Ruins_Of_Reveria "wikilink"), which connect to the
+Reveria](:Category:Ruins_Of_Reveria.md "wikilink"), which connect to the
 city to the east via a massive gate and a limestone tunnel.
 
 ## Navigation
@@ -60,7 +60,7 @@ have rather low HP pools.
 Brute classes, on the other hand, tend to have a very easy time here.
 
 Almost all mobs here are good, so watch your
-[alignment](Alignment "wikilink").
+[alignment](Alignment.md "wikilink").
 
 [Category: Lowmort 21-30
 Areas](Category:_Lowmort_21-30_Areas "wikilink")

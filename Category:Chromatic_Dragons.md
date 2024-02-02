@@ -22,7 +22,7 @@ such glory should make a pilgrimage to his temple.
 ## Comments
 
 For more information read about the
-[quest](Chromatic_Dragon_Quest "wikilink").
+[quest](Chromatic_Dragon_Quest.md "wikilink").
 
 [Category: Races](Category:_Races "wikilink") [Category: Quest
 Races](Category:_Quest_Races "wikilink")

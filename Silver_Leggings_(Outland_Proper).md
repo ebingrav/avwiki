@@ -23,7 +23,7 @@ There are more than one kind. Here's another:
 
 There's another that's worn by the [Gith
 Commander](Gith_Commander "wikilink"), it can be found
-[here](Silver_Leggings_(Gith_Commander) "wikilink").
+[here](Silver_Leggings_(Gith_Commander).md "wikilink").
 
 [Category:Incomplete](Category:Incomplete "wikilink") [Category:Lord
 Third Tier Tank Gear](Category:Lord_Third_Tier_Tank_Gear "wikilink")

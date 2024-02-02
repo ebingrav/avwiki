@@ -1,15 +1,15 @@
-*An imp, a devil, a [demon](Demons "wikilink"), or whatever it is... it
-seems to be a moneychanger. If you wish to have the devil hold your
+*An imp, a devil, a [demon](Demons.md "wikilink"), or whatever it is...
+it seems to be a moneychanger. If you wish to have the devil hold your
 money or wish to have Kir'tal give you some of your money back, type
 'help bank'.*
 
 **Keywords:** Kirtal, devil.  
-**[Level](Level "wikilink"):** (?).  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** (?).  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -23,15 +23,15 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Stonehall](:Category:_Stonehall "wikilink")
-([Map](Stonehall_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):**
-[Stonehall](Stonehall_(sw)_(Stonehall) "wikilink")
-([bank](:Category:_Banks "wikilink"), portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Nom](Nom "wikilink"): n, 12w, s.  
-Walking route from [Sol](Sol "wikilink"): w, s.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Stonehall](:Category:_Stonehall.md "wikilink")
+([Map](Stonehall_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):**
+[Stonehall](Stonehall_(sw)_(Stonehall).md "wikilink")
+([bank](:Category:_Banks.md "wikilink"), portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Nom](Nom.md "wikilink"): n, 12w, s.  
+Walking route from [Sol](Sol.md "wikilink"): w, s.  
 Kir'tal is portable.  
 
 [Category: Mobs In Stonehall](Category:_Mobs_In_Stonehall "wikilink")

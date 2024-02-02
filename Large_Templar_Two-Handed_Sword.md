@@ -7,18 +7,19 @@
 `It is a two handed weapon which does slicing damage.`
 
 **Keyword(s):** sword templar twohanded two  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink") [invis](Invis_Flag "wikilink")
-[magic](Magic_Flag "wikilink") [noremove](NoRemove_Flag "wikilink").  
-**[Weight](Object_Weight "wikilink"):** 7 lbs  
-**[Level(s)](Object_Level "wikilink"):** 47-49  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Area](:Category:_Areas "wikilink"):** [Alien
-Hive](:Category:_Alien_Hive "wikilink")
-([Map](Alien_Hive_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Gunther The
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink") [invis](Invis_Flag.md "wikilink")
+[magic](Magic_Flag.md "wikilink")
+[noremove](NoRemove_Flag.md "wikilink").  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 47-49  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Alien
+Hive](:Category:_Alien_Hive.md "wikilink")
+([Map](Alien_Hive_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Gunther The
 Knight](Gunther_The_Knight "wikilink")  
 
 ## Comments
@@ -28,8 +29,8 @@ Knight](Gunther_The_Knight "wikilink")
 Have passdoor on. Be invis + hidden unless you wanna fight a ton of
 aliens.  
 [Teleport](Teleport "wikilink") [terrified
-woman](Terrified_Woman "wikilink"). Walk: w n e 2n 7e 2s d w d 3e 5n e
-8s. Kill gunther.
+woman](Terrified_Woman.md "wikilink"). Walk: w n e 2n 7e 2s d w d 3e 5n
+e 8s. Kill gunther.
 
 See [Gunther The Knight](Gunther_The_Knight "wikilink") for more
 information.

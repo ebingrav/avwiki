@@ -1,20 +1,21 @@
-*On the edge of one [plane](:Category:Lord_Planes "wikilink") or
+*On the edge of one [plane](:Category:Lord_Planes.md "wikilink") or
 another, there have been hypothesized to be "bubbles" or miniature
 planes. Within one of these bubbles, called
-[Thorngate](:Category:Thorngate "wikilink") by some, sits an Inn run by
-a little man named [Bandu](Bandu "wikilink"). If you find yourself near
-[Thorngate](:Category:Thorngate "wikilink"), stop in and rest awhile.*
+[Thorngate](:Category:Thorngate.md "wikilink") by some, sits an Inn run
+by a little man named [Bandu](Bandu "wikilink"). If you find yourself
+near [Thorngate](:Category:Thorngate.md "wikilink"), stop in and rest
+awhile.*
 
 **Builder:** Crom
 
 ## Directions
 
-w, \[w\], from [Thorngate](:Category:Thorngate "wikilink") center
+w, \[w\], from [Thorngate](:Category:Thorngate.md "wikilink") center
 
 ## Connections
 
-Connects with [Thorngate Proper](:Category:Thorngate_Proper "wikilink")
-to the east
+Connects with [Thorngate
+Proper](:Category:Thorngate_Proper.md "wikilink") to the east
 
 ## Navigation
 
@@ -57,8 +58,8 @@ found the best approach to killing this room is bringing a group of 2
 casters, a tank, and a healer. If you don't bring a healer chances are
 the gas will kill your casters before you clear the room. If your
 casters are particularly buff (and wear [saving-throw
-gear](:Category:Lord_Save_Vs_Spell_Gear "wikilink")) then you might be
-able to do it without a healer.
+gear](:Category:Lord_Save_Vs_Spell_Gear.md "wikilink")) then you might
+be able to do it without a healer.
 
 Each of the five [Golden Guardians](Golden_Guardian "wikilink") holds
 two fizora gemstones. So if you clear the room your group gets to split

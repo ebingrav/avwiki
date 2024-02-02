@@ -9,13 +9,13 @@ It is a [chain
 weapon](http://avatar.melanarchy.info/index.php?title=Category:Chain_Weapons)
 which does clawing damage.  
 Flags: hum evil  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Plane](:Category:Astral_Plane "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Plane](:Category:Astral_Plane.md "wikilink")  
 Mob: [Lich Queen](Lich_Queen "wikilink")  
 
 ------------------------------------------------------------------------
 
-See [Gear In Astral Plane](:Category:Gear_In_Astral_Plane "wikilink")
+See [Gear In Astral Plane](:Category:Gear_In_Astral_Plane.md "wikilink")
 for more information.
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:Gear

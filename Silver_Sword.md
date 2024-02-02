@@ -8,8 +8,8 @@ Modifies strength by 5 continuous.
 
 Weight: 22  
 Flags: glow hum magic nolocate  
-Plane: [Outland](:Category:Outland "wikilink")  
-Area: [Outland Proper](:Category:Outland_Proper "wikilink")  
+Plane: [Outland](:Category:Outland.md "wikilink")  
+Area: [Outland Proper](:Category:Outland_Proper.md "wikilink")  
 Mob: [Githyanki Leader](Githyanki_Leader "wikilink")  
 
 ## Comments
@@ -18,14 +18,14 @@ This item is fairly good by itself and can also be used in crafting two
 t0 special items for healer or bzk ([a silver
 scepter](a_silver_scepter "wikilink") or [a silver
 staff](a_silver_staff "wikilink")) by getting demonic gems from [
-Bo'Vul's Vault](:Category:_Bo'Vul's_Vault "wikilink"). The main problem
-is that it requires the infamous "Commander run".
+Bo'Vul's Vault](:Category:_Bo'Vul's_Vault.md "wikilink"). The main
+problem is that it requires the infamous "Commander run".
 
 ------------------------------------------------------------------------
 
 See [Gear In Outland
-Proper](:Category:Gear_In_Outland_Proper "wikilink") for directions on
-how to obtain this item.
+Proper](:Category:Gear_In_Outland_Proper.md "wikilink") for directions
+on how to obtain this item.
 
 [Category: Lord Weapons](Category:_Lord_Weapons "wikilink") [Category:
 Gear In Outland Proper](Category:_Gear_In_Outland_Proper "wikilink")

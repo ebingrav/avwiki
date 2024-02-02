@@ -1,5 +1,5 @@
 *This area is part of the [Ruined
-Lairs](:Category:_Ruined_Lairs "wikilink") area.*
+Lairs](:Category:_Ruined_Lairs.md "wikilink") area.*
 
 **Level Range:** 51-51
 
@@ -7,16 +7,16 @@ Lairs](:Category:_Ruined_Lairs "wikilink") area.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\], 2s, e, 2s,
-w, open tomb, d.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\], 2s, e,
+2s, w, open tomb, d.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Groundskeeper
-man](Groundskeeper_Man "wikilink"), w, 2s, w, 2s, e, d.
+[Portaling](Portal.md "wikilink") point(s) suggested: [Groundskeeper
+man](Groundskeeper_Man.md "wikilink"), w, 2s, w, 2s, e, d.
 
 ## Connections
 
--   [Defender's Graveyard](:Category:Defender's_Graveyard "wikilink")
-    ([map](Defender's_Graveyard_Map "wikilink"))
+-   [Defender's Graveyard](:Category:Defender's_Graveyard.md "wikilink")
+    ([map](Defender's_Graveyard_Map.md "wikilink"))
 
 ## Navigation
 
@@ -31,11 +31,11 @@ Quest](Great_White_Battle_Axe_Quest "wikilink"), the Lich can be found
 d, 3e, n from the first room. Otherwise, the area is scarcely populated
 and can be cleared quickly.
 
-A warning to those [BCI](:Category:Black_Circle_Initiates "wikilink")
-(and [Berserkers](:Category:Berserkers "wikilink") as well) interested
-in running this area - the entrance door is not pickable, and there is
-no key. Losing [Pass Door](Pass_Door "wikilink") will leave you without
-an exit.
+A warning to those [BCI](:Category:Black_Circle_Initiates.md "wikilink")
+(and [Berserkers](:Category:Berserkers.md "wikilink") as well)
+interested in running this area - the entrance door is not pickable, and
+there is no key. Losing [Pass Door](Pass_Door "wikilink") will leave you
+without an exit.
 
 [Category: Ruined Lairs](Category:_Ruined_Lairs "wikilink") [Category:
 Hero Areas](Category:_Hero_Areas "wikilink")

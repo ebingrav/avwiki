@@ -1,28 +1,28 @@
 *The steel mace looks like it is of above-average quality. Fine runes
 are traced upon the side.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 15-17 to 44-50 (average 30-33).`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 15-17 to 44-50 (average 30-33).`  
 `Faintly lowers resistance to water continuous`  
 `Insignificantly increases resistance to fire continuous`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 11 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 9 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 11 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 9 continuous.`
 
 **Keyword(s):** barbed, steel, mace.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-From [Numenor](Numenor_The_Lich "wikilink"): \[w\] w s e n e n 4e 2d 4e
-n e \[n\].
+From [Numenor](Numenor_The_Lich.md "wikilink"): \[w\] w s e n e n 4e 2d
+4e n e \[n\].
 
 It's on [Gardre](Gardre "wikilink"), a level 68 unsanced non-aggie
 sneaking wandering wielding mob. Most of the nearby rooms are safe to

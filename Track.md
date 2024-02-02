@@ -1,12 +1,13 @@
 *With a careful eye and a keen focus on the surroundings, one may
 discern the signs of someone's passing. The guidance gained by using the
-track [skill](:Category:_Skills "wikilink") is sufficient to point one
-in the right direction, most of the time. A successful track is more
-likely if the [skill](:Category:_Skills "wikilink") is highly trained.*
+track [skill](:Category:_Skills.md "wikilink") is sufficient to point
+one in the right direction, most of the time. A successful track is more
+likely if the [skill](:Category:_Skills.md "wikilink") is highly
+trained.*
 
 *Tracking takes time; delays are incurred whenever a person moves and
-has to relocate the trail. The [bloodhound](Bloodhound "wikilink")
-[skill](:Category:_Skills "wikilink") can help speed the process.*
+has to relocate the trail. The [bloodhound](Bloodhound.md "wikilink")
+[skill](:Category:_Skills.md "wikilink") can help speed the process.*
 
 *Track self or track cancel will allow you to abandon the trail you are
 currently following.*
@@ -14,7 +15,7 @@ currently following.*
 Prerequisite(s): none.
 
 Syntax: track
-\<[character](:Category:_Characters "wikilink")/[mob](:Category:_Mobs "wikilink")\>.
+\<[character](:Category:_Characters.md "wikilink")/[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="Mountain.tunnels.jpg" title="Mountain.tunnels.jpg" width="650"
-alt="Mountain.tunnels.jpg" />
-<figcaption aria-hidden="true">Mountain.tunnels.jpg</figcaption>
+<img src="Mountain.tunnels.jpg.md" title="Mountain.tunnels.jpg.md"
+width="650" alt="Mountain.tunnels.jpg.md" />
+<figcaption aria-hidden="true">Mountain.tunnels.jpg.md</figcaption>
 </figure>
 
 [Eragora Walkways Map](Eragora_Walkways_Map "wikilink")  

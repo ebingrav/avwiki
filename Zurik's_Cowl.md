@@ -2,27 +2,27 @@
 chainlink mail.*
 
 `Armor class is 10-12.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 15 continuous.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -70 continuous.`
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 15 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -70 continuous.`
 
 **Keyword(s):** cowl robe robes  
 **Floor Description:** A shaman's robes lie here.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 20 lbs  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Quality](Object_Quality "wikilink"):** 200hp  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Quality](Object_Quality.md "wikilink"):** 200hp  
 
 ## Directions
 
-**[Mob](:Category:Mobs "wikilink")**: [Zurik The Elder
+**[Mob](:Category:Mobs.md "wikilink")**: [Zurik The Elder
 Shaman](Zurik_The_Elder_Shaman "wikilink")  
-**[Area](:Category:Areas "wikilink")**: [Healing
-Springs](:Category:_Healing_Springs "wikilink")
-([map](Healing_Springs_Map "wikilink"))
+**[Area](:Category:Areas.md "wikilink")**: [Healing
+Springs](:Category:_Healing_Springs.md "wikilink")
+([map](Healing_Springs_Map.md "wikilink"))
 
 ## Comments
 
@@ -33,7 +33,7 @@ However, it more than makes up in added hp bonus, as well as extremely
 low weight for an AC body piece - making it almost 4 times lighter than
 [Carburized Steel Plate Armor](Carburized_Steel_Plate_Armor "wikilink").
 This makes it a very good alternative for the low-strength and low-hp
-races (especially casters), such as [sprites](Sprite "wikilink") and
+races (especially casters), such as [sprites](Sprite.md "wikilink") and
 similar.
 
 It is difficult to enchant, but a double-brilled Cowl will be slightly

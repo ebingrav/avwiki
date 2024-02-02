@@ -4,26 +4,26 @@
 `Draw strength is 10.`
 
 **Keyword(s):** arbalest  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Bows "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Weight](Object_Weight "wikilink"):** 9 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Bows.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
 
 ## Comments
 
 It's a bow. It's a gun. It's both! You need
-[bullets](Few_Bullets "wikilink") for this (also carried by Schulz).
+[bullets](Few_Bullets.md "wikilink") for this (also carried by Schulz).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Hamlet Of
-Kreigstadt](:Category:_Hamlet_Of_Kreigstadt "wikilink")
-([Map](Hamlet_Of_Kreigstadt_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Schulz](Schulz "wikilink")
-([portable](Teleport "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Hamlet Of
+Kreigstadt](:Category:_Hamlet_Of_Kreigstadt.md "wikilink")
+([Map](Hamlet_Of_Kreigstadt_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Schulz](Schulz "wikilink")
+([portable](Teleport.md "wikilink"))  
 From [Ulrich](Ulrich "wikilink"): \[n\],2w,s,\[s\].
 
 [Category: Gear In Hamlet Of

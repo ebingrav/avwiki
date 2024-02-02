@@ -6,38 +6,39 @@ ultimately on his shoulders, and he carries it without faltering or
 resting.*
 
 **Keywords:** kzinti, commander.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"),
-[aggie](Aggressive "wikilink"), [hide](Hide "wikilink"), [detect
-hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"),
+[aggie](Aggressive.md "wikilink"), [hide](Hide.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 
 `The Kzinti commander is using :`  
-`    `<worn on body>`      `[`a`` ``gleaming`` ``suit`` ``of`` ``chainmail`](Gleaming_Suit_Of_Chainmail "wikilink")  
-`    `<wielded>`           `[`a`` ``Kzinti`` ``death`` ``claw`](Kzinti_Death_Claw "wikilink")
+`    `<worn on body>`      `[`a`` ``gleaming`` ``suit`` ``of`` ``chainmail`](Gleaming_Suit_Of_Chainmail.md "wikilink")  
+`    `<wielded>`           `[`a`` ``Kzinti`` ``death`` ``claw`](Kzinti_Death_Claw.md "wikilink")
 
 ## Comments
 
 The Kzinti commander is in a room with the [Kzinti war wizard
-](Kzinti_War_Wizard "wikilink").
+](Kzinti_War_Wizard.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kzinti
-Outpost](:Category:_Kzinti_Outpost "wikilink")
-([Map](Kzinti_Outpost_Map "wikilink")).  
-Walking route from [Kzinti weaponsmith](Kzinti_Weaponsmith "wikilink"):
-s, 2e, 2n, \[n\], n, u, \[s}, s, e, n u.  
+**[Area](:Category:_Areas.md "wikilink"):** [Kzinti
+Outpost](:Category:_Kzinti_Outpost.md "wikilink")
+([Map](Kzinti_Outpost_Map.md "wikilink")).  
+Walking route from [Kzinti
+weaponsmith](Kzinti_Weaponsmith.md "wikilink"): s, 2e, 2n, \[n\], n, u,
+\[s}, s, e, n u.  
 To get past the first locked door you must kill the 2 [Kzinti
-assassins](Kzinti_Assassin "wikilink") for [a glowing kzinti
-insignia](a_Glowing_Kzinti_Insignia "wikilink"). To get past the second
-locked door you must kill [The Kzinti field
-lieutenant](Kzinti_Field_Lieutenant "wikilink") for the [a special
-Kzinti insignia](a_Special_Kzinti_Insignia "wikilink")
+assassins](Kzinti_Assassin.md "wikilink") for [a glowing kzinti
+insignia](a_Glowing_Kzinti_Insignia.md "wikilink"). To get past the
+second locked door you must kill [The Kzinti field
+lieutenant](Kzinti_Field_Lieutenant.md "wikilink") for the [a special
+Kzinti insignia](a_Special_Kzinti_Insignia.md "wikilink")
 
 The Kzinti commander is not portable.  
 

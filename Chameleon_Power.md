@@ -1,18 +1,18 @@
 *Taking a cue from the chameleon, the
-[psionicists](:Category:_Psionicists "wikilink") have developed an easy
-way to change the appearance and coloration of body, armor, and
+[psionicists](:Category:_Psionicists.md "wikilink") have developed an
+easy way to change the appearance and coloration of body, armor, and
 equipment to blend in with the surroundings. This
-[skill](:Category:_Skills_And_Spells "wikilink") is only effective if
+[skill](:Category:_Skills_And_Spells.md "wikilink") is only effective if
 its practitioner remains absolutely still.*
 
 Prerequisite(s): none.
 
-Syntax: [chameleon](Chameleon "wikilink").
+Syntax: [chameleon](Chameleon.md "wikilink").
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is superfluous to
-[characters](:Category:_Characters "wikilink") affected by
-[Hide](Hide "wikilink"). See [Hide Flag](Hide_Flag "wikilink") for more
-information about its effects.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is superfluous
+to [characters](:Category:_Characters.md "wikilink") affected by
+[Hide](Hide.md "wikilink"). See [Hide Flag](Hide_Flag.md "wikilink") for
+more information about its effects.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

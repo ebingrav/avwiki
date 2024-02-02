@@ -1,5 +1,5 @@
-*This [skill](:Category:_Skills "wikilink") allows [open
-hand](Open_Hand "wikilink") to land successfully more often.*
+*This [skill](:Category:_Skills.md "wikilink") allows [open
+hand](Open_Hand.md "wikilink") to land successfully more often.*
 
 Prerequisite(s): none.
 

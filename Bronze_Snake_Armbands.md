@@ -1,18 +1,18 @@
 *A pair of twisting bronze snakes form a set of armbands.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 8-9.`  
-[`'sneak'`](Sneak "wikilink")` continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 8-9.`  
+[`'sneak'`](Sneak.md "wikilink")` continuous`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** armbands, snake.  
-**[Level(s)](Object_Level "wikilink"):** 36-38.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 36-38.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -23,15 +23,15 @@ using this item, instead of the Legacy.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [off-duty
-guard](Off-Duty_Guard "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [off-duty
+guard](Off-Duty_Guard.md "wikilink")
 
-pp [groundskeeper man](Groundskeeper "wikilink"), go w, 2s, 3w. Note the
-entrance to [Nocte Abbey](Nocte_Abbey "wikilink") is through the closed
-door to the west in this room.
+pp [groundskeeper man](Groundskeeper.md "wikilink"), go w, 2s, 3w. Note
+the entrance to [Nocte Abbey](Nocte_Abbey "wikilink") is through the
+closed door to the west in this room.
 
 [Category: Gear In Defender's
 Graveyard](Category:_Gear_In_Defender's_Graveyard "wikilink") [Category:

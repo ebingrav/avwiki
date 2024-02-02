@@ -1,18 +1,18 @@
 *By divine intervention of the
-[gods](:Category:_Gods_And_Goddesses "wikilink"), this
-[spell](:Category:_Spells "wikilink") blinds the target, making it much
-harder for them to see, and thus, hit, you.*
+[gods](:Category:_Gods_And_Goddesses.md "wikilink"), this
+[spell](:Category:_Spells.md "wikilink") blinds the target, making it
+much harder for them to see, and thus, hit, you.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'blindness'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'blindness'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is practically
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is practically
 never used.
 
 See also [Gear That Applies
-Blindness](:Category:_Gear_That_Applies_Blindness "wikilink").
+Blindness](:Category:_Gear_That_Applies_Blindness.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

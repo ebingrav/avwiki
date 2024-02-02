@@ -15,8 +15,8 @@ for entry. The password is: sx451oi56
 ## Adventuring
 
 This area is a modified version of [Dark
-Castle](:Category:_Dark_Castle "wikilink")
-([Map](Dark_Castle_Map "wikilink"))
+Castle](:Category:_Dark_Castle.md "wikilink")
+([Map](Dark_Castle_Map.md "wikilink"))
 
 [Category: Gear in Darker
 Castle](Category:_Gear_in_Darker_Castle "wikilink") [Category: Shard

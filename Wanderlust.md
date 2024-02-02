@@ -1,11 +1,11 @@
-*When using the wanderlust [skill](:Category:_Skills "wikilink"), the
-[archer](:Category:_Archers "wikilink") will move faster from place to
-place, but will consume more movement than usual doing so. Note that as
-wanderlust is a walking [skill](:Category:_Skills "wikilink"), it is not
-compatible with the [movement cost](Movement_Costs "wikilink") reduction
-granted by [flying](Flying_Flag "wikilink").*
+*When using the wanderlust [skill](:Category:_Skills.md "wikilink"), the
+[archer](:Category:_Archers.md "wikilink") will move faster from place
+to place, but will consume more movement than usual doing so. Note that
+as wanderlust is a walking [skill](:Category:_Skills.md "wikilink"), it
+is not compatible with the [movement cost](Movement_Costs.md "wikilink")
+reduction granted by [flying](Flying_Flag.md "wikilink").*
 
-Prerequisite(s): [Farstride](Farstride "wikilink").
+Prerequisite(s): [Farstride](Farstride.md "wikilink").
 
 Syntax: wanderlust.
 

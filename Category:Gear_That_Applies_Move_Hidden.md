@@ -1,5 +1,5 @@
 See also [Move Hidden](Move_Hidden "wikilink") and [Move Hidden
-Gear](:Category:Move_Hidden_Gear "wikilink")
+Gear](:Category:Move_Hidden_Gear.md "wikilink")
 
 [Category:Gear That Applies Skills And
 Spells](Category:Gear_That_Applies_Skills_And_Spells "wikilink")

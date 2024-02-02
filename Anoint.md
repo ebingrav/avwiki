@@ -1,11 +1,12 @@
 *A holy person may anoint a corpse with a blessing, preserving it a bit
 longer than naturally possible. Anoint achieves the same goal as
-[embalm](Embalm "wikilink") but does not require
-[bandages](Some_Bandages "wikilink").*
+[embalm](Embalm.md "wikilink") but does not require
+[bandages](Some_Bandages.md "wikilink").*
 
-Prerequisite(s): [Embalm](Embalm "wikilink"), [Bless](Bless "wikilink").
+Prerequisite(s): [Embalm](Embalm.md "wikilink"),
+[Bless](Bless.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'anoint' <corpse>.
+Syntax: [cast](Cast.md "wikilink") 'anoint' <corpse>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

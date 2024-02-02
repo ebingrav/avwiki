@@ -13,7 +13,7 @@ robes. steadfast, very aggressive, and demonically aligned
 </td>
 <td>
 
-[Black Veil](Black_Veil_(Veil_of_Ecstasy) "wikilink")
+[Black Veil](Black_Veil_(Veil_of_Ecstasy).md "wikilink")
 
 </td>
 </tr>

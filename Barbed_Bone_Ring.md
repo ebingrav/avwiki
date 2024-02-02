@@ -1,17 +1,17 @@
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`constitution`](Constitution "wikilink")` by 1 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 5 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 5 continuous.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12`
 
 **Keyword(s):** barbed, bone, ring.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <on finger>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lb.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [sharp](Sharp_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <on finger>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lb.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [sharp](Sharp_Flag.md "wikilink").  
 
 ## Comments
 
@@ -19,7 +19,7 @@ This ring is found in Cloud Dracoleum and is a reward from a quest.
 
 Kill all the bone dragons in the area and a large dragon ([Bone
 Goliath](Bone_Goliath "wikilink"), level 103) will show up. Its corpse
-can be [skinned](:Category:Skin_Items "wikilink") into this item.
+can be [skinned](:Category:Skin_Items.md "wikilink") into this item.
 
 When the last bone/zombie dragon dies you will see this message:
 
@@ -29,12 +29,12 @@ When the last bone/zombie dragon dies you will see this message:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-([Map](Cloud_Dracoleum_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
-[Portaling](Portal "wikilink") point(s) suggested:
-[Svlad](Svlad_The_Very_Burly "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+([Map](Cloud_Dracoleum_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Svlad](Svlad_The_Very_Burly.md "wikilink").
 
 [Category: Gear In Cloud
 Dracoleum](Category:_Gear_In_Cloud_Dracoleum "wikilink") [Category:

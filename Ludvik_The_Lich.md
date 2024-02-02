@@ -4,11 +4,11 @@ island above provides, he can not only live forever but also spread his
 vile craft and influence throughout the world.*
 
 **Keywords:** Ludvik, Lich, ???.  
-**[Level](Level "wikilink"):** 115.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"), ???.  
+**[Level](Level.md "wikilink"):** 115.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), ???.  
 
 ## Gear
 

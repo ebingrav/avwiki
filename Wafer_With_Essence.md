@@ -55,7 +55,8 @@ Level 55 spells of: 'sanctuary' 'cure critical'.
 </td>
 <td>
 
-[Padmasa](:Category:_Padmasa "wikilink") ([Map](Padmasa_Map "wikilink"))
+[Padmasa](:Category:_Padmasa.md "wikilink")
+([Map](Padmasa_Map.md "wikilink"))
 
 </td>
 </tr>
@@ -74,7 +75,7 @@ Level 55 spells of: 'sanctuary' 'cure critical'.
 </table>
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 [Category: Gear In Padmasa](Category:_Gear_In_Padmasa "wikilink")
 [Category: Pills](Category:_Pills "wikilink") [Category: Hero

@@ -14,20 +14,21 @@ Walking route from [Eragora default
 recall](Eragora_default_recall "wikilink"):
 
 Twin walking routes exist - one is to walk to [Sun God
-Altar](:Category:Sun_God_Altar "wikilink"), move 1e to [Halfling's
-Paradise](:Category:Halfling's_Paradise "wikilink"), and then go e, n,
-w, 5n towards the first entrance, or alternatively, run the length of
+Altar](:Category:Sun_God_Altar.md "wikilink"), move 1e to [Halfling's
+Paradise](:Category:Halfling's_Paradise.md "wikilink"), and then go e,
+n, w, 5n towards the first entrance, or alternatively, run the length of
 the Paradise's underground layer towards the lower entrance.
 
-[Portaling](Portal "wikilink") point(s) suggested: none (all cursed).
+[Portaling](Portal.md "wikilink") point(s) suggested: none (all cursed).
 
-Closest (discovered) is [clam girl](Clam-digger "wikilink") in the
+Closest (discovered) is [clam girl](Clam-digger.md "wikilink") in the
 Paradise, from her go n, w, 5n towards the Quarries.
 
 ## Connections
 
--   [Halfling's Paradise](:Category:Halfling's_Paradise "wikilink"),
--   [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink") (one-way).
+-   [Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink"),
+-   [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+    (one-way).
 
 ## Navigation
 
@@ -37,11 +38,11 @@ layers, the lower layer being the quarries internal principal connector,
 under which the local cloud can be found.
 
 The mines are two semi-linear passages, one towards the [Halfling's
-Paradise](:Category:Halfling's_Paradise "wikilink")'s lower area, and
+Paradise](:Category:Halfling's_Paradise.md "wikilink")'s lower area, and
 the other towards the [Mountain
-Tunnels](:Category:Mountain_Tunnels "wikilink"). You can't return from
-the Mountain Tunnels, but it shouldn't matter if you entered through
-this connection.
+Tunnels](:Category:Mountain_Tunnels.md "wikilink"). You can't return
+from the Mountain Tunnels, but it shouldn't matter if you entered
+through this connection.
 
 Entire area is cursed so no recalling or teleportation is possible.
 

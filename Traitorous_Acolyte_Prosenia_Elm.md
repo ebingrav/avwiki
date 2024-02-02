@@ -7,15 +7,15 @@ Matching knives drop from her sleeves into her waiting hands; a
 practiced move that may be the last such flourish you ever live to see!*
 
 **Keywords:** prosenia, elm.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
 **Affects:** invis, sanctuary.  
 
 ## Gear
 
 `Traitorous Acolyte Prosenia Elm is using:`  
-<held in offhand>`      `[`a`` ``long,`` ``curved`` ``knife`](A_Long,_Curved_Knife "wikilink")  
-<wielded>`           `[`a`` ``long,`` ``curved`` ``knife`](A_Long,_Curved_Knife "wikilink")
+<held in offhand>`      `[`a`` ``long,`` ``curved`` ``knife`](A_Long,_Curved_Knife.md "wikilink")  
+<wielded>`           `[`a`` ``long,`` ``curved`` ``knife`](A_Long,_Curved_Knife.md "wikilink")
 
 `Traitorous Acolyte Prosenia Elm is carrying:`  
 `     (Magical) the mad ramblings of Prosenia Elm`

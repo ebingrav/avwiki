@@ -4,27 +4,27 @@ hold in your hand is a human eye, staring at its surrounding with silent
 disgust.*
 
 **Keyword(s):** staring eye ball jelly  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[nolocate](Nolocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[nolocate](Nolocate_Flag.md "wikilink").  
 .  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in the [NaamAhn'Sa
-Token Quest](NaamAhn'Sa_Token_Quest "wikilink")
+This [ticket](:Category:_Tickets.md "wikilink") is used in the
+[NaamAhn'Sa Token Quest](NaamAhn'Sa_Token_Quest "wikilink")
 
 ## Directions
 
 See [NaamAhn'Sa Token Quest](NaamAhn'Sa_Token_Quest "wikilink") for more
 information.  
-[Portaling](Portal "wikilink") point(s) suggested: [NaamSa
-Scribe](Scribe "wikilink").  
+[Portaling](Portal.md "wikilink") point(s) suggested: [NaamSa
+Scribe](Scribe.md "wikilink").  
 
 [Category: Tickets](Category:_Tickets "wikilink") [Category: Gear In
 Isle Of

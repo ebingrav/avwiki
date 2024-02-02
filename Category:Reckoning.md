@@ -12,14 +12,14 @@ weakening. Time is short, venture there if you dare....*
 ## Directions
 
 To get to the top of the sphere (first room of Reckoning, great place to
-regen), go 3dwd from [Water](:Category:Water "wikilink") shift. Down
+regen), go 3dwd from [Water](:Category:Water.md "wikilink") shift. Down
 from there is the core, which is the center of the four elemental
 portions of the area.
 
 ## Connections
 
 The entrance to this area from [water
-proper](:Category:Plane_Of_Water "wikilink") is one way. There are no
+proper](:Category:Plane_Of_Water.md "wikilink") is one way. There are no
 other connections to any other areas.
 
 ## Navigation
@@ -41,14 +41,15 @@ most of the air mobs are gassy. Once your group starts to show signs of
 fatigue you should make your way back to the "top of the sphere" for
 regen. If there's too many mobs between your group and the regen spot I
 would suggest teleporting to [water
-proper](:Category:Plane_Of_Water "wikilink") (pp wyrm - <b>note: wyrms
-now tail</b>) or [planeshifting](planeshift "wikilink") to
-[Thorngate](:Category:Thorngate "wikilink"). This area is notorious for
-splattering groups who push their luck.
+proper](:Category:Plane_Of_Water.md "wikilink") (pp wyrm - <b>note:
+wyrms now tail</b>) or [planeshifting](planeshift "wikilink") to
+[Thorngate](:Category:Thorngate.md "wikilink"). This area is notorious
+for splattering groups who push their luck.
 
 Besides exp, the other reason groups come here is to get a
 [Lodestone](Lodestone "wikilink"). See [Gear In
-Reckoning](:Category:Gear_In_Reckoning "wikilink") for more information.
+Reckoning](:Category:Gear_In_Reckoning.md "wikilink") for more
+information.
 
 [Category:Water](Category:Water "wikilink") [Category:Lord
 Areas](Category:Lord_Areas "wikilink")

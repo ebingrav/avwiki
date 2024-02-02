@@ -4,11 +4,11 @@ spirits died young and in battle. This is obvious from the bloody
 clothing they wear and the fact that one of them is missing an arm.*
 
 **Keywords:** manes.  
-**[Level](Level "wikilink"):** 20.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[undead](Undead_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 20.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -25,12 +25,12 @@ This mob is involved in the [Manes Quest](Manes_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Royal Midgaard
-Library](:Category:_Royal_Midgaard_Library "wikilink")
-([Map](Royal_Midgaard_Library_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Rare Books Section
+**[Area](:Category:_Areas.md "wikilink"):** [Royal Midgaard
+Library](:Category:_Royal_Midgaard_Library.md "wikilink")
+([Map](Royal_Midgaard_Library_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Rare Books Section
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 4w, 4n, u, s, w.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 4w, 4n, u, s, w.  
 Manes is portable.  
 
 [Category: Mobs In Royal Midgaard

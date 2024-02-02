@@ -11,9 +11,9 @@ which it hangs has been replaced many times.*
 **Levels:** Levels 50-52  
 **Weight:** 2 lbs  
 **Bases:** 1-12  
-**Flags:** [magic](Magic_Flag "wikilink")  
-**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink"))  
+**Flags:** [magic](Magic_Flag.md "wikilink")  
+**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink"))  
 **Mob:**  
 
 ## Comments

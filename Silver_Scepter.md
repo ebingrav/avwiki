@@ -7,17 +7,17 @@ Modifies armor class by -22 continuous
 
 Weight: 5  
 Flags: glow hum magic lghtnng-ward  
-Plane: silver sword from [Outland](:Category:Outland "wikilink")  
+Plane: silver sword from [Outland](:Category:Outland.md "wikilink")  
 Area: silver sword from [Outland
-Proper](:Category:Outland_Proper "wikilink")  
+Proper](:Category:Outland_Proper.md "wikilink")  
 Mob: silver sword from [Githyanki Leader](Githyanki_Leader "wikilink")  
 
 ## Comments
 
 This item is crafted from the [Silver Sword](Silver_Sword "wikilink") by
 getting [Demonic Lapis Lazuli](Demonic_Lapis_Lazuli "wikilink") gems
-from [ Bo'Vul's Vault](:Category:_Bo'Vul's_Vault "wikilink"). The armor
-class is affected by the perfect gem used to create it.
+from [ Bo'Vul's Vault](:Category:_Bo'Vul's_Vault.md "wikilink"). The
+armor class is affected by the perfect gem used to create it.
 
 A diamond produces a -22 ac item. Ruby or emerald produces -18ac, an
 amethyst produces a -15 ac item.

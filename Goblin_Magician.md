@@ -13,12 +13,12 @@ gentlest voice, "A cleric has located a tome of particular import. If
 you retrieve this manual, I shall reward you handsomely."*
 
 **Keywords:** goblin, magician.  
-**[Level](Level "wikilink"):** 15.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 15.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -29,10 +29,10 @@ Quest](Goblin_Magician_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ascension
-Woods](:Category:_Ascension_Woods "wikilink")
-([Map](Ascension_Woods_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** On air (portable).  
+**[Area](:Category:_Areas.md "wikilink"):** [Ascension
+Woods](:Category:_Ascension_Woods.md "wikilink")
+([Map](Ascension_Woods_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** On air (portable).  
 Walking route from [Nom](Nom "wikilink"): n, 8w, s, 3e, 4s, e, 3s, e,
 2s, w, s, u.
 
@@ -40,7 +40,7 @@ Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 4s, e, 3s, e, 2s,
 w, s, u.
 
 Note that these walking routes cross water and air, so you will require
-[flying](Fly "wikilink").
+[flying](Fly.md "wikilink").
 
 The goblin magician is portable.  
 

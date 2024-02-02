@@ -1,8 +1,8 @@
 *Little is known of this temple, other than its only entrance can be
 found deep within a cave high in a mountain range. Observers have
-reported seeing [gnome](Gnomes "wikilink") dragoons forcing people from
-nearby villages into the temple under heavy guard -- the villagers were
-never seen again.*
+reported seeing [gnome](Gnomes.md "wikilink") dragoons forcing people
+from nearby villages into the temple under heavy guard -- the villagers
+were never seen again.*
 
 **Level Range:** 51-51
 
@@ -10,19 +10,19 @@ never seen again.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, w, 10s, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, w, 10s, w.
 
-Walking route from [Ulrich](Ulrich "wikilink"): n, w, 4s, w.
+Walking route from [Ulrich](Ulrich.md "wikilink"): n, w, 4s, w.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Dragoon
+[Portaling](Portal.md "wikilink") point(s) suggested: [Dragoon
 Guard](Dragoon_Guard "wikilink") (portable and sentinel, but not the
 only one in game. If portal fails, use 3.dragoon guard).
 
 ## Connections
 
--   [Hamlet Of Kreigstadt](:Category:Hamlet_Of_Kreigstadt "wikilink")
-    ([map](Hamlet_Of_Kreigstadt_Map "wikilink"))
+-   [Hamlet Of Kreigstadt](:Category:Hamlet_Of_Kreigstadt.md "wikilink")
+    ([map](Hamlet_Of_Kreigstadt_Map.md "wikilink"))
 
 ## Navigation
 

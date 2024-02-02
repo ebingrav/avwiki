@@ -6,7 +6,7 @@ Flags: evil nodrop nolocate
 Weight: 1  
 Mob: [Hidden Anxiety](Hidden_Anxiety "wikilink")  
 Area: [Kzinti Spire Of
-Knowledge](:Category:Kzinti_Spire_Of_Knowledge "wikilink")  
+Knowledge](:Category:Kzinti_Spire_Of_Knowledge.md "wikilink")  
 See [Ceremonial Sword Of The High King's
 Champion](Ceremonial_Sword_Of_The_High_King's_Champion "wikilink") for
 more information.

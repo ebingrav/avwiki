@@ -8,7 +8,7 @@ Hero archers and fusiliers can learn this skill at sub-lvl 250. There's
 currently no help file for Explosive Stones but they work the same as
 the arrows except in slings instead of bows. The exhaustion is one hour
 of logged on time (although it does not list in the [affects
-command](Affects "wikilink") and you are not notified when it is
+command](Affects.md "wikilink") and you are not notified when it is
 exhausted). It is also important to have *config -savespell* when
 getting rid of this invisible exhaust.
 

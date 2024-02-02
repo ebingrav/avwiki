@@ -5,9 +5,9 @@ significantly far from your home. Recall set is now a very important
 command. Finally, this level range is the one in which you really begin
 to get a solid feel for the class you have chosen.
 
--   [Archer Gear](:Category:_Lowmort_21-30_Archer_Gear "wikilink")
--   [Hit Gear](:Category:_Lowmort_21-30_Hit_Gear "wikilink")
--   [Mana Gear](:Category:_Lowmort_21-30_Mana_Gear "wikilink")
--   [Tank Gear](:Category:_Lowmort_21-30_Tank_Gear "wikilink")
+-   [Archer Gear](:Category:_Lowmort_21-30_Archer_Gear.md "wikilink")
+-   [Hit Gear](:Category:_Lowmort_21-30_Hit_Gear_.md "wikilink")
+-   [Mana Gear](:Category:_Lowmort_21-30_Mana_Gear_.md "wikilink")
+-   [Tank Gear](:Category:_Lowmort_21-30_Tank_Gear_.md "wikilink")
 
 [Category: Lowmort](Category:_Lowmort "wikilink")

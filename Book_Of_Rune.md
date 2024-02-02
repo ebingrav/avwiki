@@ -1,17 +1,18 @@
 *A rune-covered book lies here. Loose papers jut from its pages.*  
 **Keyword(s):** book of rune  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[spellbook](:Category:_Spellbooks "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink") [nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[spellbook](:Category:_Spellbooks.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink")
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
 Reading this spellbook will give a
-[wizard](:Category:Wizards "wikilink") 95% knowledge of the spell
+[wizard](:Category:Wizards.md "wikilink") 95% knowledge of the spell
 [Rune](Rune "wikilink").
 
 ## Directions
@@ -37,8 +38,8 @@ From the Naamsa Scribe, go e e s s e n n
 
 Unlock down and go d s w s w to find [Shiaana
 NaamTer'Sa](Shiaana_NaamTer'Sa "wikilink"), tougher mobs (including
-[changelings](Shapeshifting_Mobs "wikilink")) so be prepared for a big
-fight.
+[changelings](Shapeshifting_Mobs.md "wikilink")) so be prepared for a
+big fight.
 
 Note: There are actually 3 domes and 3 gold disks in the underground
 area. Each gold disk unlocks 1 of 3 doors down to the where Shiaana is.
@@ -55,8 +56,8 @@ difficult to solo at any level.
 
 Mob: [Shiaana NaamTer'Sa](Shiaana_NaamTer'Sa "wikilink")  
 Area: [Isle Of
-NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho "wikilink")
-([Map](Isle_Of_NaamBres'Shho_Map "wikilink"))  
+NaamBres'Shho](:Category:_Isle_Of_NaamBres'Shho.md "wikilink")
+([Map](Isle_Of_NaamBres'Shho_Map.md "wikilink"))  
 
 [Category: Gear In Isle Of
 NaamBres'Shho](Category:_Gear_In_Isle_Of_NaamBres'Shho "wikilink")

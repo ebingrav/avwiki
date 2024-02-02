@@ -4,7 +4,7 @@
 
 Recently relics from a bygone era have begun appearing throughout the
 planes. These [mysterious
-cubes](:Category:Transmogrify_Cubes "wikilink") contain the power to
+cubes](:Category:Transmogrify_Cubes.md "wikilink") contain the power to
 infuse ingredients together to form new and wonderous creations.
 
 In order to utilise their power, place a base item along with enchanting
@@ -60,8 +60,8 @@ transmogrifications.*
 ` `[`familiar`` ``mane`](familiar_mane "wikilink")`                               mana         hold    125      3     25 `[`the`` ``Seal`` ``of`` ``the`` ``Abbot`](the_Seal_of_the_Abbot "wikilink")  
 ` `[`Crown`` ``of`` ``the`` ``Ages`](Crown_of_the_Ages "wikilink")`                         stasis   about body    125      3      5 `[`twinkling`` ``stars`](twinkling_stars "wikilink")  
 ` `[`Crown`` ``of`` ``the`` ``Ages`](Crown_of_the_Ages "wikilink")`                       leeching   about body    125      3     -5 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
-` `[`Seal`` ``of`` ``the`` ``Abbot`](the_Seal_of_the_Abbot "wikilink")`                         divine   about body    125      1      5 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
-` `[`Seal`` ``of`` ``the`` ``Abbot`](the_Seal_of_the_Abbot "wikilink")`                           fire   about body    125      1      5 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
+` `[`Seal`` ``of`` ``the`` ``Abbot`](the_Seal_of_the_Abbot.md "wikilink")`                         divine   about body    125      1      5 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
+` `[`Seal`` ``of`` ``the`` ``Abbot`](the_Seal_of_the_Abbot.md "wikilink")`                           fire   about body    125      1      5 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
 ` `[`black`` ``bracer`](black_bracer "wikilink")`                         armor class   about body    125      3    -10 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
 ` `[`cretelli`` ``tooth`](cretelli_tooth "wikilink")`                          hit roll   about body    125      3      2 `[`twinkling`` ``stars`](twinkling_stars "wikilink")` `  
 ` `[`Jade`` ``gauntlet`](Jade_gauntlet "wikilink")`                           hit roll         legs    125      3      1 `[`the`` ``greaves`` ``of`` ``desolation`](the_greaves_of_desolation "wikilink")  
@@ -74,14 +74,14 @@ transmogrifications.*
 ` `[`Random`` ``Ring`](Random_Ring "wikilink")`                                 mana      on body    125      4     60 `[`aura`` ``of`` ``corruption`](aura_of_corruption "wikilink")  
 ` `[`Whip`` ``of`` ``thorns`](Whip_of_thorns "wikilink")`                          hit roll      on body    125      4      2 `[`aura`` ``of`` ``corruption`](aura_of_corruption "wikilink")  
 ` `[`Whip`` ``of`` ``thorns`](Whip_of_thorns "wikilink")`                       damage roll      on body    125      4      2 `[`aura`` ``of`` ``corruption`](aura_of_corruption "wikilink")  
-` `[`Gyrosphinx's`` ``token`](A_Token_of_the_Gyrosphinx "wikilink")`              death xp reduced      on body    125      1     20 `[`aura`` ``of`` ``corruption`](aura_of_corruption "wikilink")  
+` `[`Gyrosphinx's`` ``token`](A_Token_of_the_Gyrosphinx.md "wikilink")`              death xp reduced      on body    125      1     20 `[`aura`` ``of`` ``corruption`](aura_of_corruption "wikilink")  
 ` `[`Black`` ``velvet`` ``cape`](Black_velvet_cape "wikilink")`                    armor class      on body    125      3    -20 `[`aura`` ``of`` ``corruption`](aura_of_corruption "wikilink")  
 ` `[`A`` ``golden`` ``torque`](A_golden_torque "wikilink")`                             mana        hands    125      5     40 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
-` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest "wikilink")`                     hit roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
-` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest "wikilink")`                  damage roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
-` `[`Entish`` ``Blood`](Vial_Of_Ent's_Blood "wikilink")`                         armor class        hands    125      5     -5 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
+` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest.md "wikilink")`                     hit roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
+` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest.md "wikilink")`                  damage roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
+` `[`Entish`` ``Blood`](Vial_Of_Ent's_Blood.md "wikilink")`                         armor class        hands    125      5     -5 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
 ` `[`Gish`` ``blood`](Gish_blood "wikilink")`                                  mana         head    125      4     30 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
-` `[`Survivor`` ``tattoo`](Survivor_tattoo_(Lord) "wikilink")`                      damage roll         head    125      4      2 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
+` `[`Survivor`` ``tattoo`](Survivor_tattoo_(Lord).md "wikilink")`                      damage roll         head    125      4      2 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
 ` `[`Violet`` ``psi-blade`](Violet_psi-blade "wikilink")`             kinetic damage roll         head    125      4      3 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
 ` `[`Violet`` ``psi-blade`](Violet_psi-blade "wikilink")`                        hit roll         head    125      4      3 `[`the`` ``Helm`` ``of`` ``Apocalypse`](the_Helm_of_Apocalypse "wikilink")  
 ` `[`Alpha`` ``glimmerskin`](Alpha_glimmerskin "wikilink")`                           mana         arms    125      5     20 `[`ethereal`` ``bracers`](ethereal_bracers "wikilink")  
@@ -104,26 +104,26 @@ at all to the base item.
 Ingredients and base items come from limited lord shard realms which are
 modified versions of hero areas. The hero area version of the items do
 not work as ingredients or base items for [the
-cube](:Category:Transmogrify_Cubes "wikilink").
+cube](:Category:Transmogrify_Cubes.md "wikilink").
 
 Base Items:
 
 -   [the Seal of the Abbot](the_Seal_of_the_Abbot "wikilink") ([Echo
-    Monastery](:Category:Echo_Monastery "wikilink"))
+    Monastery](:Category:Echo_Monastery.md "wikilink"))
 -   [twinkling stars](twinkling_stars "wikilink") ([Tssasskkas's Lair
-    Redux](:Category:Tssasskkas's_Lair_Redux "wikilink"))
+    Redux](:Category:Tssasskkas's_Lair_Redux.md "wikilink"))
 -   [the greaves of desolation](the_greaves_of_desolation "wikilink")
-    ([Darker Castle](:Category:Darker_Castle "wikilink"))
+    ([Darker Castle](:Category:Darker_Castle.md "wikilink"))
 -   [aura of corruption](aura_of_corruption "wikilink") ([Borley's
-    Bond](:Category:Borley's_Bond "wikilink"))
+    Bond](:Category:Borley's_Bond.md "wikilink"))
 -   [Verdant Gloves](Verdant_Gloves "wikilink")
-    ([Overgrowth](:Category:Overgrowth "wikilink"))
+    ([Overgrowth](:Category:Overgrowth.md "wikilink"))
 -   [the Helm of Apocalypse](the_Helm_of_Apocalypse "wikilink")
-    ([Kwalashai](:Category:Kwalashai "wikilink"))
+    ([Kwalashai](:Category:Kwalashai.md "wikilink"))
 -   [ethereal bracers](ethereal_bracers "wikilink") ([Flayer
-    Keep](:Category:Flayer_Keep "wikilink"))
+    Keep](:Category:Flayer_Keep.md "wikilink"))
 -   [marble boots](marble_boots "wikilink") ([Silmavar
-    Lost](:Category:Silmavar_Lost "wikilink"))
+    Lost](:Category:Silmavar_Lost.md "wikilink"))
 
 [Category: Lord Mage Spells](Category:_Lord_Mage_Spells "wikilink")
 [Category: Lord Cleric Spells](Category:_Lord_Cleric_Spells "wikilink")

@@ -7,15 +7,15 @@
 **Keywords**: jozarill's black belt gold silver threads  
 **Flags**: magic nolocate  
 **Weight**: 10  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
 **Area**: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 **Mob**: [Jozarill](Jozarill "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

@@ -3,24 +3,24 @@ the island to pieces. Something must be provoking them to rage...*
 
 **Keywords:** surf.  
 **Scan Description:** The raging surf threatens to drown you.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** ??, ??, ??.  
 
 ## Comments
 
 Popular portal point for [Tainted
-Isle](:Category:_Tainted_Isle "wikilink").
+Isle](:Category:_Tainted_Isle.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tainted
-Isle](:Category:_Tainted_Isle "wikilink")
-([Map](Tainted_Isle_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Amid whitecaps (Water)
+**[Area](:Category:_Areas.md "wikilink"):** [Tainted
+Isle](:Category:_Tainted_Isle.md "wikilink")
+([Map](Tainted_Isle_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Amid whitecaps (Water)
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
 The Raging Surf is portable.  
 
 [Category: Mobs In Tainted

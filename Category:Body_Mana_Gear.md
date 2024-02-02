@@ -16,28 +16,28 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 [Blood Red Tunic](Blood_Red_Tunic "wikilink"), [Chamorro
 Ringmail](Chamorro_Ringmail "wikilink"), [Tourist's
 Tunic](Tourist's_Tunic "wikilink"), [White
 Nightgown](White_Nightgown "wikilink")
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 ?
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Black Leather Corset](Black_Leather_Corset "wikilink"), [Ink Black
 Robe](Ink_Black_Robe "wikilink")
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Patron's Robes](Patron's_Robes "wikilink"), [Riithi Shaman's
 Robes](Riithi_Shaman's_Robes "wikilink")
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 [Armour Of Faith](Armour_Of_Faith "wikilink"), [Robes Of Grey
 Silk](Robes_Of_Grey_Silk "wikilink")
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Gold Chased Armor](Gold_Chased_Armor "wikilink")(50), [Master's Robe Of
 Water](Master's_Robe_Of_Water "wikilink")(40), [Plain Blue
 Robe](Plain_Blue_Robe "wikilink")(50), [Mnephrikos's
@@ -47,7 +47,7 @@ Tunic](Sea-Bleached_Tunic "wikilink")(50), [Tight Blue
 Gown](Tight_Blue_Gown "wikilink")(20), [White Leather
 Dress](White_Leather_Dress "wikilink")(50)
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

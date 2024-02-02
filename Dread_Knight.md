@@ -6,11 +6,11 @@ jeweled sword, with a matching scabbard hung around its waist.*
 **Level**: 68
 
 `A dread knight is using:`  
-`  `<worn about waist>`  (Magical) `[`a`` ``jeweled`` ``scabbard`](Jeweled_Scabbard "wikilink")  
-`  `<wielded>`           (Magical) (Glowing) `[`a`` ``jeweled`` ``sword`](Jeweled_Sword "wikilink")
+`  `<worn about waist>`  (Magical) `[`a`` ``jeweled`` ``scabbard`](Jeweled_Scabbard.md "wikilink")  
+`  `<wielded>`           (Magical) (Glowing) `[`a`` ``jeweled`` ``sword`](Jeweled_Sword.md "wikilink")
 
 `You peek at the inventory:`  
-`    [Pristine  ] `[`a`` ``jeweled`` ``bottle`](Jeweled_Bottle "wikilink")
+`    [Pristine  ] `[`a`` ``jeweled`` ``bottle`](Jeweled_Bottle.md "wikilink")
 
 [Category: Mobs In Silmavar
 Labyrinth](Category:_Mobs_In_Silmavar_Labyrinth "wikilink")

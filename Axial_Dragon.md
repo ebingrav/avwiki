@@ -7,9 +7,9 @@ erradicated if found in her presence.*
 **Keywords:** axial, dragon.  
 **Scan Description:** (White Aura) Light gleams and sparkles off of the
 perfect scales of a large dragon.  
-**[Level](Level "wikilink"):** 235.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** 235.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** Sanctuary, ??.  
 
 ## Gear
@@ -31,12 +31,12 @@ previously saluted him.
 <font color=gray>Include as many of these lines as are true/useful and
 delete those that are not:</font>
 
-**[Area](:Category:_Areas "wikilink"):**
-([Map](AreaName_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** White Strands
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):**
+([Map](AreaName_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** White Strands
+([cursed](Cursed_Rooms.md "wikilink")).  
 
-[Domain of Law](Category:Domain_of_Law "wikilink") [Category:Lord
+[Domain of Law](Category:Domain_of_Law.md "wikilink") [Category:Lord
 Areas](Category:Lord_Areas "wikilink")
 [Category:Astral](Category:Astral "wikilink") [Category:Domain of
 Law](Category:Domain_of_Law "wikilink") [Category:Domain of

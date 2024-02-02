@@ -1,23 +1,23 @@
-*The first Fusiliers were [gnomish](Gnomes "wikilink"),
-[dwarvish](Dwarves "wikilink") and [halfling](Halflings "wikilink")
-heroes during the Great Wars when the Giants of Straul devastated the
-world. Armed with little more than
-[slings](:Category:_Slings "wikilink"), throwing axes and boomerangs,
+*The first Fusiliers were [gnomish](Gnomes.md "wikilink"),
+[dwarvish](Dwarves.md "wikilink") and
+[halfling](Halflings.md "wikilink") heroes during the Great Wars when
+the Giants of Straul devastated the world. Armed with little more than
+[slings](:Category:_Slings.md "wikilink"), throwing axes and boomerangs,
 they fought enemies five times their size and prevailed. This tradition
 continues in the Fusilier [Prestige
-Class](:Category:_Prestige_Classes "wikilink"). They are adept at
+Class](:Category:_Prestige_Classes.md "wikilink"). They are adept at
 abusing their small size to confound larger opponents, are highly
-skilled with [slings](:Category:_Slings "wikilink") and [throwing
-weapons](:Category:_Throwing_Weapons "wikilink").*
+skilled with [slings](:Category:_Slings.md "wikilink") and [throwing
+weapons](:Category:_Throwing_Weapons.md "wikilink").*
 
-*Like all [Prestige Classes](:Category:_Prestige_Classes "wikilink"),
+*Like all [Prestige Classes](:Category:_Prestige_Classes.md "wikilink"),
 they retain the original class's [Prime
-Requisite](Prime_Requisite "wikilink"), in this case,
-[Dexterity](Dexterity "wikilink"). Fusiliers cannot become
-[Assassins](:Category:_Assassins "wikilink"), like
-[Archers](:Category:_Archers "wikilink") can.*
+Requisite](Prime_Requisite.md "wikilink"), in this case,
+[Dexterity](Dexterity.md "wikilink"). Fusiliers cannot become
+[Assassins](:Category:_Assassins.md "wikilink"), like
+[Archers](:Category:_Archers.md "wikilink") can.*
 
-*Given that Fusiliers hunt [giants](Giants "wikilink"), the few who
+*Given that Fusiliers hunt [giants](Giants.md "wikilink"), the few who
 remain might be found in the vicinity of their prey.*
 
 *Requirements:  
@@ -28,15 +28,15 @@ remain might be found in the vicinity of their prey.*
 
 **Abbreviation:** Fus.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Archer](:Category:_Archers "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Archer](:Category:_Archers.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Dexterity](Dexterity "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Dexterity](Dexterity.md "wikilink").
 
 ## Fusiliers in General
 
-Fusiliers are similar to [archers](:Category:_Archers "wikilink") in
+Fusiliers are similar to [archers](:Category:_Archers.md "wikilink") in
 their abilities, but gameplay is somewhat different. Unlike archers who
 work best while being tanked, fusiliers are at their best while either
 tanking or solo adventuring. This is not to say that in groups they
@@ -86,7 +86,7 @@ Ignatur), Gnome/Deep Gnome and Halfling.
 Popular remort races include:
 
 -   [Ignatur](Ignatur "wikilink") for their hardiness (high HP and best
-    [racial armor](:Racial_Armorancient "wikilink"))
+    [racial armor](:Racial_Armorancient.md "wikilink"))
 -   [Sprite](Sprite "wikilink") for their extra dodge and bonuses
     against small sized enemies.
 -   [Demonseed](Demonseed "wikilink") for their very high dexterity and
@@ -106,10 +106,11 @@ can scatter 2 extra stones if being tanked for even more damage. To keep
 track of all stone hits have CONFIG +BATTLESELF configured.
 
 Another aspect of Fusilier gameplay is their proficiency with [ thrown
-weapons](:Category:Throwing_Weapons "wikilink"). When scattershoting is
-impractical (hero groups moving quickly, one-rounding mobs, or lack of
-ammo) thrown weapons can give a moderate boost to damage, but they will
-require foddering and often pick-up triggers, lest they be left behind.
+weapons](:Category:Throwing_Weapons.md "wikilink"). When scattershoting
+is impractical (hero groups moving quickly, one-rounding mobs, or lack
+of ammo) thrown weapons can give a moderate boost to damage, but they
+will require foddering and often pick-up triggers, lest they be left
+behind.
 
 ### Training
 
@@ -144,8 +145,8 @@ the need for - so it depends on your personal gameplay style.
 
 Worship and devotion choices are identical to archers.
 
-See: [Archer Worship](:Category:Archers#Worshipping "wikilink") and
-[Archer Devoting](:Category:Archers#Devoting "wikilink") for more
+See: [Archer Worship](:Category:Archers#Worshipping.md "wikilink") and
+[Archer Devoting](:Category:Archers#Devoting.md "wikilink") for more
 information.
 
 ### Fighting
@@ -196,7 +197,7 @@ Collar](Namure's_Leather_Collar "wikilink")) can help.
 ## Fusiliers at Lord Tier
 
 See [Archers at lord
-tier](:Category:Archers#Archers_at_Lord_Tier "wikilink").
+tier](:Category:Archers#Archers_at_Lord_Tier.md "wikilink").
 
 Fusiliers can do even better damage than archers using
 [scattershot](scattershot "wikilink") to fire 9 stones per round. The
@@ -219,6 +220,6 @@ fletched.
 
 [Sprites](Sprites "wikilink") and [demonseeds](demonseeds "wikilink")
 are good options for remort. Fusiliers cannot remort to
-[assassins](:Category:_Assassins "wikilink"), like archers can.
+[assassins](:Category:_Assassins.md "wikilink"), like archers can.
 
 [Category: Prestige Classes](Category:_Prestige_Classes "wikilink")

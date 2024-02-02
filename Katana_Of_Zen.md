@@ -1,31 +1,31 @@
 *Made of folded metal, it is a work of deadly art that only the
-[monks](:Category:_Monks "wikilink") of the Buddhist Temples still
+[monks](:Category:_Monks.md "wikilink") of the Buddhist Temples still
 remember.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 11-12 to 35-39 (average 23-25).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 8 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 11-12 to 35-39 (average 23-25).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 8 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** katana.  
-**[Level(s)](Object_Level "wikilink"):** 37-39.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 37-39.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [the
-ex-samurai](Ex-Samurai "wikilink").  
-See [the ex-samurai](Ex-Samurai "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [the
+ex-samurai](Ex-Samurai.md "wikilink").  
+See [the ex-samurai](Ex-Samurai.md "wikilink") for more information.  
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Standard One-Or-Two-Handed

@@ -8,18 +8,18 @@ quest).
 
 This is a solo quest, as relevant rooms are private.
 
--   Teleport to [Big Fish](Big_Fish_In_Cold_Water "wikilink") and move
-    3s, 2e, s, e, s, open w, w, d.
--   Murder [whimpering man](Whimpering_Man "wikilink") an retrieve a
-    [small black orb](Small_Black_Orb "wikilink") from his corpse.
--   Teleport to [Big Fish](Big_Fish_In_Cold_Water "wikilink") and move
-    6e to [Stormkeep](:Category:Stormkeep "wikilink")
-    ([map](Stormkeep_Map "wikilink")), and then into the keep, all the
-    way up until you reach [Icewolf](Icewolf_(mob) "wikilink"): 5n, 3w,
-    s, 3w, n, e, n, u, e, s, w, u, e, n.
+-   Teleport to [Big Fish](Big_Fish_In_Cold_Water.md "wikilink") and
+    move 3s, 2e, s, e, s, open w, w, d.
+-   Murder [whimpering man](Whimpering_Man.md "wikilink") an retrieve a
+    [small black orb](Small_Black_Orb.md "wikilink") from his corpse.
+-   Teleport to [Big Fish](Big_Fish_In_Cold_Water.md "wikilink") and
+    move 6e to [Stormkeep](:Category:Stormkeep.md "wikilink")
+    ([map](Stormkeep_Map.md "wikilink")), and then into the keep, all
+    the way up until you reach [Icewolf](Icewolf_(mob).md "wikilink"):
+    5n, 3w, s, 3w, n, e, n, u, e, s, w, u, e, n.
 -   Kill Icewolf and loot the key and the fang.
 -   Unlock n, move n, give fang statue.
--   Move s, give [small black orb](Small_Black_Orb "wikilink") to
+-   Move s, give [small black orb](Small_Black_Orb.md "wikilink") to
     [Onaan](Onaan "wikilink").
 -   Be transported into ANOTHER room (of the same name and description),
     with aggressive Onaan. (If you die to him now, you will need to

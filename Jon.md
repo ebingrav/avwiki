@@ -6,10 +6,10 @@ middling hunter and is known to make a few of his own goods for trade to
 select customers.*
 
 **Keywords:** jon, hunter  
-**[Level](Level "wikilink"):** 69.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink").  
+**[Level](Level.md "wikilink"):** 69.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink").  
 **Affects:** ??.  
 
 ## Comments
@@ -20,8 +20,9 @@ Spawns [Rojer](Rojer "wikilink") when killed.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Deepways
-](:Category:_Deepways "wikilink") ([Map](Deepways_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Deepways
+](:Category:_Deepways.md "wikilink")
+([Map](Deepways_Map.md "wikilink")).  
 
 [Category: Mobs In Deepways](Category:_Mobs_In_Deepways "wikilink")
 [Category: Shopkeepers](Category:_Shopkeepers "wikilink")

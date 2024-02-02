@@ -7,15 +7,15 @@
 
 *It is a one handed weapon which does slashing damage.*
 
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
-Area: [Under The Stars](:Category:Under_The_Stars "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
+Area: [Under The Stars](:Category:Under_The_Stars.md "wikilink")  
 Mob: [Ethereal Stalker](Ethereal_Stalker "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Under The
-Stars](:Category:Gear_In_Under_The_Stars "wikilink") for directions on
-how to obtain this item.
+Stars](:Category:Gear_In_Under_The_Stars.md "wikilink") for directions
+on how to obtain this item.
 
 [Category: Lord Save Vs Spell
 Gear](Category:_Lord_Save_Vs_Spell_Gear "wikilink") [Category: Lord

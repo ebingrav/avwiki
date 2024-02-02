@@ -13,8 +13,8 @@
 Slot: arms  
 Flags: glow hum invis major-ward.  
 Weight: 1  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Flayer Keep](:Category:Flayer_Keep "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Flayer Keep](:Category:Flayer_Keep.md "wikilink")  
 Mob: [Alhoon](Alhoon "wikilink")  
 
 ## Comments

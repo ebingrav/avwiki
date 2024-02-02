@@ -18,7 +18,7 @@ Floating in nothing. Have to find it.
 
 ## Navigation
 
-Map is similar to [Midgaard's](Midgaard "wikilink") [Borley
+Map is similar to [Midgaard's](Midgaard.md "wikilink") [Borley
 Manor](Borley_Manor "wikilink")
 
 ## Adventuring

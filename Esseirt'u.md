@@ -5,8 +5,8 @@ this post.*
 
 ## Diplomatic Corps
 
-Esseirt'u represents [Sprites](Sprites "wikilink") and [High
-Elves](High_Elves "wikilink") in the Diplomatic Corps.
+Esseirt'u represents [Sprites](Sprites.md "wikilink") and [High
+Elves](High_Elves.md "wikilink") in the Diplomatic Corps.
 
 ## Quest Clues
 
@@ -100,23 +100,18 @@ Elves](High_Elves "wikilink") in the Diplomatic Corps.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Diplomatic
-Corps](:Category:_Diplomatic_Corps "wikilink")
-([Map](Diplomatic_Corps_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A mission from the mystical and
-mysterious ([safe](Safe_Rooms "wikilink"),
-[cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Diplomatic
+Corps](:Category:_Diplomatic_Corps.md "wikilink")
+([Map](Diplomatic_Corps_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A mission from the mystical
+and mysterious ([safe](Safe_Rooms.md "wikilink"),
+[cursed](Cursed_Rooms.md "wikilink")).  
 
 ## Areas by Level of DC
 
-| DC Number | Areas                                                                                                                                                                          |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| One       | [The Carnival](The_Carnival "wikilink"), [Sarphyre's Court](Sarphyre's_Court "wikilink"), [Westwood Outlook](Westwood_Outlook "wikilink"), [Oak Circle](Oak_Circle "wikilink") |
-| Two       | [Thrall Swamp](Thrall_Swamp "wikilink"), [Mt Durr](Mt_Durr "wikilink"), [Kingdom of the Willows](Kingdom_of_the_Willows "wikilink"), [Igecsoz](Igecsoz "wikilink")             |
-| Three     | [Lake Triumph](Lake_Triumph "wikilink"), [Korred Grove](Korred_Grove "wikilink"), [Zin's Hall of Oddities](Zin's_Hall_of_Oddities "wikilink"), [Wildwood](Wildwood "wikilink") |
-| Four      | [Tortured Terrain](Tortured_Terrain "wikilink"), [The Frozen Court](The_Frozen_Court "wikilink"), [A House of Stone](A_House_of_Stone "wikilink"), [Houses](Houses "wikilink") |
-| Five      | [The Abyss](The_Abyss "wikilink"), [Valley of the Sun](Valley_of_the_Sun "wikilink"), [The Graves of Reveria](The_Graves_of_Reveria "wikilink")                                |
-|           |                                                                                                                                                                                |
+| DC Number | Areas                                                                                                                                                                                 |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| One       | [The Carnival](The_Carnival "wikilink"), [Sarphyre's Court](Sarphyre's_Court "wikilink"), [Westwood Outlook](Westwood_Outlook "wikilink"), [Oak Circle](Oak_Circle "wikilink") .md\|- |
 
 Walking route from [Aelmon](Aelmon "wikilink"): 8n, 7w, \[s\], d, 2n,
 2w, u, 3w, s

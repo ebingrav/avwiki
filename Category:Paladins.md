@@ -32,15 +32,15 @@ opened to worshippers of all Deities, resulting in a widening of the
 skills sought for and granted.*
 
 *Paladins are a class only available through re-mortality by
-[Warriors](:Category:_Warriors "wikilink"),
-[Bodyguards](:Category:_Bodyguards "wikilink"),
-[Monks](:Category:_Monks "wikilink") and
-[Clerics](:Category:_Clerics "wikilink").*
+[Warriors](:Category:_Warriors.md "wikilink"),
+[Bodyguards](:Category:_Bodyguards.md "wikilink"),
+[Monks](:Category:_Monks.md "wikilink") and
+[Clerics](:Category:_Clerics.md "wikilink").*
 
 **Abbreviation:** Pal.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Strength](Strength "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Strength](Strength.md "wikilink").
 
 ## Paladins in General
 
@@ -92,10 +92,10 @@ At level 25, get access to Oath, which permits them an extra attack
 
 At level 35, Paladins can report to [Aleryia](Aleryia "wikilink"), the
 elven smith (also in the Hall of Paladins), to obtain their [paladin
-greatsword](Paladin_Weapon "wikilink"). At this level, they can add the
-enhancements Attack (+2/+2) or Defence (-20AC) to their weapon. A new
-weapon, to replace their current weapon, can be crafted, with different
-enhancements, at any time.
+greatsword](Paladin_Weapon.md "wikilink"). At this level, they can add
+the enhancements Attack (+2/+2) or Defence (-20AC) to their weapon. A
+new weapon, to replace their current weapon, can be crafted, with
+different enhancements, at any time.
 
 ### Worshipping
 
@@ -138,8 +138,9 @@ None.
 
 Paladins usually serve as hitters at hero. They hit extremely well now.
 They can also serve as rescuers in groups using their [
-heroic](Heroic_Boon "wikilink") and [ joined](Joined_Boon "wikilink")
-[boons](:Category:Paladin_Boons "wikilink") to good effect.
+heroic](Heroic_Boon.md "wikilink") and [
+joined](Joined_Boon.md "wikilink")
+[boons](:Category:Paladin_Boons.md "wikilink") to good effect.
 
 ### Training
 
@@ -185,10 +186,10 @@ healing.
 
 **Soloing:** Paladins hit extremely well now and soloing is a very
 viable option. One suggestion is to use full hr/dr, using
-[severity/severity on your Greatsword](Paladin_Weapon "wikilink"),
-taking an [Oath of War](Oath "wikilink"), buffing yourself with [Holy
-Zeal](Holy_Zeal "wikilink"), [Prayer: Precision](Prayer "wikilink"), and
-[Fervor](Fervor "wikilink"), and sticking to small areas such as
+[severity/severity on your Greatsword](Paladin_Weapon.md "wikilink"),
+taking an [Oath of War](Oath.md "wikilink"), buffing yourself with [Holy
+Zeal](Holy_Zeal "wikilink"), [Prayer: Precision](Prayer.md "wikilink"),
+and [Fervor](Fervor "wikilink"), and sticking to small areas such as
 [Displacer Beast](Displacer_Beast "wikilink") or
 [Ajuu](Ajuu "wikilink").
 
@@ -229,14 +230,14 @@ as much damage as running in hitgear, and more consistent.
 More importantly, any assimilated spell can apply *stun*, which is
 hugely useful. Stun will prevent mobs from fleeing or using combat
 abilities, healing in particular. Neyne recommends running with one
-[shock weapon mod](Paladin_Weapon "wikilink") at all times, regardless
-of whatever else you're speccing your paladin to do. Being able to
-target a walkin healer mob and hope for a stun can prevent it from
-turning the tide of a battle against you. Boost its consistency midrun
-with the **stupefy prayer**.
+[shock weapon mod](Paladin_Weapon.md "wikilink") at all times,
+regardless of whatever else you're speccing your paladin to do. Being
+able to target a walkin healer mob and hope for a stun can prevent it
+from turning the tide of a battle against you. Boost its consistency
+midrun with the **stupefy prayer**.
 
-When tanking, the [defence weapon mod](Paladin_Weapon "wikilink") gets a
-big upgrade at lord, but race specific protections like *silver*,
+When tanking, the [defence weapon mod](Paladin_Weapon.md "wikilink")
+gets a big upgrade at lord, but race specific protections like *silver*,
 *essence*, and *judgement* will be better against giths, elementals, and
 demons, respectively. **Prayer of deflection** does help noticeably;
 Neyne recommends it when backup tanking the occasional combat round in

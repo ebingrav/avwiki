@@ -1,34 +1,38 @@
-*There are [objects](:Category:_Objects "wikilink") of magic in our
+*There are [objects](:Category:_Objects.md "wikilink") of magic in our
 mysterious world that can be used to [cast
-spells](:Category:_Spellcasting_Gear "wikilink"). These
-[wands](:Category:_Wands "wikilink") and
-[staves](:Category:_Staves "wikilink") do not simply work for anybody
-who waves them around... the [wielder](Wield "wikilink") of these
-[items](:Category:_Objects "wikilink") must know how to focus and
+spells](:Category:_Spellcasting_Gear.md "wikilink"). These
+[wands](:Category:_Wands.md "wikilink") and
+[staves](:Category:_Staves.md "wikilink") do not simply work for anybody
+who waves them around... the [wielder](Wield.md "wikilink") of these
+[items](:Category:_Objects.md "wikilink") must know how to focus and
 trigger the energy within these
-[objects](:Category:_Objects "wikilink"). Arcane Knowledge is a general
-knowledge of how to utilize magic [wands](:Category:_Wands "wikilink")
-and [staves](:Category:_Staves "wikilink"). Without it, they are simply
-[items](:Category:_Objects "wikilink") to show off at the nearest Inn.*
+[objects](:Category:_Objects.md "wikilink"). Arcane Knowledge is a
+general knowledge of how to utilize magic
+[wands](:Category:_Wands.md "wikilink") and
+[staves](:Category:_Staves.md "wikilink"). Without it, they are simply
+[items](:Category:_Objects.md "wikilink") to show off at the nearest
+Inn.*
 
-Prerequisite(s): [Magic Lore](Magic_Lore "wikilink").
+Prerequisite(s): [Magic Lore](Magic_Lore.md "wikilink").
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is often highly
-useful to [characters](:Category:_Characters "wikilink") of spellcasting
-[classes](:Category:_Classes "wikilink") (like
-[psionicists](:Category:_Psionicists "wikilink"),
-[mages](:Category:_Mages "wikilink"), and
-[clerics](:Category:_Clerics "wikilink")). It enables
-[characters](:Category:_Characters "wikilink") to
-[brandish](Brandish "wikilink") [wands](:Category:_Wands "wikilink") and
-[staves](:Category:_Staves "wikilink"), which allows them to
-[cast](Cast "wikilink") [spells](:Category:_Spells "wikilink") like
-[Heal](Heal_(spell) "wikilink") or [Sanctuary](Sanctuary "wikilink") on
-many [characters](:Category:_Characters "wikilink") simultaneously while
-consuming [brandishes](:Category:_Brandishes "wikilink") rather than
-[mana](Mana_Points "wikilink").
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is often highly
+useful to [characters](:Category:_Characters.md "wikilink") of
+spellcasting [classes](:Category:_Classes.md "wikilink") (like
+[psionicists](:Category:_Psionicists.md "wikilink"),
+[mages](:Category:_Mages.md "wikilink"), and
+[clerics](:Category:_Clerics.md "wikilink")). It enables
+[characters](:Category:_Characters.md "wikilink") to
+[brandish](Brandish.md "wikilink")
+[wands](:Category:_Wands.md "wikilink") and
+[staves](:Category:_Staves.md "wikilink"), which allows them to
+[cast](Cast.md "wikilink") [spells](:Category:_Spells.md "wikilink")
+like [Heal](Heal_(spell).md "wikilink") or
+[Sanctuary](Sanctuary.md "wikilink") on many
+[characters](:Category:_Characters.md "wikilink") simultaneously while
+consuming [brandishes](:Category:_Brandishes.md "wikilink") rather than
+[mana](Mana_Points.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

@@ -24,8 +24,9 @@ NOTE: Herothank ONLY works on Heroes, NOT Lowmorts, Lords, Angels, or
 Immortals.
 
 Herothank will give the recipient either two [hit
-points](Hit_Points "wikilink"), [mana points](Mana_Points "wikilink"),
-[move points](Move_Points "wikilink") or [practice
-points](Practice_Points "wikilink") at random.
+points](Hit_Points.md "wikilink"), [mana
+points](Mana_Points.md "wikilink"), [move
+points](Move_Points.md "wikilink") or [practice
+points](Practice_Points.md "wikilink") at random.
 
 [Category: Commands](Category:_Commands "wikilink")

@@ -1,12 +1,12 @@
-*[Druids](:Category:_Druids "wikilink") who
-[practice](Practice "wikilink") this
-[skill](:Category:_Skills_And_Spells "wikilink") may
-[fletch](Fletch "wikilink") [moonshard
-arrows](Moonshard_Arrows "wikilink").*
+*[Druids](:Category:_Druids.md "wikilink") who
+[practice](Practice.md "wikilink") this
+[skill](:Category:_Skills_And_Spells.md "wikilink") may
+[fletch](Fletch.md "wikilink") [moonshard
+arrows](Moonshard_Arrows.md "wikilink").*
 
 These arrows, created by ancient drow, cast an affect similar to the
-[Sorcerer](:Category:Sorcerers "wikilink") spell
-[unrest](Unrest "wikilink"), in addition to doing damage. The spell,
+[Sorcerer](:Category:Sorcerers.md "wikilink") spell
+[unrest](Unrest.md "wikilink"), in addition to doing damage. The spell,
 delivered in such a visceral manner, is harder for enemies to resist.
 
 Note: These arrows are only "useful" when mobs fire them **at** the
@@ -16,8 +16,8 @@ types.
 
 Prerequisite(s): none.
 
-Syntax: [fletch](Fletch "wikilink")
-\<[arrows](:Category:_Arrows "wikilink")/[bolts](:Category:_Bolts "wikilink")\>
+Syntax: [fletch](Fletch.md "wikilink")
+\<[arrows](:Category:_Arrows.md "wikilink")/[bolts](:Category:_Bolts.md "wikilink")\>
 moonshard.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

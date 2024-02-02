@@ -41,14 +41,14 @@ existence of this terrible, unsanctioned source of lots and lots of free
 gold.
 
 **Level Range:** ALL  
-**Builder:** AVATAR (LRA), [Iktinos](User:Iktinos "wikilink") (Arx
+**Builder:** AVATAR (LRA), [Iktinos](User:Iktinos.md "wikilink") (Arx
 Nivea)
 
 ## Directions
 
 -   LRA Sanctum Branch
 
-From [Sanctum](:Category:Sanctum "wikilink"), go up.
+From [Sanctum](:Category:Sanctum.md "wikilink"), go up.
 
 -   LRA Midgaard Branch
 
@@ -65,7 +65,7 @@ Quaestorium.
 
 ## Connections
 
-It's connected to [Sanctum](:Category:Sanctum "wikilink").
+It's connected to [Sanctum](:Category:Sanctum.md "wikilink").
 
 ## Navigation
 

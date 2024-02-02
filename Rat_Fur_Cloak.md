@@ -4,8 +4,8 @@
 <b>Weight:</b> 5  
 <b>Level:</b> 10-11  
 <b>Mob:</b> Enormous Rat  
-<b>Area:</b> [Houses](:Category:_Houses "wikilink")
-([Map](House_Of_Wax_Map "wikilink"))  
+<b>Area:</b> [Houses](:Category:_Houses.md "wikilink")
+([Map](House_Of_Wax_Map.md "wikilink"))  
 Dirs: From [Aelmon](Aelmon "wikilink") go 8s;e;s;2e;2n;w;n;e;n;\[d\] In
 that room will be a hidden rat. Be warned that the rat can poison you
 with its bite.

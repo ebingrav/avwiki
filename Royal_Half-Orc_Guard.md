@@ -7,8 +7,8 @@ is an honor or a punishment.*
 
 A royal half-orc guard is using:
 
-<worn on body>`      `[`heavy`` ``chainmail`](Heavy_Chainmail "wikilink")  
-<worn on head>`      `[`horned`` ``helm`](Horned_Helm_(Healing_Springs)‎ "wikilink")  
+<worn on body>`      `[`heavy`` ``chainmail`](Heavy_Chainmail.md "wikilink")  
+<worn on head>`      `[`horned`` ``helm`](Horned_Helm_(Healing_Springs)‎.md "wikilink")  
 <wielded>`           `[`Obsidian-Tipped`` ``Spear`](Obsidian-Tipped_Spear "wikilink")
 
 ## Comments
@@ -19,7 +19,7 @@ These guys can stack up to three deep, and, as wielders, they can do
 some damage if allowed multiple rounds of combat.
 
 One of them should be holding the [iron key with dried
-blood](Iron_Key_With_Dried_Blood "wikilink"), which you will need to
+blood](Iron_Key_With_Dried_Blood.md "wikilink"), which you will need to
 progress to the two gear mobs beyond.
 
 ## Directions

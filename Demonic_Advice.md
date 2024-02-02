@@ -9,10 +9,10 @@ demon in the after-life.)*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'demonic advice'.
+Syntax: [cast](Cast.md "wikilink") 'demonic advice'.
 
-This [spell](:Category:_Spells "wikilink") has no practical value except
-for entertainment, much like a Magic 8 Ball in real life.
+This [spell](:Category:_Spells.md "wikilink") has no practical value
+except for entertainment, much like a Magic 8 Ball in real life.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

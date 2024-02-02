@@ -10,8 +10,8 @@
 Type: light  
 Extra Flags: glow anti-good  
 Weight: 0  
-Plane: [Arcadia](:Category:Arcadia "wikilink")  
-Area: [Fantasy Forest](:Category:Fantasy_Forest "wikilink")  
+Plane: [Arcadia](:Category:Arcadia.md "wikilink")  
+Area: [Fantasy Forest](:Category:Fantasy_Forest.md "wikilink")  
 Mob: [Chimerical Beholder](Chimerical_Beholder "wikilink")  
 Skin the beholder's corpse to get the eye. Needs harmonization.
 

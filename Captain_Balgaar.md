@@ -9,16 +9,17 @@ captain and his party need to escape to safety as soon as possible.*
 **Keywords:** Captain, Balgaar, dwarf  
 **Level:** 24  
 **[Alignment](Alignment "wikilink"):** angelic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
-**Affects:** [infravision](Infravision "wikilink"),
-[endurance](Endurance "wikilink"), [sanctuary](Sanctuary "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink"),
+[endurance](Endurance.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink")  
 
 ### Gear
 
 `Captain Balgaar is using:`  
-<worn on body>`      `[`an`` ``iron`` ``cuirass`](Iron_Cuirass "wikilink")  
-<wielded>`           `[`stonehall`` ``hammer`](Stonehall_Hammer "wikilink")
+<worn on body>`      `[`an`` ``iron`` ``cuirass`](Iron_Cuirass.md "wikilink")  
+<wielded>`           `[`stonehall`` ``hammer`](Stonehall_Hammer.md "wikilink")
 
 ### Comments
 
@@ -27,11 +28,11 @@ Quest](Walking_Woods_Plague_Quest "wikilink").
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [The Walking
-Woods](:Category:Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** Walking along the forest canopy
-(portable)  
+**[Area](:Category:Areas.md "wikilink"):** [The Walking
+Woods](:Category:Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** Walking along the forest
+canopy (portable)  
 **Walking Route from [Nom](Nom "wikilink"):** 4s 6e s 2e s 2e 2n e u n  
 **Walking Route from [Aelmon](Aelmon "wikilink"):** 17w 2n e u n  
 **Walking Route from [Terrified Goblin](Terrified_Goblin "wikilink"):**

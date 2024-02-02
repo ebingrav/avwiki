@@ -1,27 +1,28 @@
 *A translucent shield hovers here in the air!*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-6.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-6.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`
 
 **Keyword(s):** spirit, shield.  
-**[Level(s)](Object_Level "wikilink"):** 23-25.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 23-25.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a spirit
-guard](Spirit_Guard "wikilink").  
-See [a spirit guard](Spirit_Guard "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a spirit
+guard](Spirit_Guard.md "wikilink").  
+See [a spirit guard](Spirit_Guard.md "wikilink") for more information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category: Lowmort 21-30

@@ -2,19 +2,19 @@
 stomach. They clump together, providing little area to attack the
 wearer's midsection.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 8-10.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -15 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 8-10.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -15 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** dangling vines  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 4 lbs  
-**[Level(s)](Object_Level "wikilink"):** 38-40  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 38-40  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
@@ -23,10 +23,10 @@ which was grandfathered in March 2013.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Flipside
-Altar](:Category:_Flipside_Altar "wikilink")
-([Map](Flipside_Altar_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Head Of Glasya's
+**[Area](:Category:_Areas.md "wikilink"):** [ Flipside
+Altar](:Category:_Flipside_Altar.md "wikilink")
+([Map](Flipside_Altar_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Head Of Glasya's
 Statue](Head_Of_Glasya's_Statue "wikilink")  
 
 [Category: Gear In Flipside

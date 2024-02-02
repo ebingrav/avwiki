@@ -1,13 +1,13 @@
 *Peering through yellow eyes with oval pupils, the shaman gazes
 thoughtfully at you. She seems to be looking at and through you at the
 same time. Except for the almost reptile like eyes, she appears
-[human](Human "wikilink"), though bent by age. Her soft buffalo robes
+[human](Human.md "wikilink"), though bent by age. Her soft buffalo robes
 are plain but decorated by beads and mystic symbols. "Welcome to my
 cave. I am Odertha, shaman and only living member of the Qass. My clan
 has lived here on the [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink") for many generations. Many
-moons ago, we were camped just outside the Great Rock Spires. Then a
-great rock fell from the sky, striking the heart of the Spires. All of
+Prairie](:Category:_Qanza_Prairie.md "wikilink") for many generations.
+Many moons ago, we were camped just outside the Great Rock Spires. Then
+a great rock fell from the sky, striking the heart of the Spires. All of
 my kin within the Spires were slain at once, but their spirits were
 trapped within the rocks. The rock also brought a great plague to those
 camped outside the Spires. I was here at the time, and was spared, but
@@ -21,11 +21,11 @@ enough to free my kin. Please help those you can to find rest. It is too
 late for some, but I know that several can still be freed."*
 
 **Keywords:** Odertha, shaman.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[healer](:Category:_Healers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[healer](:Category:_Healers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -39,24 +39,24 @@ late for some, but I know that several can still be freed."*
 ## Comments
 
 Odertha is involved in [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")'s [Waterskin
-Quest](Waterskin_Quest "wikilink") and [Well Crafted Qass Short Spear
-Quest](Well_Crafted_Qass_Short_Spear_Quest "wikilink").
+Prairie](:Category:_Qanza_Prairie.md "wikilink")'s [Waterskin
+Quest](Waterskin_Quest.md "wikilink") and [Well Crafted Qass Short Spear
+Quest](Well_Crafted_Qass_Short_Spear_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")
-([Map](Qanza_Prairie_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The shaman's cave (portable,
-[safe](Safe_Rooms "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):** [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")
+([Map](Qanza_Prairie_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The shaman's cave
+(portable, [safe](Safe_Rooms.md "wikilink")).
 
-Walking route from [Sol](Sol "wikilink"): 2e, n, 2w, s, 2w, s, d, w, u,
-n, 6w, n, 2w, n, w, s, 2w, n, w, n, 2w, 2n, 2w, 4n, w,
-[enter](Enter "wikilink") cave.  
-Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3n, 3w, n,
-w, n, 2w, s, 2w, s, d, w, u, n, 6w, n, 2w, n, w, s, 2w, n, w, n, 2w, 2n,
-2w, 4n, w, [enter](Enter "wikilink") cave.  
+Walking route from [Sol](Sol.md "wikilink"): 2e, n, 2w, s, 2w, s, d, w,
+u, n, 6w, n, 2w, n, w, s, 2w, n, w, n, 2w, 2n, 2w, 4n, w,
+[enter](Enter.md "wikilink") cave.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17w, s, 5w, 3n, 3w,
+n, w, n, 2w, s, 2w, s, d, w, u, n, 6w, n, 2w, n, w, s, 2w, n, w, n, 2w,
+2n, 2w, 4n, w, [enter](Enter.md "wikilink") cave.  
 Odertha is portable.
 
 [Category: Mobs In Qanza

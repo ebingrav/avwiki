@@ -3,18 +3,18 @@ epitome of his race. A little smile is on his face, and his eyes seem to
 measure you up.*
 
 **Keywords:** statue, drow, cleric.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[cleric](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[cleric](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Statue of the Drow Cleric is using:`  
-<held>`              (Glowing) `[`the`` ``staff`` ``of`` ``power`](Staff_Of_Power "wikilink")
+<held>`              (Glowing) `[`the`` ``staff`` ``of`` ``power`](Staff_Of_Power.md "wikilink")
 
 `The enchanter is carrying:`  
 `     Nothing.`
@@ -23,11 +23,11 @@ invisible](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple Of
-Utami](:Category:_Temple_Of_Utami "wikilink")
-([Map](Temple_Of_UtamiMap "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The throne room
-([cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Temple Of
+Utami](:Category:_Temple_Of_Utami.md "wikilink")
+([Map](Temple_Of_UtamiMap.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The throne room
+([cursed](Cursed_Rooms.md "wikilink")).  
 Walking route from [Merline](Merline "wikilink"): s,\[s\],s,w.
 
 [Category: Mobs In Temple Of

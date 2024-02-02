@@ -1,12 +1,12 @@
-*A [spell](:Category:_Spells "wikilink") of benevolence, a touch of
+*A [spell](:Category:_Spells.md "wikilink") of benevolence, a touch of
 grace calls upon the caster's chosen
-[deity](:Category:_Gods_And_Goddesses "wikilink") to heal a weak mortal
-soul in Midgaardia. Because of the spirit of the spell, the heal is done
-anonymously.*
+[deity](:Category:_Gods_And_Goddesses.md "wikilink") to heal a weak
+mortal soul in Midgaardia. Because of the spirit of the spell, the heal
+is done anonymously.*
 
-Prerequisite(s): [Saving Grace](Saving_Grace "wikilink").
+Prerequisite(s): [Saving Grace](Saving_Grace.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'touch of grace'.
+Syntax: [cast](Cast.md "wikilink") 'touch of grace'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

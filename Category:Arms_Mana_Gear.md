@@ -16,21 +16,21 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 ?
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 [Cloud Tattoos](Cloud_Tattoos "wikilink"), [Shimmering Silver
 Runes](Shimmering_Silver_Runes "wikilink")
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Mark Of The Veldri](Mark_Of_The_Veldri "wikilink")
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 [Black Bracer](Black_Bracer "wikilink")
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Armbands Of Elemental Fury](Armbands_Of_Elemental_Fury "wikilink")(40),
 [Armbands Of Elemental
 Harmony](Armbands_Of_Elemental_Harmony "wikilink")(40), [Armbands Of
@@ -40,7 +40,7 @@ Bones](Fossilized_Dragon_Bones "wikilink")(20), [Sapphire Studded
 Sleeves](Sapphire_Studded_Sleeves "wikilink")(15), [Sleeves Of The
 Phoenix](Sleeves_Of_The_Phoenix "wikilink")(20)
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

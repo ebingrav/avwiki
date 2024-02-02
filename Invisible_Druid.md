@@ -2,9 +2,9 @@
 except by the well-trained eye. He waits.*
 
 **Keywords:** druid, invisible.  
-**[Level](Level "wikilink"):** 40.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**Affects:** [invisible](invis "wikilink").  
+**[Level](Level.md "wikilink"):** 40.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**Affects:** [invisible](invis.md "wikilink").  
 
 ## Gear
 
@@ -12,7 +12,7 @@ except by the well-trained eye. He waits.*
 `Nothing.`
 
 `An invisible druid is carrying:`  
-`     `[`a`` ``bottle`` ``of`` ``tentacle`` ``slime`](Bottle_of_Tentacle_Slime "wikilink")
+`     `[`a`` ``bottle`` ``of`` ``tentacle`` ``slime`](Bottle_of_Tentacle_Slime.md "wikilink")
 
 .
 
@@ -20,11 +20,11 @@ except by the well-trained eye. He waits.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Forest](:Category:_Shadow_Forest "wikilink")
-([Map](Shadow_Forest_Map "wikilink")).  
-Walking route from [white druid](White_Haired_Druid "wikilink"): e, s,
-e, e, d, s, w.
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Forest](:Category:_Shadow_Forest.md "wikilink")
+([Map](Shadow_Forest_Map.md "wikilink")).  
+Walking route from [white druid](White_Haired_Druid.md "wikilink"): e,
+s, e, e, d, s, w.
 
 Invisible druid wanders among last 3 rooms.
 

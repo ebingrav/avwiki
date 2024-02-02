@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Mob_Factory_map_web.png‎" title="Mob_Factory_map_web.png‎"
-width="800" alt="Mob_Factory_map_web.png‎" />
-<figcaption aria-hidden="true">Mob_Factory_map_web.png‎</figcaption>
+<img src="Mob_Factory_map_web.png‎.md" title="Mob_Factory_map_web.png‎.md"
+width="800" alt="Mob_Factory_map_web.png‎.md" />
+<figcaption aria-hidden="true">Mob_Factory_map_web.png‎.md</figcaption>
 </figure>
 
 [Meadow Map](Meadow_Map "wikilink")  

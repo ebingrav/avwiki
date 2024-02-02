@@ -7,15 +7,15 @@ Avalon crumbles to the ground, mortally wounded.*
 is not enough to resurrect this now-forgotten place.*
 
 **Keyword(s):** half, ring, jagged, shards, diamond, obsidian.  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 8 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 8 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink").  
 
 ## Comments
 
@@ -23,21 +23,21 @@ This object is used in the creation of the [Once-Sundered
 Ring](Once-Sundered_Ring "wikilink").
 
 The only way to tell this ticket apart from [the other
-ticket](Half_Of_The_Sundered_Ring_(Duke) "wikilink") needed is by the
+ticket](Half_Of_The_Sundered_Ring_(Duke).md "wikilink") needed is by the
 description. Previously the halves spawned with 8 hp (Duke) and 10 hp
 (Queen), however this was changed some years back and now they both have
 8hp. Check description before buying!
 
 ### Directions
 
-**Plane:** [Noctopia](:Category:Noctopia "wikilink")  
-**[Area](:Category:_Areas "wikilink"):** [ Obsidian Arena;
-Stands](:Category:_Obsidian_Arena;_Stands "wikilink")
-([Map](Obsidian_Arena;_Stands_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Dark Queen Zydarielle
-(Noctopia)](Zydarielle,_Queen_Of_Stars "wikilink").  
+**Plane:** [Noctopia](:Category:Noctopia.md "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [ Obsidian Arena;
+Stands](:Category:_Obsidian_Arena;_Stands.md "wikilink")
+([Map](Obsidian_Arena;_Stands_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Dark Queen Zydarielle
+(Noctopia)](Zydarielle,_Queen_Of_Stars.md "wikilink").  
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for
 information on how to obtain this item.
 
 [Category:Lord Utility Gear](Category:Lord_Utility_Gear "wikilink")

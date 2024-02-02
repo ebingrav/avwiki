@@ -22,8 +22,8 @@ this room.
 
 ## Connections
 
--   [Fire Realm](:Category:Firerealm_Proper "wikilink")
-    ([map](Fire_Realm_Map "wikilink"))
+-   [Fire Realm](:Category:Firerealm_Proper.md "wikilink")
+    ([map](Fire_Realm_Map.md "wikilink"))
 
 ## Navigation
 
@@ -47,12 +47,12 @@ avenging angels spawn after two of the mobs have been killed, giving you
 a total six possible mobs in a room. Rapini likes to bash, so you will
 need to switch tanks and watch their health.  
 [A dusty tome of forgotten
-lore](Dusty_Tome_Of_Forgotten_Lore "wikilink") and the [Stiletto
+lore](Dusty_Tome_Of_Forgotten_Lore.md "wikilink") and the [Stiletto
 "Poignant Memories"](Stiletto_"Poignant_Memories" "wikilink") can be
 retreived by killing [He Who Remembers](He_Who_Remembers "wikilink").
 
 There is a lloydable room ([the peak of the
-precipice](Peak_Of_The_Precipice "wikilink")) with a big sentinel mob
+precipice](Peak_Of_The_Precipice.md "wikilink")) with a big sentinel mob
 ([Majestic Dragon](Majestic_Dragon "wikilink")) on the spire accessible
 from the Mesa rooms (keep an eye out for the grey forms listlessly
 scanning - these are Mesa Sentinels) then search for an Up from one of

@@ -1,32 +1,33 @@
 *This precious coin has been imprinted with the silhouette of
-[Ofcol](:Category:_Ofcol "wikilink"), the city at the foot of Devil's
+[Ofcol](:Category:_Ofcol.md "wikilink"), the city at the foot of Devil's
 Peak. Its heaviness feels comfortable and soothing, full of the sureness
 of balance and power.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 9-11.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`constitution`](Constitution "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 9-11.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** platinum, coin.  
-**[Level(s)](Object_Level "wikilink"):** 45.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[bless](Bless_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 45.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[bless](Bless_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Ofcol](:Category:_Ofcol "wikilink") ([Map](Ofcol_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Platinum Coin
-Quest](Platinum_Coin_Quest "wikilink").  
-See [Platinum Coin Quest](Platinum_Coin_Quest "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):**
+[Ofcol](:Category:_Ofcol.md "wikilink")
+([Map](Ofcol_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Platinum Coin
+Quest](Platinum_Coin_Quest.md "wikilink").  
+See [Platinum Coin Quest](Platinum_Coin_Quest.md "wikilink") for more
 information.
 
 [Category: Gear In Ofcol](Category:_Gear_In_Ofcol "wikilink") [Category:

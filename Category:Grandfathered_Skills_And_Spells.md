@@ -46,7 +46,7 @@ Similar to anticipate
 <td>
 
 Old Psion 'enhanced str' type spell (modifies
-[strength](Strength "wikilink") by +4 for 48 hours).
+[strength](Strength.md "wikilink") by +4 for 48 hours).
 
 </td>
 </tr>

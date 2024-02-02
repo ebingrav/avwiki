@@ -1,21 +1,21 @@
-*This [spell](:Category:_Spells "wikilink") reveals the location of all
-[objects](:Category:_Objects "wikilink") with the given name. When
-[cast](Cast "wikilink") as [cast](Cast "wikilink") 'locate object' my
-<name>, locate object will only find
-[items](:Category:_Objects "wikilink") that you own (ie, are bound to
+*This [spell](:Category:_Spells.md "wikilink") reveals the location of
+all [objects](:Category:_Objects.md "wikilink") with the given name.
+When [cast](Cast.md "wikilink") as [cast](Cast.md "wikilink") 'locate
+object' my <name>, locate object will only find
+[items](:Category:_Objects.md "wikilink") that you own (ie, are bound to
 you).*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'locate object'
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'locate object'
+\<[object](:Category:_Objects.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") can be highly
-useful to [characters](:Category:_Characters "wikilink") in finding
-[gear](:Category:_Gear "wikilink") that they want to obtain or that they
-have misplaced.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") can be highly
+useful to [characters](:Category:_Characters.md "wikilink") in finding
+[gear](:Category:_Gear.md "wikilink") that they want to obtain or that
+they have misplaced.
 
-See also [NoLocate Flag](NoLocate_Flag "wikilink").
+See also [NoLocate Flag](NoLocate_Flag.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

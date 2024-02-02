@@ -6,7 +6,7 @@ eyes betray his dismay.*
 <worn on feet>`      [Pristine  ] (Invis) tabi`  
 <worn on hands>`     [Pristine  ] (Humming) the `[`Mashan`` ``Staff`` ``of`` ``Power`](Mashan_Staff_of_Power "wikilink")  
 <worn about body>`   [Pristine  ] (Glowing) a silken robe`  
-<wielded>`           [Pristine  ] (Invis) `[`bo`` ``Staff`](Bo_Staff "wikilink")
+<wielded>`           [Pristine  ] (Invis) `[`bo`` ``Staff`](Bo_Staff.md "wikilink")
 
 `You peek at the inventory:`
 

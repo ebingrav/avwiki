@@ -10,16 +10,16 @@ pounding damage.
 Weight: 20  
 Keywords: staff silver githyanki  
 Flags: glow hum magic anti-neutral lghtnng-ward  
-Plane: silver sword from [Outland](:Category:Outland "wikilink")  
+Plane: silver sword from [Outland](:Category:Outland.md "wikilink")  
 Area: silver sword from [Outland
-Proper](:Category:Outland_Proper "wikilink")  
+Proper](:Category:Outland_Proper.md "wikilink")  
 Mob: silver sword from [Githyanki Leader](Githyanki_Leader "wikilink")  
 
 ## Comments
 
 This item is crafted from the [Silver Sword](Silver_Sword "wikilink") by
 getting [Demonic Lapis Lazuli](Demonic_Lapis_Lazuli "wikilink") gems
-from [ Bo'Vul's Vault](:Category:_Bo'Vul's_Vault "wikilink"). The
+from [ Bo'Vul's Vault](:Category:_Bo'Vul's_Vault.md "wikilink"). The
 outcome is affected by the perfect gem used to create it – on one
 occasion a perfect diamond resulted in a silver staff with damage 35 to
 106, average 70.

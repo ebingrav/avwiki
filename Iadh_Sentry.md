@@ -8,13 +8,14 @@ impossible to tell whether it's sleeping or not.*
 **Keywords:** insectoid, creature, iadh  
 **Level:** 45  
 **[Alignment](Alignment "wikilink"):** bad  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[scavenger](:Category:Scavenging_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink")  
-**Affects:** [infravision](Infravision "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [move
-hidden](Move_Hidden "wikilink"), [asleep](Sleep_(spell) "wikilink")
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[scavenger](:Category:Scavenging_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [move
+hidden](Move_Hidden.md "wikilink"),
+[asleep](Sleep_(spell).md "wikilink")
 
 ### Comments
 
@@ -25,10 +26,10 @@ One of the sentries is awake.
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** Descent into Gorn's Anchor
+**[Area](:Category:Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** Descent into Gorn's Anchor
 (cursed)  
 **Walking route from [Cindare](Cindare "wikilink"):** w, n, 2e, 2u, n,
 2d, e (passes the [Magical Roc](Magical_Roc "wikilink"), a dangerous

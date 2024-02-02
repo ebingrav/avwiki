@@ -3,8 +3,8 @@
 `Capacity is 750 lbs.`
 
 Weight: 2  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")
 
 [Category: Lord Utility Gear](Category:_Lord_Utility_Gear "wikilink")
 [Category: Gear In Patriarchs'

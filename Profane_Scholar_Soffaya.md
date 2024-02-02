@@ -11,9 +11,9 @@ her eye. Without looking away she asks,
 `  though you may gawk in `**`wonder`**` as long as you do it quietly."''`
 
 **Keywords:** profane, scholar, soffaya.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** ??, ??, ??.  
 
 ## Comments
@@ -23,17 +23,17 @@ exchange various items, alchemy style, for cursed equivalents:
 
 `  `[`Bloodsong`` ``Katana`](Bloodsong_Katana "wikilink")`:`  
 `     base of `[`Blood-Thirsty_Katana`](Blood-Thirsty_Katana "wikilink")` plus two alchemical items:`  
-`        (1) `[`scale`` ``or`` ``scaly`](Alchemical_Ingredients_-_Scale_or_Scaly "wikilink")  
+`        (1) `[`scale`` ``or`` ``scaly`](Alchemical_Ingredients_-_Scale_or_Scaly.md "wikilink")  
 `        (2) weapon`
 
 `  `[`Ocean`` ``Breeze`` ``Aura`](Ocean_Breeze_Aura "wikilink")`:`  
 `     base of `[`Aura_Of_Tainted_Foulness`](Aura_Of_Tainted_Foulness "wikilink")` or `[`Aura`` ``Of`` ``Corruption`](Aura_Of_Corruption "wikilink")` plus two alchemical items:`  
-`        (1) `[`aquatic`](Alchemical_Ingredients_-_Aquatic "wikilink")  
-`        (2) `[`insubstantial`](Alchemical_ingredients_-_insubstantial "wikilink")
+`        (1) `[`aquatic`](Alchemical_Ingredients_-_Aquatic.md "wikilink")  
+`        (2) `[`insubstantial`](Alchemical_ingredients_-_insubstantial.md "wikilink")
 
-`  `[`Ofcol`` ``Signet`` ``Ring`](Ofcol_Signet_Ring_(Alchemy) "wikilink")`:`  
+`  `[`Ofcol`` ``Signet`` ``Ring`](Ofcol_Signet_Ring_(Alchemy).md "wikilink")`:`  
 `     base of `[`Blackened`` ``Ofcol`` ``Signet`` ``Ring`](Blackened_Ofcol_Signet_Ring "wikilink")` plus two items:`  
-`        (1) `[`treasure`](Alchemical_Ingredients_-_Treasure "wikilink")  
+`        (1) `[`treasure`](Alchemical_Ingredients_-_Treasure.md "wikilink")  
 `        (2) some gold that came from Ofcol's golden citadel`
 
 Cursed items tried that do not work:
@@ -46,8 +46,8 @@ Cursed items tried that do not work:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Wise
-Travelers](:Category:_Wise_Travelers "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Wise
+Travelers](:Category:_Wise_Travelers.md "wikilink")
 
   
 

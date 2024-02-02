@@ -1,16 +1,16 @@
-*Before you stands a small [goblin](Goblins "wikilink"), sauntering
-along carrying a chain of [keys](:Category:_Keys "wikilink"). Seemingly
-a jailer, he seems to be so lost in thought that he is totally unaware
-of his surroundings. That's not hard to do if you're a
-[goblin](Goblins "wikilink"), but not something one does very often.*
+*Before you stands a small [goblin](Goblins.md "wikilink"), sauntering
+along carrying a chain of [keys](:Category:_Keys.md "wikilink").
+Seemingly a jailer, he seems to be so lost in thought that he is totally
+unaware of his surroundings. That's not hard to do if you're a
+[goblin](Goblins.md "wikilink"), but not something one does very often.*
 
 **Keywords:** goblin, jailer.  
-**[Level](Level "wikilink"):** 6.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](Thieving_Mobs "wikilink"),
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 6.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](Thieving_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -18,18 +18,18 @@ of his surroundings. That's not hard to do if you're a
 `Nothing.`
 
 `A goblin jailer is carrying:`  
-`     `[`a`` ``crude`` ``key`](Crude_Key "wikilink")  
-`     `[`a`` ``key`](Key_(Goblin_Caverns) "wikilink")  
+`     `[`a`` ``crude`` ``key`](Crude_Key.md "wikilink")  
+`     `[`a`` ``key`](Key_(Goblin_Caverns).md "wikilink")  
 `     coin`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Goblin
-Caverns](:Category:_Goblin_Caverns "wikilink")
-([Map](Goblin_Caverns_Map "wikilink")).  
-A goblin jailer [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Goblin
+Caverns](:Category:_Goblin_Caverns.md "wikilink")
+([Map](Goblin_Caverns_Map.md "wikilink")).  
+A goblin jailer [wanders](Wandering_Mobs.md "wikilink").  
 A goblin jailer is portable.  
 
 [Category: Mobs In Goblin

@@ -4,22 +4,22 @@ attack the physical manifestation of the universe; it looks like its got
 an itchy trigger finger.*
 
 **Keywords:** celestial, universe.  
-**[Level](Level "wikilink"):** 100.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** marksman,
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invisible](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink").  
+**[Level](Level.md "wikilink"):** 100.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** marksman,
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invisible](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink").  
 
 ## Gear
 
 `The Celestial is using:`  
-`  `<wielded>`           [Pristine  ] (Glowing) `[`the`` ``Celestial's`` ``Arbalest`](Celestial's_Arbalest "wikilink")  
+`  `<wielded>`           [Pristine  ] (Glowing) `[`the`` ``Celestial's`` ``Arbalest`](Celestial's_Arbalest.md "wikilink")  
 `  `<held>`              [Pristine  ] 10 steel bullets`
 
 `You peek at the inventory:                             [Lv Price]`  
-`    [Pristine  ] 10 `[`piercing`` ``bullets`](Piercing_Bullets "wikilink")`                   [53   600]`  
-`    [Pristine  ] 10 `[`steel`` ``bullets`](Steel_Bullet "wikilink")`                      [16   200]`
+`    [Pristine  ] 10 `[`piercing`` ``bullets`](Piercing_Bullets.md "wikilink")`                   [53   600]`  
+`    [Pristine  ] 10 `[`steel`` ``bullets`](Steel_Bullet.md "wikilink")`                      [16   200]`
 
 ## Comments
 
@@ -28,11 +28,12 @@ be sure to stock up on some bullets.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alpha
-Thule](:Category:_Alpha_Thule "wikilink")
-([Map](Alpha_Thule_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Celestial Antechamber.  
-Walking route from [Aelmon](Aelmon "wikilink"): ???.  
+**[Area](:Category:_Areas.md "wikilink"):** [Alpha
+Thule](:Category:_Alpha_Thule.md "wikilink")
+([Map](Alpha_Thule_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Celestial
+Antechamber.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.  
 
 [Category: Mobs In Alpha
 Thule](Category:_Mobs_In_Alpha_Thule "wikilink") [Category:

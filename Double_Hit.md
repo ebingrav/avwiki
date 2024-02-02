@@ -1,8 +1,8 @@
-*An adept of this [skill](:Category:_Skills "wikilink") can attempt to
-hit twice on every attack, if wielding a [double-headed
-weapon](:Category:_Double_Weapons "wikilink").*
+*An adept of this [skill](:Category:_Skills.md "wikilink") can attempt
+to hit twice on every attack, if wielding a [double-headed
+weapon](:Category:_Double_Weapons.md "wikilink").*
 
-Prerequisite(s): [Double Wield](Double_Wield "wikilink").
+Prerequisite(s): [Double Wield](Double_Wield.md "wikilink").
 
 Syntax: none (automatic).
 

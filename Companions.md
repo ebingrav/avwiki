@@ -99,8 +99,8 @@ light (via the EQUIP command) to see you in the dark.
 
 #### Aliased Commands
 
-You may find it easier to make in-game [aliases](alias "wikilink") for
-common orders.
+You may find it easier to make in-game [aliases](alias.md "wikilink")
+for common orders.
 
 For example, rather than typing ORDER RIKAR KILL <monster>, you could
 type:
@@ -116,7 +116,7 @@ To erase the alias, simply type ALIAS <alias name> or in this case ALIAS
 KK.
 
 Aliases are stored separately, per character. For more details, please
-read [ALIASES](Alias "wikilink").
+read [ALIASES](Alias.md "wikilink").
 
 #### Questing
 

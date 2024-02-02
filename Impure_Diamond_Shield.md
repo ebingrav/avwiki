@@ -23,7 +23,7 @@ charges of flametongue, but doesn't come warded.
 ## Directions
 
 **Area:** [Daingean Machadae](Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink"))  
+([Map](Daingean_Machadae_Map.md "wikilink"))  
 **Room:** wanders or drifts in the crucible (anti-magic) area
 
 [Category:Hit-Point Gear](Category:Hit-Point_Gear "wikilink")

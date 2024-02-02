@@ -10,7 +10,7 @@
 **Level:** 28  
 **Quality:** 100 hps  
 **Mob:** [One-eyed Pete](One-eyed_Pete "wikilink") (portable)  
-**Area:** [The Pirate Ship](:Category:_Pirate_Ship "wikilink")
-([Map](Pirate_Ship_Map "wikilink"))  
+**Area:** [The Pirate Ship](:Category:_Pirate_Ship.md "wikilink")
+([Map](Pirate_Ship_Map.md "wikilink"))  
 
 [Category: Grandfathered Gear](Category:_Grandfathered_Gear "wikilink")

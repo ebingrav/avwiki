@@ -3,15 +3,15 @@
 *Fortified with three kinds of mushrooms, this tasty broth will improve
 anyone's constitution!*
 
-`Level 51 spells of: '`[`heal`](Heal "wikilink")`' '`[`heal`](Heal "wikilink")`' '`[`invigorate`](Invigorate "wikilink")`'.`
+`Level 51 spells of: '`[`heal`](Heal.md "wikilink")`' '`[`heal`](Heal.md "wikilink")`' '`[`invigorate`](Invigorate.md "wikilink")`'.`
 
 **Keyword(s):** mushroom, broth.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
@@ -21,13 +21,13 @@ Quest](Mushroom_Broth_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Abbaye du
-Livre](:Category:_Abbaye_Du_Livre "wikilink")
-([Map](Abbaye_Du_Livre_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Abbaye du
+Livre](:Category:_Abbaye_Du_Livre.md "wikilink")
+([Map](Abbaye_Du_Livre_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink")
 
 [Category: Gear In Abbaye Du
 Livre](Category:_Gear_In_Abbaye_Du_Livre "wikilink") [Category:

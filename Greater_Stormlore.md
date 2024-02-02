@@ -4,7 +4,7 @@ Lord stormlord lore. Provides access to the legend stormlord lore.
 
 # Prereqs
 
--   [lesser stormlore](Lesser_Stormlore "wikilink")
+-   [lesser stormlore](Lesser_Stormlore.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -30,7 +30,7 @@ Lord stormlord lore. Provides access to the legend stormlord lore.
 
 # Lores Unlocked
 
--   [epic stormlore](Epic_Stormlore "wikilink")
+-   [epic stormlore](Epic_Stormlore.md "wikilink")
 
 # Other Notes
 

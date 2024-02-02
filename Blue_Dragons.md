@@ -9,13 +9,13 @@ far inland when they are given reason to travel.
 allows them to glide effortlessly through water & air alike. Twin,
 spiralling horns rise up and back from their massive skulls.
 
-''Due to their [aquatic](Racial_Aquatic "wikilink") nature, Blue Dragons
-excel in underwater combat. They are known to
-[engulf](Racial_Engulf "wikilink") their prey in a bubble of Elemental
-Water. They revel in sadistic pleasure as they watch their foe choke and
-drown. When a Blue Dragon wishes to create some personal space, they
-eject the intruder from the room with a powerful [blast of
-water](Racial_Waterblast "wikilink").
+''Due to their [aquatic](Racial_Aquatic.md "wikilink") nature, Blue
+Dragons excel in underwater combat. They are known to
+[engulf](Racial_Engulf.md "wikilink") their prey in a bubble of
+Elemental Water. They revel in sadistic pleasure as they watch their foe
+choke and drown. When a Blue Dragon wishes to create some personal
+space, they eject the intruder from the room with a powerful [blast of
+water](Racial_Waterblast.md "wikilink").
 
 ''When utilizing their water breath to its fullest potential, a Blue
 Dragon can send a foe sprawling to the ground.
@@ -24,69 +24,69 @@ Dragon can send a foe sprawling to the ground.
 
 <!-- -->
 
--   **[Language(s)](:Category:_Languages "wikilink"):**
-    [Common](Common_Language "wikilink"),
-    [Draconian](Draconian_Language "wikilink").
+-   **[Language(s)](:Category:_Languages.md "wikilink"):**
+    [Common](Common_Language.md "wikilink"),
+    [Draconian](Draconian_Language.md "wikilink").
 
 <!-- -->
 
--   **[Racial(s)](:Category:_Racials "wikilink"):**
-    [Armorancient](Racial_Armorancient "wikilink"),
-    [Breath](Racial_Breath "wikilink"), [Claw](Racial_Claw "wikilink"),
-    [Fly](Racial_Fly "wikilink"),
-    [Infravision](Racial_Infravision "wikilink"),
-    [Tail](Racial_Tail "wikilink"), [Corpse
-    Eating](Racial_Corpse_Eating "wikilink"),
-    [Aquatic](Racial_Aquatic "wikilink"),
-    [Engulf](Racial_Engulf "wikilink"),
-    [Waterblast](Racial_Waterblast "wikilink"),
-    [Imbue](Racial_Imbue "wikilink").
+-   **[Racial(s)](:Category:_Racials.md "wikilink"):**
+    [Armorancient](Racial_Armorancient.md "wikilink"),
+    [Breath](Racial_Breath.md "wikilink"),
+    [Claw](Racial_Claw.md "wikilink"), [Fly](Racial_Fly.md "wikilink"),
+    [Infravision](Racial_Infravision.md "wikilink"),
+    [Tail](Racial_Tail.md "wikilink"), [Corpse
+    Eating](Racial_Corpse_Eating.md "wikilink"),
+    [Aquatic](Racial_Aquatic.md "wikilink"),
+    [Engulf](Racial_Engulf.md "wikilink"),
+    [Waterblast](Racial_Waterblast.md "wikilink"),
+    [Imbue](Racial_Imbue.md "wikilink").
 
 <!-- -->
 
--   **[Characteristics](:Category:_Characteristics "wikilink"):**
-    [Quadruped](:Category:Quadruped "wikilink"),
-    [Wings](:Category:Wings "wikilink"),
-    [Horns](:Category:Horns "wikilink"),
-    [Claws](:Category:Claws "wikilink"), [Scaled
-    Race](:Category:Scaled_Races "wikilink"),
-    [Draconic](:Category:Draconic "wikilink")
+-   **[Characteristics](:Category:_Characteristics.md "wikilink"):**
+    [Quadruped](:Category:Quadruped.md "wikilink"),
+    [Wings](:Category:Wings.md "wikilink"),
+    [Horns](:Category:Horns.md "wikilink"),
+    [Claws](:Category:Claws.md "wikilink"), [Scaled
+    Race](:Category:Scaled_Races.md "wikilink"),
+    [Draconic](:Category:Draconic.md "wikilink")
 
 <!-- -->
 
--   **[Racial Size](Racial_Size "wikilink"):** very large.
+-   **[Racial Size](Racial_Size.md "wikilink"):** very large.
 
 <!-- -->
 
--   **[Racial TNL](Racial_TNL "wikilink"):** 10000 XP.
+-   **[Racial TNL](Racial_TNL.md "wikilink"):** 10000 XP.
 
 <!-- -->
 
 -   **Well-Suited to Be:**
-    [berserkers](:Category:_Berserkers "wikilink"),
-    [bodyguards](:Category:_Bodyguards "wikilink"), [black circle
-    initiates](:Category:_Black_Circle_Initiates "wikilink"),
-    [clerics](:Category:_Clerics "wikilink"),
-    [mages](:Category:_Mages "wikilink"),
-    [mindbenders](:Category:_Mindbenders "wikilink"),
-    [monks](:Category:_Monks "wikilink"),
-    [paladins](:Category:_Paladins "wikilink"),
-    [priests](:Category:_Priests "wikilink"),
-    [psionicists](:Category:_Psionicists "wikilink"),
-    [rangers](:Category:_Rangers "wikilink"),
-    [shadowfists](:Category:_Shadowfists "wikilink"),
-    [sorcerers](:Category:_Sorcerers "wikilink"),
-    [stormlords](:Category:_Stormlords "wikilink"),
-    [warriors](:Category:_Warriors "wikilink"),
-    [wizards](:Category:_Wizards "wikilink").
+    [berserkers](:Category:_Berserkers.md "wikilink"),
+    [bodyguards](:Category:_Bodyguards.md "wikilink"), [black circle
+    initiates](:Category:_Black_Circle_Initiates.md "wikilink"),
+    [clerics](:Category:_Clerics.md "wikilink"),
+    [mages](:Category:_Mages.md "wikilink"),
+    [mindbenders](:Category:_Mindbenders.md "wikilink"),
+    [monks](:Category:_Monks.md "wikilink"),
+    [paladins](:Category:_Paladins.md "wikilink"),
+    [priests](:Category:_Priests.md "wikilink"),
+    [psionicists](:Category:_Psionicists.md "wikilink"),
+    [rangers](:Category:_Rangers.md "wikilink"),
+    [shadowfists](:Category:_Shadowfists.md "wikilink"),
+    [sorcerers](:Category:_Sorcerers.md "wikilink"),
+    [stormlords](:Category:_Stormlords.md "wikilink"),
+    [warriors](:Category:_Warriors.md "wikilink"),
+    [wizards](:Category:_Wizards.md "wikilink").
 
 <!-- -->
 
--   **Ill-Suited to Be:** [archers](:Category:_Archers "wikilink"),
-    [assassins](:Category:_Assassins "wikilink"),
-    [druids](:Category:_Druids "wikilink"),
-    [fusiliers](:Category:_Fusiliers "wikilink"),
-    [rogues](:Category:_Rogues "wikilink").
+-   **Ill-Suited to Be:** [archers](:Category:_Archers.md "wikilink"),
+    [assassins](:Category:_Assassins.md "wikilink"),
+    [druids](:Category:_Druids.md "wikilink"),
+    [fusiliers](:Category:_Fusiliers.md "wikilink"),
+    [rogues](:Category:_Rogues.md "wikilink").
 
 ## Comments
 

@@ -2,28 +2,29 @@
 to have this thing come down upon your head.*
 
 `Damage is 9 to 24 (average 16).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** silver hammer  
 **Floor Text:** A small silver hammer gleams on the ground.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 10 lbs  
-**[Level(s)](Object_Level "wikilink"):** 23-25  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 23-25  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Butler
-Higgins](Butler_Higgins "wikilink") ([portable](Teleport "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Butler
+Higgins](Butler_Higgins "wikilink")
+([portable](Teleport.md "wikilink"))  
 
 [Category: Gear In Laboratory Of
 Chalmus](Category:_Gear_In_Laboratory_Of_Chalmus "wikilink") [Category:

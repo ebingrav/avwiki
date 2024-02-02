@@ -1,23 +1,23 @@
-From [a degraded citizen](Degraded_Citizen "wikilink"):
+From [a degraded citizen](Degraded_Citizen.md "wikilink"):
 
 -   Go n, e, n.
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [a grey-clad
-    wizard](Grey-Clad_Wizard "wikilink").
+-   [Kill](Kill.md "wikilink") [a grey-clad
+    wizard](Grey-Clad_Wizard.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a ring inset with a grey
-    stone](Ring_Inset_With_A_Grey_Stone "wikilink") from his corpse.
+-   [Get](Get.md "wikilink") [a ring inset with a grey
+    stone](Ring_Inset_With_A_Grey_Stone.md "wikilink") from his corpse.
 
 From [Captain Jacklyn](Captain_Jacklyn "wikilink"):
 
--   [Give](Give "wikilink") [a ring inset with a grey
-    stone](Ring_Inset_With_A_Grey_Stone "wikilink") to [Captain
+-   [Give](Give.md "wikilink") [a ring inset with a grey
+    stone](Ring_Inset_With_A_Grey_Stone.md "wikilink") to [Captain
     Jacklyn](Captain_Jacklyn "wikilink") and receive [a platinum
-    coin](Platinum_Coin "wikilink").
+    coin](Platinum_Coin.md "wikilink").
 
 [Category: Quests In House Of
 Stone](Category:_Quests_In_House_Of_Stone "wikilink") [Category: Quests

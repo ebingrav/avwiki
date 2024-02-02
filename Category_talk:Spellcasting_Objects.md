@@ -42,7 +42,7 @@ populated one, and I don't want to reduce the usefulness of
 there's a ton of spells that can't be cast by using an object, so those
 categories would **never** get populated.
 
-Sound like a good plan? --[Waite](User:Waite "wikilink") 14:37, 14
+Sound like a good plan? --[Waite](User:Waite.md "wikilink") 14:37, 14
 February 2006 (EST)
 
 On second thought, the categories should probably be called "Water
@@ -58,8 +58,8 @@ charges. It requires a bit more overhead, but that could be done by the
 "regulars" whenever a new spellcasting item is added by someone else if
 they don't know the convention. I'm rather fond of tables I suppose :).
 Definitely not adverse to them being filed in a categorical system
-either. [JonDooger](User:JonDooger "wikilink") 15:03, 14 February 2006
-(EST)
+either. [JonDooger](User:JonDooger.md "wikilink") 15:03, 14 February
+2006 (EST)
 
 Great thinking, you two! I love your idea, Waite, for not filing any
 pages here but, instead, providing some means for players to easily find
@@ -82,7 +82,7 @@ object-type categories are spread out while Gear In... categories are
 consolidated. In any case, I promise that, at least in this instance, I
 won't go ahead and make categories to cover every possibility that might
 arise--just ones that we already have items for, if we decide to go
-ahead with this plan. --[Dave Garber](User:DaveGarber1975 "wikilink")
+ahead with this plan. --[Dave Garber](User:DaveGarber1975.md "wikilink")
 16:02, 14 February 2006 (EST)
 
 Oooo! Looks like you've already started. Cool. Hmmm. I still have my
@@ -92,7 +92,7 @@ few occasions, I've plunged ahead with something, looked over the final
 product, played around with it for a bit, and then reconsidered my
 decision and immediately undid it all. I enjoy experimenting and trying
 stuff out. Will be nice to see how this turns out. Anyway... Go, Waite,
-go!!! You the man. --[Dave Garber](User:DaveGarber1975 "wikilink")
+go!!! You the man. --[Dave Garber](User:DaveGarber1975.md "wikilink")
 16:12, 14 February 2006 (EST)
 
 Wow! So, we have two different types of items here now, then? Both
@@ -100,7 +100,7 @@ objects that cast spells on you when you consume (either quaff or
 brandish) them and objects that affect you (via their affect flags) when
 you wear them. Interesting. If that's how we're gonna do it then we may
 have to find a more accurate name for this category... --[Dave
-Garber](User:DaveGarber1975 "wikilink") 17:49, 14 February 2006 (EST)
+Garber](User:DaveGarber1975.md "wikilink") 17:49, 14 February 2006 (EST)
 
 Yeah, adding items like exquisite diamond and ring of the rat to these
 categories was an afterthought, but I think it makes a lot of sense. If
@@ -114,11 +114,11 @@ message is). I guess one case where you could be nit-picky is the
 displacer cloak. Along with pass door, it gives you movehidden, which is
 technically a skill, not a spell. In any event I'm not too worried about
 people getting confused by the name of this category.
---[Waite](User:Waite "wikilink") 10:12, 15 February 2006 (EST)
+--[Waite](User:Waite.md "wikilink") 10:12, 15 February 2006 (EST)
 
 It was a good afterthought to add these items, in my opinion, and I
 agree with your reasoning on why you added them. And I suppose that what
 these objects do could be considered casting, also. At least for now,
 I'm quite satisfied. Well done, Waite, and thanks for your work on this.
---[Dave Garber](User:DaveGarber1975 "wikilink") 15:03, 15 February 2006
-(EST)
+--[Dave Garber](User:DaveGarber1975.md "wikilink") 15:03, 15 February
+2006 (EST)

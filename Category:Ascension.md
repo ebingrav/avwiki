@@ -11,12 +11,12 @@ confines. Great treasure is there, as well as the greatest of risks.*
 
 ## Directions
 
-From [Tarterus](:Category:Tarterus "wikilink") shift, go w, 2u, 2n
+From [Tarterus](:Category:Tarterus.md "wikilink") shift, go w, 2u, 2n
 
 ## Connections
 
-Only connects to [Tarterus Proper](:Category:Tarterus_Proper "wikilink")
-as mentioned above.
+Only connects to [Tarterus
+Proper](:Category:Tarterus_Proper.md "wikilink") as mentioned above.
 
 ## Navigation
 
@@ -35,7 +35,8 @@ The first room of the tower to the west is nospell.
 
 This area is home to the [Ring Of Higher
 Power](Ring_Of_Higher_Power "wikilink") run. See [Gear In
-Ascension](:Category:Gear_In_Ascension "wikilink") for more information.
+Ascension](:Category:Gear_In_Ascension.md "wikilink") for more
+information.
 
 [Category:Tarterus](Category:Tarterus "wikilink") [Category:Lord
 Areas](Category:Lord_Areas "wikilink")

@@ -11,8 +11,8 @@ Keywords: gloves ripped
 Slot: Hands  
 Weight: 2  
 Flags: none  
-Plane: [Kzinti Homeworld](:Category:Kzinti_Homeworld "wikilink")  
-Area: [Shunned World](:Category:Shunned_World "wikilink")  
+Plane: [Kzinti Homeworld](:Category:Kzinti_Homeworld.md "wikilink")  
+Area: [Shunned World](:Category:Shunned_World.md "wikilink")  
 Mob: ??  
 
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 those few brave non-darklins who dare to enter the nursery.*
 
 **Keywords:** darklin, guard, ant.  
-**[Level](Level "wikilink"):** 12.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink") (some),
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink") (some),
-[poisonous](Biting_Mobs "wikilink") (some).  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 12.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink") (some),
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink") (some),
+[poisonous](Biting_Mobs.md "wikilink") (some).  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A darklin guard is using:`  
-<worn about body>`   `[`a`` ``darklin`` ``scale`](Darklin_Scale "wikilink")` or `[`a`` ``thick`` ``darklin`` ``scale`](Thick_Darklin_Scale "wikilink")  
-<wielded>`           `[`darklin`` ``mandibles`](Darklin_Mandibles "wikilink")` or `[`sharp`` ``darklin`` ``mandibles`](Sharp_Darklin_Mandibles "wikilink")
+<worn about body>`   `[`a`` ``darklin`` ``scale`](Darklin_Scale.md "wikilink")` or `[`a`` ``thick`` ``darklin`` ``scale`](Thick_Darklin_Scale.md "wikilink")  
+<wielded>`           `[`darklin`` ``mandibles`](Darklin_Mandibles.md "wikilink")` or `[`sharp`` ``darklin`` ``mandibles`](Sharp_Darklin_Mandibles.md "wikilink")
 
 ## Comments
 
@@ -23,10 +23,11 @@ equipment. The directions below are to just one of such guards.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Darklin
-Hole](:Category:_Darklin_Hole "wikilink")
-([Map](Darklin_Hole_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Entrance to the Nursery.  
+**[Area](:Category:_Areas.md "wikilink"):** [Darklin
+Hole](:Category:_Darklin_Hole.md "wikilink")
+([Map](Darklin_Hole_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Entrance to the
+Nursery.  
 Walking route from the room right after stepping in the hole: w, w, d,
 s.
 

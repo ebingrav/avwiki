@@ -9,25 +9,25 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Draconian:  `*`TTEHsi`` ``xioisxir`` ``ferrovehne`` ``ffoxanir`` ``iahomisetiter`` ``ofsirr`` ``ttehsi`` ``oahsuraiyo`` ``terogeh.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Draconian:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Draconian:
 
--   [Draconians](Draconians "wikilink").
-
-<!-- -->
-
--   [Dragons](Dragons "wikilink").
+-   [Draconians](Draconians.md "wikilink").
 
 <!-- -->
 
--   [Firedrakes](Firedrakes "wikilink").
+-   [Dragons](Dragons.md "wikilink").
 
 <!-- -->
 
--   [Lizardmen](Lizardmen "wikilink").
+-   [Firedrakes](Firedrakes.md "wikilink").
 
 <!-- -->
 
--   [Tuataurs](Tuataurs "wikilink").
+-   [Lizardmen](Lizardmen.md "wikilink").
+
+<!-- -->
+
+-   [Tuataurs](Tuataurs.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

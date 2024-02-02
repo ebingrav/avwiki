@@ -11,19 +11,19 @@ native habitat, where thay can become intangible at will.*
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Airscape](:Category:Airscape "wikilink")
+[Airscape](:Category:Airscape.md "wikilink")
 
 ## Connections
 
 3e from shift is a [Lloydable](Lloydable "wikilink") room that has a
-nexus to [Nothing](:Category:Nothing "wikilink").
+nexus to [Nothing](:Category:Nothing.md "wikilink").
 
 ## Navigation
 
 ## Adventuring
 
 This area is practically only ever run for gear. See [Gear In Airscape
-Proper](:Category:Gear_In_Airscape_Proper "wikilink") for more
+Proper](:Category:Gear_In_Airscape_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Areas](Category:_Lord_Areas "wikilink") [Category:

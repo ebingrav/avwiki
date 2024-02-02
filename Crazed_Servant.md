@@ -5,9 +5,9 @@ throat...*
 **Keywords:** servant, ??  
 **[Level](Level "wikilink"):** 60  
 **[Alignment](Alignment "wikilink"):** apathetic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink")  
 **Affects:** [Infravision](Infravision "wikilink")
 
 ## Comments
@@ -20,11 +20,11 @@ Crawler](Carrion_Crawler "wikilink").
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Shadow
-Keep](:Category:Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** The Kitchen
-([Cursed](Cursed_Rooms "wikilink")) WARNING: directly above [Carrion
+**[Area](:Category:Areas.md "wikilink"):** [Shadow
+Keep](:Category:Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** The Kitchen
+([Cursed](Cursed_Rooms.md "wikilink")) WARNING: directly above [Carrion
 Crawler](Carrion_Crawler "wikilink")
 
 [Category:Mobs In Shadow Keep](Category:Mobs_In_Shadow_Keep "wikilink")

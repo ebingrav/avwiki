@@ -1,24 +1,24 @@
 *A mass of golden jelly has been left here.*
 
-`Level 26 spells of: '`[`nourish`](Nourish "wikilink")`'.`
+`Level 26 spells of: '`[`nourish`](Nourish.md "wikilink")`'.`
 
 **Keyword(s):** royal jelly cho-ja cho golden.  
-**[Level(s)](Object_Level "wikilink"):** 21.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lb.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 21.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lb.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cho-ja
-Hive](:Category:_Cho-ja_Hive "wikilink")
-([Map](Cho-ja_Hive_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Immature
+**[Area](:Category:_Areas.md "wikilink"):** [Cho-ja
+Hive](:Category:_Cho-ja_Hive.md "wikilink")
+([Map](Cho-ja_Hive_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Immature
 Queen](Immature_Queen "wikilink").  
 See [Immature Queen](Immature_Queen "wikilink") for more information.
 

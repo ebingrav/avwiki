@@ -1,10 +1,10 @@
 *Though pirates have always operated as long as the ship has been
 around, there has recently been a heavy increase in both the frequency
 and magnitude of piracy being committed in the area. [Lord
-Audis](Lord_Audis "wikilink") and his advisors believe the cause to be
-found somewhere near an island known to be controlled by a famous pirate
-named [Lord Redtooth](Lord_Redtooth "wikilink"). The reward will be
-great for any who are able to put a stop to the atrocities being
+Audis](Lord_Audis.md "wikilink") and his advisors believe the cause to
+be found somewhere near an island known to be controlled by a famous
+pirate named [Lord Redtooth](Lord_Redtooth.md "wikilink"). The reward
+will be great for any who are able to put a stop to the atrocities being
 committed by the pirates.*
 
 **Level Range:** 51-51
@@ -13,15 +13,15 @@ committed by the pirates.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 7e (note: crosses
-[water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 7e (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [little
-crab](Little_Crab "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [little
+crab](Little_Crab.md "wikilink").
 
 ## Connections
 
-[ Sea Of Strayed Hopes](:Category:_Sea_Of_Strayed_Hopes "wikilink")
+[ Sea Of Strayed Hopes](:Category:_Sea_Of_Strayed_Hopes.md "wikilink")
 
 ## Navigation
 
@@ -35,8 +35,8 @@ to [Lord Redtooth](Lord_Redtooth "wikilink") and a one-way down exit to
 ## Adventuring
 
 This area is similar to [ Frozen
-Wastes](:Category:_Frozen_Wastes "wikilink") in the level of the mobs,
-but is bigger and contains more mobs.
+Wastes](:Category:_Frozen_Wastes.md "wikilink") in the level of the
+mobs, but is bigger and contains more mobs.
 
 The top part is a jungle with various creatures. This is a good place
 for tanking with a smallish group because it is uncursed. The female

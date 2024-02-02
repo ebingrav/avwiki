@@ -4,38 +4,39 @@ stone staff is worn smooth where it is gripped by his broad and callused
 hands. He seems pleased with the progress of the tunneling.*
 
 **Keywords:** xohd, master, earth  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Xohd, master of earth is using:`  
-`   `<worn on body>`      `[` ``a`` ``master's`` ``robe`` ``of`` ``earth`](Master's_Robe_Of_Earth "wikilink")  
-`   `<wielded>`           `[` ``a`` ``heavy-looking`` ``stone`` ``staff`](Heavy-looking_Stone_Staff "wikilink")
+`   `<worn on body>`      `[` ``a`` ``master's`` ``robe`` ``of`` ``earth`](Master's_Robe_Of_Earth.md "wikilink")  
+`   `<wielded>`           `[` ``a`` ``heavy-looking`` ``stone`` ``staff`](Heavy-looking_Stone_Staff.md "wikilink")
 
 ## Comments
 
 Xohd will give you the [ sheaf of strong
-evidence](Sheaf_of_Strong_Evidence "wikilink") if you give him [ Sparse
-and Circumstantial
-Evidence](Sparse_and_Circumstantial_Evidence "wikilink").
+evidence](Sheaf_of_Strong_Evidence.md "wikilink") if you give him [
+Sparse and Circumstantial
+Evidence](Sparse_and_Circumstantial_Evidence.md "wikilink").
 
-Give [earth essence](Earth_Essence "wikilink") to Xohd to complete the
-[Citadel Of Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")'
-[Smooth Stone Tablet Quest](Smooth_Stone_Tablet_Quest "wikilink").
+Give [earth essence](Earth_Essence.md "wikilink") to Xohd to complete
+the [Citadel Of
+Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")' [Smooth Stone
+Tablet Quest](Smooth_Stone_Tablet_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Excavations
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Excavations
 
-Walking route from [Vymm](Vymm "wikilink"): \[s\],2e,n,d,e,u,2e,s.
+Walking route from [Vymm](Vymm.md "wikilink"): \[s\],2e,n,d,e,u,2e,s.
 
 He is portable.
 

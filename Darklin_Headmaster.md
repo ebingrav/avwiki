@@ -6,29 +6,29 @@ carries a trinket around its neck and it has a hard shell about its
 body.*
 
 **Keywords:** darklin, headmaster, mite.  
-**[Level](Level "wikilink"):** 13.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink"),
-[teacher](Corpse-Sacrificing_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 13.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink"),
+[teacher](Corpse-Sacrificing_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The darklin headmaster is using:`  
-<worn around neck>`  `[`a`` ``rodent's`` ``claw`](Rodent's_Claw "wikilink")  
-<worn on body>`      `[`a`` ``hard`` ``mite's`` ``carapace`](Hard_Mite's_Carapace "wikilink")  
-<wielded>`           `[`darklin`` ``mandibles`](Darklin_Mandibles "wikilink")
+<worn around neck>`  `[`a`` ``rodent's`` ``claw`](Rodent's_Claw.md "wikilink")  
+<worn on body>`      `[`a`` ``hard`` ``mite's`` ``carapace`](Hard_Mite's_Carapace.md "wikilink")  
+<wielded>`           `[`darklin`` ``mandibles`](Darklin_Mandibles.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Darklin
-Hole](:Category:_Darklin_Hole "wikilink")
-([Map](Darklin_Hole_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Headmaster's Room.  
+**[Area](:Category:_Areas.md "wikilink"):** [Darklin
+Hole](:Category:_Darklin_Hole.md "wikilink")
+([Map](Darklin_Hole_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Headmaster's Room.  
 Walking route from the room right after stepping in the hole: d, 2e,
 \[e\].
 

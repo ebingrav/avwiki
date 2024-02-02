@@ -3,13 +3,13 @@ from them but is still strong enough to kill you dead and feast on your
 eyeballs.*
 
 **Keywords:** wicked, woman, harpy.  
-**[Level](Level "wikilink"):** 55.  
+**[Level](Level.md "wikilink"):** 55.  
 **Scan Description:** A wicked woman flits about, clawing at your
 eyes.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -23,12 +23,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morte
-Vallta](:Category:_Morte_Vallta "wikilink")
-([Map](Morte_Vallta_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Morte
+Vallta](:Category:_Morte_Vallta.md "wikilink")
+([Map](Morte_Vallta_Map.md "wikilink")).  
 A hate-filled harpy wanders.  
-[Portaling](Portal "wikilink") point suggested: [gia
-vul](Giant_Vulture "wikilink").  
+[Portaling](Portal.md "wikilink") point suggested: [gia
+vul](Giant_Vulture.md "wikilink").  
 
 [Category: Mobs In Morte
 Vallta](Category:_Mobs_In_Morte_Vallta "wikilink")

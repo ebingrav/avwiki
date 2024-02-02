@@ -1,17 +1,17 @@
 -   [Another Avatar MUD
     Site](http://gishcam.tripod.com/gaming/avatar/index.html), by Sheba,
     contains lots of useful information, including some
-    [race](:Category:_Races "wikilink")-[class](:Category:_Classes "wikilink")
-    data, detailed [worship data](:Category:_Religion "wikilink"), a
-    [scroll](:Category:_Scrolls "wikilink") library, player birthdays,
-    and much more.
+    [race](:Category:_Races.md "wikilink")-[class](:Category:_Classes.md "wikilink")
+    data, detailed [worship data](:Category:_Religion.md "wikilink"), a
+    [scroll](:Category:_Scrolls.md "wikilink") library, player
+    birthdays, and much more.
 
 <!-- -->
 
 -   [Avatar Picture Page](http://avatar.otherware.org/), hosted by
-    [Debonair](Debonair "wikilink"), shows a photograph gallery of many
-    Avatar MUD players in real life. This site also has forums for both
-    discussion and [gear](:Category:_Gear "wikilink") auctions.
+    [Debonair](Debonair.md "wikilink"), shows a photograph gallery of
+    many Avatar MUD players in real life. This site also has forums for
+    both discussion and [gear](:Category:_Gear.md "wikilink") auctions.
 
 <!-- -->
 
@@ -23,8 +23,8 @@
 
 -   [Outland.org](http://www.outland.org/) is Avatar MUD's official site
     and is a great source of weekly news reports, information about
-    scheduled [quests](Quests "wikilink"), official help files, and so
-    forth.
+    scheduled [quests](Quests.md "wikilink"), official help files, and
+    so forth.
 
 <!-- -->
 
@@ -36,9 +36,9 @@
 -   [Wiseman's Avatar race comparison
     chart](http://www.users.on.net/~wyvaud/avatar_races/races.html) is a
     great place to visit before creating a new
-    [character](:Category:_Characters "wikilink"), as it consists of a
-    handy sortable table of statistics for all of Avatar's different
-    [races](:Category:_Races "wikilink").
+    [character](:Category:_Characters.md "wikilink"), as it consists of
+    a handy sortable table of statistics for all of Avatar's different
+    [races](:Category:_Races.md "wikilink").
 
 <!-- -->
 

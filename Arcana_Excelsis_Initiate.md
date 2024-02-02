@@ -1,4 +1,4 @@
-This quest in [Arcana Excelsis](:Category:Arcana_Excelsis "wikilink")
+This quest in [Arcana Excelsis](:Category:Arcana_Excelsis.md "wikilink")
 leads to the insignia Arcana Excelsis Initiate, which modifies mana
 regeneration by + 3% continuous until hero level 250 (the mana regen
 bonus goes away at 250, but the insignia itself is still there - see

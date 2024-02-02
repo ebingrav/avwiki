@@ -12,14 +12,14 @@ out*
 `It is a one handed weapon which does slicing damage.`
 
 Weight: 3  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Memory Lane](:Category:Memory_Lane "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Memory Lane](:Category:Memory_Lane.md "wikilink")  
 Mob: [a nagging notion](a_nagging_notion "wikilink")  
 
 ------------------------------------------------------------------------
 
-See [Gear In Memory Lane](:Category:Gear_In_Memory_Lane "wikilink") for
-more information. Carried by one of the invisible [a nagging
+See [Gear In Memory Lane](:Category:Gear_In_Memory_Lane.md "wikilink")
+for more information. Carried by one of the invisible [a nagging
 notion](a_nagging_notion "wikilink") that are killed to spawn [The Thing
 That Time Forgot](The_Thing_That_Time_Forgot "wikilink").
 

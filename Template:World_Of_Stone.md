@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Mountain_Of_Madness" title="wikilink">Mountain
-Of Madness</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Mountain_Of_Madness"
+<td><p><a href=":Category:Mountain_Of_Madness.md"
+title="wikilink">Mountain Of Madness</a></p></td>
+<td><p>(<a href=":Category:Gear_In_Mountain_Of_Madness.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

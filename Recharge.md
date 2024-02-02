@@ -14,28 +14,28 @@
 `        in a small village.`
 
 *NOTE: Recharge is an imperfect spell and has side-effects. You also
-must know the [spell](:Category:_skills_And_Spells "wikilink") to
+must know the [spell](:Category:_skills_And_Spells.md "wikilink") to
 recharge it.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'recharge'
-\<[brandish](:Category:_Brandishes "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'recharge'
+\<[brandish](:Category:_Brandishes.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is useful for those
-[mages](:Category:_Mages "wikilink") and
-[wizards](:Category:_Wizards "wikilink") wishing to extend the useful
-life of their [brandishes](:Category:_Brandishes "wikilink")
-([wands](:Category:_Wands "wikilink") and
-[staves](:Category:_Staves "wikilink")). Recharging a
-[brandish](:Category:_Brandishes "wikilink") normally decreases its
+This [spell](:Category:_Spells.md "wikilink") is useful for those
+[mages](:Category:_Mages.md "wikilink") and
+[wizards](:Category:_Wizards.md "wikilink") wishing to extend the useful
+life of their [brandishes](:Category:_Brandishes.md "wikilink")
+([wands](:Category:_Wands.md "wikilink") and
+[staves](:Category:_Staves.md "wikilink")). Recharging a
+[brandish](:Category:_Brandishes.md "wikilink") normally decreases its
 maximum charges either to ten (if formerly eleven or more) or by one
 each time (if formerly ten or less); sometimes, though, recharging a
-[brandish](:Category:_Brandishes "wikilink") will decrease its maximum
-charges to one or will even destroy it entirely. Because of such
+[brandish](:Category:_Brandishes.md "wikilink") will decrease its
+maximum charges to one or will even destroy it entirely. Because of such
 diminishing returns, recharging is not especially useful for
-[brandishes](:Category:_Brandishes "wikilink") that initially hold few
-charges.
+[brandishes](:Category:_Brandishes.md "wikilink") that initially hold
+few charges.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

@@ -1,7 +1,7 @@
 *This spell is simple but should be considered carefully before casting.
 This is a way to transfer your corpse from an [ELITE HERO
-AREA](:Category:Elite_Hero_Areas "wikilink") to your location as long as
-you are in the Sanctum. To get this CR, the price is steep.*
+AREA](:Category:Elite_Hero_Areas.md "wikilink") to your location as long
+as you are in the Sanctum. To get this CR, the price is steep.*
 
 *If the spell worked:*
 
@@ -18,7 +18,7 @@ emergency spell used in dire times.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'eulogy'.
+Syntax: [cast](Cast.md "wikilink") 'eulogy'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

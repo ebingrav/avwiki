@@ -7,7 +7,7 @@ A crystalline crown glitters in the light.
 From [High King Adrial](High_King_Adrial "wikilink")
 
 See [Gear In Citadel
-Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for how to do
+Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for how to do
 this run.
 
 [Category:Gear In Citadel

@@ -1,26 +1,26 @@
-[`Armor`` ``Class`](Armor_Class "wikilink")` is 1-5.`  
+[`Armor`` ``Class`](Armor_Class.md "wikilink")` is 1-5.`  
 `Modifies armor class by -10 continuous.`
 
 **Keyword(s):** mother pearl.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 10 lbs  
-**[Level(s)](Object_Level "wikilink"):** 5-15  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Cyrtpea](Cyrtpea "wikilink")
-([portable](Teleport "wikilink")).  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 5-15  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Cyrtpea](Cyrtpea "wikilink") ([portable](Teleport.md "wikilink")).  
 
 ## Comments
 
 This piece of gear is nicely enchantable (no longer true), if you do it
 right you can get b12-6 or better
-[lemans](LeMans_Family_Seal "wikilink") equivalents... At around level
-35-40 or so.  
+[lemans](LeMans_Family_Seal.md "wikilink") equivalents... At around
+level 35-40 or so.  
 The same goes for [Tattered Kite
 Shield](Tattered_Kite_Shield "wikilink"), but those aren't as easy to
 obtain in large quantities.

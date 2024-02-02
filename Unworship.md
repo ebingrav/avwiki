@@ -1,8 +1,8 @@
 *You've done it. You've picked yourself a [god or
-goddess](:Category:_Gods_And_Goddesses "wikilink") and felt you were on
-top of the world. Until you found out that you were in a sadistic cult
-of pygmie pixie haters and found yourself trapped! Don't worry... you
-can now unworship for a painful price.*
+goddess](:Category:_Gods_And_Goddesses.md "wikilink") and felt you were
+on top of the world. Until you found out that you were in a sadistic
+cult of pygmie pixie haters and found yourself trapped! Don't worry...
+you can now unworship for a painful price.*
 
 This may be a good spot for a table indicating practices required to
 unworship at various levels or something.

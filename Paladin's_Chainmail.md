@@ -13,8 +13,8 @@ You have done well to hold it in your possession.*
 **Weight:** 17 lbs  
 **Bases:** 10-12  
 **Flags:** none  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Throdak](Throdak "wikilink")  
 
 ## Comments

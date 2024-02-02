@@ -19,7 +19,7 @@ This is the first quest in a series. It's fun and well worth
 experiencing - and it unlocks the rest of the quests! Do it, or miss
 out!
 
-**Start Location:** [Solace](:Category:Town_Of_Solace "wikilink")  
+**Start Location:** [Solace](:Category:Town_Of_Solace.md "wikilink")  
 **Reward:** Wealth, Experience, and a token (for the next quest in the
 series, created by Scevine, and accessible in Mervue between levels 25
 and 30).

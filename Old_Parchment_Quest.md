@@ -1,11 +1,11 @@
-From [Sol](Sol "wikilink"):
+From [Sol](Sol.md "wikilink"):
 
 -   Go 3e, 2s, \[w\], \[d\], \[d\], 2s, 2e.
 
 <!-- -->
 
--   [Get](Get "wikilink") [an old parchment](Old_Parchment "wikilink")
-    from a crack in the wall.
+-   [Get](Get.md "wikilink") [an old
+    parchment](Old_Parchment.md "wikilink") from a crack in the wall.
 
 <!-- -->
 
@@ -13,9 +13,9 @@ From [Sol](Sol "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [an old parchment](Old_Parchment "wikilink")
-    to [Sol](Sol "wikilink") and receive [a small
-    moonstone](Small_Moonstone "wikilink").
+-   [Give](Give.md "wikilink") [an old
+    parchment](Old_Parchment.md "wikilink") to [Sol](Sol.md "wikilink")
+    and receive [a small moonstone](Small_Moonstone.md "wikilink").
 
 [Category: Quests In Catacombs Of
 Solace](Category:_Quests_In_Catacombs_Of_Solace "wikilink") [Category:

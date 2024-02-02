@@ -12,11 +12,12 @@ moon.*
 **Levels:** Levels 50-52  
 **Weight:** 1 lbs  
 **Bases:** 10-12  
-**Flags:** [glow](Glow_Flag "wikilink"), [evil](Evil_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink"),
-[noremove](Noremove_Flag "wikilink")  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Flags:** [glow](Glow_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[noremove](Noremove_Flag.md "wikilink")  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Throdak](Throdak "wikilink")  
 
 ## Comments

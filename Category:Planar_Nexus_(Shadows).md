@@ -3,7 +3,7 @@
 # Other Notes
 
 There are a number of pillars in this area which can be examined  
-Check out [The Summoning](:Category:_Summoning "wikilink") for more
+Check out [The Summoning](:Category:_Summoning.md "wikilink") for more
 backstory.
 
 `"So it was that the Serpentking did give stones of his making to`  

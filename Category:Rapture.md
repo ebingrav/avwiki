@@ -10,9 +10,9 @@ a while, and try your skills at animal husbandry?*
 
 **Level Range:** 51-51
 
-**Builder:** [WinterRose](:User:WinterRose "wikilink")
+**Builder:** [WinterRose](:User:WinterRose.md "wikilink")
 
-[Area](:Category:_Areas "wikilink") was added on 23rd of June 2013.
+[Area](:Category:_Areas.md "wikilink") was added on 23rd of June 2013.
 
 ## Directions
 
@@ -27,19 +27,19 @@ Portal Point Brutus or raccoon (also a great immolate/devour mob)
 
 ## Connections
 
--   [Eragora Walkways](:Category:Eragora_Walkways "wikilink")
-    ([map](Eragora_Walkways_Map "wikilink"))
+-   [Eragora Walkways](:Category:Eragora_Walkways.md "wikilink")
+    ([map](Eragora_Walkways_Map.md "wikilink"))
 
 ## Adventuring
 
 Area is small and easy to explore fully. It features a [primary
-quest](Rapture_Slavery_Quest "wikilink") that involves picking a side as
-explained in the area's intro and then proceeding to eliminate the other
-side. This quest is not group-based and is soloable by heroes.
+quest](Rapture_Slavery_Quest.md "wikilink") that involves picking a side
+as explained in the area's intro and then proceeding to eliminate the
+other side. This quest is not group-based and is soloable by heroes.
 
 Secondary quest involves [animal
-husbandry](Animal_Handler_Quest "wikilink"), is very difficult to solo
-even for 999s, and will reward the entire group accomplishing it.
+husbandry](Animal_Handler_Quest.md "wikilink"), is very difficult to
+solo even for 999s, and will reward the entire group accomplishing it.
 
 From the builder:
 

@@ -1,11 +1,12 @@
 -   Teleport to [Mourning Drow](Mourning_Drow "wikilink").
 -   Go w \[w\] w n d \[d\] n w 8s e.
--   [This room](Bones_Upon_Flesh-Dragged_Bones_(Necropolis) "wikilink")
-    is [nospell](nospell "wikilink") and the mobs are rather strong. The
+-   [This
+    room](Bones_Upon_Flesh-Dragged_Bones_(Necropolis).md "wikilink") is
+    [nospell](nospell "wikilink") and the mobs are rather strong. The
     room also needs fly to get in and out of, so if you get stuck here,
     you need to have [fly
-    gear](:Category:_Gear_That_Applies_Fly "wikilink") to get out. There
-    are three aggie detecting mobs in there, [Small Blue-Ice
+    gear](:Category:_Gear_That_Applies_Fly.md "wikilink") to get out.
+    There are three aggie detecting mobs in there, [Small Blue-Ice
     Fires](Small_Blue-Ice_Fire "wikilink"). Kill all three of them.
     Sometimes a guardian drifts into the room. Kill it before all the
     small blue-ice fires die, otherwise the amulet won't pop.

@@ -1,6 +1,6 @@
 The Ultimate Archers Gauntlet won by <your hero> <date>.
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 27.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 27.`  
 ` Modifies hit roll by 3 continuous`  
 ` Modifies armor class by -10`  
 ` Modifies hit roll by 7 continuous`  
@@ -10,18 +10,18 @@ The Ultimate Archers Gauntlet won by <your hero> <date>.
 `It facilitates the archery skill <*see below>.`
 
 **Keyword(s):** gauntlet, quest, your-hero-etch.  
-**[Level(s)](Object_Level "wikilink"):** 128.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on hands>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** 128.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on hands>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
 <whatever your hero gauntlet had>.  
-**[Area](:Category:_Areas "wikilink"):** [House Of
-Bandu](:Category:_House_Of_Bandu "wikilink")
-([Map](House_Of_Bandu_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [House Of
+Bandu](:Category:_House_Of_Bandu.md "wikilink")
+([Map](House_Of_Bandu_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Miloslava](Miloslava "wikilink") (Thorngate Center, w, \[w\], w)  
 
 ## The "Quest"

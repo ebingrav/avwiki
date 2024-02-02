@@ -9,22 +9,22 @@ Domi](King_Domi "wikilink") is clearly on the rise.*
 
 **Builder:** Izanagi
 
-This [area](:Category:_Areas "wikilink") was added in 2010 Nov.  
+This [area](:Category:_Areas.md "wikilink") was added in 2010 Nov.  
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): ???.
+Walking route from [Sol](Sol.md "wikilink"): ???.
 
-Walking route from [Aelmon](Aelmon "wikilink"): ???.
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Duergar Caravan
+[Portaling](Portal.md "wikilink") point(s) suggested: [Duergar Caravan
 Master](Duergar_Caravan_Master "wikilink").
 
 ## Connections
 
--   [Deepways](:Category:Deepways "wikilink")
--   [Duergar Stronghold](:Category:_Duergar_Stronghold "wikilink")
--   [Westwood](:Category:Westwood "wikilink")
+-   [Deepways](:Category:Deepways.md "wikilink")
+-   [Duergar Stronghold](:Category:_Duergar_Stronghold.md "wikilink")
+-   [Westwood](:Category:Westwood.md "wikilink")
 
 ## Navigation
 

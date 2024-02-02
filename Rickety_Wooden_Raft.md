@@ -1,20 +1,20 @@
 *A set of rickety boards lashed together with moss floats here.*
 
 **Keyword(s):** Raft, boards.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[boat](:Category:_Boats "wikilink"), magic.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[boat](:Category:_Boats.md "wikilink"), magic.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moss
-Village](:Category:_Moss_Village "wikilink")
-([Map](Moss_Village_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Moss
+Village](:Category:_Moss_Village.md "wikilink")
+([Map](Moss_Village_Map.md "wikilink")).  
 Room: Old docks.
 
 [Category: Gear In Moss

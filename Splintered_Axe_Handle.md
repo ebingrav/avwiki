@@ -2,27 +2,27 @@
 blade of a war hatchet. Now it is little but a decorated handful of
 splinters.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 16 to 46 (average 31).`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 16 to 46 (average 31).`
 
 **Keyword(s):** splintered, axe, handle.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Dragon
-Crypt](:Category:_Dragon_Crypt "wikilink")
-([Map](Dragon_Crypt_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Svlad the Very
-Burly](Svlad_The_Very_Burly "wikilink").  
-See [Svlad the Very Burly](Svlad_The_Very_Burly "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Dragon
+Crypt](:Category:_Dragon_Crypt.md "wikilink")
+([Map](Dragon_Crypt_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Svlad the Very
+Burly](Svlad_The_Very_Burly.md "wikilink").  
+See [Svlad the Very Burly](Svlad_The_Very_Burly.md "wikilink") for more
 information.  
 
 [Category: Gear In Dragon

@@ -4,7 +4,7 @@ Hero mage lore. Provides access to lord mage lore.
 
 # Prereqs
 
--   [basic magic](Basic_Magic "wikilink")
+-   [basic magic](Basic_Magic.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -20,7 +20,7 @@ Hero mage lore. Provides access to lord mage lore.
 
 # Lores Unlocked
 
--   [greater magic](Greater_Magic "wikilink")
+-   [greater magic](Greater_Magic.md "wikilink")
 
 # Other Notes
 

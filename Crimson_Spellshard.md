@@ -1,33 +1,34 @@
 *This gripped shard of crimson ulexite amplifies magical energy.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 15-17 to 45-49.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 14 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 5 continuous.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 90 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 15-17 to 45-49.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 14 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 5 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 90 continuous.`
 
 **Keyword(s):** crimson spellshard shard spell.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
 At first glance, an odd weapon, not fully mana gear, and again not
 entirely hitgear, this weapon can nevertheless be
-[runed](Rune "wikilink") with AC runes to get a possibly good
-[bladedancer](:Category:Bladedancers "wikilink") tank wield.
+[runed](Rune.md "wikilink") with AC runes to get a possibly good
+[bladedancer](:Category:Bladedancers.md "wikilink") tank wield.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")
-([Map](Exploration_Outpost_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Apprentice-Wizard
+**[Area](:Category:_Areas.md "wikilink"):** [Exploration
+Outpost](:Category:_Exploration_Outpost.md "wikilink")
+([Map](Exploration_Outpost_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Apprentice-Wizard
 Arakos](Apprentice-Wizard_Arakos "wikilink").  
 See [Apprentice-Wizard Arakos](Apprentice-Wizard_Arakos "wikilink") for
 more information.  

@@ -10,9 +10,9 @@ Type: weapon
 Weight: 3  
 Keywords: elegant double-bladed curved sword old  
 Flags: nolocate dull  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
-Area: [Under The Stars](:Category:Under_The_Stars "wikilink") or
-[Obsidian Arena; Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
+Area: [Under The Stars](:Category:Under_The_Stars.md "wikilink") or
+[Obsidian Arena; Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 Mob: [Yorimandil The Blind](Yorimandil_The_Blind "wikilink")  
 This weapon is used to create the [Sword Of Yorimandil,
 Restored](Sword_Of_Yorimandil,_Restored "wikilink").
@@ -20,12 +20,12 @@ Restored](Sword_Of_Yorimandil,_Restored "wikilink").
 ------------------------------------------------------------------------
 
 See [Gear In Under The
-Stars](:Category:Gear_In_Under_The_Stars "wikilink") or [Gear In
+Stars](:Category:Gear_In_Under_The_Stars.md "wikilink") or [Gear In
 Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;
 Floor](Category:Gear_In_Obsidian_Arena;_Floor "wikilink") [Gear In Under
-The Stars](Category:Gear_In_Under_The_Stars "wikilink") [Category:Lord
-Weapons](Category:Lord_Weapons "wikilink")
+The Stars](Category:Gear_In_Under_The_Stars.md "wikilink")
+[Category:Lord Weapons](Category:Lord_Weapons "wikilink")

@@ -1,25 +1,26 @@
-*The Sanctuary [spell](:Category:_Spells "wikilink") reduces the damage
-taken by the [character](:Category:_Characters "wikilink") from any
-attack by one half. Can be [cast](Cast "wikilink") on any
-[character](:Category:_Characters "wikilink"). Sanctuary can be used in
-conjunction with either [Protection Evil](Protection_Evil "wikilink") or
-[Protection Good](Protection_Good "wikilink") or both.*
+*The Sanctuary [spell](:Category:_Spells.md "wikilink") reduces the
+damage taken by the [character](:Category:_Characters.md "wikilink")
+from any attack by one half. Can be [cast](Cast.md "wikilink") on any
+[character](:Category:_Characters.md "wikilink"). Sanctuary can be used
+in conjunction with either [Protection
+Evil](Protection_Evil.md "wikilink") or [Protection
+Good](Protection_Good.md "wikilink") or both.*
 
-Prerequisite(s): [Protection Evil](Protection_Evil "wikilink"),
-[Protection Good](Protection_Good "wikilink").
+Prerequisite(s): [Protection Evil](Protection_Evil.md "wikilink"),
+[Protection Good](Protection_Good.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'sanctuary'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'sanctuary'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Awen](Awen "wikilink") but *not* in [Aegis](Aegis "wikilink"). Like
-[Frenzy](Frenzy "wikilink"), Sanctuary has a relatively short duration
-compared with other [spells](:Category:_Spells "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Awen](Awen.md "wikilink") but *not* in [Aegis](Aegis.md "wikilink").
+Like [Frenzy](Frenzy.md "wikilink"), Sanctuary has a relatively short
+duration compared with other [spells](:Category:_Spells.md "wikilink").
 
-See also [Black Aura](Black_Aura "wikilink"), [Gear That Applies
-Sanctuary](:Category:_Gear_That_Applies_Sanctuary "wikilink"),
-[Sanctuary Gear](:Category:_Sanctuary_Gear "wikilink"), and [White
-Aura](White_Aura "wikilink").
+See also [Black Aura](Black_Aura.md "wikilink"), [Gear That Applies
+Sanctuary](:Category:_Gear_That_Applies_Sanctuary.md "wikilink"),
+[Sanctuary Gear](:Category:_Sanctuary_Gear.md "wikilink"), and [White
+Aura](White_Aura.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

@@ -2,8 +2,8 @@ Couldn't get wikimedia upload to work (kept getting an error), so
 generated an ascii map. Warning: Very large.
 
 There is also a [ PNG version of this
-map](:Image:Forge_ascii_map.png "wikilink"), which may be a bit easier
-to read.
+map](:Image:Forge_ascii_map.png.md "wikilink"), which may be a bit
+easier to read.
 
                                                             ┌───────────────────┐
                                                             │                   │

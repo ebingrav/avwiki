@@ -1,13 +1,13 @@
-*Earthbind only works against [flying](Flying_Flag "wikilink")
-[creatures](:Category:_Mobs "wikilink"), taking away their ability to
+*Earthbind only works against [flying](Flying_Flag.md "wikilink")
+[creatures](:Category:_Mobs.md "wikilink"), taking away their ability to
 stay aloft, and damages them somewhat when they fall.*
 
-Prerequisite(s): [Fly](Fly "wikilink").
+Prerequisite(s): [Fly](Fly.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'earthbind'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'earthbind'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

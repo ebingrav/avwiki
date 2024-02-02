@@ -1,21 +1,21 @@
-[`Damage`](Melee_Weapon_Values "wikilink")` is 35 to 102 (average 68).`  
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 35 to 102 (average 68).`  
 ` Modifies stealth by + 5% continuous`  
-` Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by  22 continuous`  
-` Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by  22 continuous`
+` Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by  22 continuous`  
+` Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by  22 continuous`
 
 **Keyword(s):** assassins, blade.  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 150 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 150 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Tssasskkas's Lair
-Redux](:Category:_Tssasskkas's_Lair_Redux "wikilink").  
-**[Mob](:Category:_Mobs "wikilink"):**  
+**[Area](:Category:_Areas.md "wikilink"):** [ Tssasskkas's Lair
+Redux](:Category:_Tssasskkas's_Lair_Redux.md "wikilink").  
+**[Mob](:Category:_Mobs.md "wikilink"):**  
 
 ---
 

@@ -1,5 +1,5 @@
-[](:Category:{{{name}}} "wikilink") ([map]({{{name}}}_Map "wikilink"))
-<noinclude>
+[](:Category:{{{name}}}.md "wikilink")
+([map]({{{name}}}_Map.md "wikilink")) <noinclude>
 
 <hr>
 

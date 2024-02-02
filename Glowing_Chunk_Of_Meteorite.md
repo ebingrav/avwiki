@@ -1,30 +1,31 @@
 *A glowing fist size chunk of meteorite hums faintly.*
 
 **Keyword(s):** glowing, meteorite, chunk.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [hum](Hum_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in
-[Westwood](:Category:_Westwood "wikilink")'s [Well Crafted Qass Short
-Spear Quest](Well_Crafted_Qass_Short_Spear_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in
+[Westwood](:Category:_Westwood.md "wikilink")'s [Well Crafted Qass Short
+Spear Quest](Well_Crafted_Qass_Short_Spear_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Westwood](:Category:_Westwood "wikilink")
-([Map](Westwood_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Well Crafted Qass
-Short Spear](Well_Crafted_Qass_Short_Spear "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Westwood](:Category:_Westwood.md "wikilink")
+([Map](Westwood_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Well Crafted Qass
+Short Spear](Well_Crafted_Qass_Short_Spear.md "wikilink").  
 See [Well Crafted Qass Short
-Spear](Well_Crafted_Qass_Short_Spear "wikilink") for more information.
+Spear](Well_Crafted_Qass_Short_Spear.md "wikilink") for more
+information.
 
 [Category: Gear In Westwood](Category:_Gear_In_Westwood "wikilink")
 [Category: Tickets](Category:_Tickets "wikilink") [Category: Lowmort

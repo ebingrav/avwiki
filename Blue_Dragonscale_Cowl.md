@@ -3,20 +3,20 @@ ambush. Naturally, most folks don't usually realize they are seeing it
 until the wearer has jumped out of cover and run them through with their
 spear.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
 `'move hidden    '  continuous`  
 `Modifies armor class by -35 continuous`  
 `Modifies mana by 20 continuous`
 
 **Keyword(s):** hood, blue, dragonscale, scaled, cowl.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[Magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[Magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -30,9 +30,9 @@ useful worn instead.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Lizard
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Lizard
 Hunter](Lizard_Hunter "wikilink").  
 See [Lizard Hunter](Lizard_Hunter "wikilink") for more information.
 

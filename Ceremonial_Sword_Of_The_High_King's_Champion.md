@@ -7,12 +7,12 @@ Modifies mana by 200 continuous.
 Slot: Wield/Offhand  
 Flags: magic nolocate  
 Weight: 10  
-Planes: [Thorngate](:Category:Thorngate "wikilink"),
-[Astral](:Category:Astral "wikilink"), [Kzinti
-Homeworld](:Category:Kzinti_Homeworld "wikilink")  
-Areas: [Astral Invasion](:Category:Astral_Invasion "wikilink"), [Savage
-Jungle](:Category:Savage_Jungle "wikilink"), [Kzinti Spire Of
-Knowledge](:Category:Kzinti_Spire_Of_Knowledge "wikilink")  
+Planes: [Thorngate](:Category:Thorngate.md "wikilink"),
+[Astral](:Category:Astral.md "wikilink"), [Kzinti
+Homeworld](:Category:Kzinti_Homeworld.md "wikilink")  
+Areas: [Astral Invasion](:Category:Astral_Invasion.md "wikilink"),
+[Savage Jungle](:Category:Savage_Jungle.md "wikilink"), [Kzinti Spire Of
+Knowledge](:Category:Kzinti_Spire_Of_Knowledge.md "wikilink")  
 Mobs: [Kzinti Emissary](Kzinti_Emissary "wikilink"), [A kzinti
 scientist](A_kzinti_scientist "wikilink"), [Hidden
 Anxiety](Hidden_Anxiety "wikilink") (ticket quest)  
@@ -21,28 +21,29 @@ Anxiety](Hidden_Anxiety "wikilink") (ticket quest)
 
 To get this piece of gear, you need to turn in 4 tickets to
 [Killaris](Killaris "wikilink"), who wanders around
-[Thorngate](:Category:Thorngate "wikilink"). The actual ticket that you
-give him is the [Pile Of Green
+[Thorngate](:Category:Thorngate.md "wikilink"). The actual ticket that
+you give him is the [Pile Of Green
 Webbing](Pile_Of_Green_Webbing "wikilink"), but you also need to have
 the [Lab Memo From Jungle](Lab_Memo_From_Jungle "wikilink"), the [Lab
 Memo From Spires](Lab_Memo_From_Spires "wikilink"), and the [Vial Of
 Unfinished Portal Serum](Vial_Of_Unfinished_Portal_Serum "wikilink") in
 your inventory when you do so.
 
-The [webbing](Pile_Of_Green_Webbing "wikilink") loads on the [Kzinti
+The [webbing](Pile_Of_Green_Webbing.md "wikilink") loads on the [Kzinti
 Emissary](Kzinti_Emissary "wikilink"), a mob in [Astral
-Invasion](:Category:Astral_Invasion "wikilink") (6th leg I think). See
-[Gear In Astral Invasion](:Category:Gear_In_Astral_Invasion "wikilink")
-for more information about that run.
+Invasion](:Category:Astral_Invasion.md "wikilink") (6th leg I think).
+See [Gear In Astral
+Invasion](:Category:Gear_In_Astral_Invasion.md "wikilink") for more
+information about that run.
 
 The other tickets that you need are all in the [Kzinti
-Homeworld](:Category:Kzinti_Homeworld "wikilink"). The [jungle
-memo](Lab_Memo_From_Jungle "wikilink") is on a [A kzinti
+Homeworld](:Category:Kzinti_Homeworld.md "wikilink"). The [jungle
+memo](Lab_Memo_From_Jungle.md "wikilink") is on a [A kzinti
 scientist](A_kzinti_scientist "wikilink") all north, east of shift. The
-[serum](Vial_Of_Unfinished_Portal_Serum "wikilink") and the [spires
-memo](Lab_Memo_From_Spires "wikilink") are on [Hidden
+[serum](Vial_Of_Unfinished_Portal_Serum.md "wikilink") and the [spires
+memo](Lab_Memo_From_Spires.md "wikilink") are on [Hidden
 Anxiety](Hidden_Anxiety "wikilink"). See [Gear In Kzinti
-Homeworld](:Category:Gear_In_Kzinti_Homeworld "wikilink") for more
+Homeworld](:Category:Gear_In_Kzinti_Homeworld.md "wikilink") for more
 details on the spires run.
 
 Currently the item has keyword quest, do not insure if you want to

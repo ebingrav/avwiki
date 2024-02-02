@@ -5,12 +5,12 @@ challenge. The enemies in these areas enjoy several advantages over
 normal monsters, and give more experience than in normal areas.
 
 Heroes who have reached sublevel 500 are able to practice
-[eulogy](Eulogy "wikilink") and can transfer their corpse from an elite
-hero area to [Sanctum](:Category:_Sanctum "wikilink"). The price for
-this CR is steep.
+[eulogy](Eulogy.md "wikilink") and can transfer their corpse from an
+elite hero area to [Sanctum](:Category:_Sanctum.md "wikilink"). The
+price for this CR is steep.
 
-Thanks to several [ corpse eaters](Corpse-Eating_Mobs "wikilink") and [
-corpse animators](Corpse-Animating_Mobs "wikilink"), carrying
+Thanks to several [ corpse eaters](Corpse-Eating_Mobs.md "wikilink") and
+[ corpse animators](Corpse-Animating_Mobs.md "wikilink"), carrying
 [Consecrated Ashes](Consecrated_Ashes "wikilink") and [Sulfurous
 Ashes](Sulfurous_Ashes "wikilink") in your inventory can be helpful if
 you die.

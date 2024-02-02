@@ -6,7 +6,7 @@
 
 ## Comments
 
-[A young acolyte](Young_Acolyte "wikilink") gives you this at the
+[A young acolyte](Young_Acolyte.md "wikilink") gives you this at the
 entrance to the area. It is involved with [Brother
 Torean](Brother_Torean "wikilink") and the two-handed weapon [Avalanche,
 Maul Of The Mountain](Avalanche,_Maul_Of_The_Mountain "wikilink").

@@ -4,12 +4,12 @@
 ` Modifies kinetic damage roll by 30 continuous`
 
 **Keywords:** ant wing chakram  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -31,11 +31,12 @@ common that chakram queen (one recent camp yielded 3 chakrams in about
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Savage
-Jungle](:Category:_Savage_Jungle "wikilink")
-([Map](Savage_Jungle_Map "wikilink")).  
-See [Gear In Savage Jungle](:Category:Gear_In_Savage_Jungle "wikilink")
-for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [ Savage
+Jungle](:Category:_Savage_Jungle.md "wikilink")
+([Map](Savage_Jungle_Map.md "wikilink")).  
+See [Gear In Savage
+Jungle](:Category:Gear_In_Savage_Jungle.md "wikilink") for more
+information.
 
 [Category: Gear In Savage
 Jungle](Category:_Gear_In_Savage_Jungle "wikilink") [Category: Lord

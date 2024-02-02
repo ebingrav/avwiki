@@ -1,14 +1,14 @@
 *Cyclone unleashes a tremendous blast of air into the
-[room](:Category:_Rooms "wikilink"), causing major damage.*
+[room](:Category:_Rooms.md "wikilink"), causing major damage.*
 
-Prerequisite(s): [Control Weather](Control_Weather "wikilink").
+Prerequisite(s): [Control Weather](Control_Weather.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'cyclone'.
+Syntax: [cast](Cast.md "wikilink") 'cyclone'.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
-See also: [Area Spells](:Category:_Area_Spells "wikilink"), [Cyclone
-Gear](:Category:_Cyclone_Gear "wikilink").
+See also: [Area Spells](:Category:_Area_Spells.md "wikilink"), [Cyclone
+Gear](:Category:_Cyclone_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

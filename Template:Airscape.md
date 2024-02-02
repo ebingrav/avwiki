@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Airscape_Proper" title="wikilink">Airscape
+<td><p><a href=":Category:Airscape_Proper.md" title="wikilink">Airscape
 Proper</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Airscape_Proper"
+<td><p>(<a href=":Category:Gear_In_Airscape_Proper.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

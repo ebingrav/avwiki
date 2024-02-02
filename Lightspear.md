@@ -9,15 +9,15 @@ It is a hafted weapon that deals stabbing damage.
 Slot: wield  
 Flags: glow magic  
 Weight: 2  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Invasion](:Category:Astral_Invasion "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Invasion](:Category:Astral_Invasion.md "wikilink")  
 Mob: [Fae Invasion Commander](Fae_Invasion_Commander "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Astral
-Invasion](:Category:Gear_In_Astral_Invasion "wikilink") for instructions
-on how to get this gear.
+Invasion](:Category:Gear_In_Astral_Invasion.md "wikilink") for
+instructions on how to get this gear.
 
 [Category:Lord Second Tier Mana
 Gear](Category:Lord_Second_Tier_Mana_Gear "wikilink") [Category: Lord

@@ -1,24 +1,25 @@
-*A good [thief](:Category:_Rogues "wikilink") is always on his toes,
+*A good [thief](:Category:_Rogues.md "wikilink") is always on his toes,
 always scanning his surroundings for [hidden
-goodies](Hide_Flag "wikilink"), making mental notes of the best escape
-routes should a fight break out. Alertness represents this state of
-focused perception. While utilizing this
-[skill](:Category:_Skills_And_Spells "wikilink"), a
-[Rogue](:Category:_Rogues "wikilink") will be able to see
-[hidden](Hide_Flag "wikilink") [objects](:Category:_Objects "wikilink"),
-people, hidden or secret [doors](:Category:_Doors "wikilink"), and even
-[sneaking](Sneak_Flag "wikilink") people.
-[Rogues](:Category:_Rogues "wikilink") must use this
-[skill](:Category:_Skills_And_Spells "wikilink") in order to make use of
-the [withdraw](Withdraw_(skill) "wikilink")
-[skill](:Category:_Skills_And_Spells "wikilink"). The downside is that
-it will cost more [movement points](Move_Points "wikilink") each time
-the [Rogue](:Category:_Rogues "wikilink") moves, because of the added
-notice he takes of everything in each new
-[room](:Category:_Rooms "wikilink").*
+goodies](Hide_Flag.md "wikilink"), making mental notes of the best
+escape routes should a fight break out. Alertness represents this state
+of focused perception. While utilizing this
+[skill](:Category:_Skills_And_Spells.md "wikilink"), a
+[Rogue](:Category:_Rogues.md "wikilink") will be able to see
+[hidden](Hide_Flag.md "wikilink")
+[objects](:Category:_Objects.md "wikilink"), people, hidden or secret
+[doors](:Category:_Doors.md "wikilink"), and even
+[sneaking](Sneak_Flag.md "wikilink") people.
+[Rogues](:Category:_Rogues.md "wikilink") must use this
+[skill](:Category:_Skills_And_Spells.md "wikilink") in order to make use
+of the [withdraw](Withdraw_(skill).md "wikilink")
+[skill](:Category:_Skills_And_Spells.md "wikilink"). The downside is
+that it will cost more [movement points](Move_Points.md "wikilink") each
+time the [Rogue](:Category:_Rogues.md "wikilink") moves, because of the
+added notice he takes of everything in each new
+[room](:Category:_Rooms.md "wikilink").*
 
-Prerequisite: [Lore](Lore "wikilink"),
-[Nightvision](Nightvision "wikilink").
+Prerequisite: [Lore](Lore.md "wikilink"),
+[Nightvision](Nightvision.md "wikilink").
 
 Syntax: alertness.
 

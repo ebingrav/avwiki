@@ -1,9 +1,9 @@
-Type: [boat](:Category:Boats "wikilink")  
+Type: [boat](:Category:Boats.md "wikilink")  
 Level: 5-7  
 Weight: 5  
 Flags: none  
-Area: [Goblin Caverns](:Category:Goblin_Caverns "wikilink")
-([map](Goblin_Caverns_Map "wikilink"))  
+Area: [Goblin Caverns](:Category:Goblin_Caverns.md "wikilink")
+([map](Goblin_Caverns_Map.md "wikilink"))  
 Room: Near An Underground Lake
 
 Loads on the ground.

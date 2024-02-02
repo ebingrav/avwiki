@@ -1,27 +1,27 @@
 *A huge mace seems to be cracking the floor with its weight.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 16 to 48 (average 31).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 7 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 7 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by -2 continuous.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by -2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 16 to 48 (average 31).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 7 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 7 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by -2 continuous.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by -2 continuous.`
 
 **Keyword(s):** huge mace  
-**[Level(s)](Object_Level "wikilink"):** 42  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 50 lbs  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 42  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 50 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Trials Of
-Zin](:Category:_Trials_Of_Zin "wikilink")
-([Map](Trials_Of_Zin_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Kobold's
+**[Area](:Category:_Areas.md "wikilink"):** [Trials Of
+Zin](:Category:_Trials_Of_Zin.md "wikilink")
+([Map](Trials_Of_Zin_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Kobold's
 Leader](Kobold's_Leader "wikilink")  
 From [Zin](Zin "wikilink"): 2n, 4e, \[e\], 8u. The mobs after opening
 the door are aggie.

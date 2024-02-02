@@ -24,7 +24,7 @@ Thus, you should type TELL KIMLA HELP.
 You would then see (when she is out of lag!):
 
 Kimla tells you 'tell me:
-light\|spell\|spelltank\|\|sf\|dd\|hs\|cd\|cp\|reg\|c sanc\|c foci\|c
+light.md\|spell\|spelltank\|\|sf\|dd\|hs\|cd\|cp\|reg\|c sanc\|c foci\|c
 fort\|c awen\|c invin\|c 'iron skin'\|c invig\|c fre\|c rem\|rem
 (int)\|c div\|c heal\|c comf\|c bark\|c por <mob>\|c nex <mob>\|c
 invis\|c dark\|help, salute, bark, spull, tank'
@@ -70,14 +70,14 @@ also that there are many bots, so glancing at everyone's titles
 occasionally can be useful.
 
 Psionicists and Mindbenders are also able to give [steel
-skeleton](Steel_Skeleton "wikilink") and [iron
-skin](Iron_Skin "wikilink"). Sometimes you can find a bot on that does
-this. Type WHO HERO PSI, etc, to check. Note that some general purpose
-spellbots are programmed to give iron skin while some, such as Kimla,
-are not.
+skeleton](Steel_Skeleton.md "wikilink") and [iron
+skin](Iron_Skin.md "wikilink"). Sometimes you can find a bot on that
+does this. Type WHO HERO PSI, etc, to check. Note that some general
+purpose spellbots are programmed to give iron skin while some, such as
+Kimla, are not.
 
 Finally, note that this room is an
-[infirmary](:Category:_Infirmaries "wikilink"), which currently means
+[infirmary](:Category:_Infirmaries.md "wikilink"), which currently means
 you will regen twice as fast for free.
 
 [Category:Miscellaneous](Category:Miscellaneous "wikilink")

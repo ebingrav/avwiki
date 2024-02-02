@@ -2,18 +2,18 @@
 carries a variety of vials and tools.*
 
 **Keywords:** venom, man, snake, rogue  
-**[Level](Level "wikilink"):**  
+**[Level](Level.md "wikilink"):**  
 **Scan Description:** A snake-like man is here, mixing something in a
 vial.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink")  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink")  
 **Affects:** Move Hidden  
 
 ## Gear
 
 `    The foreman is using:`  
-`    `<worn on hands>`     `[`a`` ``poisoned`` ``dagger`](a_poisoned_dagger "wikilink")
+`    `<worn on hands>`     `[`a`` ``poisoned`` ``dagger`](a_poisoned_dagger.md "wikilink")
 
 `    You peek at the inventory:`  
 `         [Pristine  ] a poisoning tool kit`  
@@ -28,12 +28,13 @@ you don't have rogue lore.
 
 ## Directions
 
-Portal to [Wielmann](Wielmann "wikilink"): : 3w2nen Mob is Hidden
+Portal to [Wielmann](Wielmann.md "wikilink"): : 3w2nen Mob is Hidden
 
-**[Area](:Category:_Areas "wikilink"):**
-[Outsiders](:Category:Outsiders "wikilink")
-([Map](Outsiders_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A muddy tunnel (portable).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Outsiders](:Category:Outsiders.md "wikilink")
+([Map](Outsiders_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A muddy tunnel
+(portable).  
 Venom-man is portable.
 
 [Category:Mobs In Outsiders](Category:Mobs_In_Outsiders "wikilink")

@@ -1,6 +1,6 @@
 Syntax: cast salvation <target>  
-Prerequisites: [Planeshift](Planeshift "wikilink"),
-[Eulogy](Eulogy "wikilink")  
+Prerequisites: [Planeshift](Planeshift.md "wikilink"),
+[Eulogy](Eulogy.md "wikilink")  
 Participants: 5  
 "And by their words of Faith did the Sons of Gahrdril pluck their master
 from the clutches of Anthraxus, in the dark and sinister Realm of
@@ -10,12 +10,12 @@ Ritual of Salvation first brought to Light..."
 Salvation is an interplanar summoning Ritual. Since it was created by
 the Priests of Tul-Sith, it only works on those born in his native plane
 (that is, player characters) and can only bring people to
-[Midgaard](:Category:_Midgaardia "wikilink") or
-[Thorngate](:Category:_Thorngate "wikilink"). To prevent this Ritual
+[Midgaard](:Category:_Midgaardia.md "wikilink") or
+[Thorngate](:Category:_Thorngate.md "wikilink"). To prevent this Ritual
 being used for Great Evil, it cannot summon a target out of the
 Midgaardian Plane.
 
-This spell is a [Ritual](:Category:_Rituals "wikilink") requiring 5
+This spell is a [Ritual](:Category:_Rituals.md "wikilink") requiring 5
 casters. Only a Cleric or a Priest can initiate this Ritual.
 
 [Category: Lord Mage Spells](Category:_Lord_Mage_Spells "wikilink")

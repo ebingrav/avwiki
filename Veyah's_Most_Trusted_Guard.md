@@ -8,11 +8,11 @@ only has one thought in his mind, and that is to protect Veyah.*
 **Keywords:** Guard.  
 **Scan Description:** There is nothing behind this guard's eyes but
 determination to protect Veyah..  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Sentinel](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Sentinel](Sentinel_Mobs.md "wikilink").  
 **Affects:** [Sanctuary](Sanctuary "wikilink"), [Pass
 Door](Pass_Door "wikilink").  
 
@@ -20,20 +20,20 @@ Door](Pass_Door "wikilink").
 
 `Veyah's Most Trusted Guard is using:`  
 <worn on body>`      `[`Glass`` ``Platemail`](Glass_Platemail "wikilink")  
-<wielded>`           `[`A`` ``Large,`` ``Dinged`` ``Broadsword`](Large,_Dinged_Broadsword "wikilink")
+<wielded>`           `[`A`` ``Large,`` ``Dinged`` ``Broadsword`](Large,_Dinged_Broadsword.md "wikilink")
 
 `Veyah's Most Trusted Guard is carrying:`  
 `     Nothing.`
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [At The Bottom Of The
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [At The Bottom Of The
 Ice-Embraced Stone
-Steps](At_The_Bottom_Of_The_Ice-Embraced_Stone_Steps_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+Steps](At_The_Bottom_Of_The_Ice-Embraced_Stone_Steps_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 2d.

@@ -1,15 +1,15 @@
 *Heavy leather work gloves sit side by side on the ground.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 7.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 7.`
 
 **Keyword(s):** gloves workgloves work.  
-**[Level(s)](Object_Level "wikilink"):** 30.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on hands>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 30.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on hands>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -19,10 +19,10 @@ armor value can also go up to base 12, and the level can go up to level
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Royal
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Royal
 Bodyguard](Royal_Bodyguard "wikilink"), [Royal Chamber
 Guard](Royal_Chamber_Guard "wikilink"), [Captain Of The Trog
 Guard](Captain_Of_The_Trog_Guard "wikilink"), [Ekjuistn The

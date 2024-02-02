@@ -3,14 +3,14 @@ somewhere deep down among the boulders, it will be enough to tear any
 careless adventurer of this realm of the weak to pieces.*
 
 **Keywords:** thin, black, tentacle.  
-**[Level](Level "wikilink"):** 41.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 41.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -22,24 +22,25 @@ invis](Detect_Invis "wikilink"),
 
 ## Comments
 
-[Skinning](Skin "wikilink") a thin black tentacle's corpse yields [a
-long black tentacle string](Long_Black_Tentacle_String "wikilink"),
-which is used in [Shadow Forest](:Category:_Shadow_Forest "wikilink")'s
-[Longbow Christened 'True Sight'
-Quest](Longbow_Christened_'True_Sight'_Quest "wikilink").
+[Skinning](Skin.md "wikilink") a thin black tentacle's corpse yields [a
+long black tentacle string](Long_Black_Tentacle_String.md "wikilink"),
+which is used in [Shadow
+Forest](:Category:_Shadow_Forest.md "wikilink")'s [Longbow Christened
+'True Sight'
+Quest](Longbow_Christened_'True_Sight'_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Forest](:Category:_Shadow_Forest "wikilink")
-([Map](Shadow_Forest_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Squeezed into a gap among the
-stones ([cursed](Cursed_Rooms "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Forest](:Category:_Shadow_Forest.md "wikilink")
+([Map](Shadow_Forest_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Squeezed into a gap among
+the stones ([cursed](Cursed_Rooms.md "wikilink")).
 
-Walking route from [white druid](White_Haired_Druid "wikilink"): e, s,
-2e, n, d, e, n, d, [give](Give "wikilink") [a large
-egg](Large_Egg "wikilink") to [a twisted
-hunter](Twisted_Hunter "wikilink").
+Walking route from [white druid](White_Haired_Druid.md "wikilink"): e,
+s, 2e, n, d, e, n, d, [give](Give.md "wikilink") [a large
+egg](Large_Egg.md "wikilink") to [a twisted
+hunter](Twisted_Hunter.md "wikilink").
 
 [Category: Mobs In Shadow
 Forest](Category:_Mobs_In_Shadow_Forest "wikilink")

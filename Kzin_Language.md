@@ -9,9 +9,9 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Kzin:       `*`STHawur`` ``uiechkr`` ``heron`` ``oec`` ``uchurt`` ``oeurher`` ``sthawur`` ``ruziiiry`` ``togr.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Kzin:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Kzin:
 
--   [Kzinti](Kzinti "wikilink").
+-   [Kzinti](Kzinti.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

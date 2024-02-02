@@ -7,9 +7,9 @@ that can be successfully used outside of a morgue.
 MORGUE RETRIEVE recovers an item from the morgue. Note that you can only
 retrieve your items after a waiting period has expired. There is also a
 fee associated with this act. See HELP [MORGUE
-COSTS](Morgue_Costs "wikilink") for how the fee & waiting period change
-with level. For the purposes of calculating this fee, a container counts
-as a single object.
+COSTS](Morgue_Costs.md "wikilink") for how the fee & waiting period
+change with level. For the purposes of calculating this fee, a container
+counts as a single object.
 
 MORGUE ABANDON removes one of your items from the morgue without
 recovering it. Abandoned items are PERMANENTLY DELETED! Do not feel

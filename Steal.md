@@ -1,16 +1,16 @@
 *STEAL attempts to steal coins, or an
-[object](:Category:_Objects "wikilink"), from a
-[mob](:Category:_Mobs "wikilink"). In order to STEAL successfully, you
-must [practice](Practice "wikilink") the appropriate
-[skill](:Category:_Skills "wikilink"). You cannot steal an
-[item](:Category:_Objects "wikilink") if the
-[mobile](:Category:_Mobs "wikilink") is wearing it.*
+[object](:Category:_Objects.md "wikilink"), from a
+[mob](:Category:_Mobs.md "wikilink"). In order to STEAL successfully,
+you must [practice](Practice.md "wikilink") the appropriate
+[skill](:Category:_Skills.md "wikilink"). You cannot steal an
+[item](:Category:_Objects.md "wikilink") if the
+[mobile](:Category:_Mobs.md "wikilink") is wearing it.*
 
-Prerequisite(s): [Sneak](Sneak "wikilink").
+Prerequisite(s): [Sneak](Sneak.md "wikilink").
 
-Syntax: steal coins \<[mob](:Category:_Mobs "wikilink")\>.  
-Syntax: steal \<[object](:Category:_Objects "wikilink")\>
-\<[mob](:Category:_Mobs "wikilink")\>.  
+Syntax: steal coins \<[mob](:Category:_Mobs.md "wikilink")\>.  
+Syntax: steal \<[object](:Category:_Objects.md "wikilink")\>
+\<[mob](:Category:_Mobs.md "wikilink")\>.  
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

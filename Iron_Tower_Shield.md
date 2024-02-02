@@ -3,17 +3,17 @@ unmovable.*
 
 `Hardly lowers resistance to water continuous`  
 `Insignificantly increases resistance to fire continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -45 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -45 continuous.`  
 `Armor class is 10-12.`
 
 **Keyword(s):** iron tower shield plate.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 55 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 55 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**.  
 
 ## Comments
 

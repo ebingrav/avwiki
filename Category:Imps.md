@@ -36,131 +36,131 @@ separate story. (See Help Imping)*
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p><a
-href=":Category:_Evolutionary_Races" title="wikilink">Evolution
+href=":Category:_Evolutionary_Races.md" title="wikilink">Evolution
 Level</a></p></th>
-<th style="text-align: center;"><p><a href=":Category:_Races"
+<th style="text-align: center;"><p><a href=":Category:_Races.md"
 title="wikilink">Race</a></p></th>
 <th style="text-align: center;"><p>Abbreviation</p></th>
-<th style="text-align: center;"><p><a href="TNL"
+<th style="text-align: center;"><p><a href="TNL.md"
 title="wikilink">TNL</a></p></th>
-<th style="text-align: center;"><p><a href="Size"
+<th style="text-align: center;"><p><a href="Size.md"
 title="wikilink">Size</a></p></th>
-<th style="text-align: center;"><p><a href="Racial_Damage_Modifier"
+<th style="text-align: center;"><p><a href="Racial_Damage_Modifier.md"
 title="wikilink">Dmg Mod</a></p></th>
-<th style="text-align: center;"><p><a href=":Category:_Racials"
+<th style="text-align: center;"><p><a href=":Category:_Racials.md"
 title="wikilink">Racials</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>Creatable</p></td>
-<td style="text-align: center;"><p><a href="Lesser_Imps"
+<td style="text-align: center;"><p><a href="Lesser_Imps.md"
 title="wikilink">Lesser Imp</a></p></td>
 <td style="text-align: center;"><p>LsI</p></td>
 <td style="text-align: center;"><p>5000</p></td>
 <td style="text-align: center;"><p>very small</p></td>
 <td style="text-align: center;"><p>-1.5</p></td>
-<td style="text-align: center;"><p><a href="Racial_Cursed"
-title="wikilink">Cursed</a>, <a href="Racial_Wimpy"
-title="wikilink">Wimpy</a>, <a href="Racial_Nosun"
+<td style="text-align: center;"><p><a href="Racial_Cursed.md"
+title="wikilink">Cursed</a>, <a href="Racial_Wimpy.md"
+title="wikilink">Wimpy</a>, <a href="Racial_Nosun.md"
 title="wikilink">Nosun</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25</p></td>
-<td style="text-align: center;"><p><a href="Minor_Imps"
+<td style="text-align: center;"><p><a href="Minor_Imps.md"
 title="wikilink">Minor Imp</a></p></td>
 <td style="text-align: center;"><p>MnI</p></td>
 <td style="text-align: center;"><p>4000</p></td>
 <td style="text-align: center;"><p>small</p></td>
 <td style="text-align: center;"><p>-1</p></td>
-<td style="text-align: center;"><p><a href="Racial_Cursed"
-title="wikilink">Cursed</a>, <a href="Racial_Wimpy"
-title="wikilink">Wimpy</a>, <a href="Racial_Nosun"
+<td style="text-align: center;"><p><a href="Racial_Cursed.md"
+title="wikilink">Cursed</a>, <a href="Racial_Wimpy.md"
+title="wikilink">Wimpy</a>, <a href="Racial_Nosun.md"
 title="wikilink">Nosun</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Hero 1</p></td>
-<td style="text-align: center;"><p><a href="Dust_Imps"
+<td style="text-align: center;"><p><a href="Dust_Imps.md"
 title="wikilink">Dust Imp</a></p></td>
 <td style="text-align: center;"><p>DtI</p></td>
 <td style="text-align: center;"><p>3333</p></td>
 <td style="text-align: center;"><p>small</p></td>
 <td style="text-align: center;"><p>-.5</p></td>
-<td style="text-align: center;"><p><a href="Racial_Cursed"
-title="wikilink">Cursed</a>, <a href="Racial_Earthtremor"
-title="wikilink">Earthtremor</a>, <a href="Racial_Infravision"
-title="wikilink">Infravision</a>, <a href="Racial_Nosun"
-title="wikilink">Nosun</a>, <a href="Racial_Imbue"
+<td style="text-align: center;"><p><a href="Racial_Cursed.md"
+title="wikilink">Cursed</a>, <a href="Racial_Earthtremor.md"
+title="wikilink">Earthtremor</a>, <a href="Racial_Infravision.md"
+title="wikilink">Infravision</a>, <a href="Racial_Nosun.md"
+title="wikilink">Nosun</a>, <a href="Racial_Imbue.md"
 title="wikilink">Imbue</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Hero 250</p></td>
-<td style="text-align: center;"><p><a href="Wave_Imps"
+<td style="text-align: center;"><p><a href="Wave_Imps.md"
 title="wikilink">Wave Imp</a></p></td>
 <td style="text-align: center;"><p>WvI</p></td>
 <td style="text-align: center;"><p>2857</p></td>
 <td style="text-align: center;"><p>small</p></td>
 <td style="text-align: center;"><p>0</p></td>
-<td style="text-align: center;"><p><a href="Racial_Cursed"
-title="wikilink">Cursed</a>, <a href="Racial_Swim"
-title="wikilink">Swim</a>, <a href="Racial_Aquatic"
-title="wikilink">Aquatic</a>, <a href="Racial_Airdome"
-title="wikilink">Airdome</a>, <a href="Racial_Imbue"
+<td style="text-align: center;"><p><a href="Racial_Cursed.md"
+title="wikilink">Cursed</a>, <a href="Racial_Swim.md"
+title="wikilink">Swim</a>, <a href="Racial_Aquatic.md"
+title="wikilink">Aquatic</a>, <a href="Racial_Airdome.md"
+title="wikilink">Airdome</a>, <a href="Racial_Imbue.md"
 title="wikilink">Imbue</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Hero 500</p></td>
-<td style="text-align: center;"><p><a href="Vapour_Imps"
+<td style="text-align: center;"><p><a href="Vapour_Imps.md"
 title="wikilink">Vapour Imp</a></p></td>
 <td style="text-align: center;"><p>VpI</p></td>
 <td style="text-align: center;"><p>2857</p></td>
 <td style="text-align: center;"><p>small</p></td>
 <td style="text-align: center;"><p>0</p></td>
-<td style="text-align: center;"><p><a href="Racial_Cursed"
-title="wikilink">Cursed</a>, <a href="Racial_Fly"
-title="wikilink">Fly</a>, <a href="Racial_Suffocate"
-title="wikilink">Suffocate</a>, <a href="Racial_Windblast"
-title="wikilink">Windblast</a>, <a href="Racial_Discorporate"
-title="wikilink">Discorporate</a>, <a href="Racial_Imbue"
+<td style="text-align: center;"><p><a href="Racial_Cursed.md"
+title="wikilink">Cursed</a>, <a href="Racial_Fly.md"
+title="wikilink">Fly</a>, <a href="Racial_Suffocate.md"
+title="wikilink">Suffocate</a>, <a href="Racial_Windblast.md"
+title="wikilink">Windblast</a>, <a href="Racial_Discorporate.md"
+title="wikilink">Discorporate</a>, <a href="Racial_Imbue.md"
 title="wikilink">Imbue</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Hero 750</p></td>
-<td style="text-align: center;"><p><a href="Pyro_Imps"
+<td style="text-align: center;"><p><a href="Pyro_Imps.md"
 title="wikilink">Pyro Imp</a></p></td>
 <td style="text-align: center;"><p>PyI</p></td>
 <td style="text-align: center;"><p>2500</p></td>
 <td style="text-align: center;"><p>medium</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><a href="Racial_Cursed"
-title="wikilink">Cursed</a>, <a href="Racial_Tail"
-title="wikilink">Tail</a>, <a href="Racial_Armorleather"
-title="wikilink">Armorleather</a>, <a href="Racial_Powerthrust"
-title="wikilink">Powerthrust</a>, <a href="Racial_Fireaura"
-title="wikilink">Fireaura</a>, <a href="Racial_Imbue"
+<td style="text-align: center;"><p><a href="Racial_Cursed.md"
+title="wikilink">Cursed</a>, <a href="Racial_Tail.md"
+title="wikilink">Tail</a>, <a href="Racial_Armorleather.md"
+title="wikilink">Armorleather</a>, <a href="Racial_Powerthrust.md"
+title="wikilink">Powerthrust</a>, <a href="Racial_Fireaura.md"
+title="wikilink">Fireaura</a>, <a href="Racial_Imbue.md"
 title="wikilink">Imbue</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Lord 1</p></td>
-<td style="text-align: center;"><p><a href="Lesser_Elementals"
+<td style="text-align: center;"><p><a href="Lesser_Elementals.md"
 title="wikilink">Lesser Elemental</a></p></td>
 <td style="text-align: center;"><p>LsE</p></td>
 <td style="text-align: center;"><p>2500</p></td>
 <td style="text-align: center;"><p>large</p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><a href="Racial_Align"
+<td style="text-align: center;"><p><a href="Racial_Align.md"
 title="wikilink">Align</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Lord 300</p></td>
-<td style="text-align: center;"><p><a href="Pain_Elementals"
+<td style="text-align: center;"><p><a href="Pain_Elementals.md"
 title="wikilink">Pain Elemental</a></p></td>
 <td style="text-align: center;"><p>PaE</p></td>
 <td style="text-align: center;"><p>2000</p></td>
 <td style="text-align: center;"><p>very large</p></td>
 <td style="text-align: center;"><p>3</p></td>
-<td style="text-align: center;"><p><a href="Racial_Align"
-title="wikilink">Align</a>, <a href="Racial_Pain_Aura"
+<td style="text-align: center;"><p><a href="Racial_Align.md"
+title="wikilink">Align</a>, <a href="Racial_Pain_Aura.md"
 title="wikilink">Pain Aura</a></p></td>
 </tr>
 <tr class="odd">
@@ -203,8 +203,8 @@ choice in general with Imps, as remorting reverses their evolutionary
 process; however, sorcerer would be a strong option, if extremely
 difficult to hero.
 
-Can become a [Mindbender](:Category:Mindbenders "wikilink") whilst a
-[Dust Imp](Dust_Imps "wikilink").
+Can become a [Mindbender](:Category:Mindbenders.md "wikilink") whilst a
+[Dust Imp](Dust_Imps.md "wikilink").
 
 Although Imps start out as a small race, they grow in size and after
 hero 749 are large enough to make the Fus skills that rely on small size
@@ -220,8 +220,8 @@ FUN FACT! Vincent, the ticket mob for Imp evolution quests, scavenges,
 and is in a safe room. So don't do anything stupid like log off in his
 room before giving him your orb, unless you have a burning desire to
 re-do your quest! Vincent is in [Ancient Bronze
-Wyrm](:Category:Ancient_Bronze_Wyrm "wikilink") one north of [The
-Ancient Bronze Wyrm Kastinius](Kastinius "wikilink").
+Wyrm](:Category:Ancient_Bronze_Wyrm.md "wikilink") one north of [The
+Ancient Bronze Wyrm Kastinius](Kastinius.md "wikilink").
 
 [Category: Creatable Races](Category:_Creatable_Races "wikilink")
 [Category: Evolutionary Races](Category:_Evolutionary_Races "wikilink")

@@ -1,16 +1,16 @@
-*In the process of restringing a [bow](:Category:_Bows "wikilink"), an
-[archer](:Category:_Archers "wikilink") tweaks it to suit his personal
-shooting style. As [bow](:Category:_Bows "wikilink") tightness
-increases, the minimum damage of the bow will go up, as will the
-[strength](Strength "wikilink") required to use the bow, or DRAW
+*In the process of restringing a [bow](:Category:_Bows.md "wikilink"),
+an [archer](:Category:_Archers.md "wikilink") tweaks it to suit his
+personal shooting style. As [bow](:Category:_Bows.md "wikilink")
+tightness increases, the minimum damage of the bow will go up, as will
+the [strength](Strength.md "wikilink") required to use the bow, or DRAW
 STRENGTH. Crossbows can be restrung, but the results are generally not
 as dramatic as a restringing a bow. There is a chance of permanently
-ruining a [bow item](:Category:_Bows "wikilink") with this
-[skill](:Category:_Skills "wikilink").*
+ruining a [bow item](:Category:_Bows.md "wikilink") with this
+[skill](:Category:_Skills.md "wikilink").*
 
-Prerequisite(s): [Archery Lore](Archery_Lore "wikilink").
+Prerequisite(s): [Archery Lore](Archery_Lore.md "wikilink").
 
-Syntax: restring \<[bow/crossbow](:Category:_Bows "wikilink")\>
+Syntax: restring \<[bow/crossbow](:Category:_Bows.md "wikilink")\>
 <tighter/looser>.
 
 ## Comments

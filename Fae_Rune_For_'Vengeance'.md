@@ -9,6 +9,6 @@ from you.*
 
 ------------------------------------------------------------------------
 
-One of a number of [Fae Rune lights](Fae_Rune_Lights "wikilink").
+One of a number of [Fae Rune lights](Fae_Rune_Lights.md "wikilink").
 
 [Category: Incomplete](Category:_Incomplete "wikilink")

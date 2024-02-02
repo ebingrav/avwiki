@@ -11,9 +11,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Githzerai_Keep" title="wikilink">Githzerai
+<td><p><a href=":Category:Githzerai_Keep.md" title="wikilink">Githzerai
 Keep</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Githzerai_Keep"
+<td><p>(<a href=":Category:Gear_In_Githzerai_Keep.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

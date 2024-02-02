@@ -6,28 +6,28 @@ doing quite well for himself... until you showed up.*
 **Keywords:** man, thief  
 **Level:** 45  
 **[Alignment](Alignment "wikilink"):** satanic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[assassin](Assassin_Mobs "wikilink")  
-**Affects:** [infravision](Infravision "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [sneak](Sneak "wikilink"),
-[hide](Hide "wikilink")
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[assassin](Assassin_Mobs.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [sneak](Sneak.md "wikilink"),
+[hide](Hide.md "wikilink")
 
 ### Gear
 
 `A cunning thief is using:`  
-<wielded>`           `[`white`` ``bone`` ``dagger`](White_Bone_Dagger "wikilink")
+<wielded>`           `[`white`` ``bone`` ``dagger`](White_Bone_Dagger.md "wikilink")
 
 ### Comments
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** A Dark Corner of the Pier
+**[Area](:Category:Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** A Dark Corner of the Pier
 (portable)  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 39s, 3n, 3e, n, e, n
 

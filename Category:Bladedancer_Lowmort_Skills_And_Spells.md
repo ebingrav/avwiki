@@ -1,67 +1,67 @@
 ## Bladedancer Lowmort Skills & Spells Chart
 
-[`Lvl`](Level "wikilink")`: List of `[`Skills`` ``&`` ``Spells`](:Category:_Skills_And_Spells "wikilink")` Available to `[`Practice`](Practice "wikilink")` at This `[`Level`](Level "wikilink")`...`  
+[`Lvl`](Level.md "wikilink")`: List of `[`Skills`` ``&`` ``Spells`](:Category:_Skills_And_Spells.md "wikilink")` Available to `[`Practice`](Practice.md "wikilink")` at This `[`Level`](Level.md "wikilink")`...`  
 `     `  
-`  1: `[`haggle`](Haggle "wikilink")`             `[`pick`` ``lock`](Pick_Lock "wikilink")`          `[`sneak`](Sneak "wikilink")`              `[`steal`](Steal "wikilink")  
+`  1: `[`haggle`](Haggle.md "wikilink")`             `[`pick`` ``lock`](Pick_Lock.md "wikilink")`          `[`sneak`](Sneak.md "wikilink")`              `[`steal`](Steal.md "wikilink")  
 `  2: `  
-`  3: `[`dodge`](Dodge "wikilink")`              `[`lore`](Lore "wikilink")`               `[`parry`](Parry "wikilink")  
-`  4: `[`fence`](Fence "wikilink")  
-`  5: `[`fast`` ``healing`](Fast_Healing "wikilink")`       `[`rogue`` ``lore`](Rogue_Lore "wikilink")`         `[`sneak`` ``attack`](Sneak_Attack "wikilink")  
-`  6: `[`hide`](Hide "wikilink")  
-`  7: `[`nightvision`](Nightvision "wikilink")  
-`  8: `[`peek`](Peek "wikilink")  
+`  3: `[`dodge`](Dodge.md "wikilink")`              `[`lore`](Lore.md "wikilink")`               `[`parry`](Parry.md "wikilink")  
+`  4: `[`fence`](Fence.md "wikilink")  
+`  5: `[`fast`` ``healing`](Fast_Healing.md "wikilink")`       `[`rogue`` ``lore`](Rogue_Lore.md "wikilink")`         `[`sneak`` ``attack`](Sneak_Attack.md "wikilink")  
+`  6: `[`hide`](Hide.md "wikilink")  
+`  7: `[`nightvision`](Nightvision.md "wikilink")  
+`  8: `[`peek`](Peek.md "wikilink")  
 `  9: `  
-` 10: `[`disarm`](Disarm "wikilink")`             `[`dual`](Dual "wikilink")`               `[`embalm`](Embalm "wikilink")`             `[`prayer`](Prayer "wikilink")`             `[`second`` ``attack`](Second_Attack "wikilink")  
-`     `[`slink`](Slink "wikilink")`              `[`trip`](Trip "wikilink")  
-` 11: `[`alertness`](Alertness "wikilink")`          `[`container`` ``lore`](Container_Lore "wikilink")  
+` 10: `[`disarm`](Disarm.md "wikilink")`             `[`dual`](Dual.md "wikilink")`               `[`embalm`](Embalm.md "wikilink")`             `[`prayer`](Prayer.md "wikilink")`             `[`second`` ``attack`](Second_Attack.md "wikilink")  
+`     `[`slink`](Slink.md "wikilink")`              `[`trip`](Trip.md "wikilink")  
+` 11: `[`alertness`](Alertness.md "wikilink")`          `[`container`` ``lore`](Container_Lore.md "wikilink")  
 ` 12: `  
 ` 13: `  
 ` 14: `  
-` 15: `[`blackjack`](Blackjack "wikilink")  
+` 15: `[`blackjack`](Blackjack.md "wikilink")  
 ` 16: `  
 ` 17: `  
-` 18: `[`misdirection`](Misdirection "wikilink")  
+` 18: `[`misdirection`](Misdirection.md "wikilink")  
 ` 19: `  
-` 20: `[`armor`` ``lore`](Armor_Lore "wikilink")`         `[`vital`` ``shot`](Vital_Shot "wikilink")`         `[`weapon`` ``lore`](Weapon_Lore "wikilink")  
+` 20: `[`armor`` ``lore`](Armor_Lore.md "wikilink")`         `[`vital`` ``shot`](Vital_Shot.md "wikilink")`         `[`weapon`` ``lore`](Weapon_Lore.md "wikilink")  
 ` 21: `  
-` 22: `[`disarm`` ``traps`](Disarm_Traps "wikilink")  
+` 22: `[`disarm`` ``traps`](Disarm_Traps.md "wikilink")  
 ` 23: `  
 ` 24: `  
-` 25: `[`move`` ``hidden`](Move_Hidden "wikilink")  
+` 25: `[`move`` ``hidden`](Move_Hidden.md "wikilink")  
 ` 26: `  
-` 27: `[`poise`](Poise "wikilink")  
+` 27: `[`poise`](Poise.md "wikilink")  
 ` 28: `  
 ` 29: `  
-` 30: `[`lethal`` ``aim`](Lethal_Aim "wikilink")  
+` 30: `[`lethal`` ``aim`](Lethal_Aim.md "wikilink")  
 ` 31: `  
 ` 32: `  
 ` 33: `  
 ` 34: `  
-` 35: `[`withdraw`](Withdraw_(skill) "wikilink")  
+` 35: `[`withdraw`](Withdraw_(skill).md "wikilink")  
 ` 36: `  
-` 37: `[`conceal`` ``weapon`](Conceal_Weapon "wikilink")  
+` 37: `[`conceal`` ``weapon`](Conceal_Weapon.md "wikilink")  
 ` 38: `  
 ` 39: `  
-` 40: `[`assassin`` ``sight`](Assassin_Sight "wikilink")`     `[`sleight`` ``of`` ``hand`](Sleight_Of_Hand "wikilink")  
+` 40: `[`assassin`` ``sight`](Assassin_Sight.md "wikilink")`     `[`sleight`` ``of`` ``hand`](Sleight_Of_Hand.md "wikilink")  
 ` 41: `  
-` 42: `[`poison`` ``weapon`](Poison_Weapon "wikilink")  
+` 42: `[`poison`` ``weapon`](Poison_Weapon.md "wikilink")  
 ` 43: `  
 ` 44: `  
-` 45: `[`lead`` ``party`](Lead_Party "wikilink")  
+` 45: `[`lead`` ``party`](Lead_Party.md "wikilink")  
 ` 46: `  
 ` 47: `  
-` 48: `[`enhanced`` ``vitality`](Enhanced_Vitality "wikilink")  
-` 49: `[`throw`` ``weapon`](Throw_Weapon "wikilink")  
-` 50: `[`demonstrate`](Demonstrate "wikilink")`        `[`gurney`](Gurney "wikilink")`             `[`mercy`](Mercy "wikilink")`              `[`murder`](Murder "wikilink")`             `[`sublime`` ``grace`](Sublime_Grace "wikilink")`#`  
+` 48: `[`enhanced`` ``vitality`](Enhanced_Vitality.md "wikilink")  
+` 49: `[`throw`` ``weapon`](Throw_Weapon.md "wikilink")  
+` 50: `[`demonstrate`](Demonstrate.md "wikilink")`        `[`gurney`](Gurney.md "wikilink")`             `[`mercy`](Mercy.md "wikilink")`              `[`murder`](Murder.md "wikilink")`             `[`sublime`` ``grace`](Sublime_Grace.md "wikilink")`#`  
 `     `  
-`   # `[`Lowmort`](:Category:_Lowmort "wikilink")` skills & spells that `[`Bladedancers`](:Category:_Bladedancers "wikilink")` may learn but `[`Rogues`](:Category:_Rogues "wikilink")` may not.`
+`   # `[`Lowmort`](:Category:_Lowmort.md "wikilink")` skills & spells that `[`Bladedancers`](:Category:_Bladedancers.md "wikilink")` may learn but `[`Rogues`](:Category:_Rogues.md "wikilink")` may not.`
 
 See also [Bladedancer Hero Skills &
-Spells](:Category:_Bladedancer_Hero_Skills_And_Spells "wikilink"),
+Spells](:Category:_Bladedancer_Hero_Skills_And_Spells.md "wikilink"),
 [Black Circle Initiate Lowmort Skills &
-Spells](:Category:_Black_Circle_Initiate_Lowmort_Skills_And_Spells "wikilink"),
+Spells](:Category:_Black_Circle_Initiate_Lowmort_Skills_And_Spells.md "wikilink"),
 [Rogue Lowmort Skills &
-Spells](:Category:_Rogue_Lowmort_Skills_And_Spells "wikilink").
+Spells](:Category:_Rogue_Lowmort_Skills_And_Spells.md "wikilink").
 
 [Category: Bladedancer Skills And
 Spells](Category:_Bladedancer_Skills_And_Spells "wikilink") [Category:

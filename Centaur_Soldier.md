@@ -4,15 +4,15 @@ are necessarily anywhere close to him, but the darklin do not know
 that.*
 
 **Keywords:** centaur, soldier.  
-**[Level](Level "wikilink"):** 15.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 15.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A centaur soldier is using:`  
-<wielded>`           `[`a`` ``bronze`` ``short`` ``sword`](Bronze_Short_Sword "wikilink")
+<wielded>`           `[`a`` ``bronze`` ``short`` ``sword`](Bronze_Short_Sword.md "wikilink")
 
 `A centaur soldier is carrying:`  
 `     Nothing.`
@@ -21,10 +21,10 @@ that.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ruins of
-Westwood](:Category:_Ruins_Of_Westwood "wikilink")
-([Map](Ruins_Of_Westwood_Map "wikilink")).  
-A centaur soldier [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Ruins of
+Westwood](:Category:_Ruins_Of_Westwood.md "wikilink")
+([Map](Ruins_Of_Westwood_Map.md "wikilink")).  
+A centaur soldier [wanders](Wandering_Mobs.md "wikilink").
 
 A centaur soldier is portable.  
 

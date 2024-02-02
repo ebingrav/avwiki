@@ -4,12 +4,12 @@ Once you're trained in the fine art of foraging for your supper, it
 seems like second nature to rummage through bushes and under rocks for
 your next meal. Note that this skill only works outside of cities and
 outdoors. The peasants and woodland hermits whisper of a secret order
-known as [druids](:Category:_Druids "wikilink"). If one were to believe
-their tales, they say that those who have sworn the [druidic
-oath](Druidic_Oath "wikilink") become masters of bowcraft, capable even
-of foraging for fletching kits that normal
-[archers](:Category:_Archers "wikilink") must find or
-[buy](Buy "wikilink").*
+known as [druids](:Category:_Druids.md "wikilink"). If one were to
+believe their tales, they say that those who have sworn the [druidic
+oath](Druidic_Oath.md "wikilink") become masters of bowcraft, capable
+even of foraging for fletching kits that normal
+[archers](:Category:_Archers.md "wikilink") must find or
+[buy](Buy.md "wikilink").*
 
 Prerequisite(s): none.
 

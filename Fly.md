@@ -1,26 +1,27 @@
 *This can be used on oneself or another.
-[Flying](Flying_Flag "wikilink") gives you several advantages, such as
-reduced [movement costs](Movement_Costs "wikilink"), and allow you to go
-through [airborne](Air_Terrain "wikilink") or
-[watery](Water_Terrain "wikilink")
-[areas](:Category:_Areas "wikilink").*
+[Flying](Flying_Flag.md "wikilink") gives you several advantages, such
+as reduced [movement costs](Movement_Costs.md "wikilink"), and allow you
+to go through [airborne](Air_Terrain.md "wikilink") or
+[watery](Water_Terrain.md "wikilink")
+[areas](:Category:_Areas.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'fly'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'fly'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This is a very useful [skill](:Category:_Skills_And_Spells "wikilink")
-for all [characters](:Category:_Characters "wikilink") (who can) to
-[learn](Practice "wikilink"). It is superfluous for
-[characters](:Category:_Characters "wikilink") affected by
-[Levitation](Levitation "wikilink"). It is included in
-[Foci](Foci "wikilink"). See [Flying Flag](Flying_Flag "wikilink") for
-further information.
+This is a very useful
+[skill](:Category:_Skills_And_Spells.md "wikilink") for all
+[characters](:Category:_Characters.md "wikilink") (who can) to
+[learn](Practice.md "wikilink"). It is superfluous for
+[characters](:Category:_Characters.md "wikilink") affected by
+[Levitation](Levitation.md "wikilink"). It is included in
+[Foci](Foci.md "wikilink"). See [Flying Flag](Flying_Flag.md "wikilink")
+for further information.
 
 See also [Gear That Applies
-Fly](:Category:_Gear_That_Applies_Fly "wikilink") and [Fly
-Gear](:Category:_Fly_Gear "wikilink").
+Fly](:Category:_Gear_That_Applies_Fly.md "wikilink") and [Fly
+Gear](:Category:_Fly_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

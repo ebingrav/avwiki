@@ -1,36 +1,37 @@
-*The Portal [spell](:Category:_Spells "wikilink") opens a one-way gate
-in the fabric of reality, by joining the locations of the
-[caster](Cast "wikilink") and target. The target can be either a
-[player](:Category:_Characters "wikilink") or a
-[mobile](:Category:_Mobs "wikilink"), but not an
-[object](:Category:_Objects "wikilink") or
-[room](:Category:_Rooms "wikilink"). A [portal](Portals "wikilink") will
-stay open longer for higher-[level](Level "wikilink")
-[players](:Category:_Characters "wikilink"), but it will eventually
-collapse. After the [portal](Portals "wikilink") has opened, step
-through to the destination by typing "[enter](Enter "wikilink")
-[portal](Portals "wikilink")". Portal carries a risk of damage to
-[hp](Hit_Points "wikilink") and/or [mana](Mana_Points "wikilink"). Enter
-unknown [portals](Portals "wikilink") with caution. It is your
-responsibility to know which [portal](Portals "wikilink") you
-[enter](Enter "wikilink").*
+*The Portal [spell](:Category:_Spells.md "wikilink") opens a one-way
+gate in the fabric of reality, by joining the locations of the
+[caster](Cast.md "wikilink") and target. The target can be either a
+[player](:Category:_Characters.md "wikilink") or a
+[mobile](:Category:_Mobs.md "wikilink"), but not an
+[object](:Category:_Objects.md "wikilink") or
+[room](:Category:_Rooms.md "wikilink"). A
+[portal](Portals.md "wikilink") will stay open longer for
+higher-[level](Level.md "wikilink")
+[players](:Category:_Characters.md "wikilink"), but it will eventually
+collapse. After the [portal](Portals.md "wikilink") has opened, step
+through to the destination by typing "[enter](Enter.md "wikilink")
+[portal](Portals.md "wikilink")". Portal carries a risk of damage to
+[hp](Hit_Points.md "wikilink") and/or [mana](Mana_Points.md "wikilink").
+Enter unknown [portals](Portals.md "wikilink") with caution. It is your
+responsibility to know which [portal](Portals.md "wikilink") you
+[enter](Enter.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'portal'
-\<[character](:Category:_Characters "wikilink")/[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'portal'
+\<[character](:Category:_Characters.md "wikilink")/[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is invaluable to
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink"), especially when running in
+This [spell](:Category:_Spells.md "wikilink") is invaluable to
+[characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink"), especially when running in
 groups. When portaling, target keywords should be chosen carefully as
-some are shared by multiple [mobs](:Category:_Mobs "wikilink").
-[Scry](Scry "wikilink") may be used to verify where a certain
+some are shared by multiple [mobs](:Category:_Mobs.md "wikilink").
+[Scry](Scry.md "wikilink") may be used to verify where a certain
 combination of keywords will (currently) lead; this destination may
-change over time, however, as [mobs](:Category:_Mobs "wikilink") move
-and die and respawn. See [Portals](Portals "wikilink") for more
-information about these [objects](:Category:_Objects "wikilink") created
-by this [spell](:Category:_Spells "wikilink").
+change over time, however, as [mobs](:Category:_Mobs.md "wikilink") move
+and die and respawn. See [Portals](Portals.md "wikilink") for more
+information about these [objects](:Category:_Objects.md "wikilink")
+created by this [spell](:Category:_Spells.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

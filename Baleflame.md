@@ -7,8 +7,8 @@
 Slot: Wrist  
 Weight: 0  
 Flags: glow magic  
-Plane: [Arcadia](:Category:Arcadia "wikilink")  
-Area: [Fantasy Forest](:Category:Fantasy_Forest "wikilink")  
+Plane: [Arcadia](:Category:Arcadia.md "wikilink")  
+Area: [Fantasy Forest](:Category:Fantasy_Forest.md "wikilink")  
 Mob: [Balefire Beast](Balefire_Beast "wikilink")  
 
 [Category:Lord Second Tier Hit

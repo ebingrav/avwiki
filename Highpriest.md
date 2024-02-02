@@ -5,9 +5,9 @@ and from his ruined throat comes a voice full of evil. 'Bring me an
 innocent soul and I shall reward thee!*'
 
 **Keywords:** highpriest, priest  
-**[Level](Level "wikilink"):**  
-**[Alignment](Alignment "wikilink"):**  
-**[Flags](:Category:_Mob_Types "wikilink"):**  
+**[Level](Level.md "wikilink"):**  
+**[Alignment](Alignment.md "wikilink"):**  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**  
 **Affects:** sanctuary  
 
 ## Gear
@@ -19,9 +19,10 @@ another soul."
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Neraka](:Category:_Neraka "wikilink") ([Map](Neraka_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The pit of death  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Neraka](:Category:_Neraka.md "wikilink")
+([Map](Neraka_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The pit of death  
 Walking route from [Ajal](Ajal "wikilink"): w n w n u s
 
 [Category: Mobs In Neraka](Category:_Mobs_In_Neraka "wikilink")

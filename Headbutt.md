@@ -1,5 +1,5 @@
 Headbutt is the benefit of specimen for Rippers with
-[Hardheaded](Racial_Hardheaded "wikilink") racial.
+[Hardheaded](Racial_Hardheaded.md "wikilink") racial.
 
 With the Headbutt specimen enhancement Rippers [Smash](Smash "wikilink")
 attack is replaced with a headbutt attack. You do not need to be

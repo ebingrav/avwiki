@@ -18,7 +18,7 @@ Flags: glow hum magic
 Weight 5  
 level 125  
 Mob: ??  
-Area: [Kzinti Spire Of War](:Category:Kzinti_Spire_Of_War "wikilink")
+Area: [Kzinti Spire Of War](:Category:Kzinti_Spire_Of_War.md "wikilink")
 
 [Category:Gear In Kzinti Spire Of
 War](Category:Gear_In_Kzinti_Spire_Of_War "wikilink")

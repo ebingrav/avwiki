@@ -5,26 +5,27 @@ flame. Some letters have been scratched on its bottom.*
 `It lasts for a very long time.`
 
 **Keyword(s):** lantern.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Aelmon](Aelmon "wikilink"),
-[the grocer](Grocer "wikilink").  
-Both [Aelmon](Aelmon "wikilink") and
-[Midgaard](:Category:_Midgaard "wikilink")'s [grocer](Grocer "wikilink")
-sell these. See their pages for more information.
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Aelmon](Aelmon.md "wikilink"), [the grocer](Grocer.md "wikilink").  
+Both [Aelmon](Aelmon.md "wikilink") and
+[Midgaard](:Category:_Midgaard.md "wikilink")'s
+[grocer](Grocer.md "wikilink") sell these. See their pages for more
+information.
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Lights](Category:_Lights "wikilink") [Category: Lowmort 1-10

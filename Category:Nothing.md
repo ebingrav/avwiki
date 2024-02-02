@@ -12,11 +12,13 @@ isn't nothing.*
 
 To find the entrance to the Nowhere plane, shift to any elemental plane
 and find the Lloydable room.  
-\* From [Airscape](:Category:Airscape "wikilink") it's 3e
+\* From [Airscape](:Category:Airscape.md "wikilink") it's 3e
 
--   From [Water](:Category:Water "wikilink") is 2n e u
--   From [World Of Stone](:Category:World_Of_Stone "wikilink") is n 4w.
--   From [Fire Realm](:Category:Firerealm_Proper "wikilink") is 2n, e.
+-   From [Water](:Category:Water.md "wikilink") is 2n e u
+-   From [World Of Stone](:Category:World_Of_Stone.md "wikilink") is n
+    4w.
+-   From [Fire Realm](:Category:Firerealm_Proper.md "wikilink") is 2n,
+    e.
 
 Enter the nexus there and you will be in Nothing.
 

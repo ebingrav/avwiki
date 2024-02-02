@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="world.tree.jpg" title="world.tree.jpg" width="650"
-alt="world.tree.jpg" />
-<figcaption aria-hidden="true">world.tree.jpg</figcaption>
+<img src="world.tree.jpg.md" title="world.tree.jpg.md" width="650"
+alt="world.tree.jpg.md" />
+<figcaption aria-hidden="true">world.tree.jpg.md</figcaption>
 </figure>
 
 [Crystalmir Lake Map](Crystalmir_Lake_Map "wikilink")  

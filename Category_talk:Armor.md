@@ -6,14 +6,14 @@ doing away with are lights (for the same reason as this one) and
 brandishes (because wands, stave, and spellcasting objects should be
 enough). Anyone have any objections before I get to work? Or, does
 anyone have any other categories that they feel are unnecessary?
---[Waite](User:Waite "wikilink") 11:08, 14 February 2006 (EST)
+--[Waite](User:Waite.md "wikilink") 11:08, 14 February 2006 (EST)
 
 Hmmm. I spoke with Mel for a bit last night and agreed that we should
 get rid of both the "all gear" and "all mob" lists. I took care of the
 latter last night and was gonna take care of the former myself later
 today, actually. But I'm not sure that I agree with you on this one. I
 rather liked the idea of having one category for each object-type in the
-game (see [Object Types](:Category:_Object_Types "wikilink"))--or at
+game (see [Object Types](:Category:_Object_Types.md "wikilink"))--or at
 least each of the ones that you can actually pick up and do stuff with
 (as opposed to Nexues and whatnot). And I also think that it might be
 easier for folks to remember to "put every object in its type category"
@@ -33,7 +33,7 @@ too, I think. Hmmm. Having a good filing system is very important to me
 and so I've been thinking and working hard on this matter for some time
 now. See Format for my (present) recommendations. I'd love to discuss
 this more but I need to get ready for class very soon. --[Dave
-Garber](User:DaveGarber1975 "wikilink") 11:58, 14 February 2006 (EST)
+Garber](User:DaveGarber1975.md "wikilink") 11:58, 14 February 2006 (EST)
 
 I agree with your idea on the brandishes category. We can keep it as a
 redirect/disambiguation type page so if someone searches for brandishes
@@ -52,7 +52,7 @@ trash, armor, weapon, light, are more generic and an item of that type
 is only going to be useful based on some other special modifier. I have
 no problem with big categories. As a matter of fact I get excited when a
 useful category gets well populated (like [this
-one](:Category:Gear_In_Mt_Durr "wikilink") :)). Right now I'm just on a
-witch hunt for categories that aren't ever going to be used, and are
+one](:Category:Gear_In_Mt_Durr.md "wikilink") :)). Right now I'm just on
+a witch hunt for categories that aren't ever going to be used, and are
 only going to serve as a hassle for our contributors.
---[Waite](User:Waite "wikilink") 13:51, 14 February 2006 (EST)
+--[Waite](User:Waite.md "wikilink") 13:51, 14 February 2006 (EST)

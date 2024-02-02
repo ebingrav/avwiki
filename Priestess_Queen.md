@@ -2,9 +2,9 @@
 the next generation of driders, the High Priestess of Lloth has assumed
 the roll of hive Queen.*  
 **Keywords:** priestess, queen, spider.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** Evil.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?.  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** Evil.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?.  
 **Affects:** ?.  
 
 ## Gear

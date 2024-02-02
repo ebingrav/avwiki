@@ -1,7 +1,7 @@
-*This [skill](:Category:_Skills "wikilink") is like a more advanced form
-of [improved aim](Improved_Aim "wikilink").*
+*This [skill](:Category:_Skills.md "wikilink") is like a more advanced
+form of [improved aim](Improved_Aim.md "wikilink").*
 
-Prerequisite(s): [Improved Aim](Improved_Aim "wikilink").
+Prerequisite(s): [Improved Aim](Improved_Aim.md "wikilink").
 
 Syntax: none (automatic).
 

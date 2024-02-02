@@ -7,10 +7,10 @@
 `Many foolish mortals have been lead to their doom chasing`  
 `this mischievous phantom.`
 
-**[Commune Bonus](Commune "wikilink"):** odd hours - AC -200, even
+**[Commune Bonus](Commune.md "wikilink"):** odd hours - AC -200, even
 hours - +30 hr/dr
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Freedom](Aspect_-_Freedom "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Freedom](Aspect_-_Freedom.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

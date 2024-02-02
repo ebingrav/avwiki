@@ -1,37 +1,39 @@
-*This [spell](:Category:_Spells "wikilink") improves the
-[bonuses](Object_Affects "wikilink") the target
-[object](:Category:_Objects "wikilink") gives to
-[AC](Armor_Class "wikilink"). This [spell](:Category:_Spells "wikilink")
-causes the [armor](:Category:_Armor "wikilink")'s alignment to become
-the [alignment](Alignment "wikilink") of the caster, although it does
-not remove an existing alignment. [Enchanting](Enchanting "wikilink")
-also causes the [armor](:Category:_Armor "wikilink") to be increased in
-[level](Object_Level "wikilink"). There are several results that can
-happen when this [spell](:Category:_Spells "wikilink") is
-[cast](Cast "wikilink"). The [armor](:Category:_Armor "wikilink") can be
-successfully [enchanted](Enchanting "wikilink") normally, or
-[brilliantly](Brilling "wikilink"), which means the enchantment bonus is
-greater. The [armor](:Category:_Armor "wikilink") can also
-[fade](Fading "wikilink"), which removes all existing
-[enchants](Enchanting "wikilink") as well as [item
-flags](:Category:_Object_Flags "wikilink"). Worst of all, the
-[item](:Category:_Objects "wikilink") has a chance to explode and be
-lost forever. ([Containers](:Category:_Containers "wikilink") which
+*This [spell](:Category:_Spells.md "wikilink") improves the
+[bonuses](Object_Affects.md "wikilink") the target
+[object](:Category:_Objects.md "wikilink") gives to
+[AC](Armor_Class.md "wikilink"). This
+[spell](:Category:_Spells.md "wikilink") causes the
+[armor](:Category:_Armor.md "wikilink")'s alignment to become the
+[alignment](Alignment.md "wikilink") of the caster, although it does not
+remove an existing alignment. [Enchanting](Enchanting.md "wikilink")
+also causes the [armor](:Category:_Armor.md "wikilink") to be increased
+in [level](Object_Level.md "wikilink"). There are several results that
+can happen when this [spell](:Category:_Spells.md "wikilink") is
+[cast](Cast.md "wikilink"). The [armor](:Category:_Armor.md "wikilink")
+can be successfully [enchanted](Enchanting.md "wikilink") normally, or
+[brilliantly](Brilling.md "wikilink"), which means the enchantment bonus
+is greater. The [armor](:Category:_Armor.md "wikilink") can also
+[fade](Fading.md "wikilink"), which removes all existing
+[enchants](Enchanting.md "wikilink") as well as [item
+flags](:Category:_Object_Flags.md "wikilink"). Worst of all, the
+[item](:Category:_Objects.md "wikilink") has a chance to explode and be
+lost forever. ([Containers](:Category:_Containers.md "wikilink") which
 explode also destroy all contents...)*
 
 Prerequisiste(s): none.
 
-Syntax: [cast](Cast "wikilink") 'enchant armor'
-\<[armor](:Category:_Armor "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'enchant armor'
+\<[armor](:Category:_Armor.md "wikilink")\>.
 
 Spellcasters may find this
-[skill](:Category:_Skills_And_Spells "wikilink") very useful, as all
-[characters](:Category:_Characters "wikilink") benefit from
-[wearing](Wear "wikilink") [enchanted](Enchanting "wikilink")
-[armor](:Category:_Armor "wikilink"). See also
-[Enchanting](Enchanting "wikilink").
+[skill](:Category:_Skills_And_Spells.md "wikilink") very useful, as all
+[characters](:Category:_Characters.md "wikilink") benefit from
+[wearing](Wear.md "wikilink") [enchanted](Enchanting.md "wikilink")
+[armor](:Category:_Armor.md "wikilink"). See also
+[Enchanting](Enchanting.md "wikilink").
 
-See also [Enchant Armor Gear](:Category:_Enchant_Armor_Gear "wikilink").
+See also [Enchant Armor
+Gear](:Category:_Enchant_Armor_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

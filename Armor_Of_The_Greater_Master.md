@@ -14,8 +14,8 @@
 
 ## Directions
 
-**Area:** [The Great Divide](:Category:Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink"))  
+**Area:** [The Great Divide](:Category:Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink"))  
 **Mob:** [Blackhand,
 Master-At-Arms](Blackhand,_Master-At-Arms "wikilink")  
 

@@ -10,17 +10,18 @@ gather.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, n, u, e, u, n, w, s, u, n, u, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, n, u, e, u, n, w, s, u, n, u, n.
 
-Walking route from [Tysiln San](Tysiln_San "wikilink"): 2s, u, n, u, n.
+Walking route from [Tysiln San](Tysiln_San.md "wikilink"): 2s, u, n, u,
+n.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
 -   [North Of Ofcol](North_Of_Ofcol "wikilink")
-    ([map](North_Of_Ofcol_Map "wikilink"))
+    ([map](North_Of_Ofcol_Map.md "wikilink"))
 
 ## Navigation
 

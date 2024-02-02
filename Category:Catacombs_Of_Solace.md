@@ -1,5 +1,5 @@
 *When settlers first came to the site that would become
-[Solace](:Category:_Town_Of_Solace "wikilink"), they discovered a pit
+[Solace](:Category:_Town_Of_Solace.md "wikilink"), they discovered a pit
 filled with the ruins of an ancient temple. The townsfolk decided to use
 the pit for the cellar of what would become the Inn of the Last Home,
 but after seven townsfolk disappeared while working in the pit, the
@@ -12,22 +12,22 @@ in.*
 
 **Builder:** Dani
 
-This [area](:Category:_Areas "wikilink") was created for an
-[area-building contest](Area-Building_Contests "wikilink") in 2005.  
-This [area](:Category:_Areas "wikilink") was added in 2006 Mar.  
+This [area](:Category:_Areas.md "wikilink") was created for an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2005.  
+This [area](:Category:_Areas.md "wikilink") was added in 2006 Mar.  
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2s, \[w\], \[d\].
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2s, \[w\], \[d\].
 
-Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3n, 3w, s,
-\[w\], \[d\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17w, s, 5w, 3n, 3w,
+s, \[w\], \[d\].
 
-Walking route from [Otik Sandath](Otik_Sandath "wikilink"): \[d\].
+Walking route from [Otik Sandath](Otik_Sandath.md "wikilink"): \[d\].
 
-[Portaling](Portal "wikilink") point(s) suggested: [phantom
-worker](Phantom_Worker "wikilink") (note:
-[wanders](Wandering_Mobs "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested: [phantom
+worker](Phantom_Worker.md "wikilink") (note:
+[wanders](Wandering_Mobs.md "wikilink")).
 
 ## Connections
 

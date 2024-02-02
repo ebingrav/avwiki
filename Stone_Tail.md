@@ -1,26 +1,27 @@
 *The tail of the Stone Serpent of Keresh sits here, petrifying.*
 
 **Keyword(s):** stone, tail.  
-**[Level(s)](Object_Level "wikilink"):** 16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:Tickets "wikilink") is used in the [Stone
+This [ticket](:Category:Tickets.md "wikilink") is used in the [Stone
 Serpent Quest](Stone_Serpent_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ruins of
-Keresh](:Category:_Ruins_Of_Keresh "wikilink")
-([Map](Ruins_Of_Keresh_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Stone Serpent Of
+**[Area](:Category:_Areas.md "wikilink"):** [Ruins of
+Keresh](:Category:_Ruins_Of_Keresh.md "wikilink")
+([Map](Ruins_Of_Keresh_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Stone Serpent Of
 Keresh](Stone_Serpent_Of_Keresh "wikilink").  
 See [Stone Serpent Of Keresh](Stone_Serpent_Of_Keresh "wikilink") for
 more information.

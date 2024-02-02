@@ -1,18 +1,18 @@
-*With this [skill](:Category:_Skills_And_Spells "wikilink"), you shall
-regen your physical energy even quicker than before. Like [Enhanced
-Vitality](Enhanced_Vitality "wikilink"), however, you must be
-[sleeping](Sleep_(command) "wikilink") and it will only increase the
-speed up to a certain point.*
+*With this [skill](:Category:_Skills_And_Spells.md "wikilink"), you
+shall regen your physical energy even quicker than before. Like
+[Enhanced Vitality](Enhanced_Vitality.md "wikilink"), however, you must
+be [sleeping](Sleep_(command).md "wikilink") and it will only increase
+the speed up to a certain point.*
 
-Prerequisites: [Enhanced Vitality](Enhanced_Vitality "wikilink").
+Prerequisites: [Enhanced Vitality](Enhanced_Vitality.md "wikilink").
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink"), just like its
-predecessor [Enhanced Vitality](Enhanced_Vitality "wikilink"), is rather
-beneficial to [characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink") as it increases their
-[move-point](Move_Points "wikilink") (?) regeneration rates.
+This [skill](:Category:_Skills_And_Spells.md "wikilink"), just like its
+predecessor [Enhanced Vitality](Enhanced_Vitality.md "wikilink"), is
+rather beneficial to [characters](:Category:_Characters.md "wikilink")
+of all [classes](:Category:_Classes.md "wikilink") as it increases their
+[move-point](Move_Points.md "wikilink") (?) regeneration rates.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

@@ -1,9 +1,9 @@
 *Behind the maw you can make out some semblance of a body, coated in a
 black, oily substance, armed with short, vestigial limbs. Feeding from
-the littler [Chaos Beasts](Chaos_Beast "wikilink"), this abomination has
-been drawing off the disintegrating energies of both
-[Arcadia](:Category:Arcadia "wikilink") and
-[Noctopia](:Category:Noctopia "wikilink"). The Faerie Essence of both
+the littler [Chaos Beasts](Chaos_Beast.md "wikilink"), this abomination
+has been drawing off the disintegrating energies of both
+[Arcadia](:Category:Arcadia.md "wikilink") and
+[Noctopia](:Category:Noctopia.md "wikilink"). The Faerie Essence of both
 realms churns in its belly, covering it in a vibrating aura of resonant
 energy. Anyone who doesn't possess a matching energy signature may not
 be able to survive even its slightest touch.*
@@ -41,7 +41,7 @@ confirmed as NOT reboot only. Farm away :)
 
 ## Directions
 
-The [Unravelling](:Category:Unravelling "wikilink") maze has random
+The [Unravelling](:Category:Unravelling.md "wikilink") maze has random
 exits, but the maze isn't too deep (4-5 rooms?) before you reach the
 Unmaker. Both the east and west exits from [Mother
 Weaver](Mother_Weaver "wikilink") lead to the first room of the maze.

@@ -8,9 +8,9 @@ should have remained closed forever?*
 
 **Builder:** Wiseman
 
-This [area](:Category:_Areas "wikilink") was part of an [area-building
-contest](Area-Building_Contests "wikilink") in 2018.  
-This [area](:Category:_Areas "wikilink") was added in 2019.  
+This [area](:Category:_Areas.md "wikilink") was part of an
+[area-building contest](Area-Building_Contests.md "wikilink") in 2018.  
+This [area](:Category:_Areas.md "wikilink") was added in 2019.  
 This area was updated and moved to a permanent home in August of 2023.  
 
 ## Directions
@@ -18,7 +18,7 @@ This area was updated and moved to a permanent home in August of 2023.
 Walking route from [Aelmon](Aelmon "wikilink"):
 16e,\[e\],2e,n,2e,3s,4e,2s,2e,4s,\[s\],2s,e,\[e\],d,s,push crack.
 
-[Portaling](Portal "wikilink") point(s) suggested: Xohd, push crack.
+[Portaling](Portal.md "wikilink") point(s) suggested: Xohd, push crack.
 
 ## Connections
 

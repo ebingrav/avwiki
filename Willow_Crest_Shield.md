@@ -5,17 +5,17 @@
 `Modifies save vs spell by -10 continuous.`
 
 **Keyword(s):** willow crest shield silver  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 4 lbs  
-**[Level(s)](Object_Level "wikilink"):** 26  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):** [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain of the Willow
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 26  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Kingdom of the
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain of the Willow
 Guard](Captain_of_the_Willow_Guard "wikilink").  
 
 ## Comments

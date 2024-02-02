@@ -4,22 +4,22 @@
 `Modifies damage roll by 13 continuous`
 
 **Keyword(s):** white, bone, spearwhale  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, magic,
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, magic,
 anti-evil.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moonbay
-Village](:Category:_Moonbay_Village "wikilink")
-([Map](Moonbay_Village_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Moonbay
+Village](:Category:_Moonbay_Village.md "wikilink")
+([Map](Moonbay_Village_Map.md "wikilink")).  
 
 [Category: Gear In Moonbay
 Village](Category:_Gear_In_Moonbay_Village "wikilink") [Category: Hafted

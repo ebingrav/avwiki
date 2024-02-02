@@ -5,9 +5,10 @@ Its feral eyes glow red in the darkness...*
 **Keywords:** hound, dog  
 **[Level](Level "wikilink"):** 60  
 **[Alignment](Alignment "wikilink"):** apathetic  
-**[Flags](:Category:Mob_Types "wikilink"):** [very
-aggressive](Aggressive_Mobs "wikilink"), [wimpy](Wimpy_Mobs "wikilink"),
-[corpse eater](Corpse-Eating_Mobs "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):** [very
+aggressive](Aggressive_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink"), [corpse
+eater](Corpse-Eating_Mobs.md "wikilink")  
 **Affects:** none
 
 ## Comments
@@ -17,9 +18,9 @@ outside the keep. They only eat NPC corpses, not player corpses.
 
 ## Directiosn
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Keep](:Category:_Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Keep](:Category:_Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink")).  
 A feral hunting hound wanders, and is portable.
 
 [Category:Mobs In Shadow Keep](Category:Mobs_In_Shadow_Keep "wikilink")

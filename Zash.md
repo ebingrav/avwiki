@@ -5,32 +5,32 @@ citadel, something he seems to feel takes him away from more important
 work.*
 
 **Keywords:** zash, master, fire  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Zash, master of fire is using:`  
-`   `<worn on body>`      `[` ``a`` ``master's`` ``robe`` ``of`` ``fire`](Master's_Robe_Of_Fire "wikilink")
+`   `<worn on body>`      `[` ``a`` ``master's`` ``robe`` ``of`` ``fire`](Master's_Robe_Of_Fire.md "wikilink")
 
 ## Comments
 
-Give [fire essence](Fire_Essence "wikilink") to Zash to complete the
-[Citadel Of Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")'
-[Staff of Fire Quest](Staff_Of_Fire_Quest "wikilink").
+Give [fire essence](Fire_Essence.md "wikilink") to Zash to complete the
+[Citadel Of Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")'
+[Staff of Fire Quest](Staff_Of_Fire_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Zash's chamber
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Zash's chamber
 
-Walking route from [Vymm](Vymm "wikilink"): \[s\],e,\[s\].
+Walking route from [Vymm](Vymm.md "wikilink"): \[s\],e,\[s\].
 
 He is portable.
 

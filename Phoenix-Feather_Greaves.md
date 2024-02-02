@@ -7,14 +7,14 @@ Modifies mana by 200 continuous.
 Slot: feet  
 Flags: glow hum magic nolocate fire-ward  
 Weight: 5  
-Plane: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: skinned from The Burning Phoenix  
 
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Mana Gear](Category:_Lord_Mana_Gear "wikilink")

@@ -13,14 +13,15 @@ Modifies armor class by 2 continuous.
 Slot: Waist  
 Flags: glow magic caustic-ward  
 Weight: 10  
-Plane: [Nowhere](:Category:Nowhere "wikilink")  
-Area: [When Elements Align](:Category:When_Elements_Align "wikilink")  
+Plane: [Nowhere](:Category:Nowhere.md "wikilink")  
+Area: [When Elements
+Align](:Category:When_Elements_Align.md "wikilink")  
 Mob: Unsure, but it's in the same room as the rest of the gear mobs.  
 
 ------------------------------------------------------------------------
 
 See [Gear In When Elements
-Align](:Category:Gear_In_When_Elements_Align "wikilink") for more
+Align](:Category:Gear_In_When_Elements_Align.md "wikilink") for more
 information.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")

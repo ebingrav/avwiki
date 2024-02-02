@@ -1,4 +1,4 @@
-All [races](:Category:_Races "wikilink") [speak](Speak "wikilink")
+All [races](:Category:_Races.md "wikilink") [speak](Speak.md "wikilink")
 Common.
 
 [Category: Languages](Category:_Languages "wikilink")

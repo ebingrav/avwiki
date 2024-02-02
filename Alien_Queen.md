@@ -6,10 +6,10 @@ to rip you apart.*
 **Keywords:** alien, queen, ??  
 **Level:** 65  
 **Alignment:** ??  
-**Flags:** [wimpy](Wimpy_Mobs "wikilink"), [aggressive (to
-sleepers)](Aggressive_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [hide](Hide "wikilink"),
-[sneak](Sneak "wikilink")
+**Flags:** [wimpy](Wimpy_Mobs.md "wikilink"), [aggressive (to
+sleepers)](Aggressive_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"),
+[hide](Hide.md "wikilink"), [sneak](Sneak.md "wikilink")
 
 ## Comments
 
@@ -20,11 +20,11 @@ guards (6+) can bunch up in her room when the are resets.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alien
-Hive](:Category:_Alien_Hive "wikilink")
-([Map](Alien_Hive_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Hive Queen's Nest
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [Alien
+Hive](:Category:_Alien_Hive.md "wikilink")
+([Map](Alien_Hive_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Hive Queen's Nest
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking directions from Terrified Woman: w n e 2n 7e 2s d w 2d 2e s 4e s
 e n e s 2e n e s w s 2e 3n 4e s d 4s

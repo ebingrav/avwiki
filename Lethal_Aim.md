@@ -1,18 +1,18 @@
-*This [skill](:Category:_Skills "wikilink") represents added accuracy,
-not in terms of hitting one's opponent, but rather of hitting specific
-vital areas. Once a [rogue](:Category:_Rogues "wikilink") has learned
-this [skill](:Category:_Skills "wikilink"), he can aim [vital
-shots](Vital_Shot "wikilink") at any of the specific body parts it can
-hit. Aiming is harder than a random [vital shot](Vital_Shot "wikilink"),
-but high [dex](Dexterity "wikilink") will help. You can currently hit:
-head, heart, lungs, kneecap, and eye.*
+*This [skill](:Category:_Skills.md "wikilink") represents added
+accuracy, not in terms of hitting one's opponent, but rather of hitting
+specific vital areas. Once a [rogue](:Category:_Rogues.md "wikilink")
+has learned this [skill](:Category:_Skills.md "wikilink"), he can aim
+[vital shots](Vital_Shot.md "wikilink") at any of the specific body
+parts it can hit. Aiming is harder than a random [vital
+shot](Vital_Shot.md "wikilink"), but high [dex](Dexterity.md "wikilink")
+will help. You can currently hit: head, heart, lungs, kneecap, and eye.*
 
-Prerequisites: [rogue lore](Rogue_Lore "wikilink"), [Vital
-Shot](Vital_Shot "wikilink").
+Prerequisites: [rogue lore](Rogue_Lore.md "wikilink"), [Vital
+Shot](Vital_Shot.md "wikilink").
 
-Syntax: [vital](Vital "wikilink") \<[mob](:Category:_Mobs "wikilink")\>
-<body-part>.  
-Syntax: [vs](VS "wikilink") \<[mob](:Category:_Mobs "wikilink")\>
+Syntax: [vital](Vital.md "wikilink")
+\<[mob](:Category:_Mobs.md "wikilink")\> <body-part>.  
+Syntax: [vs](VS.md "wikilink") \<[mob](:Category:_Mobs.md "wikilink")\>
 <body-part>.  
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

@@ -5,9 +5,9 @@ feeding off your weakness and fear. MmmmmMMmm, fear with a side of
 weakness.*
 
 `Tialoc the archfiend is using:`  
-<worn on finger>`    [Pristine  ] (Glowing) `[`the`` ``ring`` ``of`` ``higher`` ``power`](Ring_Of_Higher_Power "wikilink")  
-<wielded>`           [Pristine  ] `[`a`` ``ram's`` ``head`` ``staff`](Ram's_Head_Staff "wikilink")  
-<held>`              [Pristine  ] `[`a`` ``lord's`` ``head`` ``chalice`](Lord's_Head_Chalice "wikilink")
+<worn on finger>`    [Pristine  ] (Glowing) `[`the`` ``ring`` ``of`` ``higher`` ``power`](Ring_Of_Higher_Power.md "wikilink")  
+<wielded>`           [Pristine  ] `[`a`` ``ram's`` ``head`` ``staff`](Ram's_Head_Staff.md "wikilink")  
+<held>`              [Pristine  ] `[`a`` ``lord's`` ``head`` ``chalice`](Lord's_Head_Chalice.md "wikilink")
 
 `You peek at the inventory:`  
 `    Nothing.`

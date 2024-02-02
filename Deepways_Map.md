@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Deepways_Map.jpg" title="Deepways_Map.jpg" width="950"
-alt="Deepways_Map.jpg" />
-<figcaption aria-hidden="true">Deepways_Map.jpg</figcaption>
+<img src="Deepways_Map.jpg.md" title="Deepways_Map.jpg.md" width="950"
+alt="Deepways_Map.jpg.md" />
+<figcaption aria-hidden="true">Deepways_Map.jpg.md</figcaption>
 </figure>
 
 [Cavern Of The Fates Map](Cavern_Of_The_Fates_Map "wikilink")  

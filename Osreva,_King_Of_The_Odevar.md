@@ -17,11 +17,11 @@ greets you with friendliness.*
 `    enjoy the views from this place.'`
 
 **Keywords:** Osreva, man, short.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -32,14 +32,15 @@ greets you with friendliness.*
 
 He also carries the [Black Stone Spiral](Black_Stone_Spiral "wikilink")
 but it is only given during the [Chainmail Morning Breeze
-quest](Chainmail_Morning_Breeze_Quest "wikilink").
+quest](Chainmail_Morning_Breeze_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Odevar
-Hills](:Category:_Odevar_Hills "wikilink")
-([Map](Odevar_Hills_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Walking between the mounds.  
+**[Area](:Category:_Areas.md "wikilink"):** [Odevar
+Hills](:Category:_Odevar_Hills.md "wikilink")
+([Map](Odevar_Hills_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Walking between the
+mounds.  
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 10w,
 u, w, s, 2w, d, s, w, s, d, w, 3s, w, 2s, e, s, u, s, e, s.
 

@@ -1,13 +1,13 @@
-*Long ago during a great war, a [dragon](Dragons "wikilink") crashed to
-the earth. It crashed so hard that it had buried itself within the
-earth. Legends have it that this [dragon](Dragons "wikilink")
+*Long ago during a great war, a [dragon](Dragons.md "wikilink") crashed
+to the earth. It crashed so hard that it had buried itself within the
+earth. Legends have it that this [dragon](Dragons.md "wikilink")
 crash-landed near the [now ruined drow city of
-Reveria](:Category:_Ruins_Of_Reveria "wikilink"). Recent reports of
+Reveria](:Category:_Ruins_Of_Reveria.md "wikilink"). Recent reports of
 earthquakes and hot steam rising up from cracks within the earth have
 brought up the story of this legend once again. Some believe [the dragon
-that entombed itself eons ago](Forgotten_Dragon,_Zikthro "wikilink")
+that entombed itself eons ago](Forgotten_Dragon,_Zikthro.md "wikilink")
 still lives and breathes beneath [the
-city](:Category:_Ruins_Of_Reveria "wikilink"), while others say it's
+city](:Category:_Ruins_Of_Reveria.md "wikilink"), while others say it's
 just a shift in the tectonic plates and it is nothing to worry about.
 Whichever it is, it deserves to be investigated further.*
 
@@ -17,11 +17,11 @@ Whichever it is, it deserves to be investigated further.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, s, 2e, u, 2s, e, s, d, 2w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, s, 2e, u, 2s, e, s, d, 2w.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Zikthro](Forgotten_Dragon,_Zikthro "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Zikthro](Forgotten_Dragon,_Zikthro.md "wikilink").
 
 ## Connections
 

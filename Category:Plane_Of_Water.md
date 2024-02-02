@@ -11,11 +11,12 @@ domain.*
 
 ## Directions
 
-[Plane](Planeshift "wikilink") to [Water](:Category:Water "wikilink").
+[Plane](Planeshift.md "wikilink") to
+[Water](:Category:Water.md "wikilink").
 
 ## Connections
 
-[Reckoning](:Category:Reckoning "wikilink"): 3dwd from shift.
+[Reckoning](:Category:Reckoning.md "wikilink"): 3dwd from shift.
 
 ## Navigation
 
@@ -49,9 +50,9 @@ ws, wu, wd, sd.)
 This is a nice place for a group of \~5 to get exp. It only has one
 sentinel mob at shift, and you can get a [Ring Of
 Water](Ring_Of_Water "wikilink") by killing one of the three
-[deadlies](Deadly_Water_Elemental "wikilink").
+[deadlies](Deadly_Water_Elemental.md "wikilink").
 
-Almost every room in this [area](:Category:Lord_Areas "wikilink") has
+Almost every room in this [area](:Category:Lord_Areas.md "wikilink") has
 eight exits. This creates two problems for us:
 
 -   Sudden swarms can appear. Sometimes you can get away with running
@@ -61,21 +62,21 @@ eight exits. This creates two problems for us:
 -   This area is hard to regen in. Here are a few good places to regen:
     -   Inside the maelstrom. From shift go s, e to reach the room with
         the maelstrom in it. Enter the maelstrom, deal with the
-        [surly](Surly_Water_Elemental "wikilink") (stabber), and regen.
-        If you want to you can take on the [water elemental
-        ruler](Water_Elemental_Ruler "wikilink") (who holds the
-        [tattoo](Watermark_Tattoo "wikilink")) to the east. Otherwise
+        [surly](Surly_Water_Elemental.md "wikilink") (stabber), and
+        regen. If you want to you can take on the [water elemental
+        ruler](Water_Elemental_Ruler.md "wikilink") (who holds the
+        [tattoo](Watermark_Tattoo.md "wikilink")) to the east. Otherwise
         your group must portal out.
     -   The stone shelter: 2e n u from shift. This is the
         [lloydable](lloydable "wikilink") room on this
-        [plane](:Category:Lord_Planes "wikilink"). From here you can
-        enter a nexus to [Nothing](:Category:Nothing "wikilink") if you
-        choose.
-    -   [Thorngate](:Category:Thorngate "wikilink"). If you win a fight
-        by the skin of your teeth you might as well go back home and
-        regen up proper. Consider making a
-        [shrine](Create_Shrine "wikilink") 2e. Retake shift when you're
-        good and ready.
+        [plane](:Category:Lord_Planes.md "wikilink"). From here you can
+        enter a nexus to [Nothing](:Category:Nothing.md "wikilink") if
+        you choose.
+    -   [Thorngate](:Category:Thorngate.md "wikilink"). If you win a
+        fight by the skin of your teeth you might as well go back home
+        and regen up proper. Consider making a
+        [shrine](Create_Shrine.md "wikilink") 2e. Retake shift when
+        you're good and ready.
 
 <!-- -->
 
@@ -85,18 +86,18 @@ eight exits. This creates two problems for us:
 eventually these mobs will get their own pages, but for now here's the
 levels of some of the mobs in water proper:
 
-|                             |       |                                                                      |
-|-----------------------------|-------|----------------------------------------------------------------------|
-| Mob name                    | Level | Comment                                                              |
-| A lesser Water Elemental    | 140   |                                                                      |
-| A water elemental           | 142   |                                                                      |
-| A large water elemental     | 145   | Some are stabbers                                                    |
-| A water viper               | 150   |                                                                      |
-| A deadly Water Elemental    | 150   | Some have bows, some have [rings of water](Ring_Of_Water "wikilink") |
-| A huge water elemental      | 155   | Sentinel, some are thieves, some are casters                         |
-| A storm wyrm                | 160   | Wears storm-skin cloaks, has breath                                  |
-| The Greater Water Elemental | 165   | Shift mob, sentinel                                                  |
-| A surly water elemental     | 175   | Stabber                                                              |
+|                             |       |                                                                         |
+|-----------------------------|-------|-------------------------------------------------------------------------|
+| Mob name                    | Level | Comment                                                                 |
+| A lesser Water Elemental    | 140   |                                                                         |
+| A water elemental           | 142   |                                                                         |
+| A large water elemental     | 145   | Some are stabbers                                                       |
+| A water viper               | 150   |                                                                         |
+| A deadly Water Elemental    | 150   | Some have bows, some have [rings of water](Ring_Of_Water.md "wikilink") |
+| A huge water elemental      | 155   | Sentinel, some are thieves, some are casters                            |
+| A storm wyrm                | 160   | Wears storm-skin cloaks, has breath                                     |
+| The Greater Water Elemental | 165   | Shift mob, sentinel                                                     |
+| A surly water elemental     | 175   | Stabber                                                                 |
 
 ## Frost Giant Quest
 

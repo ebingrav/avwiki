@@ -16,7 +16,7 @@ Syntax: cast 'glorious conquest'
 This spell has a base duration of 8 ticks at Hero (and Lord?).
 
 The exact effect of the spell differs from cleric to cleric, largely
-depending on which god the caster [worships](Worship "wikilink"), but
+depending on which god the caster [worships](Worship.md "wikilink"), but
 also apparently to an extent depending on the caster's race. The power
 of the spell is the same for both Heroes and Lords. This spell only
 works on mobs above a certain level.

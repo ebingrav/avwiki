@@ -1,10 +1,10 @@
 *This unnatural landscape is shaped by the battle raging between the
-denizens of the [Kzinti outpost](:Category:Kzinti_Outpost "wikilink")
+denizens of the [Kzinti outpost](:Category:Kzinti_Outpost.md "wikilink")
 and those of the [Githzerai
-Tower](:Category:Githzerai_Tower "wikilink"). Portals flare to life, and
-disappear just as quickly, slicing through earth, plant, and soldiers
-alike, their age-long battle continued on the plane of
-[Midgaardia](:Category:Midgaardia "wikilink").*
+Tower](:Category:Githzerai_Tower.md "wikilink"). Portals flare to life,
+and disappear just as quickly, slicing through earth, plant, and
+soldiers alike, their age-long battle continued on the plane of
+[Midgaardia](:Category:Midgaardia.md "wikilink").*
 
 **Level Range:** 51-51
 
@@ -14,15 +14,15 @@ This area was added in May 2021.
 
 ## Directions
 
-[Portaling](Portal "wikilink") point(s) suggested: [Kzinti
-Raider](Kzinti_Raider "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Kzinti
+Raider](Kzinti_Raider.md "wikilink").
 
 ## Connections
 
 There are two portals near their respective armies staging areas on
 opposite sides of the battlefield – one connecting this area to [Kzinti
-Outpost](:Category:Kzinti_Outpost "wikilink") and one to [Githzerai
-Tower](:Category:Githzerai_Tower "wikilink").
+Outpost](:Category:Kzinti_Outpost.md "wikilink") and one to [Githzerai
+Tower](:Category:Githzerai_Tower.md "wikilink").
 
 ## Navigation
 
@@ -41,17 +41,18 @@ Undying. These areas are cursed.
 
 If you kill all of mobs in the Summoning Circle it summons an
 Other-worldly Godling, a lvl 80 mob that skins to a [treasure ring with
-2hr, 35 mana](Ring_of_Viscous_Magic "wikilink").
+2hr, 35 mana](Ring_of_Viscous_Magic.md "wikilink").
 
 The apprentice Kzinti weaponsmith gives you a
-[quest](:Category:Hero_Quests "wikilink") to find him several weapons,
-the last ones being [Lightning Strike](Lightning_Strike "wikilink") and
-a [Lurch's Adder](Lurch's_Adder "wikilink"). He will destroy the
-Lightning Strike, using the metal to reforge the Lurch's Adder to [hero
-level](Lurch's_Adder_(Hero) "wikilink"). It becomes a lvl 53, max 45,
+[quest](:Category:Hero_Quests.md "wikilink") to find him several
+weapons, the last ones being [Lightning
+Strike](Lightning_Strike "wikilink") and a [Lurch's
+Adder](Lurch's_Adder "wikilink"). He will destroy the Lightning Strike,
+using the metal to reforge the Lurch's Adder to [hero
+level](Lurch's_Adder_(Hero).md "wikilink"). It becomes a lvl 53, max 45,
 14hr/14dr, [concealable
-weapon](:Category:Concealable_Weapons "wikilink") that does [piercing
-damage](:Category:Melee_Weapons_That_Pierce "wikilink").
+weapon](:Category:Concealable_Weapons.md "wikilink") that does [piercing
+damage](:Category:Melee_Weapons_That_Pierce.md "wikilink").
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category:
 Incomplete](Category:_Incomplete "wikilink")

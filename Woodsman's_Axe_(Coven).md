@@ -1,27 +1,28 @@
 *A large axe stained with tree sap is here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 9 to 28 (average 18).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 9 to 28 (average 18).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** axe, woodsmans.  
-**[Level(s)](Object_Level "wikilink"):** 29-31.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 29-31.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Coven](:Category:_Coven "wikilink") ([Map](Coven_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The woodsman
-guard](Woodsman_Guard "wikilink").  
-See [The woodsman guard](Woodsman_Guard "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):**
+[Coven](:Category:_Coven.md "wikilink")
+([Map](Coven_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The woodsman
+guard](Woodsman_Guard.md "wikilink").  
+See [The woodsman guard](Woodsman_Guard.md "wikilink") for more
 information.  
 
 [Category: Gear In Coven](Category:_Gear_In_Coven "wikilink") [Category:

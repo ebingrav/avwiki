@@ -28,7 +28,8 @@ players are in your group; your level versus the level of the monster;
 how many of this monster have been killed lately; and some random
 variation. </em>
 
-See also [TNL](TNL "wikilink"), [Tiers](:Category:_Tiers "wikilink") and
-[Sublevel](Sublevel "wikilink").
+See also [TNL](TNL.md "wikilink"),
+[Tiers](:Category:_Tiers.md "wikilink") and
+[Sublevel](Sublevel.md "wikilink").
 
 [Category: Characters](Category:_Characters "wikilink")

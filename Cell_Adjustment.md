@@ -1,18 +1,18 @@
 *Most people think that a poison has to be removed from the body before
 it can be
-[healed](:Category:_Skills_And_Spells_That_Heal_Characters "wikilink").
+[healed](:Category:_Skills_And_Spells_That_Heal_Characters.md "wikilink").
 What if the victim could alter his/her body chemistry to adapt to and
 destroy the poison? That's exactly what this Psionic
-[spell](:Category:_Spells "wikilink") lets the caster do. CELL
+[spell](:Category:_Spells.md "wikilink") lets the caster do. CELL
 ADJUSTMENT is a [BIOCENTRIC Psionic
-Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It can only
-be [cast](Cast "wikilink") on others if the caster first masters the art
-of [BIO EMPATHY](Bio_Empathy "wikilink").*
+Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It can
+only be [cast](Cast.md "wikilink") on others if the caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'cell adjustment'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'cell adjustment'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

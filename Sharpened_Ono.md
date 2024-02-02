@@ -1,29 +1,29 @@
 *A large axe of Nipponese design lies here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 13 to 40 (average 26).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 5 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 13 to 40 (average 26).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 5 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** ono ax.  
-**[Level(s)](Object_Level "wikilink"):** 37.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 37.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
-[Mooseashi](Mooseashi_(After_Prophecy) "wikilink").  
-See [Mooseashi](Mooseashi_(After_Prophecy) "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Mooseashi](Mooseashi_(After_Prophecy).md "wikilink").  
+See [Mooseashi](Mooseashi_(After_Prophecy).md "wikilink") for more
 information.  
 
 [Category: Gear In Moose

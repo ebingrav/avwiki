@@ -13,7 +13,7 @@ Weight: 1 lbs
 Flag(s): nolocate.
 
 New manifest item introduced with the revamp of [Kzinti
-Homeworld](:Category:Kzinti_Homeworld "wikilink") on 01/09/2011.
+Homeworld](:Category:Kzinti_Homeworld.md "wikilink") on 01/09/2011.
 
 How To Make:  
 1. Get a [Watermark Tattoo](Watermark_Tattoo "wikilink"). This can be a

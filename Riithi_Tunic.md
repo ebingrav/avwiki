@@ -1,25 +1,25 @@
 *A plain gray tunic is lying here in a pile.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 8.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 8.`
 
 **Keyword(s):** tunic riithi.  
-**[Level(s)](Object_Level "wikilink"):** 37.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 8 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 37.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Yuriith](Yuriith "wikilink"),
-[Talriith](Talriith "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Yuriith](Yuriith "wikilink"), [Talriith](Talriith "wikilink").  
 See each mob's individual page for more information.  
 
 [Category: Gear In Drow

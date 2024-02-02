@@ -1,8 +1,8 @@
 This gear changing system can be expanded to any number of sets of gear
-(up to your [ Carrying Capacity](Carrying_Capacity "wikilink"). It
+(up to your [ Carrying Capacity](Carrying_Capacity.md "wikilink"). It
 relies on a storage system consisting of a main
-[bag](:Category:_Containers "wikilink") with bags of gear in it, and a
-miscelanious bag.
+[bag](:Category:_Containers.md "wikilink") with bags of gear in it, and
+a miscelanious bag.
 
 ## Benefits of using this system
 
@@ -36,7 +36,7 @@ First we create one alias that will put on each set of gear...
 
 Each of them should look something like this...
 
-> [alias](Alias "wikilink") deton get 'body bolgearbag' 'flo
+> [alias](Alias.md "wikilink") deton get 'body bolgearbag' 'flo
 > bolmainbag':get all 'body bolgearbag':put 'body bolgearbag' 'gir
 > bolmiscbag':wear all
 
@@ -52,7 +52,7 @@ everything were wearing into whichever bolgearbag is in bolmiscbag.
 
 Heres the alias.
 
-> [alias](Alias "wikilink") gearoff put all bolmiscbag:get bolgearbag
+> [alias](Alias.md "wikilink") gearoff put all bolmiscbag:get bolgearbag
 > bolmiscbag:rem all:put all bolgearbag:get bolmiscbag bolgearbag:get
 > bolmainbag bolgearbag:get bolmainbag bolmiscbag:put all.bolgearbag
 > bolmainbag
@@ -82,25 +82,25 @@ shields that you want in the inventory for hit gear.
 
 No explaination will be provided. Use at own risk.
 
-> [alias](Alias "wikilink") deton get 'body bolgearbag' 'flo
+> [alias](Alias.md "wikilink") deton get 'body bolgearbag' 'flo
 > bolmainbag':get all 'body bolgearbag':put 'body bolgearbag' 'gir
 > bolmiscbag':wear all
 
-> [alias](Alias "wikilink") hiton get 'head bolgearbag' 'flo
+> [alias](Alias.md "wikilink") hiton get 'head bolgearbag' 'flo
 > bolmainbag':get all 'head bolgearbag':put 'head bolgearbag' 'gir
 > bolmiscbag':get 'jump bolgearbag' 'flo bolmainbag':get 'zarr gau'
 > 'jump bolgearbag':get 'liv daem' 'jump bolgearbag':put 'jump
 > bolgearbag' 'flo bolmainbag':wear all:get shield bolmiscbag
 
-> [alias](Alias "wikilink") manaon get 'urn bolgearbag' 'flo
+> [alias](Alias.md "wikilink") manaon get 'urn bolgearbag' 'flo
 > bolmainbag':get all 'urn bolgearbag':put 'urn bolgearbag' 'gir
 > bolmiscbag':wear all
 
-> [alias](Alias "wikilink") tankon get 'jump bolgearbag' 'flo
+> [alias](Alias.md "wikilink") tankon get 'jump bolgearbag' 'flo
 > bolmainbag':get all 'jump bolgearbag':put 'jump bolgearbag' 'gir
 > bolmiscbag':wear all
 
-> [alias](Alias "wikilink") gearoff put all bolmiscbag:get bolgearbag
+> [alias](Alias.md "wikilink") gearoff put all bolmiscbag:get bolgearbag
 > bolmiscbag:rem all:put all bolgearbag:get bolmiscbag bolgearbag:get
 > bolmainbag bolgearbag:get bolmainbag bolmiscbag:get 'liv dae' 'head
 > bolgearbag':get 'zarr gau' 'head bolgearbag':get 'jump bolgearbag'

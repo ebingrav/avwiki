@@ -13,26 +13,26 @@ content:*</font>
 ## Directions
 
 <font color=gray>*Include at least one of these three lines:*</font>  
-Walking route from [Nom](Nom "wikilink"): <font color=4040c0>walking
+Walking route from [Nom](Nom.md "wikilink"): <font color=4040c0>walking
 directions from Nom</font>.  
-Walking route from [Sol](Sol "wikilink"): <font color=4040c0>walking
+Walking route from [Sol](Sol.md "wikilink"): <font color=4040c0>walking
 directions from Sol</font>.  
-Walking route from [Aelmon](Aelmon "wikilink"):
+Walking route from [Aelmon](Aelmon.md "wikilink"):
 <font color=4040c0>walking directions from Aelmon</font>.  
 <font color=gray>*If this area contains no suitable portal-points, then
 include this line, as well:*</font>  
-Walking route from <font color=4040c0>\[\[portal-point nearby \|portal
+Walking route from <font color=4040c0>\[\[portal-point nearby.md\|portal
 point keyword(s)\]\]</font>: <font color=4040c0>walking directions from
 this portal-point</font>.
 
 <font color=gray>*List at least one suitable portal-point on this line
 or state 'none' if none exist:*</font>  
-[Portaling](Portal "wikilink") point(s) suggested:
-<font color=4040c0>\[\[portal-point \#1 \|portal-point \#1
-keyword(s)\]\], \[\[portal-point \#2 \|portal-point \#2 keyword(s)\]\],
-\[\[portal-point \#3 \|portal-point \#3 keyword(s)\]\], et
-cetera</font>. <font color=gray>*(also note any important pp qualities
-like aggressiveness or stealthiness)*</font>  
+[Portaling](Portal.md "wikilink") point(s) suggested:
+<font color=4040c0>\[\[portal-point \#1.md\|portal-point \#1
+keyword(s)\]\], \[\[portal-point \#2.md\|portal-point \#2
+keyword(s)\]\], \[\[portal-point \#3.md\|portal-point \#3
+keyword(s)\]\], et cetera</font>. <font color=gray>*(also note any
+important pp qualities like aggressiveness or stealthiness)*</font>  
 
 ## Connections
 

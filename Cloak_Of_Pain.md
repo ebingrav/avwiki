@@ -1,14 +1,14 @@
-*Meeting a [Sorcerer](:Category:_Sorcerers "wikilink") is, at best,
+*Meeting a [Sorcerer](:Category:_Sorcerers.md "wikilink") is, at best,
 rather unpleasant. Those who fight against them retain scars burnt into
 their very souls, and are often reluctant to face them again. This
 discipline focuses that effect, making it painful for enemies to
-remember a [Sorcerer](:Category:_Sorcerers "wikilink") while trying to
-track one after a battle. Many simply call off pursuit rather than face
-the pain. [Sorcerers](:Category:_Sorcerers "wikilink") can maximize this
-effect by being as generally unpleasant as possible.*
+remember a [Sorcerer](:Category:_Sorcerers.md "wikilink") while trying
+to track one after a battle. Many simply call off pursuit rather than
+face the pain. [Sorcerers](:Category:_Sorcerers.md "wikilink") can
+maximize this effect by being as generally unpleasant as possible.*
 
-Prerequisite(s): [Demonic Intent](Demonic_Intent "wikilink"), [Tainted
-Genius](Tainted_Genius "wikilink").
+Prerequisite(s): [Demonic Intent](Demonic_Intent.md "wikilink"),
+[Tainted Genius](Tainted_Genius.md "wikilink").
 
 Syntax: none (automatic).
 

@@ -1,10 +1,10 @@
-From [a mudman](Mudman "wikilink"):
+From [a mudman](Mudman.md "wikilink"):
 
 -   Go s.
 
 <!-- -->
 
--   [Quaff](Quaff "wikilink") from a mirror-smooth pool.
+-   [Quaff](Quaff.md "wikilink") from a mirror-smooth pool.
 
 <!-- -->
 
@@ -13,12 +13,12 @@ From [a mudman](Mudman "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [The Mimic](Mimic "wikilink").
+-   [Kill](Kill.md "wikilink") [The Mimic](Mimic.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a Hand-held
-    Mirror](Hand-Held_Mirror "wikilink") from his corpse.
+-   [Get](Get.md "wikilink") [a Hand-held
+    Mirror](Hand-Held_Mirror.md "wikilink") from his corpse.
 
 <!-- -->
 
@@ -26,10 +26,10 @@ From [a mudman](Mudman "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a Hand-held
-    Mirror](Hand-Held_Mirror "wikilink") to
-    [Requiem](Requiem_(mob) "wikilink") and receive [orchid-hilted
-    Sword](Orchid-Hilted_Sword "wikilink").
+-   [Give](Give.md "wikilink") [a Hand-held
+    Mirror](Hand-Held_Mirror.md "wikilink") to
+    [Requiem](Requiem_(mob).md "wikilink") and receive [orchid-hilted
+    Sword](Orchid-Hilted_Sword.md "wikilink").
 
 [Category: Quests In Downward
 Spiral](Category:_Quests_In_Downward_Spiral "wikilink") [Category:

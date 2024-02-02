@@ -2,9 +2,9 @@ Syntax: config +/-autogroup
 Syntax: autogroup (toggle)
 
 With autogroup toggled to on, anyone who follows you will be
-automatically [grouped](Group "wikilink").
+automatically [grouped](Group.md "wikilink").
 
-See [CONFIGURE](Config "wikilink") to find out which toggle is on and
+See [CONFIGURE](Config.md "wikilink") to find out which toggle is on and
 which is off.
 
 Please note that when a player is AFK, the autogroup function is

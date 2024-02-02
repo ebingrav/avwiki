@@ -4,8 +4,8 @@
 **Keywords**: faerie essence glimmer light  
 **Flags**: glow magic  
 **Weight**: 0  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
-**Area**: [Unravelling](:Category:Unravelling "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
+**Area**: [Unravelling](:Category:Unravelling.md "wikilink")  
 **Mob**: [Unmaker](Unmaker "wikilink")
 
 Most likely involved in the process of becoming a true fae.

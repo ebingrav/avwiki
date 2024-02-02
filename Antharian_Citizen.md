@@ -4,16 +4,16 @@ at every detail. This Antharian seems to be a simple citizen, going
 about on his daily schedule.*
 
 **Keywords:** antharian, citizen.  
-**[Level](Level "wikilink"):** 45.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 45.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
 
 `An Antharian citizen is using:     `*`(note:`` ``varies`` ``from`` ``mob`` ``to`` ``mob)`*  
-<worn about body>`   `[`an`` ``Antharian`` ``robe`](Antharian_Robe "wikilink")  
-<worn about waist>`  `[`an`` ``Antharian`` ``belt`](Antharian_Belt "wikilink")
+<worn about body>`   `[`an`` ``Antharian`` ``robe`](Antharian_Robe.md "wikilink")  
+<worn about waist>`  `[`an`` ``Antharian`` ``belt`](Antharian_Belt.md "wikilink")
 
 `An Antharian citizen is carrying:`  
 `     Nothing.`
@@ -27,10 +27,10 @@ Citizens will assist at a certain level, at least from level 42 onwards.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-An Antharian citizen [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+An Antharian citizen [wanders](Wandering_Mobs.md "wikilink").
 
 An Antharian citizen is portable.  
 

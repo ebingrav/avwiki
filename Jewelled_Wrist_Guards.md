@@ -12,10 +12,10 @@ colour.*
 **Levels:** Levels 50-52  
 **Weight:** 7 lbs  
 **Bases:** Base 10-12  
-**Flags:** [glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[bless](Bless_Flag "wikilink")  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Flags:** [glow](Glow_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink")  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Erashnak‎](Erashnak‎ "wikilink")  
 
 ## Comments

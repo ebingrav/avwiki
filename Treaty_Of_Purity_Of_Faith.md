@@ -7,8 +7,8 @@ Slot: held
 Flags: glow lock(?) magic bless nolocate  
 Weight: 10  
 Keywords: treaty purity faith scrolls lordgear  
-Plane: [Firerealm](:Category:Firerealm "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm](:Category:Firerealm.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: [Virgil The Purifier](Virgil_The_Purifier "wikilink")
 
 It's a treasure, so it has no base AC.
@@ -16,7 +16,7 @@ It's a treasure, so it has no base AC.
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category:Gear In Firerealm

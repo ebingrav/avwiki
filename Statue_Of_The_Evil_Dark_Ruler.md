@@ -7,20 +7,20 @@ down at you.*
 **Keywords:** statue, dark, evil, ruler.  
 **Scan Description:** (Black Aura) Before you towers the statue of the
 evil dark ruler.  
-**[Level](Level "wikilink"):** 75  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[mage](Spellcasting_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 75  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[mage](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `Statue of the Evil Dark Ruler is using:`  
-<wielded>`           `[`the`` ``dark`` ``flaming`` ``blade`](Dark_Flaming_Blade "wikilink")
+<wielded>`           `[`the`` ``dark`` ``flaming`` ``blade`](Dark_Flaming_Blade.md "wikilink")
 
 `Statue of the Evil Dark Ruler is carrying:`  
 `     Nothing.`
@@ -32,14 +32,14 @@ Neraka. He does cast several mage spells though.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Temple Of
-Utami](:Category:_Temple_Of_Utami "wikilink")
-([Map](Temple_Of_Utami_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The shrine of Kariya
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [ Temple Of
+Utami](:Category:_Temple_Of_Utami.md "wikilink")
+([Map](Temple_Of_Utami_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The shrine of Kariya
+([cursed](Cursed_Rooms.md "wikilink"))
 
-Walking route from [Merline](MobName "wikilink"): s, 2e, 2n, open w, w.
-The door is hidden.  
+Walking route from [Merline](MobName.md "wikilink"): s, 2e, 2n, open w,
+w. The door is hidden.  
 
 [Category:Mobs In Temple Of
 Utami](Category:Mobs_In_Temple_Of_Utami "wikilink")

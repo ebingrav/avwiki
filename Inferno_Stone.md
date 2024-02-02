@@ -14,14 +14,14 @@ Weight: 1
 Keywords: stone, flame, inferno  
 Flags: glow  
 Quality: 100  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Invasion](:Category:Astral_Invasion "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Invasion](:Category:Astral_Invasion.md "wikilink")  
 Mob: [Astral Dragon](Astral_Dragon "wikilink")  
 ----
 
 See [Gear In Astral
-Invasion](:Category:Gear_In_Astral_Invasion "wikilink") for directions
-on how to get this gear.
+Invasion](:Category:Gear_In_Astral_Invasion.md "wikilink") for
+directions on how to get this gear.
 
 [Category: Lord Tank Gear](Category:_Lord_Tank_Gear "wikilink")
 [Category: Gear In Astral

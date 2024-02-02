@@ -10,25 +10,26 @@ able to get past the rest of the guards, he snarls, brandishes his
 paired warclaws, and attacks!*
 
 **Keywords:** shinriith, riithi, captain.  
-**[Level](Level "wikilink"):** 46.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-agggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 46.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+agggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `A shinriith captain is using:`  
-<worn on finger>`    (Humming) `[`a`` ``Riithi`` ``Captain's`` ``ring`](Riithi_Captain's_Ring "wikilink")  
-<worn on body>`      `[`a`` ``Riithi`` ``granitecloth`` ``cuirass`](Riithi_Granitecloth_Cuirass "wikilink")  
-<worn on head>`      `[`a`` ``Riithi`` ``Captain's`` ``helmet`](Riithi_Captain's_Helmet "wikilink")  
-<worn on legs>`      `[`riithi`` ``breeches`](Riithi_Breeches "wikilink")  
-<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``granitecloth`` ``boots`](Riithi_Granitecloth_Boots "wikilink")  
-<held in offhand>`   (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw "wikilink")  
-<wielded>`           (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw "wikilink")
+<worn on finger>`    (Humming) `[`a`` ``Riithi`` ``Captain's`` ``ring`](Riithi_Captain's_Ring.md "wikilink")  
+<worn on body>`      `[`a`` ``Riithi`` ``granitecloth`` ``cuirass`](Riithi_Granitecloth_Cuirass.md "wikilink")  
+<worn on head>`      `[`a`` ``Riithi`` ``Captain's`` ``helmet`](Riithi_Captain's_Helmet.md "wikilink")  
+<worn on legs>`      `[`riithi`` ``breeches`](Riithi_Breeches.md "wikilink")  
+<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``granitecloth`` ``boots`](Riithi_Granitecloth_Boots.md "wikilink")  
+<held in offhand>`   (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw.md "wikilink")  
+<wielded>`           (Humming) `[`a`` ``Riithi`` ``warclaw`](Riithi_Warclaw.md "wikilink")
 
 `A shinriith captain is carrying:`  
 `     Nothing.`
@@ -50,11 +51,11 @@ itself.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Surveyor's Base
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [The Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Surveyor's Base
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d,
 s, d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, s, e, 3n,

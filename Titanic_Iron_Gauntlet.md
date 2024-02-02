@@ -14,13 +14,13 @@ or spikes. The pointed and hooked rivets are an especially nice touch.*
 ` Modifies hit roll by 10 continuous`
 
 **Keyword(s):** titanic iron gauntlet.  
-**[Level(s)](Object_Level "wikilink"):** 52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wield>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 25 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** evil anti-good.  
+**[Level(s)](Object_Level.md "wikilink"):** 52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wield>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 25 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** evil anti-good.  
 
 ## Comments
 

@@ -21,9 +21,9 @@ Tell me, how fares New Thalos during my exile?"
 **Keywords:** king, madman, man, mad.  
 **Scan Description:** A madman with a driftwood crown yells and gestures
 from the crow's nest.  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** ?  
 
 ## Gear
@@ -36,9 +36,9 @@ from the crow's nest.
 
 from far hunter go 4w 1u
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A crow's nest overlooking a
-floating wasteland ([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A crow's nest overlooking a
+floating wasteland ([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Rim](Category:_Mobs_In_Rim "wikilink")

@@ -1,9 +1,9 @@
 Syntax: blank
 
 BLANK toggles existence of a blank before your
-[prompt](Prompt "wikilink").
+[prompt](Prompt.md "wikilink").
 
-See [CONFIGURE](Config "wikilink") to find out which toggle is on and
+See [CONFIGURE](Config.md "wikilink") to find out which toggle is on and
 which is off.
 
 See also: CONFIG

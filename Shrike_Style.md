@@ -1,8 +1,9 @@
-*A [Shadowfist](:Category:_Shadowfists "wikilink")'s
-[monk](:Category:_Monks "wikilink") training enables him to resist the
-distractions of combat while lining up a [vital
-shot](Vital_Shot "wikilink"). This [skill](:Category:_Skills "wikilink")
-is automatic once trained, but is not absolute.*
+*A [Shadowfist](:Category:_Shadowfists.md "wikilink")'s
+[monk](:Category:_Monks.md "wikilink") training enables him to resist
+the distractions of combat while lining up a [vital
+shot](Vital_Shot.md "wikilink"). This
+[skill](:Category:_Skills.md "wikilink") is automatic once trained, but
+is not absolute.*
 
 Syntax: none
 

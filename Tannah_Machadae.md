@@ -12,39 +12,39 @@ dryad Allaysha, and the artifacts won from the late Marshall Diana.*
 **Keywords:** geomancer, tannah, machadae  
 **Scan Description:** (Black Aura) Busy with yet another wicked
 experiment the geomancer has no time for you.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** demonic  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** demonic  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** [Sanctuary](Sanctuary "wikilink").  
 
 ## Gear
 
 `Tannah Machadae is using:`  
-<worn around neck>`  `[`dryad`` ``necklace`](Dryad_Necklace "wikilink")  
-<wielded>`           (Glowing) `[`a`` ``staff`` ``of`` ``cooling`` ``lava`](Staff_Of_Cooling_Lava "wikilink")
+<worn around neck>`  `[`dryad`` ``necklace`](Dryad_Necklace.md "wikilink")  
+<wielded>`           (Glowing) `[`a`` ``staff`` ``of`` ``cooling`` ``lava`](Staff_Of_Cooling_Lava.md "wikilink")
 
 `You peek at the inventory:`  
-`     a `[`smoldering`` ``iron`` ``key`](Smoldering_Iron_Key "wikilink")
+`     a `[`smoldering`` ``iron`` ``key`](Smoldering_Iron_Key.md "wikilink")
 
 ## Comments
 
 Tannah used to live in [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink") which is now [Helikon
-Tower](:Category:Helikon_Tower "wikilink"). Both of these areas are
+Tower](:Category:Obsidian_Tower.md "wikilink") which is now [Helikon
+Tower](:Category:Helikon_Tower.md "wikilink"). Both of these areas are
 Grandfathered.
 
 She now lives in [Daingean Machadae](Daingean_Machadae "wikilink").
 
-Need an [ornate obsidian key](Ornate_Obsidian_Key "wikilink") to enter
-Tannah's study.
+Need an [ornate obsidian key](Ornate_Obsidian_Key.md "wikilink") to
+enter Tannah's study.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Tannah Machadae's private
-chambers ([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Daingean
+Machadae](:Category:Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Tannah Machadae's private
+chambers ([Cursed](Cursed_Rooms.md "wikilink")).  
 
 [Category:Mobs In Daingean
 Machadae](Category:Mobs_In_Daingean_Machadae "wikilink")

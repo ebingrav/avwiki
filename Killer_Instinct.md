@@ -1,9 +1,9 @@
 *At the height of their psionic training, [Black Circle
-Initiates](:Category:_Black_Circle_Initiates "wikilink") can line up
-mid-round [vital shots](Vital_Shot "wikilink") in almost no time at
+Initiates](:Category:_Black_Circle_Initiates.md "wikilink") can line up
+mid-round [vital shots](Vital_Shot.md "wikilink") in almost no time at
 all.*
 
-Prerequisite(s): [Sense Weakness](Sense_Weakness "wikilink").
+Prerequisite(s): [Sense Weakness](Sense_Weakness.md "wikilink").
 
 Syntax: none (automatic).
 

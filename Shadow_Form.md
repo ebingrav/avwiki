@@ -1,11 +1,11 @@
 ''The psionic art can be used to blend one's body into the shadows. The
-one who employs this [skill](:Category:_Skills "wikilink") moves
+one who employs this [skill](:Category:_Skills.md "wikilink") moves
 unnoticed in much the same way as a person using the
-[SNEAK](Sneak "wikilink") [skill](:Category:_Skills "wikilink").
+[SNEAK](Sneak.md "wikilink") [skill](:Category:_Skills.md "wikilink").
 
 Prerequisite(s): none.
 
-Syntax: [shadow](Shadow "wikilink").
+Syntax: [shadow](Shadow.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

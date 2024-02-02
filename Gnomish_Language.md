@@ -9,13 +9,13 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Gnomish:    `*`TEaieie`` ``uicike`` ``brropem`` ``ope`` ``juuemaeieb`` ``opeierr`` ``teaieie`` ``ezeey`` ``bopge.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Gnomish:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Gnomish:
 
--   [Deep Gnomes](Deep_Gnomes "wikilink").
+-   [Deep Gnomes](Deep_Gnomes.md "wikilink").
 
 <!-- -->
 
--   [Gnomes](Gnomes "wikilink").
+-   [Gnomes](Gnomes.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

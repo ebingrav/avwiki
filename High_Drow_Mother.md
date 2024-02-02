@@ -1,5 +1,5 @@
 There are five different mothers, all in
-[Necropolis](:Category:Necropolis "wikilink"). In no specific order:
+[Necropolis](:Category:Necropolis.md "wikilink"). In no specific order:
 
 ## First Mother
 
@@ -15,9 +15,9 @@ executioners of Veyah.*
 **Keywords:** High, Drow, Mother.  
 **Scan Description:** Having lost her entire family, this mother spends
 her time hunting Veyah.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -26,7 +26,7 @@ her time hunting Veyah.
 `Nothing.`
 
 `High Drow Mother is carrying:`  
-`     `[`A`` ``Leather`` ``Journal`` ``With`` ``Ripped`` ``Pages`](Leather_Journal_With_Ripped_Pages "wikilink")
+`     `[`A`` ``Leather`` ``Journal`` ``With`` ``Ripped`` ``Pages`](Leather_Journal_With_Ripped_Pages.md "wikilink")
 
 ## Second Mother
 
@@ -41,15 +41,15 @@ family in the afterlife.*
 **Keywords:** High, Drow, Mother.  
 **Scan Description:** This mother slinks swiftly through the halls,
 staying in the shadows.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `High Drow Mother is using:`  
-<worn on body>`      `[`A`` ``Sea-Green`` ``Dress`](Sea-Green_Dress "wikilink")
+<worn on body>`      `[`A`` ``Sea-Green`` ``Dress`](Sea-Green_Dress.md "wikilink")
 
 `High Drow Mother is carrying:`  
 `     Nothing.`
@@ -67,15 +67,15 @@ justice where none of the High Drow could.*
 **Keywords:** High, Drow, Mother.  
 **Scan Description:** This lost royal mother stops suddenly and screams
 in frustration.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `High Drow Mother is using:`  
-<worn on body>`      `[`A`` ``Tight`` ``Blue`` ``Gown`](Tight_Blue_Gown "wikilink")
+<worn on body>`      `[`A`` ``Tight`` ``Blue`` ``Gown`](Tight_Blue_Gown.md "wikilink")
 
 `High Drow Mother is carrying:`  
 `     Nothing.`
@@ -94,9 +94,9 @@ of being a demigoddess just like Lloth.*
 **Keywords:** High, Drow, Mother.  
 **Scan Description:** This young mother walks along, remembering her
 only child.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -121,9 +121,9 @@ have begun to look alike.*
 **Keywords:** High, Drow, Mother.  
 **Scan Description:** Insane with loss, this mother searches for things
 she lost.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
@@ -137,16 +137,16 @@ she lost.
 ## Comments
 
 The fifth mother gives you [a note detailing the drider
-invasion](Note_Detailing_The_Drider_Invasion "wikilink") if you give her
-[a small painting](Small_Painting "wikilink").
+invasion](Note_Detailing_The_Drider_Invasion.md "wikilink") if you give
+her [a small painting](Small_Painting.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-High Drow Mother [wanders](Wandering_Mobs "wikilink").
+High Drow Mother [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

@@ -6,27 +6,27 @@ ground and stomps on it until it is just dust. Perhaps you should leave
 him alone.*
 
 **Keywords:** Greelak.  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[stomper](:Category:Stomping_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[stomper](:Category:Stomping_Mobs.md "wikilink").  
 **Affects:**
 
 ## Gear
 
 ` Greelak is using:`  
-<worn about body>`   [Pristine  ] `[`pitch-black`` ``robe`](Pitch-Black_Robe "wikilink")
+<worn about body>`   [Pristine  ] `[`pitch-black`` ``robe`](Pitch-Black_Robe.md "wikilink")
 
 `You peek at the inventory:`  
 `    Nothing.`
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [:Category: Lizard
+**[Area](:Category:_Areas.md "wikilink"):** [:Category: Lizard
 Island](:Category:_Lizard_Island "wikilink")
-([Map](Lizard_Island_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A Hut with no Walls.  
+([Map](Lizard_Island_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A Hut with no Walls.  
 Walking route from [Island Guard](Island_Guard "wikilink"): 9e s e s e
 4s w s.
 

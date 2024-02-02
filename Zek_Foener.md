@@ -5,15 +5,16 @@ dark dismal nightmare of a place. She is much more powerful then she
 appears.*
 
 **Keywords:** Zek, Foener  
-**[Level](Level "wikilink"):** 55  
-**[Alignment](Alignment "wikilink"):** Good.  
-**[Flags](:Category:_Mob_Types "wikilink"):** sentinel, spellcasting  
+**[Level](Level.md "wikilink"):** 55  
+**[Alignment](Alignment.md "wikilink"):** Good.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** sentinel,
+spellcasting  
 **Affects:** ??, ??, ??.  
 
 ## Gear
 
 `Zek Foener is using:`  
-<worn on body>`      `[` ``(Glowing)`` ``a`` ``white`` ``jumpsuit`](White_Jumpsuit "wikilink")
+<worn on body>`      `[` ``(Glowing)`` ``a`` ``white`` ``jumpsuit`](White_Jumpsuit.md "wikilink")
 
 `Zek Foener is carrying:`  
 `     Nothing.`
@@ -22,11 +23,11 @@ appears.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Wamphyri
-Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([map](Wamphyri_Aerie_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A workroom (portable)  
-Walking route from [Harry Keogh](MobName "wikilink"): w=open
+**[Area](:Category:_Areas.md "wikilink"):** [Wamphyri
+Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([map](Wamphyri_Aerie_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A workroom (portable)  
+Walking route from [Harry Keogh](MobName.md "wikilink"): w=open
 d=d=d=w=w=n=n=d=open e=e=e=d=open s=s=s=w=w=d=n=n=d=open e=e=e=d=open
 e=e=e=s=s=d=open n=n=n=d=open s=s=s=w=w=w=w=d=n=open n=n=open
 e=e=e=e=open d=d=s=s=d=n=n=n=w=w=d (aggies en-route)  

@@ -1,12 +1,13 @@
-*For many aeons the [drow](Drow "wikilink") lived in relative peace with
-other [races](:Category:_Races "wikilink") deep under the ground. Now,
-they have found themselves invaded by the [duergar](Duergar "wikilink")
-armies of [King Domi](King_Domi "wikilink"). Having grown decadent and
-relying on their magic they were unable to defend themselves. The
-[duergar](Duergar "wikilink") have already taken over large parts of the
-city, and [drow](Drow "wikilink") forces are losing ground rapidly. Many
-have died, many have fled. The outcome is not yet determined, but the
-end of the fabled drow city is nearing...*
+*For many aeons the [drow](Drow.md "wikilink") lived in relative peace
+with other [races](:Category:_Races.md "wikilink") deep under the
+ground. Now, they have found themselves invaded by the
+[duergar](Duergar.md "wikilink") armies of [King
+Domi](King_Domi.md "wikilink"). Having grown decadent and relying on
+their magic they were unable to defend themselves. The
+[duergar](Duergar.md "wikilink") have already taken over large parts of
+the city, and [drow](Drow.md "wikilink") forces are losing ground
+rapidly. Many have died, many have fled. The outcome is not yet
+determined, but the end of the fabled drow city is nearing...*
 
 **Level Range:** 15-25
 
@@ -14,11 +15,11 @@ end of the fabled drow city is nearing...*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 9w, n, 2u,
-e, u, 2n, e, \[e\], \[n\], \[e\], \[d\], d, e, n, 5e, 3n, 3e, s, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 9w, n,
+2u, e, u, 2n, e, \[e\], \[n\], \[e\], \[d\], d, e, n, 5e, 3n, 3e, s, w.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Drow Master
-Arts](Drow_Master_Of_Arts "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Drow Master
+Arts](Drow_Master_Of_Arts.md "wikilink").
 
 ## Connections
 
@@ -28,8 +29,8 @@ The city is divided into two distinct sections with a no-man's-land in
 the middle.
 
 -   The eastern section is entered from the [Duergar
-    Stronghold](:Category:_Duergar_Stronghold "wikilink") and is held by
-    the invading duergar forces. Also found here in the south eastern
+    Stronghold](:Category:_Duergar_Stronghold.md "wikilink") and is held
+    by the invading duergar forces. Also found here in the south eastern
     corner are a pet shop and a herb shop. Blocks to the west open into
     the no-man's-land.
 -   The no-man's-land contains the wreckage of two of the former drow
@@ -37,12 +38,12 @@ the middle.
     denied by a web. Passdoor will take you past, or find the amulet on
     the hidden scout which also acts as a key.
 -   The western part of the city is still under the control of the
-    [drow](Drow "wikilink"). Here are found the surviving two drow noble
-    houses, the temple to the Spider Queen and a connection to the much
-    higher level area, [The Veil of
-    Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink"). It is in this
+    [drow](Drow.md "wikilink"). Here are found the surviving two drow
+    noble houses, the temple to the Spider Queen and a connection to the
+    much higher level area, [The Veil of
+    Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink"). It is in this
     section where most of the interesting
-    [equipment](:Category:_Gear "wikilink") can be found.
+    [equipment](:Category:_Gear.md "wikilink") can be found.
 
 ## Adventuring
 

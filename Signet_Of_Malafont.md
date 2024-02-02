@@ -2,9 +2,9 @@
 Type: ticket  
 Flags: nolocate  
 Weight: ?  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 Mob: [Grand Duke Malafont](Grand_Duke_Malafont "wikilink")  
 If you give this to the [Weaver Mother](Weaver_Mother "wikilink") she
 will tell you the following story about [Grand Duke
@@ -29,7 +29,7 @@ battle of Avalon."*
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

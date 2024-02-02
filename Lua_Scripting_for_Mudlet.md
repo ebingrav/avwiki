@@ -11,7 +11,7 @@ Lua and RegEx.
 
 Bear in mind the gauges and tabs you see are not part of the default
 client. They are custom UI from this package.  
-<img src="Avatar_Mudlet_Feenom_Screenshot.png" title="screenshot"
+<img src="Avatar_Mudlet_Feenom_Screenshot.png.md" title="screenshot"
 width="600" alt="screenshot" />  
 
 ## Mudlet Package files
@@ -60,6 +60,6 @@ right: tell, group, public
 
 ## For Help or Bugs
 
-Message [Feenom](User:Feenom "wikilink")
+Message [Feenom](User:Feenom.md "wikilink")
 
 [Category:Mudlet Scripting](Category:Mudlet_Scripting "wikilink")

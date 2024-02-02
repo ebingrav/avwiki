@@ -78,7 +78,7 @@ five thousand hp worth of damage received less from breath attacks alone
 (during a warrior fight).
 
 As such, familiarize yourself with [Hero Saving-Throw
-Gear](:Category:Hero_Saving-Throw_Gear "wikilink") (though generally,
+Gear](:Category:Hero_Saving-Throw_Gear.md "wikilink") (though generally,
 two Namure Collars will be sufficient), and replacement mix-gear that
 combines AC with HR/DR. See [Tanking In Hit
 Gear](Tanking_In_Hit_Gear "wikilink") for some common alternative gear
@@ -102,7 +102,7 @@ the game, and store the Red-Brown potions for UD fight consumption.
 
 All potions (including quest) are legal as they do not require Immortal
 assistance to use. Exception: higher potency [blood
-ritual](Blood_Ritual "wikilink") potions (copper+).
+ritual](Blood_Ritual.md "wikilink") potions (copper+).
 
 ## Class Strategies
 
@@ -146,10 +146,10 @@ notes.
 <!-- -->
 
 -   Because UD will be on top a [
-    Stormlords](:Category:Stormlords "wikilink") usual single-target
+    Stormlords](:Category:Stormlords.md "wikilink") usual single-target
     attack spell ([Cloudburst](Cloudburst "wikilink")) will not work.
-    Worse, it cannot be [ quickened](Quicken "wikilink"). Instead they
-    should use (quickened) [Disintegrate](Disintegrate "wikilink").
+    Worse, it cannot be [ quickened](Quicken.md "wikilink"). Instead
+    they should use (quickened) [Disintegrate](Disintegrate "wikilink").
 
 <!-- -->
 
@@ -171,7 +171,7 @@ notes.
 ## Practicing
 
 Going to [Ouroborus](Ouroborus "wikilink") in [Lake Of
-Tears](:Category:Lake_Of_Tears "wikilink") is a good method to gauge
+Tears](:Category:Lake_Of_Tears.md "wikilink") is a good method to gauge
 your abilities. Self-spell and see if you can beat one of them using
 gear you would use in the actual fight. Remember, however, that UD is
 much tougher, and beating two Ouroboruses in a row could be constituted

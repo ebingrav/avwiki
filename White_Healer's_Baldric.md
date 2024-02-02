@@ -11,10 +11,10 @@ Young Priest \[Damiana Stillwaters\] (Portable)
 `Modifies armor class by -8 continuous.`
 
 From [Sol](Sol "wikilink"):2e n 2w s 2w s d w u n 5w to entrance of
-[Westwood](:Category:Westwood "wikilink")  
-From [Westwood](:Category:Westwood "wikilink"): w n 2w n w 2n w 2n w 2s
-w n (d) to the entrance of [Ruins Of
-Westwood](:Category:Ruins_Of_Westwood "wikilink")  
+[Westwood](:Category:Westwood.md "wikilink")  
+From [Westwood](:Category:Westwood.md "wikilink"): w n 2w n w 2n w 2n w
+2s w n (d) to the entrance of [Ruins Of
+Westwood](:Category:Ruins_Of_Westwood.md "wikilink")  
 from ruins entrance: 2d 3n, other mobs with baldric wander around.
 
 ## Comments

@@ -10,7 +10,7 @@ there are people taking notes live on the wiki.
 
 Our reasons for making this Lord Wiki is identical to our
 [Motivation](Motivation "wikilink") behind developing the main [Avatar
-Wiki]([Main_Page "wikilink").
+Wiki]([Main_Page.md "wikilink").
 
 If you want to be a super helpful wiki person who never makes mistakes,
 follow our [Format](Format "wikilink") and read our document on

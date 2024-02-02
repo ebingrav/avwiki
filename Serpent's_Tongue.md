@@ -12,15 +12,15 @@ is not for unskilled hands.*
 
 **Keyword(s):** whip, nine, serpents, tongue, sticks, chains,
 starmetal.  
-**[Level(s)](Object_Level "wikilink"):** 55.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 75 hps.  
-**[Weight](Object_Weight "wikilink"):** 14 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[rune](Rune_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 55.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 75 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 14 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink"),
+[rune](Rune_Flag.md "wikilink").  
 
 ## Comments
 
@@ -44,9 +44,9 @@ Please note:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Glyntaff
-Pass](:Category:_Glyntaff_Pass "wikilink").  
-**[Mob](:Category:_Mobs "wikilink"):** [Angharad, The
+**[Area](:Category:_Areas.md "wikilink"):** [ Glyntaff
+Pass](:Category:_Glyntaff_Pass.md "wikilink").  
+**[Mob](:Category:_Mobs.md "wikilink"):** [Angharad, The
 Hediad](Angharad,_The_Hediad "wikilink").  
 
 [Category: Gear In Glyntaff

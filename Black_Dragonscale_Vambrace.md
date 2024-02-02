@@ -11,8 +11,8 @@ Modifies save vs magic by -5 continuous.
 Slot: Wrist  
 Weight: 2  
 Flags: hum dark  
-Plane: [Tarterus](:Category:Tarterus "wikilink")  
-Area: [Garden](:Category:Garden "wikilink")  
+Plane: [Tarterus](:Category:Tarterus.md "wikilink")  
+Area: [Garden](:Category:Garden.md "wikilink")  
 Mob: [Black Dragon Statue](Black_Dragon_Statue "wikilink")  
 
 ## Comments
@@ -20,7 +20,7 @@ Mob: [Black Dragon Statue](Black_Dragon_Statue "wikilink")
 Easy to enchant making it decent AC gear for low hp alts. You'll get
 lots of these running in Garden.
 
-See [Gear In Garden](:Category:Gear_In_Garden "wikilink") for
+See [Gear In Garden](:Category:Gear_In_Garden.md "wikilink") for
 instructions on how to obtain this piece of gear.
 
 [Category:Lord HP Gear](Category:Lord_HP_Gear "wikilink") [Category:Lord

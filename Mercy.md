@@ -1,23 +1,24 @@
 *Mercy is one of those 'after-the-fact'
-[spells](:Category:_Spells "wikilink") -- it's only used when it's
-already too late for someone. This [spell](:Category:_Spells "wikilink")
-takes you to the newest corpse of the
-[player](:Category:_Characters "wikilink"). It has the regular
+[spells](:Category:_Spells.md "wikilink") -- it's only used when it's
+already too late for someone. This
+[spell](:Category:_Spells.md "wikilink") takes you to the newest corpse
+of the [player](:Category:_Characters.md "wikilink"). It has the regular
 constraints which you cannot bypass like a
-[cursed](Cursed_Rooms "wikilink"), [private](Private_Rooms "wikilink")
-or [solitary](Solitary_Rooms "wikilink")
-[room](:Category:_Rooms "wikilink"). Once there, you can
-[summon](Summon "wikilink") / [gurney](Gurney "wikilink") / whatever the
-poor victim to their equipment.*
+[cursed](Cursed_Rooms.md "wikilink"),
+[private](Private_Rooms.md "wikilink") or
+[solitary](Solitary_Rooms.md "wikilink")
+[room](:Category:_Rooms.md "wikilink"). Once there, you can
+[summon](Summon.md "wikilink") / [gurney](Gurney.md "wikilink") /
+whatever the poor victim to their equipment.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'mercy'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'mercy'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is quite useful, especially
-for swiftly returning to one's own corpse after
-[dying](Death "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is quite useful,
+especially for swiftly returning to one's own corpse after
+[dying](Death.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer

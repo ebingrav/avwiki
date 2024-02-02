@@ -1,21 +1,22 @@
-*This [spell](:Category:_Spells "wikilink") reduces the
-[character](:Category:_Characters "wikilink")'s [to-hit
-roll](Hit_Roll "wikilink") and [save versus
-spell](Saving_Throw "wikilink"). It also renders the character unclean
-in the eyes of the [gods](:Category:_Gods_And_Goddesses "wikilink") and
-unable to [RECALL](Recall "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") reduces the
+[character](:Category:_Characters.md "wikilink")'s [to-hit
+roll](Hit_Roll.md "wikilink") and [save versus
+spell](Saving_Throw.md "wikilink"). It also renders the character
+unclean in the eyes of the
+[gods](:Category:_Gods_And_Goddesses.md "wikilink") and unable to
+[RECALL](Recall.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'curse'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'curse'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is practically
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is practically
 never used.
 
 See also [Gear That Applies
-Curse](:Category:_Gear_That_Applies_Curse "wikilink") and [Curse
-Gear](:Category:_Curse_Gear "wikilink").
+Curse](:Category:_Gear_That_Applies_Curse.md "wikilink") and [Curse
+Gear](:Category:_Curse_Gear.md "wikilink").
 
 ## Comments
 

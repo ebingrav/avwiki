@@ -1,8 +1,8 @@
 *The Diplomatic Corps was founded on the grounds of the Midgaardia
-[Olympics](:Category:Olympic_Grounds "wikilink") a full ten years after
-the last great racial war. Representatives from all Midgaardian races
-came together in Aelmon's sanctuary to hash out a plan to unite all
-nations and foster peace, friendship, and trade.*
+[Olympics](:Category:Olympic_Grounds.md "wikilink") a full ten years
+after the last great racial war. Representatives from all Midgaardian
+races came together in Aelmon's sanctuary to hash out a plan to unite
+all nations and foster peace, friendship, and trade.*
 
 *Building on the Corps hall was begun one year after the first meeting
 of representatives. All races put forth funds to build a grand gesture
@@ -20,14 +20,15 @@ guards.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 7w, \[s\], d, 2n, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 7w, \[s\], d, 2n,
+w.
 
-[Portaling](Portal "wikilink") point(s) suggested: None. 2w from
-[Gnomish Tinker](Gnomish_Tinker "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: None. 2w from
+[Gnomish Tinker](Gnomish_Tinker.md "wikilink").
 
 ## Connections
 
--   [Olympic Grounds](:Category:Olympic_Grounds "wikilink")
+-   [Olympic Grounds](:Category:Olympic_Grounds.md "wikilink")
 
 ## Navigation
 
@@ -89,31 +90,40 @@ the player so these can be turned in for quest potions (such as
 invincibility, steel, divinity, heal ii, etc). After Hero 9, these can
 still be turned in, but the mobs will no longer emote.
 
-See the following:
-
-| Quest Giver                                             | Race(s)                               | Item Wanted                                                                     |
-|---------------------------------------------------------|---------------------------------------|---------------------------------------------------------------------------------|
-| [Aeldiskaa](Aeldiskaa "wikilink")                       | Elves, Drow, and Half-Elves           | [Aeldiskaa's fae starlight locket](Aeldiskaa's_Fae_Starlight_Locket "wikilink") |
-| [Asterion](Asterion "wikilink")                         | Minotaurs                             | [Asterion's Cow Bell](Asterion's_Cow_Bell "wikilink")                           |
-| [Azrahrn](Azrahrn "wikilink")                           | Demonseeds                            | [Azrahrn's pitchfork](Azrahrn's_pitchfork "wikilink")                           |
-| [Bob](Bob "wikilink")                                   | Humans                                |                                                                                 |
-| [Esseirt'u](Esseirt'u "wikilink")                       | Sprites and High Elves                | Esseirt'u's wizard hat                                                          |
-| [FangJaw](FangJaw "wikilink")                           | Ogres                                 | [Fangjaw's Mother's Jaw](Fangjaw's_Mother's_Jaw "wikilink")                     |
-| [Genizah](Genizah "wikilink")                           | Golems                                |                                                                                 |
-| [Hiisit](Hiisit "wikilink")                             | Trolls                                | [Drawbridge Trap](Drawbridge_Trap "wikilink")                                   |
-| [Homa](Homa "wikilink")                                 | Griffins                              |                                                                                 |
-| [Jherrdja](Jherrdja "wikilink")                         | Centaurs, Kzinti and Harpies          | Jherrdja's Gloves                                                               |
-| [Kauksis](Kauksis "wikilink")                           | Draconians, Lizardmen and Troglodytes | Kauksis' humanskin rug                                                          |
-| [Khazdul](Khazdul "wikilink")                           | Orcs and Half-Orcs                    | Khazdul's ceremonial dagger                                                     |
-| [Ljolsafar](Ljolsafar "wikilink")                       | Dwarfs and Duergar                    | Ljolsafar's personal pick-ax                                                    |
-| [Lorkimornysy](Lorkimornysy "wikilink")                 | Hobgoblins and Tuataurs               | lorkimornysy's horn of mischief                                                 |
-| [Midgaard Beastmaster](Midgaard_Beastmaster "wikilink") | Ents and Gargoyles                    | The Beastmaster's Whip                                                          |
-| [NHUG!](Nhug "wikilink")                                | Giants                                | Nhug's Drool Catcher                                                            |
-| [Nranthos](Nranthos "wikilink")                         | Gnomes and Deep Gnomes                |                                                                                 |
-| [Quaghmos](Quaghmos "wikilink")                         | Dragons                               |                                                                                 |
-| [Ralbo Breadhand](Ralbo_Breadhand "wikilink")           | Halflings                             | ralbo Breadhand's court cookbook                                                |
-| [Skratti](Skratti "wikilink")                           | Goblins and Kobolds                   | Skratti's Boots of Fast Walking                                                 |
-| [Zzrk'alii](Zzrk'alii "wikilink")                       | Gith                                  | gem set diadem of immense power                                                 |
+See the following: {.md\| border="1" cellpadding="1" cellspacing="1"
+width="600px" \|- ! style="background:#ffdead;" \| Quest Giver !
+style="background:#ffdead;" \| Race(s) ! style="background:#ffdead;" \|
+Item Wanted \|- \| [Aeldiskaa](Aeldiskaa "wikilink") \| Elves, Drow, and
+Half-Elves \| [Aeldiskaa's fae starlight
+locket](Aeldiskaa's_Fae_Starlight_Locket.md "wikilink") \|- \|
+[Asterion](Asterion "wikilink") .md\| Minotaurs \| [Asterion's Cow
+Bell](Asterion's_Cow_Bell "wikilink") \|- \|
+[Azrahrn](Azrahrn "wikilink") .md\| Demonseeds \| [Azrahrn's
+pitchfork](Azrahrn's_pitchfork "wikilink") \|- \| [Bob](Bob "wikilink")
+.md\| Humans \| \|- \| [Esseirt'u](Esseirt'u "wikilink") \| Sprites and
+High Elves \| Esseirt'u's wizard hat \|- \|
+[FangJaw](FangJaw "wikilink") .md\| Ogres \| [Fangjaw's Mother's
+Jaw](Fangjaw's_Mother's_Jaw "wikilink") \|- \|
+[Genizah](Genizah "wikilink") .md\| Golems \| \|- \|
+[Hiisit](Hiisit "wikilink") \| Trolls \| [Drawbridge
+Trap](Drawbridge_Trap "wikilink") .md\|- \| [Homa](Homa "wikilink") \|
+Griffins \| \|- \| [Jherrdja](Jherrdja "wikilink") .md\| Centaurs,
+Kzinti and Harpies \| Jherrdja's Gloves \|- \|
+[Kauksis](Kauksis "wikilink") \| Draconians, Lizardmen and Troglodytes
+\| Kauksis' humanskin rug \|- \| [Khazdul](Khazdul "wikilink") .md\|
+Orcs and Half-Orcs \| Khazdul's ceremonial dagger \|- \|
+[Ljolsafar](Ljolsafar "wikilink") \| Dwarfs and Duergar \| Ljolsafar's
+personal pick-ax \|- \| [Lorkimornysy](Lorkimornysy "wikilink") .md\|
+Hobgoblins and Tuataurs \| lorkimornysy's horn of mischief \|- \|
+[Midgaard Beastmaster](Midgaard_Beastmaster "wikilink") \| Ents and
+Gargoyles \| The Beastmaster's Whip \|- \| [NHUG!](Nhug.md "wikilink")
+\| Giants \| Nhug's Drool Catcher \|- \| [Nranthos](Nranthos "wikilink")
+.md\| Gnomes and Deep Gnomes \| \|- \| [Quaghmos](Quaghmos "wikilink")
+\| Dragons \| \|- \| [Ralbo Breadhand](Ralbo_Breadhand "wikilink") .md\|
+Halflings \| ralbo Breadhand's court cookbook \|- \|
+[Skratti](Skratti "wikilink") \| Goblins and Kobolds \| Skratti's Boots
+of Fast Walking \|- \| [Zzrk'alii](Zzrk'alii "wikilink") .md\| Gith \|
+gem set diadem of immense power \|}
 
 For spoilers, check out: dcquests.info
 

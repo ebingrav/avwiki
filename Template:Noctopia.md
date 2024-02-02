@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Obsidian_Arena;_Floor"
+<td><p><a href=":Category:Obsidian_Arena;_Floor.md"
 title="wikilink">Obsidian Arena; Floor</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Obsidian_Arena;_Floor"
+<td><p>(<a href=":Category:Gear_In_Obsidian_Arena;_Floor.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>
@@ -22,9 +22,9 @@ title="wikilink">Gear</a>)</p></td>
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Shiftwatch_Orb" title="wikilink">Shiftwatch
+<td><p><a href=":Category:Shiftwatch_Orb.md" title="wikilink">Shiftwatch
 Orb</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Shiftwatch_Orb"
+<td><p>(<a href=":Category:Gear_In_Shiftwatch_Orb.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

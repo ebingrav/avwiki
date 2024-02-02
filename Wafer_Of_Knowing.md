@@ -1,27 +1,27 @@
-*An [elven](Elves "wikilink") wafer is here, sparkling in the light.*
+*An [elven](Elves.md "wikilink") wafer is here, sparkling in the light.*
 
-`Level 9-10 spells of: '`[`detect`` ``hidden`](Detect_Hidden "wikilink")`' '`[`detect`` ``invis`](Detect_Invis "wikilink")`'.`
+`Level 9-10 spells of: '`[`detect`` ``hidden`](Detect_Hidden.md "wikilink")`' '`[`detect`` ``invis`](Detect_Invis.md "wikilink")`'.`
 
 **Keyword(s):** wafer, of, knowing.  
-**[Level(s)](Object_Level "wikilink"):** 5.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 5.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Wafer of Knowing
-Quest](Wafer_Of_Knowing_Quest "wikilink").  
-See [Wafer of Knowing Quest](Wafer_Of_Knowing_Quest "wikilink") for more
-information.
+**[Area](:Category:_Areas.md "wikilink"):** [Kingdom of the
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Wafer of Knowing
+Quest](Wafer_Of_Knowing_Quest.md "wikilink").  
+See [Wafer of Knowing Quest](Wafer_Of_Knowing_Quest.md "wikilink") for
+more information.
 
 [Category: Gear In Kingdom Of The
 Willows](Category:_Gear_In_Kingdom_Of_The_Willows "wikilink") [Category:

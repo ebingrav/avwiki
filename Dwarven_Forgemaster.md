@@ -4,15 +4,15 @@ forge.*
 **Keywords:** dwarf, ??.  
 **Scan Description:**A dwarven forgemaster works to create new weapons
 and armor.  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** ??, ??.  
 
 ## Gear
 
 `A dwarven forgemaster is using:`  
-<worn on body>`      `[`iron`` ``platemail`](Iron_Platemail "wikilink")
+<worn on body>`      `[`iron`` ``platemail`](Iron_Platemail.md "wikilink")
 
 `A dwarven forgemaster is carrying:`  
 `     Nothing.`
@@ -21,11 +21,11 @@ and armor.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Great
-Divide](:Category:_Great_Divide "wikilink")
-([Map](Great_Divide_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Smithy
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The Great
+Divide](:Category:_Great_Divide.md "wikilink")
+([Map](Great_Divide_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Smithy
+([cursed](Cursed_Rooms.md "wikilink"))  
 Walking Route from [Wartha](Wartha "wikilink") *(Aggie)*: 3wne4n2wnwn2ws
 
 [Category: Mobs In Great

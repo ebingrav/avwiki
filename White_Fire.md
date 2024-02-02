@@ -1,10 +1,10 @@
 *Swirling vortexes of Holy Fire are unleashed by this
-[spell](:Category:_Spells "wikilink"). They are utterly harmless, except
-to any [Demons](Demons "wikilink") present.*
+[spell](:Category:_Spells.md "wikilink"). They are utterly harmless,
+except to any [Demons](Demons.md "wikilink") present.*
 
-Prerequisite(s): [Turn Demon](Turn_Demon "wikilink").
+Prerequisite(s): [Turn Demon](Turn_Demon.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'white fire'.
+Syntax: [cast](Cast.md "wikilink") 'white fire'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Area

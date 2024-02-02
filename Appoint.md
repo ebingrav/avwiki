@@ -1,13 +1,13 @@
-*With this [command](:Category:_Commands "wikilink") a group leader can
-pass his group to someone else. Everyone in the group will automatically
-stop [following](Follow "wikilink") you, and will instead
-[follow](Follow "wikilink") the new appointed leader. The new leader has
-to be in the group, and has to be [able to
-lead](Leading_Ability "wikilink") that many people.*
+*With this [command](:Category:_Commands.md "wikilink") a group leader
+can pass his group to someone else. Everyone in the group will
+automatically stop [following](Follow.md "wikilink") you, and will
+instead [follow](Follow.md "wikilink") the new appointed leader. The new
+leader has to be in the group, and has to be [able to
+lead](Leading_Ability.md "wikilink") that many people.*
 
 Prerequisite(s): none.
 
-Syntax: appoint \<[character](:Category:_Characters "wikilink")\>.
+Syntax: appoint \<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

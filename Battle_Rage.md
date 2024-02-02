@@ -4,24 +4,24 @@
 `Modifies armor class by -35 continuous.`
 
 **Keyword(s):** battle rage  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 38  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Knight
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 38  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Knight
 (Midgaard)](Knight_(Midgaard) "wikilink")  
 
 ## Directions
 
 Located in the warrior's guild. Go s w from [Entrance
-Guard](Entrance_Guard "wikilink") ([portable](Teleport "wikilink")) in
-Midgaard.  
+Guard](Entrance_Guard "wikilink") ([portable](Teleport.md "wikilink"))
+in Midgaard.  
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Guild Gear](Category:_Guild_Gear "wikilink") [Category:

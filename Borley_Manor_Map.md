@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="borley.manor.jpg" title="borley.manor.jpg" width="800"
-alt="borley.manor.jpg" />
-<figcaption aria-hidden="true">borley.manor.jpg</figcaption>
+<img src="borley.manor.jpg.md" title="borley.manor.jpg.md" width="800"
+alt="borley.manor.jpg.md" />
+<figcaption aria-hidden="true">borley.manor.jpg.md</figcaption>
 </figure>
 
 [North Of Ofcol Map](North_Of_Ofcol_Map "wikilink")

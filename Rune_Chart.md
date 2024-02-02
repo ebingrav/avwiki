@@ -18,22 +18,24 @@ result of 'runeword will have no affect' then you will need to delve
 again because each runeword does nothing in two sets. (example; if delve
 tells you 'yal' does nothing, your weapon might be in set 1 or 7)
 
-|                 |     |     |     |     |     |     |     |     |     |     |                                           |
-|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------------------------------------------|
-| Set:            | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | Effect                                    |
-| Weakness        | zor | era | boh | vi  | chy | to  | ka  | rin | yal | nol | -5 [dr](Damage_Roll "wikilink")           |
-| Sickliness      | era | to  | ka  | zor | boh | nol | rin | yal | vi  | chy | -2 [con](Constitution "wikilink")         |
-| Confusion       | vi  | zor | chy | yal | nol | era | boh | ka  | rin | to  | -2 [wis](Wisdom "wikilink")               |
-| Vanquishing     | rin | yal | to  | ka  | era | vi  | nol | chy | boh | zor | +min/avg/max                              |
-| Striking        | ka  | rin | era | boh | zor | yal | to  | nol | chy | vi  | +min/avg                                  |
-| Battle          | boh | ka  | zor | chy | vi  | rin | era | to  | nol | yal | -3 [ac](Armor_Class "wikilink"), +min/avg |
-| Defense         | chy | boh | vi  | nol | yal | ka  | zor | era | to  | rin | -5 [ac](Armor_Class "wikilink")           |
-| Invulnerability | nol | chy | yal | to  | rin | boh | vi  | zor | era | ka  | -10 [ac](Armor_Class "wikilink")          |
-| None            | to  | vi  | nol | rin | ka  | chy | yal | boh | zor | era |                                           |
-| None            | yal | nol | rin | era | to  | zor | chy | vi  | ka  | boh |                                           |
-|                 |     |     |     |     |     |     |     |     |     |     |                                           |
-
-<big>**Rune Chart**</big>
+{.md\| border="2" cellpadding="4" cellspacing="0" align="center"
+style="text-align:center" \|+ <big>**Rune Chart**</big> \|- \|Set: \|1
+\|2 \|3 \|4 \|5 \|6 \|7 \|8 \|9 \|10 \|Effect \|- \|Weakness \|zor \|era
+\|boh \|vi \|chy \|to \|ka \|rin \|yal \|nol \| -5
+[dr](Damage_Roll "wikilink") \|- \|Sickliness \|era \|to \|ka \|zor
+\|boh \|nol \|rin \|yal \|vi \|chy \| -2
+[con](Constitution.md "wikilink") \|- \|Confusion \|vi \|zor \|chy \|yal
+\|nol \|era \|boh \|ka \|rin \|to \| -2 [wis](Wisdom.md "wikilink") \|-
+\|Vanquishing \|rin \|yal \|to \|ka \|era \|vi \|nol \|chy \|boh \|zor
+\| +min/avg/max \|- \|Striking \|ka \|rin \|era \|boh \|zor \|yal \|to
+\|nol \|chy \|vi \| +min/avg \|- \|Battle \|boh \|ka \|zor \|chy \|vi
+\|rin \|era \|to \|nol \|yal \| -3 [ac](Armor_Class.md "wikilink"),
++min/avg \|- \|Defense \|chy \|boh \|vi \|nol \|yal \|ka \|zor \|era
+\|to \|rin \| -5 [ac](Armor_Class.md "wikilink") \|- \|Invulnerability
+\|nol \|chy \|yal \|to \|rin \|boh \|vi \|zor \|era \|ka \| -10
+[ac](Armor_Class.md "wikilink") \|- \|None \|to \|vi \|nol \|rin \|ka
+\|chy \|yal \|boh \|zor \|era \|  \|- \|None \|yal \|nol \|rin \|era
+\|to \|zor \|chy \|vi \|ka \|boh \|  \|- \|}
 
 -   Rune of Striking is superior in raising minimum and average damage
     of a weapon to the Rune of Battle, by approximately 5-7 points to

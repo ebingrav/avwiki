@@ -2,10 +2,10 @@
 He makes cotton candy in a big tub, where all the kids can watch him.*
 
 **Keywords:** vendor.  
-**[Level](Level "wikilink"):** 6.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 6.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -14,18 +14,19 @@ He makes cotton candy in a big tub, where all the kids can watch him.*
 `Nothing.`
 
 `The cotton candy vendor is carrying:                                                 [Lv Price]`  
-`     `[`cotton`` ``candy`](Cotton_Candy "wikilink")`                                                                    [ 0    22]`
+`     `[`cotton`` ``candy`](Cotton_Candy.md "wikilink")`                                                                    [ 0    22]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Circus](:Category:_Circus "wikilink") ([Map](Circus_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Cotton Candy Vendor
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Circus](:Category:_Circus.md "wikilink")
+([Map](Circus_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Cotton Candy Vendor
 (portable).  
-Walking route from [Nom](Nom "wikilink"): n, 8w, 2n, w, 3s, w.  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, w, 3s, w.  
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, 2n, w, 3s, w.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, w, 3s, w.  
 The cotton candy vendor is portable.  
 
 [Category: Grandfathered Mobs](Category:_Grandfathered_Mobs "wikilink")

@@ -1,12 +1,12 @@
 *A divinely inspired restorative spell, this incantation rejuvenates a
-target's [movement points](Move_Points "wikilink").*
+target's [movement points](Move_Points.md "wikilink").*
 
-Syntax: [cast](Cast "wikilink") 'rejuvenate'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'rejuvenate'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-Prerequisite(s): [Invigorate](Invigorate "wikilink").
+Prerequisite(s): [Invigorate](Invigorate.md "wikilink").
 
-See also [Rejuvenate Gear](:Category:Rejuvenate_Gear "wikilink")
+See also [Rejuvenate Gear](:Category:Rejuvenate_Gear.md "wikilink")
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Druid Hero

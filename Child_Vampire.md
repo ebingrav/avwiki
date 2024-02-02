@@ -2,12 +2,12 @@
 of its pet. You mourn its lost innocence as you prepare to kill it.*
 
 **Keywords:** child vampire.  
-**[Level](Level "wikilink"):** 44.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [fly](Fly "wikilink").  
+**[Level](Level.md "wikilink"):** 44.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [fly](Fly.md "wikilink").  
 
 ## Gear
 
@@ -15,7 +15,7 @@ of its pet. You mourn its lost innocence as you prepare to kill it.*
 `Nothing.`
 
 `A Child Vampire is carrying:`  
-`     `[`fangs`](Fangs "wikilink")
+`     `[`fangs`](Fangs.md "wikilink")
 
 ## Comments
 
@@ -24,10 +24,10 @@ For some odd reason, the item the vampire has cannot be seen using
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Caverns of
-Despair](:Category:_Caverns_Of_Despair "wikilink")
-([Map](Caverns_Of_Despair_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Caverns of Sweet Despair
+**[Area](:Category:_Areas.md "wikilink"):** [Caverns of
+Despair](:Category:_Caverns_Of_Despair.md "wikilink")
+([Map](Caverns_Of_Despair_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Caverns of Sweet Despair
 (portable)
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n,

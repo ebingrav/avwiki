@@ -1,4 +1,4 @@
-The directions to [ Odevar Hills](:Category:Odevar_Hills "wikilink")
+The directions to [ Odevar Hills](:Category:Odevar_Hills.md "wikilink")
 found by following the link will take you to the location named "At the
 bottom of a landslide." Foot directions will begin from that point.
 
@@ -8,7 +8,7 @@ point were you must be able to fly to proceed. If you cannot fly using
 your own abilities, acquire the [Griffon Wings
 Bracer](Griffon_Wings_Bracer "wikilink") before attempting that part of
 the quest. You also must be able to [ Detect
-Invisibility](Detect_Invis "wikilink") in order to find the T'dvar
+Invisibility](Detect_Invis.md "wikilink") in order to find the T'dvar
 Assassin.
 
 -   Get **Black Wasp Sting** by killing the Pitch Black Wasp and looting
@@ -22,9 +22,9 @@ point following these directions: u w s 2w d s w s d w 3s w 3s w 2s e 2s
 w 2s 2e.
 
 -   Take the **Black Wasp Sting** (a ticket item) to the Lhadvar Mother
-    in the [ River Folk area](:Category:River_Folk "wikilink"). Give her
-    the Black Wasp Sting and she will give you a **Small Clay Flask**
-    (another ticket item).
+    in the [ River Folk area](:Category:River_Folk.md "wikilink"). Give
+    her the Black Wasp Sting and she will give you a **Small Clay
+    Flask** (another ticket item).
 
   
   
@@ -32,10 +32,10 @@ Either portal to Lhadvar Mother or proceed by foot from the corpse of
 the Pitch Black Wasp using these directions: 2e 2n w 2n e n u 6e s 2w
 
 -   Take the **Small Clay Flask** to the Wounded Hunter back in [ Odevar
-    Hills](:category:Odevar_Hills "wikilink") and give it to her. In
+    Hills](:category:Odevar_Hills.md "wikilink") and give it to her. In
     return, she will give you another ticket item, the **Elaborate Grass
     Weaving**, and task you to give it to [
-    Osreva](Osreva,_King_Of_The_Odevar "wikilink").
+    Osreva](Osreva,_King_Of_The_Odevar.md "wikilink").
 
   
   
@@ -50,7 +50,7 @@ Mother using these directions: 2e n 6w d s w 2s
 
   
   
-Either portal to [ Osreva](Osreva,_King_Of_The_Odevar "wikilink") or
+Either portal to [ Osreva](Osreva,_King_Of_The_Odevar.md "wikilink") or
 proceed by foot from the Wounded Hunter by using these directions: 3n u
 n w u n
 
@@ -62,14 +62,16 @@ n w u n
   
   
 Either portal to [Khoridvar Clan Chief](Khoridvar_Clan_Chief "wikilink")
-or proceed by foot from [ Osreva](Osreva,_King_Of_The_Odevar "wikilink")
-by using these directions: s d e s d 3s e s 2w 3n
+or proceed by foot from [
+Osreva](Osreva,_King_Of_The_Odevar.md "wikilink") by using these
+directions: s d e s d 3s e s 2w 3n
 
 -   Take the **Small Cone Of Black Stone** to the [ Khoridvar Clan
-    Chief's](Khoridvar_Clan_Chief "wikilink") sister, the Proud Huntess
-    and give her the item. She will in turn give you a new **Small Cone
-    Of Black Stone** and instruct you in its use. This new item is a
-    key, so be sure to finish the next step before exiting AVATAR.
+    Chief's](Khoridvar_Clan_Chief.md "wikilink") sister, the Proud
+    Huntess and give her the item. She will in turn give you a new
+    **Small Cone Of Black Stone** and instruct you in its use. This new
+    item is a key, so be sure to finish the next step before exiting
+    AVATAR.
 
   
   
@@ -87,7 +89,7 @@ Note: give the item to the Proud Huntress, **not** the Wounded Huntress
     Huntress. This will take you to a new area, **Within A Small Cave**.
     There is an invisible Mob, a T'dvar Assassin, which can [Detect
     Hidden](Detect_Hidden "wikilink") but cannot [ Detect
-    Invisibility](Detect_Invis "wikilink"). Once he is dealt with or
+    Invisibility](Detect_Invis.md "wikilink"). Once he is dealt with or
     avoided, perform the following commands.
 
   
@@ -158,17 +160,17 @@ Get the **Square Of Fish Skin** from the corpse
 
 <!-- -->
 
--   Return to [ Osreva](Osreva,_King_Of_The_Odevar "wikilink")
+-   Return to [ Osreva](Osreva,_King_Of_The_Odevar.md "wikilink")
 
   
   
-Either Portal to [ Osreva](Osreva,_King_Of_The_Odevar "wikilink") or
+Either Portal to [ Osreva](Osreva,_King_Of_The_Odevar.md "wikilink") or
 proceed by foot from the location of the **Gleaming Drop** as follows:
 2w u 2n 4w d w u n w u n
 
 -   Give **Black Stone Spiral** to [
-    Osreva](Osreva,_King_Of_The_Odevar "wikilink"). He will give you a
-    new **Black Stone Spiral**
+    Osreva](Osreva,_King_Of_The_Odevar.md "wikilink"). He will give you
+    a new **Black Stone Spiral**
 
   
   
@@ -181,11 +183,11 @@ proceed by foot from the location of the **Gleaming Drop** as follows:
 -   open sarchophagus
 -   get foundation sarcophagus
 -   e
--   give foundation [ Osreva](Osreva,_King_Of_The_Odevar "wikilink")
+-   give foundation [ Osreva](Osreva,_King_Of_The_Odevar.md "wikilink")
 
-At Last! [ Osreva](Osreva,_King_Of_The_Odevar "wikilink") gives you the
-[Chainmail Morning Breeze](Chainmail_Morning_Breeze "wikilink")! Quest
-Complete.
+At Last! [ Osreva](Osreva,_King_Of_The_Odevar.md "wikilink") gives you
+the [Chainmail Morning Breeze](Chainmail_Morning_Breeze "wikilink")!
+Quest Complete.
 
 [Category: Quests In Odevar
 Hills](Category:_Quests_In_Odevar_Hills "wikilink") [Category: Quests In

@@ -13,17 +13,17 @@ everyone. So what are you waiting for?*
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): n, 8w, 3n.
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, 3n.
 
-Walking route from [Sol](Sol "wikilink"): 3e, 3n.
+Walking route from [Sol](Sol.md "wikilink"): 3e, 3n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Carnival
+[Portaling](Portal.md "wikilink") point(s) suggested: [Carnival
 Barker](Carnival_Barker "wikilink").
 
 ## Connections
 
 This area is connected to [Highways/Great
-Wall](:Category:_Highways/Great_Wall "wikilink").
+Wall](:Category:_Highways/Great_Wall.md "wikilink").
 
 ## Navigation
 

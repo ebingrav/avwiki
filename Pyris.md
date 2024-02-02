@@ -1,17 +1,20 @@
-*Slain by [sprite](Sprites "wikilink")
-[wizards](:Category:_Wizards "wikilink") centuries ago, the spirit of
-Pyris still haunts [Westwood](:Category:_Westwood "wikilink"). It
-prefers to take the form of an ancient red [dragon](Dragons "wikilink"),
-but is never completely solid. As in life, it has a taste for unicorn,
-and will still slaughter any it encounters.*
+*Slain by [sprite](Sprites.md "wikilink")
+[wizards](:Category:_Wizards.md "wikilink") centuries ago, the spirit of
+Pyris still haunts [Westwood](:Category:_Westwood.md "wikilink"). It
+prefers to take the form of an ancient red
+[dragon](Dragons.md "wikilink"), but is never completely solid. As in
+life, it has a taste for unicorn, and will still slaughter any it
+encounters.*
 
 **Keywords:** Pyris, draconic, phantasm.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink"), [wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [fly](Fly "wikilink"),
-[infravision](Infravision "wikilink"), [invis](Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [fly](Fly.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[invis](Invis.md "wikilink").  
 
 ## Gear
 
@@ -19,20 +22,20 @@ and will still slaughter any it encounters.*
 `Nothing.`
 
 `Pyris is carrying:`  
-`     `[`ethereal`` ``scales`](Ethereal_Scales "wikilink")
+`     `[`ethereal`` ``scales`](Ethereal_Scales.md "wikilink")
 
 ## Comments
 
-Pyris is involved in [Westwood](:Category:_Westwood "wikilink")'s
-[Glowing Unicorn Horn Quest](Glowing_Unicorn_Horn_Quest "wikilink").
+Pyris is involved in [Westwood](:Category:_Westwood.md "wikilink")'s
+[Glowing Unicorn Horn Quest](Glowing_Unicorn_Horn_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Westwood](:Category:_Westwood "wikilink")
-([Map](Westwood_Map "wikilink")).  
-Pryis [drifts](Drifting_Mobs "wikilink") about Central Westwood, more or
-less.
+**[Area](:Category:_Areas.md "wikilink"):**
+[Westwood](:Category:_Westwood.md "wikilink")
+([Map](Westwood_Map.md "wikilink")).  
+Pryis [drifts](Drifting_Mobs.md "wikilink") about Central Westwood, more
+or less.
 
 Pyris is portable.
 

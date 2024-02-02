@@ -1,5 +1,5 @@
-Syntax: sell \<[object](:Category:_Objects "wikilink")\>.
+Syntax: sell \<[object](:Category:_Objects.md "wikilink")\>.
 
-See also [Shopkeepers](:Category:_Shopkeepers "wikilink").
+See also [Shopkeepers](:Category:_Shopkeepers.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

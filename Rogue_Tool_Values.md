@@ -60,37 +60,37 @@
 </tbody>
 </table>
 
-[Rogue-tool](:Category:_Rogue_Tools "wikilink")-[type](:Category:_Object_Types "wikilink")
-[objects](:Category:_Objects "wikilink") have three
-[values](:Category:_Object_Values "wikilink").
+[Rogue-tool](:Category:_Rogue_Tools.md "wikilink")-[type](:Category:_Object_Types.md "wikilink")
+[objects](:Category:_Objects.md "wikilink") have three
+[values](:Category:_Object_Values.md "wikilink").
 
--   **[Usage Type](:Category:_Rogue_Tools "wikilink"):** This value
+-   **[Usage Type](:Category:_Rogue_Tools.md "wikilink"):** This value
     determines which function(s) this [rogue
-    tool](:Category:_Rogue_Tools "wikilink") may perform, which may be
-    to [blackjack mobs](:Category:_Blackjacks "wikilink"), to [disarm
-    traps](:Category:_Trap-Disarming_Kits "wikilink"), to [pick
-    chests](:Category:_Chest_Picks "wikilink"), to [pick
-    doors](:Category:_Door_Picks "wikilink"), and/or to [poison
-    weapons](:Category:_Poisoning_Kits "wikilink"). Most [rogue
-    tools](:Category:_Rogue_Tools "wikilink") have only one function.
+    tool](:Category:_Rogue_Tools.md "wikilink") may perform, which may
+    be to [blackjack mobs](:Category:_Blackjacks.md "wikilink"), to
+    [disarm traps](:Category:_Trap-Disarming_Kits.md "wikilink"), to
+    [pick chests](:Category:_Chest_Picks.md "wikilink"), to [pick
+    doors](:Category:_Door_Picks.md "wikilink"), and/or to [poison
+    weapons](:Category:_Poisoning_Kits.md "wikilink"). Most [rogue
+    tools](:Category:_Rogue_Tools.md "wikilink") have only one function.
     Follow these links for more information about each [rogue-tool
-    type](:Category:_Rogue_Tools "wikilink").
+    type](:Category:_Rogue_Tools.md "wikilink").
 
 <!-- -->
 
 -   **Uses Number:** This value determines how many times this [rogue
-    tool](:Category:_Rogue_Tools "wikilink") may yet be used before
+    tool](:Category:_Rogue_Tools.md "wikilink") may yet be used before
     being consumed.
 
 <!-- -->
 
 -   **Quality:** This value (which is different from [Object
-    Quality](Object_Quality "wikilink")) determines how good this [rogue
-    tool](:Category:_Rogue_Tools "wikilink") is as a percentage. When
-    [examined](Examine "wikilink"), a [rogue
-    tool](:Category:_Rogue_Tools "wikilink")'s quality value will be
+    Quality](Object_Quality.md "wikilink")) determines how good this
+    [rogue tool](:Category:_Rogue_Tools.md "wikilink") is as a
+    percentage. When [examined](Examine.md "wikilink"), a [rogue
+    tool](:Category:_Rogue_Tools.md "wikilink")'s quality value will be
     expressed as an adjective according to the table shown at right.
 
-See also [Rogue Tools](:Category:_Rogue_Tools "wikilink").
+See also [Rogue Tools](:Category:_Rogue_Tools.md "wikilink").
 
 [Category: Object Values](Category:_Object_Values "wikilink")

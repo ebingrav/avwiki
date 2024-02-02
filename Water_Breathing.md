@@ -1,20 +1,21 @@
 *You can cause yourself or another player to sprout gills and be able to
 breathe water. With these gills, you can survive drowning in any
-[water](Water_Terrain "wikilink") [room](:Category:_Rooms "wikilink").*
+[water](Water_Terrain.md "wikilink")
+[room](:Category:_Rooms.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'water breathing'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'water breathing'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is very useful for
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink") and is normally included in a
-"full
-[spellup](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")".
+This [spell](:Category:_Spells.md "wikilink") is very useful for
+[characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink") and is normally included in
+a "full
+[spellup](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")".
 
 See also [Water Breathing
-Gear](:Category:_Water_Breathing_Gear "wikilink").
+Gear](:Category:_Water_Breathing_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

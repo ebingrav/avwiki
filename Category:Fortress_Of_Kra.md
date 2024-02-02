@@ -14,16 +14,16 @@ This area was added in January 2011.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 9w, n, 2u,
-2w, u, 2n, 3w, 2n, w, 2n, 3w, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 9w, n,
+2u, 2w, u, 2n, 3w, 2n, w, 2n, 3w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Voli](Voli "wikilink").
 
 ## Connections
 
--   [Deepways](:Category:Deepways "wikilink")
--   [Mt. Durr](:Category:Mt_Durr "wikilink")
+-   [Deepways](:Category:Deepways.md "wikilink")
+-   [Mt. Durr](:Category:Mt_Durr.md "wikilink")
 
 ## Navigation
 

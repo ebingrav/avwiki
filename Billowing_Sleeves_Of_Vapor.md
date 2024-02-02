@@ -5,14 +5,14 @@ Modifies save vs magic by -75 continuous.
 
 Flags: glow magic  
 Weight: 1  
-Plane: [Airscape](:Category:Airscape "wikilink")  
-Area: [Airscape Proper](:Category:Airscape_Proper "wikilink")  
+Plane: [Airscape](:Category:Airscape.md "wikilink")  
+Area: [Airscape Proper](:Category:Airscape_Proper.md "wikilink")  
 Mob: [Orius The Windprince](Orius_The_Windprince "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Airscape
-Proper](:Category:Gear_In_Airscape_Proper "wikilink") for how to get
+Proper](:Category:Gear_In_Airscape_Proper.md "wikilink") for how to get
 this.
 
 [Category:Lord Save Vs Spell

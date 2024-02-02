@@ -1,30 +1,30 @@
 *This long staff is carved from a very old tree.*
 
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 5 continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -3 continuous`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 5 continuous`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -3 continuous`  
 `Damage is 11 to 32.`
 
 **Keyword(s):** shaman, staff.  
-**[Level(s)](Object_Level "wikilink"):** 30.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 30.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Korred
-Grove](:Category:_Korred_Grove "wikilink")
-([Map](Korred_Grove_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Korred
-shaman](Korred_Shaman "wikilink").  
-See [Korred shaman](Korred_Shaman "wikilink") for more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Korred
+Grove](:Category:_Korred_Grove.md "wikilink")
+([Map](Korred_Grove_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Korred
+shaman](Korred_Shaman.md "wikilink").  
+See [Korred shaman](Korred_Shaman.md "wikilink") for more information.  
 
 [Category: Gear In Korred
 Grove](Category:_Gear_In_Korred_Grove "wikilink") [Category:

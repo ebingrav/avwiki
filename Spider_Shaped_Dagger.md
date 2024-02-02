@@ -7,8 +7,8 @@ Max: 26
 Weight: 2  
 Flags: magic anti-good  
 Mob: [Yochlol](Yochlol "wikilink")  
-Area: [Drow City](:Category:_Drow_City "wikilink")
-([Map](Drow_City_Map "wikilink"))  
+Area: [Drow City](:Category:_Drow_City.md "wikilink")
+([Map](Drow_City_Map.md "wikilink"))  
 Mob is portable. See the area's article for directions on how to get
 there.
 

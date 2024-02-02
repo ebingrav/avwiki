@@ -6,9 +6,9 @@
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p>Dexterity</p></th>
-<th style="text-align: center;"><p><a href="Armor_Class"
+<th style="text-align: center;"><p><a href="Armor_Class.md"
 title="wikilink">AC</a> Bonus</p></th>
-<th style="text-align: center;"><p><a href="Carrying_Capacity"
+<th style="text-align: center;"><p><a href="Carrying_Capacity.md"
 title="wikilink">Item Capacity</a></p></th>
 </tr>
 </thead>
@@ -175,26 +175,26 @@ title="wikilink">Item Capacity</a></p></th>
 </table>
 
 *Dexterity is especially important for
-[rogues](:Category:_Rogues "wikilink"); nimble fingers help when
-[stealing](Steal "wikilink"). But for all
-[classes](:Category:_Classes "wikilink"), Dex improves the
-[character](:Category:_Characters "wikilink")'s [ability to hold many
-items](Carrying_Capacity "wikilink"), and improves the overall
-[AC](Armor_Class "wikilink"), or armor class.*
+[rogues](:Category:_Rogues.md "wikilink"); nimble fingers help when
+[stealing](Steal.md "wikilink"). But for all
+[classes](:Category:_Classes.md "wikilink"), Dex improves the
+[character](:Category:_Characters.md "wikilink")'s [ability to hold many
+items](Carrying_Capacity.md "wikilink"), and improves the overall
+[AC](Armor_Class.md "wikilink"), or armor class.*
 
 The table on the right side of this screen displays the effects of
-dexterity upon [AC](Armor_Class "wikilink") and [Item
-Capacity](Carrying_Capacity "wikilink"). The AC bonus is **cumulative**:
-if your Dexterity is 23, then you receive the -10 for having 23
-dexterity, plus the -10 for 22 dexterity, etc.
+dexterity upon [AC](Armor_Class.md "wikilink") and [Item
+Capacity](Carrying_Capacity.md "wikilink"). The AC bonus is
+**cumulative**: if your Dexterity is 23, then you receive the -10 for
+having 23 dexterity, plus the -10 for 22 dexterity, etc.
 
 Dexterity is also rumored to improve the chances of combat-related
-actions such as [dodging](Dodge "wikilink") and
-[blocking](Shield_Block "wikilink") with a
-[shield](:Category:_Shields "wikilink").
+actions such as [dodging](Dodge.md "wikilink") and
+[blocking](Shield_Block.md "wikilink") with a
+[shield](:Category:_Shields.md "wikilink").
 
-[Characters](:Category:_Characters "wikilink") may
-[wear](Wear "wikilink") [gear](:Category:_Dex_Gear "wikilink") to
+[Characters](:Category:_Characters.md "wikilink") may
+[wear](Wear.md "wikilink") [gear](:Category:_Dex_Gear.md "wikilink") to
 increase their dexterity scores.
 
 [Category: Characters](Category:_Characters "wikilink") [Category:

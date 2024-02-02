@@ -4,29 +4,29 @@ as required by the Septarch and never disagrees with her. So far she is
 doing much better at her job than her two predecessors.*
 
 **Keywords:** drow, secretary  
-**[Level](Level "wikilink"):** ??  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??  
+**[Level](Level.md "wikilink"):** ??  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??  
 **Affects:** ??  
 
 ## Gear
 
 `The Septarch's personal secretary is using:`  
-<worn on feet>`      `[`silk`` ``slippers`](Silk_Slippers "wikilink")
+<worn on feet>`      `[`silk`` ``slippers`](Silk_Slippers.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**From [Sol](Sol "wikilink"):** ??  
-**From [Aelmon](Aelmon "wikilink"):** ??  
-**[Area](:Category:_Areas "wikilink"):** [
-Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Septarch Kwa'Xulu's planning
-room  
+**From [Sol](Sol.md "wikilink"):** ??  
+**From [Aelmon](Aelmon.md "wikilink"):** ??  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Septarch Kwa'Xulu's
+planning room  
 Septarch's personal secretary is portable.  
 As there are many secretaries, portaling to [Septarch
-Animosity](Septarch_Animosity "wikilink") may be easier.
+Animosity](Septarch_Animosity.md "wikilink") may be easier.
 
 [Category: Mobs In Tiureess](Category:_Mobs_In_Tiureess "wikilink")

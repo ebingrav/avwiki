@@ -1,8 +1,8 @@
 This counter will count how many people are in a
 [Threnody](Threnody "wikilink") ritual when you join it, and will
-increment every time another [Lord](:Category:Lord "wikilink") joins in.
-Requires a window to display the values of the variables "thren_count"
-and "lblthren". (I use my Status window).
+increment every time another [Lord](:Category:Lord.md "wikilink") joins
+in. Requires a window to display the values of the variables
+"thren_count" and "lblthren". (I use my Status window).
 
 ## How to Use It
 

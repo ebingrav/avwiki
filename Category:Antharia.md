@@ -51,19 +51,19 @@ The gem is still functioning to this day.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d. (note:
-crosses [water terrain](Water_Terrain "wikilink"))
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d. (note:
+crosses [water terrain](Water_Terrain.md "wikilink"))
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Suretin](Suretin "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Suretin](Suretin.md "wikilink").
 
 ## Connections
 
 Antharia connects to the [Sea of Strayed
-Hopes](Sea_Of_Strayed_Hopes "wikilink") at its most southern point, due
-south of [Suretin](Suretin "wikilink"), and to the [Antharia
+Hopes](Sea_Of_Strayed_Hopes.md "wikilink") at its most southern point,
+due south of [Suretin](Suretin "wikilink"), and to the [Antharia
 Zoo](Antharia_Zoo "wikilink") in the northwest corner, requiring a
-ticket from the [Zookeeper](Antharian_Zookeeper "wikilink") to be
+ticket from the [Zookeeper](Antharian_Zookeeper.md "wikilink") to be
 purchased to enter.
 
 ## Nagivation
@@ -71,37 +71,39 @@ purchased to enter.
 ## Adventuring
 
 This is a level suited for a wide range of players, similar to
-[Igecsoz](:Category:_Igecsoz "wikilink"). pp antharia works just fine.
+[Igecsoz](:Category:_Igecsoz.md "wikilink"). pp antharia works just
+fine.
 
-The room of [Suretin](Suretin "wikilink") is safe, good for setting your
-recall.
+The room of [Suretin](Suretin.md "wikilink") is safe, good for setting
+your recall.
 
 Note that the [Antharian Children](Antharian_Child "wikilink") begin to
 assist against players once you reach level 35, and [Sucker
 Fish](Sucker_Fish "wikilink") once you reach level 36.
 
--   Antharian Child, [level](Level "wikilink") 39.
+-   Antharian Child, [level](Level.md "wikilink") 39.
 
 <!-- -->
 
--   Sucker Fish, [level](Level "wikilink") 40
+-   Sucker Fish, [level](Level.md "wikilink") 40
 
 <!-- -->
 
--   Human, Dwarven, Elven Representatives, [level](Level "wikilink") 40.
+-   Human, Dwarven, Elven Representatives, [level](Level.md "wikilink")
+    40.
 
 <!-- -->
 
 -   Gnome, Hobbit, Bureaucrat (Antharian Rep) Representatives,
-    [level](Level "wikilink") 42.
+    [level](Level.md "wikilink") 42.
 
 <!-- -->
 
--   Antharian citizen, [level](Level "wikilink") 45.
+-   Antharian citizen, [level](Level.md "wikilink") 45.
 
 <!-- -->
 
--   Antharian Knight [level](Level "wikilink") 70.
+-   Antharian Knight [level](Level.md "wikilink") 70.
 
 In times past, the five shopkeepers (Cyrtpea, Irghum, Ertuvia, Heaustf,
 and Zaertses) were all level 99 and so provided excellent experience at

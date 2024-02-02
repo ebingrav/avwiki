@@ -1,11 +1,11 @@
-From [Lhadvar Shaman](Lhadvar_Shaman "wikilink"):
+From [Lhadvar Shaman](Lhadvar_Shaman.md "wikilink"):
 
 -   Go 3n, 4e, s.
 
 <!-- -->
 
--   [Get](Get "wikilink") [a tiny gold fish
-    scale](Tiny_Gold_Fish_Scale "wikilink") from a pile of iridescent
+-   [Get](Get.md "wikilink") [a tiny gold fish
+    scale](Tiny_Gold_Fish_Scale.md "wikilink") from a pile of iridescent
     fish scales.
 
 <!-- -->
@@ -14,28 +14,28 @@ From [Lhadvar Shaman](Lhadvar_Shaman "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a tiny gold fish
-    scale](Tiny_Gold_Fish_Scale "wikilink") to [a Lhadvar
-    Shaman](Lhadvar_Shaman "wikilink") and receive [a seashell
-    key](Seashell_Key "wikilink").
+-   [Give](Give.md "wikilink") [a tiny gold fish
+    scale](Tiny_Gold_Fish_Scale.md "wikilink") to [a Lhadvar
+    Shaman](Lhadvar_Shaman.md "wikilink") and receive [a seashell
+    key](Seashell_Key.md "wikilink").
 
 <!-- -->
 
 -   Go 3n, 2e, n, 2w, 2s, d, e (note: crosses [water
-    terrain](Water_Terrain "wikilink")).
+    terrain](Water_Terrain.md "wikilink")).
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") an ancient wooden seachest using [a
-    seashell key](Seashell_Key "wikilink").
+-   [Unlock](Unlock.md "wikilink") an ancient wooden seachest using [a
+    seashell key](Seashell_Key.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") an ancient wooden seachest.
+-   [Open](Open.md "wikilink") an ancient wooden seachest.
 
 <!-- -->
 
--   [Get](Get "wikilink") all from an ancient wooden seachest.
+-   [Get](Get.md "wikilink") all from an ancient wooden seachest.
 
 Total value of the gems/gold in the chest is 6,500.
 

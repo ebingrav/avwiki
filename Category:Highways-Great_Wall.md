@@ -1,14 +1,14 @@
 *The Highways include the White Stone Road, which runs around
-[Solace](:Category:_Town_Of_Solace "wikilink") and north of the
-[Meadow](:Category:_Meadow "wikilink"); the Dwarven Trade Route, which
-runs from north of [Midgaard](:Category:_Midgaard "wikilink") around to
-[Mt Durr](:Category:_Mt_Durr "wikilink"); and the Highway that runs from
-[Cathracharraig](:Category:_Cathracharraig "wikilink") to
-[Midgaard](:Category:_Midgaard "wikilink") to
-[Mervue](:Category:_Mervue "wikilink"). The Great Wall is a mammoth
-construct east of [Midgaard](:Category:_Midgaard "wikilink"), which is
-meant to keep the various nasties of
-[Wildwood](:Category:_Wildwood "wikilink") out of the more civilized
+[Solace](:Category:_Town_Of_Solace.md "wikilink") and north of the
+[Meadow](:Category:_Meadow.md "wikilink"); the Dwarven Trade Route,
+which runs from north of [Midgaard](:Category:_Midgaard.md "wikilink")
+around to [Mt Durr](:Category:_Mt_Durr.md "wikilink"); and the Highway
+that runs from [Cathracharraig](:Category:_Cathracharraig.md "wikilink")
+to [Midgaard](:Category:_Midgaard.md "wikilink") to
+[Mervue](:Category:_Mervue.md "wikilink"). The Great Wall is a mammoth
+construct east of [Midgaard](:Category:_Midgaard.md "wikilink"), which
+is meant to keep the various nasties of
+[Wildwood](:Category:_Wildwood.md "wikilink") out of the more civilized
 parts of the Realm.*
 
 **Level Range:** 5-12
@@ -17,29 +17,29 @@ parts of the Realm.*
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): 1n, 8w.
+Walking route from [Nom](Nom.md "wikilink"): 1n, 8w.
 
-Walking route from [Sol](Sol "wikilink"): 3e.
+Walking route from [Sol](Sol.md "wikilink"): 3e.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 10n *or* 10e *or* 11s
+Walking route from [Aelmon](Aelmon.md "wikilink"): 10n *or* 10e *or* 11s
 *or* 11w.
 
 ## Connections
 
 This area is the main connection area for AVATAR and as such has links
-with a lot of lower level [areas](:Category:_Areas "wikilink"), as well
-as some higher ones too. These connections include: [the
-Meadow](:Category:_Meadow "wikilink"),
-[Stonehall](:Category:_Stonehall "wikilink"),
-[Solace](:Category:_Town_Of_Solace "wikilink"),
-[Midgaard](:Category:_Midgaard "wikilink"),
-[Mervue](:Category:_Mervue "wikilink"), [Mt.
-Durr](:Category:_Mt_Durr "wikilink"),
-[Cathracharraig](:Category:_Cathracharraig "wikilink") and [the
-Wildwood](:Category:_Wildwood "wikilink").
+with a lot of lower level [areas](:Category:_Areas.md "wikilink"), as
+well as some higher ones too. These connections include: [the
+Meadow](:Category:_Meadow.md "wikilink"),
+[Stonehall](:Category:_Stonehall.md "wikilink"),
+[Solace](:Category:_Town_Of_Solace.md "wikilink"),
+[Midgaard](:Category:_Midgaard.md "wikilink"),
+[Mervue](:Category:_Mervue.md "wikilink"), [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink"),
+[Cathracharraig](:Category:_Cathracharraig.md "wikilink") and [the
+Wildwood](:Category:_Wildwood.md "wikilink").
 
-Many, many other [areas](:Category:_Areas "wikilink") are connected to
-the Highway network.
+Many, many other [areas](:Category:_Areas.md "wikilink") are connected
+to the Highway network.
 
 ## Navigation
 
@@ -48,48 +48,50 @@ are a convenient way to divide up the area.
 
 -   **The White Stone Road** is probably the part of the Highway that
     any new character will come across as it connect to [the
-    Meadow](:Category:_Meadow "wikilink"),
-    [Stonehall](:Category:_Stonehall "wikilink") and
-    [Solace](:Category:_Town_Of_Solace "wikilink"). To the north it
+    Meadow](:Category:_Meadow.md "wikilink"),
+    [Stonehall](:Category:_Stonehall.md "wikilink") and
+    [Solace](:Category:_Town_Of_Solace.md "wikilink"). To the north it
     leads to the Crossroads which connects with the Dwarven Trade Route
     and the Mountain Path. To the south it turns into the Path Around
     Solace.
 -   **The Old East Road** and **Woodbridge Road** together run from
-    [Solace](:Category:_Town_Of_Solace "wikilink") in the west to
-    [Midgaard](:Category:_Midgaard "wikilink") in the east.
+    [Solace](:Category:_Town_Of_Solace.md "wikilink") in the west to
+    [Midgaard](:Category:_Midgaard.md "wikilink") in the east.
 -   **The Dwarven Trade Route** runs from [Mt.
-    Durr](:Category:_Mt_Durr "wikilink") and [Odevar
-    Hills](:Category:_Odevar_Hills "wikilink") east to the Farmer's Way.
+    Durr](:Category:_Mt_Durr.md "wikilink") and [Odevar
+    Hills](:Category:_Odevar_Hills.md "wikilink") east to the Farmer's
+    Way.
 -   **Farmer's Way** is a straight north-south road which connects
-    [Midaard](:Category:_Midgaard "wikilink") and
-    [Cathracharraig](:Category:_Cathracharraig "wikilink").
+    [Midaard](:Category:_Midgaard.md "wikilink") and
+    [Cathracharraig](:Category:_Cathracharraig.md "wikilink").
 -   **The Mountain Path** runs from the Crossroads north and then east
-    to [Cathracharraig](:Category:_Cathracharraig "wikilink"). This
+    to [Cathracharraig](:Category:_Cathracharraig.md "wikilink"). This
     section runs through [mountainous
-    territory](Mountain_Terrain "wikilink") and can be quite intensive
-    on the movement points. This means that the Dwarven Trade Route and
-    Farmer's Way is preferred route for simply getting from A to B.
+    territory](Mountain_Terrain.md "wikilink") and can be quite
+    intensive on the movement points. This means that the Dwarven Trade
+    Route and Farmer's Way is preferred route for simply getting from A
+    to B.
 -   **The Mountain Trail** is a short straight road which runs east from
-    [Cathracharraig](:Category:_Cathracharraig "wikilink") to [the
-    Barrier Wastes](:Category:_Barrier_Wastes "wikilink"). Be careful
+    [Cathracharraig](:Category:_Cathracharraig.md "wikilink") to [the
+    Barrier Wastes](:Category:_Barrier_Wastes.md "wikilink"). Be careful
     not to wander into the
-    [River](:Category:_Rivers_Of_Avatar "wikilink") as there is no easy
-    way back out again and it can be dangerous without a
-    [boat](:Category:_Boats "wikilink") or other method of dealing with
-    the water.
+    [River](:Category:_Rivers_Of_Avatar.md "wikilink") as there is no
+    easy way back out again and it can be dangerous without a
+    [boat](:Category:_Boats.md "wikilink") or other method of dealing
+    with the water.
 -   **Ocean Trade Route** runs north-south from
-    [Midgaard](:Category:_Midgaard "wikilink") to
-    [Mervue](:Category:_Mervue "wikilink").
--   **Defender's Way** leaves [Midgaard](:Category:_Midgaard "wikilink")
-    and leads east to the Great Wall and [the
-    Wildwood](:Category:_Wildwood "wikilink").
+    [Midgaard](:Category:_Midgaard.md "wikilink") to
+    [Mervue](:Category:_Mervue.md "wikilink").
+-   **Defender's Way** leaves
+    [Midgaard](:Category:_Midgaard.md "wikilink") and leads east to the
+    Great Wall and [the Wildwood](:Category:_Wildwood.md "wikilink").
 -   **The Great Wall** starts in the north at the [Tortured
-    Terrain](:Category:_Tortured_Terrain "wikilink") and winds via the
-    gate to [the Wildwood](:Category:_Wildwood "wikilink") south to
-    eventually end at [Mervue](:Category:_Mervue "wikilink"). The north
-    tower by the the gate to [the
-    Wildwood](:Category:_Wildwood "wikilink") also has a connection to
-    the [Airways](:Category:_Airways "wikilink").
+    Terrain](:Category:_Tortured_Terrain.md "wikilink") and winds via
+    the gate to [the Wildwood](:Category:_Wildwood.md "wikilink") south
+    to eventually end at [Mervue](:Category:_Mervue.md "wikilink"). The
+    north tower by the the gate to [the
+    Wildwood](:Category:_Wildwood.md "wikilink") also has a connection
+    to the [Airways](:Category:_Airways.md "wikilink").
 
 ## Adventuring
 

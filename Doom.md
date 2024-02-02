@@ -5,22 +5,22 @@ that rise up into the darkness. The Doom suddenly thunders a voice into
 your head. "NOW, YOU DIE."*
 
 **Keywords:** Doom.  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The Doom is using:`  
-<worn about waist>`  `[`a`` ``chained`` ``steel`` ``collar`](Chained_Steel_Collar "wikilink")
+<worn about waist>`  `[`a`` ``chained`` ``steel`` ``collar`](Chained_Steel_Collar.md "wikilink")
 
 `The Doom is carrying:`  
-`     `[`a`` ``shard`` ``of`` ``black`` ``Doom`` ``marble`](Shard_Of_Black_Doom_Marble "wikilink")
+`     `[`a`` ``shard`` ``of`` ``black`` ``Doom`` ``marble`](Shard_Of_Black_Doom_Marble.md "wikilink")
 
 ## Comments
 
@@ -33,16 +33,16 @@ aggie).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Padmasa](:Category:_Padmasa "wikilink")
-([Map](Padmasa_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Right next to the Doom!
+**[Area](:Category:_Areas.md "wikilink"):**
+[Padmasa](:Category:_Padmasa.md "wikilink")
+([Map](Padmasa_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Right next to the Doom!
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 41s, 6w, 2s, 4w, \[w\],
-\[w\], w, \[w\], 2w, \[w\], 4d, e, \[e\], e. (note: crosses [water
-terrain](Water_Terrain "wikilink"))  
-Walking route from [Vapul](Vapul "wikilink"): w, w, u, e, \[e\], e.  
-Walking route from [Ears Doom](Ears_Of_Doom "wikilink"): e.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 41s, 6w, 2s, 4w,
+\[w\], \[w\], w, \[w\], 2w, \[w\], 4d, e, \[e\], e. (note: crosses
+[water terrain](Water_Terrain.md "wikilink"))  
+Walking route from [Vapul](Vapul.md "wikilink"): w, w, u, e, \[e\], e.  
+Walking route from [Ears Doom](Ears_Of_Doom.md "wikilink"): e.  
 The Doom is portable.  
 
 [Category: Mobs In Padmasa](Category:_Mobs_In_Padmasa "wikilink")

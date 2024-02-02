@@ -1,70 +1,71 @@
 *Cold-blooded killers of the most ruthless kind, assassins are lethal
-either with a [bow](:Category:_Bows "wikilink") and
-[arrow](:Category:_Arrows "wikilink"), or a simple dagger. Calculating
-and cerebral by nature, they are known to use a wide variety of methods
-to murder their victims.*
+either with a [bow](:Category:_Bows.md "wikilink") and
+[arrow](:Category:_Arrows.md "wikilink"), or a simple dagger.
+Calculating and cerebral by nature, they are known to use a wide variety
+of methods to murder their victims.*
 
 *Assassins learn many of the same
-[skills](:Category:_Rogue_Skills_And_Spells "wikilink") as the
-[rogue](:Category:_Rogues "wikilink") class, but generally don't stoop
-to [stealing](Steal "wikilink"), picking pockets, or other basic
-thuggery. They also have the ability to use
-[bows](:Category:_Bows "wikilink"), and learn many
-[archer](:Category:_Archers "wikilink")
-[skills](:Category:_Archer_Skills_And_Spells "wikilink"), but never
+[skills](:Category:_Rogue_Skills_And_Spells.md "wikilink") as the
+[rogue](:Category:_Rogues.md "wikilink") class, but generally don't
+stoop to [stealing](Steal.md "wikilink"), picking pockets, or other
+basic thuggery. They also have the ability to use
+[bows](:Category:_Bows.md "wikilink"), and learn many
+[archer](:Category:_Archers.md "wikilink")
+[skills](:Category:_Archer_Skills_And_Spells.md "wikilink"), but never
 those pertaining to hunting or survivalism. Assassins combine these
 other classes' skills into one wholly unique and lethal package.*
 
 *To illustrate their calculating nature, assassins have a [Prime
-statistic](Prime_Requisite "wikilink") of
-[Intelligence](Intelligence "wikilink").*
+statistic](Prime_Requisite.md "wikilink") of
+[Intelligence](Intelligence.md "wikilink").*
 
 **Abbreviation:** Asn.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Intelligence](Intelligence "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Intelligence](Intelligence.md "wikilink").
 
 ## Assassins in General
 
 Assassins have the damage skills of both [rogue](rogue "wikilink") and
-[archer](:Category:Archers "wikilink") with some new skills mixed in,
+[archer](:Category:Archers.md "wikilink") with some new skills mixed in,
 but they lose some of the utility skills of both as well (such as:
 rescue, portal, exploding arrow and picklock). They also get less
 hitpoints than both their parent classes, but get more mana. They have
 more INT and less DEX than archers or rogues since Intelligence is their
-[prime attribute](Prime_Requisite "wikilink"). Assassins can run like a
-rogue (stabber) or like an archer. Assassins need to stab with a
+[prime attribute](Prime_Requisite.md "wikilink"). Assassins can run like
+a rogue (stabber) or like an archer. Assassins need to stab with a
 poisoned piercing weapon to have a chance at [insightful
-strike](Insightful_Strike "wikilink"), which will raise their
-[reputation](Reputation "wikilink"). Because of this an assassin who is
-concerned about reputation will want to collect a lot of
-[poisons](:Category:poisons "wikilink") for their primary weapon. In
-January 2014 [ a quest was added](Assassin_Contracts "wikilink") where
-Assassins can take on "contracts" once a day, the reward for which is
-one point of reputation.
+strike](Insightful_Strike_.md "wikilink"), which will raise their
+[reputation](Reputation.md "wikilink"). Because of this an assassin who
+is concerned about reputation will want to collect a lot of
+[poisons](:Category:poisons.md "wikilink") for their primary weapon. In
+January 2014 [ a quest was added](Assassin_Contracts.md "wikilink")
+where Assassins can take on "contracts" once a day, the reward for which
+is one point of reputation.
 
 Assassins don't get [refresh](refresh "wikilink") or
 [invigorate](invigorate "wikilink") and can run low on moves easily
 using [alertness](alertness "wikilink"). So carrying something like the
-[mushrooms](Handfull_Of_Mushrooms "wikilink") (which give endurance as
-well as rejuvenate) found in [Pariah's
-Paradise](:Category:Pariah's_Paradise "wikilink") or [cotton
-candy](Cotton_Candy "wikilink") found in [Carnival](Carnival "wikilink")
-is wise. Also, once available, the spell
+[mushrooms](Handfull_Of_Mushrooms.md "wikilink") (which give endurance
+as well as rejuvenate) found in [Pariah's
+Paradise](:Category:Pariah's_Paradise.md "wikilink") or [cotton
+candy](Cotton_Candy.md "wikilink") found in
+[Carnival](Carnival "wikilink") is wise. Also, once available, the spell
 [Endurance](Endurance "wikilink") can help.
 
 ## Assassin Creation
 
-Assassins are a [remort class](:Category:_Remort_Classes "wikilink")
-available only to [lord](:Category:Lord "wikilink")
-[archers](:Category:_Archers "wikilink"),
-[rogues](:Category:_Rogues "wikilink") and
-[shadowfists](:Category:_Shadowfists "wikilink"). Ideally a race that
-has a positive mod to [stealth](Racial_Stealth_Modifier "wikilink") and,
-if playing at all as an archer,
-[archery](Racial_Archery_Modifier "wikilink"). If planning to run lord a
-race that has a [melee damage mod](Racial_Damage_Modifier "wikilink") as
-at lord most assassins stab.
+Assassins are a [remort class](:Category:_Remort_Classes.md "wikilink")
+available only to [lord](:Category:Lord.md "wikilink")
+[archers](:Category:_Archers.md "wikilink"),
+[rogues](:Category:_Rogues.md "wikilink") and
+[shadowfists](:Category:_Shadowfists.md "wikilink"). Ideally a race that
+has a positive mod to [stealth](Racial_Stealth_Modifier.md "wikilink")
+and, if playing at all as an archer,
+[archery](Racial_Archery_Modifier.md "wikilink"). If planning to run
+lord a race that has a [melee damage
+mod](Racial_Damage_Modifier.md "wikilink") as at lord most assassins
+stab.
 
 ## Assassins at Lowmort Tier
 
@@ -80,7 +81,7 @@ damage. [Insightful Strike](Insightful_Strike "wikilink") is a must as
 this allows you a chance to insta kill mobs with
 [Murder](Murder "wikilink"), [Backstab](Backstab "wikilink") and the
 like when wielding [poisoned piercing
-weapons](:Category:poisons "wikilink"), and is also the only way of
+weapons](:Category:poisons.md "wikilink"), and is also the only way of
 raising your [Reputation](Reputation "wikilink") level.
 
 ### Worshipping
@@ -92,17 +93,17 @@ stab damage)
 If you want to be balanced between the two assassin styles - Durr or
 Atheist.  
 Also, remember that worship affects crafting skills such as [ poison
-weapon](Poison_Weapon "wikilink") and [fletch](fletch "wikilink").
+weapon](Poison_Weapon.md "wikilink") and [fletch](fletch "wikilink").
 
 ### Fighting
 
 **Soloing:**
 
-This can be done like an [Archer](:Category:_Archers "wikilink") or a
-[Rogue](:Category:_Rogues "wikilink"). Using a crossbow with archer gear
-using [Sneak Attack](Sneak_Attack "wikilink") can be an effective way to
-solo the early levels due to the damage done with sneak attack and a
-crossbow. When the Assassin has learnt [Lethal
+This can be done like an [Archer](:Category:_Archers.md "wikilink") or a
+[Rogue](:Category:_Rogues.md "wikilink"). Using a crossbow with archer
+gear using [Sneak Attack](Sneak_Attack "wikilink") can be an effective
+way to solo the early levels due to the damage done with sneak attack
+and a crossbow. When the Assassin has learnt [Lethal
 Aim](Lethal_Aim "wikilink") at level 30 starting a fight with [Vital
 Shot](Vital_Shot "wikilink") targeting the mobs eye with a piercing
 weapon and then swapping to a crossbow can also be effective.
@@ -141,26 +142,26 @@ mob is quite large. Once of sufficient size however
 [backstab](backstab "wikilink") should do enough to make most mobs go
 down fairly quickly. And, as long as the primary weapon is poisoned,
 backstab will give a (small) chance for an [instant
-kill](Insightful_Strike "wikilink").
+kill](Insightful_Strike.md "wikilink").
 
 **Tanking:** Once of sufficient size this can be done the same as
 soloing, i.e, in hit gear (dr) and opening with backstab. With one or
 two decent hitters in the group most mobs should go down very fast. It's
 worth noting that assassins do not get rescue or portal so a groupie
 needs to handle those tasks. Assassins do get [arrow
-dodge](Arrow_Dodge "wikilink"), which is nice when facing mobs that
+dodge](Arrow_Dodge.md "wikilink"), which is nice when facing mobs that
 wield ranged weapons.
 
 **Hitting:** Assassins can do some of the best hitting at hero, having
 the consistently high damage of an archer combined with the damage bonus
 of sneak attack. If, as usual, done as an
-[Archer](:Category:Archers "wikilink"), you should try to use [Sneak
+[Archer](:Category:Archers.md "wikilink"), you should try to use [Sneak
 Attack](Sneak_Attack "wikilink") with your kill trigger. You can set a
 secondary trigger to just do a kill if the sneak fails. [Aimed
 Shot](Aimed_Shot "wikilink") also is nice, better than held shot. Aimed
 is kind of like vital for bows, but it does more than vital with
-piercers. Once [snipe](Snipe "wikilink") is learned
-[longshots](Longshot "wikilink") will also be better.
+piercers. Once [snipe](Snipe.md "wikilink") is learned
+[longshots](Longshot.md "wikilink") will also be better.
 
 ## Assassins at Lord Tier
 
@@ -181,7 +182,7 @@ learn [Disengage](Disengage "wikilink"), therefore
     assassin maybe able to walk out of the room to slip back in for the
     stab. This depends on the area as in maze areas walking out of a
     room doesn't necessarily mean you can walk back in.
--   If there is a [Priest](:Category:Priests "wikilink") in the group
+-   If there is a [Priest](:Category:Priests.md "wikilink") in the group
     the assassin could arrange for the priest to cast
     [Innocence](Innocence "wikilink") on them so they can walk out of
     the room to slip back in, again be careful of maze areas.
@@ -198,8 +199,8 @@ blind (those mobs that have eyes anyway).
 
 ## Assassin Remort Options
 
-Several [remort races](:Category:Remort_Races "wikilink") are good for
-Assassins (pretty much the same that are good for Rogues).
+Several [remort races](:Category:Remort_Races.md "wikilink") are good
+for Assassins (pretty much the same that are good for Rogues).
 
 -   Demonseed - arc bonus, very good stealth, small dmg mod
 -   Griffon - decent dmg mod, negative arc mod

@@ -11,9 +11,9 @@ mithril.*
 **Keywords**: dwarven sling  
 **Flags**: glow nolocate  
 **Weight**: 15  
-**Plane**: [World of Stone](:Category:World_Of_Stone "wikilink")  
+**Plane**: [World of Stone](:Category:World_Of_Stone.md "wikilink")  
 **Area**: [Mountain Of
-Madness](:Category:Mountain_Of_Madness "wikilink")  
+Madness](:Category:Mountain_Of_Madness.md "wikilink")  
 **Mob**:
 
 ------------------------------------------------------------------------

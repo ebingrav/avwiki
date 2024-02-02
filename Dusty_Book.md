@@ -2,13 +2,13 @@
 examine.*
 
 **Keywords:** book, tome.  
-**[Level](Object_Level "wikilink"):** 50-52  
-**[Type](:Category:Object_Types "wikilink"):**
-[trash](:Category:Trash "wikilink")  
-**[Slot](Object_Slots "wikilink"):** <held>  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flags](:Category:Object_Flags "wikilink"):** none.
+**[Level](Object_Level.md "wikilink"):** 50-52  
+**[Type](:Category:Object_Types.md "wikilink"):**
+[trash](:Category:Trash.md "wikilink")  
+**[Slot](Object_Slots.md "wikilink"):** <held>  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flags](:Category:Object_Flags.md "wikilink"):** none.
 
 ## Comments
 
@@ -27,11 +27,11 @@ Looking at the pages shows the following:
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Shadow
-Keep](:Category:Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink"))  
-**[Mob](:Category:Mobs "wikilink"):** [The librarian's
-ghost](Librarian's_Ghost "wikilink")
+**[Area](:Category:Areas.md "wikilink"):** [Shadow
+Keep](:Category:Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink"))  
+**[Mob](:Category:Mobs.md "wikilink"):** [The librarian's
+ghost](Librarian's_Ghost.md "wikilink")
 
 [Category:Gear In Shadow Keep](Category:Gear_In_Shadow_Keep "wikilink")
 [Category:Trash](Category:Trash "wikilink")

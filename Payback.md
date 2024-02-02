@@ -1,11 +1,13 @@
-*[Bodyguards](:Category:_Bodyguards "wikilink") really hate it when you
-attack their masters. With this [skill](:Category:_Skills "wikilink"),
-they gain a [damage](Damage_Roll "wikilink") bonus along with the
-[AC](Armor_Class "wikilink") penalty commonly associated with
-[rescue](Rescue "wikilink"), but only when [rescuing](Rescue "wikilink")
-their current [monitor](Monitor "wikilink") target from genuine danger.*
+*[Bodyguards](:Category:_Bodyguards.md "wikilink") really hate it when
+you attack their masters. With this
+[skill](:Category:_Skills.md "wikilink"), they gain a
+[damage](Damage_Roll.md "wikilink") bonus along with the
+[AC](Armor_Class.md "wikilink") penalty commonly associated with
+[rescue](Rescue.md "wikilink"), but only when
+[rescuing](Rescue.md "wikilink") their current
+[monitor](Monitor.md "wikilink") target from genuine danger.*
 
-Prerequisite(s): [Intercede](Intercede "wikilink").
+Prerequisite(s): [Intercede](Intercede.md "wikilink").
 
 Syntax: none (automatic).
 

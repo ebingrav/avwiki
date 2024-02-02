@@ -1,43 +1,43 @@
 *Once, a long time ago, this stretch of forest in the southern reaches
-of what is now called [Wildwood](:Category:_Wildwood "wikilink") was the
-pride of Mid-gaardia - for those who relish in the growth and bloom of
-things at least, or in the hunting of them. But alas, here the violent
-and endless battles that left half the continent disfigured with scars
-to deep to heal raged without mercy to creatures and nature. Only few
-rumours have found their distorted way into the bars and to the dinner
-tables of the cities of Midgaardia though. The stories that made it
-spoke of an abundance of evil creatures, of destruction and mayhem that
-suggested that there was no forest left standing. Yet descriptions of
-what might have replaced it seem so contradictory, that it can only be
-attributed to the chinese whispering from mono-syllable
-[ranger](:Category:_Rangers "wikilink") to meditating
-[druid](:Category:_Druids "wikilink"), from proud
-[centaur](Centaurs "wikilink") to scared traveller, from bored gate
+of what is now called [Wildwood](:Category:_Wildwood.md "wikilink") was
+the pride of Mid-gaardia - for those who relish in the growth and bloom
+of things at least, or in the hunting of them. But alas, here the
+violent and endless battles that left half the continent disfigured with
+scars to deep to heal raged without mercy to creatures and nature. Only
+few rumours have found their distorted way into the bars and to the
+dinner tables of the cities of Midgaardia though. The stories that made
+it spoke of an abundance of evil creatures, of destruction and mayhem
+that suggested that there was no forest left standing. Yet descriptions
+of what might have replaced it seem so contradictory, that it can only
+be attributed to the chinese whispering from mono-syllable
+[ranger](:Category:_Rangers.md "wikilink") to meditating
+[druid](:Category:_Druids.md "wikilink"), from proud
+[centaur](Centaurs.md "wikilink") to scared traveller, from bored gate
 guard to drunken bartender.*
 
 **Level Range:** 51-51
 
 **Builder:** Pulse
 
-This [area](:Category:_Areas "wikilink") was added in 2005 Dec.
+This [area](:Category:_Areas.md "wikilink") was added in 2005 Dec.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, w, 2s, e, 2s, w, 2s, 2e, n, e, d, 2e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, w, 2s, e, 2s, w, 2s, 2e, n, e, d, 2e.
 
-Walking route from [white druid](White_Haired_Druid "wikilink"): 2n, e,
-u, 2e, n, e, d, 2e.
+Walking route from [white druid](White_Haired_Druid.md "wikilink"): 2n,
+e, u, 2e, n, e, d, 2e.
 
-Walking route from [stone trickster](Stone_Trickster "wikilink"): e.
+Walking route from [stone trickster](Stone_Trickster.md "wikilink"): e.
 
-[Portaling](Portal "wikilink") point(s) suggested: [swirl
-leaves](Giant-Shaped_Swirl_Of_Leaves "wikilink") .
+[Portaling](Portal.md "wikilink") point(s) suggested: [swirl
+leaves](Giant-Shaped_Swirl_Of_Leaves.md "wikilink") .
 
 ## Connections
 
--   [Shadow Forest](:Category:Shadow_Forest "wikilink")
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
+-   [Shadow Forest](:Category:Shadow_Forest.md "wikilink")
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
 
 ## Navigation
 
@@ -54,9 +54,9 @@ area:
     satisfyingly swarmy for area casters.
 -   Along the fringe of a swirling vortex along the south edge of the
     area is filled with ghosts and a [corpse
-    animator](Mass_Of_Memories "wikilink") (the only sanced mob there --
-    only animates mob corpses). The safe room at the [scarred
-    ent](Heavily_Scarred_Ent "wikilink") is adjacent. There are a few
+    animator](Mass_Of_Memories.md "wikilink") (the only sanced mob there
+    -- only animates mob corpses). The safe room at the [scarred
+    ent](Heavily_Scarred_Ent.md "wikilink") is adjacent. There are a few
     private rooms up from the safe room. The room just north of the ent
     is private and uncursed, though you cannot set recall here.
 -   Beneath a bulging slab is southwestish from the entrance, past a
@@ -70,9 +70,9 @@ area:
     random exits, but is seminavigable if you learn to recognize the
     sentinel mobs. It is filled with multiple types of mobs, most
     notably drifting ice breathing mobs, so be sure to cast [mystical
-    barrier](Mystical_Barrier "wikilink") if possible. Because a repop
-    means that all the bashed doors close and lock, be sure to have an
-    escape plan!
+    barrier](Mystical_Barrier.md "wikilink") if possible. Because a
+    repop means that all the bashed doors close and lock, be sure to
+    have an escape plan!
 -   In ice tree, from the room with the mob "Slowly swinging branches"
     (on scan: "Swinging from side to side the thick branches block
     further progress") bashdoor east to get to the un-cursed room in the
@@ -88,9 +88,9 @@ area:
 ## Adventuring
 
 If you plan on coming here, make frequent use of the [heavily scarred
-ent](Heavily_Scarred_Ent "wikilink") to keep your hps up, as things can
-get nasty quickly and the swarmy nature of this cursed area makes a CR
-difficult. Also, try to bring a caster as their area spells are
+ent](Heavily_Scarred_Ent.md "wikilink") to keep your hps up, as things
+can get nasty quickly and the swarmy nature of this cursed area makes a
+CR difficult. Also, try to bring a caster as their area spells are
 incredibly useful in this area.
 
 This is a huge hero area with lots of aggie and dangerous
@@ -126,7 +126,7 @@ Notable mobs are:
     cursed room. Carries [Necklace Of Assorted
     Wood](Necklace_Of_Assorted_Wood "wikilink").
 -   [Heavily Scarred Ent](Heavily_Scarred_Ent "wikilink"): Sentinel,
-    safe room, [infirmary](Infirmary "wikilink")
+    safe room, [infirmary](Infirmary.md "wikilink")
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category:
 Incomplete](Category:_Incomplete "wikilink")

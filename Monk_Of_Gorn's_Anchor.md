@@ -5,18 +5,19 @@ attained is one which few mortals will ever know.*
 **Keywords:** monk, gorn  
 **Level: 44**  
 **[Alignment](Alignment "wikilink"):** angelic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [monk](Monk_Mobs "wikilink")  
-**Affects:** [infravision](Infravision "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [sanctuary](Sanctuary "wikilink")
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[monk](Monk_Mobs.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [sanctuary](Sanctuary.md "wikilink")
 
 ### Gear
 
 `A Monk of Gorn is using:`  
-<worn on body>`      `[`a`` ``black`` ``buttoned`` ``shirt`](Black_Buttoned_Shirt "wikilink")  
-<worn on legs>`      `[`a`` ``black`` ``pair`` ``of`` ``pants`](Black_Pair_Of_Pants "wikilink")  
-<worn about waist>`  `[`a`` ``long`` ``red`` ``belt`](Long_Red_Belt "wikilink")
+<worn on body>`      `[`a`` ``black`` ``buttoned`` ``shirt`](Black_Buttoned_Shirt.md "wikilink")  
+<worn on legs>`      `[`a`` ``black`` ``pair`` ``of`` ``pants`](Black_Pair_Of_Pants.md "wikilink")  
+<worn about waist>`  `[`a`` ``long`` ``red`` ``belt`](Long_Red_Belt.md "wikilink")
 
 ### Comments
 
@@ -28,12 +29,12 @@ Ten Monks of Gorn wander the Temple.
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** Inside the Temple of Gorn
-([cursed](Cursed_Rooms "wikilink"),
-[anti-magic](Anti-Magic_Rooms "wikilink"))  
+**[Area](:Category:Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** Inside the Temple of Gorn
+([cursed](Cursed_Rooms.md "wikilink"),
+[anti-magic](Anti-Magic_Rooms.md "wikilink"))  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 39s, 3w, 4n, 3w,
 2n  
 **Walking route from [Cindare](Cindare "wikilink"):** s

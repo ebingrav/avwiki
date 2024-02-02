@@ -17,10 +17,10 @@ Hero level forgery kit for [Copy Key](Copy_Key "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Pariah's
-Paradise](:Category:_Pariah's_Paradise "wikilink")
-([Map](Pariah's_Paradise_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Hooded
+**[Area](:Category:_Areas.md "wikilink"):** [Pariah's
+Paradise](:Category:_Pariah's_Paradise.md "wikilink")
+([Map](Pariah's_Paradise_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Hooded
 Thief](Hooded_Thief "wikilink").  
 
 [Category: Gear In Pariah's

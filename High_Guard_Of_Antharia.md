@@ -3,21 +3,21 @@ and impressive than the Peace Guards. These guards are here to make sure
 that law and order is maintained, and so it shall.*
 
 **Keywords:** high, guard.  
-**[Level](Level "wikilink"):** 62.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [detect invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 62.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `High Guard of Antharia is using:`  
-<worn on finger>`    (Glowing) `[`an`` ``Antharian`` ``signet`` ``ring`](Antharian_Signet_Ring "wikilink")  
-<worn on head>`      (Glowing) `[`an`` ``Antharian`` ``helmet`](Antharian_Helmet "wikilink")  
-<worn on legs>`      `[`a`` ``pair`` ``of`` ``synthetic`` ``fins`](Pair_Of_Synthetic_Fins "wikilink")  
-<worn on wrist>`     `[`an`` ``Antharian`` ``style`` ``bracer`](Antharian_Style_Bracer "wikilink")  
-<wielded>`           `[`a`` ``sparkling`` ``trident`](Sparkling_Trident "wikilink")  
-<held>`              (Glowing) `[`a`` ``net`](Net_(Antharia) "wikilink")
+<worn on finger>`    (Glowing) `[`an`` ``Antharian`` ``signet`` ``ring`](Antharian_Signet_Ring.md "wikilink")  
+<worn on head>`      (Glowing) `[`an`` ``Antharian`` ``helmet`](Antharian_Helmet.md "wikilink")  
+<worn on legs>`      `[`a`` ``pair`` ``of`` ``synthetic`` ``fins`](Pair_Of_Synthetic_Fins.md "wikilink")  
+<worn on wrist>`     `[`an`` ``Antharian`` ``style`` ``bracer`](Antharian_Style_Bracer.md "wikilink")  
+<wielded>`           `[`a`` ``sparkling`` ``trident`](Sparkling_Trident.md "wikilink")  
+<held>`              (Glowing) `[`a`` ``net`](Net_(Antharia).md "wikilink")
 
 `High Guard of Antharia is carrying:`  
 `     Nothing.`
@@ -26,10 +26,10 @@ that law and order is maintained, and so it shall.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-High Guard of Antharia [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+High Guard of Antharia [wanders](Wandering_Mobs.md "wikilink").
 
 High Guard of Antharia is portable.  
 

@@ -2,17 +2,17 @@
 `Modifies armor class by -120 continuous`
 
 **Keyword(s):** ?  
-**[Level(s)](Object_Level "wikilink"):** 125  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** 125  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):**
 
 <head>
 
 .  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** ?  
-**[Weight](Object_Weight "wikilink"):** ? lbs  
-**[Quality](Object_Quality "wikilink"):** ? hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** ?  
+**[Weight](Object_Weight.md "wikilink"):** ? lbs  
+**[Quality](Object_Quality.md "wikilink"):** ? hps  
 How to get:  
 1. Get an [Jeweled Crown Of
 Aziz-Ra](Jeweled_Crown_Of_Aziz-Ra "wikilink").  

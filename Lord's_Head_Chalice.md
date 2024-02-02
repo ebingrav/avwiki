@@ -2,14 +2,14 @@
 Modifies mana by 100 continuous. Slot: Held  
 Flags: evil magic  
 Weight: 5  
-Plane: [Tarterus](:Category:Tarterus "wikilink")  
-Area: [Ascension](:Category:Ascension "wikilink")  
+Plane: [Tarterus](:Category:Tarterus.md "wikilink")  
+Area: [Ascension](:Category:Ascension.md "wikilink")  
 Mob: [Tialoc The Archfiend](Tialoc_The_Archfiend "wikilink")  
 
 ------------------------------------------------------------------------
 
-See [Gear In Ascension](:Category:Gear_In_Ascension "wikilink") for more
-information.
+See [Gear In Ascension](:Category:Gear_In_Ascension.md "wikilink") for
+more information.
 
 [Category:Lord Mana Gear](Category:Lord_Mana_Gear "wikilink")
 [Category:Gear In Ascension](Category:Gear_In_Ascension "wikilink")

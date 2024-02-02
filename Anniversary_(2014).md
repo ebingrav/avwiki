@@ -1,12 +1,12 @@
 <center>
 
-![](AnniversaryBanner2014a.png "AnniversaryBanner2014a.png")
+![](AnniversaryBanner2014a.png.md "AnniversaryBanner2014a.png.md")
 
 </center>
 
 We are planning events throughout the month of August to celebrate the
-19th anniversary of AVATAR MUD! [HoGs](hog "wikilink"), mini-quests, Imm
-quest events (e.g Push Your Luck), some surprise events, quizzes and
+19th anniversary of AVATAR MUD! [HoGs](hog.md "wikilink"), mini-quests,
+Imm quest events (e.g Push Your Luck), some surprise events, quizzes and
 more besides!
 
 The list below contains events for which we have a fixed date. There are

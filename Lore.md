@@ -1,19 +1,20 @@
-*This [skill](:Category:_Skills_And_Spells "wikilink") allows you to see
-basic information about [items](:Category:_Objects "wikilink") which you
-[examine](Examine "wikilink"). This essential but primitive knowledge of
-[equipment](:Category:_Gear "wikilink") is the first in a series of
-[skills](:Category:_Skills_And_Spells "wikilink") that augment your
-intuitive understanding of [objects](:Category:_Objects "wikilink").*
+*This [skill](:Category:_Skills_And_Spells.md "wikilink") allows you to
+see basic information about [items](:Category:_Objects.md "wikilink")
+which you [examine](Examine.md "wikilink"). This essential but primitive
+knowledge of [equipment](:Category:_Gear.md "wikilink") is the first in
+a series of [skills](:Category:_Skills_And_Spells.md "wikilink") that
+augment your intuitive understanding of
+[objects](:Category:_Objects.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [examine](Examine "wikilink")
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: [examine](Examine.md "wikilink")
+\<[object](:Category:_Objects.md "wikilink")\>.
 
-This is a useful [skill](:Category:_Skills_And_Spells "wikilink") for
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink") to
-[learn](Practice "wikilink").
+This is a useful [skill](:Category:_Skills_And_Spells.md "wikilink") for
+[characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink") to
+[learn](Practice.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer

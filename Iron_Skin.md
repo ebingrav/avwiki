@@ -1,13 +1,13 @@
 *IRON SKIN transforms the caster's skin into a substance as hard as
-iron. This [spell](:Category:_Spells "wikilink") is a [BIOCENTRIC
-Psionic Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It
-can only be [cast](Cast "wikilink") on others if the Caster first
-masters the art of [BIO EMPATHY](Bio_Empathy "wikilink").*
+iron. This [spell](:Category:_Spells.md "wikilink") is a [BIOCENTRIC
+Psionic Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink").
+It can only be [cast](Cast.md "wikilink") on others if the Caster first
+masters the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
-Prerequisite(s): [Calcify Flesh](Calcify_Flesh "wikilink").
+Prerequisite(s): [Calcify Flesh](Calcify_Flesh.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'iron skin'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'iron skin'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

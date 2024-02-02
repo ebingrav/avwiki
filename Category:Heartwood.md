@@ -1,5 +1,5 @@
 *The Heartwood is one part of the greater forest known as the
-[Wildwood](:Category:Wildwood "wikilink"). Deep within the shadowed
+[Wildwood](:Category:Wildwood.md "wikilink"). Deep within the shadowed
 trails, avoiding the more famous dangers which inhabit that land, the
 Heartwood is spoken of in hushed voices when it is spoken of at all. For
 some it is a place of great harmony, for others a nightmare. The forest
@@ -15,17 +15,17 @@ This area was added on January 9th, 2015.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e, n, e
-s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, 2e, 2s, 3e, 2s, 2e, 3s, 3e,
+n, e s.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Shen](Shen "wikilink"), 2n, w, 2s, w, s, w, s.
 
 ## Connections
 
--   [Wildwood](:Category:Wildwood "wikilink")
-    ([Map](Wildwood_Map "wikilink"))
+-   [Wildwood](:Category:Wildwood.md "wikilink")
+    ([Map](Wildwood_Map.md "wikilink"))
 
 ## Navigation
 
@@ -33,15 +33,19 @@ The only entrance to this area is guarded by
 [Tinderhand](Tinderhand "wikilink"). He will attack those players that
 don't match a certain race. The following have been observed:
 
--   Safe: [High Elf](High_Elves "wikilink"), [Elf](Elves "wikilink"),
-    [Drow](Drow "wikilink"), [Ent](Ents "wikilink"),
-    [Centaur](Centaurs "wikilink"), [Sprite](Sprites "wikilink")
--   Aggied: [Demonseed](Demonseeds "wikilink"),
-    [Dragon](Dragons "wikilink"), [Gargoyle](Gargoyles "wikilink"),
-    [Griffon](Griffons "wikilink"), [Halfling](Halflings "wikilink"),
-    [Minotaur](Minotaurs "wikilink"),
-    [Firedrake](Firedrakes "wikilink"), [Human](Humans "wikilink"),
-    [Lizard Man](Lizardmen "wikilink"), [Gnomes](Gnomes "wikilink"),
+-   Safe: [High Elf](High_Elves.md "wikilink"),
+    [Elf](Elves.md "wikilink"), [Drow](Drow "wikilink"),
+    [Ent](Ents.md "wikilink"), [Centaur](Centaurs.md "wikilink"),
+    [Sprite](Sprites.md "wikilink")
+-   Aggied: [Demonseed](Demonseeds.md "wikilink"),
+    [Dragon](Dragons.md "wikilink"),
+    [Gargoyle](Gargoyles.md "wikilink"),
+    [Griffon](Griffons.md "wikilink"),
+    [Halfling](Halflings.md "wikilink"),
+    [Minotaur](Minotaurs.md "wikilink"),
+    [Firedrake](Firedrakes.md "wikilink"),
+    [Human](Humans.md "wikilink"), [Lizard
+    Man](Lizardmen.md "wikilink"), [Gnomes](Gnomes.md "wikilink"),
     [Dwarves](Dwarves "wikilink"), [Imps](Imps "wikilink")
 
 Heartwood is roughly divided into four areas. The first is the path (A

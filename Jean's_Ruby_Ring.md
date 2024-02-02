@@ -3,14 +3,15 @@
 `Modifies dexterity by 2 continuous`
 
 **Keyword(s):** ring,ruby,silver,jeans,lordgear  
-**[Level(s)](Object_Level "wikilink"):** 125  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <finger>.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[Magic](Magic_Flag "wikilink"), [Nolocate](Nolocate_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Quality](Object_Quality "wikilink"):** 500 hps  
+**[Level(s)](Object_Level.md "wikilink"):** 125  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <finger>.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[Magic](Magic_Flag.md "wikilink"),
+[Nolocate](Nolocate_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 500 hps  
 How to get:  
 1. Get an [Elemental Earth Ring](Elemental_Earth_Ring "wikilink").  
 2. Embed the following perfect gems into it: 3 rubies, 2 sapphires, and

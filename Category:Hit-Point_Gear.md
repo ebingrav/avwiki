@@ -67,7 +67,7 @@ Plate](Durrite_Plate "wikilink")(35)
 [Cap Of The Mushroom Thane](Cap_Of_The_Mushroom_Thane "wikilink")(50) or
 [Obsidian Helm](Obsidian_Helm "wikilink")(50) or [Wide Leather
 Patch](Wide_Leather_Patch "wikilink")(50) or [ Skull With Huge, Curved
-Horns](Skull_With_Huge,_Curved_Horns "wikilink")(35, -35ac)
+Horns](Skull_With_Huge,_Curved_Horns.md "wikilink")(35, -35ac)
 
 </td>
 </tr>
@@ -219,7 +219,7 @@ Dice](Set_Of_Three_Loaded_Dice "wikilink")(20)<sup>1</sup>
 
 <sup>1</sup> This is a piece of low-mortal (level 1-50) gear.
 <sup>2</sup> This is a piece of [manifest
-gear](:Category:Manifest_Gear "wikilink").
+gear](:Category:Manifest_Gear.md "wikilink").
 
 [Category: Gear](Category:_Gear "wikilink") [Category:Hero
 Gear](Category:Hero_Gear "wikilink")

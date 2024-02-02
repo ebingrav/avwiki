@@ -3,17 +3,17 @@ the lesser brethren, and in his frenzy he kills any stumble upon him
 accidentally.*
 
 **Keywords:** hobgoblin, guard.  
-**[Level](Level "wikilink"):** 14.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 14.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A hobgoblin guard is using:`  
-<worn on body>`      `[`dried`` ``mud`` ``armor`](Dried_Mud_Armor "wikilink")  
+<worn on body>`      `[`dried`` ``mud`` ``armor`](Dried_Mud_Armor.md "wikilink")  
 <wielded>`           a muddy branch`
 
 ## Comments
@@ -26,13 +26,14 @@ of gear.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ascension
-Woods](:Category:_Ascension_Woods "wikilink")
-([Map](Ascension_Woods_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A guardpost (portalable).  
-Walking route from [Nom](Nom "wikilink"): n, 8w, s, 3e, 4s, e, 3s, e, s,
-4e, 3s, 4e, d, e.  
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 4s, e, 3s, e, s,
+**[Area](:Category:_Areas.md "wikilink"):** [Ascension
+Woods](:Category:_Ascension_Woods.md "wikilink")
+([Map](Ascension_Woods_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A guardpost
+(portalable).  
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, s, 3e, 4s, e, 3s, e,
+s, 4e, 3s, 4e, d, e.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 4s, e, 3s, e, s,
 4e, 3s, 4e, d, e.  
 
 [Category: Mobs In Ascension

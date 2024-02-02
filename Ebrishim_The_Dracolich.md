@@ -5,18 +5,18 @@ advance her own agenda, for now. Your intrusion into her inner sanctum
 is most certainly not in those plans.*
 
 **Keywords:** ebrishim, dracolich, skeleton, dragon.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [
-aggressive](Aggressive "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"),
-[mage](Spellcasting_Mobs "wikilink"),.  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [
+aggressive](Aggressive.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[mage](Spellcasting_Mobs.md "wikilink"),.  
 **Affects:** none.  
 
 ## Gear
 
 `Ebrishim the Dracolich is using:`  
-`  `<held>`              (Humming) `[`fingerbone`` ``of`` ``the`` ``Dracolich`](Fingerbone_Of_The_Dracolich "wikilink")
+`  `<held>`              (Humming) `[`fingerbone`` ``of`` ``the`` ``Dracolich`](Fingerbone_Of_The_Dracolich.md "wikilink")
 
 `You peek at the inventory:`  
 `  Nothing.`
@@ -29,10 +29,10 @@ awkward location (Necro tower basement).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Necromancer's
-Tower](:Category:_Necromancer's_Tower "wikilink")
-([Map](Necromancer's_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Lair of Ebrishim the
+**[Area](:Category:_Areas.md "wikilink"):** [Necromancer's
+Tower](:Category:_Necromancer's_Tower.md "wikilink")
+([Map](Necromancer's_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Lair of Ebrishim the
 Dracolich.  
 
 [Category: Mobs In Necromancer's

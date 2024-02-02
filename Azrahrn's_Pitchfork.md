@@ -1,22 +1,22 @@
 *A demonic pitchfork is here*
 
 **Keyword(s):** pitchfork, Azrahrn, token.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Key](:Category:Keys "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** None.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** obfuscated.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Key](:Category:Keys.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** None.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** obfuscated.  
 
 ## Comments
 
 This item drops off a [Stinkin' Human](Stinkin'_Human "wikilink"). It
 can not be worn or saved with since it is a key. This item is used in
-all the [Demonseed ambassador](Azrahrn "wikilink") [DC
-quests](Diplomatic_Corps "wikilink") hence mob and area will change.
+all the [Demonseed ambassador](Azrahrn.md "wikilink") [DC
+quests](Diplomatic_Corps.md "wikilink") hence mob and area will change.
 
 ## Directions
 
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Stinkin'
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Stinkin'
 Human](Stinkin'_Human "wikilink")  
 
 [Category: Gear In Diplomatic

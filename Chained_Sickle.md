@@ -2,18 +2,18 @@
 long chain, making it an elegant long distance weapon, far more deadly
 than a clumsy spear or pole-axe.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 14-19 to 44-50 (average 30-33).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 9 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 9 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 14-19 to 44-50 (average 30-33).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 9 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 9 continuous.`
 
 **Keyword(s):** chained, sickle.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
@@ -24,10 +24,10 @@ damage, it is also sharpenable.
 ## Directions
 
 Mob: [Veiled Guardian](Veiled_Guardian "wikilink")  
-Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink"))  
+Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink"))  
 There are four different [Veiled Guardians](Veiled_Guardian "wikilink")
-in [veil](:Category:Veil_Of_Ecstasy "wikilink"). They are all found
+in [veil](:Category:Veil_Of_Ecstasy.md "wikilink"). They are all found
 relatively early in the area.  
 
 [Category: Gear In Veil Of

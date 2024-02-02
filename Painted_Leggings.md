@@ -16,8 +16,8 @@ all is an image of a large half-orc paladin.*
 **Weight:** 6 lbs  
 **Bases:** 10-12  
 **Flags:** none  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Erashnak‎](Erashnak‎ "wikilink")  
 
 ## Comments

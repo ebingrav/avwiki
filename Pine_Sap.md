@@ -1,18 +1,18 @@
 *A sticky blob of pine sap is here.*  
 
-`Level 24 spells of: '`[`frenzy`](Frenzy "wikilink")`' '`[`barkskin`](Barkskin "wikilink")`'.`
+`Level 24 spells of: '`[`frenzy`](Frenzy.md "wikilink")`' '`[`barkskin`](Barkskin.md "wikilink")`'.`
 
 **Keyword(s):** blob sap pine  
-**[Level(s)](Object_Level "wikilink"):** 21-22  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink")  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
-**[Weight](Object_Weight "wikilink"):** 2 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** nodrop  
-**[Area](:Category:_Areas "wikilink"):** [Moose
-Lodge](:Category:Moose_Lodge "wikilink")
-([map](Moose_Lodge_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Pine
+**[Level(s)](Object_Level.md "wikilink"):** 21-22  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink")  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** nodrop  
+**[Area](:Category:_Areas.md "wikilink"):** [Moose
+Lodge](:Category:Moose_Lodge.md "wikilink")
+([map](Moose_Lodge_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Pine
 Man](Pine_Man "wikilink"), [Wooden
 Huntsman](Wooden_Huntsman "wikilink")  
 
@@ -22,7 +22,7 @@ Since this item is nodrop it's a good idea to [Remove
 Curse](Remove_Curse "wikilink") the mob before you kill it.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 ## Directions
 
@@ -33,7 +33,7 @@ pp [Baramoose](Baramoose "wikilink"), track [Pine
 Man](Pine_Man "wikilink") or [Wooden
 Huntsman](Wooden_Huntsman "wikilink").
 
-Check the [map](Moose_Lodge_Map "wikilink") for better walking
+Check the [map](Moose_Lodge_Map.md "wikilink") for better walking
 directions once you reach the area. The mobs with this item are located
 in the pine forest maze.
 

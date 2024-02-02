@@ -1,12 +1,12 @@
-*[Archers](:Category:_Archers "wikilink") are experienced wanderers and
-travelers. By using this [skill](:Category:_Skills "wikilink"), they
-will consume less [movement points](Move_Points "wikilink") when they
-walk. Note that as farstride is a walking
-[skill](:Category:_Skills "wikilink"), it is not compatible with the
-[movement cost](Movement_Costs "wikilink") reduction granted by
-[flying](Flying_Flag "wikilink").*
+*[Archers](:Category:_Archers.md "wikilink") are experienced wanderers
+and travelers. By using this [skill](:Category:_Skills.md "wikilink"),
+they will consume less [movement points](Move_Points.md "wikilink") when
+they walk. Note that as farstride is a walking
+[skill](:Category:_Skills.md "wikilink"), it is not compatible with the
+[movement cost](Movement_Costs.md "wikilink") reduction granted by
+[flying](Flying_Flag.md "wikilink").*
 
-Prerequisite(s): [Scout](Scout "wikilink").
+Prerequisite(s): [Scout](Scout.md "wikilink").
 
 Syntax: farstride.
 

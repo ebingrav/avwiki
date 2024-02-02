@@ -1,9 +1,9 @@
 `Map is huge, click repeatedly to enlarge.`
 
 <figure>
-<img src="tiureess.jpg" title="tiureess.jpg" width="650"
-alt="tiureess.jpg" />
-<figcaption aria-hidden="true">tiureess.jpg</figcaption>
+<img src="tiureess.jpg.md" title="tiureess.jpg.md" width="650"
+alt="tiureess.jpg.md" />
+<figcaption aria-hidden="true">tiureess.jpg.md</figcaption>
 </figure>
 
 [Airways Map](Airways_Map "wikilink"),  

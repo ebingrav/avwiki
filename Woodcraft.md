@@ -1,26 +1,26 @@
 *Whether etched in stone or carved on tree bark,
-[archer](:Category:_Archers "wikilink") [markings](Markings "wikilink")
-are messages generally overlooked by others. They can be as subtle as a
-bent branch or a misplaced stone, yet they speak volumes to one who
-knows how to read them. Using this
-[skill](:Category:_Skills "wikilink"), an
-[archer](:Category:_Archers "wikilink") can [mark](Mark "wikilink") a
-[room](:Category:_Rooms "wikilink"), leaving a message for his fellow
-hunters. More importantly, any [archer](:Category:_Archers "wikilink")
-can find their way to the [mark](Markings "wikilink") using the
-[seek](Seek "wikilink") [command](:Category:_Commands "wikilink") and
-the mark's creator's name. If you have made more than one
-[mark](Markings "wikilink") in an [area](:Category:_Areas "wikilink"),
-those who attempt to [seek](Seek "wikilink") them will only
-[seek](Seek "wikilink") the most recently created one.
-[Marks](Markings "wikilink") are to be considered public
-[channels](:Category:_Channels "wikilink"), and the usual rules and
-standards apply.*
+[archer](:Category:_Archers.md "wikilink")
+[markings](Markings.md "wikilink") are messages generally overlooked by
+others. They can be as subtle as a bent branch or a misplaced stone, yet
+they speak volumes to one who knows how to read them. Using this
+[skill](:Category:_Skills.md "wikilink"), an
+[archer](:Category:_Archers.md "wikilink") can
+[mark](Mark.md "wikilink") a [room](:Category:_Rooms.md "wikilink"),
+leaving a message for his fellow hunters. More importantly, any
+[archer](:Category:_Archers.md "wikilink") can find their way to the
+[mark](Markings.md "wikilink") using the [seek](Seek.md "wikilink")
+[command](:Category:_Commands.md "wikilink") and the mark's creator's
+name. If you have made more than one [mark](Markings.md "wikilink") in
+an [area](:Category:_Areas.md "wikilink"), those who attempt to
+[seek](Seek.md "wikilink") them will only [seek](Seek.md "wikilink") the
+most recently created one. [Marks](Markings.md "wikilink") are to be
+considered public [channels](:Category:_Channels.md "wikilink"), and the
+usual rules and standards apply.*
 
-Prerequisite(s): [Map Lore](Map_Lore "wikilink").
+Prerequisite(s): [Map Lore](Map_Lore.md "wikilink").
 
-Syntax: [mark](Mark "wikilink") <message>.  
-Syntax: [seek](Seek "wikilink") \<mark creator's name\>.  
+Syntax: [mark](Mark.md "wikilink") <message>.  
+Syntax: [seek](Seek.md "wikilink") \<mark creator's name\>.  
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

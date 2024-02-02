@@ -1,27 +1,27 @@
 *A long staff of solid gold waits for its owner to reclaim it.*
 
 **Keyword(s):** mummy, kings, sceptre.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Walking
-Woods](:Category:_Walking_Woods "wikilink")' [Walking Woods Plague
-Quest](Walking_Woods_Plague_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")' [Walking Woods Plague
+Quest](Walking_Woods_Plague_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Entangled
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Entangled
 Mummy](Entangled_Mummy "wikilink").  
 See [Entangled Mummy](Entangled_Mummy "wikilink") for more information.
 

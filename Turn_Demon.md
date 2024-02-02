@@ -1,13 +1,14 @@
-*[Demons](Demons "wikilink") and piety don't mix either. When confronted
-with the holy presence of this [spell](:Category:_Spells "wikilink"),
-[Demons](Demons "wikilink") will often [flee](Flee "wikilink") rather
-than fight. This is an area spell.*
+*[Demons](Demons.md "wikilink") and piety don't mix either. When
+confronted with the holy presence of this
+[spell](:Category:_Spells.md "wikilink"), [Demons](Demons.md "wikilink")
+will often [flee](Flee.md "wikilink") rather than fight. This is an area
+spell.*
 
-Prerequisite(s): [Turn Undead](Turn_Undead "wikilink").
+Prerequisite(s): [Turn Undead](Turn_Undead.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'turn demon'.
+Syntax: [cast](Cast.md "wikilink") 'turn demon'.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

@@ -1,21 +1,22 @@
 *Once you've learned this teaching skill, you will be able to teach
-[skills and spells](:Category:_Skills_And_Spells "wikilink") like a
-[guildmaster](:Category:_Trainers "wikilink") up to a certain
-[level](Level "wikilink"). Like a
-[guildmaster](:Category:_Trainers "wikilink"), you only know what your
-guild offers and the more teaching skills you
-[know](Practice "wikilink"), the higher the [level](Level "wikilink") of
-[skills and spells](:Category:_Skills_And_Spells "wikilink") you'll be
-able to teach.*
+[skills and spells](:Category:_Skills_And_Spells.md "wikilink") like a
+[guildmaster](:Category:_Trainers.md "wikilink") up to a certain
+[level](Level.md "wikilink"). Like a
+[guildmaster](:Category:_Trainers.md "wikilink"), you only know what
+your guild offers and the more teaching skills you
+[know](Practice.md "wikilink"), the higher the
+[level](Level.md "wikilink") of [skills and
+spells](:Category:_Skills_And_Spells.md "wikilink") you'll be able to
+teach.*
 
-Prerequisite(s): [Demonstrate](Demonstrate "wikilink").
+Prerequisite(s): [Demonstrate](Demonstrate.md "wikilink").
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink"), like its
-predecessor [Demonstrate](Demonstrate "wikilink"), is rarely used.
+This [skill](:Category:_Skills_And_Spells.md "wikilink"), like its
+predecessor [Demonstrate](Demonstrate.md "wikilink"), is rarely used.
 
-See also [Training Ability](Training_Ability "wikilink").
+See also [Training Ability](Training_Ability.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

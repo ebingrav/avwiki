@@ -7,20 +7,20 @@ patrol.*
 **Keywords:** troll, guard, ?  
 **Scan Description:** The guard is scanning the ground, as if he is
 looking for something.  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink")
-([Map](Obsidian_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** <Interior of the tower>
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:Obsidian_Tower.md "wikilink")
+([Map](Obsidian_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** <Interior of the tower>
+([Cursed](Cursed_Rooms.md "wikilink")).  
 Tower guard wanders.
 
 [Category:Mobs In Obsidian

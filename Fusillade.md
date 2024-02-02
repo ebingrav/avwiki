@@ -1,9 +1,9 @@
 ''This skill increases the number of shots that can be fired in a single
-[scattershot](Scattershot "wikilink") if a
-[sling](:Category:_Slings "wikilink") is used.
+[scattershot](Scattershot.md "wikilink") if a
+[sling](:Category:_Slings.md "wikilink") is used.
 
-`Syntax: none (automatic, see HELP `[`SCATTERSHOT`](Scattershot "wikilink")`)`  
-`Prerequisites: `[`scattershot`](Scattershot "wikilink")
+`Syntax: none (automatic, see HELP `[`SCATTERSHOT`](Scattershot.md "wikilink")`)`  
+`Prerequisites: `[`scattershot`](Scattershot.md "wikilink")
 
 ## Comments
 

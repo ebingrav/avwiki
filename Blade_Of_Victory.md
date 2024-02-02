@@ -7,9 +7,10 @@
 `Blood varying in color from light red to dark black seems to drip`  
 `constantly from the blade.`
 
-**[Commune Bonus](Commune "wikilink"):** experience gain +15% , -5 int
+**[Commune Bonus](Commune.md "wikilink"):** experience gain +15% , -5
+int
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-War](Aspect_-_War "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+War](Aspect_-_War.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

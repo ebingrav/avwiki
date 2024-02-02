@@ -1,29 +1,29 @@
 *This old battle axe still looks sharp.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 8 to 17 (average 12).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by -2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 8 to 17 (average 12).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by -2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** battle axe  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Weight](Object_Weight "wikilink"):** 6 lbs  
-**[Level(s)](Object_Level "wikilink"):** 10  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 10  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
 It is a one handed weapon which does hitting damage.
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Goblin
-King](Goblin_King "wikilink") ([portable](Teleport "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Goblin
+King](Goblin_King "wikilink") ([portable](Teleport.md "wikilink"))  
 See [Goblin King](Goblin_King "wikilink") for more information.
 
 [Category: Gear In Mushroom

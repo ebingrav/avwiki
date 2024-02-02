@@ -17,10 +17,10 @@ to itself.*
 `    ...no...'`
 
 **Keywords:** ent.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** ??.  
 
 ## Gear
@@ -29,13 +29,13 @@ to itself.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A quiet place within the fields
-of destruction ([cursed](Cursed_Rooms "wikilink"),
-[safe](Safe_Rooms "wikilink")).  
-Portal to [stone trickster](Stone_Trickster "wikilink"):
+**[Area](:Category:_Areas.md "wikilink"):** [Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A quiet place within the
+fields of destruction ([cursed](Cursed_Rooms.md "wikilink"),
+[safe](Safe_Rooms.md "wikilink")).  
+Portal to [stone trickster](Stone_Trickster.md "wikilink"):
 
 -   Route 1: ess, pull bloom, 2s, e, s, e, s, e, 3s, d, e, s, u, w, n.
 -   Route 2 (faster and safer way, but goes through private rooms): e,

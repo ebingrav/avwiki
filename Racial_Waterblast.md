@@ -16,7 +16,7 @@ or racial waterblast <direction>
 ## Comments
 
 It appears this will not move mobs with a [steadfast
-(sentinel)](Sentinel_Mobs "wikilink") flag and it will not move mobs in
-the 'up' direction.
+(sentinel)](Sentinel_Mobs.md "wikilink") flag and it will not move mobs
+in the 'up' direction.
 
 [Category: Racials](Category:_Racials "wikilink")

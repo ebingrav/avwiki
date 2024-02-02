@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="moonbay.village.jpg" title="moonbay.village.jpg" width="650"
-alt="moonbay.village.jpg" />
-<figcaption aria-hidden="true">moonbay.village.jpg</figcaption>
+<img src="moonbay.village.jpg.md" title="moonbay.village.jpg.md"
+width="650" alt="moonbay.village.jpg.md" />
+<figcaption aria-hidden="true">moonbay.village.jpg.md</figcaption>
 </figure>
 
 [Eragora Walkways Map](Eragora_Walkways_Map "wikilink")  

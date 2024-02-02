@@ -1,16 +1,16 @@
-*[Druids](:Category:_Druids "wikilink") who
-[practice](Practice "wikilink") this
-[skill](:Category:_Skills_And_Spells "wikilink") may
-[fletch](Fletch "wikilink") [thundercrack
-arrows](Thundercrack_Arrow "wikilink").*
+*[Druids](:Category:_Druids.md "wikilink") who
+[practice](Practice.md "wikilink") this
+[skill](:Category:_Skills_And_Spells.md "wikilink") may
+[fletch](Fletch.md "wikilink") [thundercrack
+arrows](Thundercrack_Arrow.md "wikilink").*
 
 Thundercrackers pack a sonic wallop which goes right through armor and
 shields. They also have a chance of stunning enemies.
 
-Prerequisite(s): [autumn arrow](Autumn_Arrow "wikilink").
+Prerequisite(s): [autumn arrow](Autumn_Arrow.md "wikilink").
 
-Syntax: [fletch](Fletch "wikilink")
-\<[arrows](:Category:_Arrows "wikilink")/[bolts](:Category:_Bolts "wikilink")\>
+Syntax: [fletch](Fletch.md "wikilink")
+\<[arrows](:Category:_Arrows.md "wikilink")/[bolts](:Category:_Bolts.md "wikilink")\>
 thundercrack.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

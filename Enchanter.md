@@ -2,17 +2,17 @@
 guild, it could come in handy in your quest to rule all of Avatar.*
 
 **Keywords:** enchanter.  
-**[Level](Level "wikilink"):** 38.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 38.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `The enchanter is using:`  
-<worn about body>`   (Glowing) `[`magical`` ``aura`](Magical_Aura "wikilink")  
-<wielded>`           (Glowing) `[`staff`` ``of`` ``power`](Staff_Of_Power "wikilink")
+<worn about body>`   (Glowing) `[`magical`` ``aura`](Magical_Aura.md "wikilink")  
+<wielded>`           (Glowing) `[`staff`` ``of`` ``power`](Staff_Of_Power.md "wikilink")
 
 `The enchanter is carrying:`  
 `     Nothing.`
@@ -26,12 +26,12 @@ area is now grandfathered.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In the Tower of Magi
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In the Tower of Magi
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 8s, 2w, 3n, \[n\],
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8s, 2w, 3n, \[n\],
 \[w\], \[n\], u.  
 Walking route from [Guildmaster (mage)](Guildmaster_(mage) "wikilink"):
 d.

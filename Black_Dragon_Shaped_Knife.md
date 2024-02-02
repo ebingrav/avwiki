@@ -6,22 +6,22 @@ its two outstretched wings comprise the guard.*
 ` Modifies hit roll by 10 continuous.`
 
 **Keyword(s):** black, dragon, knife.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** wielded.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** evil, magic,
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** wielded.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** evil, magic,
 nolocate.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Pariah's
-Paradise](:Category:_Pariah's_Paradise "wikilink")
-([Map](Pariah's_Paradise_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Pariah's
+Paradise](:Category:_Pariah's_Paradise.md "wikilink")
+([Map](Pariah's_Paradise_Map.md "wikilink")).  
 
 [Category:Gear In Pariah's
 Paradise](Category:Gear_In_Pariah's_Paradise "wikilink")

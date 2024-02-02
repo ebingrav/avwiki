@@ -28,5 +28,6 @@ perform, adventurers.y be more waiting to be discovered by
 any transmutation before it begins, which is why there are no refunds on
 items spent on the alchemist's work!
 
-''See also: [THE WISE TRAVELERS](:Category:Wise_Travelers "wikilink"),
-[Alchemical Ingredients](:Category:Alchemical_Ingredients "wikilink")
+''See also: [THE WISE
+TRAVELERS](:Category:Wise_Travelers.md "wikilink"), [Alchemical
+Ingredients](:Category:Alchemical_Ingredients.md "wikilink")

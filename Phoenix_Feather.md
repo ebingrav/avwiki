@@ -5,21 +5,21 @@ the ashes of a palm tree.*
   
 *The feathers of this bird are rumored to aid any warrior carrying one.*
 
-`It has an `[`unknown`` ``duration`](Light_Values "wikilink")`.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`
+`It has an `[`unknown`` ``duration`](Light_Values.md "wikilink")`.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** phoenix feather light.  
-**[Level(s)](Object_Level "wikilink"):** 36-38.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [hum](Hum_Flag "wikilink"),
-[invis](Invis_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 36-38.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink"),
+[invis](Invis_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink").  
 
 ## Comments
 
@@ -28,10 +28,10 @@ even without [Detect Invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Nocte
-Abbey](:Category:_Nocte_Abbey "wikilink")
-([Map](Nocte_Abbey_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Hospitaller
+**[Area](:Category:_Areas.md "wikilink"):** [Nocte
+Abbey](:Category:_Nocte_Abbey.md "wikilink")
+([Map](Nocte_Abbey_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Hospitaller
 Dalrymple](Hospitaller_Dalrymple "wikilink").  
 See [Hospitaller Dalrymple](Hospitaller_Dalrymple "wikilink") for more
 information.  

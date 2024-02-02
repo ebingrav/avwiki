@@ -23,7 +23,7 @@ imm assistance)
 `Jaranon smiles happily, then takes scales from the breastplate and wraps them`  
 `around the hilt, whispering spells as he works. Another spell binds the gem`  
 `to the hilt. The completed sword emerges from the mirror hilt first.`  
-`The lich gives you a `[`Jaranon`` ``great`` ``sword`](Jaranon_Great_Sword "wikilink")`!`
+`The lich gives you a `[`Jaranon`` ``great`` ``sword`](Jaranon_Great_Sword.md "wikilink")`!`
 
 [Category:Quests In Tssasskkas's
 Lair](Category:Quests_In_Tssasskkas's_Lair "wikilink") [Category:Hero

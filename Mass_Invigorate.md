@@ -1,12 +1,12 @@
-*This [spell](:Category:_Spells "wikilink") will [cast](Cast "wikilink")
-[invigorate](Invigorate "wikilink") on everyone in the
-[room](:Category:_Rooms "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") will
+[cast](Cast.md "wikilink") [invigorate](Invigorate.md "wikilink") on
+everyone in the [room](:Category:_Rooms.md "wikilink").*
 
-Prerequisite(s): [Invigorate](Invigorate "wikilink").
+Prerequisite(s): [Invigorate](Invigorate.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mass invigorate'.
+Syntax: [cast](Cast.md "wikilink") 'mass invigorate'.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

@@ -1,5 +1,5 @@
-Give [the Great Grunka](Great_Grunka "wikilink") 10 coins to begin your
-lesson. The prize is the [Badge Of
+Give [the Great Grunka](Great_Grunka.md "wikilink") 10 coins to begin
+your lesson. The prize is the [Badge Of
 Completion](Badge_Of_Completion "wikilink"), which is constitution and
 dexterity gear for on body. Must be completed between levels 7 and 19.
 

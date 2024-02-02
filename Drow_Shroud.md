@@ -7,8 +7,8 @@ Armor Class: 6-9
 Flags: evil, magic, anti-good  
 Weight: 3  
 Mob: [Drow Rogue](Drow_Rogue "wikilink")  
-Area: [Flipside Altar](:Category:_Flipside_Altar "wikilink")
-([Map](Flipside_Altar_Map "wikilink"))  
+Area: [Flipside Altar](:Category:_Flipside_Altar.md "wikilink")
+([Map](Flipside_Altar_Map.md "wikilink"))  
 Mob is invis and movehidden.
 
 [Category: Gear In Flipside

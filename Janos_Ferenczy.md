@@ -5,16 +5,16 @@ warped as his general appearance.
 **Keywords:** janos, ferenczy, ??? .  
 **Scan Description:** Janos Ferenczy is here dreaming of new atrocities
 to commit.  
-**[Level](Level "wikilink"):** 54.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink"), ???.  
+**[Level](Level.md "wikilink"):** 54.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink"), ???.  
 **Affects:** none.  
 
 ## Gear
 
 `Janos Ferenczy is using:`  
-<held>`              `[`a`` ``cracked`` ``black`` ``urn`](Cracked_Black_Urn "wikilink")
+<held>`              `[`a`` ``cracked`` ``black`` ``urn`](Cracked_Black_Urn.md "wikilink")
 
 `Janos Ferenczy is carrying:`  
 `     Nothing.`
@@ -25,10 +25,10 @@ to commit.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Wamphyri
-Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Entrance to the Level
+**[Area](:Category:_Areas.md "wikilink"):** [Wamphyri
+Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Entrance to the Level
 Ferenczy  
 Janos Ferenczy is portable.  
 

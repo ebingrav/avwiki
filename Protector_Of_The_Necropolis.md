@@ -13,18 +13,18 @@ announce his presence.*
 **Keywords:** Guardian.  
 **Scan Description:** Haunted by memories, this guard distractedly walks
 into one of the walls.  
-**[Level](Level "wikilink"):** 78.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Drifting](Drifting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 78.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Drifting](Drifting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `Protector Of The Necropolis is using:`  
 <worn on body>`      `[`Glass`` ``Platemail`](Glass_Platemail "wikilink")  
-<worn on feet>`      `[`A`` ``Pair`` ``Of`` ``Cracked`` ``Leather`` ``Boots`](Pair_Of_Cracked_Leather_Boots "wikilink")
+<worn on feet>`      `[`A`` ``Pair`` ``Of`` ``Cracked`` ``Leather`` ``Boots`](Pair_Of_Cracked_Leather_Boots.md "wikilink")
 
 `Protector Of The Necropolis is carrying:`  
 `     Nothing.`
@@ -33,9 +33,9 @@ into one of the walls.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-Protector Of The Necropolis [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+Protector Of The Necropolis [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")

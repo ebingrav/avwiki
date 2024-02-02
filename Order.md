@@ -1,4 +1,4 @@
-See also [Charm Person](Charm_Person "wikilink") and
-[Pets](:Category:_Pets "wikilink").
+See also [Charm Person](Charm_Person.md "wikilink") and
+[Pets](:Category:_Pets.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

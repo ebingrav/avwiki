@@ -1,9 +1,9 @@
 `Click to enlarge.`
 
 <figure>
-<img src="Sun.god.altar.jpg" title="Sun.god.altar.jpg" width="650"
-alt="Sun.god.altar.jpg" />
-<figcaption aria-hidden="true">Sun.god.altar.jpg</figcaption>
+<img src="Sun.god.altar.jpg.md" title="Sun.god.altar.jpg.md" width="650"
+alt="Sun.god.altar.jpg.md" />
+<figcaption aria-hidden="true">Sun.god.altar.jpg.md</figcaption>
 </figure>
 
 [Eragora Walkways Map](Eragora_Walkways_Map "wikilink")  

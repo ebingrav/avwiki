@@ -3,19 +3,19 @@ Sharply shaved, its narrow beard makes the chiseled face all the more
 fierce as he looks at you through cavernous eyes of coal.*
 
 **Keywords:** githzerai, mage.  
-**[Level](Level "wikilink"):** 48.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"),
-[fly](Fly "wikilink").  
+**[Level](Level.md "wikilink"):** 48.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"),
+[fly](Fly.md "wikilink").  
 
 ## Gear
 
 `Zur'lithi is using:`  
-<worn on body>`      `[`a`` ``flowing`` ``dark`` ``blue`` ``robe`](Flowing_Dark_Blue_Robe "wikilink")  
-<worn about waist>`  (Invis) `[`belt`` ``of`` ``sorcery`](Belt_Of_Sorcery "wikilink")
+<worn on body>`      `[`a`` ``flowing`` ``dark`` ``blue`` ``robe`](Flowing_Dark_Blue_Robe.md "wikilink")  
+<worn about waist>`  (Invis) `[`belt`` ``of`` ``sorcery`](Belt_Of_Sorcery.md "wikilink")
 
 `Zur'lithi is carrying:`  
 `     Nothing.`
@@ -34,11 +34,11 @@ He seems to be part of a quest:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Githzerai
-Tower](:Category:_Githzerai_Tower "wikilink")
-([Map](Githzerai_Tower_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Githzerai Portal Room
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [Githzerai
+Tower](:Category:_Githzerai_Tower.md "wikilink")
+([Map](Githzerai_Tower_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Githzerai Portal Room
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 5n, w, 4u.

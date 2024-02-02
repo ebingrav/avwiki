@@ -1,19 +1,19 @@
 *Leggings made out of brassy chainmail lie here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-6.`  
-`Modifies `[`intelligence`](Intelligence "wikilink")` by 3 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-6.`  
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** chainmail, leggings.  
-**[Level(s)](Object_Level "wikilink"):** 22-24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 11 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 22-24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 11 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink").  
 
 ## Comments
 
@@ -37,11 +37,12 @@ Also may be found on a slaver captain:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Thrall
-Swamp](:Category:_Thrall_Swamp "wikilink")
-([Map](Thrall_Swamp_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [an ogre](Ogre "wikilink").  
-See [an ogre](Ogre "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Thrall
+Swamp](:Category:_Thrall_Swamp.md "wikilink")
+([Map](Thrall_Swamp_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [an
+ogre](Ogre.md "wikilink").  
+See [an ogre](Ogre.md "wikilink") for more information.
 
 [Category: Gear In Thrall
 Swamp](Category:_Gear_In_Thrall_Swamp "wikilink") [Category:

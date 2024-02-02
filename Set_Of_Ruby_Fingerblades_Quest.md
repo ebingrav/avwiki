@@ -5,22 +5,22 @@ From pp pod mana:
 
 <!-- -->
 
--   [Kill](Kill "wikilink") the dragon. Warning, it's sanced, and there
-    are two invis aggie avatars(when i did this quest one of the avatars
-    held the journal, not the dragon) of avarice in the same room. Whole
-    area is cursed, so yea, be careful.
+-   [Kill](Kill.md "wikilink") the dragon. Warning, it's sanced, and
+    there are two invis aggie avatars(when i did this quest one of the
+    avatars held the journal, not the dragon) of avarice in the same
+    room. Whole area is cursed, so yea, be careful.
 
 <!-- -->
 
--   [Get](Get "wikilink") [a black torn
-    journal](Black_Torn_Journal "wikilink") from his/her/its corpse.
+-   [Get](Get.md "wikilink") [a black torn
+    journal](Black_Torn_Journal.md "wikilink") from his/her/its corpse.
 
-From [Zikthro](Forgotten_Dragon,_Zikthro "wikilink"):
+From [Zikthro](Forgotten_Dragon,_Zikthro.md "wikilink"):
 
--   [Give](Give "wikilink") [a black torn
-    journal](Black_Torn_Journal "wikilink") to [The Forgotten Dragon,
-    Zikthro](Forgotten_Dragon,_Zikthro "wikilink") and receive [a set of
-    ruby fingerblades](Set_Of_Ruby_Fingerblades "wikilink").
+-   [Give](Give.md "wikilink") [a black torn
+    journal](Black_Torn_Journal.md "wikilink") to [The Forgotten Dragon,
+    Zikthro](Forgotten_Dragon,_Zikthro.md "wikilink") and receive [a set
+    of ruby fingerblades](Set_Of_Ruby_Fingerblades.md "wikilink").
 
 [Category: Quests In Forgotten
 One](Category:_Quests_In_Forgotten_One "wikilink") [Category: Quests In

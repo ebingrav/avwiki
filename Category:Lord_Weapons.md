@@ -2,7 +2,7 @@
     Stick](Crom's_Pointy_Stick "wikilink"). Next best is the 30/30 high
     max [Subjugator](Subjugator "wikilink"). After that it's the [Silver
     Sword](Silver_Sword "wikilink"). Psis sometimes use the [Jaranon
-    great sword](A_Jaranon_great_sword_(Lord) "wikilink"), [Ant
+    great sword](A_Jaranon_great_sword_(Lord).md "wikilink"), [Ant
     Chakram](Ant_Chakram "wikilink") or [Pure
     Psi-Blade](Pure_Psi-Blade "wikilink"). If you can transmute any
     these weapons you can offhand one as well.
@@ -11,7 +11,7 @@
     optimization, otherwise the [Gray Staff](Gray_Staff "wikilink") and
     the [Katar Forged From
     Kzintium](Katar_Forged_From_Kzintium "wikilink") are best.
--   For [bladedancers](:Category:Bladedancers "wikilink") hitting the
+-   For [bladedancers](:Category:Bladedancers.md "wikilink") hitting the
     best cutting (slicing or slashing) weapon of low enough weight is
     the [Sword Of Ascension](Sword_Of_Ascension "wikilink") (weight 5,
     +18dr/hr). A one-handed slicing weapon called
@@ -34,39 +34,40 @@
     piercer.
 -   Double hit weapons: Best double hit weapon is [Grantok's Grate
     Klub](Grantok's_Grate_Klub "wikilink") ([double
-    weapon](:Category:Double_Weapons "wikilink")): 2/2 hr/dr better than
-    others, grants a 5% extra attack bonus and has a damage range of
-    120-125. [Sword Of Yorimandil,
+    weapon](:Category:Double_Weapons.md "wikilink")): 2/2 hr/dr better
+    than others, grants a 5% extra attack bonus and has a damage range
+    of 120-125. [Sword Of Yorimandil,
     Restored](Sword_Of_Yorimandil,_Restored "wikilink"), ([double
-    weapon](:Category:Double_Weapons "wikilink")) and the [Chain Of
+    weapon](:Category:Double_Weapons.md "wikilink")) and the [Chain Of
     Thorns](Chain_Of_Thorns "wikilink") ([chain
-    weapon](:Category:Chain_Weapons "wikilink")) are both 20/40 with a
-    damage range 101-105. Which type (double or chain) is better depends
-    on whether you prefer the disarm bonus of the chain or the ability
-    to parry & riposte with the double-headed weapon. After those, the
-    next best is the [Iron Barbed Flail](Iron_Barbed_Flail "wikilink").
+    weapon](:Category:Chain_Weapons.md "wikilink")) are both 20/40 with
+    a damage range 101-105. Which type (double or chain) is better
+    depends on whether you prefer the disarm bonus of the chain or the
+    ability to parry & riposte with the double-headed weapon. After
+    those, the next best is the [Iron Barbed
+    Flail](Iron_Barbed_Flail "wikilink").
 -   The [Pick Of The Mastador](Pick_Of_The_Mastador "wikilink") is a
     two-handed sharpenable 10/40 weapon which does NOT do double hit,
     but could be used by a powerswing race.
 -   The best bzk weapon is [Silver Githyanki
-    Staff](Silver_Staff_(Weapon) "wikilink") (32 dr). It requires a
+    Staff](Silver_Staff_(Weapon).md "wikilink") (32 dr). It requires a
     demonic gem from [ Bo'Vul's
-    Vault](:Category:_Bo'Vul's_Vault "wikilink"). 1st tier bzk weapon is
-    the [Staff Of Karnath](Staff_Of_Karnath "wikilink") (25 dr). 2nd
+    Vault](:Category:_Bo'Vul's_Vault.md "wikilink"). 1st tier bzk weapon
+    is the [Staff Of Karnath](Staff_Of_Karnath "wikilink") (25 dr). 2nd
     tier is the [Staff Of The Lower
     Planes](Staff_Of_The_Lower_Planes "wikilink"). 3rd tier is the
     [Staff Of Prophecy](Staff_Of_Prophecy "wikilink").
 -   Hafted weapons are [Heavily Tarnished
     Scythe](Heavily_Tarnished_Scythe "wikilink") from [ Patriarchs'
-    Gulch](:Category:_Patriarchs'_Gulch "wikilink") (25 dr), [Glass
+    Gulch](:Category:_Patriarchs'_Gulch.md "wikilink") (25 dr), [Glass
     Halberd](Glass_Halberd "wikilink") (20 dr) from [ Citadel
-    Arcadia](:Category:_Citadel_Arcadia "wikilink"), [The Sting that
+    Arcadia](:Category:_Citadel_Arcadia.md "wikilink"), [The Sting that
     Time Forgot](The_Sting_that_Time_Forgot "wikilink") (40 dr) from [
-    Memory Lane](:Category:_Memory_Lane "wikilink").
+    Memory Lane](:Category:_Memory_Lane.md "wikilink").
 
 <!-- -->
 
--   The best weapon for [Paladin](:Category:_Paladins "wikilink") is
+-   The best weapon for [Paladin](:Category:_Paladins.md "wikilink") is
     most likely the Greatsword (35hr/35dr and up to 3 bonuses) provided
     by [Aleryia](Aleryia "wikilink"). For the lord variation, Simply
     remake it using the information contained on the sign in
@@ -74,332 +75,103 @@
 
 **Lord Weapons Table**
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>Name</strong></p></td>
-<td><p><strong><a href="Damage_Roll"
-title="wikilink">DR</a></strong></p></td>
-<td><p><strong><a href="Hit_Roll"
-title="wikilink">HR</a></strong></p></td>
-<td><p><strong><a href="Object_Weight"
-title="wikilink">Weight</a></strong></p></td>
-<td><p><strong>Weapon Type</strong></p></td>
-<td><p><strong>Damage Type</strong></p></td>
-<td><p><strong>Notes</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Crom&#39;s_Pointy_Stick" title="wikilink">Crom's Pointy
-Stick</a></p></td>
-<td><p>35</p></td>
-<td><p>35</p></td>
-<td><p>1</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Stab"
-title="wikilink">Stabbing</a></p></td>
-<td><p>max 121 - 125</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Subjugator" title="wikilink">Subjugator</a></p></td>
-<td><p>30</p></td>
-<td><p>30</p></td>
-<td><p>11</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Whip"
-title="wikilink">Whipping</a></p></td>
-<td><p>max 110</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Silver_Sword" title="wikilink">Silver Sword</a></p></td>
-<td><p>30</p></td>
-<td><p>30</p></td>
-<td><p>22</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Slice"
-title="wikilink">Slicing</a></p></td>
-<td><p><a href="Strength" title="wikilink">str</a> +5</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Lonewolf&#39;s_Claw" title="wikilink">Lonewolf's
-Claw</a></p></td>
-<td><p>30</p></td>
-<td><p>25</p></td>
-<td><p>15</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td><p>max 121-125</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Ancient_Dragon_Claw" title="wikilink">Ancient Dragon
-Claw</a></p></td>
-<td><p>25</p></td>
-<td><p>20</p></td>
-<td><p>15</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Long,_Glinting_Knife" title="wikilink">Long, Glinting
-Knife</a></p></td>
-<td><p>25</p></td>
-<td><p>20</p></td>
-<td><p>3</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="assassin&#39;s_blade_(Lord)" title="wikilink">assassin's
-blade</a></p></td>
-<td><p>22</p></td>
-<td><p>22</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td><p>Modifies stealth by + 5% continuous</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="A_Jaranon_great_sword_(Lord)" title="wikilink">Jaranon
-Great Sword</a></p></td>
-<td><p>22</p></td>
-<td><p>22</p></td>
-<td><p>20</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Slice"
-title="wikilink">Slicing</a></p></td>
-<td><p>+15 kdr, 10% chance to negate psi spell failure<br />
-10% chance to reduce psi spell lag.</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Ruby_Dagger" title="wikilink">Ruby Dagger</a></p></td>
-<td><p>22</p></td>
-<td><p>22</p></td>
-<td><p>3</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td><p><a href="Strength" title="wikilink">str</a> +3</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="a_girtablilu_stinger" title="wikilink">a girtablilu
-stinger</a></p></td>
-<td><p>20</p></td>
-<td><p>20</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="Stiletto_&quot;Poignant_Memories&quot;"
-title="wikilink">Stiletto "Poignant Memories"</a></p></td>
-<td><p>22</p></td>
-<td><p>11</p></td>
-<td><p>4</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pierce"
-title="wikilink">Piercing</a></p></td>
-<td><p><a href="Armor_Class" title="wikilink">AC</a> -18</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Sword_Of_Yorimandil,_Restored" title="wikilink">Sword Of
-Yorimandil, Restored</a></p></td>
-<td><p>40</p></td>
-<td><p>20</p></td>
-<td><p>3</p></td>
-<td><p><a href=":Category:Double_Weapons"
-title="wikilink">Double</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Slice"
-title="wikilink">Slicing</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="Chain_Of_Thorns" title="wikilink">Chain Of
-Thorns</a></p></td>
-<td><p>40</p></td>
-<td><p>20</p></td>
-<td><p>25</p></td>
-<td><p><a href=":Category:Chain_Weapons"
-title="wikilink">Chain</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Slash"
-title="wikilink">Slashing</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Iron_Barbed_Flail" title="wikilink">Iron Barbed
-Flail</a></p></td>
-<td><p>20</p></td>
-<td><p>-10</p></td>
-<td><p>12</p></td>
-<td><p><a href=":Category:Chain_Weapons"
-title="wikilink">Chain</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Claw"
-title="wikilink">Clawing</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="Silver_Staff_(Weapon)" title="wikilink">Silver Githyanki
-Staff</a></p></td>
-<td><p>32</p></td>
-<td><p>32</p></td>
-<td><p>20</p></td>
-<td><p><a href=":Category:Double_Weapons"
-title="wikilink">Double</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pound"
-title="wikilink">Pounding</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Staff_Of_Karnath" title="wikilink">Staff Of
-Karnath</a></p></td>
-<td><p>25</p></td>
-<td><p>25</p></td>
-<td><p>10</p></td>
-<td><p><a href=":Category:Double_Weapons"
-title="wikilink">Double</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pound"
-title="wikilink">Pounding</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="Staff_Of_The_Lower_Planes" title="wikilink">Staff Of The
-Lower Planes</a></p></td>
-<td><p>20</p></td>
-<td><p>15</p></td>
-<td><p>18</p></td>
-<td><p><a href=":Category:Double_Weapons"
-title="wikilink">Double</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pound"
-title="wikilink">Pounding</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Staff_Of_Prophecy" title="wikilink">Staff Of
-Prophecy</a></p></td>
-<td><p>20</p></td>
-<td><p>0</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Double_Weapons"
-title="wikilink">Double</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Pound"
-title="wikilink">Pounding</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="Pure_Psi-Blade" title="wikilink">Pure
-Psi-Blade</a></p></td>
-<td><p>10</p></td>
-<td><p>10</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Ethereal_Weapons"
-title="wikilink">Ethereal</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Slash"
-title="wikilink">Slashing</a></p></td>
-<td><p>+20 kinetic damage roll</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Ant_Antenna" title="wikilink">Ant Antenna</a></p></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
-<td><p>5</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p>Blasting</p></td>
-<td><p>10% chance of halved spell cost</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Ant_Chakram" title="wikilink">Ant Chakram</a></p></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p>Slicing</p></td>
-<td><p>30 KDR, 10% chance of reduced lag on psionic spells</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Eye_Of_The_Oni" title="wikilink">Eye of the
-Oni</a></p></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p>Pounding</p></td>
-<td><p>25% chance of +10 caster level of arcane spells</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Protection_Of_Kings" title="wikilink">The Protection of
-Kings</a></p></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
-<td><p>2</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p>Pounding</p></td>
-<td><p>10% chance of reduced lag of arcane spells continuous</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Chaotic_Wand" title="wikilink">Chaotic Wand</a></p></td>
-<td><p>5</p></td>
-<td><p>5</p></td>
-<td><p>1</p></td>
-<td><p><a href=":Category:Standard_One-Handed_Weapons"
-title="wikilink">One-Handed</a></p></td>
-<td><p>Blasting</p></td>
-<td><p>5% chance of reduced lag of all spells continuous</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="&quot;Howl,_the_Windhammer&quot;"
-title="wikilink">"Howl, the Windhammer"</a></p></td>
-<td><p>25</p></td>
-<td><p>0</p></td>
-<td><p>10</p></td>
-<td><p><a href=":Category:Standard_Two-Handed_Weapons"
-title="wikilink">Two-Handed</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Crush"
-title="wikilink">Crushing</a></p></td>
-<td><p>m116 from Airscape</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Grantok&#39;s_Grate_Klub" title="wikilink">Grantok's
-Grate Klub</a></p></td>
-<td><p>42</p></td>
-<td><p>22</p></td>
-<td><p>30</p></td>
-<td><p><a href=":Category:Double_Weapons"
-title="wikilink">Double</a></p></td>
-<td><p><a href=":Category:Melee_Weapons_That_Slice"
-title="wikilink">Slicing</a></p></td>
-<td><p>5% extra attack chance</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+{.md\| class="sortable" border="2" cellpadding="2" cellspacing="0"
+align="center" style="text-align:center" \|- \| **Name** \|
+**[DR](Damage_Roll "wikilink")** \| **[HR](Hit_Roll.md "wikilink")** \|
+**[Weight](Object_Weight.md "wikilink")** \| **Weapon Type** \| **Damage
+Type** \| **Notes** \|- \| [Crom's Pointy
+Stick](Crom's_Pointy_Stick "wikilink") .md\| 35 \| 35 \| 1 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Stabbing](:Category:Melee_Weapons_That_Stab.md "wikilink") \| max 121 -
+125 \|- \| [Subjugator](Subjugator "wikilink") .md\| 30 \| 30 \| 11 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Whipping](:Category:Melee_Weapons_That_Whip.md "wikilink") \| max 110
+\|- \| [Silver Sword](Silver_Sword "wikilink") .md\| 30 \| 30 \| 22 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Slicing](:Category:Melee_Weapons_That_Slice.md "wikilink") \|
+[str](Strength.md "wikilink") +5 \|- \| [Lonewolf's
+Claw](Lonewolf's_Claw "wikilink") .md\| 30 \| 25 \| 15 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \| max
+121-125 \|- \| [Ancient Dragon Claw](Ancient_Dragon_Claw "wikilink")
+.md\| 25 \| 20 \| 15 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \| \|- \|
+[Long, Glinting Knife](Long,_Glinting_Knife "wikilink") .md\| 25 \| 20
+\| 3 \| [One-Handed](:Category:Standard_One-Handed_Weapons "wikilink")
+\| [Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \| \|-
+\| [assassin's blade](assassin's_blade_(Lord).md "wikilink") \| 22 \| 22
+\| 2 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons.md "wikilink") \|
+[Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \|
+Modifies stealth by + 5% continuous \|- \| [Jaranon Great
+Sword](A_Jaranon_great_sword_(Lord).md "wikilink") \| 22 \| 22 \| 20 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons.md "wikilink") \|
+[Slicing](:Category:Melee_Weapons_That_Slice.md "wikilink") \| +15 kdr,
+10% chance to negate psi spell failure  
+10% chance to reduce psi spell lag. \|- \| [Ruby
+Dagger](Ruby_Dagger "wikilink") .md\| 22 \| 22 \| 3 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \|
+[str](Strength.md "wikilink") +3 \|- \| [a girtablilu
+stinger](a_girtablilu_stinger "wikilink") .md\| 20 \| 20 \| 2 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \| \|- \|
+[Stiletto "Poignant Memories"](Stiletto_"Poignant_Memories" "wikilink")
+.md\| 22 \| 11 \| 4 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+[Piercing](:Category:Melee_Weapons_That_Pierce.md "wikilink") \|
+[AC](Armor_Class.md "wikilink") -18 \|- \| [Sword Of Yorimandil,
+Restored](Sword_Of_Yorimandil,_Restored "wikilink") .md\| 40 \| 20 \| 3
+\| [Double](:Category:Double_Weapons "wikilink") \|
+[Slicing](:Category:Melee_Weapons_That_Slice.md "wikilink") \| \|- \|
+[Chain Of Thorns](Chain_Of_Thorns "wikilink") .md\| 40 \| 20 \| 25 \|
+[Chain](:Category:Chain_Weapons "wikilink") \|
+[Slashing](:Category:Melee_Weapons_That_Slash.md "wikilink") \| \|- \|
+[Iron Barbed Flail](Iron_Barbed_Flail "wikilink") .md\| 20 \| -10 \| 12
+\| [Chain](:Category:Chain_Weapons "wikilink") \|
+[Clawing](:Category:Melee_Weapons_That_Claw.md "wikilink") \|
+
+\|- \| [Silver Githyanki Staff](Silver_Staff_(Weapon).md "wikilink") \|
+32 \| 32 \| 20 \| [Double](:Category:Double_Weapons.md "wikilink") \|
+[Pounding](:Category:Melee_Weapons_That_Pound.md "wikilink") \|
+
+\|- \| [Staff Of Karnath](Staff_Of_Karnath "wikilink") .md\| 25 \| 25 \|
+10 \| [Double](:Category:Double_Weapons "wikilink") \|
+[Pounding](:Category:Melee_Weapons_That_Pound.md "wikilink") \| \|- \|
+[Staff Of The Lower Planes](Staff_Of_The_Lower_Planes "wikilink") .md\|
+20 \| 15 \| 18 \| [Double](:Category:Double_Weapons "wikilink") \|
+[Pounding](:Category:Melee_Weapons_That_Pound.md "wikilink") \| \|- \|
+[Staff Of Prophecy](Staff_Of_Prophecy "wikilink") .md\| 20 \| 0 \| 2 \|
+[Double](:Category:Double_Weapons "wikilink") \|
+[Pounding](:Category:Melee_Weapons_That_Pound.md "wikilink") \| \|- \|
+[Pure Psi-Blade](Pure_Psi-Blade "wikilink") .md\| 10 \| 10 \| 2 \|
+[Ethereal](:Category:Ethereal_Weapons "wikilink") \|
+[Slashing](:Category:Melee_Weapons_That_Slash.md "wikilink") \| +20
+kinetic damage roll \|- \| [Ant Antenna](Ant_Antenna "wikilink") .md\| 0
+\| 0 \| 5 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+Blasting \| 10% chance of halved spell cost \|- \| [Ant
+Chakram](Ant_Chakram "wikilink") .md\| 0 \| 0 \| 2 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+Slicing \| 30 KDR, 10% chance of reduced lag on psionic spells \|- \|
+[Eye of the Oni](Eye_Of_The_Oni.md "wikilink") \| 0 \| 0 \| 2 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons.md "wikilink") \|
+Pounding \| 25% chance of +10 caster level of arcane spells \|- \| [The
+Protection of Kings](Protection_Of_Kings.md "wikilink") \| 0 \| 0 \| 2
+\| [One-Handed](:Category:Standard_One-Handed_Weapons.md "wikilink") \|
+Pounding \| 10% chance of reduced lag of arcane spells continuous \|- \|
+[Chaotic Wand](Chaotic_Wand "wikilink") .md\| 5 \| 5 \| 1 \|
+[One-Handed](:Category:Standard_One-Handed_Weapons "wikilink") \|
+Blasting \| 5% chance of reduced lag of all spells continuous \|-
+\|["Howl, the Windhammer"]("Howl,_the_Windhammer" "wikilink") .md\| 25
+\| 0 \| 10 \|
+[Two-Handed](:Category:Standard_Two-Handed_Weapons "wikilink") \|
+[Crushing](:Category:Melee_Weapons_That_Crush.md "wikilink") \| m116
+from Airscape \|- \| [Grantok's Grate
+Klub](Grantok's_Grate_Klub "wikilink") .md\| 42 \| 22 \| 30 \|
+[Double](:Category:Double_Weapons "wikilink") \|
+[Slicing](:Category:Melee_Weapons_That_Slice.md "wikilink") \| 5% extra
+attack chance \|- \|}
 
 [Category:Lord Hit Gear](Category:Lord_Hit_Gear "wikilink")

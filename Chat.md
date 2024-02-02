@@ -1,4 +1,4 @@
-See also [Chat Channel](Chat_Channel "wikilink").
+See also [Chat Channel](Chat_Channel.md "wikilink").
 
 [Category: Communication
 Commands](Category:_Communication_Commands "wikilink")

@@ -10,10 +10,10 @@ can also learn at hero sublevel 500.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")
-([Map](Exploration_Outpost_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Undead Sorcerer
+**[Area](:Category:_Areas.md "wikilink"):** [Exploration
+Outpost](:Category:_Exploration_Outpost.md "wikilink")
+([Map](Exploration_Outpost_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Undead Sorcerer
 Quiros](Undead_Sorcerer_Quiros "wikilink").  
 See [Deep-Sea Diver Quest](Deep-Sea_Diver_Quest "wikilink") for more
 information.  

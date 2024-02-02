@@ -2,18 +2,18 @@
 covered with a shiny black lacquer that makes it harder than any
 material you have ever seen before.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 7 to 24 (average 15).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 7 to 24 (average 15).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** reed spear.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -24,10 +24,10 @@ hero mobs, level 51.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Garrison
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Garrison
 Soldier](Garrison_Soldier "wikilink"), [Gate
 Guard](Gate_Guard "wikilink"), [Royal
 Bodyguard](Royal_Bodyguard "wikilink"), [Royal Chamber

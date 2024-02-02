@@ -1,8 +1,8 @@
 This quest confers the [Eragora - The Abolisher
 Insignia](Eragora_-_The_Abolisher_Insignia "wikilink") or [Eragora -
 Slave Hunter Insignia](Eragora_-_Slave_Hunter_Insignia "wikilink"), and
-is located within [Rapture](:Category:Rapture "wikilink") on
-[Eragora](:Category:Eragora "wikilink").
+is located within [Rapture](:Category:Rapture.md "wikilink") on
+[Eragora](:Category:Eragora.md "wikilink").
 
 To start, talk to [Grek'gor](Grek'gor "wikilink") and/or [Barol
 Kleft](Barol_Kleft "wikilink") and pick a side. pp raccoon, 2wnew.

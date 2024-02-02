@@ -1,7 +1,7 @@
 ## Directions
 
-Wander around in [Nothing](:Category:Nothing "wikilink") looking for the
-portal.
+Wander around in [Nothing](:Category:Nothing.md "wikilink") looking for
+the portal.
 
 ## Connections
 

@@ -6,9 +6,9 @@
 Slot: neck  
 Flags: dark, evil  
 Weight: 5  
-Plane: [Astral](:Category:_Astral "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
 Area: [Tssasskkas's Lair
-Redux](:Category:Tssasskkas's_Lair_Redux "wikilink")  
+Redux](:Category:Tssasskkas's_Lair_Redux.md "wikilink")  
 Mob: TBD  
 
 ## Comments

@@ -4,30 +4,30 @@
 `be inedible.`
 
 **Keyword(s):** sulfurous ashes pile yellowish  
-**[Level(s)](Object_Level "wikilink"):** 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink").
-There is also a [ lord version](Sulfurous_Ashes_(Lord) "wikilink") of
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink").
+There is also a [ lord version](Sulfurous_Ashes_(Lord).md "wikilink") of
 both this and [Consecrated Ashes](Consecrated_Ashes "wikilink").
 
 The ashes disappear with your corpse when you die.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:Rooms "wikilink"):** [Before An Enchanted
-Painting](Before_An_Enchanted_Painting_(Necropolis) "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:Rooms.md "wikilink"):** [Before An Enchanted
+Painting](Before_An_Enchanted_Painting_(Necropolis).md "wikilink").
 
 From [Mourning Drow](Mourning_Drow "wikilink"): 3w n d \[d\] n w 7s 2d
 w. The item is on a [Dark Ring Of Ice-Blue

@@ -1,4 +1,4 @@
-![](Nexus.png "Nexus.png")
+![](Nexus.png.md "Nexus.png.md")
 
   
 *The chaos of the planes crystallizes here: elements, emotions and
@@ -19,7 +19,7 @@ whom they exist.*
 
 </center>
 
-![](Nexussub.png "Nexussub.png")
+![](Nexussub.png.md "Nexussub.png.md")
 
 <table>
 <tbody>

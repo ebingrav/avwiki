@@ -9,19 +9,20 @@ make up for it as it travels faster than a horse can run. This is death
 for you, adventurous hero.*  
   
 **Keywords:** Gremblingadorim, Dragon.  
-**[Level](Level "wikilink"):** 40.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Skinnable](Skin-Item_Mobs "wikilink").  
-**Affects:** [Detect Hidden](Detect_Hidden "wikilink"), [Detect
-Invis](Detect_Invis "wikilink"), [Infravision](Infravision "wikilink"),
+**[Level](Level.md "wikilink"):** 40.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Skinnable](Skin-Item_Mobs.md "wikilink").  
+**Affects:** [Detect Hidden](Detect_Hidden.md "wikilink"), [Detect
+Invis](Detect_Invis.md "wikilink"),
+[Infravision](Infravision "wikilink"),
 [Sanctuary](Sanctuary "wikilink").
 
 ## Directions
 
 Gremblingadorim is portable, and wanders throughout
-[Wildwood](Wildwood "wikilink").  
+[Wildwood](Wildwood.md "wikilink").  
 
 ## Gear
 

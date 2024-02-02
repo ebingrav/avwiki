@@ -7,15 +7,16 @@
 Slot: wield + offhand  
 Flags: glow evil magic anti-good nolocate  
 Weight: 10  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Silent Sphinx](:Category:Silent_Sphinx "wikilink")  
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Silent Sphinx](:Category:Silent_Sphinx.md "wikilink")  
 Mob: [Fluent The Wise](Fluent_The_Wise "wikilink")  
 i think m105 is max damage this pops at.
 
 ------------------------------------------------------------------------
 
-See [Gear In Silent Sphinx](:Category:Gear_In_Silent_Sphinx "wikilink")
-for more information.
+See [Gear In Silent
+Sphinx](:Category:Gear_In_Silent_Sphinx.md "wikilink") for more
+information.
 
 [Category:Lord Weapons](Category:Lord_Weapons "wikilink") [Category:Gear
 In Silent Sphinx](Category:Gear_In_Silent_Sphinx "wikilink")

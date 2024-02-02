@@ -5,13 +5,13 @@ in a meditative pose, communing with the winds around her. If you aren't
 a cloud, it is unlikely she will have much to say to you.*
 
 **Keywords:** Yazimetra, human, woman.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -29,12 +29,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Airways](:Category:_Airways "wikilink")
-([Map](Airways_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In the Air... (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 7e, \[e\], \[u\],
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Airways](:Category:_Airways.md "wikilink")
+([Map](Airways_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In the Air... (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 7e, \[e\], \[u\],
 2u, 2n, e.  
 Yazimetra is portable.  
 

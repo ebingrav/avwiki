@@ -9,8 +9,8 @@ Flags: dark evil magic anti-good anti-neutral nolocate
 Weight: 15  
 Hitpoints: 500  
 Keywords: rod wicked lordgear  
-Plane: [Firerealm](:Category:Firerealm "wikilink") ??  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink") ??  
+Plane: [Firerealm](:Category:Firerealm.md "wikilink") ??  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink") ??  
 Mob: [Valarauco](Valarauco "wikilink") and
 [Malarauko](Malarauko "wikilink"), often portalable
 

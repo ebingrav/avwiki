@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Ascension"
+<td><p><a href=":Category:Ascension.md"
 title="wikilink">Ascension</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Ascension"
+<td><p>(<a href=":Category:Gear_In_Ascension.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>
@@ -22,8 +22,8 @@ title="wikilink">Gear</a>)</p></td>
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Nexus_of_the_Crisis" title="wikilink">Nexus of
-the Crisis</a></p></td>
+<td><p><a href=":Category:Nexus_of_the_Crisis.md" title="wikilink">Nexus
+of the Crisis</a></p></td>
 </tr>
 </tbody>
 </table></td>

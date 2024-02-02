@@ -1,6 +1,6 @@
-*[Open Hand](Open_Hand "wikilink") Fifth Attack.*
+*[Open Hand](Open_Hand.md "wikilink") Fifth Attack.*
 
-Prerequisite(s): [Serpent Technique](Serpent_Technique "wikilink").
+Prerequisite(s): [Serpent Technique](Serpent_Technique.md "wikilink").
 
 Syntax: none (automatic).
 

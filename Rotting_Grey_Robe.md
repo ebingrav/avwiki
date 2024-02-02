@@ -1,19 +1,19 @@
 *A pile of cloth lies on the floor, rotten and stinking of disease.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
-`'`[`plague`](Plague "wikilink")`         '  continuous`  
-`Modifies `[`strength`](Strength "wikilink")` by -2 continuous.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 70 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
+`'`[`plague`](Plague.md "wikilink")`         '  continuous`  
+`Modifies `[`strength`](Strength.md "wikilink")` by -2 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 70 continuous.`
 
 **Keyword(s):** robe rotting grey cloth pile.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -25,10 +25,10 @@ those - not to mention a lot easier to get either of them.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Apocalypse](:Category:_Apocalypse "wikilink")
-([Map](Apocalypse_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[Apocalypse](:Category:_Apocalypse.md "wikilink")
+([Map](Apocalypse_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Pestilence](Pestilence "wikilink").  
 See [Pestilence](Pestilence "wikilink") for more information.  
 

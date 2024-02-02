@@ -2,17 +2,17 @@
 you in a defensive pose.*
 
 **Keywords:** mother, harpy.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The mother harpy is using:`  
-<worn around neck>`  `[`a`` ``gold`` ``locket`](Gold_Locket "wikilink")
+<worn around neck>`  `[`a`` ``gold`` ``locket`](Gold_Locket.md "wikilink")
 
 `The mother harpy is carrying:`  
 `     Nothing.`
@@ -25,10 +25,10 @@ Tunnels](Map_Of_Lloth's_Peak_Tunnels "wikilink") upon recieving the
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Lloth's
-Peak](:Category:_Lloth's_Peak "wikilink")
-([Map](Lloth's_Peak_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Shiny cave (portable)
+**[Area](:Category:_Areas.md "wikilink"):** [Lloth's
+Peak](:Category:_Lloth's_Peak.md "wikilink")
+([Map](Lloth's_Peak_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Shiny cave (portable)
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 6w,
 4n, w, u, 2s, w, s, 2w, 4u, n, d, w, 2d, 2e, s, 2e, n, d, 2n, d, e, s,

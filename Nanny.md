@@ -2,11 +2,11 @@
 However, it appears that there is still some fight left in her.*  
 
 ` The nanny is using:`  
-`   `<worn about body>`      `[`a`` ``linen`` ``robe`](Linen_Robe "wikilink")
+`   `<worn about body>`      `[`a`` ``linen`` ``robe`](Linen_Robe.md "wikilink")
 
 ` You peek at the inventory`  
-`     `[`a`` ``juicy`` ``steak`](Juicy_Steak "wikilink")  
-`     `[`an`` ``amber`` ``potion`](Amber_Potion "wikilink")
+`     `[`a`` ``juicy`` ``steak`](Juicy_Steak.md "wikilink")  
+`     `[`an`` ``amber`` ``potion`](Amber_Potion.md "wikilink")
 
 Portal Point: Nanny
 

@@ -1,24 +1,25 @@
 *A sparkling topaz rolls around on the floor here.*
 
-`Level 31 spells of: '`[`cure`` ``light`](Cure_Light "wikilink")`' '`[`armor`](Armor_(spell) "wikilink")`' '`[`dispel`` ``magic`](Dispel_Magic "wikilink")`'.`
+`Level 31 spells of: '`[`cure`` ``light`](Cure_Light.md "wikilink")`' '`[`armor`](Armor_(spell).md "wikilink")`' '`[`dispel`` ``magic`](Dispel_Magic.md "wikilink")`'.`
 
 **Keyword(s):** topaz pill.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Art of Jewels.  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Art of Jewels.  
 Walking directions from [Aelmon](Aelmon "wikilink"): 5s, 2e, 2s, w, n,
 u, \[n\], 3n, e.
 

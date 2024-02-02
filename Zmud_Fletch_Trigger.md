@@ -16,9 +16,9 @@ trigger off which is also bound to F4.
 
 **Warning.** It is advised to be at keyboard while using this trigger,
 it also possibly falls foul of the gear collecting rule of [help
-trigger](Trigger-Using_Policy "wikilink"). This is why it is not fully
-automated with sleeping when out of mana, wearing a fletch kit if you
-run out, etc.
+trigger](Trigger-Using_Policy.md "wikilink"). This is why it is not
+fully automated with sleeping when out of mana, wearing a fletch kit if
+you run out, etc.
 
 ## Code
 

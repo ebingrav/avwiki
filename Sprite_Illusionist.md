@@ -2,16 +2,16 @@
 illusionist bites his lip and behaves in court.*
 
 **Keywords:** sprite, illusionist.  
-**[Level](Level "wikilink"):** 14.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink").  
-**Affects:** [invis](Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 14.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [invis](Invis.md "wikilink").  
 
 ## Gear
 
 `A sprite illusionist is using:`  
-<worn on legs>`      `[`pants`` ``of`` ``Illusion`](Pants_Of_Illusion "wikilink")
+<worn on legs>`      `[`pants`` ``of`` ``Illusion`](Pants_Of_Illusion.md "wikilink")
 
 `A sprite illusionist is carrying:`  
 `     Nothing.`
@@ -20,10 +20,10 @@ illusionist bites his lip and behaves in court.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sarphyre's
-Court](:Category:_Sarphyre's_Court "wikilink")
-([Map](Sarphyre's_Court_Map "wikilink")).  
-A sprite illusionist [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Sarphyre's
+Court](:Category:_Sarphyre's_Court.md "wikilink")
+([Map](Sarphyre's_Court_Map.md "wikilink")).  
+A sprite illusionist [wanders](Wandering_Mobs.md "wikilink").
 
 A sprite illusionist is portable.  
 

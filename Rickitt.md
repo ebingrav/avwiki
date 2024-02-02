@@ -2,9 +2,9 @@
 
 **Keywords:** rickitt.  
 **Scan Description:** A disinterested halfling glares at you.  
-**[Level](Level "wikilink"):** 105.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?.  
+**[Level](Level.md "wikilink"):** 105.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?.  
 **Affects:** Translucent, Sanctuary.  
 
 ## Gear
@@ -18,14 +18,14 @@
 ## Comments
 
 The robe he has is 1 of 3 tickets needed for the
-[Aculeopteron](aculeopteron "wikilink").
+[Aculeopteron](aculeopteron.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Aculeata
-Jatha-La](:Category:_Aculeata_Jatha-La "wikilink")
-([Map](Aculeata_Jatha-La_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Ponderous Flowers (Cursed)
+**[Area](:Category:_Areas.md "wikilink"):** [Aculeata
+Jatha-La](:Category:_Aculeata_Jatha-La.md "wikilink")
+([Map](Aculeata_Jatha-La_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Ponderous Flowers (Cursed)
 
 [Category:Mobs In Aculeata
 Jatha-La](Category:Mobs_In_Aculeata_Jatha-La "wikilink")

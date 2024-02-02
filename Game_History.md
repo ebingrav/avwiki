@@ -2,30 +2,31 @@
 
 -   **2023 October:** New spell [Castigate
     Undead](Castigate_Undead "wikilink"). New lord plane
-    [Horavacui](:Category:Horavacui "wikilink"). HiE to Drider
+    [Horavacui](:Category:Horavacui.md "wikilink"). HiE to Drider
     [rebirth](rebirth "wikilink") option added.
     [Insight](Insight "wikilink") can now target user-created
     portals/nexus. [Hive Mind](Hive_Mind "wikilink") has been expanded
     with additional affects. New
-    [mnd](:Category:_Mindbenders "wikilink") spell
+    [mnd](:Category:_Mindbenders.md "wikilink") spell
     [Enigma](Enigma "wikilink") added.
 -   **2023 September:** The contest area [A Private
-    Hell](:Category:A_Private_Hell "wikilink") was added back.
+    Hell](:Category:A_Private_Hell.md "wikilink") was added back.
     [Driders](Driders "wikilink") become available via normal remort.
     [Clarify](Clarify "wikilink") now clears INT debuff from
     [rupture](rupture "wikilink").
 -   **2023 August:** Two contest areas were updated and moved to
     permanent homes ([Ruin Of The
-    Arcanists](:Category:Ruin_Of_The_Arcanists "wikilink") and [The
-    Tesseract](:Category:The_Tesseract "wikilink")) and two areas were
-    removed (A Private Hell and Antharian Arena).
+    Arcanists](:Category:Ruin_Of_The_Arcanists.md "wikilink") and [The
+    Tesseract](:Category:The_Tesseract.md "wikilink")) and two areas
+    were removed (A Private Hell and Antharian Arena).
 -   **2023 August:** New remort race [Driders](Driders "wikilink") and
     new worship [Annakinesia](Annakinesia "wikilink") added.
 -   **2023 July:** New Lord area [The
-    Bond](:Category:The_Bond "wikilink") added.
--   **2023 May:** [Fantasy Forest](:Category:Fantasy_Forest "wikilink")
-    (arc shift) updated: mob races changed, mob levels adjusted to
-    better accommodate small or large groups.
+    Bond](:Category:The_Bond.md "wikilink") added.
+-   **2023 May:** [Fantasy
+    Forest](:Category:Fantasy_Forest.md "wikilink") (arc shift) updated:
+    mob races changed, mob levels adjusted to better accommodate small
+    or large groups.
 -   **2023 April:** New mob spec added that improves mob AI and, among
     other things, mob healers, particularly at lord.
 -   **2023 April:** Mob spec info included in [GMCP](GMCP "wikilink").
@@ -36,14 +37,14 @@
 -   **2023 February:** Hellbreach lord quest rewards implemented.
 -   **2023 January:** Lord mob added to Thorngate who offers services in
     exchange for [Leadership
-    Points](:Category:Leadership_Skills "wikilink").
+    Points](:Category:Leadership_Skills.md "wikilink").
 
 ## 2022
 
 -   **2022 December:** Area [Downward
     Spiral](Downward_Spiral "wikilink") updated.
--   **2022 November:** [Druid](:Category:Druids "wikilink") arrow type
-    skills "adjusted". Druids given [Saving
+-   **2022 November:** [Druid](:Category:Druids.md "wikilink") arrow
+    type skills "adjusted". Druids given [Saving
     Grace](Saving_Grace "wikilink").
 -   **2022 August:** [Sylvan Benediction](Sylvan_Benediction "wikilink")
     now prevents some areas from scaling up, [Hallowed
@@ -53,16 +54,17 @@
     dynamic resistances at lord (??). - Malaclypse
 -   **2022 August:** [Alchemy](Alchemy "wikilink") added.
 -   **2022 August:** [Wise
-    Travelers](:Category:Wise_Travelers "wikilink") hero area added.
+    Travelers](:Category:Wise_Travelers.md "wikilink") hero area added.
 -   **2022 July:** [Nexus of the
-    Crisis](:Category:Nexus_of_the_Crisis "wikilink") lord area added.
+    Crisis](:Category:Nexus_of_the_Crisis.md "wikilink") lord area
+    added.
 
 ## 2021
 
--   **2021 May:** [Kzinti Raid](:Category:Kzinti_Raid "wikilink") hero
-    area added.
+-   **2021 May:** [Kzinti Raid](:Category:Kzinti_Raid.md "wikilink")
+    hero area added.
 -   **2021 May:** Monks and Viziers get [soul
-    cleanse](Soul_Cleanse "wikilink") at lord.
+    cleanse](Soul_Cleanse.md "wikilink") at lord.
 -   **2021 May:** [Racial Imbue](Racial_Imbue "wikilink") added for
     certain races (previously was only Gith).
 -   **2021 April:** Made resistances/vulnerabilities a lot more profound
@@ -78,7 +80,7 @@
     [Banshee Wail](Banshee_Wail "wikilink"), [Void
     Seeker](Void_Seeker "wikilink")).
 -   **2021 April:** Gith [racial convoke
-    weapons](Racial_Convoke "wikilink") added.
+    weapons](Racial_Convoke.md "wikilink") added.
 -   **2021 April:** [Signature Spell](Signature_Spell "wikilink") added
     for lord Wizards.
 
@@ -87,18 +89,18 @@
 -   **2020 November:** [Gith](Gith "wikilink") acquire representation in
     the [Diplomatic Corps](Diplomatic_Corps "wikilink").
 -   **2020 June:** The prestige class
-    [Soldier](:Category:Soldiers "wikilink") is added.
+    [Soldier](:Category:Soldiers.md "wikilink") is added.
 -   **2020 May:** Lords may now unlock one of ten shard realms on reboot
     and on each non-reboot reset.
 -   **2020 May:** [Stormwatch Stance](Stormwatch_Stance "wikilink"),
     [Hunter Stance](Hunter_Stance "wikilink"), and [Rapid
     Shot](Rapid_Shot "wikilink") are added.
 -   **2020 May:** The prestige class
-    [Ripper](:Category:Rippers "wikilink") is added.
+    [Ripper](:Category:Rippers.md "wikilink") is added.
 -   **2020 April:** Druid get the spell [Awaken
     Staff](Awaken_Staff "wikilink").
 -   **2020 March:** The hero area [Fortress Of
-    Kra](:Category:Fortress_Of_Kra "wikilink") is updated with a new
+    Kra](:Category:Fortress_Of_Kra.md "wikilink") is updated with a new
     main quest. The [Peek](Peek "wikilink") skill is now available to
     all classes at Lord and the [Send](Send "wikilink") spell is now
     available to all classes except Berserker at Lord.
@@ -106,18 +108,18 @@
     and [Water Breathing](Water_Breathing "wikilink") are added to BCI's
     hero spell list.
 -   **2020 Jan:** The hero area [North Rhuien
-    Forest](:Category:North_Rhuien_Forest "wikilink") is added in
+    Forest](:Category:North_Rhuien_Forest.md "wikilink") is added in
     [Eragora](Eragora "wikilink").
 
 ## 2019
 
 -   **2019 Jan:** Four hero areas from the 2018 [area-building
-    contest](Area-Building_Contests "wikilink") are added.
+    contest](Area-Building_Contests.md "wikilink") are added.
 
 ## 2018
 
 -   **2018 Aug:** The prestige class
-    [Vizier](:Category:Viziers "wikilink") is added.
+    [Vizier](:Category:Viziers.md "wikilink") is added.
 
 ## 2016
 
@@ -138,43 +140,44 @@
 
 ## 2015
 
--   **2015 Jan:** Hero area [Heartwood](:Category:Heartwood "wikilink")
-    is added.
+-   **2015 Jan:** Hero area
+    [Heartwood](:Category:Heartwood.md "wikilink") is added.
 
 ## 2014
 
--   **2014 Dec:** [Typhus](:Category:Typhus "wikilink") revised and
-    becomes [Rise Of Typhus](:Category:Rise_Of_Typhus "wikilink").
+-   **2014 Dec:** [Typhus](:Category:Typhus.md "wikilink") revised and
+    becomes [Rise Of Typhus](:Category:Rise_Of_Typhus.md "wikilink").
 -   **2014 Oct:** The Auction House is opened.
 -   **2014 Aug:** The [Giths](Giths "wikilink") were added as a [remort
-    race](:Category:Remort_Races "wikilink").
+    race](:Category:Remort_Races.md "wikilink").
 -   **2014 Mar:** [Hall Of The
-    Immortals](:Category:Hall_Of_The_Immortals "wikilink") was revised
-    and updated.
--   **2014 Mar:** [Dragon Crypt](:Category:Dragon_Crypt "wikilink")
-    replaced by [Cloud Dracoleum](:Category:Cloud_Dracoleum "wikilink")
--   **2014 Jan:** Portions of [Midgaard](:Category:Midgaard "wikilink")
-    revised. All [Houses](:Category:Houses "wikilink") grandfathered (6
-    subareas).
+    Immortals](:Category:Hall_Of_The_Immortals.md "wikilink") was
+    revised and updated.
+-   **2014 Mar:** [Dragon Crypt](:Category:Dragon_Crypt.md "wikilink")
+    replaced by [Cloud
+    Dracoleum](:Category:Cloud_Dracoleum.md "wikilink")
+-   **2014 Jan:** Portions of
+    [Midgaard](:Category:Midgaard.md "wikilink") revised. All
+    [Houses](:Category:Houses.md "wikilink") grandfathered (6 subareas).
 
 ## 2013
 
--   **2013 Nov:** Area [Arx Nivea](:Category:Arx_Nivea "wikilink") was
-    given an overhaul.
--   **2013 Oct:** Area [River Etuan](:Category:River_Etuan "wikilink")
-    was added.
+-   **2013 Nov:** Area [Arx Nivea](:Category:Arx_Nivea.md "wikilink")
+    was given an overhaul.
+-   **2013 Oct:** Area [River
+    Etuan](:Category:River_Etuan.md "wikilink") was added.
 -   **2013 Sep:** Lord quest involving
-    [Allegaagse](Allegaagse "wikilink") in Thorngate was added.
--   **2013 Aug:** Area [Forge](:Category:Forge "wikilink") (eha) was
+    [Allegaagse](Allegaagse.md "wikilink") in Thorngate was added.
+-   **2013 Aug:** Area [Forge](:Category:Forge.md "wikilink") (eha) was
     added. Area [Shadowlands](Shadowlands "wikilink") (Lord) was added.
 -   **2013 Jul:** Lord area [Tarterus
-    Proper](:Category:Tarterus_Proper "wikilink") made easier for very
-    small groups.
+    Proper](:Category:Tarterus_Proper.md "wikilink") made easier for
+    very small groups.
 -   **2013 Jun:** Lord skill [volley](volley "wikilink") added. Hero
-    area [Rapture](:Category:Rapture "wikilink") was added. Changes to
-    [the Outland plane](:Category:Outland "wikilink") (proper and
+    area [Rapture](:Category:Rapture.md "wikilink") was added. Changes
+    to [the Outland plane](:Category:Outland.md "wikilink") (proper and
     Commander subarea) and changes to [Githzerai
-    Keep](:Category:Githzerai_Keep "wikilink")
+    Keep](:Category:Githzerai_Keep.md "wikilink")
 -   **2013 May:** [Companions](Companions "wikilink") for low morts
     added (help companions)
 -   **2013 Apr:** Cleric pantheon spells
@@ -182,133 +185,138 @@
     Adjutant](Divine_Adjutant "wikilink"), [Sylvan
     Benediction](Sylvan_Benediction "wikilink") and [Divine
     Grace](Divine_Grace "wikilink") added. Lowmort area [Arcana
-    Excelsis](:Category:Arcana_Excelsis "wikilink") added.
+    Excelsis](:Category:Arcana_Excelsis.md "wikilink") added.
 -   **2013 Mar:** Cleric pantheon spell [Artificer
     Blessing](Artificer_Blessing "wikilink") added. [Chromatic
     Dragons](Chromatic_Dragons "wikilink") unveiled.
--   **2013 Feb:** Hero area [Rim‎](:Category:Rim‎ "wikilink") was added.
+-   **2013 Feb:** Hero area [Rim‎](:Category:Rim‎.md "wikilink") was
+    added.
 
 ## 2012
 
--   **2012 Dec:** Low mortal areas [Zodiac](:Category:Zodiac "wikilink")
-    and [World Tree](:Category:World_Tree "wikilink") implemented. The
-    area [Descent To Hell](:Category:Descent_To_Hell "wikilink") was
+-   **2012 Dec:** Low mortal areas
+    [Zodiac](:Category:Zodiac.md "wikilink") and [World
+    Tree](:Category:World_Tree.md "wikilink") implemented. The area
+    [Descent To Hell](:Category:Descent_To_Hell.md "wikilink") was
     grandfathered. [Bonkers! Quest](Bonkers!_Quest "wikilink") added.
-    [Elemental Giants](Giants#Elemental_Giants "wikilink") unveiled.
--   **2012 Nov:** Hero area [Arx Nivea](:Category:Arx_Nivea "wikilink")
-    added with it's notable [Demonic Intent
-    Quest](Dark_Acolyte_Quest "wikilink"), [Great Summoning
-    Quest](Great_Summoning_Quest "wikilink") implemented.
+    [Elemental Giants](Giants#Elemental_Giants.md "wikilink") unveiled.
+-   **2012 Nov:** Hero area [Arx
+    Nivea](:Category:Arx_Nivea.md "wikilink") added with it's notable
+    [Demonic Intent Quest](Dark_Acolyte_Quest.md "wikilink"), [Great
+    Summoning Quest](Great_Summoning_Quest "wikilink") implemented.
 -   **2012 Oct:** [Racial Resistance](Racial_Resistance "wikilink") and
     damage types implemented. [Solace
-    Patrol](Solace_Patrol_Quest "wikilink") and [Mob
-    Factory](:Category:Mob_Factory "wikilink") revised, [Order's Last
-    Mission](Order's_Last_Mission_Quest "wikilink") implemented.
+    Patrol](Solace_Patrol_Quest.md "wikilink") and [Mob
+    Factory](:Category:Mob_Factory.md "wikilink") revised, [Order's Last
+    Mission](Order's_Last_Mission_Quest.md "wikilink") implemented.
 -   **2012 Sept:** Hero area [Glyntaff
-    Pass‎](:Category:Glyntaff_Pass‎ "wikilink") was added.
+    Pass‎](:Category:Glyntaff_Pass‎.md "wikilink") was added.
 -   **2012 May:** [Miraars](Miraars "wikilink") were changed to a
     creatable race, with increased TNL. [Morgue](Morgue "wikilink") was
     implemented. Clerics received first in a series of new spells -
     [Unholy Rampage](Unholy_Rampage "wikilink"). Area [Sun God
-    Altar](:Category:Sun_God_Altar "wikilink") received a facelift.
+    Altar](:Category:Sun_God_Altar.md "wikilink") received a facelift.
 -   **2012 Apr:** Area [Bo'Vul's
-    Vault](:Category:Bo'Vul's_Vault "wikilink") was added, with its
+    Vault](:Category:Bo'Vul's_Vault.md "wikilink") was added, with its
     sub-areas.
 -   **2012 Jan:** [Rebirth](Rebirth "wikilink") became available.
 
 ## 2011
 
 -   **2011 Aug:** Area [Exploration
-    Outpost](:Category:Exploration_Outpost "wikilink") was added to
-    [Eragora](:Category:Eragora "wikilink").
--   **2011 Sep:** Area [Sem Vida](:Category:Sem_Vida "wikilink") (eha)
-    was added.
+    Outpost](:Category:Exploration_Outpost.md "wikilink") was added to
+    [Eragora](:Category:Eragora.md "wikilink").
+-   **2011 Sep:** Area [Sem Vida](:Category:Sem_Vida.md "wikilink")
+    (eha) was added.
 -   **2011 May:** A new continent
-    ([Eragora](:Category:Eragora "wikilink")) was added with many new
+    ([Eragora](:Category:Eragora.md "wikilink")) was added with many new
     areas as a result of the area building contest. Eleven new areas
     added.<sup>1</sup>
 -   **2011 Mar:** Area [The Fungal
-    Forest](:Category:Fungal_Forest "wikilink") (hero) was added. After
-    a series of events the areas [Ofcol](:Category:Ofcol "wikilink") and
-    [Obsidian Tower](:Category:Obsidian_Tower "wikilink") have been
-    replaced with [Cathracharraig](:Category:Cathracharraig "wikilink")
-    and [Helikon Tower](:Category:Helikon_Tower "wikilink")
-    respectively. Additionally the areas [Ofcol Refugee
-    Camp](:Category:Ofcol_Refugee_Camp "wikilink"), [Hospice Refugee
-    Camp](:Category:Hospice_Refugee_Camp "wikilink"), and [Daingean
-    Machadae](:Category:Daingean_Machadae "wikilink") were added. The
-    area [Bard's House](:Category:Bard's_House "wikilink") was also
+    Forest](:Category:Fungal_Forest.md "wikilink") (hero) was added.
+    After a series of events the areas
+    [Ofcol](:Category:Ofcol.md "wikilink") and [Obsidian
+    Tower](:Category:Obsidian_Tower.md "wikilink") have been replaced
+    with [Cathracharraig](:Category:Cathracharraig.md "wikilink") and
+    [Helikon Tower](:Category:Helikon_Tower.md "wikilink") respectively.
+    Additionally the areas [Ofcol Refugee
+    Camp](:Category:Ofcol_Refugee_Camp.md "wikilink"), [Hospice Refugee
+    Camp](:Category:Hospice_Refugee_Camp.md "wikilink"), and [Daingean
+    Machadae](:Category:Daingean_Machadae.md "wikilink") were added. The
+    area [Bard's House](:Category:Bard's_House.md "wikilink") was also
     removed.
--   **2011 Feb:** Area [The Deepways](:Category:Deepways "wikilink")
+-   **2011 Feb:** Area [The Deepways](:Category:Deepways.md "wikilink")
     (hero) was added.
 -   **2011 Jan:** Area [Fortress of
-    Kra](:Category:Fortress_Of_Kra "wikilink") (hero) was added and
-    [Caverns Of Despair](:Category:Caverns_Of_Despair "wikilink") was
+    Kra](:Category:Fortress_Of_Kra.md "wikilink") (hero) was added and
+    [Caverns Of Despair](:Category:Caverns_Of_Despair.md "wikilink") was
     removed. Area [Pariah's
-    Paradise](:Category:Pariah's_Paradise "wikilink") (hero) was added.
+    Paradise](:Category:Pariah's_Paradise.md "wikilink") (hero) was
+    added.
 
 ## 2010
 
--   **2010 Nov:** Areas [Drow City](:Category:Drow_City "wikilink") and
-    [Air Of Avatar](:Category:Air_Of_Avatar "wikilink") were removed and
-    [The Airways](:Category:Airways "wikilink") (14-19), [Graw
-    Akkuurattaan](:Category:Graw_Akkuurattaan "wikilink") (18-23), and
-    [Tiureess](:Category:Tiureess "wikilink") (23-28) were added.
+-   **2010 Nov:** Areas [Drow City](:Category:Drow_City.md "wikilink")
+    and [Air Of Avatar](:Category:Air_Of_Avatar.md "wikilink") were
+    removed and [The Airways](:Category:Airways.md "wikilink") (14-19),
+    [Graw Akkuurattaan](:Category:Graw_Akkuurattaan.md "wikilink")
+    (18-23), and [Tiureess](:Category:Tiureess.md "wikilink") (23-28)
+    were added.
 -   **2010 Jan:** [Patriarchs'
-    Gulch‎](:Category:Patriarchs'_Gulch‎ "wikilink") (lord) and [Abbaye Du
-    Livre](:Category:Abbaye_Du_Livre "wikilink") (hero) areas were
+    Gulch‎](:Category:Patriarchs'_Gulch‎.md "wikilink") (lord) and [Abbaye
+    Du Livre](:Category:Abbaye_Du_Livre.md "wikilink") (hero) areas were
     added.
 
 ## 2008
 
 -   **2008 Dec:** [Firedrakes](Firedrakes "wikilink") have been added
     back.
--   **2008 Nov:** [Circus](:Category:Circus "wikilink") removed and
-    [Carnival](:Category:Carnival "wikilink") is added.
+-   **2008 Nov:** [Circus](:Category:Circus.md "wikilink") removed and
+    [Carnival](:Category:Carnival.md "wikilink") is added.
 -   **2008 Oct:** [Lesser Imps](Lesser_Imps "wikilink") added.
     [Verbits](Verbits "wikilink") are removed (no word on
     [Firedrakes](Firedrakes "wikilink")). The quest/area [Diplomatic
-    Corps](:Category:Diplomatic_Corps "wikilink") is added.
+    Corps](:Category:Diplomatic_Corps.md "wikilink") is added.
 -   **2008 Aug:** New lowmort (31-40) area [Defender's
-    Graveyard](:Category:Defender's_Graveyard "wikilink") is added.
-    [Graveyard](:Category:Graveyard "wikilink") is removed.
+    Graveyard](:Category:Defender's_Graveyard.md "wikilink") is added.
+    [Graveyard](:Category:Graveyard.md "wikilink") is removed.
 -   **2008 May:** New (elite) hero area [Aculeata
-    Jatha-La](:Category:Aculeata_Jatha-La "wikilink") is added.
+    Jatha-La](:Category:Aculeata_Jatha-La.md "wikilink") is added.
 -   **2008 Apr:** New lowmort (41-50)/hero area [Citadel Of
-    Arcanists](:Category:Citadel_Of_Arcanists "wikilink") is added. New
-    race [Miraars](Miraars "wikilink") added.
+    Arcanists](:Category:Citadel_Of_Arcanists.md "wikilink") is added.
+    New race [Miraars](Miraars "wikilink") added.
 
 ## 2007
 
 -   **2007 Dec:** New hero manifest item [Mega's Spark In A
     Bottle](Mega's_Spark_In_A_Bottle "wikilink") is added.
 -   **2007 Aug:** New hero area [Alpha
-    Thule](:Category:Alpha_Thule "wikilink") is added.
+    Thule](:Category:Alpha_Thule.md "wikilink") is added.
 -   **2007 May:** New (elite) hero area [Abishai's
-    Pass](:Category:Abishai's_Pass "wikilink") is added.
--   **2007 Apr:** The race [harpies](Harpies "wikilink") is added
+    Pass](:Category:Abishai's_Pass.md "wikilink") is added.
+-   **2007 Apr:** The race [harpies](Harpies.md "wikilink") is added
 -   **2007 Feb:** The prestige class
-    [Bladedancer](:Category:Bladedancers "wikilink") is added
+    [Bladedancer](:Category:Bladedancers.md "wikilink") is added
 -   **2007 Jan:** Outland.org gets a spiffy new makeover!
 
 ## 2006
 
--   **2006 Oct:** Added [Stormlords](:Category:Stormlords "wikilink")
+-   **2006 Oct:** Added [Stormlords](:Category:Stormlords.md "wikilink")
     prestige class.
 -   **2006 Jan:** Added [leadership
-    skills](:Category:Leadership_Skills "wikilink").
+    skills](:Category:Leadership_Skills.md "wikilink").
 -   **All 2006:** Added and fixed numerous spells, skills and
-    [Legend](:Category:Legend "wikilink") features.
+    [Legend](:Category:Legend.md "wikilink") features.
 
 ## 2005
 
 -   **2005 Dec:** Ominous "big bug fix." No further explanation.
--   **2005 Jun:** Added [Bodyguards](:Category:Bodyguards "wikilink")
+-   **2005 Jun:** Added [Bodyguards](:Category:Bodyguards.md "wikilink")
     prestige class.
 -   **2005 Jun:** The prestige class
-    [Fusiliers](:Category:Fusiliers "wikilink") is added.
--   **2005 May:** [Wizards](:Category:Wizards "wikilink") becomes a
-    prestige class for [Mage](:Category:Mages "wikilink")
+    [Fusiliers](:Category:Fusiliers.md "wikilink") is added.
+-   **2005 May:** [Wizards](:Category:Wizards.md "wikilink") becomes a
+    prestige class for [Mage](:Category:Mages.md "wikilink")
 
 ## 2000
 
@@ -2029,16 +2037,16 @@ and note angel.
 
 ------------------------------------------------------------------------
 
-<sup>1</sup>[Sphynx Gate](:Category:Sphynx_Gate "wikilink"), [Eragora
-Walkways](:Category:Eragora_Walkways "wikilink"), [Akrikto's
-Farm](:Category:Akrikto's_Farm "wikilink"), [Halfling's
-Paradise](:Category:Halfling's_Paradise "wikilink"), [Halfling
-Tunnels](:Category:Halfling_Tunnels "wikilink"), [Healing
-Springs](:Category:Healing_Springs "wikilink"), [Moonbay
-Village](:Category:Moonbay_Village "wikilink"), [Mountain
-Tunnels](:Category:Mountain_Tunnels "wikilink"), [Quarries and
-Mines](:Category:Quarries_and_Mines "wikilink"), [Rhuien
-Forest](:Category:Rhuien_Forest "wikilink"), and [Sun God
-Altar](:Category:Sun_God_Altar "wikilink").
+<sup>1</sup>[Sphynx Gate](:Category:Sphynx_Gate.md "wikilink"), [Eragora
+Walkways](:Category:Eragora_Walkways.md "wikilink"), [Akrikto's
+Farm](:Category:Akrikto's_Farm.md "wikilink"), [Halfling's
+Paradise](:Category:Halfling's_Paradise.md "wikilink"), [Halfling
+Tunnels](:Category:Halfling_Tunnels.md "wikilink"), [Healing
+Springs](:Category:Healing_Springs.md "wikilink"), [Moonbay
+Village](:Category:Moonbay_Village.md "wikilink"), [Mountain
+Tunnels](:Category:Mountain_Tunnels.md "wikilink"), [Quarries and
+Mines](:Category:Quarries_and_Mines.md "wikilink"), [Rhuien
+Forest](:Category:Rhuien_Forest.md "wikilink"), and [Sun God
+Altar](:Category:Sun_God_Altar.md "wikilink").
 
 [Category: Events](Category:_Events "wikilink")

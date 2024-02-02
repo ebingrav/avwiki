@@ -64,7 +64,7 @@ Price
 <tr>
 <td>
 
-[Unholy Symbol](Unholy_Symbol_(Rietta's_Wonders) "wikilink")
+[Unholy Symbol](Unholy_Symbol_(Rietta's_Wonders).md "wikilink")
 
 </td>
 <td>
@@ -152,8 +152,8 @@ Ticket](Practice_Ticket "wikilink") for 375000. Both of these mobs
 wander around the area.
 
 The [Elven Rascal](Elven_Rascal "wikilink") lives all e, n from
-[Thorngate](:Category:Thorngate "wikilink") center. He's the resident
-etcher on [Thorngate](:Category:Thorngate "wikilink"). Here's what he
+[Thorngate](:Category:Thorngate.md "wikilink") center. He's the resident
+etcher on [Thorngate](:Category:Thorngate.md "wikilink"). Here's what he
 sells:
 
 <table>
@@ -209,7 +209,7 @@ Price
 
 The [Green Silken Sarong](Green_Silken_Sarong "wikilink") and [Silver
 Iguana](Silver_Iguana "wikilink") are both small quests that end up in
-[Rietta's Wonders](:Category:Rietta's_Wonders "wikilink"). See their
+[Rietta's Wonders](:Category:Rietta's_Wonders.md "wikilink"). See their
 individual pages for information on how to get them.
 
 [Category:Rietta's Wonders](Category:Rietta's_Wonders "wikilink")

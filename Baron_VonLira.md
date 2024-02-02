@@ -8,16 +8,16 @@ The dead priest craves VonLira's aid in finally resting in peace.*
 **Keywords:** ranger, baron, vonlira.  
 **Scan Description:** (Hide) (Sneak) A human ranger with a noble bearing
 is here.  
-**[Level](Level "wikilink"):** 63.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** 63.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** Hide, Sneak, ??.  
 
 ## Gear
 
 `Baron VonLira is using:`  
-<worn on hands>`     (Invis) `[`war`` ``gauntlets`](War_Gauntlets "wikilink")  
-<worn about body>`   `[`a`` ``zebraskin`` ``cloak`](Zebraskin_Cloak "wikilink")
+<worn on hands>`     (Invis) `[`war`` ``gauntlets`](War_Gauntlets.md "wikilink")  
+<worn about body>`   `[`a`` ``zebraskin`` ``cloak`](Zebraskin_Cloak.md "wikilink")
 
 `Baron VonLira is carrying:`  
 `     `[`Boomerang`](Boomerang "wikilink")
@@ -26,11 +26,11 @@ is here.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Battleground](:Category:_Battleground "wikilink")
-([Map](Battleground_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A camp
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Battleground](:Category:_Battleground.md "wikilink")
+([Map](Battleground_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A camp
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Shen](Shen "wikilink"): d, 3n, w, 2n, 2e, 4n, u,
 e.  

@@ -1,12 +1,12 @@
 *Brute Strength acts much like [enhanced
-damage](Enhanced_Damage "wikilink"), except that it only functions when
-the user is in direct combat (ie fighting the
-[mob](:Category:_Mobs "wikilink") that's fighting you) and has worse
-than -750 [AC](Armor_Class "wikilink") at
-[Hero](:Category:_Hero "wikilink") and -1250 at
-[Lord](:Category:Lord "wikilink").*
+damage](Enhanced_Damage.md "wikilink"), except that it only functions
+when the user is in direct combat (ie fighting the
+[mob](:Category:_Mobs.md "wikilink") that's fighting you) and has worse
+than -750 [AC](Armor_Class.md "wikilink") at
+[Hero](:Category:_Hero.md "wikilink") and -1250 at
+[Lord](:Category:Lord.md "wikilink").*
 
-Prerequisite(s): [Enhanced Damage](Enhanced_Damage "wikilink").
+Prerequisite(s): [Enhanced Damage](Enhanced_Damage.md "wikilink").
 
 Syntax: none (automatic).
 

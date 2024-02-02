@@ -1,10 +1,10 @@
 ''Rising ominously from the center of [
-Cathracharraig](:Category:Cathracharraig "wikilink"), Daingean Machadae
-casts its sinister influence across northern Midgaardia. It is a keep of
-pure gleaming obsidian, some days eclipsing the sun and enveloping whole
-villages in darkness, other days blinding them with brilliant light
-shows reflected off its glass surface; fickle behavior that perfectly
-matches that of its mistress, [Tannah
+Cathracharraig](:Category:Cathracharraig.md "wikilink"), Daingean
+Machadae casts its sinister influence across northern Midgaardia. It is
+a keep of pure gleaming obsidian, some days eclipsing the sun and
+enveloping whole villages in darkness, other days blinding them with
+brilliant light shows reflected off its glass surface; fickle behavior
+that perfectly matches that of its mistress, [Tannah
 Machadae](Tannah_Machadae "wikilink").
 
 *Precious few enter or leave Daingean Machadae, as Mistress Mach prefers
@@ -26,8 +26,8 @@ battles it every night to maintain control of her kingdom.*
 ## Directions
 
 Walking route from [Aelmon](Aelmon "wikilink"): 22n,e,n,2w,n,e  
-Portal point: [Mserie the stonesmith](Mserie "wikilink"), .ses2e2n3e,
-kill [captain](Riscgnarl "wikilink") for [Newly Minted Gate
+Portal point: [Mserie the stonesmith](Mserie.md "wikilink"), .ses2e2n3e,
+kill [captain](Riscgnarl.md "wikilink") for [Newly Minted Gate
 Key](Newly_Minted_Gate_Key "wikilink") (attacking the captain will make
 you an outlaw, steal the key if possible). Travel .4w & unlock west or
 .3w2s2wne, unlock south, and go south to enter Daingean Machadae.
@@ -35,9 +35,9 @@ Alternately, you can portal directly to
 [Riscgnarl](Riscgnarl "wikilink"), the lawful captain holding the key.
 
 If you'd like to get a key to the area without becoming an outlaw, get
-the [Poorly Copied Key](Newly_Minted_Gate_Key "wikilink") (pp wielmann,
-track half -- but be a rogue or you'll get blackjacked in Outsiders),
-and unlock the southern door in the grand entrance.
+the [Poorly Copied Key](Newly_Minted_Gate_Key.md "wikilink") (pp
+wielmann, track half -- but be a rogue or you'll get blackjacked in
+Outsiders), and unlock the southern door in the grand entrance.
 
 Another option is to kill the [Brooding
 Magman](Brooding_Magman "wikilink") and get his [Heart Of
@@ -52,7 +52,7 @@ in [Daingean Machadae](Daingean_Machadae "wikilink").
 
 ## Connections
 
--   [Cathracharraig](:Category:Cathracharraig "wikilink")
+-   [Cathracharraig](:Category:Cathracharraig.md "wikilink")
 
 ## Navigation
 
@@ -70,9 +70,9 @@ east-west direction with the occassional room to the north or south -
 generally locked.
 
 -   **The first floor** can be accessed from the eastern 'back door',
-    via [Cathracharraig](:Category:_Cathracharraig "wikilink"), if you
-    have the key. This floor is where your corpse will turn up if you
-    die in **the crucible**.
+    via [Cathracharraig](:Category:_Cathracharraig.md "wikilink"), if
+    you have the key. This floor is where your corpse will turn up if
+    you die in **the crucible**.
 -   **The second floor** is reached from the **first** or from the
     western 'front door', also via Cathracharraig. Climbing from the
     public, outer part of the tower you can reach the **third floor**,
@@ -83,7 +83,7 @@ generally locked.
     takes you directly up to the **fourth floor**. A couple of locked
     rooms on this level hold mobs which may be of interest - for xp if
     nothing else. Also, this level is where the [ogre
-    shaman](Ogre_Shaman "wikilink") can be found.
+    shaman](Ogre_Shaman.md "wikilink") can be found.
 -   **The third floor** is where you can find the balconies which are
     not cursed, a door out to the public section of the tower which is
     openable from the inside, a rather nasty room full of aggressive
@@ -117,7 +117,7 @@ trolls are not aggressive - one of the underlings being the exception.
 The [Troll Assassin](Troll_Assassin "wikilink") (e, n, from west turret)
 hits a bit harder than most as he is level 67 and uses the [Trollish
 Light Crossbow](Trollish_Light_Crossbow "wikilink") (m76, +mh, +9hr,
-invis) with [poison bolts](Poison_Bolts "wikilink"). Also, there are
+invis) with [poison bolts](Poison_Bolts.md "wikilink"). Also, there are
 several [Quicksilver Wolf Cubs](Quicksilver_Wolf_Cub "wikilink") which
 wander the area and can pass through doors which ARE aggressive and can
 see hidden. If you are careful and scan, these are the only dangers from
@@ -126,15 +126,15 @@ safe to move through, as are any which open without a key.
 
 There is one notable exception to this, which is a **very dangerous**
 room. The room which contains Kragge,
-[Szreaelle](Szreaelle_The_Spy "wikilink") and Z'tarr has about six mobs
-inside, most of which are aggressive, tough, and have various unpleasant
-combat specs on them. Enter this room at your own risk.
+[Szreaelle](Szreaelle_The_Spy.md "wikilink") and Z'tarr has about six
+mobs inside, most of which are aggressive, tough, and have various
+unpleasant combat specs on them. Enter this room at your own risk.
 
 Having gained two keys (three if you want to enter the crucible), you
 can then wander the rest of the tower and fight some of the special mobs
 in their own special rooms, all of which are aggressive, but all to be
-found on their own unless a [wolf cub](Quicksilver_Wolf_Cub "wikilink")
-walks in.
+found on their own unless a [wolf
+cub](Quicksilver_Wolf_Cub.md "wikilink") walks in.
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category:
 Incomplete](Category:_Incomplete "wikilink")

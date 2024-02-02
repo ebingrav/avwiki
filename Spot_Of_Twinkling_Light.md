@@ -1,38 +1,38 @@
 *A spot of light dances along the rim of nothingness.*
 
-`Level ? spells of: '`[`sanctuary`](Sanctuary "wikilink")`' '`[`detect`` ``invis`](Detect_Invis "wikilink")`', '`[`chill`` ``touch`](Chill_Touch "wikilink")`'.`
+`Level ? spells of: '`[`sanctuary`](Sanctuary.md "wikilink")`' '`[`detect`` ``invis`](Detect_Invis.md "wikilink")`', '`[`chill`` ``touch`](Chill_Touch.md "wikilink")`'.`
 
 **Keyword(s):** spot twinkling light  
-**[Level(s)](Object_Level "wikilink"):** 51?  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow  
+**[Level(s)](Object_Level.md "wikilink"):** 51?  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow  
 
 ## Comments
 
 ## Directions
 
 Loads on the floor at the mob [the Eater of
-Reality](Eater_Of_Reality "wikilink"), in the room **A gaping hole in a
-tortured reality**.
+Reality](Eater_Of_Reality.md "wikilink"), in the room **A gaping hole in
+a tortured reality**.
 
-From [stone trickster](Stone_Trickster "wikilink"): e2s, pull bloom,
+From [stone trickster](Stone_Trickster.md "wikilink"): e2s, pull bloom,
 2sesesesu. You are now in the room with the invisible agressive, high
-level psi-mob [the eye of the storm](Eye_Of_The_Storm "wikilink"). The
-exits in this room changes every repop, and from there you want to go in
-the direction where you see a scan description of **A circular hole
-sucks at the substance of this tattered reality.** These two
-[devourers](Devourer "wikilink") wander between two rooms, so maybe you
-will not see them till they move. When you enter the room named **Up in
-a splintered tree**, go up and south to get to [the Eater of
-Reality](Eater_Of_Reality "wikilink").
+level psi-mob [the eye of the storm](Eye_Of_The_Storm.md "wikilink").
+The exits in this room changes every repop, and from there you want to
+go in the direction where you see a scan description of **A circular
+hole sucks at the substance of this tattered reality.** These two
+[devourers](Devourer.md "wikilink") wander between two rooms, so maybe
+you will not see them till they move. When you enter the room named **Up
+in a splintered tree**, go up and south to get to [the Eater of
+Reality](Eater_Of_Reality.md "wikilink").
 
-**[Area](:Category:_Areas "wikilink"):** [ Transfigured Forest
-](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [ Transfigured Forest
+](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
 
 [Category: Gear In Transfigured
 Forest](Category:_Gear_In_Transfigured_Forest "wikilink") [Category:

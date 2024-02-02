@@ -1,4 +1,4 @@
-<noinclude> See [Templates](:Category:Templates "wikilink") for
+<noinclude> See [Templates](:Category:Templates.md "wikilink") for
 instructions on how to use this template; it begins below this
 horizontal ruler:
 

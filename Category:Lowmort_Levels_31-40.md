@@ -11,13 +11,13 @@ to death? Do you like hiding behind a beefcake and striking your foe
 while it's trying to kill your buddy? Or do you wish to see no more of
 this violence, instead opting to aid your comrades in their endeavors?
 
-At [level](Level "wikilink") 35, you can customize the message that
+At [level](Level.md "wikilink") 35, you can customize the message that
 other players see whenever you enter or exit whatever room they are in
 (see [Setmin](Setmin "wikilink") and [Setmout](Setmout "wikilink")).
 
--   [Archer Gear](:Category:Lowmort_31-40_Archer_Gear "wikilink")
--   [Hit Gear](:Category:Lowmort_31-40_Hit_Gear "wikilink")
--   [Mana Gear](:Category:Lowmort_31-40_Mana_Gear "wikilink")
--   [Tank Gear](:Category:Lowmort_31-40_Tank_Gear "wikilink")
+-   [Archer Gear](:Category:Lowmort_31-40_Archer_Gear.md "wikilink")
+-   [Hit Gear](:Category:Lowmort_31-40_Hit_Gear_.md "wikilink")
+-   [Mana Gear](:Category:Lowmort_31-40_Mana_Gear_.md "wikilink")
+-   [Tank Gear](:Category:Lowmort_31-40_Tank_Gear_.md "wikilink")
 
 [Category: Lowmort](Category:_Lowmort "wikilink")

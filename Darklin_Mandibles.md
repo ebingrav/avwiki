@@ -1,28 +1,28 @@
 *What? You didn't know mandibles were what insects used to bite with?
 Now you do. This pair must have been taken from a dead darklin.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 6 to 19 (average 12).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 6 to 19 (average 12).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** darklin mandibles  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Weight](Object_Weight "wikilink"):** 7 lbs  
-**[Level(s)](Object_Level "wikilink"):** 12  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 12  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Darklin
-Hole](:Category:_Darklin_Hole "wikilink")
-([Map](Darklin_Hole_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Darklin
+**[Area](:Category:_Areas.md "wikilink"):** [Darklin
+Hole](:Category:_Darklin_Hole.md "wikilink")
+([Map](Darklin_Hole_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Darklin
 Guard](Darklin_Guard "wikilink"), [Darklin
 Headmaster](Darklin_Headmaster "wikilink")  
 

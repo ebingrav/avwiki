@@ -1,14 +1,14 @@
-*Bioscan allows the [Psion](:Category:_Psionicists "wikilink") to
+*Bioscan allows the [Psion](:Category:_Psionicists.md "wikilink") to
 determine the physical and magical capacities of a potential opponent.
 You'd be surprised how much you learn about a
-[monster](:Category:_Mobs "wikilink") by getting into their heads.*
+[monster](:Category:_Mobs.md "wikilink") by getting into their heads.*
 
-Prerequisite(s): [Aura Sight](Aura_Sight "wikilink").
+Prerequisite(s): [Aura Sight](Aura_Sight.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'bioscan'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'bioscan'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-See also [Lawful Flag](Lawful_Flag "wikilink").
+See also [Lawful Flag](Lawful_Flag.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

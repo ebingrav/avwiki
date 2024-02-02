@@ -2,13 +2,14 @@
 venomous baby.*
 
 **Keywords:** albatox, seabird, bird.  
-**[Level](Level "wikilink"):** 28.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[wimpy](Wimpy_Mobs "wikilink"), [poisonous](Biting_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 28.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink"),
+[poisonous](Biting_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -16,15 +17,15 @@ venomous baby.*
 `     Nothing.`
 
 `An albatox is carrying:`  
-`     `[`albatox`` ``barbs`](Albatox_Barbs "wikilink")
+`     `[`albatox`` ``barbs`](Albatox_Barbs.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Paradise
-Point](:Category:_Paradise_Point "wikilink")
-([Map](Paradise_Point_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Paradise
+Point](:Category:_Paradise_Point.md "wikilink")
+([Map](Paradise_Point_Map.md "wikilink")).  
 Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3s, d, 5w,
 3n, w, 5s, 2e, 4s, 2e, 2s, d.
 

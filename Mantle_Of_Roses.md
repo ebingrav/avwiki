@@ -4,8 +4,8 @@ Bases: 10-12
 Levels: 51  
 Flags: anti-good, invis  
 Weight: 9  
-Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink"))  
+Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink"))  
 Mob: [Eschard](Eschard "wikilink")  
 needs to be faded or harmonized before wearing
 

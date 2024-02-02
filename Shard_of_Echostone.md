@@ -21,13 +21,13 @@ the stone always stays warm to the touch.*
 ` It cannot be poisoned.`
 
 **Keyword(s):** echostone shard.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):** [Throwing
-Weapon](:Category:_Throwing_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 40 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, nolocate.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):** [Throwing
+Weapon](:Category:_Throwing_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, nolocate.  
 
 ## Comments
 
@@ -38,8 +38,8 @@ Quest](Restoring_Mark_V_(Part_2)_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Daingean
-Machadae](:Category:_Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Daingean
+Machadae](:Category:_Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).  
 
 [Category:Throwing Weapons](Category:Throwing_Weapons "wikilink")

@@ -10,17 +10,18 @@ so on its original owner.*
 `Modifies mana by 50 continuous`
 
 **Keyword(s):** fur leopard cloak  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** anti-good, ice-ward  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>  
-**[Weight](Object_Weight "wikilink"):** 8 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
-**[Area](:Category:_Areas "wikilink"):** [ Glyntaff
-Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** anti-good,
+ice-ward  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [ Glyntaff
+Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 ## Comments
 

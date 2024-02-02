@@ -1,10 +1,10 @@
 *Through years of studying, one can learn the magic properties of gems.
 The gems which can be studied aren't ordinary
-[treasures](:Category:_Treasure "wikilink"), but rather, the special
-gems which can be [embedded](Embed "wikilink") into
-[items](:Category:_Objects "wikilink").*
+[treasures](:Category:_Treasure.md "wikilink"), but rather, the special
+gems which can be [embedded](Embed.md "wikilink") into
+[items](:Category:_Objects.md "wikilink").*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
 Syntax: none (automatic).
 

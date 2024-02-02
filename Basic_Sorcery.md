@@ -24,7 +24,7 @@ Lowmort sorcerer lore. Provides access to the hero sorcerer lore.
 
 # Lores Unlocked
 
--   [lesser sorcery](Lesser_Sorcery "wikilink")
+-   [lesser sorcery](Lesser_Sorcery.md "wikilink")
 
 # Other Notes
 

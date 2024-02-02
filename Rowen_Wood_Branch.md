@@ -1,16 +1,16 @@
 *A rowen wood branch lies here.*
 
-`Has 20(20) charges at level 30 '`[`cure`` ``poison`](Cure_Poison "wikilink")`'.`
+`Has 20(20) charges at level 30 '`[`cure`` ``poison`](Cure_Poison.md "wikilink")`'.`
 
 **Keyword(s):** rowen, wood, branch.  
-**[Level(s)](Object_Level "wikilink"):** 12.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[wand](:Category:_Wands "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 12.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[wand](:Category:_Wands.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
@@ -18,16 +18,17 @@ You can also find this in a wooden box under the ruined temple in the
 Haunted Forest.
 
 See also [Suggested Curative
-Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear.md "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Haunted
-Forest](:Category:_Haunted_Forest "wikilink")
-([Map](Haunted_Forest_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Kelsee](Kelsee "wikilink").  
-[Kelsee](Kelsee "wikilink") sells these. See [her
-page](Kelsee "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Haunted
+Forest](:Category:_Haunted_Forest.md "wikilink")
+([Map](Haunted_Forest_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Kelsee](Kelsee.md "wikilink").  
+[Kelsee](Kelsee.md "wikilink") sells these. See [her
+page](Kelsee.md "wikilink") for more information.
 
 [Category: Gear In Haunted
 Forest](Category:_Gear_In_Haunted_Forest "wikilink") [Category:

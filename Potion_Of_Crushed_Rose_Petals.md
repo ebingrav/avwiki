@@ -55,8 +55,8 @@ Level 52 spells of: 'heal' 'heal'.
 </td>
 <td>
 
-[Graves of Reveria](:Category:_Graves_Of_Reveria "wikilink")
-([Map](Graves_Of_Reveria_Map "wikilink"))
+[Graves of Reveria](:Category:_Graves_Of_Reveria.md "wikilink")
+([Map](Graves_Of_Reveria_Map.md "wikilink"))
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ By the empty tomb
 It's on the Statue of Veyah in the west part of Graves.
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink")
 
 [Category: Gear In Graves Of
 Reveria](Category:_Gear_In_Graves_Of_Reveria "wikilink") [Category:

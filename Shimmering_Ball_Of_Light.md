@@ -6,32 +6,32 @@ itself in the process.*
 `Modifies mana by 50 continuous`
 
 **Keyword(s):** shimmering, ball, light.  
-**[Level(s)](Object_Level "wikilink"):** 43, 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** light.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 43, 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** light.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, magic.  
 
 ## Comments
 
 Non-permenant light source - lasts about a run, longer if you switch
 gear a lot. The lower level ones can be found on the ordinary
-[surveyors](Deep_Gnome_Surveyor "wikilink"), but attacking them will
+[surveyors](Deep_Gnome_Surveyor.md "wikilink"), but attacking them will
 make you an outlaw.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Cathracharraig](:Category:Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [deep gnome
-surveyor](Deep_Gnome_Surveyor "wikilink"), [Chief
+**[Area](:Category:_Areas.md "wikilink"):**
+[Cathracharraig](:Category:Cathracharraig.md "wikilink")
+([Map](Cathracharraig_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [deep gnome
+surveyor](Deep_Gnome_Surveyor.md "wikilink"), [Chief
 Surveyor](Chief_Surveyor "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
 
 [Category: Gear In
 Cathracharraig](Category:_Gear_In_Cathracharraig "wikilink") [Category:

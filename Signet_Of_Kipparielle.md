@@ -2,9 +2,9 @@
 Type: ticket  
 Flags: nolocate  
 Weight: 1  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 Mob: [Baronnes Kipparielle](Baronnes_Kipparielle "wikilink")  
 If you give this to the [Weaver Mother](Weaver_Mother "wikilink") she
 will tell you the following story about [Baronness
@@ -23,7 +23,7 @@ shrouded in chaos and disarray that not even my wisdom can untangle."*
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

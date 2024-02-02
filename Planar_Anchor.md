@@ -60,7 +60,7 @@ ASTRAL
 
 <td>
 
-Entrance to [Memory Lane](:Category:Memory_Lane "wikilink") is 2u.
+Entrance to [Memory Lane](:Category:Memory_Lane.md "wikilink") is 2u.
 Anchor room never has mobs, although the queen below longshots
 occasionally. One up is safe place to sleep.
 

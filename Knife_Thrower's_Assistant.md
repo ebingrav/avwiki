@@ -4,24 +4,26 @@ knife throwers rehearsal last night. She did wonder why the dashing
 knife thrower invited her out to dinner.*
 
 **Keywords:** assistant.  
-**[Level](Level "wikilink"):** 2.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 2.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `The knife thrower's assistant is using:`  
-<held>`              `[`a`` ``blindfold`](Blindfold "wikilink")
+<held>`              `[`a`` ``blindfold`](Blindfold.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Circus](:Category:_Circus "wikilink") ([Map](Circus_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The 3rd Ring (portable).  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Circus](:Category:_Circus.md "wikilink")
+([Map](Circus_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The 3rd Ring
+(portable).  
 Walking route from [Nom](Nom "wikilink"): n, 8w, 2n, w, 6s, \[s\], 2s,
 e.
 

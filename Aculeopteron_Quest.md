@@ -1,7 +1,7 @@
 This can be gotten by giving the [long, deep blue
-robe](Long,_Deep_Blue_Robe "wikilink"), [long, blood red
-robe](Long,_Blood_Red_Robe "wikilink") and the [long, jet black
-robe](Long,_Jet_Black_Robe "wikilink") to [Kiah](Kiah "wikilink").
+robe](Long,_Deep_Blue_Robe.md "wikilink"), [long, blood red
+robe](Long,_Blood_Red_Robe.md "wikilink") and the [long, jet black
+robe](Long,_Jet_Black_Robe.md "wikilink") to [Kiah](Kiah "wikilink").
 
 <b>Warning:</b> This area is extreme hero area. You will need a good
 group to accomplish this.

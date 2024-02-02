@@ -1,9 +1,11 @@
-*With this [skill](:Category:_Skills "wikilink") you can
-[wield](Wield "wikilink") equal [weighted](Object_Weight "wikilink")
-[weapon](:Category:_Weapons "wikilink") in both hands up to a certain
-[weight](Object_Weight "wikilink"). ([Weight](Object_Weight "wikilink")
-is determined by how much [skill](:Category:_Skills "wikilink") and how
-many poise-like [skills](:Category:_Skills "wikilink") you have.)*
+*With this [skill](:Category:_Skills.md "wikilink") you can
+[wield](Wield.md "wikilink") equal
+[weighted](Object_Weight.md "wikilink")
+[weapon](:Category:_Weapons.md "wikilink") in both hands up to a certain
+[weight](Object_Weight.md "wikilink").
+([Weight](Object_Weight.md "wikilink") is determined by how much
+[skill](:Category:_Skills.md "wikilink") and how many poise-like
+[skills](:Category:_Skills.md "wikilink") you have.)*
 
 Prerequisite(s): none.
 

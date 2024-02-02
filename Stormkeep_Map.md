@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Avatars_stormkeep.gif" title="Avatars_stormkeep.gif"
-width="650" alt="Avatars_stormkeep.gif" />
-<figcaption aria-hidden="true">Avatars_stormkeep.gif</figcaption>
+<img src="Avatars_stormkeep.gif.md" title="Avatars_stormkeep.gif.md"
+width="650" alt="Avatars_stormkeep.gif.md" />
+<figcaption aria-hidden="true">Avatars_stormkeep.gif.md</figcaption>
 </figure>
 
 [Frozen Wastes Map](Frozen_Wastes_Map "wikilink")  

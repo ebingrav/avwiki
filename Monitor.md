@@ -13,8 +13,8 @@ specific spell ([Saving Grace](Saving_Grace "wikilink")).
 
 ## Comments
 
-[Viziers](:Category:Viziers "wikilink") monitor target receives a bonus
-to healing when casting [Sanguen Pax](Sanguen_Pax "wikilink").
+[Viziers](:Category:Viziers.md "wikilink") monitor target receives a
+bonus to healing when casting [Sanguen Pax](Sanguen_Pax "wikilink").
 
 This spell is available at Hero level 101 to: Clerics, Paladins,
 Priests, Druids and Viziers.

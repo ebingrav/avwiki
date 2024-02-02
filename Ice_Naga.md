@@ -4,19 +4,19 @@ of her form ripple and undulate as she moves.*
 **Keywords:** ice, naga, ??.  
 **Scan Description:** Hatched from the ice seed, an ice naga prowls the
 frigid water.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[agressive](Aggressive_Mobs "wikilink"), ??, ??.  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), ??, ??.  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[agressive](Aggressive_Mobs.md "wikilink"), ??, ??.  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), ??, ??.  
 
 ## Gear
 
 `The ice naga is using:`  
-<worn around neck>`     (Invis) `[`a`` ``wreath`` ``of`` ``icicles`](Wreath_Of_Icicles "wikilink")
+<worn around neck>`     (Invis) `[`a`` ``wreath`` ``of`` ``icicles`](Wreath_Of_Icicles.md "wikilink")
 
 `The ice naga is carrying:`  
-`     `[`an`` ``ice`` ``seed`](Ice_Seed_(Ice_Naga) "wikilink")
+`     `[`an`` ``ice`` ``seed`](Ice_Seed_(Ice_Naga).md "wikilink")
 
 ## Comments
 
@@ -25,11 +25,11 @@ frigid water.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Battleground](:Category:_Battleground "wikilink")
-([Map](Battleground_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Trapped under the ice, The lake
-bottom, The frigid lake
+**[Area](:Category:_Areas.md "wikilink"):**
+[Battleground](:Category:_Battleground.md "wikilink")
+([Map](Battleground_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Trapped under the ice, The
+lake bottom, The frigid lake
 
 Walking route from [Shen](Shen "wikilink"): d, 3n, w, 2n, e, 7n, {d}.
 Pass-door will get you to the last room.  

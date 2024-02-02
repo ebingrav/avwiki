@@ -3,14 +3,14 @@ practice books for you players. Until it's done, however, he'll have to
 help you personally.*
 
 **Keywords:** Brother, Grimm.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](Thieving_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](Thieving_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -24,12 +24,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Brothers
-Grimm](:Category:_Brothers_Grimm "wikilink")
-([Map](Brothers_Grimm_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Home of the Brothers Grimm
-(portable, [safe](Safe_Rooms "wikilink")).  
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 4s, 2e, \[e\].  
+**[Area](:Category:_Areas.md "wikilink"):** [Brothers
+Grimm](:Category:_Brothers_Grimm.md "wikilink")
+([Map](Brothers_Grimm_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Home of the Brothers
+Grimm (portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 4s, 2e, \[e\].  
 A Brother Grimm is portable.  
 
 [Category: Mobs In Brothers

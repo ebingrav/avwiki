@@ -1,5 +1,5 @@
 *This area is part of the [Ruined
-Lairs](:Category:_Ruined_Lairs "wikilink") area.*
+Lairs](:Category:_Ruined_Lairs.md "wikilink") area.*
 
 **Level Range:** 51-51
 
@@ -7,18 +7,18 @@ Lairs](:Category:_Ruined_Lairs "wikilink") area.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"):
+Walking route from [Aelmon](Aelmon.md "wikilink"):
 14n8w3n6w4nwunwdnd2ne2n2w2nwu2wn2ueu3nese2nwnd2ndwdedwddn4wswn3w;op
 n;n;drink trickle.
 
-[Portaling](Portal "wikilink") point(s) suggested: [giant
-vulture](Giant_Vulture "wikilink"), then 2dn4wswn3w;op n;n;drink
+[Portaling](Portal.md "wikilink") point(s) suggested: [giant
+vulture](Giant_Vulture.md "wikilink"), then 2dn4wswn3w;op n;n;drink
 trickle.
 
 ## Connections
 
--   [Morte Vallta](:Category:Morte_Vallta "wikilink")
-    ([map](Morte_Vallta_Map "wikilink"))
+-   [Morte Vallta](:Category:Morte_Vallta.md "wikilink")
+    ([map](Morte_Vallta_Map.md "wikilink"))
 
 ## Navigation
 
@@ -41,7 +41,7 @@ move in all directions irregardless of the obvious exits.
 This lair is the largest ruined lair of the five, and offers good
 experience through large numbers of relatively weak but swarmy undead
 mobs. Area spells are preferable method of dealing with these, as well
-as an [arc shield](Charge_Shield "wikilink"), so the area is often
+as an [arc shield](Charge_Shield.md "wikilink"), so the area is often
 soloed by spellcasters, and an occasional priest (all undead, aggressive
 mobs).
 

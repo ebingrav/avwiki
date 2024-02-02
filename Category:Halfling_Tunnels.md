@@ -11,18 +11,18 @@ is seemingly no evidence to support this for the time being...*
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): See the route to [Sun God
-Altar](:Category:Sun_God_Altar "wikilink"). From here either run the
+recall](Eragora_default_recall.md "wikilink"): See the route to [Sun God
+Altar](:Category:Sun_God_Altar.md "wikilink"). From here either run the
 entire Altar area to its conclusion, or enter 1e from [halfling
-salad-worker](Halfling_Salad-Worker "wikilink") to [Halfling's
-Paradise](:Category:Halfling's_Paradise "wikilink") and run that entire
-area to its conclusion.
+salad-worker](Halfling_Salad-Worker.md "wikilink") to [Halfling's
+Paradise](:Category:Halfling's_Paradise.md "wikilink") and run that
+entire area to its conclusion.
 
 Either way, no trivial walking routes exist.
 
-[Portaling](Portal "wikilink") point(s) suggested: The only in-area
-portal point is [disguised halfling](Disguised_Halfling "wikilink"). An
-alternative is to portal to [Mezzo](Mezzo "wikilink") (aggressive if
+[Portaling](Portal.md "wikilink") point(s) suggested: The only in-area
+portal point is [disguised halfling](Disguised_Halfling.md "wikilink").
+An alternative is to portal to [Mezzo](Mezzo "wikilink") (aggressive if
 havent done halfling detective), and then go east and north (aggie at
 every room if havent done halfling detective).
 
@@ -30,9 +30,9 @@ every room if havent done halfling detective).
 
 Known connections:
 
--   [Halfling's Paradise](:Category:Halfling's_Paradise "wikilink")
--   [Quarries and Mines](:Category:Quarries_and_Mines "wikilink")
--   [Sun God Altar](:Category:Sun_God_Altar "wikilink")
+-   [Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink")
+-   [Quarries and Mines](:Category:Quarries_and_Mines.md "wikilink")
+-   [Sun God Altar](:Category:Sun_God_Altar.md "wikilink")
 
 ## Exploration
 
@@ -42,7 +42,7 @@ Jakkbam requested that their area not be mapped out on the wiki (May
 ## Adventuring
 
 Difficulty is much higher than the [Halfling's
-Paradise](:Category:Halfling's_Paradise "wikilink").
+Paradise](:Category:Halfling's_Paradise.md "wikilink").
 
 Area features an incredible amount of very-hard hitting, swarmy aggie
 weapon-wielding mobs that all see through hidden and invisible.

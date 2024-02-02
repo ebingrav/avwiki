@@ -6,7 +6,7 @@ master lore if the lowmort rogue lore was gained.
 
 # Prereqs
 
--   [initiation](Initiation "wikilink")
+-   [initiation](Initiation.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -73,10 +73,10 @@ master lore if the lowmort rogue lore was gained.
 
 # Lores Unlocked
 
--   [lesser psionics](Lesser_Psionics "wikilink")
--   [basic mindbending](Basic_Mindbending "wikilink")
--   With [basic subterfuge](Basic_Subterfuge "wikilink"): [basic circle
-    lore](Basic_Circle_Lore "wikilink")
+-   [lesser psionics](Lesser_Psionics.md "wikilink")
+-   [basic mindbending](Basic_Mindbending.md "wikilink")
+-   With [basic subterfuge](Basic_Subterfuge.md "wikilink"): [basic
+    circle lore](Basic_Circle_Lore.md "wikilink")
 
 # Other Notes
 

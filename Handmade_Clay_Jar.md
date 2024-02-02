@@ -1,25 +1,26 @@
 *A clay jar, handmade by [Andus](Andus "wikilink"), sits here.*
 
-[`Capacity`](Container_Values "wikilink")` is 200 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 200 lbs.`
 
 **Keyword(s):** clay, jar.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 1000 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 1000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Gorn's
-Anchor](:Category:_Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Andus](Andus "wikilink").  
-[Andus](Andus "wikilink") sells these for 16 [gold](Gold "wikilink");
+**[Area](:Category:_Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:_Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Andus](Andus "wikilink").  
+[Andus](Andus "wikilink") sells these for 16 [gold](Gold.md "wikilink");
 see his page for more information.  
 
 [Category: Gear In Gorn's

@@ -10,9 +10,9 @@ flux..."*
 `the beauty, the faintest dreams drifting about... It is to no`  
 `avail, there can be no peace. There is nothing to rely on.`
 
-**[Commune Bonus](Commune "wikilink"):** dr +15
+**[Commune Bonus](Commune.md "wikilink"):** dr +15
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Evolution](Aspect_-_Evolution "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Evolution](Aspect_-_Evolution.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

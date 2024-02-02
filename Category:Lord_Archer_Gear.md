@@ -10,6 +10,7 @@ Areas](:Category:Shard_Area_Gear "wikilink").</small>
 <sup>1</sup><small>The strength bonus on this item might be useful for
 users of heavily restrung bows in some situations.</small>
 
-See also: [ Lord Archer Gear Advice](Lord_Archer_Gear_Advice "wikilink")
+See also: [ Lord Archer Gear
+Advice](Lord_Archer_Gear_Advice.md "wikilink")
 
 [Category:Lord Gear](Category:Lord_Gear "wikilink")

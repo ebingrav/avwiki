@@ -3,7 +3,7 @@
 Level: 33-35  
 Damage: 18 - 55  
 Mob: Tang (portable)  
-Area: [White Lotus Temple](:Category:White_Lotus_Temple "wikilink")
+Area: [White Lotus Temple](:Category:White_Lotus_Temple.md "wikilink")
 
 Grandfathered
 

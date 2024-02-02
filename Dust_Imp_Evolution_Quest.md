@@ -1,7 +1,8 @@
-In the [ancient bronze wyrm](:Category:Ancient_Bronze_Wyrm "wikilink")
-area, find the the [Bronze Wyrm](Kastinius "wikilink").
+In the [ancient bronze
+wyrm](:Category:Ancient_Bronze_Wyrm.md "wikilink") area, find the the
+[Bronze Wyrm](Kastinius.md "wikilink").
 
-Kill [Bronze Wyrm](Kastinius "wikilink") and pull the lever that
+Kill [Bronze Wyrm](Kastinius.md "wikilink") and pull the lever that
 appears. Note: You can't enter the room with
 [Vincent](Vincent "wikilink") without killing the wyrm because the lever
 needed to open the door won't appear until the Wyrm is dead. Use an alt

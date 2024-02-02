@@ -5,27 +5,27 @@ something like a reptilian shape. It is impossible to make any
 assumptions about the age of the ornament, but it is definitely not of a
 common style.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4-6.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -8 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4-6.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -8 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** delicate, necklace, siradur.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink")  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Odevar
-Hills](:Category:_Odevar_Hills "wikilink")
-([Map](Odevar_Hills_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Odevar
+Hills](:Category:_Odevar_Hills.md "wikilink")
+([Map](Odevar_Hills_Map.md "wikilink")).  
 See [Delicate Necklace Quest](Delicate_Necklace_Quest "wikilink") for
 more information.  
 

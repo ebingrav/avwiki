@@ -7,11 +7,11 @@ other citizens, that flock of sheep, to be calm -- unalarmed even --
 against the growing threat.*
 
 **Keywords:** citizen, degraded, former.  
-**[Level](Level "wikilink"):** 42.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 42.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -25,12 +25,12 @@ against the growing threat.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [A House of
-Stone](:Category:_House_Of_Stone "wikilink")
-([Map](House_Of_Stone_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** At the bottom of a roughly hewn
-cavern (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 22n, e, n, 2w, 4n, w,
+**[Area](:Category:_Areas.md "wikilink"):** [A House of
+Stone](:Category:_House_Of_Stone.md "wikilink")
+([Map](House_Of_Stone_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** At the bottom of a roughly
+hewn cavern (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 22n, e, n, 2w, 4n, w,
 push head, n, d, {e}, s, d.  
 A degraded citizen is portable.
 

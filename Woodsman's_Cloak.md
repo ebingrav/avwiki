@@ -1,26 +1,27 @@
 *A forest colored cloak is here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6-8.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6-8.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5 continuous.`
 
 **Keyword(s):** cloak, woodsmans.  
-**[Level(s)](Object_Level "wikilink"):** 29-31.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 29-31.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Coven](:Category:_Coven "wikilink") ([Map](Coven_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The woodsman
-guard](Woodsman_Guard "wikilink").  
-See [The woodsman guard](Woodsman_Guard "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):**
+[Coven](:Category:_Coven.md "wikilink")
+([Map](Coven_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The woodsman
+guard](Woodsman_Guard.md "wikilink").  
+See [The woodsman guard](Woodsman_Guard.md "wikilink") for more
 information.  
 
 [Category: Gear In Coven](Category:_Gear_In_Coven "wikilink") [Category:

@@ -1,17 +1,18 @@
-*This [spell](:Category:_Spells "wikilink") enables the caster to detect
-evil [characters](:Category:_Characters "wikilink"), which will reveal a
-characteristic red aura.*
+*This [spell](:Category:_Spells.md "wikilink") enables the caster to
+detect evil [characters](:Category:_Characters.md "wikilink"), which
+will reveal a characteristic red aura.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'detect evil'.
+Syntax: [cast](Cast.md "wikilink") 'detect evil'.
 
-This [spell](:Category:_Spells "wikilink") is not especially useful
-compared to most. It is included in [Holy Sight](Holy_Sight "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is not especially useful
+compared to most. It is included in [Holy
+Sight](Holy_Sight.md "wikilink").
 
 See also [Gear That Applies Detect
-Evil](:Category:_Gear_That_Applies_Detect_Evil "wikilink") and [Detect
-Evil Gear](:Category:_Detect_Evil_Gear "wikilink").
+Evil](:Category:_Gear_That_Applies_Detect_Evil.md "wikilink") and
+[Detect Evil Gear](:Category:_Detect_Evil_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

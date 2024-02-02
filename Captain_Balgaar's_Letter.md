@@ -1,26 +1,26 @@
 *A letter, written crudely on a sheet of bark, is here.*
 
 **Keyword(s):** captain, balgaars, letter.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Walking
-Woods](:Category:_Walking_Woods "wikilink")' [Walking Woods Plague
-Quest](Walking_Woods_Plague_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")' [Walking Woods Plague
+Quest](Walking_Woods_Plague_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Walking
-Woods](:Category:_Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain
+**[Area](:Category:_Areas.md "wikilink"):** [Walking
+Woods](:Category:_Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain
 Balgaar](Captain_Balgaar "wikilink").  
 See [Captain Balgaar](Captain_Balgaar "wikilink") for more information.
 

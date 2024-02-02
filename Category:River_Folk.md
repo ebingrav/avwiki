@@ -1,8 +1,8 @@
-*This mysterious race of [lizard people](Lizardmen "wikilink") dwell in
-the widest portion of the [Crystal
-River](:Category:_Rivers_Of_Avatar "wikilink"). They moved here several
-generations ago, fleeing what, they do not remember. They only know that
-life here is hard, and precious.*
+*This mysterious race of [lizard people](Lizardmen.md "wikilink") dwell
+in the widest portion of the [Crystal
+River](:Category:_Rivers_Of_Avatar.md "wikilink"). They moved here
+several generations ago, fleeing what, they do not remember. They only
+know that life here is hard, and precious.*
 
 **Level Range:** 18-23
 
@@ -10,14 +10,14 @@ life here is hard, and precious.*
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 2w, 3s, 2w,
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 2w, 3s, 2w,
 7s.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 8w, 3s, 2w,
-7s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 8w, 3s,
+2w, 7s.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Lhadvar
-shaman](Lhadvar_Shaman "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Lhadvar
+shaman](Lhadvar_Shaman.md "wikilink").
 
 ## Connections
 

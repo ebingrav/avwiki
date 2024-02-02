@@ -1,4 +1,5 @@
-*This area is part of the [Houses](:Category:_Houses "wikilink") area.*
+*This area is part of the [Houses](:Category:_Houses.md "wikilink")
+area.*
 
 **Level Range:** 10-20
 
@@ -6,13 +7,13 @@
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 5w, s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 5w, s.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
--   [Midgaard](:Category:_Midgaard "wikilink")
+-   [Midgaard](:Category:_Midgaard.md "wikilink")
 
 ## Navigation
 
@@ -24,7 +25,7 @@ The key to the front door is under the rug. The rug is a container. The
 most notable item here is the [Enchanted
 Lockpick](Enchanted_Lockpick "wikilink") which is the best/easiest chest
 and door lockpick you can get. Just have autoloot on as most of the mobs
-are [scavengers](:Category:Scavenging_Mobs "wikilink").
+are [scavengers](:Category:Scavenging_Mobs.md "wikilink").
 
 [Category: Houses](Category:_Houses "wikilink") [Category: Grandfathered
 Areas](Category:_Grandfathered_Areas "wikilink")

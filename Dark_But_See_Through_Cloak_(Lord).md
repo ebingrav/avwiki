@@ -15,12 +15,13 @@ Mob: [True King Of The
 Githzerai](True_King_Of_The_Githzerai "wikilink"), [Spirit Of The
 Githzerai Master Of
 Death](Spirit_Of_The_Githzerai_Master_Of_Death "wikilink")  
-Area: [Githzerai Keep](:Category:Githzerai_Keep "wikilink")
+Area: [Githzerai Keep](:Category:Githzerai_Keep.md "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Githzerai
-Keep](:Category:Gear_In_Githzerai_Keep "wikilink") for more information.
+Keep](:Category:Gear_In_Githzerai_Keep.md "wikilink") for more
+information.
 
 [Category:Lord HP Gear](Category:Lord_HP_Gear "wikilink") [Category:Lord
 Save Vs Spell Gear](Category:Lord_Save_Vs_Spell_Gear "wikilink")

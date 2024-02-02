@@ -3,11 +3,11 @@ who tries to talk her down. You can see that getting a good deal here
 would be a lot of work.*
 
 **Keywords:** Ajuu.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -26,13 +26,13 @@ You peek at the inventory:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Trog Market, Housewares
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Trog Market, Housewares
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 17s, e, n, d, n, 2e, 5n,
-w.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17s, e, n, d, n, 2e,
+5n, w.  
 Ajuu the Housewares Vendor.  
 
 [Category: Mobs In Igecsoz](Category:_Mobs_In_Igecsoz "wikilink")

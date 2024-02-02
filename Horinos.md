@@ -33,8 +33,8 @@ first quest takes you to his room that has been ravaged by a werewolf.
 Once you bring back some hints of Ingos' whereabouts Horinos will attemt
 to seek his friend with magic and give you another clue as to where he
 might be. This will lead you to the caverns of
-[Obelische](:Category:_Obelische_Caverns "wikilink") where you seek the
-last part of Ignos' cross. Bring it back and give it to Horinos to
+[Obelische](:Category:_Obelische_Caverns.md "wikilink") where you seek
+the last part of Ignos' cross. Bring it back and give it to Horinos to
 recieve a gift.
 
 ### Directions

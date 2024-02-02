@@ -10,8 +10,8 @@ however, so they will never be said to be good at wielding a sword.*
 
 **Abbreviation:** Sor.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Intelligence](Intelligence "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Intelligence](Intelligence.md "wikilink").
 
 ## Sorcerers in General
 
@@ -22,29 +22,29 @@ area-damage spells. Akin to wizards, sorcerers receive very little of
 the melee-related skills, so they rely purely on spell damage. They also
 lose out on some protective spells, the most important of which are
 [sanctuary](sanctuary "wikilink"), as well as the entire
-[awen](Awen "wikilink") stack.
+[awen](Awen.md "wikilink") stack.
 
 There are various utility spells to help them survive:
 [Flash](Flash "wikilink"), [Vampire Touch](Vampire_Touch "wikilink"),
 [Tainted Genius](Tainted_Genius "wikilink") and [Death
 Shroud](Death_Shroud "wikilink") are the most important of them.
 However, for learning many of their spells, they have to practice
-[demonic intent](Demonic_Intent "wikilink"), which makes their alignment
-irrevocably evil. This has a few major side-effects:
+[demonic intent](Demonic_Intent.md "wikilink"), which makes their
+alignment irrevocably evil. This has a few major side-effects:
 
 1.  They will not be able to receive [Awen](Awen "wikilink") from nor
     cast [Frenzy](Frenzy "wikilink") on good aligned party members,
 2.  They cannot wear good-aligned enchanted gear without
-    [violating](Violation "wikilink") it first (a process that rises
-    item level) or [harmonising](Harmonize "wikilink") it with an evil
-    cleric/druid.
+    [violating](Violation.md "wikilink") it first (a process that rises
+    item level) or [harmonising](Harmonize.md "wikilink") it with an
+    evil cleric/druid.
 3.  They make use of [Protection Good](Protection_Good "wikilink")
     instead of [Protection Evil](Protection_Evil "wikilink"), so they
     are more vulnerable to evil mobs than good-aligned characters.
 
 They do, however possess an array of defensive spells/skills that render
 their battles easier than a Wizard or Mage. One of these it is
-[unrest](Unrest "wikilink"), which can be cast mid-battle and
+[unrest](Unrest.md "wikilink"), which can be cast mid-battle and
 drastically lowers an enemy's ability to regenerate hit points, opening
 up the possibility of taking down enormous hero mobs such as the
 horsemen of apocalypse and The Pretender. Their flash is also in-class,
@@ -67,35 +67,36 @@ they do not get charged shield.
 
 ## Sorcerer Creation
 
-Only [Mages](:Category:_Mages "wikilink"),
-[Psionicists](:Category:_Psionicists "wikilink"),
-[Rippers](:Category:_Rippers "wikilink") and
-[Mindbenders](:Category:_Mindbenders "wikilink") can become a Sorcerer.
-It is a [remort](remort "wikilink") class that is only available at Lord
-level 100 (to become a Human Sorcerer) or Lord level 200 to maintain the
-current race for Mages and Mindbenders, and levels 150/300 for
-Psionicists. Various [rebirth](Rebirth "wikilink") options also exist.
-It is also now possible to remort to a createable race at Lord 125 if
-you are already a Sorcerer.
+Only [Mages](:Category:_Mages.md "wikilink"),
+[Psionicists](:Category:_Psionicists.md "wikilink"),
+[Rippers](:Category:_Rippers.md "wikilink") and
+[Mindbenders](:Category:_Mindbenders.md "wikilink") can become a
+Sorcerer. It is a [remort](remort "wikilink") class that is only
+available at Lord level 100 (to become a Human Sorcerer) or Lord level
+200 to maintain the current race for Mages and Mindbenders, and levels
+150/300 for Psionicists. Various [rebirth](Rebirth.md "wikilink")
+options also exist. It is also now possible to remort to a createable
+race at Lord 125 if you are already a Sorcerer.
 
 ## Sorcerers at Lowmort Tier
 
 ### Training
 
-Similar to a [mage](:Category:_Mages "wikilink"), a new sorcerer's first
-priority should be to train [wis](Wisdom "wikilink"),
-[int](Intelligence "wikilink"), and [con](Constitution "wikilink").
+Similar to a [mage](:Category:_Mages.md "wikilink"), a new sorcerer's
+first priority should be to train [wis](Wisdom.md "wikilink"),
+[int](Intelligence.md "wikilink"), and
+[con](Constitution.md "wikilink").
 
-To sorcerers [Dex](Dexterity "wikilink") is only useful for the
-[AC](Armor_Class "wikilink") bonus, and [str](Strength "wikilink") for
-carry capacity.
+To sorcerers [Dex](Dexterity.md "wikilink") is only useful for the
+[AC](Armor_Class.md "wikilink") bonus, and [str](Strength.md "wikilink")
+for carry capacity.
 
 ### Practicing
 
 Skills critical to a sorcerer, especially if soloing or tanking are:
 
 -   [Leech](Leech "wikilink") and later [Vampire
-    touch](Vampire_Touch "wikilink") - to maintain health while doing
+    touch](Vampire_Touch.md "wikilink") - to maintain health while doing
     damage,
 -   [Flash](Flash "wikilink") - to blind mobs (thus reducing their HR),
 -   [Tainted Genius](Tainted_Genius "wikilink") - to occasionally
@@ -118,8 +119,9 @@ inherently low HP gains, which benefit greatly from Qxl worship.
 At lord, [Bhyss](Bhyss "wikilink") is popular, due to large damage bonus
 it provides (which overshadows the flaws of worshipping Bhyss).
 
-See the [mage worship section](:Category:Mages#Worshipping "wikilink")
-for more information.
+See the [mage worship
+section](:Category:Mages#Worshipping.md "wikilink") for more
+information.
 
 ### Fighting
 
@@ -130,9 +132,9 @@ During combat a lowmort sorcerer uses [Leech](Leech "wikilink") and
 charged shield.
 
 **Tanking:** Sorcerers make poor tanks since they cannot rescue group
-mates. They also do not learn [dodge](Dodge "wikilink") until hero, and
-they never learn [shield block](Shield_Block "wikilink") nor
-[parry](Parry "wikilink").
+mates. They also do not learn [dodge](Dodge.md "wikilink") until hero,
+and they never learn [shield block](Shield_Block.md "wikilink") nor
+[parry](Parry.md "wikilink").
 
 **Hitting:** Sorcerer melee is, similar to wizards, marginal.
 
@@ -171,7 +173,7 @@ useless.
 ### Devoting
 
 Identical to other casters. See [devoting as a
-mage](:Category:Mages#Devoting "wikilink") for more information.
+mage](:Category:Mages#Devoting.md "wikilink") for more information.
 
 ### Fighting
 
@@ -190,16 +192,17 @@ Since sorcerers are universally evil after 101, soloing in good-aligned
 areas is preferred where they can benefit from their [Protection
 Good](Protection_Good "wikilink") spell. Some examples are:
 
--   Low Hero: [Greed's Gallows](:Category:Greed's_Gallows "wikilink") -
-    the upper level is exclusively good,
--   Super Hero: [Rhuien Forest](:Category:Rhuien_Forest "wikilink") -
+-   Low Hero: [Greed's
+    Gallows](:Category:Greed's_Gallows.md "wikilink") - the upper level
+    is exclusively good,
+-   Super Hero: [Rhuien Forest](:Category:Rhuien_Forest.md "wikilink") -
     all mobs are saintly, but it requires self-spelling.
 
 **Tanking:** Sorcerers with enchanted AC gear make acceptable tanks,
 however they lack [rescue](rescue "wikilink"). This makes it nice to
 have a large group mate to rescue other groupies. They also lack [shield
-block](Shield_Block "wikilink") and [parry](Parry "wikilink"). While
-tanking, their [dodge](Dodge "wikilink"), [Vampire
+block](Shield_Block.md "wikilink") and [parry](Parry.md "wikilink").
+While tanking, their [dodge](Dodge.md "wikilink"), [Vampire
 Touch](Vampire_Touch "wikilink") and in-class [Flash](Flash "wikilink")
 all directly and significantly help. As always, a charged shield grants
 further assistance.
@@ -215,10 +218,11 @@ mana, they should be able to cause significant damage casting
 **Healing:** As any caster, sorcerers can brandish or zap healing staves
 and wands, some of which need to be violated prior to use. Otherwise,
 they lack any healing spells. While they do not get [cure
-poison](Cure_Poison "wikilink") they do get (the psi equivalent) [cell
-adjustment](Cell_Adjustment "wikilink"); although they never get [bio
-empathy](bio_empathy "wikilink"), so can only cast it on themselves.
-They also have in-class [remove curse](Remove_Curse "wikilink").
+poison](Cure_Poison.md "wikilink") they do get (the psi equivalent)
+[cell adjustment](Cell_Adjustment.md "wikilink"); although they never
+get [bio empathy](bio_empathy "wikilink"), so can only cast it on
+themselves. They also have in-class [remove
+curse](Remove_Curse.md "wikilink").
 
 ## Sorcerers at Lord Tier
 
@@ -247,6 +251,6 @@ sorcerer - but these generally work well for any spellcasting class.
     deals with spells.
 -   [Trolls](Trolls "wikilink") which accept smaller mana gains and
     higher spell costs in exchange for higher HP and survivability via
-    [revival](Racial_Revival "wikilink").
+    [revival](Racial_Revival.md "wikilink").
 
 [Category: Remort Classes](Category:_Remort_Classes "wikilink")

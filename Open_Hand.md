@@ -1,7 +1,7 @@
 *Open Hand allows you to improve your 'weaponless' attacks. This
-[skill](:Category:_Skills "wikilink") is automatic once
-[practiced](Practice "wikilink"). Where average martial artists leave
-off, [monks](:Category:_Monks "wikilink") develop further by devoting
+[skill](:Category:_Skills.md "wikilink") is automatic once
+[practiced](Practice.md "wikilink"). Where average martial artists leave
+off, [monks](:Category:_Monks.md "wikilink") develop further by devoting
 entirely to the open handed attack.*
 
 Prerequisite(s): none.

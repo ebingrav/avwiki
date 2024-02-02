@@ -1,12 +1,12 @@
-*Far, far from [Midgaard](:Category:_Midgaard "wikilink"), in the very
-northeastern reaches of the Great Forest
-[Wildwood](:Category:_Wildwood "wikilink"), the forces of Apocalypse and
-his Horsemen, Death, War, Famine and Pestilence are bringing this corner
-of the worlds to its knees. This is a place of fire, of widespread
-[plague](Plague "wikilink"), of starvation and misery. Going there is
-said to bring nothing but sickness, tragedy and death. The few who
-claimed to have survived a trip to Apocalypse are generally shunned in
-the cities, dismissed as madmen or feared as demons.*
+*Far, far from [Midgaard](:Category:_Midgaard.md "wikilink"), in the
+very northeastern reaches of the Great Forest
+[Wildwood](:Category:_Wildwood.md "wikilink"), the forces of Apocalypse
+and his Horsemen, Death, War, Famine and Pestilence are bringing this
+corner of the worlds to its knees. This is a place of fire, of
+widespread [plague](Plague.md "wikilink"), of starvation and misery.
+Going there is said to bring nothing but sickness, tragedy and death.
+The few who claimed to have survived a trip to Apocalypse are generally
+shunned in the cities, dismissed as madmen or feared as demons.*
 
 **Level Range:** 51-51
 
@@ -14,11 +14,11 @@ the cities, dismissed as madmen or feared as demons.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 5n, e, s, e, 2n, 3e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 5n, e, s, e, 2n, 3e.
 
-[Portaling](Portal "wikilink") point(s) suggested: [skeletal
-guard](Skeletal_Guard "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [skeletal
+guard](Skeletal_Guard.md "wikilink").
 
 ## Connections
 
@@ -35,7 +35,7 @@ so as not to accidently wander into a horsie or [Dust
 Demon](Dust_Demon "wikilink"). Heroes duoing or small lowhero groups
 will do well here, also can dive into survivor section and go after
 [Jackal](Jackal "wikilink") for
-[Carbs](Carburized_Steel_Plate_Armor "wikilink")
+[Carbs](Carburized_Steel_Plate_Armor.md "wikilink")
 ([Panther](Panther "wikilink") also carries the armor but he is
 significantly more difficult).
 

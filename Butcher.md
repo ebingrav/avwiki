@@ -1,16 +1,16 @@
-*This [skill](:Category:_Skills_And_Spells "wikilink") allows you to
+*This [skill](:Category:_Skills_And_Spells.md "wikilink") allows you to
 butcher a corpse into an edible steak. You must be
-[wielding](Wield "wikilink") a [bowie
-knife](Standard_Issue_Bowie_Knife "wikilink") to use this
-[skill](:Category:_Skills_And_Spells "wikilink"). [Bowie
-Knives](Standard_Issue_Bowie_Knife "wikilink") can be purchased in
-[Midgaard](:Category:_Midgaard "wikilink").*
+[wielding](Wield.md "wikilink") a [bowie
+knife](Standard_Issue_Bowie_Knife.md "wikilink") to use this
+[skill](:Category:_Skills_And_Spells.md "wikilink"). [Bowie
+Knives](Standard_Issue_Bowie_Knife.md "wikilink") can be purchased in
+[Midgaard](:Category:_Midgaard.md "wikilink").*
 
 Prerequisite(s): none.
 
 Syntax: butcher corpse.
 
-See also [Racial Butcher](Racial_Butcher "wikilink").
+See also [Racial Butcher](Racial_Butcher.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

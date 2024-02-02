@@ -1,31 +1,33 @@
 *This article is about a spell. For the piece of [guild
-gear](:Category:Guild_Gear "wikilink") see [Holy Aura
+gear](:Category:Guild_Gear.md "wikilink") see [Holy Aura
 (Armor)](Holy_Aura_(Armor) "wikilink").*
 
-*This [spell](:Category:_Spells "wikilink") decreases your
-[AC](Armor_Class "wikilink") by the Grace of the
-[Gods](:Category:_Gods_And_Goddesses "wikilink"). It gives a bonus of
--40 [AC](Armor_Class "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") decreases your
+[AC](Armor_Class.md "wikilink") by the Grace of the
+[Gods](:Category:_Gods_And_Goddesses.md "wikilink"). It gives a bonus of
+-40 [AC](Armor_Class.md "wikilink").*
 
-Prerequisite(s): [Holy Armor](Holy_Armor "wikilink").
+Prerequisite(s): [Holy Armor](Holy_Armor.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'holy aura'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'holy aura'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is third of four
+This [spell](:Category:_Spells.md "wikilink") is third of four
 [armor-class-boosting
-spells](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
-that both [clerics](:Category:_Clerics "wikilink") and
-[priests](:Category:_Priests "wikilink") may
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50.
-[Characters](:Category:_Characters "wikilink") of many other
-[classes](:Category:_Classes "wikilink") may
-[learn](Practice "wikilink") it at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink"). It is included in both
-[Aegis](Aegis "wikilink") and [Awen](Awen "wikilink"). Its
-[AC](Armor_Class "wikilink") bonus may be modified by its
-[caster](Cast "wikilink")'s choice of [worship](Worship "wikilink").
+spells](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
+that both [clerics](:Category:_Clerics.md "wikilink") and
+[priests](:Category:_Priests.md "wikilink") may
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50.
+[Characters](:Category:_Characters.md "wikilink") of many other
+[classes](:Category:_Classes.md "wikilink") may
+[learn](Practice.md "wikilink") it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). It is included in both
+[Aegis](Aegis.md "wikilink") and [Awen](Awen.md "wikilink"). Its
+[AC](Armor_Class.md "wikilink") bonus may be modified by its
+[caster](Cast.md "wikilink")'s choice of
+[worship](Worship.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

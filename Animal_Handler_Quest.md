@@ -1,8 +1,8 @@
 This quest confers the [Eragora - Animal
 Handler](Eragora_-_Animal_Handler "wikilink") to the entire group
 completing it, and is located within
-[Rapture](:Category:Rapture "wikilink") on
-[Eragora](:Category:Eragora "wikilink").
+[Rapture](:Category:Rapture.md "wikilink") on
+[Eragora](:Category:Eragora.md "wikilink").
 
 Simply find a proper docile mob and decide to open a butcher shop. If
 you survive, you get the insignia and its bonus. Be aware at least one

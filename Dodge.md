@@ -1,7 +1,7 @@
-*This [skill](:Category:_Skills "wikilink") lets you dodge incoming
+*This [skill](:Category:_Skills.md "wikilink") lets you dodge incoming
 attacks, taking no damage from them. Use of the
-[skill](:Category:_Skills "wikilink") is automatic once you have
-[practiced](Practice "wikilink") it.*
+[skill](:Category:_Skills.md "wikilink") is automatic once you have
+[practiced](Practice.md "wikilink") it.*
 
 Prerequisite(s): none.
 

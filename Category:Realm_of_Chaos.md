@@ -10,12 +10,12 @@ Law.*
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Astral](:Category:Astral "wikilink") and go d, d, e
+[Astral](:Category:Astral.md "wikilink") and go d, d, e
 
 ## Connections
 
 Go east,east to visit the [Domain of
-Law](:Category:Domain_of_Law "wikilink").
+Law](:Category:Domain_of_Law.md "wikilink").
 
 ## Navigation
 
@@ -24,9 +24,9 @@ Law](:Category:Domain_of_Law "wikilink").
 ## Adventuring
 
 Realm of Chaos is heavily tied to [Domain of
-Law](:Category:Domain_of_Law "wikilink"). As such, see [Adventuring in
-Domain of Law](:Category:Domain_of_Law#Adventuring "wikilink") for more
-details.
+Law](:Category:Domain_of_Law.md "wikilink"). As such, see [Adventuring
+in Domain of Law](:Category:Domain_of_Law#Adventuring.md "wikilink") for
+more details.
 
 ### Mobs
 

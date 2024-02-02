@@ -3,30 +3,30 @@ noise.*
 
 [`Damage`](Damage "wikilink")` is 18 to 55.`  
 `Modifies melee attacks with electric damage continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by -3 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by -3 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** thunder, stick, club.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Battleground](:Category:_Battleground "wikilink")
-([Map](Battleground_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[Battleground](:Category:_Battleground.md "wikilink")
+([Map](Battleground_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Greigon](Greigon "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 Walking route from [Shen](Shen "wikilink"): d, 3n, w, 2n, e, 7n, w, 2n,
 w, 9n, 3u, 2n, u, n. (Lots of aggies along the way)
 

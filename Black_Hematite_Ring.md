@@ -7,8 +7,8 @@ Weight 1
 Mob: [Drider Warrior](Drider_Warrior "wikilink"), [Gray
 Drider](Gray_Drider "wikilink"), [Drider
 Queen](Drider_Queen "wikilink")  
-Area: [Lloth's Peak](:Category:_Lloth's_Peak "wikilink")
-([Map](Lloth's_Peak_Map "wikilink"))  
+Area: [Lloth's Peak](:Category:_Lloth's_Peak.md "wikilink")
+([Map](Lloth's_Peak_Map.md "wikilink"))  
 NOTE: there are several variations of the ring, some of which give AC,
 some of which do nothing at all.
 

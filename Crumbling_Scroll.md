@@ -1,31 +1,31 @@
 *A fragment of the Book of Truth. You can still make out part of the
 writings.*
 
-`Level 51 spells of: '`[`heal`](Heal_(spell) "wikilink")`' 'heal'.`
+`Level 51 spells of: '`[`heal`](Heal_(spell).md "wikilink")`' 'heal'.`
 
 **Keyword(s):** scroll, fragment, truth.  
-**[Level(s)](Object_Level "wikilink"):** 1.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[scroll](:Category:Scrolls "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** None.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 1.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[scroll](:Category:Scrolls.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** None.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink")
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Shadow
-Keep](:Category:_Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Holy Chapel
+**[Area](:Category:Areas.md "wikilink"):** [Shadow
+Keep](:Category:_Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Holy Chapel
 
-[Portaling](Portal "wikilink") point suggested: [hound
-dog](Feral_Hunting_Hound "wikilink").
+[Portaling](Portal.md "wikilink") point suggested: [hound
+dog](Feral_Hunting_Hound.md "wikilink").
 
 This can be found in the Keep itself on the first floor, all the way to
 the north. It is in the silver altar.

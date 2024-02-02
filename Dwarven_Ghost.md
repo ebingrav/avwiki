@@ -2,14 +2,14 @@
 tomb.*
 
 **Keywords:** dwarf, miner, ghostly, form.  
-**[Level](Level "wikilink"):** 35.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink"), [lich
-spellcaster](Spellcasting_Mobs "wikilink") or
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"), [pass
-door](Pass_Door "wikilink").  
+**[Level](Level.md "wikilink"):** 35.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink"), [lich
+spellcaster](Spellcasting_Mobs.md "wikilink") or
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"), [pass
+door](Pass_Door.md "wikilink").  
 
 ## Comments
 
@@ -20,10 +20,10 @@ mobs may be either a lich spellcaster or aggressive (one or the other).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Iceways](:Category:_Iceways "wikilink")
-([Map](Iceways_Map "wikilink")).  
-A Dwarven ghost [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Iceways](:Category:_Iceways.md "wikilink")
+([Map](Iceways_Map.md "wikilink")).  
+A Dwarven ghost [wanders](Wandering_Mobs.md "wikilink").  
 A Dwarven ghost is portable.  
 
 [Category: Mobs In Iceways](Category:_Mobs_In_Iceways "wikilink")

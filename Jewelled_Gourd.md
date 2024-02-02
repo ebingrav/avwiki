@@ -1,21 +1,22 @@
 *A jewel-encrusted gourd sits here, filled with a clear liquid.*
 
-`Level 75 spells of: '`[`cure`` ``critical`](Cure_Critical "wikilink")`'.`
+`Level 75 spells of: '`[`cure`` ``critical`](Cure_Critical.md "wikilink")`'.`
 
 **Keyword(s):** jeweled, gourd  
-**[Level(s)](Object_Level "wikilink"):** 125.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 5.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Plane](:Category:_Lord_Planes "wikilink"):**
-[Thorngate](:Category:Thorngate "wikilink")  
-**[Area](:Category:_Areas "wikilink"):** [Rietta's
-Wonders](:Category:Rietta's_Wonders "wikilink")  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Rietta](Rietta "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 125.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 5.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Plane](:Category:_Lord_Planes.md "wikilink"):**
+[Thorngate](:Category:Thorngate.md "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Rietta's
+Wonders](:Category:Rietta's_Wonders.md "wikilink")  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Rietta](Rietta "wikilink")  
 
 ## Comments
 

@@ -1,8 +1,9 @@
-*If an opponent blocks a [berserker](:Category:_Berserkers "wikilink")'s
-attack with [weapon](:Category:_Weapons "wikilink") or shield, the
-[berserker](:Category:_Berserkers "wikilink") gains an immediate extra
-followup attack. Wail does not loop; the extra attack cannot itself
-generate another one.*
+*If an opponent blocks a
+[berserker](:Category:_Berserkers.md "wikilink")'s attack with
+[weapon](:Category:_Weapons.md "wikilink") or shield, the
+[berserker](:Category:_Berserkers.md "wikilink") gains an immediate
+extra followup attack. Wail does not loop; the extra attack cannot
+itself generate another one.*
 
 Prerequisite(s): none.
 

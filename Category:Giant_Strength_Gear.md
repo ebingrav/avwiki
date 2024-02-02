@@ -1,4 +1,4 @@
-See also [Giant Strength](Giant_Strength "wikilink").
+See also [Giant Strength](Giant_Strength.md "wikilink").
 
 .
 

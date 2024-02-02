@@ -1,16 +1,17 @@
 *A keen awareness of one's environment allows some to derive more than
 the usual benefits from reading maps. After one hones the
-[skill](:Category:_Skills "wikilink") of map lore, subtle distinctions
-in [terrain](:Category:_Terrains "wikilink") suddenly show their true
-value, and and it becomes possible to see whenever one crosses a border
-between [areas](:Category:_Areas "wikilink"). An added benefit of the
-increased attention to detail this [skill](:Category:_Skills "wikilink")
-imparts is the ability to read [markings](Markings "wikilink") left in a
-room with the [woodcraft](Woodcraft "wikilink")
-[skill](:Category:_Skills "wikilink"); however, knowledge of map lore
-alone won't help one seek out those [marks](Markings "wikilink").*
+[skill](:Category:_Skills.md "wikilink") of map lore, subtle
+distinctions in [terrain](:Category:_Terrains.md "wikilink") suddenly
+show their true value, and and it becomes possible to see whenever one
+crosses a border between [areas](:Category:_Areas.md "wikilink"). An
+added benefit of the increased attention to detail this
+[skill](:Category:_Skills.md "wikilink") imparts is the ability to read
+[markings](Markings.md "wikilink") left in a room with the
+[woodcraft](Woodcraft.md "wikilink")
+[skill](:Category:_Skills.md "wikilink"); however, knowledge of map lore
+alone won't help one seek out those [marks](Markings.md "wikilink").*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
 Syntax: none (automatic).
 

@@ -1,13 +1,13 @@
 *With a simple incantation, you can summon an otherworldly embrace of
 darkness which will protect you from the harshness of the sun. This is
 most helpful to those who [cannot bear the
-sunlight](Racial_Nosun "wikilink"), like underground
-[races](:Category:_Races "wikilink").*
+sunlight](Racial_Nosun.md "wikilink"), like underground
+[races](:Category:_Races.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'dark embrace'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'dark embrace'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

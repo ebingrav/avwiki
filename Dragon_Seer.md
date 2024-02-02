@@ -1,14 +1,14 @@
 *Before you stands a dedicated Seer of [the Bronze Dragon living on this
-mountain](Bronze_Dragon,_Kastinius "wikilink"). With a purpose solely to
-protect and serve, he cannot let you pass.*
+mountain](Bronze_Dragon,_Kastinius.md "wikilink"). With a purpose solely
+to protect and serve, he cannot let you pass.*
 
 **Keywords:** Seer, robed, man.  
-**[Level](Level "wikilink"):** 62.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 62.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -16,7 +16,7 @@ invis](Detect_Invis "wikilink").
 `Nothing.`
 
 `A dragon Seer is carrying:`  
-`     `[`an`` ``Elixir`` ``of`` ``Dragonkin`](Elixir_Of_Dragonkin "wikilink")
+`     `[`an`` ``Elixir`` ``of`` ``Dragonkin`](Elixir_Of_Dragonkin.md "wikilink")
 
 ## Comments
 
@@ -24,10 +24,10 @@ Uses offensive magic against non tank characters.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Ancient Bronze
-Wyrm](:Category:_Ancient_Bronze_Wyrm "wikilink")
-([Map](Ancient_Bronze_Wyrm_Map "wikilink")).  
-A dragon Seer [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Ancient Bronze
+Wyrm](:Category:_Ancient_Bronze_Wyrm.md "wikilink")
+([Map](Ancient_Bronze_Wyrm_Map.md "wikilink")).  
+A dragon Seer [wanders](Wandering_Mobs.md "wikilink").  
 A dragon Seer is portable.  
 
 [Category: Mobs In Ancient Bronze

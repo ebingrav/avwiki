@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Plane_Of_Water" title="wikilink">Plane Of
+<td><p><a href=":Category:Plane_Of_Water.md" title="wikilink">Plane Of
 Water</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Plane_Of_Water"
+<td><p>(<a href=":Category:Gear_In_Plane_Of_Water.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

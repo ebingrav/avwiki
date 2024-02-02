@@ -7,29 +7,31 @@ year, before departing for another realm, leaving behind a vast body of
 water. Straul Warmaker, still full of wrath about Kisestre, knew the
 power of a god's tears, and filled the lake with leviathan spawn, which
 still fill the lake. The only predators of the leviathan are an ancient
-race of [gryphons](Griffons "wikilink"), hunting from a mountain aerie.*
+race of [gryphons](Griffons.md "wikilink"), hunting from a mountain
+aerie.*
 
 **Level Range:** 51-51
 
 **Builder:** Nadreck
 
-This [area](:Category:_Areas "wikilink") was added in 2005 Dec.
+This [area](:Category:_Areas.md "wikilink") was added in 2005 Dec.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3w, 5n, d, 3n, w,
-n, w, 3n, u, 2n, e, 3n, w, n, w, 12n, 5w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3w, 5n, d, 3n,
+w, n, w, 3n, u, 2n, e, 3n, w, n, w, 12n, 5w.
 
-Walking route from [Big Fish](Big_Fish_In_Cold_Water "wikilink"): n, 5w.
+Walking route from [Big Fish](Big_Fish_In_Cold_Water.md "wikilink"): n,
+5w.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[selkie](Selkie "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[selkie](Selkie.md "wikilink").
 
 ## Connections
 
--   [Alpha Thule](:Category:_Alpha_Thule "wikilink")
--   [Glyntaff Pass](:Category:_Glyntaff_Pass "wikilink")
--   [Icewolf](:Category:_Icewolf "wikilink")
+-   [Alpha Thule](:Category:_Alpha_Thule.md "wikilink")
+-   [Glyntaff Pass](:Category:_Glyntaff_Pass.md "wikilink")
+-   [Icewolf](:Category:_Icewolf.md "wikilink")
 
 ## Navigation
 
@@ -46,9 +48,9 @@ Tail](Ouroburos'_Tail "wikilink").
 Good experience, everything is worth killing. Down at the bottom are a
 trio of [Ouroburos](Ouroburos "wikilink") that can really hurt,
 otherwise everything is pretty wimpy. The leviathans are tougher
-according to age, so [baby leviathans](Baby_Leviathan "wikilink") aren't
-that big, but [adults](Adult_Leviathan "wikilink") are nice a juicy.
-They'll tail you from time to time, so watch out. Make sure you keep
-water up, and other than that, kill away.
+according to age, so [baby leviathans](Baby_Leviathan.md "wikilink")
+aren't that big, but [adults](Adult_Leviathan.md "wikilink") are nice a
+juicy. They'll tail you from time to time, so watch out. Make sure you
+keep water up, and other than that, kill away.
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink")

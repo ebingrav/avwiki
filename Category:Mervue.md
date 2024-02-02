@@ -1,25 +1,25 @@
 *Built out of the ashes of Before, Mervue is a small coastal city
 attempting to forget the past. Situated south of
-[Midgaard](:Category:_Midgaard "wikilink"), it receives a lot of trade
-from both land dwellers and sea folk, helping to boost its unstable
-economy. The city's official ruler, per se, is [Lord
-Audis](Lord_Audis "wikilink"), who governs from [his
-manor](:Category:_Lord_Audis'_Villa "wikilink") just east of the north
-entrance to Mervue. Visitors should be warned that the city has put into
-place a [justice system](:Category:_Lawful_Areas "wikilink") for those
-who try to cause problems, in an attempt to stave more issues like
-Before.*
+[Midgaard](:Category:_Midgaard.md "wikilink"), it receives a lot of
+trade from both land dwellers and sea folk, helping to boost its
+unstable economy. The city's official ruler, per se, is [Lord
+Audis](Lord_Audis.md "wikilink"), who governs from [his
+manor](:Category:_Lord_Audis'_Villa.md "wikilink") just east of the
+north entrance to Mervue. Visitors should be warned that the city has
+put into place a [justice system](:Category:_Lawful_Areas.md "wikilink")
+for those who try to cause problems, in an attempt to stave more issues
+like Before.*
 
 **Level Range:** 23-30
 
-**Builder:** [Zahri](User:AlexyAnna "wikilink")
+**Builder:** [Zahri](User:AlexyAnna.md "wikilink")
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 21s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 21s.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Giles](Giles "wikilink"), [ent banker](Banker "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Giles](Giles.md "wikilink"), [ent banker](Banker.md "wikilink").
 
 ## Connections
 

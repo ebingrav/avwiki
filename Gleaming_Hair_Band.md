@@ -3,29 +3,29 @@ appearance of a gorgeous mane - and it will make a normal plait look
 scruffy. Those are the dangers of wearing things too beautiful. A single
 golden hair speaks of the former though.*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -24 continuous.`  
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -24 continuous.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`
 
 **Keyword(s):** gleaming, hair, band.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[ice-ward](Ice-Ward_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [bless](Bless_Flag.md "wikilink"),
+[ice-ward](Ice-Ward_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Experienced
+**[Area](:Category:_Areas.md "wikilink"):** [ Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Experienced
 Archer](Experienced_Archer "wikilink").  
 Pp [Experienced Archer](Experienced_Archer "wikilink"). She is in a four
 room area where only one of the rooms is not cursed. She, wyrms of air,

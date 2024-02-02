@@ -1,17 +1,17 @@
 *A mithril necklace, with a mighty symbol hanging from it, lies here*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 5 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 5 continuous`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 5 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 5 continuous`
 
 **Keyword(s):** symbol strength necklace akeris.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"),[nolocate](Nolocate_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"),[nolocate](Nolocate_Flag.md "wikilink")  
 
 ## Guide
 

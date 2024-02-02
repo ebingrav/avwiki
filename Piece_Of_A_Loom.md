@@ -1,31 +1,31 @@
 *This is a funny shaped piece of wood. You wonder why it has all the
-those wooden teeth on it. You bet [someone](LanGlois "wikilink") would
-be happy to have this back.*
+those wooden teeth on it. You bet [someone](LanGlois.md "wikilink")
+would be happy to have this back.*
 
 **Keyword(s):** wheel, loom, part, wood.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[invis](Invis_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[invis](Invis_Flag.md "wikilink").  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Moss
-Village](:Category:_Moss_Village "wikilink")'s [Set Of Woven Moss
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Moss
+Village](:Category:_Moss_Village.md "wikilink")'s [Set Of Woven Moss
 Sandals Quest](Set_Of_Woven_Moss_Sandals_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moss
-Village](:Category:_Moss_Village "wikilink")
-([Map](Moss_Village_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A worn trail into town
+**[Area](:Category:_Areas.md "wikilink"):** [Moss
+Village](:Category:_Moss_Village.md "wikilink")
+([Map](Moss_Village_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A worn trail into town
 (portable).  
-Walking route from [dancing woman](Dancing_Woman "wikilink"): 2n.
+Walking route from [dancing woman](Dancing_Woman.md "wikilink"): 2n.
 
 [Category: Gear In Moss
 Village](Category:_Gear_In_Moss_Village "wikilink") [Category:

@@ -1,10 +1,10 @@
 *With a good eye, you can judge how full your
-[bags](:Category:_Containers "wikilink") are.*
+[bags](:Category:_Containers.md "wikilink") are.*
 
-Prerequisite(s): [Lore](Lore "wikilink").
+Prerequisite(s): [Lore](Lore.md "wikilink").
 
-Syntax: [examine](Examine "wikilink")
-\<[container](:Category:_Containers "wikilink")\>.
+Syntax: [examine](Examine.md "wikilink")
+\<[container](:Category:_Containers.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

@@ -4,14 +4,16 @@
 Modifies armor class by -50 continuous. Slot: Hands  
 Flags: glow hum magic noremove  
 Weight: 25  
-Plane: [Nowhere](:Category:Nowhere "wikilink")  
-Area: [When Elements Align](:Category:When_Elements_Align "wikilink")  
+Plane: [Nowhere](:Category:Nowhere.md "wikilink")  
+Area: [When Elements
+Align](:Category:When_Elements_Align.md "wikilink")  
 Mob: [Adamantine Golem](Adamantine_Golem "wikilink")  
 
 ------------------------------------------------------------------------
 
 Note that this gear is reboot only. See [Gear In When Elements
-Align](:Category:Gear_In_When_Elements_Align "wikilink") for more info.
+Align](:Category:Gear_In_When_Elements_Align.md "wikilink") for more
+info.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")
 [Category:Gear In When Elements

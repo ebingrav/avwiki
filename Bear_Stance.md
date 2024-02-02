@@ -1,9 +1,9 @@
 *Bear protects her young. While in bear stance, you suffer no
-[rescue](Rescue "wikilink") penalty.*
+[rescue](Rescue.md "wikilink") penalty.*
 
-Prerequisite(s): [Rescue](Rescue "wikilink").
+Prerequisite(s): [Rescue](Rescue.md "wikilink").
 
-Syntax: [stance](Stance "wikilink") bear.
+Syntax: [stance](Stance.md "wikilink") bear.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Monk Hero

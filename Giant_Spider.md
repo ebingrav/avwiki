@@ -7,10 +7,10 @@ presence as you jostle the cage, the spider stirs and starts spinning
 more mithril thread in preparation of wrapping you up!*
 
 **Keywords:** spider  
-**[Level](Level "wikilink"):** 72.  
-**[Alignment](Alignment "wikilink"):** apathetic  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 72.  
+**[Alignment](Alignment.md "wikilink"):** apathetic  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:**  
 
 ## Gear
@@ -26,9 +26,9 @@ Skins for the [Mithril Web Gloves](Mithril_Web_Gloves "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Daingean
-Machadae](:Category:_Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Daingean
+Machadae](:Category:_Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).  
 
 [Category: Mobs In Daingean
 Machadae](Category:_Mobs_In_Daingean_Machadae "wikilink")

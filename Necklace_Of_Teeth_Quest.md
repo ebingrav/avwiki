@@ -1,15 +1,16 @@
-From [Marcius](Marcius_The_Historian "wikilink"):
+From [Marcius](Marcius_The_Historian.md "wikilink"):
 
 -   Go n, 2e, 2s, w, 3s. (Crosses Water Terrain)
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [A plagued rogue](Plagued_Rogue "wikilink").
+-   [Kill](Kill.md "wikilink") [A plagued
+    rogue](Plagued_Rogue.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a jaw bone](Jaw_Bone "wikilink") from his
-    corpse.
+-   [Get](Get.md "wikilink") [a jaw bone](Jaw_Bone.md "wikilink") from
+    his corpse.
 
 <!-- -->
 
@@ -17,9 +18,9 @@ From [Marcius](Marcius_The_Historian "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a jaw bone](Jaw_Bone "wikilink") to
-    [Marcius the historian](Marcius_The_Historian "wikilink") and
-    receive [black bone key](Black_Bone_Key "wikilink").
+-   [Give](Give.md "wikilink") [a jaw bone](Jaw_Bone.md "wikilink") to
+    [Marcius the historian](Marcius_The_Historian.md "wikilink") and
+    receive [black bone key](Black_Bone_Key.md "wikilink").
 
 <!-- -->
 
@@ -27,12 +28,12 @@ From [Marcius](Marcius_The_Historian "wikilink"):
 
 <!-- -->
 
--   [Unlock](Unlock "wikilink") n using [black bone
-    key](Black_Bone_Key "wikilink").
+-   [Unlock](Unlock.md "wikilink") n using [black bone
+    key](Black_Bone_Key.md "wikilink").
 
 <!-- -->
 
--   [Open](Open "wikilink") n.
+-   [Open](Open.md "wikilink") n.
 
 <!-- -->
 
@@ -40,12 +41,12 @@ From [Marcius](Marcius_The_Historian "wikilink"):
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [ManyJaws](ManyJaws "wikilink").
+-   [Kill](Kill.md "wikilink") [ManyJaws](ManyJaws.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [a necklace of
-    teeth](Necklace_Of_Teeth "wikilink") from its corpse.
+-   [Get](Get.md "wikilink") [a necklace of
+    teeth](Necklace_Of_Teeth.md "wikilink") from its corpse.
 
 [Category: Quests In Cavern Of
 ManyJaws](Category:_Quests_In_Cavern_Of_ManyJaws "wikilink") [Category:

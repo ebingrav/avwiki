@@ -2,9 +2,9 @@
 Modifies mana by 85 continuous. Slot: Light  
 Flags: glow evil magic nolocate  
 Weight: 4  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 Mob: [Lady Havynne](Lady_Havynne "wikilink")  
 
 ------------------------------------------------------------------------

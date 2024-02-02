@@ -10,8 +10,8 @@ Level: 14-16
 Weight: 1  
 No base  
 Mob: [Baron Amier Sarphyre](Baron_Amier_Sarphyre "wikilink")  
-Area: [Sarphyre's Court](:Category:_Sarphyre's_Court "wikilink")
-([Map](Sarphyre's_Court_Map "wikilink"))  
+Area: [Sarphyre's Court](:Category:_Sarphyre's_Court.md "wikilink")
+([Map](Sarphyre's_Court_Map.md "wikilink"))  
   
 Mob is the PP.  
 Or from [Sol](Sol "wikilink"): 3e, 2n, 3e, 8n, 3e, s, d, 3w, n, 2w

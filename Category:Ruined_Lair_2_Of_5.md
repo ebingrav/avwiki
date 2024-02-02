@@ -1,5 +1,5 @@
 *This area is part of the [Ruined
-Lairs](:Category:_Ruined_Lairs "wikilink") area.*
+Lairs](:Category:_Ruined_Lairs.md "wikilink") area.*
 
 **Level Range:** 51-51
 
@@ -7,18 +7,18 @@ Lairs](:Category:_Ruined_Lairs "wikilink") area.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, n, u, 3n, 2e, 2n,
-2e, 2n, e, 3n, 2d, n, quaff trickle.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, n, u, 3n, 2e,
+2n, 2e, 2n, e, 3n, 2d, n, quaff trickle.
 
-[Portaling](Portal "wikilink") point(s) suggested: [King
+[Portaling](Portal.md "wikilink") point(s) suggested: [King
 Lion](King_Lion "wikilink") then s, d, n, quaff trickle.
 
 ## Connections
 
--   [Midgaard](:Category:Midgaard "wikilink")
-    ([map](Midgaard_Map "wikilink"))
--   [Underground](:Category:Underground "wikilink")
-    ([map](Underground_Map "wikilink"))
+-   [Midgaard](:Category:Midgaard.md "wikilink")
+    ([map](Midgaard_Map.md "wikilink"))
+-   [Underground](:Category:Underground.md "wikilink")
+    ([map](Underground_Map.md "wikilink"))
 
 ## Navigation
 
@@ -52,16 +52,16 @@ your toes and scan often. [Lich](Lich "wikilink") (68, sanc'd, casts)
 wanders the lower layer and the [Huge Water
 Wraith](Huge_Water_Wraith "wikilink") (90) is ... huge. Skin it and take
 the skinned scale to [Wraith General](Wraith_General "wikilink") in
-[Lair 3](:Category:Ruined_Lair_3_Of_5 "wikilink") to get the key to the
-ruined bedroom.
+[Lair 3](:Category:Ruined_Lair_3_Of_5.md "wikilink") to get the key to
+the ruined bedroom.
 
 [Ghasts](Ghasts "wikilink") on lower level both have the weapon [Long
 Blackened Chain](Long_Blackened_Chain "wikilink").
 
 The top level has about a dozen ghostly warriors (race:
-[ghost](Ghosts "wikilink")), four of whom are of the "large" variety
+[ghost](Ghosts.md "wikilink")), four of whom are of the "large" variety
 (level 69 instead of 63). In the center/fountain room there is also a
-[ghostly cleric](Ghostly_Cleric "wikilink") (64).
+[ghostly cleric](Ghostly_Cleric.md "wikilink") (64).
 
 [Category: Ruined Lairs](Category:_Ruined_Lairs "wikilink") [Category:
 Hero Areas](Category:_Hero_Areas "wikilink")

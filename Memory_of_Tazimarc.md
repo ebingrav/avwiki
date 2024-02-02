@@ -24,10 +24,10 @@ prison arises for that which cannot die.*
 *Waiting.*
 
 **Keywords:** memory, Tazimarc, shadow.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -35,20 +35,20 @@ prison arises for that which cannot die.*
 `Nothing.`
 
 `The memory of Tazimarc is carrying:`  
-`     `[`an`` ``acorn`](Acorn_(1_of_3) "wikilink")
+`     `[`an`` ``acorn`](Acorn_(1_of_3).md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Sealed!
-([anti-magic](Anti-Magic_Rooms "wikilink")).  
-Starting from [an elemental guardian](Elemental_Guardian "wikilink"),
-use [a jade rod](Jade_Rod "wikilink") from its corpse to unlock patina
-and go down.
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Sealed!
+([anti-magic](Anti-Magic_Rooms.md "wikilink")).  
+Starting from [an elemental guardian](Elemental_Guardian.md "wikilink"),
+use [a jade rod](Jade_Rod.md "wikilink") from its corpse to unlock
+patina and go down.
 
 [Category: Mobs In Defender's
 Graveyard](Category:_Mobs_In_Defender's_Graveyard "wikilink")

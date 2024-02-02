@@ -1,12 +1,13 @@
-*Torch is quite similar to [BLAST BOLT](Blast_Bolt "wikilink"), taking
-the caster's [light source](:Category:_Lights "wikilink") and exploding
-it against the target's body. The use of an active [light
-source](:Category:_Lights "wikilink") creates a far more spectacular and
-deadly explosion than [detonate](Detonate "wikilink") or [blast
-bolt](Blast_Bolt "wikilink") could produce. There are no reimbursements
-for [items](:Category:_Objects "wikilink") that you lose with this
-[spell](:Category:_Spells "wikilink"). [Casting](Cast "wikilink") this
-[spell](:Category:_Spells "wikilink") to initiate combat will do no
+*Torch is quite similar to [BLAST BOLT](Blast_Bolt.md "wikilink"),
+taking the caster's [light source](:Category:_Lights.md "wikilink") and
+exploding it against the target's body. The use of an active [light
+source](:Category:_Lights.md "wikilink") creates a far more spectacular
+and deadly explosion than [detonate](Detonate.md "wikilink") or [blast
+bolt](Blast_Bolt.md "wikilink") could produce. There are no
+reimbursements for [items](:Category:_Objects.md "wikilink") that you
+lose with this [spell](:Category:_Spells.md "wikilink").
+[Casting](Cast.md "wikilink") this
+[spell](:Category:_Spells.md "wikilink") to initiate combat will do no
 damage to your opponent but will cause your enemy to attack in
 retaliation.*
 
@@ -17,12 +18,12 @@ use their client to block casting torch or other telekinetic spells.*
 
 *IMPORTANT: Due to the many claims submitted, the insurance corporation
 of MOBA has made it impossible to use this spell with
-[INSURED](Insure "wikilink") gear.*
+[INSURED](Insure.md "wikilink") gear.*
 
-Prerequisite(s): [Detonate](Detonate "wikilink").
+Prerequisite(s): [Detonate](Detonate.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'torch'
-\<[mobs](:Category:_Mobs "wikilink")\>
+Syntax: [cast](Cast.md "wikilink") 'torch'
+\<[mobs](:Category:_Mobs.md "wikilink")\>
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

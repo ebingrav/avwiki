@@ -3,8 +3,8 @@ Level: 40
 Capacity: 200 lbs  
 Wieght: 5  
 Mob: [Mad Kzin](Mad_Kzin "wikilink")  
-Area: [Flipside Altar](:Category:_Flipside_Altar "wikilink")
-([Map](Flipside_Altar_Map "wikilink"))  
+Area: [Flipside Altar](:Category:_Flipside_Altar.md "wikilink")
+([Map](Flipside_Altar_Map.md "wikilink"))  
 The pp for this item is [Vineman](Vineman "wikilink").
 
 Directions from Aelmon: (long) 5 west, 6 north, east, north, 2 west,

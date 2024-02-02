@@ -4,8 +4,8 @@ grounds tidy.*
 **Keywords:** groundskeeper.  
 **Scan Description:** An Official Olympic Groundskeeper is here keeping
 the place tidy!  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
 
 ## Gear
 
@@ -21,10 +21,11 @@ This is a great mob for low hero soloing and 40s low mort groups.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Olympic
-Grounds](:Category:_Olympic_Grounds "wikilink")
-([Map](Olympic_Grounds_Map "wikilink")).  
-Official Olympic Groundskeeper [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Olympic
+Grounds](:Category:_Olympic_Grounds.md "wikilink")
+([Map](Olympic_Grounds_Map.md "wikilink")).  
+Official Olympic Groundskeeper
+[wanders](Wandering_Mobs.md "wikilink").  
 Official Olympic Groundskeeper is portable.  
 
 [Category: Mobs In Olympic

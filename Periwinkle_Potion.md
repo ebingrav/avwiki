@@ -1,30 +1,30 @@
 *A periwinkle potion lies here.*
 
-`Level 40 spells of: '`[`barkskin`](Barkskin "wikilink")`' '`[`infravision`](Infravision "wikilink")`' '`[`refresh`](Refresh "wikilink")`'.`
+`Level 40 spells of: '`[`barkskin`](Barkskin.md "wikilink")`' '`[`infravision`](Infravision.md "wikilink")`' '`[`refresh`](Refresh.md "wikilink")`'.`
 
 **Keyword(s):** periwinkle potion  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 0  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 0  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
 
 ## Comments
 
 Buy for 4500 gold.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Haunted
-Forest](:Category:_Haunted_Forest "wikilink")
-([Map](Haunted_Forest_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Kelsee](Kelsee "wikilink")
-([portable](Teleport "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [Haunted
+Forest](:Category:_Haunted_Forest.md "wikilink")
+([Map](Haunted_Forest_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Kelsee](Kelsee "wikilink")
+([portable](Teleport.md "wikilink"))
 
 [Category: Gear In Haunted
 Forest](Category:_Gear_In_Haunted_Forest "wikilink") [Category:

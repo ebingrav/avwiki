@@ -1,9 +1,10 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="lair.of.shyu&#39;yao.jpg" title="lair.of.shyu&#39;yao.jpg"
-width="650" alt="lair.of.shyu&#39;yao.jpg" />
-<figcaption aria-hidden="true">lair.of.shyu'yao.jpg</figcaption>
+<img src="lair.of.shyu&#39;yao.jpg.md"
+title="lair.of.shyu&#39;yao.jpg.md" width="650"
+alt="lair.of.shyu&#39;yao.jpg.md" />
+<figcaption aria-hidden="true">lair.of.shyu'yao.jpg.md</figcaption>
 </figure>
 
 [North Of Ofcol Map](North_Of_Ofcol_Map "wikilink")  

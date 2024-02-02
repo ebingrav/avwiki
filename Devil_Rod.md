@@ -5,18 +5,19 @@
 `Modifies hit roll by 2 continuous.`
 
 **Keyword(s):** rod devil  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 6 lbs  
-**[Level(s)](Object_Level "wikilink"):** 15  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Sewer](:Category:_Sewer "wikilink") ([Map](Sewer_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Master
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 15  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Sewer](:Category:_Sewer.md "wikilink")
+([Map](Sewer_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Master
 Mindflayer](Master_Mindflayer "wikilink")
-([portable](Teleport "wikilink"))  
+([portable](Teleport.md "wikilink"))  
 
 ## Comments
 

@@ -2,21 +2,21 @@
 big pointy ears. He's small but ferocious looking.*
 
 **Keywords:** kobold.  
-**[Level](Level "wikilink"):** 6.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[kleptomaniac](:Category:_Scavenging_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 6.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[kleptomaniac](:Category:_Scavenging_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The Kobold is using:`  
-<worn on hands>`     `[`buck-skin`` ``gloves`](Buck-Skin_Gloves "wikilink")
+<worn on hands>`     `[`buck-skin`` ``gloves`](Buck-Skin_Gloves.md "wikilink")
 
 OR
 
 `The Kobold is using:`  
-<worn on body>`      `[`blood`` ``red`` ``tunic`](Blood_Red_Tunic "wikilink")
+<worn on body>`      `[`blood`` ``red`` ``tunic`](Blood_Red_Tunic.md "wikilink")
 
 ## Comments
 
@@ -25,10 +25,10 @@ gloves.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Witch's
-Forest](:Category:_Witch's_Forest "wikilink")
-([Map](Witch's_Forest_Map "wikilink")).  
-The Kobold [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Witch's
+Forest](:Category:_Witch's_Forest.md "wikilink")
+([Map](Witch's_Forest_Map.md "wikilink")).  
+The Kobold [wanders](Wandering_Mobs.md "wikilink").  
 The Kobold is portable. However, there are many other kobolds in other
 areas, so teleporting directly to the Kobold is not recommended.  
 

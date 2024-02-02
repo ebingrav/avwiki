@@ -7,14 +7,14 @@ adventurer who wandered into one dungeon too many.*
 `Modifies strength by 1 continuous.`
 
 **Keyword(s):** slimy, ring, green.  
-**[Level(s)](Object_Level "wikilink"):** 5.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on finger>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 5.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on finger>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
@@ -25,12 +25,12 @@ the slime.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Murky
-Lair](:Category:_Murky_Lair "wikilink")
-([Map](Murky_Lair_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a green
-slime](Green_Slime "wikilink").  
-See [a green slime](Green_Slime "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Murky
+Lair](:Category:_Murky_Lair.md "wikilink")
+([Map](Murky_Lair_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a green
+slime](Green_Slime.md "wikilink").  
+See [a green slime](Green_Slime.md "wikilink") for more information.
 
 [Category: Gear In Murky Lair](Category:_Gear_In_Murky_Lair "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category: Lowmort 1-10

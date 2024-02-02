@@ -6,15 +6,15 @@ Modifies damage roll by 3 continuous.
 Slot: waist  
 Flags: hum dark evil magic anti-good nolocate  
 Weight: 3  
-Plane: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: Malarauko, Valarauco  
 Note that this has both dark and anti-good flags, so fading is required.
 
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Second Tier Hit

@@ -1,17 +1,18 @@
 *Massive skeletal claws rest on the floor. They still move!*
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 11 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 11 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 11 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 11 continuous.`
 
 **Keyword(s):** massive, chattering, skeletal, claws.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 30 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"), [nodrop](NoDrop_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 30 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[nodrop](NoDrop_Flag.md "wikilink").  
 
 ## Comments
 
@@ -20,9 +21,9 @@ Quest](Chattering_Skeletal_Claws_Quest "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sun God
-Altar](:Category:_Sun_God_Altar "wikilink").  
-**[Mob](:Category:_Mobs "wikilink"):** [Haark](Haark "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Sun God
+Altar](:Category:_Sun_God_Altar.md "wikilink").  
+**[Mob](:Category:_Mobs.md "wikilink"):** [Haark](Haark "wikilink").  
 See [Ruddloaf Mortlock](Ruddloaf_Mortlock "wikilink") for more
 information.  
 

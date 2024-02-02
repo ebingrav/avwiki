@@ -1,73 +1,73 @@
 ## Wizard Hero Skills & Spells Chart
 
-[`Sub`](Sublevel "wikilink")`: List of `[`Skills`` ``&`` ``Spells`](:Category:_Skills_And_Spells "wikilink")` Available to `[`Practice`](Practice "wikilink")` at This `[`Sublevel`](Sublevel "wikilink")`...`  
+[`Sub`](Sublevel.md "wikilink")`: List of `[`Skills`` ``&`` ``Spells`](:Category:_Skills_And_Spells.md "wikilink")` Available to `[`Practice`](Practice.md "wikilink")` at This `[`Sublevel`](Sublevel.md "wikilink")`...`  
 `     `  
-`  1: `[`appoint`](Appoint "wikilink")`            `[`fast`` ``healing`](Fast_Healing "wikilink")  
+`  1: `[`appoint`](Appoint.md "wikilink")`            `[`fast`` ``healing`](Fast_Healing.md "wikilink")  
 `  3: `  
-`  5: `[`cause`` ``light`](Cause_Light "wikilink")`        `[`detect`` ``evil`](Detect_Evil "wikilink")`        `[`second`` ``attack`](Second_Attack "wikilink")`      `[`word`` ``of`` ``recall`](Word_Of_Recall "wikilink")  
-`  7: `[`endurance`](Endurance "wikilink")  
-`  9: `[`armor`` ``lore`](Armor_Lore "wikilink")`         `[`weapon`` ``lore`](Weapon_Lore "wikilink")  
-` 11: `[`cure`` ``light`](Cure_Light "wikilink")`         `[`poison`](Poison_(spell) "wikilink")  
-` 13: `[`shield`` ``block`](Shield_Block "wikilink")  
-` 15: `[`concentrate`](Concentrate "wikilink")`        `[`detect`` ``alignment`](Detect_Alignment "wikilink")`   `[`plague`](Plague "wikilink")  
-` 17: `[`detect`` ``poison`](Detect_Poison "wikilink")`      `[`levitation`](Levitation "wikilink")  
-` 19: `[`bless`](Bless "wikilink")`              `[`dispel`` ``evil`](Dispel_Evil "wikilink")  
-` 21: `[`cure`` ``blindness`](Cure_Blindness "wikilink")`     `[`cause`` ``serious`](Cause_Serious "wikilink")  
-` 23: `[`cure`` ``poison`](Cure_Poison "wikilink")  
-` 25: `[`cure`` ``disease`](Cure_Disease "wikilink")`       `[`know`` ``alignment`](Know_Alignment "wikilink")  
-` 27: `[`cure`` ``serious`](Cure_Serious "wikilink")`       `[`earthbind`](Earthbind "wikilink")  
-` 29: `[`dark`` ``embrace`](Dark_Embrace "wikilink")`       `[`flamestrike`](Flamestrike "wikilink")`        `[`holy`` ``armor`](Holy_Armor "wikilink")  
-` 31: `[`remove`` ``curse`](Remove_Curse "wikilink")  
-` 33: `[`astral`](Astral "wikilink")  
-` 35: `[`acumen`](Acumen "wikilink")`*            `[`protection`` ``evil`](Protection_Evil "wikilink")`    `[`protection`` ``good`](Protection_Good "wikilink")`    `[`refresh`](Refresh "wikilink")`            `[`savvy`](Savvy "wikilink")  
-` 37: `[`cause`` ``critical`](Cause_Critical "wikilink")  
-` 39: `[`mass`` ``bless`](Mass_Bless "wikilink")`         `[`mass`` ``cure`` ``serious`](Mass_Cure_Serious "wikilink")`  `[`medicine`](Medicine "wikilink")`           `[`turn`` ``undead`](Turn_Undead "wikilink")  
-` 41: `[`frenzy`](Frenzy "wikilink")  
-` 43: `[`cure`` ``critical`](Cure_Critical "wikilink")`      `[`water`` ``breathing`](Water_Breathing "wikilink")  
-` 45: `[`lead`` ``gang`](Lead_Gang "wikilink")`          `[`sanctuary`](Sanctuary "wikilink")  
-` 47: `[`summon`](Summon "wikilink")  
+`  5: `[`cause`` ``light`](Cause_Light.md "wikilink")`        `[`detect`` ``evil`](Detect_Evil.md "wikilink")`        `[`second`` ``attack`](Second_Attack.md "wikilink")`      `[`word`` ``of`` ``recall`](Word_Of_Recall.md "wikilink")  
+`  7: `[`endurance`](Endurance.md "wikilink")  
+`  9: `[`armor`` ``lore`](Armor_Lore.md "wikilink")`         `[`weapon`` ``lore`](Weapon_Lore.md "wikilink")  
+` 11: `[`cure`` ``light`](Cure_Light.md "wikilink")`         `[`poison`](Poison_(spell).md "wikilink")  
+` 13: `[`shield`` ``block`](Shield_Block.md "wikilink")  
+` 15: `[`concentrate`](Concentrate.md "wikilink")`        `[`detect`` ``alignment`](Detect_Alignment.md "wikilink")`   `[`plague`](Plague.md "wikilink")  
+` 17: `[`detect`` ``poison`](Detect_Poison.md "wikilink")`      `[`levitation`](Levitation.md "wikilink")  
+` 19: `[`bless`](Bless.md "wikilink")`              `[`dispel`` ``evil`](Dispel_Evil.md "wikilink")  
+` 21: `[`cure`` ``blindness`](Cure_Blindness.md "wikilink")`     `[`cause`` ``serious`](Cause_Serious.md "wikilink")  
+` 23: `[`cure`` ``poison`](Cure_Poison.md "wikilink")  
+` 25: `[`cure`` ``disease`](Cure_Disease.md "wikilink")`       `[`know`` ``alignment`](Know_Alignment.md "wikilink")  
+` 27: `[`cure`` ``serious`](Cure_Serious.md "wikilink")`       `[`earthbind`](Earthbind.md "wikilink")  
+` 29: `[`dark`` ``embrace`](Dark_Embrace.md "wikilink")`       `[`flamestrike`](Flamestrike.md "wikilink")`        `[`holy`` ``armor`](Holy_Armor.md "wikilink")  
+` 31: `[`remove`` ``curse`](Remove_Curse.md "wikilink")  
+` 33: `[`astral`](Astral.md "wikilink")  
+` 35: `[`acumen`](Acumen.md "wikilink")`*            `[`protection`` ``evil`](Protection_Evil.md "wikilink")`    `[`protection`` ``good`](Protection_Good.md "wikilink")`    `[`refresh`](Refresh.md "wikilink")`            `[`savvy`](Savvy.md "wikilink")  
+` 37: `[`cause`` ``critical`](Cause_Critical.md "wikilink")  
+` 39: `[`mass`` ``bless`](Mass_Bless.md "wikilink")`         `[`mass`` ``cure`` ``serious`](Mass_Cure_Serious.md "wikilink")`  `[`medicine`](Medicine.md "wikilink")`           `[`turn`` ``undead`](Turn_Undead.md "wikilink")  
+` 41: `[`frenzy`](Frenzy.md "wikilink")  
+` 43: `[`cure`` ``critical`](Cure_Critical.md "wikilink")`      `[`water`` ``breathing`](Water_Breathing.md "wikilink")  
+` 45: `[`lead`` ``gang`](Lead_Gang.md "wikilink")`          `[`sanctuary`](Sanctuary.md "wikilink")  
+` 47: `[`summon`](Summon.md "wikilink")  
 ` 49: `  
-` 51: `[`mass`` ``aid`](Mass_Aid "wikilink")  
-` 53: `[`harm`](Harm "wikilink")  
-` 55: `[`mass`` ``cure`` ``critical`](Mass_Cure_Critical "wikilink")  
+` 51: `[`mass`` ``aid`](Mass_Aid.md "wikilink")  
+` 53: `[`harm`](Harm.md "wikilink")  
+` 55: `[`mass`` ``cure`` ``critical`](Mass_Cure_Critical.md "wikilink")  
 ` 57: `  
-` 59: `[`holy`` ``aura`](Holy_Aura "wikilink")`          `[`turn`` ``demon`](Turn_Demon "wikilink")  
-` 61: `[`heal`](Heal_(spell) "wikilink")  
-` 63: `[`enhanced`` ``vitality`](Enhanced_Vitality "wikilink")`  `[`transfer`` ``life`](Transfer_Life "wikilink")  
+` 59: `[`holy`` ``aura`](Holy_Aura.md "wikilink")`          `[`turn`` ``demon`](Turn_Demon.md "wikilink")  
+` 61: `[`heal`](Heal_(spell).md "wikilink")  
+` 63: `[`enhanced`` ``vitality`](Enhanced_Vitality.md "wikilink")`  `[`transfer`` ``life`](Transfer_Life.md "wikilink")  
 ` 65: `  
 ` 67: `  
-` 69: `[`calm`](Calm "wikilink")`               `[`invigorate`](Invigorate "wikilink")`         `[`lead`` ``pack`](Lead_Pack "wikilink")  
-` 71: `[`mass`` ``heal`](Mass_Heal "wikilink")  
+` 69: `[`calm`](Calm.md "wikilink")`               `[`invigorate`](Invigorate.md "wikilink")`         `[`lead`` ``pack`](Lead_Pack.md "wikilink")  
+` 71: `[`mass`` ``heal`](Mass_Heal.md "wikilink")  
 ` 73: `  
 ` 75: `  
 ` 77: `  
-` 79: `[`earthquake`](Earthquake "wikilink")`         `[`mass`` ``invigorate`](Mass_Invigorate "wikilink")`    `[`sandstorm`](Sandstorm "wikilink")  
+` 79: `[`earthquake`](Earthquake.md "wikilink")`         `[`mass`` ``invigorate`](Mass_Invigorate.md "wikilink")`    `[`sandstorm`](Sandstorm.md "wikilink")  
 ` 81: `  
 ` 83: `  
 ` 85: `  
 ` 87: `  
-` 89: `[`ice`` ``lance`](Ice_Lance "wikilink")  
+` 89: `[`ice`` ``lance`](Ice_Lance.md "wikilink")  
 ` 91: `  
 ` 93: `  
 ` 95: `  
-` 97: `[`awen`](Awen "wikilink")  
+` 97: `[`awen`](Awen.md "wikilink")  
 ` 99: `  
-`101: `[`acid`` ``rain`](Acid_Rain "wikilink")`          `[`air`` ``armor`](Air_Armor "wikilink")`*         `[`charge`` ``shield`](Charge_Shield "wikilink")`      `[`create`` ``food`](Create_Food "wikilink")`       `[`create`` ``spring`](Create_Spring "wikilink")  
-`     `[`create`` ``water`](Create_Water "wikilink")`       `[`fast`` ``healing`` ``ii`](Fast_Healing_II "wikilink")`    `[`improved`` ``stamina`](Improved_Stamina "wikilink")`   `[`magic`` ``recovery`](Magic_Recovery "wikilink")`    `[`meditation`` ``ii`](Meditation_II "wikilink")  
-`     `[`mystical`` ``barrier`](Mystical_Barrier "wikilink")`   `[`tutor`` ``other`](Tutor_Other "wikilink")`        `[`ward`](Ward "wikilink")  
-`300: `[`amplify`](Amplify "wikilink")  
-`500: `[`mass`` ``fly`](Mass_Fly "wikilink")`           `[`timewarp`](Timewarp "wikilink")`*          `[`reforge`](Reforge "wikilink")  
+`101: `[`acid`` ``rain`](Acid_Rain.md "wikilink")`          `[`air`` ``armor`](Air_Armor.md "wikilink")`*         `[`charge`` ``shield`](Charge_Shield.md "wikilink")`      `[`create`` ``food`](Create_Food.md "wikilink")`       `[`create`` ``spring`](Create_Spring.md "wikilink")  
+`     `[`create`` ``water`](Create_Water.md "wikilink")`       `[`fast`` ``healing`` ``ii`](Fast_Healing_II.md "wikilink")`    `[`improved`` ``stamina`](Improved_Stamina.md "wikilink")`   `[`magic`` ``recovery`](Magic_Recovery.md "wikilink")`    `[`meditation`` ``ii`](Meditation_II.md "wikilink")  
+`     `[`mystical`` ``barrier`](Mystical_Barrier.md "wikilink")`   `[`tutor`` ``other`](Tutor_Other.md "wikilink")`        `[`ward`](Ward.md "wikilink")  
+`300: `[`amplify`](Amplify.md "wikilink")  
+`500: `[`mass`` ``fly`](Mass_Fly.md "wikilink")`           `[`timewarp`](Timewarp.md "wikilink")`*          `[`reforge`](Reforge.md "wikilink")  
 `     `  
-`###: `[`Wizards`](:Category:_Wizards "wikilink")` can also learn `[`flash`](Flash "wikilink")`* and `[`rune`](Rune "wikilink")`* at `[`hero`](:Category:_Hero "wikilink")` `[`tier`](:Category:_Tiers "wikilink")` by reading the appropriate `[`spellbooks`](:Category:_Spellbooks "wikilink")`.`  
+`###: `[`Wizards`](:Category:_Wizards.md "wikilink")` can also learn `[`flash`](Flash.md "wikilink")`* and `[`rune`](Rune.md "wikilink")`* at `[`hero`](:Category:_Hero.md "wikilink")` `[`tier`](:Category:_Tiers.md "wikilink")` by reading the appropriate `[`spellbooks`](:Category:_Spellbooks.md "wikilink")`.`  
 `     `  
-`   * `[`Hero`](:Category:_Hero "wikilink")` skills & spells that `[`Wizards`](:Category:_Wizards "wikilink")` may learn but `[`Mages`](:Category:_Mages "wikilink")` may not.`
+`   * `[`Hero`](:Category:_Hero.md "wikilink")` skills & spells that `[`Wizards`](:Category:_Wizards.md "wikilink")` may learn but `[`Mages`](:Category:_Mages.md "wikilink")` may not.`
 
 See also [Wizard Lowmort Skills &
-Spells](:Category:_Wizard_Lowmort_Skills_And_Spells "wikilink"), [Mage
-Hero Skills &
-Spells](:Category:_Mage_Hero_Skills_And_Spells "wikilink"), [Stormlord
-Hero Skills &
-Spells](:Category:_Stormlord_Hero_Skills_And_Spells "wikilink").
+Spells](:Category:_Wizard_Lowmort_Skills_And_Spells.md "wikilink"),
+[Mage Hero Skills &
+Spells](:Category:_Mage_Hero_Skills_And_Spells.md "wikilink"),
+[Stormlord Hero Skills &
+Spells](:Category:_Stormlord_Hero_Skills_And_Spells.md "wikilink").
 
 [Category: Wizard Skills And
 Spells](Category:_Wizard_Skills_And_Spells "wikilink") [Category: Hero

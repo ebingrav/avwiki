@@ -55,7 +55,7 @@ Level 30 spells of: 'sanctuary' 'protection evil' 'stone skin'.
 </td>
 <td>
 
-[Pirate Lord Isles](:Category:Pirate_Lord_Isles "wikilink")
+[Pirate Lord Isles](:Category:Pirate_Lord_Isles.md "wikilink")
 
 </td>
 </tr>

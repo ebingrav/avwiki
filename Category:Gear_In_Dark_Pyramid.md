@@ -9,7 +9,7 @@ You first need to get a key ([Carved And Polished
 Diamond](Carved_And_Polished_Diamond "wikilink")) from [Sellah The
 Survivor](Sellah_The_Survivor "wikilink"), who is n, w, w from shift.
 Then lead the group due east toward the [Crimson
-Glacier](:Category:Crimson_Glacier "wikilink").
+Glacier](:Category:Crimson_Glacier.md "wikilink").
 
 Crimson Glacier: u n d 3n u —  
 All nospell. Tcho-Tchos only mobs. It's nice if casters have sanc/heal
@@ -48,7 +48,7 @@ room. Occasionally one of the mobs in this room casts mass fear, which
 does wonders to mess up a tank chain. Left Hand is an illusionist and
 holds the [Glimmer Of Hellfire](Glimmer_Of_Hellfire "wikilink"). Spirit
 of Aziz-Ra is a battlemage that has the
-[crown](Jeweled_Crown_Of_Aziz-Ra "wikilink") and [Netherworld
+[crown](Jeweled_Crown_Of_Aziz-Ra.md "wikilink") and [Netherworld
 Dagger](Netherworld_Dagger "wikilink") (18/18). The safest room to camp
 is 2s from gear
 

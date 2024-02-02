@@ -5,9 +5,9 @@ This is a spoiler page on how to complete this quest.
   
   
 This is a quest that starts in [Sun God
-Altar](:Category:Sun_God_Altar "wikilink") but involves other Eragoran
-areas. Speak to [Seneca Rotberry](Seneca_Rotberry "wikilink") and see
-what weighs heavy on this healer's conscience.
+Altar](:Category:Sun_God_Altar.md "wikilink") but involves other
+Eragoran areas. Speak to [Seneca Rotberry](Seneca_Rotberry "wikilink")
+and see what weighs heavy on this healer's conscience.
 
 [Seneca Rotberry](Seneca_Rotberry "wikilink") would require two items,
 [Zurik's Cowl](Zurik's_Cowl "wikilink") and [Soul Splitting Spike

@@ -8,27 +8,27 @@ Fay, One-Eye is in fact a wealthy man, from his years pirating upon the
 high seas.*
 
 **Keywords:** cook, one, eye.  
-**[Level](Level "wikilink"):** 7.  
-**[Alignment](Alignment "wikilink"):** heroically.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 7.  
+**[Alignment](Alignment.md "wikilink"):** heroically.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `One-Eye, assistant to the Cook is using:`  
-<worn about waist>`  `[`a`` ``scarlet`` ``silk`` ``sash`](Scarlet_Silk_Sash "wikilink")
+<worn about waist>`  `[`a`` ``scarlet`` ``silk`` ``sash`](Scarlet_Silk_Sash.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Orphanage](:Category:_Orphanage "wikilink")
-([Map](Orphanage_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Scullery.  
-Walking route from [Sol](Sol "wikilink"): 3e, 2s, 2e, \[e\], n, \[n\],
-n, e.  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Orphanage](:Category:_Orphanage.md "wikilink")
+([Map](Orphanage_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Scullery.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2s, 2e, \[e\], n,
+\[n\], n, e.  
 This mob is portalable, but use 'cook' as one of your keywords, or you
 can end up in a different area.
 

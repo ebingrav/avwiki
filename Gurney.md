@@ -1,27 +1,27 @@
-*Everyone [dies](Death "wikilink") once in a while, but there's not
-always someone available to [summon](Summon "wikilink") you to a corpse.
-Gurney is a high-[level](Level "wikilink") answer to this problem. Once
-[practiced](Practice "wikilink"), you can [cast](Cast "wikilink") Gurney
-to [summon](Summon "wikilink") a
-[player](:Category:_Characters "wikilink") to you that is badly hurt.
-For example, to Gurney a [player](:Category:_Characters "wikilink")
-named 'Caveman' to you, type: [cast](Cast "wikilink") gurney caveman.
-The beauty of this [spell](:Category:_Skills_And_Spells "wikilink") is
-that it bypasses many magical restraints that a [summon
-spell](Summon "wikilink") would not. There is also no
-[level](Level "wikilink") limitation on who you can gurney except for
-the same one you have with [summon](Summon "wikilink"). Please note that
-you cannot gurney a [player](:Category:_Characters "wikilink") from a
-[cursed room](Cursed_Rooms "wikilink").*
+*Everyone [dies](Death.md "wikilink") once in a while, but there's not
+always someone available to [summon](Summon.md "wikilink") you to a
+corpse. Gurney is a high-[level](Level.md "wikilink") answer to this
+problem. Once [practiced](Practice.md "wikilink"), you can
+[cast](Cast.md "wikilink") Gurney to [summon](Summon.md "wikilink") a
+[player](:Category:_Characters.md "wikilink") to you that is badly hurt.
+For example, to Gurney a [player](:Category:_Characters.md "wikilink")
+named 'Caveman' to you, type: [cast](Cast.md "wikilink") gurney caveman.
+The beauty of this [spell](:Category:_Skills_And_Spells.md "wikilink")
+is that it bypasses many magical restraints that a [summon
+spell](Summon.md "wikilink") would not. There is also no
+[level](Level.md "wikilink") limitation on who you can gurney except for
+the same one you have with [summon](Summon.md "wikilink"). Please note
+that you cannot gurney a [player](:Category:_Characters.md "wikilink")
+from a [cursed room](Cursed_Rooms.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'gurney'
-\<[character](:Category:Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'gurney'
+\<[character](:Category:Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is invaluable when helping
+This [spell](:Category:_Spells.md "wikilink") is invaluable when helping
 killed groupmates or others to [retrieve their gear from their
-corpses](Corpse_Retrieval "wikilink").
+corpses](Corpse_Retrieval.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer

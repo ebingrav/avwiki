@@ -3,7 +3,7 @@ refuses to yield to scrutiny. It whirls and buffets you with a
 quarterstaff, shedding blood and breaking bones.*
 
 ` Something is using:`  
-` `<wielded>`           [Pristine  ] `[`(Invis)`` ``(Magical)`` ``void`` ``Quarterstaff,`` ``"Hollow"`](Void_Quarterstaff,_"Hollow" "wikilink")
+` `<wielded>`           [Pristine  ] `[`(Invis)`` ``(Magical)`` ``void`` ``Quarterstaff,`` ``"Hollow"`](Void_Quarterstaff,_"Hollow".md "wikilink")
 
 **Level:** 78  
 **Affects:** invis

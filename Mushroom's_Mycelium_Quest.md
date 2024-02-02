@@ -1,29 +1,29 @@
 The start of this quest can be found in the [Mushroom
-Caves](:Category:Mushroom_Caves "wikilink"). Look for a sad goblin, and
-read his description. This quest entails reuniting a trio of toadstool
-monster slayers. Look for them in areas containing goblins and their
-ilk.
+Caves](:Category:Mushroom_Caves.md "wikilink"). Look for a sad goblin,
+and read his description. This quest entails reuniting a trio of
+toadstool monster slayers. Look for them in areas containing goblins and
+their ilk.
 
 Reward: [a piece of a mushroom's
-mycelium](Mushroom's_Mycelium "wikilink").
+mycelium](Mushroom's_Mycelium.md "wikilink").
 
 <spoiler text="Click here for quest spoilers:">
 
--   Go to the [Goblin Pass](:Category:Goblin_Pass "wikilink"), find the
-    goblin disguised as a log. His description mentions a mushroom cap.
-    Kill him, and loot the cap of a mushroom.
+-   Go to the [Goblin Pass](:Category:Goblin_Pass.md "wikilink"), find
+    the goblin disguised as a log. His description mentions a mushroom
+    cap. Kill him, and loot the cap of a mushroom.
 -   Find the sad goblin in the [Mushroom
-    Caves](:Category:Mushroom_Caves "wikilink") and give the cap of a
+    Caves](:Category:Mushroom_Caves.md "wikilink") and give the cap of a
     mushroom to him.
 -   Find the goblin trainee in [Grunka's Kombat
-    Skool](:Category:Grunka's_Kombat_Skool "wikilink"). This particular
-    trainee has set his foot on fire, and is wearing a metal bottle.
-    Give the cap of a mushroom to him.
+    Skool](:Category:Grunka's_Kombat_Skool.md "wikilink"). This
+    particular trainee has set his foot on fire, and is wearing a metal
+    bottle. Give the cap of a mushroom to him.
 -   Find the hobgoblin guard in [Ascension
-    Woods](:Category:Ascension_Woods "wikilink"). His description
+    Woods](:Category:Ascension_Woods.md "wikilink"). His description
     mentions mushrooms. Give the cap of a mushroom to him.
 -   Return to the goblin trainee in [Grunka's Kombat
-    Skool](:Category:Grunka's_Kombat_Skool "wikilink"), and give the
+    Skool](:Category:Grunka's_Kombat_Skool.md "wikilink"), and give the
     mushroom stem to him.
 
 </spoiler>

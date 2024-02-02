@@ -7,16 +7,16 @@ arms out, arching his back, and screaming a deafening warcry to show all
 intruders that he is the boss and not to be trifled with.*
 
 **Keywords:** Papio, baboon.  
-**[Level](Level "wikilink"):** 15.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 15.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `Papio is using:`  
-<worn on head>`      `[`a`` ``circlet`` ``of`` ``leaf`` ``and`` ``paper`](Circle_Of_Leaf_And_Paper "wikilink")  
+<worn on head>`      `[`a`` ``circlet`` ``of`` ``leaf`` ``and`` ``paper`](Circle_Of_Leaf_And_Paper.md "wikilink")  
 <wielded>`           a very large stick`
 
 ## Comments
@@ -26,9 +26,9 @@ stick. The stick is a throwing weapon.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sableroix
-Manor](:Category:_Sableroix_Manor "wikilink")
-([Map](Sableroix_Manor_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Sableroix
+Manor](:Category:_Sableroix_Manor.md "wikilink")
+([Map](Sableroix_Manor_Map.md "wikilink")).  
 Papio wanders, and is portalable.
 
 [Category: Mobs In Sableroix

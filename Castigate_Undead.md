@@ -13,7 +13,7 @@ this regard.*
 *Druids will also notice their green arrows work especially well with
 victims under castigation.*
 
-*See also: [DIVINE ADJUTANT](Divine_Adjutant "wikilink")*
+*See also: [DIVINE ADJUTANT](Divine_Adjutant.md "wikilink")*
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

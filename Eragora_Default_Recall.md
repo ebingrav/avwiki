@@ -23,9 +23,9 @@ cannot be used to save spells, and hostile aggies may enter the room and
 attack you. Do not idle here.
 
 The up connection leads to the [Eragora
-Walkways](:Category:Eragora_Walkways "wikilink")' "cloud" room, a
+Walkways](:Category:Eragora_Walkways.md "wikilink")' "cloud" room, a
 respawn point for those that die in the [Eragora
-Walkways](:Category:Eragora_Walkways "wikilink") area.
+Walkways](:Category:Eragora_Walkways.md "wikilink") area.
 
 ## Comments
 

@@ -2,17 +2,17 @@
 a living being to all those who still live.*
 
 **Keywords:** Revenant, ???.  
-**[Level](Level "wikilink"):** 85.  
-**[Alignment](Alignment "wikilink"):** ???.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 85.  
+**[Alignment](Alignment.md "wikilink"):** ???.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** ???.  
 
 ## Gear
 
 `You peek at the inventory:`  
-`    `[`sulfurous`` ``ashes`](Sulfurous_Ashes "wikilink")  
-`    `[`consecrated`` ``ashes`](Consecrated_Ashes "wikilink")` `
+`    `[`sulfurous`` ``ashes`](Sulfurous_Ashes.md "wikilink")  
+`    `[`consecrated`` ``ashes`](Consecrated_Ashes.md "wikilink")` `
 
 ## Comments
 

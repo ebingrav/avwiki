@@ -3,8 +3,8 @@
 **Keywords:** master, key, cold, iron.  
 **Level:** 51  
 **Weight:** 10  
-**[Type](:Category:Object_Types "wikilink"):** key  
-**Mob:** [silent slice of void](Silent_Slice_of_Void "wikilink")  
+**[Type](:Category:Object_Types.md "wikilink"):** key  
+**Mob:** [silent slice of void](Silent_Slice_of_Void.md "wikilink")  
 **Quest:** [Arcanist's Focusing Staff
 Quest](Arcanist's_Focusing_Staff_Quest "wikilink")
 

@@ -11,14 +11,14 @@ Some races will have access to multiple Racial Enhancement skills. Some
 will have only one, and some will have none at all. Once this choice has
 been made, it cannot be undone.
 
-| Skill                           | Effect                                                   |
-|---------------------------------|----------------------------------------------------------|
-| [Ferocity](Ferocity "wikilink") | Gain more damage but less hit roll from racial frenzy    |
-| [Gnash](Gnash "wikilink")       | Gain a chance to inflict flay on racial bite             |
-| [Gust](Gust "wikilink")         | While using racial fly, bash with a gust from your wings |
-| [Headbutt](Headbutt "wikilink") | Smash with your hardheaded skull in lieu of a weapon     |
-| [Sizzle](Sizzle "wikilink")     | Gain a damage boost when burned by NoSun                 |
-| [Whiptail](Whiptail "wikilink") | Use your racial tail to disarm in lieu of a weapon       |
+| Skill                                                                                       | Effect                                               |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------|
+| [Ferocity](Ferocity "wikilink") .md\| Gain more damage but less hit roll from racial frenzy |                                                      |
+| [Gnash](Gnash "wikilink")                                                                   | Gain a chance to inflict flay on racial bite         |
+| [Gust](Gust "wikilink") .md\| While using racial fly, bash with a gust from your wings      |                                                      |
+| [Headbutt](Headbutt "wikilink")                                                             | Smash with your hardheaded skull in lieu of a weapon |
+| [Sizzle](Sizzle "wikilink") .md\| Gain a damage boost when burned by NoSun                  |                                                      |
+| [Whiptail](Whiptail "wikilink")                                                             | Use your racial tail to disarm in lieu of a weapon   |
 
 These skills and the skills that unlock them are not available out of
 class under any circumstances.

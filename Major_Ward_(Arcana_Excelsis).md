@@ -7,7 +7,7 @@ emanating from it. Deeper still, you sense a flicker of something else.*
 
 **Keywords:** ward dodecahedron  
 **Level:** \~42  
-**Type:** [Armor](:Category:Armor "wikilink")  
+**Type:** [Armor](:Category:Armor.md "wikilink")  
 **Slot:** held  
 **Quality:** 100hps  
 **Weight:** 6 lbs  
@@ -19,8 +19,8 @@ Prize from the Arcana Excelsis quest. Bow to Itania.
 
 ## Directions
 
-**Area:** [Arcana Excelsis](:Category:Arcana_Excelsis "wikilink")
-([Map](Arcana_Excelsis_Map "wikilink"))
+**Area:** [Arcana Excelsis](:Category:Arcana_Excelsis.md "wikilink")
+([Map](Arcana_Excelsis_Map.md "wikilink"))
 
 [Category:Gear In Arcana
 Excelsis](Category:Gear_In_Arcana_Excelsis "wikilink") [Category:Arcane

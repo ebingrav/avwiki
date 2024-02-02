@@ -2,15 +2,15 @@
 unheard music.*
 
 **Keywords:** pool, metal.  
-**[Level](Level "wikilink"):** 24.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[mimic](Shapeshifting_Mobs "wikilink"), [
-aggressive](Aggressive "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 24.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[mimic](Shapeshifting_Mobs.md "wikilink"), [
+aggressive](Aggressive.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Comments
 
@@ -25,10 +25,10 @@ In summary - very difficult mob to kill.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Laboratory of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Melting Room
+**[Area](:Category:_Areas.md "wikilink"):** [Laboratory of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Melting Room
 
 [Category: Mobs In Laboratory Of
 Chalmus](Category:_Mobs_In_Laboratory_Of_Chalmus "wikilink")

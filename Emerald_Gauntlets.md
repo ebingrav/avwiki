@@ -1,23 +1,23 @@
 *Lying in a heap, these gauntlets glow a faint green.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12`  
 `Faintly increases resistance to cursed damage continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 5 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 5 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** emerald, gauntlets.  
-**[Level(s)](Object_Level "wikilink"):** 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on hands>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[nodrop](NoDrop_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on hands>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
@@ -28,9 +28,10 @@ bear.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Abyss](:Category:_Abyss "wikilink") ([Map](Abyss_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A toyshop with yellow and
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Abyss](:Category:_Abyss.md "wikilink")
+([Map](Abyss_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A toyshop with yellow and
 green patterns on it (portable)
 
 Walking route from [Giant Pillbug](Giant_Pillbug "wikilink"): e, d, e.

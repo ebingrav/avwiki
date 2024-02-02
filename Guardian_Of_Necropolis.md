@@ -13,30 +13,30 @@ shrine that is but a shade of its former glory.*
 **Keywords:** Guardian.  
 **Scan Description:** This guardian is on constant alert, his eyes
 always searching for driders.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Sentinel](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Sentinel](Sentinel_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `Guardian Of Necropolis is using:`  
 <worn on body>`      `[`Glass`` ``Platemail`](Glass_Platemail "wikilink")  
-<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd "wikilink")
+<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd.md "wikilink")
 
 `Guardian Of Necropolis is carrying:`  
 `     Nothing.`
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Before A Pillaged
-Tomb](Before_A_Pillaged_Tomb_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Before A Pillaged
+Tomb](Before_A_Pillaged_Tomb_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w s 6w n w s.
@@ -53,28 +53,28 @@ searching for his escape from this post.*
 
 **Keywords:** Guardian.  
 **Scan Description:** ??  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Drifting](Drifting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Drifting](Drifting_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ### Gear
 
 `Guardian Of Necropolis is using:`  
-<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd "wikilink")
+<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd.md "wikilink")
 
 `Guardian Of Necropolis is carrying:`  
 `     Nothing.`
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Guardian Of Necropolis [drifts](Drifting_Mobs "wikilink").
+Guardian Of Necropolis [drifts](Drifting_Mobs.md "wikilink").
 
 ## Comments
 

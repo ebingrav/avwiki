@@ -3,7 +3,7 @@
 Erudizo has devoted himself to studying everything there is to know
 about everything.
 
-Directions: From [Woe](Woe_The_Sly "wikilink"), n4wn
+Directions: From [Woe](Woe_The_Sly.md "wikilink"), n4wn
 
     Erudizo looks up from his book.
     Erudizo says 'You should look at this book, KNOWN BOONS.'
@@ -35,25 +35,25 @@ any type can be started while this boon is in effect)
 
 ## Page 2: Engraving the flesh
 
-| Sigil Name    |  Affect                                                   |  Duration |  Cost                                          |
-|---------------|-----------------------------------------------------------|-----------|------------------------------------------------|
-| MANA BOOST    | <span style="display:none">4</span>5000                   | 2 days    | [intact](Fully_Intact_Grimoire "wikilink")     |
-| HP BOOST      | <span style="display:none">4</span>5000                   | 2 days    | [intact](Fully_Intact_Grimoire "wikilink")     |
-| STAT BOOST    | <span style="display:none">4</span>STR/INT/DEX/WIS/CON +3 | 1 week    | [widow](Widow_Tear_Gemstone "wikilink")        |
-| SPELL POWER   | <span style="display:none">4</span>3%                     | 2 days    | [intact](Fully_Intact_Grimoire "wikilink")     |
-| MELEE POWER   | <span style="display:none">4</span>3%                     | 2 days    | [intact](Fully_Intact_Grimoire "wikilink")     |
-| XP BOOST      | <span style="display:none">4</span>8%                     | 1 week    | [intact](Fully_Intact_Grimoire "wikilink")     |
-| DEATH PROTECT | <span style="display:none">4</span>25%                    | 1 week    | [partial](Partially_Burnt_Grimoire "wikilink") |
+| Sigil Name    |  Affect                                                   |  Duration |  Cost                                             |
+|---------------|-----------------------------------------------------------|-----------|---------------------------------------------------|
+| MANA BOOST    | <span style="display:none">4</span>5000                   | 2 days    | [intact](Fully_Intact_Grimoire.md "wikilink")     |
+| HP BOOST      | <span style="display:none">4</span>5000                   | 2 days    | [intact](Fully_Intact_Grimoire.md "wikilink")     |
+| STAT BOOST    | <span style="display:none">4</span>STR/INT/DEX/WIS/CON +3 | 1 week    | [widow](Widow_Tear_Gemstone.md "wikilink")        |
+| SPELL POWER   | <span style="display:none">4</span>3%                     | 2 days    | [intact](Fully_Intact_Grimoire.md "wikilink")     |
+| MELEE POWER   | <span style="display:none">4</span>3%                     | 2 days    | [intact](Fully_Intact_Grimoire.md "wikilink")     |
+| XP BOOST      | <span style="display:none">4</span>8%                     | 1 week    | [intact](Fully_Intact_Grimoire.md "wikilink")     |
+| DEATH PROTECT | <span style="display:none">4</span>25%                    | 1 week    | [partial](Partially_Burnt_Grimoire.md "wikilink") |
 
 <big>**Engraving the flesh**</big>
 
 ## Page 3: Boosting the spirit
 
-| Sacrifice Name   |  Affect                                           |  Duration |  Cost                                          |
-|------------------|---------------------------------------------------|-----------|------------------------------------------------|
-| GLOBAL POWER     | <span style="display:none">4</span>5% spell power | 600 count | [partial](Partially_Burnt_Grimoire "wikilink") |
-| GLOBAL BRUTES    | <span style="display:none">4</span>5% melee power | 600 count | [partial](Partially_Burnt_Grimoire "wikilink") |
-| GLOBAL KNOWLEDGE | <span style="display:none">4</span>8% bonus XP    | 600 count | [partial](Partially_Burnt_Grimoire "wikilink") |
+| Sacrifice Name   |  Affect                                           |  Duration |  Cost                                             |
+|------------------|---------------------------------------------------|-----------|---------------------------------------------------|
+| GLOBAL POWER     | <span style="display:none">4</span>5% spell power | 600 count | [partial](Partially_Burnt_Grimoire.md "wikilink") |
+| GLOBAL BRUTES    | <span style="display:none">4</span>5% melee power | 600 count | [partial](Partially_Burnt_Grimoire.md "wikilink") |
+| GLOBAL KNOWLEDGE | <span style="display:none">4</span>8% bonus XP    | 600 count | [partial](Partially_Burnt_Grimoire.md "wikilink") |
 
 <big>**Boosting the Spirit**</big>
 

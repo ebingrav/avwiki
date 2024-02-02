@@ -11,6 +11,6 @@ himself.*
 ## Gear
 
 `Ironwood, the Summer Warden is using:`  
-<wielded>`           `[`a`` ``krummholz`` ``staff`](Krummholz_Staff "wikilink")
+<wielded>`           `[`a`` ``krummholz`` ``staff`](Krummholz_Staff.md "wikilink")
 
 [Category: Mobs In Heartwood](Category:_Mobs_In_Heartwood "wikilink")

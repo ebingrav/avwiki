@@ -3,13 +3,13 @@
 `Level 51 spells of: 'heal' 'frenzy'.`
 
 **Keyword(s):** crab meat.  
-**[Level(s)](Object_Level "wikilink"):** 52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** nolocate.  
+**[Level(s)](Object_Level.md "wikilink"):** 52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** nolocate.  
 
 ## Comments
 
@@ -17,10 +17,10 @@ Also found in several barrels in the area.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moonbay
-Village](:Category:_Moonbay_Village "wikilink")
-([Map](Moonbay_Village_Map "wikilink"))  
-**[Mob](:Category:_Mobs "wikilink"):** [Yellow
+**[Area](:Category:_Areas.md "wikilink"):** [Moonbay
+Village](:Category:_Moonbay_Village.md "wikilink")
+([Map](Moonbay_Village_Map.md "wikilink"))  
+**[Mob](:Category:_Mobs.md "wikilink"):** [Yellow
 Crab](Yellow_Crab "wikilink")
 
 [Category: Gear In Moonbay

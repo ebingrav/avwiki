@@ -2,9 +2,9 @@
 **Keywords**: blood mithril shackle  
 **Type**: ticket  
 **Flags**: nolocate  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
 **Area**: [Pits Of Blood And
-Chain](:Category:Pits_Of_Blood_And_Chain "wikilink")  
+Chain](:Category:Pits_Of_Blood_And_Chain.md "wikilink")  
 **Mob**: [Broken Oni](Broken_Oni "wikilink")  
 See [Sword Of Yorimandil,
 Restored](Sword_Of_Yorimandil,_Restored "wikilink") for more information

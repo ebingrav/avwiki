@@ -1,25 +1,25 @@
 *A rather large femur is here, cracked along its length.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 11 to 26 (average 18).`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 11 to 26 (average 18).`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`
 
 **Keyword(s):** femur.  
-**[Level(s)](Object_Level "wikilink"):** 24-26.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 8 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 24-26.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 8 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cryptid
-Hollow](:Category:_Cryptid_Hollow "wikilink")
-([Map](Cryptid_Hollow_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):** [Cryptid
+Hollow](:Category:_Cryptid_Hollow.md "wikilink")
+([Map](Cryptid_Hollow_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [Chuchunaa](Chuchunaa "wikilink").  
 See [Chuchunaa](Chuchunaa "wikilink") for more information.
 

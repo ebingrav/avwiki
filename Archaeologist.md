@@ -2,11 +2,11 @@
 glass, crystal and gold for precious remnants of the past.*
 
 **Keywords:** archaeologist.  
-**[Level](Level "wikilink"):** 23.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[cleric](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 23.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[cleric](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -15,19 +15,19 @@ glass, crystal and gold for precious remnants of the past.*
 `Nothing.`
 
 `An archaeologist is carrying:`  
-`     (Glowing) `[`an`` ``unusual`` ``stone`](Unusual_Stone "wikilink")
+`     (Glowing) `[`an`` ``unusual`` ``stone`](Unusual_Stone.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kingdom of the
-Willows](:Category:_Kingdom_Of_The_Willows "wikilink")
-([Map](Kingdom_Of_The_Willows_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The ruin of Avalon
+**[Area](:Category:_Areas.md "wikilink"):** [Kingdom of the
+Willows](:Category:_Kingdom_Of_The_Willows.md "wikilink")
+([Map](Kingdom_Of_The_Willows_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The ruin of Avalon
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 4w, 4n, 2d, 4e, 3n,
-e.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 4w, 4n, 2d, 4e,
+3n, e.  
 An archaeologist is portable.  
 
 [Category: Mobs In Kingdom Of The

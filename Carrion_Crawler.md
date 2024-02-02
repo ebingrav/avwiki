@@ -3,20 +3,20 @@ it receives is the occasional rodent and fool-hardy adventurer. It looks
 like it has decided to have you for dinner...*
 
 **Keywords:** carrion, crawler.  
-**[Level](Level "wikilink"):** 62.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[kleptomaniac](:Category:Scavenging_Mobs "wikilink"), [very
-aggressive](Aggressive_Mobs "wikilink"), [corpse
-eater](Corpse-Eating_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 62.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[kleptomaniac](:Category:Scavenging_Mobs.md "wikilink"), [very
+aggressive](Aggressive_Mobs.md "wikilink"), [corpse
+eater](Corpse-Eating_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `You peek at the inventory:`  
-`    `[`ring`` ``of`` ``Truth`](Ring_Of_Truth "wikilink")
+`    `[`ring`` ``of`` ``Truth`](Ring_Of_Truth.md "wikilink")
 
 ## Comments
 
@@ -24,10 +24,10 @@ eater](Corpse-Eating_Mobs "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Keep](:Category:_Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Garbage Pit.  
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Keep](:Category:_Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Garbage Pit.  
 You can portal to the mob.
 
 [Category: Mobs In Shadow

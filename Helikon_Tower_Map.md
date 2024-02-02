@@ -1,7 +1,7 @@
 <figure>
-<img src="Helikon_Tower.jpg" title="Helikon_Tower.jpg" width="600"
-alt="Helikon_Tower.jpg" />
-<figcaption aria-hidden="true">Helikon_Tower.jpg</figcaption>
+<img src="Helikon_Tower.jpg.md" title="Helikon_Tower.jpg.md" width="600"
+alt="Helikon_Tower.jpg.md" />
+<figcaption aria-hidden="true">Helikon_Tower.jpg.md</figcaption>
 </figure>
 
 [Tortured Terrain](Tortured_Terrain "wikilink")  

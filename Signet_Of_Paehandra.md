@@ -2,9 +2,9 @@
 Type: ticket  
 Flags: nolocate  
 Weight: ?  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 Mob: [Paehandra Of The Moon](Paehandra_Of_The_Moon "wikilink")  
 If you give this to the [Weaver Mother](Weaver_Mother "wikilink") she
 will tell you the following story about [Paehandra Of The
@@ -35,7 +35,7 @@ the Great Fae was the very first to draw blood.*
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

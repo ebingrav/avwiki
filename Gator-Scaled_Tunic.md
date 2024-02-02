@@ -6,18 +6,18 @@
 `Modifies hit roll by 3 continuous`
 
 **Keyword(s):** gator, scaled, tunic.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):**
 
 <body>
 
 .  
-**[Quality](Object_Quality "wikilink"):** 200/200 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[bless](Bless_Flag "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 200/200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[bless](Bless_Flag.md "wikilink").  
 
 ## Comments
 

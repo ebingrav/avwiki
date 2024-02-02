@@ -2,20 +2,20 @@
 are actually made of pure silver. Strong magic must have been used to
 make such a soft metal into such effective armor.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6-8.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6-8.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** leggings, silvermail, mail, silver.  
-**[Level(s)](Object_Level "wikilink"):** 29-34.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 29-34.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -24,15 +24,15 @@ level.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Crescent
-Bog](:Category:_Crescent_Bog "wikilink")
-([Map](Crescent_Bog_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a Captain of the Silver
-Brigade](Captain_Of_The_Silver_Brigade "wikilink"), [a Knight of the
-Silver Brigade](Knight_Of_The_Silver_Brigade "wikilink"), [a Lizard Man
-Brigadier](Lizard_Man_Brigadier "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [The Crescent
+Bog](:Category:_Crescent_Bog.md "wikilink")
+([Map](Crescent_Bog_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a Captain of the Silver
+Brigade](Captain_Of_The_Silver_Brigade.md "wikilink"), [a Knight of the
+Silver Brigade](Knight_Of_The_Silver_Brigade.md "wikilink"), [a Lizard
+Man Brigadier](Lizard_Man_Brigadier.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Crescent
 Bog](Category:_Gear_In_Crescent_Bog "wikilink") [Category:

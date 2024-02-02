@@ -1,27 +1,28 @@
 *A buffalo hide waterskin rests here.*
 
-`Level 18-21 spells of: '`[`cure`` ``disease`](Cure_Disease "wikilink")`'.`
+`Level 18-21 spells of: '`[`cure`` ``disease`](Cure_Disease.md "wikilink")`'.`
 
 **Keyword(s):** buffalo, waterskin.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")
-([Map](Qanza_Prairie_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Waterskin
-Quest](Waterskin_Quest "wikilink").  
-See [Waterskin Quest](Waterskin_Quest "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")
+([Map](Qanza_Prairie_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Waterskin
+Quest](Waterskin_Quest.md "wikilink").  
+See [Waterskin Quest](Waterskin_Quest.md "wikilink") for more
+information.
 
 [Category: Gear In Qanza
 Prairie](Category:_Gear_In_Qanza_Prairie "wikilink") [Category:

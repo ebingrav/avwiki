@@ -1,34 +1,34 @@
 *A huge golden claw is on the floor.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 8-13 to 24-37 (average 16-25).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 6 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 8-13 to 24-37 (average 16-25).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 6 continuous.`
 
 **Keyword(s):** claw, golden.  
-**[Level(s)](Object_Level "wikilink"):** 28-30, 36-38.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 28-30, 36-38.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 There may also be some lower level versions of these around,
-grandfathered from [Ofcol](:Category:_Ofcol "wikilink").
+grandfathered from [Ofcol](:Category:_Ofcol.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Hospice Refugee
-Camp](:Category:_Hospice_Refugee_Camp "wikilink")
-([Map](Hospice_Refugee_Camp_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The Ancient Gold
-Dragon](Ancient_Gold_Dragon "wikilink"), [a
-Dragonlord](Dragonlord "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Hospice Refugee
+Camp](:Category:_Hospice_Refugee_Camp.md "wikilink")
+([Map](Hospice_Refugee_Camp_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The Ancient Gold
+Dragon](Ancient_Gold_Dragon.md "wikilink"), [a
+Dragonlord](Dragonlord.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Hospice Refugee
 Camp](Category:_Gear_In_Hospice_Refugee_Camp "wikilink") [Category:

@@ -1,8 +1,8 @@
 *The Grand Citadel, composed entirely of glass, diamond and crystal,
 stands in the center of the [Arcadian
-Plane](:Category:Arcadia "wikilink"). It is the seat of power of the
-[High King of the Fae](High_King_Adrial "wikilink"). His subjects regard
-the Citadel as the single most beautiful construct in reality.*
+Plane](:Category:Arcadia.md "wikilink"). It is the seat of power of the
+[High King of the Fae](High_King_Adrial.md "wikilink"). His subjects
+regard the Citadel as the single most beautiful construct in reality.*
 
 *Midgaardian visitors should regard it as a very pretty place to die.*
 
@@ -10,15 +10,15 @@ the Citadel as the single most beautiful construct in reality.*
 
 ## Directions
 
-From [Astral](:Category:Astral "wikilink") shift: 3d (puts you in the
+From [Astral](:Category:Astral.md "wikilink") shift: 3d (puts you in the
 first circle)  
-From [Arcadia](:Category:Arcadia "wikilink") shift: portal to fae gate
-guard, or if you wish to walk go *all* n.
+From [Arcadia](:Category:Arcadia.md "wikilink") shift: portal to fae
+gate guard, or if you wish to walk go *all* n.
 
 ## Connections
 
 The beginning of this area connects to [Fantasy
-Forest](:Category:Fantasy_Forest "wikilink")
+Forest](:Category:Fantasy_Forest.md "wikilink")
 
 ## Navigation
 
@@ -29,8 +29,8 @@ The 1st circle has some fae nobility mobs that are relatively large for
 the area.
 
 Beyond that the area is a mostly linear climb to the top. See [Gear In
-Citadel Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for more
-information.
+Citadel Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for
+more information.
 
 ## Adventuring
 

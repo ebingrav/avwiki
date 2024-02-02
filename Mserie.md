@@ -20,20 +20,20 @@
 `    I *AM* the city's stonesmith, after all. How may I help you?"`
 
 **Keywords:** mserie, man, stonesmith.  
-**[Level](Level "wikilink"):** ?.  
+**[Level](Level.md "wikilink"):** ?.  
 **Scan Description:** An incredibly beautiful man stands here,
 contemplating a chunk of stone.  
-**[Alignment](Alignment "wikilink"):** lawful.  
-**[Flags](:Category:_Mob_Types "wikilink"):** .  
+**[Alignment](Alignment.md "wikilink"):** lawful.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** .  
 **Affects:** .  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Cathracharraig](:Category:_Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Cathracharraig](:Category:_Cathracharraig.md "wikilink")
+([Map](Cathracharraig_Map.md "wikilink")).  
 Mserie is portable.  
 
 [Category: Mobs In

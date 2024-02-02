@@ -1,30 +1,31 @@
 *A severed blur-cat paw, claws intact.*
 
 ` Damage is 16 to 45-50.`  
-` Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 10 continuous.`  
-` Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 10 continuous.`  
+` Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 10 continuous.`  
+` Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 10 continuous.`  
 ` 'sneak          '  continuous`
 
 **Keyword(s):** blur, cat, claws.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
 [Spiritlink](Spiritlink "wikilink").  
 
 ## Comments
 
-This is dropped on death by [a blur cat](Blur_Cat "wikilink") ("A paw is
-sliced clean off the body.").
+This is dropped on death by [a blur cat](Blur_Cat.md "wikilink") ("A paw
+is sliced clean off the body.").
 
 ## Directions
 
 Mob: ?  
-Area: [North Rhuien Forest](:Category:_North_Rhuien_Forest "wikilink")
-([Map](North_Rhuien_Forest_Map "wikilink"))  
+Area: [North Rhuien
+Forest](:Category:_North_Rhuien_Forest.md "wikilink")
+([Map](North_Rhuien_Forest_Map.md "wikilink"))  
 ?
 
 [Category: Gear In North Rhuien

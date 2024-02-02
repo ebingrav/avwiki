@@ -1,20 +1,21 @@
-*This [spell](:Category:_Skills_And_Spells "wikilink") enables the
+*This [spell](:Category:_Skills_And_Spells.md "wikilink") enables the
 caster to pass through most closed
-[doors](:Category:_Doors "wikilink").*
+[doors](:Category:_Doors.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'ectoplasmic form'.
+Syntax: [cast](Cast.md "wikilink") 'ectoplasmic form'.
 
-[Psionicists](:Category:_Psionicists "wikilink") may find this
-[spell](:Category:_Skills_And_Spells "wikilink") rather useful at
-[lowmort](:Category:_Lowmort "wikilink")
-[tier](:Category:_Tiers "wikilink") but usually [cast](Cast "wikilink")
-[Pass Door](Pass_Door "wikilink") instead of it at
-[hero](:Category:_Hero "wikilink") [tier](:Category:_Tiers "wikilink").
-It is superfluous to [characters](:Category:_Characters "wikilink")
-affected by [Pass Door](Pass_Door "wikilink"). See [Translucent
-Flag](Translucent_Flag "wikilink") for more information about its
+[Psionicists](:Category:_Psionicists.md "wikilink") may find this
+[spell](:Category:_Skills_And_Spells.md "wikilink") rather useful at
+[lowmort](:Category:_Lowmort.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") but usually
+[cast](Cast.md "wikilink") [Pass Door](Pass_Door.md "wikilink") instead
+of it at [hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). It is superfluous to
+[characters](:Category:_Characters.md "wikilink") affected by [Pass
+Door](Pass_Door.md "wikilink"). See [Translucent
+Flag](Translucent_Flag.md "wikilink") for more information about its
 effects.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

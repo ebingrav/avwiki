@@ -6,21 +6,21 @@ input. An aura of wisdom surrounds Tssasskkas, as does the subtle
 crackling of powerful magic.*
 
 **Keywords:** tssasskkas, creature  
-**[Level](Level "wikilink"):** 90  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink") (probably also a corpse animator,
-but not sure what else)  
-**Affects:** [sanctuary](Sanctuary "wikilink") (not sure what else)  
+**[Level](Level.md "wikilink"):** 90  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink") (probably also a corpse
+animator, but not sure what else)  
+**Affects:** [sanctuary](Sanctuary.md "wikilink") (not sure what else)  
 
 ## Gear
 
 `Tssasskkas is using:`  
-<worn on head>`     (Glowing) `[`crown`` ``of`` ``the`` ``Ages`](Crown_Of_The_Ages "wikilink")  
-<worn about body>`     (Glowing) (Humming) `[`twinkling`` ``stars`](Twinkling_Stars "wikilink")
+<worn on head>`     (Glowing) `[`crown`` ``of`` ``the`` ``Ages`](Crown_Of_The_Ages.md "wikilink")  
+<worn about body>`     (Glowing) (Humming) `[`twinkling`` ``stars`](Twinkling_Stars.md "wikilink")
 
 `Tssasskkas is carrying:`  
-`     `[`tssasskkas`` ``scales`](Tssasskkas_Scales "wikilink")
+`     `[`tssasskkas`` ``scales`](Tssasskkas_Scales.md "wikilink")
 
 ## Comments
 
@@ -31,28 +31,28 @@ As you might expect, Tssasskkas is aggie and sees through sneak/move.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Tssasskkas's
-Lair](:Category:_Tssasskkas's_Lair "wikilink")
-([Map](Tssasskkas's_Lair_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Tssasskkas's Lair  
+**[Area](:Category:_Areas.md "wikilink"):** [ Tssasskkas's
+Lair](:Category:_Tssasskkas's_Lair.md "wikilink")
+([Map](Tssasskkas's_Lair_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Tssasskkas's Lair  
 <font color="red">WARNING</font>
 
 Trying to get to/kill this mob can result in a very messy CR. You need
-someone in the group with [rogue lore](Rogue_Lore "wikilink") for the
+someone in the group with [rogue lore](Rogue_Lore.md "wikilink") for the
 first quest door and and either a
-[psi](:Category:Psionicists "wikilink") or a
-[mnd](:Category:Mindbenders "wikilink") for the second quest door. A
-[BCI](:Category:Black_Circle_Initiates "wikilink") will be able to open
-both doors on the way to Tssasskkas. Some of the [Greater Water
+[psi](:Category:Psionicists.md "wikilink") or a
+[mnd](:Category:Mindbenders.md "wikilink") for the second quest door. A
+[BCI](:Category:Black_Circle_Initiates.md "wikilink") will be able to
+open both doors on the way to Tssasskkas. Some of the [Greater Water
 Elementals](Greater_Water_Elementals "wikilink") and the
 [Jumaras](Jumara "wikilink") have throwing weapons that hit everyone in
 the group and return to their hand (sometimes killing themselves,
 stealing the kill XP from you). Kill these mobs quickly, and make sure
 your healer is prepared to heal the weaker members in the group.
-[Deception](Deception "wikilink"), [disarm](Disarm "wikilink") and
-[detonate](Detonate "wikilink") can help. Don't get excited
-[fusiliers](:Category:Fusiliers "wikilink"), these nasty throwing
-weapons have [inventory flags](Inventory_Flag "wikilink") and thus
+[Deception](Deception.md "wikilink"), [disarm](Disarm.md "wikilink") and
+[detonate](Detonate.md "wikilink") can help. Don't get excited
+[fusiliers](:Category:Fusiliers.md "wikilink"), these nasty throwing
+weapons have [inventory flags](Inventory_Flag.md "wikilink") and thus
 cannot be looted.
 
 Here's how you get to Tssasskkas:
@@ -92,12 +92,13 @@ hitters that will almost certainly aggie you. Watch out for
 too, and are dangerous.
 
 Defeat the [Eyeless Terrors](Eyeless_Terror "wikilink") which have a
-[carburized plate](Carburized_Steel_Plate_Armor "wikilink") [equivalent
-piece](Jumara_Scale_Armor "wikilink"), and occupy the room directly
-before Tssasskkas. Once dead, move up to reach Tssasskkas itself.
+[carburized plate](Carburized_Steel_Plate_Armor.md "wikilink")
+[equivalent piece](Jumara_Scale_Armor.md "wikilink"), and occupy the
+room directly before Tssasskkas. Once dead, move up to reach Tssasskkas
+itself.
 
 For more information consult the [Tssasskkas's
-Lair](:Category:Tssasskkas's_Lair "wikilink") general page as well as
+Lair](:Category:Tssasskkas's_Lair.md "wikilink") general page as well as
 [Tssasskkas's Lair Map](Tssasskkas's_Lair_Map "wikilink").
 
 [Category: Mobs In Tssasskkas's

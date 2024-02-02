@@ -1,19 +1,19 @@
 *Along with an increased awareness of one's surroundings sometimes comes
 a vague intuition of impending doom. This
-[spell](:Category:_Spells "wikilink") puts those subconscious warnings
-to work and gives the caster early warning of nearby danger.
-[Casting](Cast "wikilink") Danger Scan is a lot like
-[scanning](Scan "wikilink") normally, except that the caster will be
-able to detect the [aggressive](Aggressive_Mobs "wikilink") tendencies
-of certain creatures in the surrounding
-[rooms](:Category:_Rooms "wikilink"). He will not be able to tell WHICH
-creatures are dangerous; all he will glean is a general sense of peril
-coming from any directions which harbor
-[aggressive](Aggressive_Mobs "wikilink") creatures.*
+[spell](:Category:_Spells.md "wikilink") puts those subconscious
+warnings to work and gives the caster early warning of nearby danger.
+[Casting](Cast.md "wikilink") Danger Scan is a lot like
+[scanning](Scan.md "wikilink") normally, except that the caster will be
+able to detect the [aggressive](Aggressive_Mobs.md "wikilink")
+tendencies of certain creatures in the surrounding
+[rooms](:Category:_Rooms.md "wikilink"). He will not be able to tell
+WHICH creatures are dangerous; all he will glean is a general sense of
+peril coming from any directions which harbor
+[aggressive](Aggressive_Mobs.md "wikilink") creatures.*
 
-Prerequisite(s): [Heighten Senses](Heighten_Senses "wikilink").
+Prerequisite(s): [Heighten Senses](Heighten_Senses.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'danger scan'.
+Syntax: [cast](Cast.md "wikilink") 'danger scan'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

@@ -1,17 +1,17 @@
 *Huge eyes stare into your own and beg for mercy.*
 
 **Keywords:** Kiah  
-**[Level](Level "wikilink"):** 110.  
+**[Level](Level.md "wikilink"):** 110.  
 **Scan Description:** A naiad is here, staring fearfully at you.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
-**Affects:** [Translucent](Translucent_Flag "wikilink"), Flying, Hide,
-Sneak, Sanctuary.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
+**Affects:** [Translucent](Translucent_Flag.md "wikilink"), Flying,
+Hide, Sneak, Sanctuary.  
 
 ## Gear
 
 `Kiah is using:`  
-<worn on head>`      `[`an`` ``amethyst`` ``circlet`](Amethyst_Circlet "wikilink")
+<worn on head>`      `[`an`` ``amethyst`` ``circlet`](Amethyst_Circlet.md "wikilink")
 
 ## Comments
 

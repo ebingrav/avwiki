@@ -11,27 +11,28 @@ long gray robe. His chanting voice is very orc-like and gutteral as he
 chants and throws some dust into a small brazier.*
 
 **Keywords:** Diismnd, VoAmiiq, riithi, shaman, makriith.  
-**[Level](Level "wikilink"):** 41.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[cleric](Spellcasting_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink"), [protection
-evil](Protection_Evil "wikilink").  
+**[Level](Level.md "wikilink"):** 41.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[cleric](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink").  
 
 ## Gear
 
 `Diismnd VoAmiiq is using:`  
-<worn on body>`      `[`the`` ``Riithi`` ``Shaman's`` ``robes`](Riithi_Shaman's_Robes "wikilink")  
-<worn on head>`      `[`a`` ``Riithi`` ``ceremonial`` ``mask`](Riithi_Ceremonial_Mask "wikilink")  
-<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``Shaman's`` ``boots`](Pair_Of_Riithi_Shaman's_Boots "wikilink")  
-<held>`              `[`a`` ``pinch`` ``of`` ``diamond`` ``dust`](Pinch_Of_Diamond_Dust "wikilink")
+<worn on body>`      `[`the`` ``Riithi`` ``Shaman's`` ``robes`](Riithi_Shaman's_Robes.md "wikilink")  
+<worn on head>`      `[`a`` ``Riithi`` ``ceremonial`` ``mask`](Riithi_Ceremonial_Mask.md "wikilink")  
+<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``Shaman's`` ``boots`](Pair_Of_Riithi_Shaman's_Boots.md "wikilink")  
+<held>`              `[`a`` ``pinch`` ``of`` ``diamond`` ``dust`](Pinch_Of_Diamond_Dust.md "wikilink")
 
 `Diismnd VoAmiiq is carrying:`  
-`    `[`a`` ``small`` ``pouch`` ``of`` ``diamond`` ``dust`](Small_Pouch_Of_Diamond_Dust "wikilink")  
-`    `[`an`` ``herbal`` ``brew`](Herbal_Brew "wikilink")
+`    `[`a`` ``small`` ``pouch`` ``of`` ``diamond`` ``dust`](Small_Pouch_Of_Diamond_Dust.md "wikilink")  
+`    `[`an`` ``herbal`` ``brew`](Herbal_Brew.md "wikilink")
 
 ## Comments
 
@@ -39,11 +40,11 @@ The door west of this mob does not go anywhere, according to the author.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** End of the passage
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [The Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** End of the passage
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d,
 s, d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, s, e, 3n,

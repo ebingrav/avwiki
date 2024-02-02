@@ -4,9 +4,9 @@ away at the stalagmites and stalactites, convinced they are out to get
 him.*
 
 **Keywords:** rockfist, giant.  
-**[Level](Level "wikilink"):** 53.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 53.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 
 ## Gear
 
@@ -23,11 +23,11 @@ Rockfist is carrying:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tssasskkas's
-Lair](:Category:_Tssasskkas's_Lair "wikilink")
-([Map](Tssasskkas's_Lair_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** [mob
-wanders](Wandering_Mobs "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Tssasskkas's
+Lair](:Category:_Tssasskkas's_Lair.md "wikilink")
+([Map](Tssasskkas's_Lair_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** [mob
+wanders](Wandering_Mobs.md "wikilink")  
 Rockfist is portable.
 
 [Category: Mobs In Tssasskkas's

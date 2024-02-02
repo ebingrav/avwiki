@@ -1,14 +1,14 @@
-*It's a cute little multi-colored [dragon](Dragons "wikilink") about 2
-feet long. It gracefully dances around your head.*
+*It's a cute little multi-colored [dragon](Dragons.md "wikilink") about
+2 feet long. It gracefully dances around your head.*
 
 **Keywords:** fairy, dragon.  
-**[Level](Level "wikilink"):** 10.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink"),
-[infavision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 10.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"),
+[infavision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -22,9 +22,10 @@ feet long. It gracefully dances around your head.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Air of
-Avatar](:Category:_Air_Of_Avatar "wikilink")
-([Map](Air_Of_Avatar_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In the Air... (portable).  
+**[Area](:Category:_Areas.md "wikilink"):** [Air of
+Avatar](:Category:_Air_Of_Avatar.md "wikilink")
+([Map](Air_Of_Avatar_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In the Air...
+(portable).  
 
 [Category: Grandfathered Mobs](Category:_Grandfathered_Mobs "wikilink")

@@ -1,14 +1,14 @@
-*This [spell](:Category:_Spells "wikilink") detects the presence of
-[poison](:Category:_Poisons "wikilink") in food or drink.*
+*This [spell](:Category:_Spells.md "wikilink") detects the presence of
+[poison](:Category:_Poisons.md "wikilink") in food or drink.*
 
-Prerequisite(s): [Poison](Poison_(spell) "wikilink").
+Prerequisite(s): [Poison](Poison_(spell).md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'detect poison'
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'detect poison'
+\<[object](:Category:_Objects.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rarely used, especially as
-[characters](:Category:_Characters "wikilink") no longer need to eat or
-drink.
+This [spell](:Category:_Spells.md "wikilink") is rarely used, especially
+as [characters](:Category:_Characters.md "wikilink") no longer need to
+eat or drink.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

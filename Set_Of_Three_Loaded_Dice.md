@@ -1,37 +1,39 @@
-*When [Finar](Clan_Chief_Finar "wikilink") was a lad he often ventured
-along [the Mountain path](:Category:_Highways/Great_Wall "wikilink") to
-[Ofcol](:Category:_Ofcol "wikilink") with
-[Voinar](Clan_Chief_Voinar "wikilink") to drink and gamble. They had a
-foolproof way to win - loaded dice - and set about trying to swindle
-[Ofcol](:Category:_Ofcol "wikilink")'s finest. Of course they failed but
-[Finar](Clan_Chief_Finar "wikilink") kept his dice as a memento of times
-gone. Now they are yours.*
+*When [Finar](Clan_Chief_Finar.md "wikilink") was a lad he often
+ventured along [the Mountain
+path](:Category:_Highways/Great_Wall.md "wikilink") to
+[Ofcol](:Category:_Ofcol.md "wikilink") with
+[Voinar](Clan_Chief_Voinar.md "wikilink") to drink and gamble. They had
+a foolproof way to win - loaded dice - and set about trying to swindle
+[Ofcol](:Category:_Ofcol.md "wikilink")'s finest. Of course they failed
+but [Finar](Clan_Chief_Finar.md "wikilink") kept his dice as a memento
+of times gone. Now they are yours.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-7.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 20 continuous.`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -3 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-7.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 20 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -3 continuous.`
 
 **Keyword(s):** loaded, dice, three.  
-**[Level(s)](Object_Level "wikilink"):** 25.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 25.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Set of Three Loaded
-Dice Quest](Set_Of_Three_Loaded_Dice_Quest "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Set of Three
+Loaded Dice Quest](Set_Of_Three_Loaded_Dice_Quest.md "wikilink").  
 See [Set of Three Loaded Dice
-Quest](Set_Of_Three_Loaded_Dice_Quest "wikilink") for more
+Quest](Set_Of_Three_Loaded_Dice_Quest.md "wikilink") for more
 information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")

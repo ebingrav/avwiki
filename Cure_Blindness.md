@@ -1,20 +1,20 @@
-*This [spell](:Category:_Spells "wikilink") cures blindness in one so
+*This [spell](:Category:_Spells.md "wikilink") cures blindness in one so
 unfortunate.*
 
-Prerequisite(s): [Blindness](Blindness "wikilink").
+Prerequisite(s): [Blindness](Blindness.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'cure blindness'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'cure blindness'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rather valuable for all
-[characters](:Category:_Characters "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is rather valuable for all
+[characters](:Category:_Characters.md "wikilink").
 
 Unlike [Cure Poison](Cure_Poison "wikilink") and [Cure
 Disease](Cure_Disease "wikilink"), among others, this spell can be cast
 during combat.
 
 See also [Cure Blindness
-Gear](:Category:_Cure_Blindness_Gear "wikilink").
+Gear](:Category:_Cure_Blindness_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

@@ -1,13 +1,13 @@
-*When young, [minotaurs](Minotaurs "wikilink") look rather a lot like
+*When young, [minotaurs](Minotaurs.md "wikilink") look rather a lot like
 ordinary cattle. They walk on all fours, and they keep their hands
 clenched in fists.*
 
 **Keywords:** minotaur, young.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -15,16 +15,16 @@ clenched in fists.*
 `Nothing.`
 
 `A young minotaur is carrying:`  
-`     (Glowing) `[`a`` ``potion`` ``of`` ``dew`](Potion_Of_Dew "wikilink")
+`     (Glowing) `[`a`` ``potion`` ``of`` ``dew`](Potion_Of_Dew.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Paradise
-Point](:Category:_Paradise_Point "wikilink")
-([Map](Paradise_Point_Map "wikilink")).  
-A young minotaur [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Paradise
+Point](:Category:_Paradise_Point.md "wikilink")
+([Map](Paradise_Point_Map.md "wikilink")).  
+A young minotaur [wanders](Wandering_Mobs.md "wikilink").  
 A young minotaur is portable.  
 
 [Category: Mobs In Paradise

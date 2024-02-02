@@ -5,7 +5,7 @@ room.
 
 See CONFIGURE to find out which toggle is on and which is off.
 
-See also: [CONFIG](Config "wikilink")
+See also: [CONFIG](Config.md "wikilink")
 
 [Category: Commands](Category:_Commands "wikilink") [Category:
 Configuration](Category:_Configuration "wikilink")

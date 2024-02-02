@@ -6,8 +6,8 @@ Level(s): 14-16
 Base(s): 3-5  
 Weight: 10  
 Mob: [Magnus Wizard](Magnus_Wizard "wikilink")  
-Area: [Town of Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
+Area: [Town of Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
 Mob is portable.  
 from sol 3e 2s \[w\] u 3w 3n 2e \[s\] or there abouts is Magnus
 

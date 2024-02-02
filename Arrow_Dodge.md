@@ -1,14 +1,14 @@
 *With great skill in archery comes anticipation of where an enemy's
-[arrow](:Category:_Arrows "wikilink") will land. This
-[skill](:Category:_Skills_And_Spells "wikilink") represents the ability
-to dodge an oncoming [arrow](:Category:_Arrows "wikilink") or
-[bolt](:Category:_Bolts "wikilink"). Although not
-[archers](:Category:_Archers "wikilink"), the
-[Monks](:Category:_Monks "wikilink") and
-[Assassins](:Category:_Assassins "wikilink") can also learn to dodge
+[arrow](:Category:_Arrows.md "wikilink") will land. This
+[skill](:Category:_Skills_And_Spells.md "wikilink") represents the
+ability to dodge an oncoming [arrow](:Category:_Arrows.md "wikilink") or
+[bolt](:Category:_Bolts.md "wikilink"). Although not
+[archers](:Category:_Archers.md "wikilink"), the
+[Monks](:Category:_Monks.md "wikilink") and
+[Assassins](:Category:_Assassins.md "wikilink") can also learn to dodge
 arrows, due to their superior physical conditioning and reaction time.*
 
-Prerequisite(s): [dodge](Dodge "wikilink").
+Prerequisite(s): [dodge](Dodge.md "wikilink").
 
 Syntax: none (automatic).
 

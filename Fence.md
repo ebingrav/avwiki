@@ -1,11 +1,11 @@
-*[Haggle](Haggle "wikilink") and Fence are similar 'shopping' skills,
+*[Haggle](Haggle.md "wikilink") and Fence are similar 'shopping' skills,
 and let you use your natural ability to finagle a better deal from
-almost anyone. Fence can help you to [sell](Sell "wikilink") otherwise
-worthless [items](:Category:_Objects "wikilink"). Both skills are
-automatic, and of course must be [practiced](Practice "wikilink") before
-being used.*
+almost anyone. Fence can help you to [sell](Sell.md "wikilink")
+otherwise worthless [items](:Category:_Objects.md "wikilink"). Both
+skills are automatic, and of course must be
+[practiced](Practice.md "wikilink") before being used.*
 
-Prerequisite(s): [Haggle](Haggle "wikilink").
+Prerequisite(s): [Haggle](Haggle.md "wikilink").
 
 Syntax: none (automatic).
 

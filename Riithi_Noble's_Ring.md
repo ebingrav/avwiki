@@ -2,18 +2,18 @@
 `Armor class is 9-11.`
 
 **Keyword(s):** ring noble riithi  
-**[Level(s)](Object_Level "wikilink"):** 44-46  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot](Object_Slot "wikilink"):** <worn on finger>  
-**[Quality](Object_Quality "wikilink"):** unknown hps  
-**[Weight](Object_Weight "wikilink"):** 2 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[hum](Hum_Flag "wikilink")  
-**[Area](:Category:_Areas "wikilink"):** [Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Miiknli
+**[Level(s)](Object_Level.md "wikilink"):** 44-46  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot](Object_Slot.md "wikilink"):** <worn on finger>  
+**[Quality](Object_Quality.md "wikilink"):** unknown hps  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[hum](Hum_Flag.md "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Miiknli
 VoHaarpr](Miiknli_VoHaarpr "wikilink")  
 
 ## Comments

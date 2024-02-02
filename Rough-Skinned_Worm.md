@@ -4,12 +4,12 @@ rough-skinned body, is such a disgusting sight! It would be such a good
 deed to rid Midgaardia of worms as horrid as this one.*
 
 **Keywords:** worm, rough.  
-**[Level](Level "wikilink"):** 72.  
+**[Level](Level.md "wikilink"):** 72.  
 **Scan Description:** A bulge of equally rough but differently shaded
 bark crawls over the trunk.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** [very
-agressive](Aggressive_Mobs "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** [very
+agressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** ?.  
 
 ## Gear
@@ -26,9 +26,9 @@ Archer](Experienced_Archer "wikilink"), and
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
 
 [Category: Mobs In Transfigured
 Forest](Category:_Mobs_In_Transfigured_Forest "wikilink")

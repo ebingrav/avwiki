@@ -6,22 +6,23 @@ many names. You may call me Requiem. I am pleased to see you've made it
 this far in your travels. I apologize for the route I forced you to take
 to get here, I can understand it can be very trying. As a reward for
 your dignity and your visit I will allow you to use a special exit I
-made, south, that leads to the [healer](:Category:_Healers "wikilink")
-you know as [Aelmon](Aelmon "wikilink")." He pauses, then continues with
-a grin, "Also, I have in my possession [a
-sword](Orchid-Hilted_Sword "wikilink") that will steel yourself should
-you walk your own downward spiral in the future. All I ask for it is
-[the small mirror](Hand-Held_Mirror "wikilink") that [your
-mirror-self](Mimic "wikilink") had."*
+made, south, that leads to the
+[healer](:Category:_Healers.md "wikilink") you know as
+[Aelmon](Aelmon.md "wikilink")." He pauses, then continues with a grin,
+"Also, I have in my possession [a
+sword](Orchid-Hilted_Sword.md "wikilink") that will steel yourself
+should you walk your own downward spiral in the future. All I ask for it
+is [the small mirror](Hand-Held_Mirror.md "wikilink") that [your
+mirror-self](Mimic.md "wikilink") had."*
 
 **Keywords:** Requiem, gentleman, man.  
-**[Level](Level "wikilink"):** 51 or more.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [fly](Fly "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 51 or more.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [fly](Fly.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -29,21 +30,22 @@ invis](Detect_Invis "wikilink"), [fly](Fly "wikilink"),
 `Nothing.`
 
 `Requiem is carrying:`  
-`     `[`teardrop`` ``Helm`](Teardrop_Helm "wikilink")
+`     `[`teardrop`` ``Helm`](Teardrop_Helm.md "wikilink")
 
 ## Comments
 
 Requiem is involved in [Downward
-Spiral](:Category:_Downward_Spiral "wikilink")'s [Orchid-Hilted Sword
-Quest](Orchid-Hilted_Sword_Quest "wikilink").
+Spiral](:Category:_Downward_Spiral.md "wikilink")'s [Orchid-Hilted Sword
+Quest](Orchid-Hilted_Sword_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Downward
-Spiral](:Category:_Downward_Spiral "wikilink")
-([Map](Downward_Spiral_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A Place of Safety
-([cursed](Cursed_Rooms "wikilink"), [safe](Safe_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Downward
+Spiral](:Category:_Downward_Spiral.md "wikilink")
+([Map](Downward_Spiral_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A Place of Safety
+([cursed](Cursed_Rooms.md "wikilink"),
+[safe](Safe_Rooms.md "wikilink")).  
 Walking route from mudman: s, quaff, d, n, e, s, w, \[d\], e, s, w, w,
 \[d\], s, w, w, n, \[d\], w, w, n, e, \[d\], w, n, e, s, \[d\], \[d\]
 

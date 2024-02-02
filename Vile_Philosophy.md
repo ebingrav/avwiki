@@ -4,7 +4,7 @@ on the caster fails, and causes a backlash of damage.*
 
 Syntax: cast 'vile philosophy' (self only)
 
-Prerequisites: [tainted genius](Tainted_Genius "wikilink")
+Prerequisites: [tainted genius](Tainted_Genius.md "wikilink")
 
 [Category: Lord Sorcerer
 Spells](Category:_Lord_Sorcerer_Spells "wikilink") [Category: Sorcerer

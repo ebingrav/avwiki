@@ -9,8 +9,8 @@
 **Slot**: <held>  
 **Armor Class**: 30-32  
 **Weight**: 5  
-**Flags**: [dark](Dark_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink")  
+**Flags**: [dark](Dark_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
 
 ## Comments
 
@@ -19,7 +19,7 @@
 `we've created a (lord level tank) manifest item`  
 `You'll need a lodestone and 1 diamond, 1 ruby, 3 emeralds, 2 amethysts.`  
 `After embedding the gems,`  
-`type c manifest `[`lodestone`](Lodestone "wikilink")` "dawiz's sceptre of might"`  
+`type c manifest `[`lodestone`](Lodestone.md "wikilink")` "dawiz's sceptre of might"`  
 `Make sure you get the quotes correct.`  
 `Enjoy.`  
 `-- Kariya`

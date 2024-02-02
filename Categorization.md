@@ -1,6 +1,6 @@
 This page summarizes AvatarWiki's current categorization standards.
 
-See also [Category Structure](Category_Structure "wikilink").
+See also [Category Structure](Category_Structure.md "wikilink").
 
 ## Area Categories
 

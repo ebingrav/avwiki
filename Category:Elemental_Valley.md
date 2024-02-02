@@ -1,7 +1,7 @@
 *Fables of small elementals surround this valley that rests off of the
-[Dwarven Trade Route](:Category:_Highways/Great_Wall "wikilink"). It is
-said that at the proper time, tiny elementals will dance to some unheard
-music around a giant quartz boulder that sits in the center.*
+[Dwarven Trade Route](:Category:_Highways/Great_Wall.md "wikilink"). It
+is said that at the proper time, tiny elementals will dance to some
+unheard music around a giant quartz boulder that sits in the center.*
 
 **Level Range:** 6-10
 
@@ -9,20 +9,20 @@ music around a giant quartz boulder that sits in the center.*
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 5n, 7e.
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 5n, 7e.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 6w, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 6w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [small
-elemental](Small_Elemental "wikilink") (note: there are many).
+[Portaling](Portal.md "wikilink") point(s) suggested: [small
+elemental](Small_Elemental.md "wikilink") (note: there are many).
 
 ## Connections
 
 The valley has two entrances, but both lead in from the [Dwarven Trade
-Route](:Category:Highways/Great_Wall "wikilink"). The first leads into
-the north western part of the valley directly east from the first
+Route](:Category:Highways/Great_Wall.md "wikilink"). The first leads
+into the north western part of the valley directly east from the first
 dog-leg the Dwarven Trade Route takes on it's way from [Mt
-Durr](:Category:Mt_Durr "wikilink") to Farmer's Way. The second leads
+Durr](:Category:Mt_Durr.md "wikilink") to Farmer's Way. The second leads
 off the same road, just a bit further along, but this time is a north
 entrance into the south eastern section of the valley.
 

@@ -1,29 +1,30 @@
-*This [spell](:Category:_Spells "wikilink") enables the caster to detect
-[hidden](Hide_Flag "wikilink") [creatures](:Category:_Mobs "wikilink").
-[Creatures](:Category:_Mobs "wikilink") and
-[players](:Category:_Characters "wikilink") more than 3
-[levels](Level "wikilink") above yourself will NOT be detected,
+*This [spell](:Category:_Spells.md "wikilink") enables the caster to
+detect [hidden](Hide_Flag.md "wikilink")
+[creatures](:Category:_Mobs.md "wikilink").
+[Creatures](:Category:_Mobs.md "wikilink") and
+[players](:Category:_Characters.md "wikilink") more than 3
+[levels](Level.md "wikilink") above yourself will NOT be detected,
 however.*
 
-Prerequisite(s): [Infravision](Infravision "wikilink").
+Prerequisite(s): [Infravision](Infravision.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'detect hidden'.
+Syntax: [cast](Cast.md "wikilink") 'detect hidden'.
 
-This [spell](:Category:_Spells "wikilink") is fairly useful to
-[characters](:Category:_Characters "wikilink") wishing to
-[attack](Kill "wikilink") [hidden](Hide_Flag "wikilink")
-[mobs](:Category:_Mobs "wikilink") or to heal
-[hidden](Hide_Flag "wikilink")
-[players](:Category:_Characters "wikilink") or whatnot. It is included
-in [Holy Sight](Holy_Sight "wikilink"). It is superfluous to
-[characters](:Category:_Characters "wikilink") affected by
-[Alertness](Alertness "wikilink") or
-[Awareness](Awareness_(command/skill) "wikilink") or [Heighten
-Senses](Heighten_Senses "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is fairly useful to
+[characters](:Category:_Characters.md "wikilink") wishing to
+[attack](Kill.md "wikilink") [hidden](Hide_Flag.md "wikilink")
+[mobs](:Category:_Mobs.md "wikilink") or to heal
+[hidden](Hide_Flag.md "wikilink")
+[players](:Category:_Characters.md "wikilink") or whatnot. It is
+included in [Holy Sight](Holy_Sight.md "wikilink"). It is superfluous to
+[characters](:Category:_Characters.md "wikilink") affected by
+[Alertness](Alertness.md "wikilink") or
+[Awareness](Awareness_(command/skill).md "wikilink") or [Heighten
+Senses](Heighten_Senses.md "wikilink").
 
 See also [Gear That Applies Detect
-Hidden](:Category:_Gear_That_Applies_Detect_Hidden "wikilink") and
-[Detect Hidden Gear](:Category:_Detect_Hidden_Gear "wikilink").
+Hidden](:Category:_Gear_That_Applies_Detect_Hidden.md "wikilink") and
+[Detect Hidden Gear](:Category:_Detect_Hidden_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

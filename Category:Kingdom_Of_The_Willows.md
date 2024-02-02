@@ -9,14 +9,14 @@ few still dwell under the Willows, singing sadly of the bygone times as
 their land is consumed by the lesser kiths of the World.
 
 *The territory of the Kingdom of the Willows extends from [Lloth's
-Peak](:Category:_Lloth's_Peak "wikilink") to Devil's Peak and reaches
-south to the borders of [Midgaard](:Category:_Midgaard "wikilink") in
+Peak](:Category:_Lloth's_Peak.md "wikilink") to Devil's Peak and reaches
+south to the borders of [Midgaard](:Category:_Midgaard.md "wikilink") in
 the east, and south to [Crystalmir
-Lake](:Category:_Crystalmir_Lake "wikilink") in the west. However, the
-decline of the High Elves has limited the Kingdom's control severely,
-mostly to the large royal gardens southwest of Cathracharraig, due north
-of the halfling village of [Heather
-Flats](:Category:_Heather_Flats "wikilink").*
+Lake](:Category:_Crystalmir_Lake.md "wikilink") in the west. However,
+the decline of the High Elves has limited the Kingdom's control
+severely, mostly to the large royal gardens southwest of Cathracharraig,
+due north of the halfling village of [Heather
+Flats](:Category:_Heather_Flats.md "wikilink").*
 
 **Level Range:** 20-25
 
@@ -24,10 +24,11 @@ Flats](:Category:_Heather_Flats "wikilink").*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 4w, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 4w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Elsera](Elsera "wikilink"), [Saerba](Grand_Duchess_Saerba "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Elsera](Elsera.md "wikilink"),
+[Saerba](Grand_Duchess_Saerba.md "wikilink").
 
 ## Connections
 
@@ -36,9 +37,9 @@ Walking route from [Aelmon](Aelmon "wikilink"): 14n, 4w, n.
 ## Adventuring
 
 The Kingdom of the Willows lies hidden deep within the woods west of
-[Ofcol](:Category:_Ofcol "wikilink"). [Elves](Elves "wikilink") are the
-inhabitants of this green city, fighting back the
-[Orcs](Orcs "wikilink"), lost in thoughts about the old and glorious
+[Ofcol](:Category:_Ofcol.md "wikilink"). [Elves](Elves.md "wikilink")
+are the inhabitants of this green city, fighting back the
+[Orcs](Orcs.md "wikilink"), lost in thoughts about the old and glorious
 times of their race.
 
 [Category: Lowmort 11-20

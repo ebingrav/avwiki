@@ -7,7 +7,8 @@ point in the past they may have been connected (Portal room in lairs 3
 and 5 for example).
 
 Am I missing something here? Thanx. --
-[WinterRose](User:WinterRose "wikilink") 17:25, 28 December 2011 (EST)
+[WinterRose](User:WinterRose.md "wikilink") 17:25, 28 December 2011
+(EST)
 
 ## Old Questdata
 
@@ -33,8 +34,8 @@ room is a general who has a small obsidian key. Going down past the
 cook's room puts you in a maze I haven't figured out yet, besides
 dumping you back w2n from the War Planning Room.  
 **Update:** 2d n e s d e u w d from warroom is how to walk the maze,
-according to another player. --[Arcano](User:Arcano "wikilink") 02:22, 3
-April 2007 (CDT)  
+according to another player. --[Arcano](User:Arcano.md "wikilink")
+02:22, 3 April 2007 (CDT)  
   
 **Part 2:**  
 Zarrillian was the most charismatic of the plotters, and by
@@ -59,16 +60,16 @@ it's a ticket quest thing).
 
 **Edit:** These are possibly the ones that show on locate and have the
 same stats as the old Gf'd wire rimmed spec's but are hero level, do
-they have +4 int as well? --[Redwinter](User:Redwinter "wikilink")
+they have +4 int as well? --[Redwinter](User:Redwinter.md "wikilink")
 13:09, 2 April 2007 (CDT)  
 **Reply:** They don't have +4 int, just detect hidden and detect invis.
 Not sure if they show on locate. I think they might be a clue (or
 something) on how to get to the next part of Ruined Lairs, which I have
 no idea, but I hear is somewhat near Diana.
---[Arcano](User:Arcano "wikilink") 16:35, 2 April 2007 (CDT)  
+--[Arcano](User:Arcano.md "wikilink") 16:35, 2 April 2007 (CDT)  
 **Update:**Yea, it's the one on locate. The room has no "visible" exits,
 but you can leave north to a room that the lich usually is in.
---[Arcano](User:Arcano "wikilink") 01:58, 3 April 2007 (CDT)  
+--[Arcano](User:Arcano.md "wikilink") 01:58, 3 April 2007 (CDT)  
 **Reply:**Ah ok, wondered if they were a straight hero replacement of
 the old lvl 30 ones, seems like they arent as they are missing the +4int
 (they have same short description as the old gf'd pair that did have
@@ -76,7 +77,7 @@ the old lvl 30 ones, seems like they arent as they are missing the +4int
 Spectacles (Ruined Lairs), and A Pair Of Wire Rimmed Spectacles
 (Mahn-tor), pages (btw the wire rimmed spectacles pages for mahn-tor is
 misnamed atm, to Small Pair Of Wire Rimmed Spectacles)
---[Redwinter](User:Redwinter "wikilink") 14:20, 3 April 2007 (CDT)  
+--[Redwinter](User:Redwinter.md "wikilink") 14:20, 3 April 2007 (CDT)  
 **Update:**Those spectacles DO have +4int on them.
 
 I found a ticket, I think in the King Lion part from the lich(I could be

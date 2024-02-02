@@ -1,7 +1,7 @@
 *The Island Citadel of the once great Magus
-[Nubrius](Nubrius "wikilink") has lain desolate and abandoned since his
-death many decades ago. In the coastal city of
-[Mervue](:Category:_Mervue "wikilink"), sailors often tell stories of
+[Nubrius](Nubrius.md "wikilink") has lain desolate and abandoned since
+his death many decades ago. In the coastal city of
+[Mervue](:Category:_Mervue.md "wikilink"), sailors often tell stories of
 the unearthly cries and moans to be heard from Nubrius' Island late at
 night, when the sky is clear and the moon is bright.*
 
@@ -11,11 +11,12 @@ night, when the sky is clear and the moon is bright.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 37s, 8w, s, e (note:
-crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 37s, 8w, s, e (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Threnadir](Threnadir "wikilink"), [bone golem](Bone_Golem "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Threnadir](Threnadir.md "wikilink"), [bone
+golem](Bone_Golem.md "wikilink").
 
 ## Connections
 

@@ -4,14 +4,14 @@ he leans over a table studying a map of Avatar. He seems not to be
 concerned with your prescense.*
 
 **Keywords:** patriarch, man.  
-**[Level](Level "wikilink"):** 68.  
+**[Level](Level.md "wikilink"):** 68.  
 **Scan Description:** The patriarch lays his hands on the obelisk and it
 comes to life!  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [protection
-good](Protection_Good "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [protection
+good](Protection_Good.md "wikilink").  
 
 ## Gear
 
@@ -22,10 +22,11 @@ good](Protection_Good "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obelische
-Caverns](:Category:_Obelische_Caverns "wikilink")
-([Map](Obelische_Caverns_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Before the Obelisk (cursed).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obelische
+Caverns](:Category:_Obelische_Caverns.md "wikilink")
+([Map](Obelische_Caverns_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Before the Obelisk
+(cursed).  
 
 [Category: Mobs In Obelische
 Caverns](Category:_Mobs_In_Obelische_Caverns "wikilink")

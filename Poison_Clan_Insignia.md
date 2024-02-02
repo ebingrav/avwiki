@@ -10,8 +10,9 @@ level 33.
 Object Quality (100 / 100 hps)  
   
 This piece of gear was
-[Grandfathered](:Category:Grandfathered "wikilink") along with the rest
-of [White Lotus Temple](:Category:White_Lotus_Temple "wikilink").
+[Grandfathered](:Category:Grandfathered.md "wikilink") along with the
+rest of [White Lotus
+Temple](:Category:White_Lotus_Temple.md "wikilink").
 
 pp poison clan, kill, get insignia (at the white lotus temple)
 

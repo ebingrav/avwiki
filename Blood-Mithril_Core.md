@@ -2,12 +2,12 @@
 **Keywords**: blood mithril core  
 **Type**: ticket  
 **Flags**: nolocate  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
-**Area**: [Shiftwatch Orb](:Category:Shiftwatch_Orb "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
+**Area**: [Shiftwatch Orb](:Category:Shiftwatch_Orb.md "wikilink")  
 **Mob**: [Iron Claw Sniper](Iron_Claw_Sniper "wikilink")  
 Originally, to get the mob with this item to appear, you needed to kill
 the four [Iron Claw Snipers](Iron_Claw_Sniper "wikilink") that surround
-[Noctopia](:Category:Noctopia "wikilink") shift.
+[Noctopia](:Category:Noctopia.md "wikilink") shift.
 
 As of November 2011, the procedure appears to have changed slightly. The
 leading theories involve killing all of the [Iron Claw

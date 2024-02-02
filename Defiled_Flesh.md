@@ -1,13 +1,13 @@
 *By offering their very flesh to their unseen Demonic masters,
-[Sorcerors](:Category:_Sorcerers "wikilink") receive an increase in
+[Sorcerors](:Category:_Sorcerers.md "wikilink") receive an increase in
 maximum health. All
-[healing](:Category:_Skills_And_Spells_That_Heal_Characters "wikilink")
+[healing](:Category:_Skills_And_Spells_That_Heal_Characters.md "wikilink")
 they receive is halved.*
 
-Prerequisite(s): [Demonic Intent](Demonic_Intent "wikilink"),
-[Torment](Torment "wikilink").
+Prerequisite(s): [Demonic Intent](Demonic_Intent.md "wikilink"),
+[Torment](Torment.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'defiled flesh'.
+Syntax: [cast](Cast.md "wikilink") 'defiled flesh'.
 
 The hp gained is 500 at hero and 1500 at lord. This spell, unlike most,
 can be cast amidst combat.

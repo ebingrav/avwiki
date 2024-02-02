@@ -5,8 +5,8 @@ Slot: Hands
 Level: 25-30  
 Base: 5-8  
 Weight: 5  
-Area: [Moose Lodge](:Category:_Moose_Lodge "wikilink")
-([Map](Moose_Lodge_Map "wikilink"))  
+Area: [Moose Lodge](:Category:_Moose_Lodge.md "wikilink")
+([Map](Moose_Lodge_Map.md "wikilink"))  
 Mob: [Andri KaraMooseov](Andri_KaraMooseov "wikilink") or [Demitri
 KaraMooseov](Demitri_KaraMooseov "wikilink")  
   

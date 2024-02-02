@@ -1,8 +1,8 @@
 *Somewhere under the sands of the [Valley of the
-Sun](:Category:_Valley_Of_The_Sun "wikilink"), there is rumored to be
+Sun](:Category:_Valley_Of_The_Sun.md "wikilink"), there is rumored to be
 the ancient hide-out of a long dead band of
-[thieves](:Category:_Rogues "wikilink"). Adventurers have long tried to
-uncover the location of these catacombs, but those few have never
+[thieves](:Category:_Rogues.md "wikilink"). Adventurers have long tried
+to uncover the location of these catacombs, but those few have never
 returned.*
 
 **Level Range:** 42-44
@@ -11,14 +11,14 @@ returned.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 6w, 4n, w,
-u, n, w, d, n, d, 2n, e, 2n, 2w, 2n, w, u, 2w, n, 2u, e, u, 3n, e, s, e,
-2n, w, n, d, 2n, d, w, d, e, 2d, 6n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 6w, 4n,
+w, u, n, w, d, n, d, 2n, e, 2n, 2w, 2n, w, u, 2w, n, 2u, e, u, 3n, e, s,
+e, 2n, w, n, d, 2n, d, w, d, e, 2d, 6n.
 
 Walking route from [Black Circle
-Master](Black_Circle_Master "wikilink"): 2e, 3n.
+Master](Black_Circle_Master.md "wikilink"): 2e, 3n.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 

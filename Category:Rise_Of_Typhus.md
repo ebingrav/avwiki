@@ -17,20 +17,20 @@ travelling the mountain.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, n, u, e, u, n, w, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, n, u, e, u, n, w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Tysiln
-San](Tysiln_San "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Tysiln
+San](Tysiln_San.md "wikilink").
 
 ## Connections
 
--   [North Of Ofcol](:Category:North_Of_Ofcol "wikilink")
-    ([map](North_Of_Ofcol_Map "wikilink"))
+-   [North Of Ofcol](:Category:North_Of_Ofcol.md "wikilink")
+    ([map](North_Of_Ofcol_Map.md "wikilink"))
 
 ## Navigation
 
-As reflected on [the map](Rise_Of_Typhus_Map "wikilink"), the four
+As reflected on [the map](Rise_Of_Typhus_Map.md "wikilink"), the four
 Ziggurat Steps rooms can be confusing as they each have one-way exits up
 to the Portal from Hell room (Typhus), although to get back it's a
 north, west, east or south exit.
@@ -59,7 +59,7 @@ to kill the unkillable Lord Typhus.*
 ## Comments
 
 This area replaced the grandfathered
-[Typhus](:Category:Typhus "wikilink") in December, 2014. Some mob and
+[Typhus](:Category:Typhus.md "wikilink") in December, 2014. Some mob and
 item descriptions in the old area are still being used in reference to
 this new area, and may or may not have had descriptions, comments and
 such updated to reflect this.
@@ -67,7 +67,7 @@ such updated to reflect this.
 On the lower level the various types of demons appear to be fairly
 similar. Some notable differences: the spined devil's have racial
 tranquility, the demon guardians and
-"[something](Something "wikilink")", and a few others
+"[something](Something.md "wikilink")", and a few others
 ([Gorgon](Gorgon "wikilink"), level 97), are noticeably bigger and more
 aggressive.
 

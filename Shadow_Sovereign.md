@@ -8,21 +8,21 @@ immediately.*
 **Keywords:** shadow, sovereign.  
 **Scan Description:** (Translucent) (Demonic) (Black Aura) Seated upon a
 throne, the shadow sovereign patiently waits.  
-**[Level](Level "wikilink"):** 90.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[sentinel](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"), acid breath.  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 90.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[sentinel](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"), acid breath.  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 ` Shadow sovereign is using:`  
 ` `<used as light>`     [Pristine  ] (Glowing) almost nothing`  
-` `<worn about waist>`  [Pristine  ] (Demonic) (Magical) `[`font`` ``of`` ``power`](Font_Of_Power "wikilink")  
-` `<wielded>`           [Pristine  ] (Invis) (Demonic) `[`the`` ``saber,`` ``"Regulus`` ``Noctis"`](Saber,_"Regulus_Noctis" "wikilink")
+` `<worn about waist>`  [Pristine  ] (Demonic) (Magical) `[`font`` ``of`` ``power`](Font_Of_Power.md "wikilink")  
+` `<wielded>`           [Pristine  ] (Invis) (Demonic) `[`the`` ``saber,`` ``"Regulus`` ``Noctis"`](Saber,_"Regulus_Noctis".md "wikilink")
 
 ` You peek at the inventory:`  
 `      Nothing.`
@@ -38,12 +38,12 @@ room.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-([Map](Cloud_Dracoleum_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Shadow Throne  
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): 3n, u, e,
-\[e\], 2d, \[w\], 3d.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+([Map](Cloud_Dracoleum_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Shadow Throne  
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): 3n, u,
+e, \[e\], 2d, \[w\], 3d.  
 
 [Category:Mobs In Cloud
 Dracoleum](Category:Mobs_In_Cloud_Dracoleum "wikilink")

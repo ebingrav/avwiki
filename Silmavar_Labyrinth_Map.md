@@ -1,11 +1,11 @@
 `Map is huge, click repeatedly to enlarge.`
 
 <figure>
-<img src="Silmavar_labyrinth_map_web.png"
-title="Silmavar_labyrinth_map_web.png" width="650"
-alt="Silmavar_labyrinth_map_web.png" />
+<img src="Silmavar_labyrinth_map_web.png.md"
+title="Silmavar_labyrinth_map_web.png.md" width="650"
+alt="Silmavar_labyrinth_map_web.png.md" />
 <figcaption
-aria-hidden="true">Silmavar_labyrinth_map_web.png</figcaption>
+aria-hidden="true">Silmavar_labyrinth_map_web.png.md</figcaption>
 </figure>
 
 [Wildwood Map](Wildwood_Map "wikilink")  

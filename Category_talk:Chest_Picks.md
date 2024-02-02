@@ -13,9 +13,9 @@ ideas?
 `Picking locks on chests.`  
 `This has roughly 3 uses remaining.`
 
---[Ylem](User:Ylem "wikilink") 13:05, 24 February 2009 (UTC)
+--[Ylem](User:Ylem.md "wikilink") 13:05, 24 February 2009 (UTC)
 
   
-It's from [Tssasskkas'](:Category:Tssasskkas's_Lair "wikilink"), on the
-animated corpse of Pico, iirc. [Scorchio](User:Scorchio "wikilink")
-15:03, 24 February 2009 (UTC)
+It's from [Tssasskkas'](:Category:Tssasskkas's_Lair.md "wikilink"), on
+the animated corpse of Pico, iirc.
+[Scorchio](User:Scorchio.md "wikilink") 15:03, 24 February 2009 (UTC)

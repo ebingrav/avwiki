@@ -1,5 +1,5 @@
 There are two of these mobs in
-[Necropolis](:Category:Necropolis "wikilink"):
+[Necropolis](:Category:Necropolis.md "wikilink"):
 
 ## First Drider
 
@@ -14,11 +14,11 @@ complacency?*
 **Keywords:** Drider.  
 **Scan Description:** The drider's rear guard, he tries to protect those
 in front.  
-**[Level](Level "wikilink"):** 68.  
-**[Alignment](Alignment "wikilink"):** Neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 68.  
+**[Alignment](Alignment.md "wikilink"):** Neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ### Gear
@@ -31,12 +31,12 @@ in front.
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [The Corridor Turns
-West](The_Corridor_Turns_West_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [The Corridor Turns
+West](The_Corridor_Turns_West_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 6w s.
@@ -54,11 +54,11 @@ scouting through the area much easier.*
 **Keywords:** Drider.  
 **Scan Description:** Dancing from shadow to shadow, this drider nears
 his goal: the altar.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink"),
-[Aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink"),
+[Aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ### Gear
@@ -71,12 +71,12 @@ his goal: the altar.
 
 ### Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** [Ice, Ice,
-Everywhere](Ice,_Ice,_Everywhere_(Necropolis) "wikilink")
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** [Ice, Ice,
+Everywhere](Ice,_Ice,_Everywhere_(Necropolis).md "wikilink")
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking route from [Mourning Drow](Mourning_Drow "wikilink"): 3w n 2d n
 w 7s 2d 2n.

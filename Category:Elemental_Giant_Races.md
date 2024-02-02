@@ -1,4 +1,4 @@
-*The Elemental Giants are subgroups of the [Giant](Giants "wikilink")
+*The Elemental Giants are subgroups of the [Giant](Giants.md "wikilink")
 race that have somehow been imbued with Elemental magic. This Elemental
 nature that permeates their being gives these Giants access to a variety
 of unique abilities. It also allows Elemental Giants to cast more spells

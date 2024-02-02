@@ -1,8 +1,8 @@
 ### Mineral items
 
--   [impure diamond shield](Impure_Diamond_Shield "wikilink")
--   [crystal wristguard](Crystal_Wristguard "wikilink")
--   [obsidian shard](Obsidian_Shard "wikilink")
+-   [impure diamond shield](Impure_Diamond_Shield.md "wikilink")
+-   [crystal wristguard](Crystal_Wristguard.md "wikilink")
+-   [obsidian shard](Obsidian_Shard.md "wikilink")
 
 ### Not a mineral
 

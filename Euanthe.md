@@ -3,9 +3,9 @@
 **Keywords:** Euanthe, true, fae.  
 **Scan Description:** One of the true fae is here, practicing with a
 pair of fine swords.  
-**[Level](Level "wikilink"):**  
-**[Alignment](Alignment "wikilink"):**  
-**[Flags](:Category:_Mob_Types "wikilink"):**  
+**[Level](Level.md "wikilink"):**  
+**[Alignment](Alignment.md "wikilink"):**  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**  
 **Affects:**  
 
 ## Gear
@@ -19,9 +19,9 @@ pair of fine swords.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**  
-**[Room](:Category:_Rooms "wikilink"):**  
-Walking route from [Aelmon](Aelmon "wikilink"):  
+**[Area](:Category:_Areas.md "wikilink"):**  
+**[Room](:Category:_Rooms.md "wikilink"):**  
+Walking route from [Aelmon](Aelmon.md "wikilink"):  
 
 [Category: Bladedancer
 Trainers](Category:_Bladedancer_Trainers "wikilink")

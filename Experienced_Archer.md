@@ -5,18 +5,18 @@ grace - there can be no doubt that this woman is an experienced fighter,
 and that she regards this place as a danger.*
 
 **Keywords:** woman, experienced, archer.  
-**[Level](Level "wikilink"):** 76.  
+**[Level](Level.md "wikilink"):** 76.  
 **Scan Description:** A slender woman balances over the trunk, crossbow
 held ready to shoot.  
-**[Alignment](Alignment "wikilink"):** ?.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?.  
+**[Alignment](Alignment.md "wikilink"):** ?.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?.  
 **Affects:** ?.  
 
 ## Gear
 
 ` An experienced archer is using:`  
-`   `<worn on head>`      [Pristine  ] (Glowing) a `[`gleaming`` ``hair`` ``band`](Gleaming_Hair_Band "wikilink")  
-`   `<wielded>`           [Pristine  ] (Glowing) a `[`white`` ``crossbow`](White_Crossbow "wikilink")  
+`   `<worn on head>`      [Pristine  ] (Glowing) a `[`gleaming`` ``hair`` ``band`](Gleaming_Hair_Band.md "wikilink")  
+`   `<wielded>`           [Pristine  ] (Glowing) a `[`white`` ``crossbow`](White_Crossbow.md "wikilink")  
 `   `<held>`              [Pristine  ] 4 piercing bolts`
 
 ## Comments
@@ -26,9 +26,9 @@ has +15hr.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Transfigured
-Forest](:Category:_Transfigured_Forest "wikilink")
-([Map](Transfigured_Forest_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [The Transfigured
+Forest](:Category:_Transfigured_Forest.md "wikilink")
+([Map](Transfigured_Forest_Map.md "wikilink")).  
 
 [Category: Mobs In Transfigured
 Forest](Category:_Mobs_In_Transfigured_Forest "wikilink")

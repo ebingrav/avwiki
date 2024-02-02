@@ -1,4 +1,4 @@
-See also [Key Values](Key_Values "wikilink").
+See also [Key Values](Key_Values.md "wikilink").
 
 Most keys have a limited number of uses, and cannot be saved with (you
 will drop them when you quit out.)

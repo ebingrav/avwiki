@@ -1,10 +1,11 @@
-*In the western parts of [Wildwood](:Category:_Wildwood "wikilink"),
-very near the [Great Wall](:Category:_Highways/Great_Wall "wikilink"),
-there is a crescent-shaped gully into which a large amount of rainwater
-flows from the surrounding region. Over the years, this has turned the
-gully into a murky swamp. A large number of [Lizard
-Folk](Lizardmen "wikilink"), clad in black and silver armor, have been
-rumored to have been traveling to the Bog in the last week or so.*
+*In the western parts of [Wildwood](:Category:_Wildwood.md "wikilink"),
+very near the [Great
+Wall](:Category:_Highways/Great_Wall.md "wikilink"), there is a
+crescent-shaped gully into which a large amount of rainwater flows from
+the surrounding region. Over the years, this has turned the gully into a
+murky swamp. A large number of [Lizard Folk](Lizardmen.md "wikilink"),
+clad in black and silver armor, have been rumored to have been traveling
+to the Bog in the last week or so.*
 
 **Level Range:** 25-35
 
@@ -12,10 +13,12 @@ rumored to have been traveling to the Bog in the last week or so.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, e, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n, e,
+n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[mudman](Mudman "wikilink") (note: [hidden](Hide_Flag "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[mudman](Mudman.md "wikilink") (note:
+[hidden](Hide_Flag.md "wikilink")).
 
 ## Connections
 

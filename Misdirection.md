@@ -1,11 +1,12 @@
-''Misdirection does the same thing as [slink](Slink "wikilink"), but
+''Misdirection does the same thing as [slink](Slink.md "wikilink"), but
 works on multiple opponents and has a slight chance of causing pursuers
 to completely lose track of their targets altogether. You must be
-actively sneaking to use this [skills](:Category:_Skills "wikilink"),
+actively sneaking to use this [skills](:Category:_Skills.md "wikilink"),
 and it will work on foes who are using the
-[Alertness](Alertness "wikilink") [skill](:Category:_Skills "wikilink").
+[Alertness](Alertness.md "wikilink")
+[skill](:Category:_Skills.md "wikilink").
 
-Prerequisite(s): [Rogue Lore](Rogue_Lore "wikilink").
+Prerequisite(s): [Rogue Lore](Rogue_Lore.md "wikilink").
 
 Syntax: none (automatic).
 

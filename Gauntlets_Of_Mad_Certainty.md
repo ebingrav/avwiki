@@ -13,8 +13,8 @@
 Slot: Hands  
 Flags: nolocate  
 Weight: 2  
-Plane: [Nowhere](:Category:Nowhere "wikilink")  
-Area: [Dreamscape](:Category:Dreamscape "wikilink")  
+Plane: [Nowhere](:Category:Nowhere.md "wikilink")  
+Area: [Dreamscape](:Category:Dreamscape.md "wikilink")  
 Mob: [Nyarlathotep](Nyarlathotep "wikilink")  
 
 ------------------------------------------------------------------------

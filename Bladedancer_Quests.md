@@ -71,7 +71,7 @@ Lord 800
 </tr>
 </table>
 
-A [Bladedancer](:Category:Bladedancers "wikilink") may report to
+A [Bladedancer](:Category:Bladedancers.md "wikilink") may report to
 [Araxia](Araxia "wikilink") at any time after the minimum level in order
 to undertake this special training. Saerba is also visited at times. You
 get to euanthe thru saerba.
@@ -96,7 +96,7 @@ room -- a mob program triggers which makes the room briefly safe, then
 whisks you and him away for solo combat. He talks for a LONG time --
 don't start any bladedances until he's almost done talking. He's level
 120; this can be a long fight (don't do it when you have 5 ticks left on
-spells from a [SoS](Shield_Of_Shadows "wikilink") run). He has
+spells from a [SoS](Shield_Of_Shadows.md "wikilink") run). He has
 intervention, so don't assume you're done when he hits 0% hp the first
 time. It appears that if you die to him you can't try again until the
 area is reset. This fight is no joke..I had 28khp/15kmana and 11 on

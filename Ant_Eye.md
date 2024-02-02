@@ -1,27 +1,27 @@
 *This glowing ant eye is just the right size to pop in your mouth.*
 
-`Level 125 spells of: '`[`sanctuary`](Sanctuary "wikilink")`'.`
+`Level 125 spells of: '`[`sanctuary`](Sanctuary.md "wikilink")`'.`
 
 **Keyword(s):** .  
-**[Level(s)](Object_Level "wikilink"):** .  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** .  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Plane](:Category:_Lord_Planes "wikilink"):** [Kzinti
-Homeworld](:Category:Kzinti_Homeworld "wikilink")  
-**[Area](:Category:_Areas "wikilink"):** [Savage
-Jungle](:Category:Savage_Jungle "wikilink")  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Soldier
+**[Level(s)](Object_Level.md "wikilink"):** .  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** .  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Plane](:Category:_Lord_Planes.md "wikilink"):** [Kzinti
+Homeworld](:Category:Kzinti_Homeworld.md "wikilink")  
+**[Area](:Category:_Areas.md "wikilink"):** [Savage
+Jungle](:Category:Savage_Jungle.md "wikilink")  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Soldier
 Ant](Soldier_Ant "wikilink")  
 
 ## Comments
 
 You get this item by skinning a [Soldier Ant](Soldier_Ant "wikilink") in
-the [Savage Jungle](:Category:Savage_Jungle "wikilink"). There are
+the [Savage Jungle](:Category:Savage_Jungle.md "wikilink"). There are
 multiple [Soldier Ants](Soldier_Ant "wikilink") there, and they wander.
 
 [Category:Lord Utility Gear](Category:Lord_Utility_Gear "wikilink")

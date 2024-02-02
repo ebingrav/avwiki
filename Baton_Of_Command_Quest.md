@@ -1,4 +1,4 @@
-The three [tickets](:Category:Tickets "wikilink") you need to collect
+The three [tickets](:Category:Tickets.md "wikilink") you need to collect
 are:
 
 -   [Necklace Of Forget-Me-Nots](Necklace_Of_Forget-Me-Nots "wikilink")
@@ -12,9 +12,9 @@ are:
 -   [Damp Handkerchief](Damp_Handkerchief "wikilink")
 
 Once you have them all, go to [the ghost of Captain
-Faraday](Ghost_Of_Captain_Faraday "wikilink"), and give one of the
+Faraday](Ghost_Of_Captain_Faraday.md "wikilink"), and give one of the
 tickets to her to receive [a baton of
-command](Baton_Of_Command "wikilink").
+command](Baton_Of_Command.md "wikilink").
 
 [Category: Quests In Defender's
 Graveyard](Category:_Quests_In_Defender's_Graveyard "wikilink")

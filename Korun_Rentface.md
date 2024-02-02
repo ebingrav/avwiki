@@ -4,11 +4,11 @@ missing, no need to tell you why.* *And he scowls upon a hostile world
 from one forbidding eye.*
 
 **Keywords:** Korun, Rentface, kzinti, elder  
-**[Level](Level "wikilink"):** 51 or more.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
+**[Level](Level.md "wikilink"):** 51 or more.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
 **Affects:**  
 
 ## Gear
@@ -23,11 +23,11 @@ from one forbidding eye.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kzinti
-Outpost](:Category:Kzinti_Outpost "wikilink").  
-**[Room](:Category:_Rooms "wikilink"):** A strange calm in the desert
-(portable, [safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"):  
+**[Area](:Category:_Areas.md "wikilink"):** [Kzinti
+Outpost](:Category:Kzinti_Outpost.md "wikilink").  
+**[Room](:Category:_Rooms.md "wikilink"):** A strange calm in the desert
+(portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"):  
 Korun Rentface is portable.  
 
 [Category: Mobs In Kzinti

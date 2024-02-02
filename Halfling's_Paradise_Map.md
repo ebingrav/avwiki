@@ -1,10 +1,10 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="halfling&#39;s.paradise.jpg"
-title="halfling&#39;s.paradise.jpg" width="650"
-alt="halfling&#39;s.paradise.jpg" />
-<figcaption aria-hidden="true">halfling's.paradise.jpg</figcaption>
+<img src="halfling&#39;s.paradise.jpg.md"
+title="halfling&#39;s.paradise.jpg.md" width="650"
+alt="halfling&#39;s.paradise.jpg.md" />
+<figcaption aria-hidden="true">halfling's.paradise.jpg.md</figcaption>
 </figure>
 
 [Halfling Tunnels Map](Halfling_Tunnels_Map "wikilink")  

@@ -4,7 +4,7 @@ Lord wizard lore. Provides access to the legend wizard lore.
 
 # Prereqs
 
--   [lesser wizardry](Lesser_Wizardry "wikilink")
+-   [lesser wizardry](Lesser_Wizardry.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -37,7 +37,7 @@ Lord wizard lore. Provides access to the legend wizard lore.
 
 # Lores Unlocked
 
--   [epic wizardry](Epic_Wizardry "wikilink")
+-   [epic wizardry](Epic_Wizardry.md "wikilink")
 
 # Other Notes
 

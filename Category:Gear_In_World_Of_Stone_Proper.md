@@ -3,9 +3,9 @@ Suggested Group Size: 10+, depending on breakdown
 ------------------------------------------------------------------------
 
 To get the [Elemental Earth Ring](Elemental_Earth_Ring "wikilink") shift
-to the [World Of Stone](:Category:World_Of_Stone "wikilink") and portal
-to prince. If portal fizzles, you may need to wait til he moves out of
-the Earth Lord's room or track him (but avoid the [Roc Wyrm
+to the [World Of Stone](:Category:World_Of_Stone.md "wikilink") and
+portal to prince. If portal fizzles, you may need to wait til he moves
+out of the Earth Lord's room or track him (but avoid the [Roc Wyrm
 Mother](Roc_Wyrm_Mother "wikilink")'s room 4n from shift if group is
 small). Kill prince and regen, if needed. You should be able to tell
 which room is the gear room on scan.
@@ -24,11 +24,11 @@ a single target in one hit.
 
 The [Shaleskin Arm Guard](Shaleskin_Arm_Guard "wikilink"), while
 technically in [World Of Stone
-Proper](:Category:World_Of_Stone_Proper "wikilink"), is almost always
-obtained at the beginning of a [dstone](Living_Daemonstone "wikilink")
-run, as the [Roc Wyrm Mother](Roc_Wyrm_Mother "wikilink") lies at the
-entrance to the [Mountain Of
-Madness](:Category:Mountain_Of_Madness "wikilink").
+Proper](:Category:World_Of_Stone_Proper.md "wikilink"), is almost always
+obtained at the beginning of a
+[dstone](Living_Daemonstone.md "wikilink") run, as the [Roc Wyrm
+Mother](Roc_Wyrm_Mother "wikilink") lies at the entrance to the
+[Mountain Of Madness](:Category:Mountain_Of_Madness.md "wikilink").
 
 [Category:World Of Stone
 Proper](Category:World_Of_Stone_Proper "wikilink")

@@ -10,9 +10,9 @@ and distinguished service.*
 **Levels:** Levels 50-52  
 **Weight:** 16 lbs  
 **Bases:** Base 10-12  
-**Flags:** [bless](Bless_Flag "wikilink")  
-**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink"))  
+**Flags:** [bless](Bless_Flag.md "wikilink")  
+**Area:** [Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink"))  
 **Mob:** [Mad Adventurer](Mad_Adventurer "wikilink")  
 
 ## Comments

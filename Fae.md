@@ -11,32 +11,33 @@ same again.*
 
 <!-- -->
 
--   **[Language(s)](:Category:_Languages "wikilink"):**
-    [Common](Common_Language "wikilink"),
-    [Faerie](Faerie_Language "wikilink").
+-   **[Language(s)](:Category:_Languages.md "wikilink"):**
+    [Common](Common_Language.md "wikilink"),
+    [Faerie](Faerie_Language.md "wikilink").
 
 <!-- -->
 
--   **[Racial(s)](:Category:_Racials "wikilink"):**
-    [infravision](Racial_Infravision "wikilink"),
-    [sneak](Racial_Sneak "wikilink"), [fly](Racial_Fly "wikilink"),
-    [movehidden](Racial_Movehidden "wikilink"),
-    [tranquility](Racial_Tranquility "wikilink"), [see
-    invis](Racial_Seeinvis "wikilink").
+-   **[Racial(s)](:Category:_Racials.md "wikilink"):**
+    [infravision](Racial_Infravision.md "wikilink"),
+    [sneak](Racial_Sneak.md "wikilink"),
+    [fly](Racial_Fly.md "wikilink"),
+    [movehidden](Racial_Movehidden.md "wikilink"),
+    [tranquility](Racial_Tranquility.md "wikilink"), [see
+    invis](Racial_Seeinvis.md "wikilink").
 
 <!-- -->
 
--   **[Characteristic(s)](:Category:_Characteristics "wikilink"):**
-    [Biped](:Category:Biped "wikilink"), [Faerie
-    Race](:Category:Faerie_Races "wikilink").
+-   **[Characteristic(s)](:Category:_Characteristics.md "wikilink"):**
+    [Biped](:Category:Biped.md "wikilink"), [Faerie
+    Race](:Category:Faerie_Races.md "wikilink").
 
 <!-- -->
 
--   **[Racial Size](Racial_Size "wikilink"):** small.
+-   **[Racial Size](Racial_Size.md "wikilink"):** small.
 
 <!-- -->
 
--   **[Racial TNL](Racial_TNL "wikilink"):** 3125.
+-   **[Racial TNL](Racial_TNL.md "wikilink"):** 3125.
 
 <!-- -->
 
@@ -51,14 +52,14 @@ same again.*
 The Fae ascension quest is relatively simple (compared to Demon) - you
 just have to form a group capable of killing the
 [Unmaker](Unmaker "wikilink") in [The
-Unravelling](:Category:Unravelling "wikilink"). The Unmaker is found at
-the end of a short maze e/w of Mother Weaver. The mob only takes damage
-from High Elves, and will automatically kill any non-hie which attempt
-to enter its room. A group of 6 casters is usually sufficient, though
-additional help will be needed to get there. The mobs in the maze before
-Unmaker also detonate gear, but the Unmaker itself does not. The Unmaker
-will drop [one item](Faerie_Essence "wikilink") which must be in
-inventory when troika is completed to ascend to Fae. This means that
+Unravelling](:Category:Unravelling.md "wikilink"). The Unmaker is found
+at the end of a short maze e/w of Mother Weaver. The mob only takes
+damage from High Elves, and will automatically kill any non-hie which
+attempt to enter its room. A group of 6 casters is usually sufficient,
+though additional help will be needed to get there. The mobs in the maze
+before Unmaker also detonate gear, but the Unmaker itself does not. The
+Unmaker will drop [one item](Faerie_Essence.md "wikilink") which must be
+in inventory when troika is completed to ascend to Fae. This means that
 each kill of the Unmaker enables one character to become Fae.
 
 The Unravelling maze has random exits, but the maze isn't too deep (4-5

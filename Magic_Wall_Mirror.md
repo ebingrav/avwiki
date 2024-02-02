@@ -1,25 +1,25 @@
 *A magic mirror hangs on a wall.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 4-5.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 10 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 4-5.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 10 continuous.`
 
 **Keyword(s):** mirror magic wall.  
-**[Level(s)](Object_Level "wikilink"):** 16-18.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 16-18.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Brothers
-Grimm](:Category:_Brothers_Grimm "wikilink")
-([Map](Brothers_Grimm_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Wicked
+**[Area](:Category:_Areas.md "wikilink"):** [Brothers
+Grimm](:Category:_Brothers_Grimm.md "wikilink")
+([Map](Brothers_Grimm_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Wicked
 Queen](Wicked_Queen "wikilink").  
 See [Wicked Queen](Wicked_Queen "wikilink") for more information.
 

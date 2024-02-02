@@ -7,11 +7,11 @@ goods. What am I to do?"*
 *With that she goes back to her sorrow and pays you no more heed.*
 
 **Keywords:** ghost, woman, ??.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** [invis](Invis "wikilink"), [pass
-door](Pass_Door "wikilink"), [sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** [invis](Invis.md "wikilink"), [pass
+door](Pass_Door.md "wikilink"), [sneak](Sneak.md "wikilink").  
 
 ## Gear
 
@@ -23,15 +23,15 @@ door](Pass_Door "wikilink"), [sneak](Sneak "wikilink").
 
 ## Comments
 
-Give [a silver quarrel](Silver_Quarrel "wikilink") to her to receive [a
-damp handkerchief](Damp_Handkerchief "wikilink").
+Give [a silver quarrel](Silver_Quarrel.md "wikilink") to her to receive
+[a damp handkerchief](Damp_Handkerchief.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink")).  
-A weeping ghost [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink")).  
+A weeping ghost [wanders](Wandering_Mobs.md "wikilink").  
 
 [Category: Mobs In Defender's
 Graveyard](Category:_Mobs_In_Defender's_Graveyard "wikilink")

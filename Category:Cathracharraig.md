@@ -1,9 +1,9 @@
 *The walls toppled. The Golden Citadel melted and sunk. The streets
 overturned as if they were but soil being tilled. Thus, [Tannah
 Machadae](Tannah_Machadae "wikilink") obliterated the northern city of
-[Ofcol](:Category:Ofcol "wikilink"), and from its ruins she raised her
-own: Cathracharraig. The last of the survivors fleeing the doomed city
-claim to have seen fortifications emerge fully formed from the
+[Ofcol](:Category:Ofcol.md "wikilink"), and from its ruins she raised
+her own: Cathracharraig. The last of the survivors fleeing the doomed
+city claim to have seen fortifications emerge fully formed from the
 devastation, still smoldering with the heat of the earth. Whether or not
 they are to be believed, it can be certain that Mistress Mach now lays
 claim to her own kingdom: one in which her most loyal subjects are the
@@ -19,18 +19,18 @@ elements beneath her feet.*
 
 Walking route from [Aelmon](Aelmon "wikilink"): 20n
 
-[Portaling](Portal "wikilink") point(s) suggested: [Troll Gate
+[Portaling](Portal.md "wikilink") point(s) suggested: [Troll Gate
 Guard](Troll_Gate_Guard "wikilink") (entrance to the city),
 [Mserie](Mserie "wikilink") (near the [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink")).
+Machadae](:Category:Daingean_Machadae.md "wikilink")).
 
 ## Connections
 
--   [Airways](:Category:Airways "wikilink")
--   [Daingean Machadae](:Category:Daingean_Machadae "wikilink")
--   [Highways](:Category:Highways/Great_Wall "wikilink")
--   [House Of Stone](:Category:House_Of_Stone "wikilink")
--   [Outsiders](:Category:Outsiders "wikilink")
+-   [Airways](:Category:Airways.md "wikilink")
+-   [Daingean Machadae](:Category:Daingean_Machadae.md "wikilink")
+-   [Highways](:Category:Highways/Great_Wall.md "wikilink")
+-   [House Of Stone](:Category:House_Of_Stone.md "wikilink")
+-   [Outsiders](:Category:Outsiders.md "wikilink")
 
 ## Navigation
 
@@ -52,8 +52,8 @@ the city) to very high hero-mobs (enormous golems and certain city
 guards, like the Troll captain). Most are evil.
 
 Wanton slaughter is not really recommended as the city **is** a
-[lawful](Lawful_Flag "wikilink") town, and becoming an
-[Outlaw](Outlaw_Flag "wikilink") here will mean Midgaard and other
+[lawful](Lawful_Flag.md "wikilink") town, and becoming an
+[Outlaw](Outlaw_Flag.md "wikilink") here will mean Midgaard and other
 lawful cities will also consider you as such.
 
 Becoming outlaw will result in a stay in the city's dungeon. Unlike in

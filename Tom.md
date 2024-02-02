@@ -5,10 +5,10 @@ showed that he could still probably show you a thing or two with that
 weapon of yours.*
 
 **Keywords:** old, soldier.  
-**[Level](Level "wikilink"):** 12.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 12.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -23,12 +23,13 @@ weapon of yours.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Tom's
-House](:Category:_Tom's_House "wikilink")
-([Map](Tom's_House_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In a soldier's home
+**[Area](:Category:_Areas.md "wikilink"):** [Tom's
+House](:Category:_Tom's_House.md "wikilink")
+([Map](Tom's_House_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In a soldier's home
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 9w, 3s, e, \[n\], n.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 9w, 3s, e, \[n\],
+n.  
 Tom is portable.  
 
 [Category: Mobs In Tom's

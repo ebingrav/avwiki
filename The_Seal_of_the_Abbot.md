@@ -6,15 +6,15 @@
 Slot: held  
 Flags:  
 Weight:  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Echo Monastery](:Category:Echo_Monastery "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Echo Monastery](:Category:Echo_Monastery.md "wikilink")  
 Mob: TBD  
 
 ## Comments
 
 This is a base item that can be used to
-[Transmogrify](transmogrify "wikilink") other gear. It is reboot / reset
-only.
+[Transmogrify](transmogrify.md "wikilink") other gear. It is reboot /
+reset only.
 
 Ingredients that can be used to modify this item:
 

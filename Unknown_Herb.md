@@ -2,16 +2,16 @@
 is not a familiar appearance. It smells like a summer morning, clean,
 fresh, tempting.*
 
-`Level 13-15 spells of: '`[`detect`` ``magic`](Detect_Magic "wikilink")`'.`
+`Level 13-15 spells of: '`[`detect`` ``magic`](Detect_Magic.md "wikilink")`'.`
 
 **Keyword(s):** herb  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 9-10  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 9-10  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
 
 ## Comments
 
@@ -19,10 +19,10 @@ This is found on the ground.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sableroix
-Manor](:Category:_Sableroix_Manor "wikilink")
-([Map](Sableroix_Manor_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Old Herb Garden.
+**[Area](:Category:_Areas.md "wikilink"):** [Sableroix
+Manor](:Category:_Sableroix_Manor.md "wikilink")
+([Map](Sableroix_Manor_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Old Herb Garden.
 
 [Category: Detect Magic Gear](Category:_Detect_Magic_Gear "wikilink")
 [Category: Pills](Category:_Pills "wikilink") [Category: Lowmort 1-10

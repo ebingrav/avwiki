@@ -5,8 +5,8 @@ Level: 4
 Weight: 1  
 No base ac  
 Mob: [Tightrope Walker](Tightrope_Walker "wikilink")  
-Area: [Circus](:Category:_Circus "wikilink")
-([Map](Circus_Map "wikilink"))  
+Area: [Circus](:Category:_Circus.md "wikilink")
+([Map](Circus_Map.md "wikilink"))  
 From the entrance to the circus go one south and buy a ticket. Then go
 straight south until you hit a closed door. Unlock it, open it, and
 continue south until you see an up exit. Going up will take you onto the

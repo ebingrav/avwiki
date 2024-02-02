@@ -4,7 +4,7 @@ Legend psionicist lore.
 
 # Prereqs
 
--   [greater psionics](Greater_Psionics "wikilink")
+-   [greater psionics](Greater_Psionics.md "wikilink")
 
 # Skills/Spells Granted
 

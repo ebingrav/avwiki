@@ -1,27 +1,27 @@
 *A small paper packet of dried herbs lies here.*
 
-`Level 12 spells of: '`[`cure`` ``poison`](Cure_Poison "wikilink")`' '`[`cure`` ``light`](Cure_Light "wikilink")`'.`
+`Level 12 spells of: '`[`cure`` ``poison`](Cure_Poison.md "wikilink")`' '`[`cure`` ``light`](Cure_Light.md "wikilink")`'.`
 
 **Keyword(s):** yarrow packet powdered herbs herb  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Level(s)](Object_Level "wikilink"):** 0  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
-[Herbalist](Herbalist "wikilink") ([portable](Teleport "wikilink"))  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 0  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Herbalist](Herbalist "wikilink") ([portable](Teleport.md "wikilink"))  
 
 ## Comments
 
 Buy for 900 gold.
 
 See also [Suggested Curative
-Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Curative_Gear.md "wikilink")
 
 ## Directions
 

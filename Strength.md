@@ -1,7 +1,8 @@
 *Strength is responsible for the [amount of weight a character can
-carry](Carrying_Capacity "wikilink"). A higher strength also increases
-[hitroll](Hit_Roll "wikilink") & [damroll](Damage_Roll "wikilink"),
-resulting in higher damage to the enemy.*
+carry](Carrying_Capacity.md "wikilink"). A higher strength also
+increases [hitroll](Hit_Roll.md "wikilink") &
+[damroll](Damage_Roll.md "wikilink"), resulting in higher damage to the
+enemy.*
 
 <table>
 <tbody>
@@ -11,10 +12,10 @@ resulting in higher damage to the enemy.*
 <thead>
 <tr class="header">
 <th style="text-align: center;"><p>Strength</p></th>
-<th style="text-align: center;"><p><a href="Carrying_Capacity"
+<th style="text-align: center;"><p><a href="Carrying_Capacity.md"
 title="wikilink">Weight Capacity</a></p></th>
-<th style="text-align: center;"><p><a href="Object_Weight"
-title="wikilink">Weight</a> <a href="Wield"
+<th style="text-align: center;"><p><a href="Object_Weight.md"
+title="wikilink">Weight</a> <a href="Wield.md"
 title="wikilink">Wieldable</a></p></th>
 </tr>
 </thead>
@@ -160,8 +161,8 @@ title="wikilink">Wieldable</a></p></th>
 </tbody>
 </table>
 
-[Characters](:Category:_Characters "wikilink") may
-[wear](Wear "wikilink") [gear](:Category:_Str_Gear "wikilink") to
+[Characters](:Category:_Characters.md "wikilink") may
+[wear](Wear.md "wikilink") [gear](:Category:_Str_Gear.md "wikilink") to
 increase their strengths.
 
 [Category: Characters](Category:_Characters "wikilink") [Category:

@@ -6,7 +6,7 @@ Armorstone](Racial_Armorstone "wikilink") and it is the best currently
 available racial armor in the game.
 
 [Dragons](Dragons "wikilink"), [Golems](Golems "wikilink") and
-[Iganturs](Ignatur "wikilink") possess this level of racial armor.
+[Iganturs](Ignatur.md "wikilink") possess this level of racial armor.
 
 [Racial Armorsteel](Racial_Armorsteel "wikilink") is technically better
 however there is no available race with this armor type.

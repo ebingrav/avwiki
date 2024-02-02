@@ -17,7 +17,7 @@ How to get:
 1\. Get a [Sword Of Yorimandil,
 Restored](Sword_Of_Yorimandil,_Restored "wikilink").
 
-2\. Embed the following [ perfect gems](Perfect_Gemstones "wikilink")
+2\. Embed the following [ perfect gems](Perfect_Gemstones.md "wikilink")
 into it: 1 diamond, 2 amethyst, 3 sapphire, 2 ruby, 1 emerald.
 
 3\. Manifest the item: c manifest sword "Grantok's Grate Klub"

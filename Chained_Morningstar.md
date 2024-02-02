@@ -11,20 +11,20 @@ its own.*
 ` Modifies strength by 2 continuous`
 
 **Keyword(s):** spiked orb chained morningstar.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wield>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 35 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow reinforced
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wield>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 35 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow reinforced
 fire-ward.  
 
 ## Comments
 
 Obtained by giving [Artificer
 Coruscianus](Artificer_Coruscianus "wikilink") a
-[lodestone](Lodestone_(Forge) "wikilink"), [Length Of Red Hot
+[lodestone](Lodestone_(Forge).md "wikilink"), [Length Of Red Hot
 Chain](Length_Of_Red_Hot_Chain "wikilink"), and [Fan of Adamantine
 Darts](Fan_of_Adamantine_Darts "wikilink") in a Fatewalkers-style ticket
 quest.

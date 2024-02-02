@@ -8,10 +8,10 @@ doing here.*
 **Keywords:** troll, guard, ??.  
 **Scan Description:** A large troll guard stands here, trying to do his
 duty as well as he can.  
-**[Level](Level "wikilink"):** 55.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 55.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink")  
 **Affects:** none.  
 
 ## Gear
@@ -23,11 +23,11 @@ duty as well as he can.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink")
-([Map](Obsidian_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Bottom of the sairs
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:Obsidian_Tower.md "wikilink")
+([Map](Obsidian_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Bottom of the sairs
+([Cursed](Cursed_Rooms.md "wikilink")).  
 
 [Category:Mobs In Obsidian
 Tower](Category:Mobs_In_Obsidian_Tower "wikilink")

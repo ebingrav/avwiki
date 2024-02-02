@@ -4,13 +4,13 @@
 -   It shouldn't reference drugs, alcohol, disease or illness.
 -   It may not be vulgar or sexually explicit in any way.
 -   It may not have a prefix of "Angel", as we have
-    [Angels](:Category:_Angels "wikilink") on the staff.
+    [Angels](:Category:_Angels.md "wikilink") on the staff.
 -   It may not have Roman numerals at the end, such as ArkinIV and
     SueII, because our staff uses this system for alternate
-    [Immortal](:Category:_Immortals "wikilink")
-    [characters](:Category:_Characters "wikilink").
+    [Immortal](:Category:_Immortals.md "wikilink")
+    [characters](:Category:_Characters.md "wikilink").
 -   It may not have more than 4 first letters in common with an
-    [Immortal](:Category:_Immortals "wikilink") name. For instance,
+    [Immortal](:Category:_Immortals.md "wikilink") name. For instance,
     Mendus is acceptable, whereas Mendes is not. If you are not familiar
     with our staff, and accidentally choose a name that is unacceptable
     this way, you will be asked to choose a new one.

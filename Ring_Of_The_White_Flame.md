@@ -7,14 +7,14 @@
 Slot: finger  
 Flags: glow magic bless anti-neutral nolocate  
 Weight: 2  
-Plane: [Firerealm](:Category:Firerealm "wikilink")  
-Area: [Firerealm Proper](:Category:Firerealm_Proper "wikilink")  
+Plane: [Firerealm](:Category:Firerealm.md "wikilink")  
+Area: [Firerealm Proper](:Category:Firerealm_Proper.md "wikilink")  
 Mob: Kohl, Purifying Crusader  
 
 ------------------------------------------------------------------------
 
 See [Gear In Firerealm
-Proper](:Category:Gear_In_Firerealm_Proper "wikilink") for more
+Proper](:Category:Gear_In_Firerealm_Proper.md "wikilink") for more
 information.
 
 [Category: Lord Second Tier Tank

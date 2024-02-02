@@ -1,6 +1,6 @@
 A sorcerer needs your help in finding something he lost.
 
-**Start Location:** [Solace](:Category:Town_Of_Solace "wikilink")  
+**Start Location:** [Solace](:Category:Town_Of_Solace.md "wikilink")  
 **Starting Room:** North End of Bar, in Inn of the Last Home. Look for a
 sorcerer, and read his description.  
 **Reward:** The sorcerer casts [Protection
@@ -9,9 +9,9 @@ alignment, this spell will not work on you, and there is no reward.
 
 **Directions:**
 
-Look for the [scavenger](Scavenger "wikilink") in [Highways/Great
-Wall](:Category:Highways/Great_Wall "wikilink"), and kill him to get the
-[Mysterious Old Scroll](Mysterious_Old_Scroll "wikilink"). Give the
+Look for the [scavenger](Scavenger.md "wikilink") in [Highways/Great
+Wall](:Category:Highways/Great_Wall.md "wikilink"), and kill him to get
+the [Mysterious Old Scroll](Mysterious_Old_Scroll "wikilink"). Give the
 scroll to the sorcerer.
 
 [Category: Quests In Town Of

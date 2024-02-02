@@ -1,25 +1,26 @@
 *A leather pouch, with a shoulder strap is here waiting to be carried.*
 
-[`Capacity`](Container_Values "wikilink")` is 100 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 100 lbs.`
 
 **Keyword(s):** leather, pouch.  
-**[Level(s)](Object_Level "wikilink"):** 20-22.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>.  
-**[Quality](Object_Quality "wikilink"):** 1000 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20-22.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>.  
+**[Quality](Object_Quality.md "wikilink"):** 1000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mt.
-Durr](:Category:_Mt_Durr "wikilink") ([Map](Mt_Durr_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Tomli son of
-Bomli](Tomli_Son_Of_Bomli "wikilink").  
-See [Tomli son of Bomli](Tomli_Son_Of_Bomli "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Mt.
+Durr](:Category:_Mt_Durr.md "wikilink")
+([Map](Mt_Durr_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Tomli son of
+Bomli](Tomli_Son_Of_Bomli.md "wikilink").  
+See [Tomli son of Bomli](Tomli_Son_Of_Bomli.md "wikilink") for more
 information.  
 
 [Category: Gear In Mt Durr](Category:_Gear_In_Mt_Durr "wikilink")

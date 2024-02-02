@@ -3,9 +3,9 @@ Keywords: gold ring bronze copper leaves
 Type: ticket  
 Flags: nolocate  
 Weight: ?  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 Mob: [Syriohl Of The Autumn](Syriohl_Of_The_Autumn "wikilink")  
 If you give this to the [Weaver Mother](Weaver_Mother "wikilink") she
 will tell you the following story about [Syriohl Of The
@@ -29,7 +29,7 @@ would have the final victory."*
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

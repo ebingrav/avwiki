@@ -6,8 +6,8 @@ when you open the helm you find nothing... until it clanks towards you.*
 **Keywords:** suit, armor, ??  
 **[Level](Level "wikilink"):** 61  
 **[Alignment](Alignment "wikilink"):** apathetic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
 **Affects:** [Detect Invis](Detect_Invis "wikilink"), [Detect
 Hidden](Detect_Hidden "wikilink"),
 [Infravision](Infravision "wikilink"), [Faerie
@@ -21,19 +21,19 @@ Fire](Faerie_Fire "wikilink")
 ## Comments
 
 The suit of armor's weapon has a -4/-4 modifier to [hit
-roll](Hit_Roll "wikilink") and [damage roll](Damage_Roll "wikilink"), so
-it's recommended to not [disarm](Disarm "wikilink"), or
-[decept](Deception "wikilink") them. [Bioscan](Bioscan "wikilink")
-reveals that this mob is aggressive, but it has never aggressed me
-before so I am not labeling it aggressive.
+roll](Hit_Roll.md "wikilink") and [damage
+roll](Damage_Roll.md "wikilink"), so it's recommended to not
+[disarm](Disarm.md "wikilink"), or [decept](Deception.md "wikilink")
+them. [Bioscan](Bioscan "wikilink") reveals that this mob is aggressive,
+but it has never aggressed me before so I am not labeling it aggressive.
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Shadow
-Keep](:Category:Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** The Master's Study
-([Cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:Areas.md "wikilink"):** [Shadow
+Keep](:Category:Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** The Master's Study
+([Cursed](Cursed_Rooms.md "wikilink"))  
 Walking route from entrance: n, \[n\], 4n, w, \[w\]
 
 [Category:Mobs In Shadow Keep](Category:Mobs_In_Shadow_Keep "wikilink")

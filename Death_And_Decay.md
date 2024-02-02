@@ -1,18 +1,18 @@
 *All avert their eyes when faced with death.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
 `'move hidden    '  continuous`  
 `'sneak          '  continuous`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** death, decay, wrap, cloak  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** hum, dark, evil,
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** hum, dark, evil,
 invis, magic, nodrop, noremove.  
 
 ## Comments
@@ -23,7 +23,7 @@ cannot sneak or move-hidden otherwise.
 
 ## Directions
 
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The hydra's
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The hydra's
 body](The_hydra's_body "wikilink")  
 
 [Category: Gear In Sem Vida](Category:_Gear_In_Sem_Vida "wikilink")

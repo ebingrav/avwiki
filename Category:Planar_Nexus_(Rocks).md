@@ -1,6 +1,6 @@
 # Notable Mobs
 
-[An ogre tinker.](Ogre_Tinker "wikilink")
+[An ogre tinker.](Ogre_Tinker.md "wikilink")
 
 # Other Notes
 

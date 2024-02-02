@@ -2,30 +2,30 @@
 the main continent. It is supposedly the smallest inhabited island in
 the local archipelago. When the first fishing peoples arrived at the
 island, they named it for both the local
-[monk](:Category:_Monks "wikilink") clan (whose temple apparently
+[monk](:Category:_Monks.md "wikilink") clan (whose temple apparently
 predates all nearby island colonies) and for the everpresent plume of
 smoke from the island's volcano: visible even beyond the horizon, it
 seems to tether the island to the heavens. Coincidentally, Gorn's Anchor
 is also situated at a near perfect location from which to regulate trade
 between the surrounding islands. Surprisingly, [Lord
-Audis](Lord_Audis "wikilink") has not yet established any official
-presence there. [Captain Dieme](Captain_Dieme "wikilink"), under the
-command of [Lord Audis](Lord_Audis "wikilink"), is engaged in a conflict
-with the local [monk](:Category:_Monks "wikilink") clan over whether or
-not to set up a trading post. Both sides are stubborn, and the conflict
-may soon turn into a full blown invasion of Gorn's Anchor.*
+Audis](Lord_Audis.md "wikilink") has not yet established any official
+presence there. [Captain Dieme](Captain_Dieme.md "wikilink"), under the
+command of [Lord Audis](Lord_Audis.md "wikilink"), is engaged in a
+conflict with the local [monk](:Category:_Monks.md "wikilink") clan over
+whether or not to set up a trading post. Both sides are stubborn, and
+the conflict may soon turn into a full blown invasion of Gorn's Anchor.*
 
 **Level Range:** 42-46
 
-**Builder:** [Neyne](User:Neyne "wikilink")
+**Builder:** [Neyne](User:Neyne.md "wikilink")
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 39s, 3w, n (note:
-crosses [water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 39s, 3w, n (note:
+crosses [water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [Captain
-Dieme](Captain_Dieme "wikilink"), [Khurses The
+[Portaling](Portal.md "wikilink") point(s) suggested: [Captain
+Dieme](Captain_Dieme.md "wikilink"), [Khurses The
 Barkeep](Khurses_The_Barkeep "wikilink"), [Bram The Wandering
 Trader](Bram_The_Wandering_Trader "wikilink").
 
@@ -34,8 +34,9 @@ easier access to the volcano or Temple of Gorn.
 
 ## Connections
 
--   [Sea of Strayed Hopes](:Category:_Sea_Of_Strayed_Hopes "wikilink")
--   [The Airways](:Category:_Airways "wikilink")
+-   [Sea of Strayed
+    Hopes](:Category:_Sea_Of_Strayed_Hopes.md "wikilink")
+-   [The Airways](:Category:_Airways.md "wikilink")
 
 ## Navigation
 
@@ -53,8 +54,8 @@ through a mountain path that connects to the Temple.
 
 The town square is populated mostly by low level peasants. Bram the
 trader wanders this section, and shops are in the square's four corners.
-The [mayor](Mayor_Of_Gorn's_Anchor "wikilink") lives on an adjoining row
-of houses to the north.
+The [mayor](Mayor_Of_Gorn's_Anchor.md "wikilink") lives on an adjoining
+row of houses to the north.
 
 The dock is populated by dockworkers, soldiers, and mercenaries, which
 are the most accessible experience mobs in the area. [Captain
@@ -63,8 +64,8 @@ carries a desirable saber, can be found in a warehouse here. The Hammer
 is also docked nearby.
 
 As a seasoned adventurer would expect, the Temple of Gorn is both
-[cursed](Cursed_Rooms "wikilink") and
-[anti-magic](Anti-Magic_Rooms "wikilink"), and the monks inside don't
+[cursed](Cursed_Rooms.md "wikilink") and
+[anti-magic](Anti-Magic_Rooms.md "wikilink"), and the monks inside don't
 take kindly to outsiders. [Namure](Namure "wikilink") the Hand of Gorn,
 who is a trainer and takes part in two quests, lives on the upper level.
 

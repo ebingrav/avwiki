@@ -11,8 +11,8 @@
 Slot: held  
 Flags: glow, hum, magic, fire-ward  
 Weight: 10  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Overgrowth](:Category:Overgrowth "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Overgrowth](:Category:Overgrowth.md "wikilink")  
 Mob: [The Lotos plant](The_Lotos_plant "wikilink")  
 
 ## Comments

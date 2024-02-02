@@ -1,15 +1,15 @@
-This [skill](:Category:_Skills_And_Spells "wikilink") allows the
-[archer](:Category:_Archers "wikilink") to create [flaming
-arrows](:Category:_Flaming_Warheads "wikilink"). You will need
-progressively higher [level](Object_Level "wikilink") [fletching
-kits](Fletching_Tools_And_Materials "wikilink") to make the higher
-[level](Object_Level "wikilink") [arrow](:Category:_Arrows "wikilink")
-items.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") allows the
+[archer](:Category:_Archers.md "wikilink") to create [flaming
+arrows](:Category:_Flaming_Warheads.md "wikilink"). You will need
+progressively higher [level](Object_Level.md "wikilink") [fletching
+kits](Fletching_Tools_And_Materials.md "wikilink") to make the higher
+[level](Object_Level.md "wikilink")
+[arrow](:Category:_Arrows.md "wikilink") items.
 
-Prerequisite(s): [Fletch](Fletch "wikilink").
+Prerequisite(s): [Fletch](Fletch.md "wikilink").
 
-Syntax: [fletch](Fletch "wikilink")
-\<[arrows](:Category:_Arrows "wikilink")/[bolts](:Category:_Bolts "wikilink")/[stones](:Category:_Stones "wikilink")\>
+Syntax: [fletch](Fletch.md "wikilink")
+\<[arrows](:Category:_Arrows.md "wikilink")/[bolts](:Category:_Bolts.md "wikilink")/[stones](:Category:_Stones.md "wikilink")\>
 flaming.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

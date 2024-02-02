@@ -1,14 +1,14 @@
 *A small island with a big problem, this cay can hardly support itself
 and maintain a natural balance with the weak ecosystem that is formed on
-this coral reef. [A ranger](Conian_The_Hermit_Ranger "wikilink") from
+this coral reef. [A ranger](Conian_The_Hermit_Ranger.md "wikilink") from
 the eastern forest gave up his life years ago in the woods to attempt
 bringing some checks back into the islands population. Ocean voyagers
 openly boast of having hunted and killed turtles with unusual shells and
 coloration's near Tortuga Cay in order to earn more profits from a sea
 journey. Such trinkets are valued as trade goods to many mainland stores
 and nobles buy them as rare gifts. It is heard from all accounts, [the
-ranger](Conian_The_Hermit_Ranger "wikilink") still lives there and even
-encourages poaching of these animals as a control.*
+ranger](Conian_The_Hermit_Ranger.md "wikilink") still lives there and
+even encourages poaching of these animals as a control.*
 
 **Level Range:** 51-51
 
@@ -16,16 +16,16 @@ encourages poaching of these animals as a control.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 41s, e (note: crosses
-[water terrain](Water_Terrain "wikilink")).
+Walking route from [Aelmon](Aelmon.md "wikilink"): 41s, e (note: crosses
+[water terrain](Water_Terrain.md "wikilink")).
 
-[Portaling](Portal "wikilink") point(s) suggested: [ranger
-Conian](Conian_The_Hermit_Ranger "wikilink") (note:
-[hidden](Hide_Flag "wikilink")).
+[Portaling](Portal.md "wikilink") point(s) suggested: [ranger
+Conian](Conian_The_Hermit_Ranger.md "wikilink") (note:
+[hidden](Hide_Flag.md "wikilink")).
 
 ## Connections
 
--   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes "wikilink")
+-   [Sea Of Strayed Hopes](:Category:Sea_Of_Strayed_Hopes.md "wikilink")
 
 ## Navigation
 
@@ -36,7 +36,7 @@ to the Sea of Strayed Hopes.
 
 A generally safe area with 21 turtle-themed mobs and one druid mob. A
 good PP and reference point for this area is
-[Conian](Conian_The_Hermit_Ranger "wikilink"), who is hidden. The
+[Conian](Conian_The_Hermit_Ranger.md "wikilink"), who is hidden. The
 average tortuga provides experience between 90 and 150; the ones in
 sanctuary at the lower level provide 170-300 (there are only two). While
 this is primarily an area for a low level caster, some monks/shfs/bzks

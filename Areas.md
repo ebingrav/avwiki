@@ -1,4 +1,4 @@
-See also [Areas](:Category:_Areas "wikilink").
+See also [Areas](:Category:_Areas.md "wikilink").
 
 Syntax: areas <lowest level> <highest level>
 

@@ -4,13 +4,13 @@
 `Modifies dexterity by 1 continuous`
 
 **Keyword(s):** light, crystal, lantern.  
-**[Level(s)](Object_Level "wikilink"):** 1.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Light](:Category:Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** light.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** Glow, Magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 1.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Light](:Category:Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** light.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** Glow, Magic.  
 
 ## Comments
 
@@ -22,15 +22,15 @@ duration.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Underground](:Category:_Underground "wikilink")
-([Map](Underground_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Secret Room inside a golden
-chest.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Underground](:Category:_Underground.md "wikilink")
+([Map](Underground_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Secret Room inside a
+golden chest.  
 Walking route from [King Lion](King_Lion "wikilink"): s, \[d\], e, s, e,
 \[e\], s, \[u\].  
-[Portaling](Portal "wikilink") point suggested: [King
-Lion](King_Lion "wikilink").  
+[Portaling](Portal.md "wikilink") point suggested: [King
+Lion](King_Lion.md "wikilink").  
 
 [Category: Gear In
 Underground](Category:_Gear_In_Underground "wikilink") [Category:

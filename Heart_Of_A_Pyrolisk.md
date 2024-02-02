@@ -7,7 +7,7 @@ ground.*
 **Weight**: 4  
 **Object Quality** (15 / 15 hps)
 
-100 doses of [Necrotia](:Category:_Necrotia "wikilink")
+100 doses of [Necrotia](:Category:_Necrotia.md "wikilink")
 
 The Shunned World shopkeeper haggler gives this item in exchange for the
 earthen mace of might.

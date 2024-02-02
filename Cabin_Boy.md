@@ -3,17 +3,17 @@ relatively young but could probably hold his own in a fight, for the
 years on the pirate ship have taught him how to survive.*
 
 **Keywords:** cabin, boy.  
-**[Level](Level "wikilink"):** 28.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[thief](Thieving_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 28.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[thief](Thieving_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
 
 `Cabin boy is using:`  
-<worn on body>`      `[`a`` ``striped`` ``shirt`](Striped_Shirt "wikilink")  
-<wielded>`           `[`a`` ``cutlass`](Cutlass "wikilink")
+<worn on body>`      `[`a`` ``striped`` ``shirt`](Striped_Shirt.md "wikilink")  
+<wielded>`           `[`a`` ``cutlass`](Cutlass.md "wikilink")
 
 `Cabin boy is carrying:`  
 `     Nothing.`
@@ -22,14 +22,14 @@ years on the pirate ship have taught him how to survive.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [S.S.
-Scurvy](:Category:_S.S._Scurvy "wikilink")
-([Map](S.S._Scurvy_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In the cabin of the ship
+**[Area](:Category:_Areas.md "wikilink"):** [S.S.
+Scurvy](:Category:_S.S._Scurvy.md "wikilink")
+([Map](S.S._Scurvy_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In the cabin of the ship
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2e, 2u, s, 2e,
-\[e\]. (note: crosses [water terrain](Water_Terrain "wikilink"))  
-Cabin boy [wanders](Wandering_Mobs "wikilink"), but only within the
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2e, 2u, s, 2e,
+\[e\]. (note: crosses [water terrain](Water_Terrain.md "wikilink"))  
+Cabin boy [wanders](Wandering_Mobs.md "wikilink"), but only within the
 cabin of the ship.
 
 Cabin boy is portable.  

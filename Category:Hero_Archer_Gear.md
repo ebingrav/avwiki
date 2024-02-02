@@ -23,7 +23,7 @@ items. If you focus on standard hero-area items then that number is 78
 plus whatever you decide on the hands (archery modifiers vs. hit
 roll)<sup>1</sup>. [Fusiliers](:Category:_Fusiliers "wikilink") should
 consider some [throwing
-weapons](:Category:_Throwing_Weapons "wikilink"), for use with [Quick
+weapons](:Category:_Throwing_Weapons.md "wikilink"), for use with [Quick
 Draw](Quick_Draw "wikilink").
 
 <sup>(1)</sup> Gear for the hands slot or Archery modifiers vs hit roll,

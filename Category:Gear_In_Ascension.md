@@ -1,11 +1,11 @@
 Recommended group size: around 20 (run is known as Tialoc)
 
-Shift to [Tarterus](:Category:Tarterus "wikilink") and go w 2u 2n. This
-will put you in a courtyard with towers to the east, west, and north.
-The gear that you're seeking is in the tower to the north, but you'll
-need to collect the [Tooled Bone](Tooled_Bone "wikilink") and [Black
-Marble Key](Black_Marble_Key "wikilink") first (if you don't have them
-already).
+Shift to [Tarterus](:Category:Tarterus.md "wikilink") and go w 2u 2n.
+This will put you in a courtyard with towers to the east, west, and
+north. The gear that you're seeking is in the tower to the north, but
+you'll need to collect the [Tooled Bone](Tooled_Bone "wikilink") and
+[Black Marble Key](Black_Marble_Key "wikilink") first (if you don't have
+them already).
 
 The [Tooled Bone](Tooled_Bone "wikilink") is on [Rastar The
 Injestor](Rastar_The_Injestor "wikilink"), who waits atop the tower to
@@ -35,6 +35,6 @@ The Archfiend](Tialoc_The_Archfiend "wikilink"), who has the [Ring Of
 Higher Power](Ring_Of_Higher_Power "wikilink") and the [Lord's Head
 Chalice](Lord's_Head_Chalice "wikilink"). If you clear the gear room
 successfully and want to camp it, the room west of
-[Tialoc](Tialoc_The_Archfiend "wikilink") is your safest option.
+[Tialoc](Tialoc_The_Archfiend.md "wikilink") is your safest option.
 
 [Category:Ascension](Category:Ascension "wikilink")

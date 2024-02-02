@@ -6,13 +6,13 @@ skool.*
 `Modifies dexterity by 1 continuous`
 
 **Keywords:** badge, completion  
-**[Level](Object_Level "wikilink"):** 7  
-**[Type](:Category:Object_Types "wikilink"):**
-[Armor](:Category:Armor "wikilink")  
-**[Slot](Object_Slots "wikilink"):** on body  
+**[Level](Object_Level.md "wikilink"):** 7  
+**[Type](:Category:Object_Types.md "wikilink"):**
+[Armor](:Category:Armor.md "wikilink")  
+**[Slot](Object_Slots.md "wikilink"):** on body  
 **Quality:** 100 hps  
 **Weight:** 1  
-**[Flags](:Category:Object_Flags "wikilink"):** charity
+**[Flags](:Category:Object_Flags.md "wikilink"):** charity
 
 ## Comments
 
@@ -21,11 +21,11 @@ Champion](Grunka's_Kombat_Champion "wikilink") quest.
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Grunka's Kombat
-Skool](:Category:Grunka's_Kombat_Skool "wikilink")
-([Map](Grunka's_Kombat_Skool_Map "wikilink"))  
-**[Mob](:Category:Mobs "wikilink"):** [The Great
-Grunka](Great_Grunka "wikilink") (portable)
+**[Area](:Category:Areas.md "wikilink"):** [Grunka's Kombat
+Skool](:Category:Grunka's_Kombat_Skool.md "wikilink")
+([Map](Grunka's_Kombat_Skool_Map.md "wikilink"))  
+**[Mob](:Category:Mobs.md "wikilink"):** [The Great
+Grunka](Great_Grunka.md "wikilink") (portable)
 
 Walking route from [Sol](Sol "wikilink"): 3e, 13s, w, 5n.
 

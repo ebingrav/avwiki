@@ -1,22 +1,22 @@
-`Level 51 spells of: '`[`detect`` ``evil`](Detect_Evil "wikilink")`' '`[`detect`` ``invis`](Detect_Invis "wikilink")`'.`
+`Level 51 spells of: '`[`detect`` ``evil`](Detect_Evil.md "wikilink")`' '`[`detect`` ``invis`](Detect_Invis.md "wikilink")`'.`
 
 **Keyword(s):** scroll, sentence, termination  
-**[Level(s)](Object_Level "wikilink"):** 50  
-**[Type](:Category:_Object_Types "wikilink"):**
-[scroll](:Category:_Scrolls "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Level(s)](Object_Level.md "wikilink"):** 50  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[scroll](:Category:_Scrolls.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Padmasa](:Category:_Padmasa "wikilink")
-([Map](Padmasa_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Administrator
+**[Area](:Category:_Areas.md "wikilink"):**
+[Padmasa](:Category:_Padmasa.md "wikilink")
+([Map](Padmasa_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Administrator
 Gru-Dzek](Administrator_Gru-Dzek "wikilink").  
 See [Administrator Gru-Dzek](Administrator_Gru-Dzek "wikilink") for more
 information.  

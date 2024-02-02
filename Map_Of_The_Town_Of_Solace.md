@@ -1,7 +1,7 @@
 `__________________________________________________________`  
 `|  N                                                     |`  
-`|W + E            `[`The`` ``Town`` ``of`` ``Solace`](:Category:_Town_Of_Solace "wikilink")`                     |`  
-`|  S                                      * = To `[`The`` ``Air`](:Category:_Air_Of_Avatar "wikilink")` |`  
+`|W + E            `[`The`` ``Town`` ``of`` ``Solace`](:Category:_Town_Of_Solace.md "wikilink")`                     |`  
+`|  S                                      * = To `[`The`` ``Air`](:Category:_Air_Of_Avatar.md "wikilink")` |`  
 `|                      North Gate                        |`  
 `|                           |                            |`  
 `|                          | |                           |`  
@@ -12,32 +12,33 @@
 `|   --> |  ________________ * ________________  |        |`  
 `|       | |West Gullen way | |East Gullen Way | |        |`  
 `|       | |                | |                | |        |`  
-`| Guard | |\ `[`Orphanage`](:Category:_Orphanage "wikilink")`     | |                | | Guard  |`  
+`| Guard | |\ `[`Orphanage`](:Category:_Orphanage.md "wikilink")`     | |                | | Guard  |`  
 `| Tower | |________________| |________________| | Tower  |`  
 `|   --> |___________________/___________________| <--    |`  
 `|                      South Gate                        |`  
 `|________________________________________________________|`
 
 **Keyword(s):** map, town, solace.  
-**[Level(s)](Object_Level "wikilink"):** 0.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[scroll](:Category:_Scrolls "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 0.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[scroll](:Category:_Scrolls.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-See also [Maps](:Category:_Maps "wikilink").
+See also [Maps](:Category:_Maps.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Stonehall](:Category:_Stonehall "wikilink")
-([Map](Stonehall_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Tilly](Tilly "wikilink").  
-[Tilly](Tilly "wikilink") sells these. See [her page](Tilly "wikilink")
-for more information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Stonehall](:Category:_Stonehall.md "wikilink")
+([Map](Stonehall_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
+[Tilly](Tilly.md "wikilink").  
+[Tilly](Tilly.md "wikilink") sells these. See [her
+page](Tilly.md "wikilink") for more information.  
 
 [Category: Grandfathered Gear](Category:_Grandfathered_Gear "wikilink")

@@ -11,7 +11,7 @@ Slot: About Body
 ------------------------------------------------------------------------
 
 See [Gear In Soulgorger's
-Lair](:Category:Gear_In_Soulgorger's_Lair "wikilink") for more
+Lair](:Category:Gear_In_Soulgorger's_Lair.md "wikilink") for more
 information.
 
 [Category:Grandfathered Gear](Category:Grandfathered_Gear "wikilink")

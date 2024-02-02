@@ -3,12 +3,12 @@
 `Level 1 spells of:.`
 
 **Keyword(s):** journal.  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Scroll](:Category:_Object_Types "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 4 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Scroll](:Category:_Object_Types.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 4 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 

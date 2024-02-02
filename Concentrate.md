@@ -1,10 +1,10 @@
-*This [ability](:Category:_Skills "wikilink") focuses your energies on
-defense, tapping your [mana](Mana_Points "wikilink") to allow you to
-more adroitly avoid the blows of your enemies.*
+*This [ability](:Category:_Skills.md "wikilink") focuses your energies
+on defense, tapping your [mana](Mana_Points.md "wikilink") to allow you
+to more adroitly avoid the blows of your enemies.*
 
-Prerequisite(s): [Meditation](Meditation "wikilink").
+Prerequisite(s): [Meditation](Meditation.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'concentrate'.
+Syntax: [cast](Cast.md "wikilink") 'concentrate'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

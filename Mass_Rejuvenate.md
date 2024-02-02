@@ -1,11 +1,11 @@
-*This will [rejuvenate](Rejuvenate "wikilink") [movement
-points](Move_Points "wikilink") to all in the
-[room](:Category:_Rooms "wikilink").*
+*This will [rejuvenate](Rejuvenate.md "wikilink") [movement
+points](Move_Points.md "wikilink") to all in the
+[room](:Category:_Rooms.md "wikilink").*
 
-Syntax: [cast](Cast "wikilink") 'mass rejuvenate'.
+Syntax: [cast](Cast.md "wikilink") 'mass rejuvenate'.
 
-Prerequisite(s): [Mass Invigorate](Mass_Invigorate "wikilink"),
-[Rejuvenate](Rejuvenate "wikilink").
+Prerequisite(s): [Mass Invigorate](Mass_Invigorate.md "wikilink"),
+[Rejuvenate](Rejuvenate.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Druid Hero

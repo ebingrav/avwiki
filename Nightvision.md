@@ -1,15 +1,15 @@
 *After spending long hours searching the night for
-[monsters](:Category:_Mobs "wikilink"), many find that the shapes and
+[monsters](:Category:_Mobs.md "wikilink"), many find that the shapes and
 shadows of the darkness hold discernible meaning. The stars and moon
 seem friendly, benevolent sources of light rather than frightening signs
-of a looming void. This [skill](:Category:_Skills "wikilink") perfects
-that acquired instinct by allowing the learner to see nearby
-[monsters](:Category:_Mobs "wikilink") and to see details of
-[rooms](:Category:_Rooms "wikilink") in the dark. Since the
-[skill](:Category:_Skills "wikilink") relies on ambient light, it will
-only function outdoors and at times when there are few clouds. This
-[skill](:Category:_Skills "wikilink") is automatic once
-[practiced](Practice "wikilink").*
+of a looming void. This [skill](:Category:_Skills.md "wikilink")
+perfects that acquired instinct by allowing the learner to see nearby
+[monsters](:Category:_Mobs.md "wikilink") and to see details of
+[rooms](:Category:_Rooms.md "wikilink") in the dark. Since the
+[skill](:Category:_Skills.md "wikilink") relies on ambient light, it
+will only function outdoors and at times when there are few clouds. This
+[skill](:Category:_Skills.md "wikilink") is automatic once
+[practiced](Practice.md "wikilink").*
 
 Prerequisite(s): none.
 

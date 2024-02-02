@@ -1,26 +1,26 @@
 *You see a travellers vest here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 3.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -3 continuous.`  
-`Modifies `[`strength`](Strength "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 3.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -3 continuous.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** travellers vest  
-**[Level(s)](Object_Level "wikilink"):** 11-13  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Level(s)](Object_Level.md "wikilink"):** 11-13  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Town Of
-Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Thief
+**[Area](:Category:_Areas.md "wikilink"):** [Town Of
+Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Thief
 (Solace)](Thief_(Solace) "wikilink")  
 See [Thief (Solace)](Thief_(Solace) "wikilink") for more information.
 

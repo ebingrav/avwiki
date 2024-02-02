@@ -11,9 +11,9 @@
 Slot: wield  
 Flags: hum, evil, anti-good, anti-neutral  
 Weight: 20  
-Plane: [Astral](:Category:_Astral "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
 Area: [Tssasskkas's Lair
-Redux](:Category:Tssasskkas's_Lair_Redux "wikilink")  
+Redux](:Category:Tssasskkas's_Lair_Redux.md "wikilink")  
 Mob: [The eyeless terror](The_eyeless_terror "wikilink")  
 
 ------------------------------------------------------------------------

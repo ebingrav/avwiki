@@ -7,14 +7,14 @@
 `Modifies constitution by 2 continuous`
 
 **Keyword(s):** red hot iron staff.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[staff](:Category:_Staves "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held in hands>.  
-**[Quality](Object_Quality "wikilink"):** 60 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow evil anti-good
-fire-ward.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[staff](:Category:_Staves.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in hands>.  
+**[Quality](Object_Quality.md "wikilink"):** 60 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow evil
+anti-good fire-ward.  
 
 ## Comments
 
@@ -25,7 +25,7 @@ This might be a good choice for someone using amplify in areas that are
 otherwise nospell.
 
 See also [Suggested Attack
-Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties "wikilink").
+Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties.md "wikilink").
 
 ## Directions
 

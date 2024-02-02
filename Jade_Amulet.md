@@ -8,14 +8,14 @@ Type: Trash
 Level: 125  
 Flags: none  
 Weight: 1  
-Plane: [Thorngate](:Category:Thorngate "wikilink")  
-Area: [The House of Bandu](:Category:House_Of_Bandu "wikilink")  
+Plane: [Thorngate](:Category:Thorngate.md "wikilink")  
+Area: [The House of Bandu](:Category:House_Of_Bandu.md "wikilink")  
 Mob: [Bask](Bask "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In The House of
-Bandu](:Category:Gear_In_House_Of_Bandu "wikilink") for more
+Bandu](:Category:Gear_In_House_Of_Bandu.md "wikilink") for more
 information.
 
 [Category:Gear_In_House_Of_Bandu](Category:Gear_In_House_Of_Bandu "wikilink")

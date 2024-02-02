@@ -6,9 +6,9 @@ penalties upon death.*
 
 *This spell is EXHAUSTED for a long time when cast.*
 
-Prerequisite(s): [Corruption](Corruption "wikilink").
+Prerequisite(s): [Corruption](Corruption.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'tainted genius' \[Self Only Spell\]
+Syntax: [cast](Cast.md "wikilink") 'tainted genius' \[Self Only Spell\]
 
 This spell doubles your experience gained for a short amount of time.
 After that wears off you are subject to a variety of nasty status

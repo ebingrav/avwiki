@@ -1,32 +1,33 @@
 *The crypt is the resting place of this realm's deceased
-[Dragons](Dragons "wikilink"), and is guarded by ferocious wyrm
-servants. Seeking [treasure](:Category:_Treasure "wikilink"), a well
+[Dragons](Dragons.md "wikilink"), and is guarded by ferocious wyrm
+servants. Seeking [treasure](:Category:_Treasure.md "wikilink"), a well
 known party of Midgaardian adventurers set out in search of the crypt
-recently, led by [Svlad the Very Burly](Svlad_The_Very_Burly "wikilink")
-and [Millament](Millament_The_Mad_Necromancer "wikilink"), High Sister
-of the Order of UL. It has been a long time since that party disappeared
-east of what once was [Ofcol](:Category:_Ofcol "wikilink").*
+recently, led by [Svlad the Very
+Burly](Svlad_The_Very_Burly.md "wikilink") and
+[Millament](Millament_The_Mad_Necromancer.md "wikilink"), High Sister of
+the Order of UL. It has been a long time since that party disappeared
+east of what once was [Ofcol](:Category:_Ofcol.md "wikilink").*
 
 **Level Range:** 51-51
 
 **Builder:** GTMP
 
 This area has been replaced by [Cloud
-Dracoleum](:Category:Cloud_Dracoleum "wikilink")
+Dracoleum](:Category:Cloud_Dracoleum.md "wikilink")
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 3n, 6e, 2n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 3n, 6e, 2n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Svlad](Svlad_The_Very_Burly "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Svlad](Svlad_The_Very_Burly.md "wikilink").
 
 ## Connections
 
--   [Highways/Great Wall](:Category:Highways/Great_Wall "wikilink")
-    ([map](Highways/Great_Wall_Map "wikilink"))
--   [Tssasskkas's Lair](:Category:Tssasskkas's_Lair "wikilink")
-    ([map](Tssasskkas's_Lair_Map "wikilink"))
+-   [Highways/Great Wall](:Category:Highways/Great_Wall.md "wikilink")
+    ([map](Highways/Great_Wall_Map.md "wikilink"))
+-   [Tssasskkas's Lair](:Category:Tssasskkas's_Lair.md "wikilink")
+    ([map](Tssasskkas's_Lair_Map.md "wikilink"))
 
 ## Navigation
 
@@ -48,9 +49,9 @@ Necromancer](Millament_The_Mad_Necromancer "wikilink") - the invisible
 necromancer in the room. Both have relevant gear (see the treasure
 hunting page below).
 
-While doing this, it is wise to have [autoloot](Autoloot "wikilink") on
-as well as [autosac](Autosac "wikilink") - otherwise Millament will
-animate Tryystania and you will be in for yet another fight.
+While doing this, it is wise to have [autoloot](Autoloot.md "wikilink")
+on as well as [autosac](Autosac.md "wikilink") - otherwise Millament
+will animate Tryystania and you will be in for yet another fight.
 
 Aside for these monetary and gear reasons, the area is rarely run.
 

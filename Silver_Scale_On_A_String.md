@@ -1,30 +1,30 @@
-*A silvery [Dragon](Dragons "wikilink") scale on a string is here.*
+*A silvery [Dragon](Dragons.md "wikilink") scale on a string is here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-7.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 25 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-7.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 25 continuous.`
 
 **Keyword(s):** scale, dragon, string, silver.  
-**[Level(s)](Object_Level "wikilink"):** 26-28.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 26-28.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Crescent
-Bog](:Category:_Crescent_Bog "wikilink")
-([Map](Crescent_Bog_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a Lizard Man
-squire](Lizard_Man_Squire "wikilink"), [a Silver
-squire](Silver_Squire "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [The Crescent
+Bog](:Category:_Crescent_Bog.md "wikilink")
+([Map](Crescent_Bog_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a Lizard Man
+squire](Lizard_Man_Squire.md "wikilink"), [a Silver
+squire](Silver_Squire.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Crescent
 Bog](Category:_Gear_In_Crescent_Bog "wikilink") [Category:

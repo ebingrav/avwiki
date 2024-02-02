@@ -1,30 +1,30 @@
-*This symbol of a [gnomish](Gnomes "wikilink") deity is made of
+*This symbol of a [gnomish](Gnomes.md "wikilink") deity is made of
 limestone.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 6-8.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 35 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 6-8.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 35 continuous.`
 
 **Keyword(s):** gnomish, holy, symbol.  
-**[Level(s)](Object_Level "wikilink"):** 31-33.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 31-33.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Orkenhome](:Category:_Orkenhome "wikilink")
-([Map](Orkenhome_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [An ancient Orken
-priest](Ancient_Orken_Priest "wikilink").  
-See [An ancient Orken priest](Ancient_Orken_Priest "wikilink") for more
-information.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Orkenhome](:Category:_Orkenhome.md "wikilink")
+([Map](Orkenhome_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [An ancient Orken
+priest](Ancient_Orken_Priest.md "wikilink").  
+See [An ancient Orken priest](Ancient_Orken_Priest.md "wikilink") for
+more information.  
 
 [Category: Gear In Orkenhome](Category:_Gear_In_Orkenhome "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category: Lowmort 31-40

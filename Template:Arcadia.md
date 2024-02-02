@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Citadel_Arcadia" title="wikilink">Citadel
+<td><p><a href=":Category:Citadel_Arcadia.md" title="wikilink">Citadel
 Arcadia</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Citadel_Arcadia"
+<td><p>(<a href=":Category:Gear_In_Citadel_Arcadia.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

@@ -1,14 +1,14 @@
 *In the far north, where the temperature rarely gets above freezing, a
 glacier has existed for aeons, since very nearly the dawn of time.
 Rarely visited by "civilization", the creatures who live there are
-almost mythical to most of [Midgaard](:Category:_Midgaard "wikilink"),
-creatures like the breen, a giant bear capable of tearing through the
-mightiest armor in one swipe, or "dwellers", a crab-like creature who
-blends into the snow and attacks whatever passes by. The frozen wastes
-have been inaccessible for centuries, yet a legend still remains of a
-battle that supposedly ended there, between [a
-Demon](Frozen_Demon_Tourach "wikilink") and [a
-Saint](Spirit_Of_Saint_Manuel "wikilink").*
+almost mythical to most of
+[Midgaard](:Category:_Midgaard.md "wikilink"), creatures like the breen,
+a giant bear capable of tearing through the mightiest armor in one
+swipe, or "dwellers", a crab-like creature who blends into the snow and
+attacks whatever passes by. The frozen wastes have been inaccessible for
+centuries, yet a legend still remains of a battle that supposedly ended
+there, between [a Demon](Frozen_Demon_Tourach.md "wikilink") and [a
+Saint](Spirit_Of_Saint_Manuel.md "wikilink").*
 
 **Level Range:** 51-51
 
@@ -16,16 +16,16 @@ Saint](Spirit_Of_Saint_Manuel "wikilink").*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3w, 5n, d, 3n, w,
-n, w, 3n, u, 2n, e, 3n, w, n, w, 11n, 6e, 4n, e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3w, 5n, d, 3n,
+w, n, w, 3n, u, 2n, e, 3n, w, n, w, 11n, 6e, 4n, e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Snowbird](Snowbird "wikilink") or [Breen](Breen "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Snowbird](Snowbird.md "wikilink") or [Breen](Breen "wikilink").
 
 ## Connections
 
 The top level of the area is connected to
-[Stormkeep](:Category:Stormkeep "wikilink") on the top level, to the
+[Stormkeep](:Category:Stormkeep.md "wikilink") on the top level, to the
 west. I can recommend a short stop there if you're waiting for repop.
 
 ## Navigation

@@ -1,19 +1,19 @@
 *A book rests on a pillar. Its cover is silver and featureless.*
 
 **Keyword(s):** book exorcism bible  
-**[Level(s)](Object_Level "wikilink"):** 19  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** None.  
+**[Level(s)](Object_Level.md "wikilink"):** 19  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** None.  
 
 ## Comments
 
 Give it to the Chief librarian in [Royal Midgaard
-Library](:Category:_Royal_Midgaard_Library "wikilink"). To pass the
-research Pre-requisite for [wizard](:Category:_Wizards "wikilink").
+Library](:Category:_Royal_Midgaard_Library.md "wikilink"). To pass the
+research Pre-requisite for [wizard](:Category:_Wizards.md "wikilink").
 
 From Aelmon to Book: 5w, n, 2w, n From Book to Chief Librarian: s, 2e,
 s, e, 3n
@@ -33,9 +33,9 @@ quest to do with the old Gf'd library quest. (Edit if I am wrong)
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple Of
-Midgaard](:Category:_Temple_Of_Midgaard "wikilink")
-([Map](Temple_Of_Midgaard_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Temple Of
+Midgaard](:Category:_Temple_Of_Midgaard.md "wikilink")
+([Map](Temple_Of_Midgaard_Map.md "wikilink")).  
 Walking route from Aelmon: 5w, n, 2w, n.
 
 Pops on the floor so can take a while to repop.

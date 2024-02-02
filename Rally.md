@@ -1,10 +1,10 @@
-*Having a [Berserker](:Category:_Berserkers "wikilink") on the front
+*Having a [Berserker](:Category:_Berserkers.md "wikilink") on the front
 lines can effectively rally the rest of the troops. When leading, a
-[Berserker](:Category:_Berserkers "wikilink") can use this
-[skill](:Category:_Skills "wikilink") to grant his group-mates, and
-himself, a boost to [hitroll](Hit_Roll "wikilink").*
+[Berserker](:Category:_Berserkers.md "wikilink") can use this
+[skill](:Category:_Skills.md "wikilink") to grant his group-mates, and
+himself, a boost to [hitroll](Hit_Roll.md "wikilink").*
 
-Prerequisite(s): [Lead Party](Lead_Party "wikilink").
+Prerequisite(s): [Lead Party](Lead_Party.md "wikilink").
 
 Syntax: rally.
 

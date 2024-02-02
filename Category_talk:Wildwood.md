@@ -16,5 +16,5 @@ So I'm assuming this is some IMM thing, but still fun.
 
 I know what you're talking about, but I've never heard of anyone getting
 through there. Would probably be a fun place to use that psi spell that
-lets you look through doors. [Waite](User:Waite "wikilink") 09:57, 4
+lets you look through doors. [Waite](User:Waite.md "wikilink") 09:57, 4
 April 2007 (CDT)

@@ -1,11 +1,11 @@
 *Embalm preserves a decaying corpse, preventing it from decaying as
 quickly. If the corpse belongs to a
-[player](:Category:_Characters "wikilink"), a kind passerby can use this
-to give the player more time to [retrieve
-equipment](Corpse_Retrieval "wikilink"). However, this is a
-[skill](:Category:_Skills "wikilink"), not a
-[spell](:Category:_Spells "wikilink") - you'll need
-[bandages](Some_Bandages "wikilink") to be successful.*
+[player](:Category:_Characters.md "wikilink"), a kind passerby can use
+this to give the player more time to [retrieve
+equipment](Corpse_Retrieval.md "wikilink"). However, this is a
+[skill](:Category:_Skills.md "wikilink"), not a
+[spell](:Category:_Spells.md "wikilink") - you'll need
+[bandages](Some_Bandages.md "wikilink") to be successful.*
 
 Prerequisite(s): none.
 

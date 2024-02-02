@@ -10,20 +10,20 @@ Levels: 43-46
 Weight: 3  
 Flags: Evil, Invis, Magic  
 Area: [Zin's Hall of
-Oddities](:Category:_Zin's_Hall_Of_Oddities "wikilink")
-([Map](Zin's_Hall_Of_Oddities_Map "wikilink"))  
+Oddities](:Category:_Zin's_Hall_Of_Oddities.md "wikilink")
+([Map](Zin's_Hall_Of_Oddities_Map.md "wikilink"))  
 Mob: [Faralia](Faralia "wikilink")
 
 Find [DeSant](DeSant "wikilink") in [Zin's Hall of
-Oddities](:Category:_Zin's_Hall_Of_Oddities "wikilink") and kill him for
-key.
+Oddities](:Category:_Zin's_Hall_Of_Oddities.md "wikilink") and kill him
+for key.
 
 Then, continue going east killing [Guy Of
 Gisbourne](Guy_Of_Gisbourne "wikilink"), ['Armless
 'Arry]('Armless_'Arry "wikilink") and [Ironhomme](Ironhomme "wikilink")
 (in that order). They all carry keys you need to progress. At the end
-kill [Faralia](Faralia "wikilink") who is [hidden](hide "wikilink") and
-[invis](invis "wikilink"). *Beware!* [Faralia](Faralia "wikilink")
+kill [Faralia](Faralia "wikilink") who is [hidden](hide.md "wikilink")
+and [invis](invis "wikilink"). *Beware!* [Faralia](Faralia "wikilink")
 stabs.
 
 Note: an easy way to make this item visible is to enchant it until it

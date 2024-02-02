@@ -13,14 +13,14 @@ in destiny and the unknown.*
 ` Modifies moves by 256 continuous`
 
 **Keyword(s):** ghostly, book, truth.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, magic, bless,
-good.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, magic,
+bless, good.  
 
 ## Comments
 
@@ -28,15 +28,15 @@ Note the book's numerical symmetry, with 8 modifications, each doubling
 from the next starting with 2 and ending with 256.
 
 This is part of the [Order's Last Mission
-quest](Order's_Last_Mission_Quest "wikilink").
+quest](Order's_Last_Mission_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Shadow
-Keep](:Category:Shadow_Keep "wikilink")
-([Map](Shadow_Keep_Map "wikilink"))  
-**[Mob](:Category:Mobs "wikilink"):** [The librarian's
-ghost](Librarian's_Ghost "wikilink")
+**[Area](:Category:Areas.md "wikilink"):** [Shadow
+Keep](:Category:Shadow_Keep.md "wikilink")
+([Map](Shadow_Keep_Map.md "wikilink"))  
+**[Mob](:Category:Mobs.md "wikilink"):** [The librarian's
+ghost](Librarian's_Ghost.md "wikilink")
 
 [Category: Armor](Category:_Armor "wikilink") [Category: Hero Tank
 Gear](Category:_Hero_Tank_Gear "wikilink") [Category:

@@ -8,10 +8,10 @@ damage. Those with high armor may take none at all. This is a spell
 which is primarily for the benefit of mobs. Since mobs have very high
 hp, the damage it does to them is relatively little even if they're
 naked. But it can seriously hurt less-armoured casters like
-[psis](:Category:_Psionicists "wikilink").
+[psis](:Category:_Psionicists.md "wikilink").
 
 Shard Storm is a lost art. None teach it, but rumors circulate that
-[spellbooks](:Category:Spellbooks "wikilink") of Shard Storm still
+[spellbooks](:Category:Spellbooks.md "wikilink") of Shard Storm still
 exist.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

@@ -1,5 +1,5 @@
-+1 [questpoint](Questpoints "wikilink") assigned and the
-[insignia](Insignia "wikilink"):
++1 [questpoint](Questpoints.md "wikilink") assigned and the
+[insignia](Insignia.md "wikilink"):
 
 ` Master of The Tesseract`  
 `   Modifies hp regeneration by + 3% continuous`  

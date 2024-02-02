@@ -11,14 +11,14 @@ more...*
 ` Modifies armor class by -6 continuous`
 
 **Keyword(s):** silver, beacon.  
-**[Level(s)](Object_Level "wikilink"):** 10.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Light](:Category:Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** light.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 6 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 10.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Light](:Category:Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** light.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
@@ -28,10 +28,10 @@ light, it lasts for a **really** long time.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Goblin
-Caverns](:Category:_Goblin_Caverns "wikilink")
-([Map](Goblin_Caverns_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Treasure Room Of The
+**[Area](:Category:_Areas.md "wikilink"):** [ Goblin
+Caverns](:Category:_Goblin_Caverns.md "wikilink")
+([Map](Goblin_Caverns_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Treasure Room Of The
 Great Goblin.  
 
 [Category: Gear In Goblin

@@ -1,34 +1,34 @@
 *With dark skin and a glossy, black coat, this is a much darker
-[centaur](Centaurs "wikilink") than most.*
+[centaur](Centaurs.md "wikilink") than most.*
 
 **Keywords:** centaur, hunter.  
-**[Level](Level "wikilink"):** 34.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"),
-[sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 34.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"),
+[sneak](Sneak.md "wikilink").  
 
 ## Gear
 
 `A centaur hunter is using:`  
-<wielded>`           `[`a`` ``centaur`` ``crossbow`](Centaur_Crossbow "wikilink")  
-<held>`              `[`5`` ``standard`` ``bolts`](Standard_Bolts "wikilink")
+<wielded>`           `[`a`` ``centaur`` ``crossbow`](Centaur_Crossbow.md "wikilink")  
+<held>`              `[`5`` ``standard`` ``bolts`](Standard_Bolts.md "wikilink")
 
 `A centaur hunter is carrying:`  
-`     `[`fletching`` ``tools`` ``and`` ``materials`](Fletching_Tools_And_Materials "wikilink")
+`     `[`fletching`` ``tools`` ``and`` ``materials`](Fletching_Tools_And_Materials.md "wikilink")
 
 ## Comments
 
 These centaur hunters have a single
-[leader](Centaur_Hunter_(leader) "wikilink") among them.
+[leader](Centaur_Hunter_(leader).md "wikilink") among them.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Wildwood](:Category:_Wildwood "wikilink")
-([Map](Wildwood_Map "wikilink")).  
-A centaur hunter [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Wildwood](:Category:_Wildwood.md "wikilink")
+([Map](Wildwood_Map.md "wikilink")).  
+A centaur hunter [wanders](Wandering_Mobs.md "wikilink").
 
 A centaur hunter is portable.
 

@@ -10,24 +10,24 @@ begun to show results.*
 to show an interest.*
 
 **Keywords:** septarch kyxial  
-**[Level](Level "wikilink"):** 28  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink")  
+**[Level](Level.md "wikilink"):** 28  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink")  
 
 ## Gear
 
 `Septarch Kyxial is using:`  
-<wielded>`          `[`(Sharp)`` ``adamantite`` ``fingerspikes`](Adamantite_Fingerspikes "wikilink")
+<wielded>`          `[`(Sharp)`` ``adamantite`` ``fingerspikes`](Adamantite_Fingerspikes.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Tiureess](:Category:_Tiureess "wikilink")
-([Map](Tiureess_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A scroll strewn room  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Tiureess](:Category:_Tiureess.md "wikilink")
+([Map](Tiureess_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A scroll strewn room  
 
 [Category: Mobs In Tiureess](Category:_Mobs_In_Tiureess "wikilink")

@@ -6,10 +6,10 @@ along the way. Of course, kobold generations are much more frequent than
 those of other races...*
 
 **Keywords:** kobold  
-**[Level](Level "wikilink"):** 73.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Scavenger](:Category:Scavenging_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 73.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Scavenger](:Category:Scavenging_Mobs.md "wikilink").  
 **Affects:** ??.  
 
 ## Comments
@@ -18,7 +18,8 @@ Wanders.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Deepways
-](:Category:_Deepways "wikilink") ([Map](Deepways_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Deepways
+](:Category:_Deepways.md "wikilink")
+([Map](Deepways_Map.md "wikilink")).  
 
 [Category: Mobs In Deepways](Category:_Mobs_In_Deepways "wikilink")

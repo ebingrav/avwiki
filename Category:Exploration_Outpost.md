@@ -17,7 +17,7 @@
 
 This area was added in August 2011.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Ginormous
+[Portaling](Portal.md "wikilink") point(s) suggested: [Ginormous
 Dingersen](Ginormous_Dingersen "wikilink").
 
 ## Directions
@@ -28,7 +28,7 @@ Recall](Eragora_Default_Recall "wikilink"): 2s d 2s e 3s w s w s w 2s w
 
 ## Connections
 
--   [ Eragora Walkways](:Category:_Eragora_Walkways "wikilink")
+-   [ Eragora Walkways](:Category:_Eragora_Walkways.md "wikilink")
 
 ## Navigation
 
@@ -48,16 +48,16 @@ The area is made of the following major parts:
 ## Adventuring
 
 If you have a proper group, use a 101+ hero to start Ginormous' [main
-quest](Deep-Sea_Diver_Quest "wikilink"), which will net you a
+quest](Deep-Sea_Diver_Quest.md "wikilink"), which will net you a
 **permahero** insignia once completed (you can choose either +3% to
 melee or +3% to spell power). The quest involves the ship and is not
 trivial. You will need two big tanks and several area spellers surging
 high, and also might require some regen time between boss mobs.
 
-[Another quest](Safety_Award_Quest "wikilink") involves Pilgrim and the
-extermination of sharks, which will give a weekly boost of +5% xp for
-all included, and is much easier than the main quest. Any standard group
-will suffice.
+[Another quest](Safety_Award_Quest.md "wikilink") involves Pilgrim and
+the extermination of sharks, which will give a weekly boost of +5% xp
+for all included, and is much easier than the main quest. Any standard
+group will suffice.
 
 However, if the area is run for xp, you will want to focus on the
 southern part of the sea - with the kelp farms, which when ran with a
@@ -78,9 +78,9 @@ safe. Follow Mayflower to get down to the bulk of the area.
 -   Eels are aggie but can't see hidden. However, same as all aggie
     mobs, they assist when move hidden temporarily falls during fights.
 -   The turtles skin for [shards of
-    ulexite](Shard_Of_Ulexite "wikilink"). Giving this to the goblin e,
-    n of Ginormous will cast atheist imm steel on you. They can also be
-    sold as treasure.
+    ulexite](Shard_Of_Ulexite.md "wikilink"). Giving this to the goblin
+    e, n of Ginormous will cast atheist imm steel on you. They can also
+    be sold as treasure.
 -   If small, avoid the ship, it can get very nasty and swarmy.
 -   The elementals are very tough but can be soloed by "most" 999
     heroes, "most" of the time. They will load their gear only 50% of

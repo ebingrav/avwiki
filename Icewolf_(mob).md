@@ -8,11 +8,11 @@ The Icewolf is a level 70 golem.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Stormkeep](:Category:_Stormkeep "wikilink")
-([Map](Stormkeep_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Octagon Room.  
-Walking route from [Big Fish](Big_Fish_In_Cold_Water "wikilink"): 6e,
+**[Area](:Category:_Areas.md "wikilink"):**
+[Stormkeep](:Category:_Stormkeep.md "wikilink")
+([Map](Stormkeep_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Octagon Room.  
+Walking route from [Big Fish](Big_Fish_In_Cold_Water.md "wikilink"): 6e,
 5n, 3w, s, 3w, n, e, n, u, e, s, w, u, e, n.  
 
 [Category: Mobs In Stormkeep](Category:_Mobs_In_Stormkeep "wikilink")

@@ -1,28 +1,29 @@
 *This belt is made from the skin of a mage.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 15 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** mage, skin, belt.  
-**[Level(s)](Object_Level "wikilink"):** 45.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn about waist>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[magic](Magic_Flag "wikilink"), [nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 45.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn about waist>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cavern of
-ManyJaws](:Category:_Cavern_Of_ManyJaws "wikilink")
-([Map](Cavern_Of_ManyJaws_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Flayed
+**[Area](:Category:_Areas.md "wikilink"):** [Cavern of
+ManyJaws](:Category:_Cavern_Of_ManyJaws.md "wikilink")
+([Map](Cavern_Of_ManyJaws_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Flayed
 Mage](Flayed_Mage "wikilink").  
 See [Flayed Mage](Flayed_Mage "wikilink") for more information.  
 

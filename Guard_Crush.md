@@ -1,8 +1,8 @@
-*If a [berserker](:Category:_Berserkers "wikilink")'s attack is parried
-or blocked with a shield, it is more draining to the defender than
-normal, thus making it less likely they will be able to defend against
-subsequent attacks from both the
-[berserker](:Category:_Berserkers "wikilink") and his allies.*
+*If a [berserker](:Category:_Berserkers.md "wikilink")'s attack is
+parried or blocked with a shield, it is more draining to the defender
+than normal, thus making it less likely they will be able to defend
+against subsequent attacks from both the
+[berserker](:Category:_Berserkers.md "wikilink") and his allies.*
 
 Prerequisite(s): none.
 

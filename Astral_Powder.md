@@ -9,7 +9,7 @@
 ` This item cannot be worn.`
 
 This object is located on the Invisible Stalkers in the [Astral
-Plane](:Category:Astral_Plane "wikilink"). Its only use apart from
+Plane](:Category:Astral_Plane.md "wikilink"). Its only use apart from
 selling for a small amount of gold is in the [Vault Treasure
 Hunt](Vault_Treasure_Hunt "wikilink") quest.
 

@@ -1,19 +1,19 @@
 *This is an Antharian Signet ring, worn by all defenders of Antharia.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 10-12.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 10-12.`  
 `Insignificantly lowers resistance to earth continuous`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 10 continuous.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -5/-10/-20 continuous.`
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 10 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -5/-10/-20 continuous.`
 
 **Keyword(s):** Antharian Signet ring.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on finger>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on finger>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
@@ -23,10 +23,10 @@ Only the ring on the Knight gives the mana bonus.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Antharia](:Category:_Antharia "wikilink")
-([Map](Antharia_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Antharian Peace
+**[Area](:Category:_Areas.md "wikilink"):**
+[Antharia](:Category:_Antharia.md "wikilink")
+([Map](Antharia_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Antharian Peace
 Guard](Antharian_Peace_Guard "wikilink"), [High Guard Of
 Antharia](High_Guard_Of_Antharia "wikilink"), [Antharian
 Knight](Antharian_Knight "wikilink").  

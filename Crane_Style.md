@@ -1,10 +1,10 @@
 *With the grace of the noble Northern Crane, the
-[monks](:Category:_Monks "wikilink") of [Gorn](Gorn "wikilink") did
-protect themselves from the heathen religions. And lo and behold!
-Almighty [Gorn](Gorn "wikilink") protected them.*
+[monks](:Category:_Monks.md "wikilink") of [Gorn](Gorn.md "wikilink")
+did protect themselves from the heathen religions. And lo and behold!
+Almighty [Gorn](Gorn.md "wikilink") protected them.*
 
-Prerequisite(s): [Serpent Technique](Serpent_Technique "wikilink"),
-[Weapon Lore](Weapon_Lore "wikilink").
+Prerequisite(s): [Serpent Technique](Serpent_Technique.md "wikilink"),
+[Weapon Lore](Weapon_Lore.md "wikilink").
 
 Syntax: none (automatic).
 

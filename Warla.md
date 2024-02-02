@@ -3,13 +3,13 @@ wings. Her white hair is braided in a complex 13 strand pattern behind
 her head. She studies you with ancient wisdom behind her eyes.*
 
 **Keywords:** Warla.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[psion](Spellcasting_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[psion](Spellcasting_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").
 
 ## Gear
 
@@ -24,9 +24,9 @@ invisible](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Veil Of
-Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Veil Of
+Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink")).  
 
 [Category: Mobs In Veil Of
 Ecstasy](Category:_Mobs_In_Veil_Of_Ecstasy "wikilink")

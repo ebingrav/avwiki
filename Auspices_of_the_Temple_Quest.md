@@ -2,9 +2,9 @@
 
 The beginning of this quest starts with a visit to
 [Haruspex](Haruspex "wikilink") in [Arx
-Nivea](:Category:Arx_Nivea "wikilink") which is in
-[Eragora](:Category:Eragora "wikilink"). From
-[Eragora's](:Category:Eragora "wikilink") default recall (campfire),
+Nivea](:Category:Arx_Nivea.md "wikilink") which is in
+[Eragora](:Category:Eragora.md "wikilink"). From
+[Eragora's](:Category:Eragora.md "wikilink") default recall (campfire),
 head south, east, north, 2 east, up (sen2eu) -- then find
 [Haruspex](Haruspex "wikilink") to start the quest.
 

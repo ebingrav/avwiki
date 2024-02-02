@@ -1,20 +1,21 @@
-*This [spell](:Category:_Spells "wikilink") saps [hit
-points](Hit_Points "wikilink") from the
-[victim](:Category:_Mobs "wikilink"). It also has the potential of
-negatively affecting all [stats](:Category:_Statistics "wikilink")
-including [experience](Experience_Points "wikilink"). Be wary of casual
-use on [friends](:Category:_Characters "wikilink") and beware
-[foes](:Category:_Mobs "wikilink") who wield this
-[spell](:Category:_Spells "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") saps [hit
+points](Hit_Points.md "wikilink") from the
+[victim](:Category:_Mobs.md "wikilink"). It also has the potential of
+negatively affecting all [stats](:Category:_Statistics.md "wikilink")
+including [experience](Experience_Points.md "wikilink"). Be wary of
+casual use on [friends](:Category:_Characters.md "wikilink") and beware
+[foes](:Category:_Mobs.md "wikilink") who wield this
+[spell](:Category:_Spells.md "wikilink").*
 
-Prerequisite(s): [Chill Touch](Chill_Touch "wikilink").
+Prerequisite(s): [Chill Touch](Chill_Touch.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'energy drain'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'energy drain'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is rarely used.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is rarely used.
 
-See also [Energy Drain Gear](:Category:_Energy_Drain_Gear "wikilink").
+See also [Energy Drain
+Gear](:Category:_Energy_Drain_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

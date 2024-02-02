@@ -1,20 +1,20 @@
-*This [spell](:Category:_Spells "wikilink") lowers the victim's
-[strength](Strength "wikilink") and damages them each tick. It spreads
-from one [character](:Category:_Characters "wikilink") in a
-[room](:Category:_Rooms "wikilink") to others, having the same effect on
-them as the original [victim](:Category:_Mobs "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") lowers the victim's
+[strength](Strength.md "wikilink") and damages them each tick. It
+spreads from one [character](:Category:_Characters.md "wikilink") in a
+[room](:Category:_Rooms.md "wikilink") to others, having the same effect
+on them as the original [victim](:Category:_Mobs.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'plague'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'plague'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rarely used, especially as
-it spreads so easily to both friend and foe alike.
+This [spell](:Category:_Spells.md "wikilink") is rarely used, especially
+as it spreads so easily to both friend and foe alike.
 
 See also [Gear That Applies
-Plague](:Category:_Gear_That_Applies_Plague "wikilink"), [Plague
-Flag](Plague_Flag "wikilink").
+Plague](:Category:_Gear_That_Applies_Plague.md "wikilink"), [Plague
+Flag](Plague_Flag.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

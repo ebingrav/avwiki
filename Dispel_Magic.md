@@ -1,16 +1,18 @@
-*This [spell](:Category:_Spells "wikilink") removes magical affects and
-spells from a target. Removing a [spell](:Category:_Spells "wikilink")
-is more difficult than placing it, however-it may take many tries of
-dispel magic to remove any [spell](:Category:_Spells "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") removes magical affects
+and spells from a target. Removing a
+[spell](:Category:_Spells.md "wikilink") is more difficult than placing
+it, however-it may take many tries of dispel magic to remove any
+[spell](:Category:_Spells.md "wikilink").*
 
-Prerequisite(s): [Detect Magic](Detect_Magic "wikilink").
+Prerequisite(s): [Detect Magic](Detect_Magic.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'dispel magic'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'dispel magic'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rarely used.
+This [spell](:Category:_Spells.md "wikilink") is rarely used.
 
-See also [Dispel Magic Gear](:Category:_Dispel_Magic_Gear "wikilink").
+See also [Dispel Magic
+Gear](:Category:_Dispel_Magic_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

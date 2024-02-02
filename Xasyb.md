@@ -6,9 +6,9 @@ beast the downdraft from her wings almost knocks you down.*
 **Keywords:** xasyb bee queen.  
 **Scan Description:** Giant black legs protrude from this beast, its
 stringer twitching slightly.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Flying.  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Flying.  
 **Affects:** Flying, Demonic.  
 
 ## Gear

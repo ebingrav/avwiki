@@ -8,14 +8,14 @@ Modifies armor class by -25 continuous.
 
 Slot: Finger  
 Flags: magic nolocate.  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Plane Of Water](:Category:Plane_Of_Water "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Plane Of Water](:Category:Plane_Of_Water.md "wikilink")  
 Mob: [Deadly Water Elemental](Deadly_Water_Elemental "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Plane Of
-Water](:Category:Gear_In_Plane_Of_Water "wikilink") for more
+Water](:Category:Gear_In_Plane_Of_Water.md "wikilink") for more
 information.
 
 [Category:Lord Second Tier Tank

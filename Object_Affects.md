@@ -1,55 +1,57 @@
-Each [object](:Category:_Objects "wikilink") has a set of affects
+Each [object](:Category:_Objects.md "wikilink") has a set of affects
 (usually none but sometimes one and, rarely, a few) that it applies to
-any [characters](:Category:_Characters "wikilink") or
-[mobs](:Category:_Mobs "wikilink") who [wear](Wear "wikilink") it until
-it is [removed](Remove "wikilink"). These affects may include:
+any [characters](:Category:_Characters.md "wikilink") or
+[mobs](:Category:_Mobs.md "wikilink") who [wear](Wear.md "wikilink") it
+until it is [removed](Remove.md "wikilink"). These affects may include:
 
 -   Altering one or more of their
-    [statistics](:Category:_Statistics "wikilink"), namely
-    [con](Constitution "wikilink"), [dex](Dexterity "wikilink"),
-    [int](Intelligence "wikilink"), [str](Strength "wikilink"), and
-    [wis](Wisdom "wikilink"). [Gear](:Category:_Gear "wikilink") that
-    improves [character](:Category:_Characters "wikilink")
-    [stats](:Category:_Statistics "wikilink") may be found under
-    [Statistic Gear](:Category:_Statistic_Gear "wikilink") (which
-    includes [Level Gear](:Category:_Level_Gear "wikilink")).
+    [statistics](:Category:_Statistics.md "wikilink"), namely
+    [con](Constitution.md "wikilink"), [dex](Dexterity.md "wikilink"),
+    [int](Intelligence.md "wikilink"), [str](Strength.md "wikilink"),
+    and [wis](Wisdom.md "wikilink").
+    [Gear](:Category:_Gear.md "wikilink") that improves
+    [character](:Category:_Characters.md "wikilink")
+    [stats](:Category:_Statistics.md "wikilink") may be found under
+    [Statistic Gear](:Category:_Statistic_Gear.md "wikilink") (which
+    includes [Level Gear](:Category:_Level_Gear.md "wikilink")).
 
 <!-- -->
 
--   Altering their [armor class](Armor_Class "wikilink"), [saving
-    throw](Saving_Throw "wikilink"), [hit roll](Hit_Roll "wikilink"),
-    [damage roll](Damage_Roll "wikilink"), [maximum hit
-    points](Hit_Points "wikilink"), [maximum mana
-    points](Mana_Points "wikilink"), and/or [maximum move
-    points](Move_Points "wikilink"). [Gear](:Category:_Gear "wikilink")
-    that improves such qualities may be found under [Tank
-    Gear](:Category:_Tank_Gear "wikilink"), [Saving-Throw
-    Gear](:Category:_Saving-Throw_Gear "wikilink"), [Archer
-    Gear](:Category:_Archer_Gear "wikilink"), [Hit
-    Gear](:Category:_Hit_Gear "wikilink"), [Hit-Point
-    Gear](:Category:_Hit-Point_Gear "wikilink"), [Mana
-    Gear](:Category:_Mana_Gear "wikilink"), and [Move-Point
-    Gear](:Category:_Move-Point_Gear "wikilink"), respectively (more or
-    less).
+-   Altering their [armor class](Armor_Class.md "wikilink"), [saving
+    throw](Saving_Throw.md "wikilink"), [hit
+    roll](Hit_Roll.md "wikilink"), [damage
+    roll](Damage_Roll.md "wikilink"), [maximum hit
+    points](Hit_Points.md "wikilink"), [maximum mana
+    points](Mana_Points.md "wikilink"), and/or [maximum move
+    points](Move_Points.md "wikilink").
+    [Gear](:Category:_Gear.md "wikilink") that improves such qualities
+    may be found under [Tank Gear](:Category:_Tank_Gear.md "wikilink"),
+    [Saving-Throw Gear](:Category:_Saving-Throw_Gear.md "wikilink"),
+    [Archer Gear](:Category:_Archer_Gear.md "wikilink"), [Hit
+    Gear](:Category:_Hit_Gear.md "wikilink"), [Hit-Point
+    Gear](:Category:_Hit-Point_Gear.md "wikilink"), [Mana
+    Gear](:Category:_Mana_Gear.md "wikilink"), and [Move-Point
+    Gear](:Category:_Move-Point_Gear.md "wikilink"), respectively (more
+    or less).
 
 <!-- -->
 
--   [Affecting](Affects "wikilink") them with one or more of a limited
-    set of [skills](:Category:_Skills "wikilink") and
-    [spells](:Category:_Spells "wikilink").
-    [Gear](:Category:_Gear "wikilink") that applies such
-    [skill/spell](:Category:_Skills_And_Spells "wikilink")
-    [affects](Affects "wikilink") may be found under [Gear That Applies
-    Skills &
-    Spells](:Category:_Gear_That_Applies_Skills_And_Spells "wikilink").
+-   [Affecting](Affects.md "wikilink") them with one or more of a
+    limited set of [skills](:Category:_Skills.md "wikilink") and
+    [spells](:Category:_Spells.md "wikilink").
+    [Gear](:Category:_Gear.md "wikilink") that applies such
+    [skill/spell](:Category:_Skills_And_Spells.md "wikilink")
+    [affects](Affects.md "wikilink") may be found under [Gear That
+    Applies Skills &
+    Spells](:Category:_Gear_That_Applies_Skills_And_Spells.md "wikilink").
 
-Note that some [gear](:Category:_Gear "wikilink") supposedly affects
-[character](:Category:_Characters "wikilink")
-[class](:Category:_Classes "wikilink"), [level](Level "wikilink"),
-[sex](Sex "wikilink"), [age](Age "wikilink"), height, weight,
-[gold](Gold_In_Hand "wikilink"), and/or
-[experience](Experience_Points "wikilink"); however, such
-[gear](:Category:_Gear "wikilink") will *not* actually affect these
+Note that some [gear](:Category:_Gear.md "wikilink") supposedly affects
+[character](:Category:_Characters.md "wikilink")
+[class](:Category:_Classes.md "wikilink"), [level](Level.md "wikilink"),
+[sex](Sex.md "wikilink"), [age](Age.md "wikilink"), height, weight,
+[gold](Gold_In_Hand.md "wikilink"), and/or
+[experience](Experience_Points.md "wikilink"); however, such
+[gear](:Category:_Gear.md "wikilink") will *not* actually affect these
 qualities.
 
 [Category: Objects](Category:_Objects "wikilink")

@@ -1,9 +1,9 @@
-*With this [skill](:Category:_Skills_And_Spells "wikilink") you can
-[wield](Wield "wikilink") equal weighted weapon in both hands up to a
+*With this [skill](:Category:_Skills_And_Spells.md "wikilink") you can
+[wield](Wield.md "wikilink") equal weighted weapon in both hands up to a
 certain weight. (Weight is determined by how much skill and how many
 balance-like skills you have.)*
 
-Prerequisite(s): [Poise](Poise "wikilink").
+Prerequisite(s): [Poise](Poise.md "wikilink").
 
 Syntax: none (automatic).
 

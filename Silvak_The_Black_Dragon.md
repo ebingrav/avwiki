@@ -5,28 +5,28 @@ noxious acid. You feel the effects of dragonfear, and your legs start
 quaking fearfully.*
 
 **Keywords:** silvak, black, dragon  
-**[Level](Level "wikilink"):** 73  
-**[Alignment](Alignment "wikilink"):** Demonic  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[mage](Spellcasting_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 73  
+**[Alignment](Alignment.md "wikilink"):** Demonic  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[mage](Spellcasting_Mobs.md "wikilink")  
 **Affects:** [Sanctuary](Sanctuary "wikilink"), [Fly](Fly "wikilink"),
 [Pass Door](Pass_Door "wikilink")  
 
 ## Gear
 
 ` Silvak is using:`  
-` `<worn on finger>`    [Pristine  ] (Invis) a `[`ghostly`` ``ring`](Ghostly_Ring "wikilink")
+` `<worn on finger>`    [Pristine  ] (Invis) a `[`ghostly`` ``ring`](Ghostly_Ring.md "wikilink")
 
 ` Silvak is carrying:`  
-` a `[`flask`` ``of`` ``dragonsbrew`](Flask_Of_Dragonsbrew "wikilink")  
-` an `[`ancient`` ``scroll`](Ancient_Scroll "wikilink")  
-` a `[`fire-veined`` ``opal`](Fire-Veined_Opal "wikilink")
+` a `[`flask`` ``of`` ``dragonsbrew`](Flask_Of_Dragonsbrew.md "wikilink")  
+` an `[`ancient`` ``scroll`](Ancient_Scroll.md "wikilink")  
+` a `[`fire-veined`` ``opal`](Fire-Veined_Opal.md "wikilink")
 
 ## Comments
 
-Note that Silvak can [tail](Racial_Tail "wikilink"), and hence stun you
-in combat.
+Note that Silvak can [tail](Racial_Tail.md "wikilink"), and hence stun
+you in combat.
 
 There is treasure on the floor of his room:
 
@@ -35,10 +35,10 @@ There is treasure on the floor of his room:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Silmavar
-Labyrinth](:Category:_Silmavar_Labyrinth "wikilink")
-([Map](Silmavar_Labyrinth_Map "wikilink"))  
-**[Room](:Category:_Rooms "wikilink"):** In a huge temple  
+**[Area](:Category:_Areas.md "wikilink"):** [Silmavar
+Labyrinth](:Category:_Silmavar_Labyrinth.md "wikilink")
+([Map](Silmavar_Labyrinth_Map.md "wikilink"))  
+**[Room](:Category:_Rooms.md "wikilink"):** In a huge temple  
 
 [Category: Mobs In Silmavar
 Labyrinth](Category:_Mobs_In_Silmavar_Labyrinth "wikilink")

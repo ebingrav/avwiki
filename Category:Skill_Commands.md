@@ -1,3 +1,3 @@
-See also [Skills & Spells](:Category:_Skills_And_Spells "wikilink").
+See also [Skills & Spells](:Category:_Skills_And_Spells.md "wikilink").
 
 [Category: Commands](Category:_Commands "wikilink")

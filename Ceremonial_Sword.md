@@ -1,23 +1,24 @@
 *A ceremonial sword, encrusted with fake jewels, lies here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 9 to 29 (average 19).`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 9 to 29 (average 19).`
 
 **Keyword(s):** ceremonial sword.  
-**[Level(s)](Object_Level "wikilink"):** 27.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 27.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Museum
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Museum
 Guard](Museum_Guard "wikilink").  
 See [Museum Guard](Museum_Guard "wikilink") for more information.  
 

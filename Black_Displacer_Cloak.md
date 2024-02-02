@@ -1,19 +1,21 @@
 <i>Barely discernable, a black cloak can be seen on the floor.</i>
 
-`'`[`move`` ``hidden`](Move_Hidden "wikilink")`    ' continuous.`  
-`'`[`pass`` ``door`](Pass_Door "wikilink")`      ' continuous.`
+`'`[`move`` ``hidden`](Move_Hidden.md "wikilink")`    ' continuous.`  
+`'`[`pass`` ``door`](Pass_Door.md "wikilink")`      ' continuous.`
 
 <b>Keyword(s):</b> displacer cloak black  
 <b>Weight:</b> 2  
 <b>Level:</b> 25  
 <b>Armor Class:</b> 6  
 <b>Slot:</b> Neck  
-<b>Flags:</b> [dark](Dark_Flag "wikilink") [evil](Evil_Flag "wikilink")
-[anti-good](Anti-Good_Flag "wikilink")
-[anti-neutral](Anti-Neutral_Flag "wikilink")
-[nodrop](NoDrop_Flag "wikilink") [noremove](NoRemove_Flag "wikilink")  
-<b>Area:</b> [Alien Hive](:Category:_Alien_Hive "wikilink")
-([Map](Alien_Hive_Map "wikilink"))  
+<b>Flags:</b> [dark](Dark_Flag.md "wikilink")
+[evil](Evil_Flag.md "wikilink")
+[anti-good](Anti-Good_Flag.md "wikilink")
+[anti-neutral](Anti-Neutral_Flag.md "wikilink")
+[nodrop](NoDrop_Flag.md "wikilink")
+[noremove](NoRemove_Flag.md "wikilink")  
+<b>Area:</b> [Alien Hive](:Category:_Alien_Hive.md "wikilink")
+([Map](Alien_Hive_Map.md "wikilink"))  
 
 ## Comments
 
@@ -22,12 +24,12 @@ needs to be faded. This is a somewhat essential piece of gear for
 lowmort and heroes who cannot move hidden or pass door by themselves.
 
 See also [Suggested Buffing
-Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear "wikilink")
+Gear](Suggested_Spellcasting_Gear#Suggested_Buffing_Gear.md "wikilink")
 
 ## Directions
 
 Portal to Terrified Woman, and walk w n e. Use the
-[map](Alien_Hive_Map "wikilink") to find your way down to the second
+[map](Alien_Hive_Map.md "wikilink") to find your way down to the second
 sublevel, and head west (this is the very bottom portion of the map).
 Find the Drow Captain or the Lieutennants and kill them for the cloak.
 They carry a large amount of cursed gear, to keep autoloot off if you

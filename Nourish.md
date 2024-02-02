@@ -1,18 +1,19 @@
 *Nourish will feed and slake the thirst of all in the
-[room](:Category:_Rooms "wikilink"). As a highly advanced form of
-healing magic, it can only be [learned](Practice "wikilink") by a select
-few.*
+[room](:Category:_Rooms.md "wikilink"). As a highly advanced form of
+healing magic, it can only be [learned](Practice.md "wikilink") by a
+select few.*
 
-Prerequisite(s): [Create Food](Create_Food "wikilink"), [Create
-Water](Create_Water "wikilink").
+Prerequisite(s): [Create Food](Create_Food.md "wikilink"), [Create
+Water](Create_Water.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'nourish'.
+Syntax: [cast](Cast.md "wikilink") 'nourish'.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") has no practical
-value at present, as [characters](:Category:_Characters "wikilink") no
-longer suffer from hunger and thirst.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") has no
+practical value at present, as
+[characters](:Category:_Characters.md "wikilink") no longer suffer from
+hunger and thirst.
 
-See also [Nourish Gear](:Category:_Nourish_Gear "wikilink").
+See also [Nourish Gear](:Category:_Nourish_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

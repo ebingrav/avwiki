@@ -1,8 +1,8 @@
 *Evasion allows the user a chance to dodge the effects of area damage
 spells if the caster's target is larger than them.*
 
-Prerequisite(s): [underfoot](Underfoot "wikilink"), [magic
-lore](Magic_Lore "wikilink").
+Prerequisite(s): [underfoot](Underfoot.md "wikilink"), [magic
+lore](Magic_Lore.md "wikilink").
 
 Syntax: none (automatic).
 

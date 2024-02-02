@@ -1,31 +1,32 @@
 *This simple sword of blackened steel has a black ring around the
-pommel. In the center is the sigil of [Werredan](Werredan "wikilink").*
+pommel. In the center is the sigil of
+[Werredan](Werredan.md "wikilink").*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 9-10 to 23-26 (average 16-18).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 9-10 to 23-26 (average 16-18).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** sword, guardsman.  
-**[Level(s)](Object_Level "wikilink"):** 19-21, 24-26.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 19-21, 24-26.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple of
-Midgaard](:Category:_Temple_Of_Midgaard "wikilink")
-([Map](Temple_Of_Midgaard_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a
-guard](Guard_(Temple_Of_Midgaard) "wikilink"), [the
-lieutenant](Lieutenant "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Temple of
+Midgaard](:Category:_Temple_Of_Midgaard.md "wikilink")
+([Map](Temple_Of_Midgaard_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a
+guard](Guard_(Temple_Of_Midgaard).md "wikilink"), [the
+lieutenant](Lieutenant.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
 
 [Category: Gear In Temple Of
 Midgaard](Category:_Gear_In_Temple_Of_Midgaard "wikilink") [Category:

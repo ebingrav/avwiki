@@ -1,22 +1,22 @@
 *Having received the special embalming reserved for heroes and leaders,
 this corpse rose as a zombie under the influence of the red stone. Well
 defined muscles mark this zombie as a mighty
-[warrior](:Category:_Warriors "wikilink").*
+[warrior](:Category:_Warriors.md "wikilink").*
 
 **Keywords:** zombie, large.  
-**[Level](Level "wikilink"):** 19.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 19.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A large zombie is using:`  
-<held in offhand>`   `[`a`` ``buffalo`` ``hide`` ``buckler`](Buffalo_Hide_Buckler "wikilink")  
-<wielded>`           `[`a`` ``short`` ``spear`](Short_Spear_(Qass) "wikilink")
+<held in offhand>`   `[`a`` ``buffalo`` ``hide`` ``buckler`](Buffalo_Hide_Buckler.md "wikilink")  
+<wielded>`           `[`a`` ``short`` ``spear`](Short_Spear_(Qass).md "wikilink")
 
 `A large zombie is carrying:`  
 `     Nothing.`
@@ -25,10 +25,11 @@ invis](Detect_Invis "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qass
-Tomb](:Category:_Qass_Tomb "wikilink")
-([Map](Qass_Tomb_Map "wikilink")).  
-A large zombie [wanders](Wandering_Mobs "wikilink") about Turtle Tomb.
+**[Area](:Category:_Areas.md "wikilink"):** [Qass
+Tomb](:Category:_Qass_Tomb.md "wikilink")
+([Map](Qass_Tomb_Map.md "wikilink")).  
+A large zombie [wanders](Wandering_Mobs.md "wikilink") about Turtle
+Tomb.
 
 A large zombie is portable.
 

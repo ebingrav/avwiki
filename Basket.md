@@ -1,24 +1,24 @@
 *A basket sits here.*
 
-[`Capacity`](Container_Values "wikilink")` is 100 lbs.`
+[`Capacity`](Container_Values.md "wikilink")` is 100 lbs.`
 
 **Keyword(s):** basket.  
-**[Level(s)](Object_Level "wikilink"):** 16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[container](:Category:_Containers "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1000 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[container](:Category:_Containers.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1000 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Brothers
-Grimm](:Category:_Brothers_Grimm "wikilink")
-([Map](Brothers_Grimm_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Red Riding Hood
+**[Area](:Category:_Areas.md "wikilink"):** [Brothers
+Grimm](:Category:_Brothers_Grimm.md "wikilink")
+([Map](Brothers_Grimm_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Red Riding Hood
 (Mob)](Red_Riding_Hood_(Mob) "wikilink").  
 See [Red Riding Hood (Mob)](Red_Riding_Hood_(Mob) "wikilink") for more
 information.  

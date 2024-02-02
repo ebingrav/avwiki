@@ -1,25 +1,26 @@
 *Once affected with a mystical barrier, damage upon you from
-[spells](:Category:_Spells "wikilink") is reduced slightly. It was
-considered a good idea by several [magi](:Category:_Mages "wikilink") in
-the southern regions of Yult'Nea where the mosquitoes were casting tiny
-fireballs to help cook their meal before feasting on
-[magi](:Category:_Mages "wikilink") flesh. A spell repellent was quickly
-produced. The causes of spell innovation are always interesting.*
+[spells](:Category:_Spells.md "wikilink") is reduced slightly. It was
+considered a good idea by several [magi](:Category:_Mages.md "wikilink")
+in the southern regions of Yult'Nea where the mosquitoes were casting
+tiny fireballs to help cook their meal before feasting on
+[magi](:Category:_Mages.md "wikilink") flesh. A spell repellent was
+quickly produced. The causes of spell innovation are always
+interesting.*
 
-Prerequisite(s): [Shield](Shield "wikilink").
+Prerequisite(s): [Shield](Shield.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'mystical barrier'.
+Syntax: [cast](Cast.md "wikilink") 'mystical barrier'.
 
-[Hero](:Category:_Hero "wikilink") [mages](:Category:_Mages "wikilink")
-may find it worthwhile to include this
-[spell](:Category:_Spells "wikilink") when
-[buffing](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
+[Hero](:Category:_Hero.md "wikilink")
+[mages](:Category:_Mages.md "wikilink") may find it worthwhile to
+include this [spell](:Category:_Spells.md "wikilink") when
+[buffing](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
 themselves fully, especially if they are expecting to fight
-[spellcasting mobs](Spellcasting_Mobs "wikilink") or mobs with [a breath
-attack](Racial_Breath "wikilink"). This
-[spell](:Category:_Spells "wikilink")'s duration is relatively low, just
-like that of [Sanctuary](Sanctuary "wikilink") and
-[Frenzy](Frenzy "wikilink").
+[spellcasting mobs](Spellcasting_Mobs.md "wikilink") or mobs with [a
+breath attack](Racial_Breath.md "wikilink"). This
+[spell](:Category:_Spells.md "wikilink")'s duration is relatively low,
+just like that of [Sanctuary](Sanctuary.md "wikilink") and
+[Frenzy](Frenzy.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

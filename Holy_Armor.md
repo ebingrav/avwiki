@@ -1,29 +1,33 @@
-*This [spell](:Category:_Spells "wikilink") decreases your
-[AC](Armor_Class "wikilink") by the Grace of the
-[Gods](:Category:_Gods_And_Goddesses "wikilink"). It gives a bonus of
--30 [AC](Armor_Class "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") decreases your
+[AC](Armor_Class.md "wikilink") by the Grace of the
+[Gods](:Category:_Gods_And_Goddesses.md "wikilink"). It gives a bonus of
+-30 [AC](Armor_Class.md "wikilink").*
 
-Prerequisite(s): [Armor](Armor_(spell) "wikilink").
+Prerequisite(s): [Armor](Armor_(spell).md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'holy armor'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'holy armor'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is second of four
+This [spell](:Category:_Spells.md "wikilink") is second of four
 [armor-class-boosting
-spells](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
-that both [clerics](:Category:_Clerics "wikilink") and
-[priests](:Category:_Priests "wikilink") may
-[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
-[level](Level "wikilink") 50. [Lowmort](:Category:_Lowmort "wikilink")
-[paladins](:Category:_Paladins "wikilink") may also
-[learn](Practice "wikilink") this [spell](:Category:_Spells "wikilink").
-[Characters](:Category:_Characters "wikilink") of many other
-[classes](:Category:_Classes "wikilink") may
-[learn](Practice "wikilink") it at [hero](:Category:_Hero "wikilink")
-[tier](:Category:_Tiers "wikilink"). It is included in both
-[Aegis](Aegis "wikilink") and [Awen](Awen "wikilink"). Its
-[AC](Armor_Class "wikilink") bonus may be modified by its
-[caster](Cast "wikilink")'s choice of [worship](Worship "wikilink").
+spells](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
+that both [clerics](:Category:_Clerics.md "wikilink") and
+[priests](:Category:_Priests.md "wikilink") may
+[learn](Practice.md "wikilink") between [level](Level.md "wikilink") 1
+and [level](Level.md "wikilink") 50.
+[Lowmort](:Category:_Lowmort.md "wikilink")
+[paladins](:Category:_Paladins.md "wikilink") may also
+[learn](Practice.md "wikilink") this
+[spell](:Category:_Spells.md "wikilink").
+[Characters](:Category:_Characters.md "wikilink") of many other
+[classes](:Category:_Classes.md "wikilink") may
+[learn](Practice.md "wikilink") it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). It is included in both
+[Aegis](Aegis.md "wikilink") and [Awen](Awen.md "wikilink"). Its
+[AC](Armor_Class.md "wikilink") bonus may be modified by its
+[caster](Cast.md "wikilink")'s choice of
+[worship](Worship.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

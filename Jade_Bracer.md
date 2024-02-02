@@ -2,14 +2,14 @@
 Modifies mana by 75 continuous. Slot: Wrist  
 Weight: 2  
 Flags: hum  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Astral Invasion](:Category:Astral_Invasion "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Astral Invasion](:Category:Astral_Invasion.md "wikilink")  
 Mob: [Invasion Commander](Invasion_Commander "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Astral
-Invasion](:Category:Gear_In_Astral_Invasion "wikilink") for more
+Invasion](:Category:Gear_In_Astral_Invasion.md "wikilink") for more
 information
 
 [Category:Lord Mana Gear](Category:Lord_Mana_Gear "wikilink")

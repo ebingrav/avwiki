@@ -1,24 +1,24 @@
 *A large rock, it is unpolished and hardly worth keeping.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 12 to 34 (average 23).`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 12 to 34 (average 23).`
 
 **Keyword(s):** rock heavy.  
-**[Level(s)](Object_Level "wikilink"):** 32.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 30 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 32.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 30 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [:Category: Desiccated
+**[Area](:Category:_Areas.md "wikilink"):** [:Category: Desiccated
 Farmland](:Category:_Desiccated_Farmland "wikilink")
-([Map](Desiccated_Farmland_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Half-Orken
+([Map](Desiccated_Farmland_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Half-Orken
 Man](Half-Orken_Man "wikilink").  
 See [Half-Orken Man](Half-Orken_Man "wikilink") for more information.  
 

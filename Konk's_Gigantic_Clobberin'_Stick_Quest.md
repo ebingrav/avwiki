@@ -1,17 +1,18 @@
-*Poor [Konk](Konk "wikilink") has grown terribly hungry while waiting
+*Poor [Konk](Konk.md "wikilink") has grown terribly hungry while waiting
 (in vain) in a thicket for his beloved master, Kemenvarno, to return.
-Fortunately, his [centaur](Centaur "wikilink") hosts have just prepared
-[a heap of baked potatoes](Heap_Of_Baked_Potatoes "wikilink") for him to
-eat. He would be very grateful to receive them...*
+Fortunately, his [centaur](Centaur.md "wikilink") hosts have just
+prepared [a heap of baked
+potatoes](Heap_Of_Baked_Potatoes.md "wikilink") for him to eat. He would
+be very grateful to receive them...*
 
-From [Konk](Konk "wikilink"):
+From [Konk](Konk.md "wikilink"):
 
 -   Go \[s\], 2s, 4w, s.
 
 <!-- -->
 
--   [Get](Get "wikilink") [a heap of baked
-    potatoes](Heap_Of_Baked_Potatoes "wikilink") from ground.
+-   [Get](Get.md "wikilink") [a heap of baked
+    potatoes](Heap_Of_Baked_Potatoes.md "wikilink") from ground.
 
 <!-- -->
 
@@ -19,10 +20,10 @@ From [Konk](Konk "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a heap of baked
-    potatoes](Heap_Of_Baked_Potatoes "wikilink") to
-    [Konk](Konk "wikilink") and receive [Konk's Gigantic Clobberin'
-    Stick](Konk's_Gigantic_Clobberin'_Stick "wikilink").
+-   [Give](Give.md "wikilink") [a heap of baked
+    potatoes](Heap_Of_Baked_Potatoes.md "wikilink") to
+    [Konk](Konk.md "wikilink") and receive [Konk's Gigantic Clobberin'
+    Stick](Konk's_Gigantic_Clobberin'_Stick.md "wikilink").
 
 [Category: Quests In Centaur
 Hollow](Category:_Quests_In_Centaur_Hollow "wikilink") [Category:

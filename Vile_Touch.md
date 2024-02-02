@@ -6,7 +6,7 @@ Angelically aligned foes.
 lethality of the powder.
 
 Syntax: cast 'vile touch'  
-Prerequisite: [ demonic intent](Demonic_Intent "wikilink")
+Prerequisite: [ demonic intent](Demonic_Intent.md "wikilink")
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Lord

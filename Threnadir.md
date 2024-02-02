@@ -5,14 +5,14 @@ and his overdeveloped subterranean eyes dart rapidly over the pages of
 the tome in his hands.*
 
 **Keywords:** Threnadir, young, deep, gnome.  
-**[Level](Level "wikilink"):** 51 or more.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 51 or more.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -26,12 +26,12 @@ invis](Detect_Invis "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Nubrius](:Category:_Nubrius "wikilink")
-([Map](Nubrius_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A darker library (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): (?).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Nubrius](:Category:_Nubrius.md "wikilink")
+([Map](Nubrius_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A darker library (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): (?).  
 Threnadir is portable.  
 
 [Category: Mobs In Nubrius](Category:_Mobs_In_Nubrius "wikilink")

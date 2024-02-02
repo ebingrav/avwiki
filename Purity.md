@@ -1,14 +1,14 @@
 *The body is a temple, and with this
-[spell](:Category:_Spells "wikilink"), the caster can keep that temple
-tidy, becoming immune to disease. Since this
-[spell](:Category:_Spells "wikilink") requires a constant light flow of
-Divine Power, the caster will regenerate [mana](Mana_Points "wikilink")
-slightly slower.*
+[spell](:Category:_Spells.md "wikilink"), the caster can keep that
+temple tidy, becoming immune to disease. Since this
+[spell](:Category:_Spells.md "wikilink") requires a constant light flow
+of Divine Power, the caster will regenerate
+[mana](Mana_Points.md "wikilink") slightly slower.*
 
-Prerequisite(s): [Mass Aid](Mass_Aid "wikilink"),
-[Nourish](Nourish "wikilink").
+Prerequisite(s): [Mass Aid](Mass_Aid.md "wikilink"),
+[Nourish](Nourish.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'purity'.
+Syntax: [cast](Cast.md "wikilink") 'purity'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

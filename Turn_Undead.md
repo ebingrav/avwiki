@@ -1,16 +1,16 @@
-*The [undead](Undead_Mobs "wikilink") and piety don't mix. When
+*The [undead](Undead_Mobs.md "wikilink") and piety don't mix. When
 confronted with the holy presence of this
-[spell](:Category:_Spells "wikilink"), the
-[undead](Undead_Mobs "wikilink") will often [flee](Flee "wikilink")
-rather than fight. This is an area spell.*
+[spell](:Category:_Spells.md "wikilink"), the
+[undead](Undead_Mobs.md "wikilink") will often
+[flee](Flee.md "wikilink") rather than fight. This is an area spell.*
 
-Prerequisite(s): [Dispel Evil](Dispel_Evil "wikilink").
+Prerequisite(s): [Dispel Evil](Dispel_Evil.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'turn undead'.
+Syntax: [cast](Cast.md "wikilink") 'turn undead'.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
-See also [Turn Undead Gear](:Category:_Turn_Undead_Gear "wikilink").
+See also [Turn Undead Gear](:Category:_Turn_Undead_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

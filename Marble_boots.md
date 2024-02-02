@@ -12,14 +12,14 @@
 Slot: hands  
 Flags: glow, magic, hum  
 Weight: 2  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Silmavar Lost](:Category:_Silmavar_Lost "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Silmavar Lost](:Category:_Silmavar_Lost.md "wikilink")  
 Mob: [Kalindor](Kalindor "wikilink")  
 
 ## Comments
 
 This is a base item that can be used to
-[Transmogrify](transmogrify "wikilink") other gear.
+[Transmogrify](transmogrify.md "wikilink") other gear.
 
 Ingredients that can be used to modify this item:
 

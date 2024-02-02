@@ -1,32 +1,32 @@
-From [Odertha](Odertha "wikilink"):
+From [Odertha](Odertha.md "wikilink"):
 
 -   Go s, w, n, w, n.
 
 <!-- -->
 
--   Find a tortured spirit ([man](Tortured_Spirit_(man) "wikilink"),
-    [woman](Tortured_Spirit_(woman) "wikilink"), or
-    [child](Tortured_Spirit_(child) "wikilink")) that carries
-    [ectoplasm](Ectoplasm "wikilink").
+-   Find a tortured spirit ([man](Tortured_Spirit_(man).md "wikilink"),
+    [woman](Tortured_Spirit_(woman).md "wikilink"), or
+    [child](Tortured_Spirit_(child).md "wikilink")) that carries
+    [ectoplasm](Ectoplasm.md "wikilink").
 
 <!-- -->
 
--   [Kill](Kill "wikilink") him/her.
+-   [Kill](Kill.md "wikilink") him/her.
 
 <!-- -->
 
--   [Get](Get "wikilink") [ectoplasm](Ectoplasm "wikilink") from his/her
-    corpse.
+-   [Get](Get.md "wikilink") [ectoplasm](Ectoplasm.md "wikilink") from
+    his/her corpse.
 
 <!-- -->
 
--   Return to [Odertha](Odertha "wikilink").
+-   Return to [Odertha](Odertha.md "wikilink").
 
 <!-- -->
 
--   [Give](Give "wikilink") [ectoplasm](Ectoplasm "wikilink") to
-    [Odertha](Odertha "wikilink") and receive
-    [waterskin](Waterskin "wikilink").
+-   [Give](Give.md "wikilink") [ectoplasm](Ectoplasm.md "wikilink") to
+    [Odertha](Odertha.md "wikilink") and receive
+    [waterskin](Waterskin.md "wikilink").
 
 [Category: Quests In Qanza
 Prairie](Category:_Quests_In_Qanza_Prairie "wikilink") [Category:

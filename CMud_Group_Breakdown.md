@@ -118,7 +118,7 @@ The **groupclear** alias will clear the entire list.
 
 ## Designer comments
 
-Feel free to note me [here](User:Shalineth "wikilink") or on board 2 to
-Shalineth with any feedback or suggestions.
+Feel free to note me [here](User:Shalineth.md "wikilink") or on board 2
+to Shalineth with any feedback or suggestions.
 
 [Category: Cmud Scripting](Category:_Cmud_Scripting "wikilink")

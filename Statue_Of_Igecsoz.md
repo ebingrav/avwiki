@@ -6,14 +6,14 @@ breathing.*
 **Keywords:** statue, igecsoz  
 **Scan Description:** The Statue of Igecsoz glares down at you. Pretty
 formidable.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
 **Affects:** Sanctuary, aggressive.  
 
 ## Gear
 
 `Statue Of Igecsoz is using:`  
-<wielded>`           `[`(Glowing)`` ``(Humming)`` ``the`` ``Spear`` ``of`` ``Igecsoz`](Spear_Of_Igecsoz "wikilink")
+<wielded>`           `[`(Glowing)`` ``(Humming)`` ``the`` ``Spear`` ``of`` ``Igecsoz`](Spear_Of_Igecsoz.md "wikilink")
 
 `Statue Of Igecsoz is carrying:`
 
@@ -28,10 +28,10 @@ st ig" when asking for dirs to whatever gear.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Main Altar of the Temple of
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Main Altar of the Temple of
 Igecsoz, portable.  
 Statue of Igecsoz is portable.  
 

@@ -16,9 +16,9 @@ unfocus as he stares up at nothing.*
 **Keywords:** elf, gilliad.  
 **Scan Description:** A powerfully built elf floats here, channeling
 energy into the sky.  
-**[Level](Level "wikilink"):** ?.  
-**[Alignment](Alignment "wikilink"):** ?.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** ?.  
+**[Alignment](Alignment.md "wikilink"):** ?.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
@@ -40,9 +40,9 @@ shards of fire (starting with the first) to obtain your orb of flames.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Thorngate](:Category:Thorngate "wikilink").  
-**[Room](:Category:_Rooms "wikilink"):** The Tower of Watching.
+**[Area](:Category:_Areas.md "wikilink"):**
+[Thorngate](:Category:Thorngate.md "wikilink").  
+**[Room](:Category:_Rooms.md "wikilink"):** The Tower of Watching.
 (portable)  
 
 Gilliad is portable.  

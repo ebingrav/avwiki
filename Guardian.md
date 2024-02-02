@@ -5,14 +5,15 @@ chest, blocking the path to the door. Maybe there's some way to get
 around it.
 
 **Keywords:** Guardian.  
-**[Level](Level "wikilink"):** 95.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink"),
-[cleric](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"),  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 95.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink"),
+[cleric](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"),  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 From stone gargoyle, nnnwwuwsed.
 
 Guardian is a cleric (div, harm) and a mage (maelstrom/disintegrate,

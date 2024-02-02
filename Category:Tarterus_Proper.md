@@ -9,8 +9,8 @@ of souls and boots of planewalking.*
 
 ## Connections
 
--   [Ascension](:Category:Ascension "wikilink"): w, 2u, 2n
--   [Garden](:Category:Garden "wikilink"): u, s, 3e, quaff
+-   [Ascension](:Category:Ascension.md "wikilink"): w, 2u, 2n
+-   [Garden](:Category:Garden.md "wikilink"): u, s, 3e, quaff
 -   Demogorgan / Anthraxus sub-area: 2n, 2d, e
 
 ## Navigation
@@ -33,7 +33,8 @@ containing part of Anthraxus' essence":
 
 Watch out for "A giant slavering dog prowls the courtyard" to the north
 on scan – that direction will take you into
-[Ascension](:Category:Ascension "wikilink"), a much more difficult area.
+[Ascension](:Category:Ascension.md "wikilink"), a much more difficult
+area.
 
 ## Adventuring
 
@@ -62,8 +63,9 @@ more), but there is the problem with demonfire that can catch the
 incoming tank.
 
 To visit [Nexus of the
-Crisis](:Category:Nexus_of_the_Crisis "wikilink"), you can travel nnddee
-and enter portal (this is just above Demogorgon's cozy little corner).
+Crisis](:Category:Nexus_of_the_Crisis.md "wikilink"), you can travel
+nnddee and enter portal (this is just above Demogorgon's cozy little
+corner).
 
 [Category:Lord Areas](Category:Lord_Areas "wikilink")
 [Category:Tarterus](Category:Tarterus "wikilink")

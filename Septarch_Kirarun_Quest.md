@@ -24,9 +24,9 @@ on the right social to activate the start of this quest.
 
 'Step 11': receive [Vial Of Starmetal
 Impurities](Vial_Of_Starmetal_Impurities "wikilink") ([steel
-skeleton](Steel_Skeleton "wikilink") potion)
+skeleton](Steel_Skeleton.md "wikilink") potion)
 
-`          receive insignia `[`'Sept`` ``Arak'Tki`` ``Surveyor'`](Sept_Arak'Tki_Insignia "wikilink")
+`          receive insignia `[`'Sept`` ``Arak'Tki`` ``Surveyor'`](Sept_Arak'Tki_Insignia.md "wikilink")
 
 *Note*: This is an one-time quest. Once completed, it cannot be
 repeated.

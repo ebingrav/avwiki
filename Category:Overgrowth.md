@@ -12,7 +12,7 @@ Floating in nothing. Have to find it.
 
 ## Navigation
 
-Small'ish area, map is similar to [Midgaard's](Midgaard "wikilink")
+Small'ish area, map is similar to [Midgaard's](Midgaard.md "wikilink")
 [Verdant Isle](Verdant_Isle "wikilink")
 
 ## Adventuring

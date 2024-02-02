@@ -1,10 +1,10 @@
 Syntax: amplify on, amplify off  
 Prerequisite: [Arcane Knowledge](Arcane_Knowledge "wikilink")
 
-At an advanced level, [mages](:Category:Mages "wikilink") and
-[wizards](:Category:Wizards "wikilink") can gain a greater understanding
-into the elemental nature of reality. This insight allows some spells to
-grow in power alongside their caster.
+At an advanced level, [mages](:Category:Mages.md "wikilink") and
+[wizards](:Category:Wizards.md "wikilink") can gain a greater
+understanding into the elemental nature of reality. This insight allows
+some spells to grow in power alongside their caster.
 
 Once you learn this ability, you must type AMPLIFY ON to begin using it.
 Your affected spells will remained amplified until you type AMPLIFY OFF.

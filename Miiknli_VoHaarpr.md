@@ -16,22 +16,23 @@ and an ornamented helm that leaves his ears and the lower half of his
 face exposed.*
 
 **Keywords:** Miiknli, VoHaarpr, riithi, noble, banriith.  
-**[Level](Level "wikilink"):** 46.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[agggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 46.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[agggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Miiknli VoHaarpr is using:`  
-<worn on finger>`    (Humming) `[`a`` ``Riithi`` ``Noble's`` ``ring`](Riithi_Noble's_Ring "wikilink")  
-<worn on body>`      `[`a`` ``Riithi`` ``Noble's`` ``gown`](Riithi_Noble's_Gown "wikilink")  
-<worn on head>`      `[`a`` ``Riithi`` ``Noble's`` ``helm`](Riithi_Noble's_Helm "wikilink")  
-<worn on feet>`      `[`a`` ``Riithi`` ``Noble's`` ``boots`](Riithi_Noble's_Boots "wikilink")
+<worn on finger>`    (Humming) `[`a`` ``Riithi`` ``Noble's`` ``ring`](Riithi_Noble's_Ring.md "wikilink")  
+<worn on body>`      `[`a`` ``Riithi`` ``Noble's`` ``gown`](Riithi_Noble's_Gown.md "wikilink")  
+<worn on head>`      `[`a`` ``Riithi`` ``Noble's`` ``helm`](Riithi_Noble's_Helm.md "wikilink")  
+<worn on feet>`      `[`a`` ``Riithi`` ``Noble's`` ``boots`](Riithi_Noble's_Boots.md "wikilink")
 
 `Miiknli VoHaarpr is carrying:`  
 `    Nothing.`
@@ -50,11 +51,11 @@ itself.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Surveyor's Base
-([cursed](Cursed_Rooms "wikilink"))
+**[Area](:Category:_Areas.md "wikilink"):** [The Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Surveyor's Base
+([cursed](Cursed_Rooms.md "wikilink"))
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d,
 s, d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, n, e, u, e, s, 3e, s, e, 3n,

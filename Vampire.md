@@ -3,11 +3,11 @@ weapon into its yielding flesh you imagine you hear a muttered
 Thank-You.*
 
 **Keywords:** man vampire.  
-**[Level](Level "wikilink"):** 48.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink").  
-**Affects:** [fly](Fly "wikilink").  
+**[Level](Level.md "wikilink"):** 48.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink").  
+**Affects:** [fly](Fly.md "wikilink").  
 
 ## Gear
 
@@ -15,7 +15,7 @@ Thank-You.*
 `Nothing.`
 
 `A Vampire is carrying:`  
-`     `[`fangs`](Fangs "wikilink")
+`     `[`fangs`](Fangs.md "wikilink")
 
 ## Comments
 
@@ -24,10 +24,10 @@ For some odd reason, the item the vampire has cannot be seen using
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Caverns of
-Despair](:Category:_Caverns_Of_Despair "wikilink")
-([Map](Caverns_Of_Despair_Map "wikilink")).  
-A Vampire [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):** [Caverns of
+Despair](:Category:_Caverns_Of_Despair.md "wikilink")
+([Map](Caverns_Of_Despair_Map.md "wikilink")).  
+A Vampire [wanders](Wandering_Mobs.md "wikilink").
 
 A Vampire is portable.  
 

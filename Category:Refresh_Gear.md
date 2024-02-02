@@ -1,3 +1,3 @@
-See also [Refresh](Refresh "wikilink").
+See also [Refresh](Refresh.md "wikilink").
 
 [Category: Spellcasting Gear](Category:_Spellcasting_Gear "wikilink")

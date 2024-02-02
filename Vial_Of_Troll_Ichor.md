@@ -1,15 +1,15 @@
 *A small stone vial full of a thick green goop sits here.*
 
-`Level 23 spells of: '`[`heal`](Heal "wikilink")`'.`
+`Level 23 spells of: '`[`heal`](Heal.md "wikilink")`'.`
 
 **Keyword(s):** vial troll ichor.  
-**[Level(s)](Object_Level "wikilink"):** 24.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 24.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -18,10 +18,10 @@ specific hill troll does.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Barrier
-Wastes](:Category:_Barrier_Wastes "wikilink")
-([Map](Barrier_Wastes_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Hill
+**[Area](:Category:_Areas.md "wikilink"):** [Barrier
+Wastes](:Category:_Barrier_Wastes.md "wikilink")
+([Map](Barrier_Wastes_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Hill
 Troll](Hill_Troll "wikilink").  
 See [Hill Troll](Hill_Troll "wikilink") for more information.  
 

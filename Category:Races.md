@@ -3,35 +3,35 @@ and don't know where to start, see the [New Character
 Guide](New_Character_Guide "wikilink").
 
 -   There are subcategories for
-    [creatable](:Category:_Creatable_Races "wikilink"),
-    [evolutionary](:Category:_Evolutionary_Races "wikilink"),
-    [remort](:Category:_Remort_Races "wikilink"),
-    [quest](:Category:_Quest_Races "wikilink"), and
-    [ascension](:Category:_Ascension_Races "wikilink") races.
+    [creatable](:Category:_Creatable_Races.md "wikilink"),
+    [evolutionary](:Category:_Evolutionary_Races.md "wikilink"),
+    [remort](:Category:_Remort_Races.md "wikilink"),
+    [quest](:Category:_Quest_Races.md "wikilink"), and
+    [ascension](:Category:_Ascension_Races.md "wikilink") races.
 
 <!-- -->
 
 -   There are also subcategories for
-    [languages](:Category:_Languages "wikilink") and
-    [racials](:Category:_Racials "wikilink").
+    [languages](:Category:_Languages.md "wikilink") and
+    [racials](:Category:_Racials.md "wikilink").
 
 <!-- -->
 
--   Every race is a certain [size](:Racial_Size "wikilink") and is
+-   Every race is a certain [size](:Racial_Size.md "wikilink") and is
     subject to a set of racial
-    [combat](:Racial_Combat_Modifier "wikilink") (including
-    [archery](:Racial_Archery_Modifier "wikilink"),
-    [damage](:Racial_Damage_Modifier "wikilink"), and
-    [stealth](:Racial_Stealth_Modifier "wikilink")), [spell
-    cost](:Racial_Spell_Cost_Modifier "wikilink"),
-    [regen](:Racial_Regeneration_Modifier "wikilink") and [magic
-    resistance](:Racial_Magic_Resistance "wikilink") modifiers. Some
+    [combat](:Racial_Combat_Modifier.md "wikilink") (including
+    [archery](:Racial_Archery_Modifier.md "wikilink"),
+    [damage](:Racial_Damage_Modifier.md "wikilink"), and
+    [stealth](:Racial_Stealth_Modifier.md "wikilink")), [spell
+    cost](:Racial_Spell_Cost_Modifier.md "wikilink"),
+    [regen](:Racial_Regeneration_Modifier.md "wikilink") and [magic
+    resistance](:Racial_Magic_Resistance.md "wikilink") modifiers. Some
     races benefit from [racial
-    armor](:Category:Racial_Armor "wikilink").
+    armor](:Category:Racial_Armor.md "wikilink").
 
-See also [Classes](:Category:_Classes "wikilink"), [New Character
+See also [Classes](:Category:_Classes.md "wikilink"), [New Character
 Guide](New_Character_Guide "wikilink"), [Racial
-Gains](:User:WinterRose/Racial_Gains "wikilink").
+Gains](:User:WinterRose/Racial_Gains.md "wikilink").
 
 |                 |
 |-----------------|
@@ -45,25 +45,26 @@ Gains](:User:WinterRose/Racial_Gains "wikilink").
   
 {\|class="sortable" border="2" cellpadding="0" cellspacing="0"
 align="center" \|+
-<big>**[Creatable](:Category:_Creatable_Races "wikilink") Races
+<big>**[Creatable](:Category:_Creatable_Races.md "wikilink") Races
 Summary**</big> \|- ! Race ! style="background:#efefef;" \|
-[Language](:Category:_Languages "wikilink") !
-style="background:#efefef;" \| [Size](Racial_Size "wikilink") !
-style="background:#efefef;" \| [Str](Strength "wikilink") !
-style="background:#efefef;" \| [Int](Intelligence "wikilink") !
-style="background:#efefef;" \| [Wis](Wisdom "wikilink") !
-style="background:#efefef;" \| [Dex](Dexterity "wikilink") !
-style="background:#efefef;" \| [Con](Constitution "wikilink") !
-style="background:#efefef;" \| [TNL](TNL "wikilink") \|- align="center"
-\| style="background-color:#efefef;" \| [Centaur](Centaur "wikilink") \|
-Faerie \| <span style="display:none">4</span>L \|
+[Language](:Category:_Languages.md "wikilink") !
+style="background:#efefef;" \| [Size](Racial_Size.md "wikilink") !
+style="background:#efefef;" \| [Str](Strength.md "wikilink") !
+style="background:#efefef;" \| [Int](Intelligence.md "wikilink") !
+style="background:#efefef;" \| [Wis](Wisdom.md "wikilink") !
+style="background:#efefef;" \| [Dex](Dexterity.md "wikilink") !
+style="background:#efefef;" \| [Con](Constitution.md "wikilink") !
+style="background:#efefef;" \| [TNL](TNL "wikilink") .md\|-
+align="center" \| style="background-color:#efefef;" \|
+[Centaur](Centaur "wikilink") \| Faerie \|
+<span style="display:none">4</span>L \|
 style="background-color:#ffdddd;" \| 15 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ddffdd;" \| 15 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffdddd;" \| 15 \| 2857 \|- align="center" \|
 style="background-color:#efefef;" \| [Deep Gnome](Deep_Gnome "wikilink")
-\| Gnomish \| <span style="display:none">2</span>S \| 13 \| 13 \|
+.md\| Gnomish \| <span style="display:none">2</span>S \| 13 \| 13 \|
 style="background-color:#ffffbb;" \| 14 \|
 style="background-color:#ffdddd;" \| 14 \| 13 \|
 style="background-color:#ffdddd;" \| 1111 \|- align="center" \|
@@ -72,8 +73,8 @@ style="background-color:#efefef;" \| [Draconian](Draconian "wikilink")
 style="background-color:#ffffbb;" \| 16 \|
 style="background-color:#ffffbb;" \| 15 \| 10 \| 10 \|
 style="background-color:#ffffbb;" \| 16 \| 1515 \|- align="center" \|
-style="background-color:#efefef;" \| [Drow](Drow "wikilink") \| Faerie
-\| <span style="display:none">3</span>M \| 12 \|
+style="background-color:#efefef;" \| [Drow](Drow "wikilink") .md\|
+Faerie \| <span style="display:none">3</span>M \| 12 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffdddd;" \| 13 \|
 style="background-color:#ffdddd;" \| 14 \| 12 \| 1176 \|- align="center"
@@ -83,7 +84,7 @@ style="background-color:#ffdddd;" \| 15 \| 12 \|
 style="background-color:#ffdddd;" \| 13 \| 13 \|
 style="background-color:#ffdddd;" \| 15 \|
 style="background-color:#ffdddd;" \| 1111 \|- align="center" \|
-style="background-color:#efefef;" \| [Dwarf](Dwarf "wikilink") \|
+style="background-color:#efefef;" \| [Dwarf](Dwarf "wikilink") .md\|
 Dwarven \| <span style="display:none">2</span>S \|
 style="background-color:#ffdddd;" \| 15 \| 12 \|
 style="background-color:#ffdddd;" \| 13 \| 13 \|
@@ -94,15 +95,15 @@ style="background-color:#efefef;" \| [Elf](Elf "wikilink") \| Faerie \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffdddd;" \| 13 \|
 style="background-color:#ffdddd;" \| 14 \| 12 \| 1250 \|- align="center"
-\| style="background-color:#efefef;" \| [Ent](Ent "wikilink") \| Common
-\| <span style="display:none">4</span>vL \| 14 \| 13 \|
+\| style="background-color:#efefef;" \| [Ent](Ent "wikilink") .md\|
+Common \| <span style="display:none">4</span>vL \| 14 \| 13 \|
 style="background-color:#ddffdd;" \| 15 \| 8 \|
 style="background-color:#ffffbb;" \| 16 \| 20000 \|- align="center" \|
 style="background-color:#efefef;" \| [Gargoyle](Gargoyle "wikilink") \|
 Beast \| <span style="display:none">3</span>M \|
 style="background-color:#ffdddd;" \| 15 \| 9 \| 9 \| 13 \|
 style="background-color:#ddffdd;" \| 17 \| 2857 \|- align="center" \|
-style="background-color:#efefef;" \| [Giants](Giants "wikilink") \|
+style="background-color:#efefef;" \| [Giants](Giants "wikilink") .md\|
 Giantish \| <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17 \| 9 \| 9 \| 11 \|
 style="background-color:#ddffdd;" \| 17 \| 1428 \|- align="center" \|
@@ -111,7 +112,7 @@ Gnomish \| <span style="display:none">2</span>S \| 13 \| 13 \|
 style="background-color:#ffffbb;" \| 14 \|
 style="background-color:#ffdddd;" \| 14 \| 13 \|
 style="background-color:#ffdddd;" \| 1111 \|- align="center" \|
-style="background-color:#efefef;" \| [Goblin](Goblin "wikilink") \|
+style="background-color:#efefef;" \| [Goblin](Goblin "wikilink") .md\|
 Goblinish \| <span style="display:none">2</span>S \| 11 \| 10 \| 10 \|
 style="background-color:#ffffbb;" \| 15 \| 11 \|
 style="background-color:#c0c0ff;" \| 800 \|- align="center" \|
@@ -119,8 +120,8 @@ style="background-color:#efefef;" \| [Halfling](Halfling "wikilink") \|
 Common \| <span style="display:none">2</span>S \| 11 \| 13 \| 12 \|
 style="background-color:#ffffbb;" \| 15 \| 12 \|
 style="background-color:#ffdddd;" \| 1111 \|- align="center" \|
-style="background-color:#efefef;" \| [Half-Elf](Half-Elf "wikilink") \|
-Common \| <span style="display:none">3</span>M \| 12 \|
+style="background-color:#efefef;" \| [Half-Elf](Half-Elf "wikilink")
+.md\| Common \| <span style="display:none">3</span>M \| 12 \|
 style="background-color:#ffdddd;" \| 14 \|
 style="background-color:#ffdddd;" \| 13 \|
 style="background-color:#ffdddd;" \| 14 \| 12 \|
@@ -129,14 +130,14 @@ style="background-color:#efefef;" \| [Half-Orc](Half-Orc "wikilink") \|
 Common \| <span style="display:none">3</span>M \| 14 \| 12 \| 11 \|
 style="background-color:#ffdddd;" \| 14 \| 14 \|
 style="background-color:#ffdddd;" \| 1111 \|- align="center" \|
-style="background-color:#efefef;" \| [Harpy](Harpy "wikilink") \| Common
-\| <span style="display:none">3</span>M \| 13 \| 13 \| 10 \|
+style="background-color:#efefef;" \| [Harpy](Harpy "wikilink") .md\|
+Common \| <span style="display:none">3</span>M \| 13 \| 13 \| 10 \|
 style="background-color:#ffffbb;" \| 15 \| 13 \| 1515 \|- align="center"
 \| style="background-color:#efefef;" \| [Human](Human "wikilink") \|
 Common \| <span style="display:none">3</span>M \| 13 \| 13 \|
 style="background-color:#ffdddd;" \| 13 \| 13 \| 13 \|
 style="background-color:#ddffdd;" \| 1000 \|- align="center" \|
-style="background-color:#efefef;" \| [Kobold](Kobold "wikilink") \|
+style="background-color:#efefef;" \| [Kobold](Kobold "wikilink") .md\|
 Common \| <span style="display:none">2</span>S \| 10 \| 12 \| 8 \| 13 \|
 11 \| style="background-color:#c0c0ff;" \| 666 \|- align="center" \|
 style="background-color:#efefef;" \| [Kzinti](Kzinti "wikilink") \| Kzin
@@ -145,14 +146,14 @@ style="background-color:#ffdddd;" \| 15 \|
 style="background-color:#ffdddd;" \| 14 \| 10 \|
 style="background-color:#ddffdd;" \| 16 \| 14 \| 1538 \|- align="center"
 \| style="background-color:#efefef;" \|
-[Lizardmen](Lizardmen "wikilink") \| Draconian \|
+[Lizardmen](Lizardmen "wikilink") .md\| Draconian \|
 <span style="display:none">3</span>M \| 14 \| 12 \| 12 \| 12 \|
 style="background-color:#ffffbb;" \| 16 \|
 style="background-color:#ffffbb;"\| 1052 \|- align="center" \|
 style="background-color:#efefef;" \| [Miraar](Miraar "wikilink") \|
 Common \| <span style="display:none">3</span>M \| 12 \| 12 \| 12 \| 12
 \| 12 \| 2857 \|- align="center" \| style="background-color:#efefef;" \|
-[Ogres](Ogres "wikilink") \| Ogrish \|
+[Ogres](Ogres "wikilink") .md\| Ogrish \|
 <span style="display:none">4</span>L \|
 style="background-color:#ffffbb;" \| 16 \| 11 \| 10 \| 13 \|
 style="background-color:#ffffbb;" \| 16 \| 1333 \|- align="center" \|
@@ -162,7 +163,7 @@ style="background-color:#ffdddd;" \| 15 \| 11 \| 10 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffdddd;" \| 15 \| 1176 \|- align="center" \|
 style="background-color:#efefef;" \| [Troglodyte](Troglodyte "wikilink")
-\| Trog \| <span style="display:none">3</span>M \|
+.md\| Trog \| <span style="display:none">3</span>M \|
 style="background-color:#ffdddd;" \| 15 \| 10 \| 11 \|
 style="background-color:#ffdddd;" \| 14 \|
 style="background-color:#ffdddd;" \| 15 \|
@@ -171,39 +172,39 @@ style="background-color:#ffffbb;" \| 1052 \|}
 align="center" \|+
 <big>**[Evolutionary](:Category:_Evolutionary_Races "wikilink") Races
 Summary**</big> \|- ! Race ! style="background:#efefef;" \|
-[Language](:Category:_Languages "wikilink") !
-style="background:#efefef;" \| [Size](Racial_Size "wikilink") !
-style="background:#efefef;" \| [Str](Strength "wikilink") !
-style="background:#efefef;" \| [Int](Intelligence "wikilink") !
-style="background:#efefef;" \| [Wis](Wisdom "wikilink") !
-style="background:#efefef;" \| [Dex](Dexterity "wikilink") !
-style="background:#efefef;" \| [Con](Constitution "wikilink") !
-style="background:#efefef;" \| [TNL](TNL "wikilink") \|- align="center"
-\| style="background-color:#efefef;" \|
+[Language](:Category:_Languages.md "wikilink") !
+style="background:#efefef;" \| [Size](Racial_Size.md "wikilink") !
+style="background:#efefef;" \| [Str](Strength.md "wikilink") !
+style="background:#efefef;" \| [Int](Intelligence.md "wikilink") !
+style="background:#efefef;" \| [Wis](Wisdom.md "wikilink") !
+style="background:#efefef;" \| [Dex](Dexterity.md "wikilink") !
+style="background:#efefef;" \| [Con](Constitution.md "wikilink") !
+style="background:#efefef;" \| [TNL](TNL "wikilink") .md\|-
+align="center" \| style="background-color:#efefef;" \|
 [Firedrakes](Firedrakes "wikilink")<sup>1</sup> \| Draconian \|
 <span style="display:none">1</span>vS \| 12 \| 12 \| 12 \| 13 \| 12 \|
 8333 \|- align="center" \| style="background-color:#efefef;" \|
-[Imps](Imps "wikilink")<sup>1</sup> \| Common \|
+[Imps](Imps "wikilink")<sup>1</sup> .md\| Common \|
 <span style="display:none">1</span>vS \| 10 \| 10 \| 10 \| 13 \| 10 \|
 5000 \|}  
 {\|class="sortable" border="2" cellpadding="0" cellspacing="0"
 align="center" \|+ <big>**[Remort](:Category:_Remort_Races "wikilink")
 Races Summary**</big> \|- ! Race ! style="background:#efefef;" \|
-[Language](:Category:_Languages "wikilink") !
-style="background:#efefef;" \| [Size](Racial_Size "wikilink") !
-style="background:#efefef;" \| [Str](Strength "wikilink") !
-style="background:#efefef;" \| [Int](Intelligence "wikilink") !
-style="background:#efefef;" \| [Wis](Wisdom "wikilink") !
-style="background:#efefef;" \| [Dex](Dexterity "wikilink") !
-style="background:#efefef;" \| [Con](Constitution "wikilink") !
-style="background:#efefef;" \| [TNL](TNL "wikilink") \|- align="center"
-\| style="background-color:#efefef;" \|
+[Language](:Category:_Languages.md "wikilink") !
+style="background:#efefef;" \| [Size](Racial_Size.md "wikilink") !
+style="background:#efefef;" \| [Str](Strength.md "wikilink") !
+style="background:#efefef;" \| [Int](Intelligence.md "wikilink") !
+style="background:#efefef;" \| [Wis](Wisdom.md "wikilink") !
+style="background:#efefef;" \| [Dex](Dexterity.md "wikilink") !
+style="background:#efefef;" \| [Con](Constitution.md "wikilink") !
+style="background:#efefef;" \| [TNL](TNL "wikilink") .md\|-
+align="center" \| style="background-color:#efefef;" \|
 [Demonseed](Demonseed "wikilink") \| Common \|
 <span style="display:none">2</span>S \| 12 \|
 style="background-color:#ffdddd;" \| 14 \| 11 \|
 style="background-color:#c0c0ff;" \| 18 \| 12 \| 1515 \|- align="center"
-\| style="background-color:#efefef;" \| [Dragon](Dragon "wikilink") \|
-Draconian \| <span style="display:none">4</span>vL \|
+\| style="background-color:#efefef;" \| [Dragon](Dragon "wikilink")
+.md\| Draconian \| <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17 \|
 style="background-color:#ddffdd;" \| 16 \|
 style="background-color:#ffdddd;" \| 13 \|
@@ -214,7 +215,7 @@ Faerie \| <span style="display:none">4</span>L \| 14 \|
 style="background-color:#ffdddd;" \| 14 \|
 style="background-color:#ffffbb;" \| 14 \|
 style="background-color:#c0c0ff;" \| 17 \| 14 \| 2857 \|- align="center"
-\| style="background-color:#efefef;" \| [Gith](Gith "wikilink") \|
+\| style="background-color:#efefef;" \| [Gith](Gith "wikilink") .md\|
 Common \| <span style="display:none">3</span>M \| 14 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffffbb;" \| 14 \| 13 \| 14 \| 1666 \|-
@@ -223,7 +224,7 @@ align="center" \| style="background-color:#efefef;" \|
 <span style="display:none">4</span>L \|
 style="background-color:#ddffdd;" \| 17 \| 9 \| 9 \| 13 \|
 style="background-color:#ffffbb;" \| 16 \| 2000 \|- align="center" \|
-style="background-color:#efefef;" \| [Griffon](Griffon "wikilink") \|
+style="background-color:#efefef;" \| [Griffon](Griffon "wikilink") .md\|
 Beast \| <span style="display:none">4</span>L \|
 style="background-color:#ffdddd;" \| 15 \|
 style="background-color:#ffffbb;" \| 15 \|
@@ -236,7 +237,7 @@ style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ddffdd;" \| 15 \|
 style="background-color:#ffffbb;" \| 15 \| 12 \| 2000 \|- align="center"
 \| style="background-color:#efefef;" \|
-[Hobgoblin](Hobgoblin "wikilink") \| Goblinish \|
+[Hobgoblin](Hobgoblin "wikilink") .md\| Goblinish \|
 <span style="display:none">2</span>S \| 12 \| 11 \| 11 \|
 style="background-color:#ffffbb;" \| 15 \| 12 \|
 style="background-color:#ddffdd;" \| 1000 \|- align="center" \|
@@ -246,8 +247,8 @@ style="background-color:#ffdddd; \| 15 \|
 style="background-color:#ffdddd; \| 14 \|
 style="background-color:#ffdddd;" \| 13 \| 12 \|
 style="background-color:#ffdddd;" \| 15 \| 2857 \|- align="center" \|
-style="background-color:#efefef;" \| [Minotaur](Minotaur "wikilink") \|
-Beast \| <span style="display:none">4</span>L \|
+style="background-color:#efefef;" \| [Minotaur](Minotaur "wikilink")
+.md\| Beast \| <span style="display:none">4</span>L \|
 style="background-color:#ffffbb;" \| 16 \| 12 \| 12 \| 12 \|
 style="background-color:#ffffbb;" \| 16 \| 1428 \|- align="center" \|
 style="background-color:#efefef;" \| [Sprite](Sprite "wikilink") \|
@@ -255,7 +256,7 @@ Faerie \| <span style="display:none">1</span>vS \| 9 \|
 style="background-color:#ddffdd;" \| 16 \| 12 \|
 style="background-color:#ffffbb;" \| 15 \| 10 \|
 style="background-color:#ffffbb;" \| 1052 \|- align="center" \|
-style="background-color:#efefef;" \| [Troll](Troll "wikilink") \|
+style="background-color:#efefef;" \| [Troll](Troll "wikilink") .md\|
 Trollish \| <span style="display:none">4</span>L \|
 style="background-color:#ffdddd;" \| 15 \| 11 \| 11 \| 13 \|
 style="background-color:#ffffbb;" \| 16 \| 1333 \|- align="center" \|
@@ -266,23 +267,23 @@ style="background-color:#ddffdd;" \| 15 \| 12 \|
 style="background-color:#ffffbb;" \| 16 \| 1538 \|}  
 {\|class="sortable" border="2" cellpadding="0" cellspacing="0"
 align="center" \|+ <big>**[ Quest
-Races](:Category:_Quest_Races "wikilink") Summary**</big> \|- ! Race !
-style="background:#efefef;" \|
-[Language](:Category:_Languages "wikilink") !
-style="background:#efefef;" \| [Size](Racial_Size "wikilink") !
-style="background:#efefef;" \| [Str](Strength "wikilink") !
-style="background:#efefef;" \| [Int](Intelligence "wikilink") !
-style="background:#efefef;" \| [Wis](Wisdom "wikilink") !
-style="background:#efefef;" \| [Dex](Dexterity "wikilink") !
-style="background:#efefef;" \| [Con](Constitution "wikilink") !
-style="background:#efefef;" \| [TNL](TNL "wikilink") \|- align="center"
-\| style="background-color:#efefef;" \| [Cloud
+Races](:Category:_Quest_Races.md "wikilink") Summary**</big> \|- ! Race
+! style="background:#efefef;" \|
+[Language](:Category:_Languages.md "wikilink") !
+style="background:#efefef;" \| [Size](Racial_Size.md "wikilink") !
+style="background:#efefef;" \| [Str](Strength.md "wikilink") !
+style="background:#efefef;" \| [Int](Intelligence.md "wikilink") !
+style="background:#efefef;" \| [Wis](Wisdom.md "wikilink") !
+style="background:#efefef;" \| [Dex](Dexterity.md "wikilink") !
+style="background:#efefef;" \| [Con](Constitution.md "wikilink") !
+style="background:#efefef;" \| [TNL](TNL "wikilink") .md\|-
+align="center" \| style="background-color:#efefef;" \| [Cloud
 Giants](Cloud_Giants "wikilink") \| Giantish \|
 <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17? \| 9? \| 9? \| 11? \|
 style="background-color:#ddffdd;" \| 17? \| 1428 \|- align="center" \|
 style="background-color:#efefef;" \| [Fire
-Giants](Fire_Giants "wikilink") \| Giantish \|
+Giants](Fire_Giants "wikilink") .md\| Giantish \|
 <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17? \| 9? \| 9? \| 11? \|
 style="background-color:#ddffdd;" \| 17? \| 1428 \|- align="center" \|
@@ -292,7 +293,7 @@ Giants](Frost_Giants "wikilink") \| Giantish \|
 style="background-color:#ddffdd;" \| 17? \| 9? \| 9? \| 11? \|
 style="background-color:#ddffdd;" \| 17? \| 1428 \|- align="center" \|
 style="background-color:#efefef;" \| [Stone
-Giants](Stone_Giants "wikilink") \| Giantish \|
+Giants](Stone_Giants "wikilink") .md\| Giantish \|
 <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17? \| 9? \| 9? \| 11? \|
 style="background-color:#ddffdd;" \| 17? \| 1428 \|- align="center" \|
@@ -305,7 +306,7 @@ style="background-color:#ffdddd;" \| 13 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffffbb;" \| 16 \| 10000 \|- align="center" \|
 style="background-color:#efefef;" \| [Blue
-Dragons](Blue_Dragons "wikilink") \| Draconian \|
+Dragons](Blue_Dragons "wikilink") .md\| Draconian \|
 <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17 \|
 style="background-color:#ddffdd;" \| 16 \|
@@ -321,7 +322,7 @@ style="background-color:#ffdddd;" \| 13 \|
 style="background-color:#ffffbb;" \| 15 \|
 style="background-color:#ffffbb;" \| 16 \| 10000 \|- align="center" \|
 style="background-color:#efefef;" \| [White
-Dragons](White_Dragons "wikilink") \| Draconian \|
+Dragons](White_Dragons "wikilink") .md\| Draconian \|
 <span style="display:none">4</span>vL \|
 style="background-color:#ddffdd;" \| 17 \|
 style="background-color:#ddffdd;" \| 16 \|
@@ -332,21 +333,22 @@ style="background-color:#ffffbb;" \| 16 \| 10000 \|}
 align="center" \|+
 <big>**[Ascension](:Category:_Ascension_Races "wikilink") Races
 Summary**</big> \|- ! Race ! style="background:#efefef;" \|
-[Language](:Category:_Languages "wikilink") !
-style="background:#efefef;" \| [Size](Racial_Size "wikilink") !
-style="background:#efefef;" \| [Str](Strength "wikilink") !
-style="background:#efefef;" \| [Int](Intelligence "wikilink") !
-style="background:#efefef;" \| [Wis](Wisdom "wikilink") !
-style="background:#efefef;" \| [Dex](Dexterity "wikilink") !
-style="background:#efefef;" \| [Con](Constitution "wikilink") !
-style="background:#efefef;" \| [TNL](TNL "wikilink") \|- align="center"
-\| style="background-color:#efefef;" \| [Demon](Demon "wikilink") \|
-Common \| <span style="display:none">4</span>L \|
+[Language](:Category:_Languages.md "wikilink") !
+style="background:#efefef;" \| [Size](Racial_Size.md "wikilink") !
+style="background:#efefef;" \| [Str](Strength.md "wikilink") !
+style="background:#efefef;" \| [Int](Intelligence.md "wikilink") !
+style="background:#efefef;" \| [Wis](Wisdom.md "wikilink") !
+style="background:#efefef;" \| [Dex](Dexterity.md "wikilink") !
+style="background:#efefef;" \| [Con](Constitution.md "wikilink") !
+style="background:#efefef;" \| [TNL](TNL "wikilink") .md\|-
+align="center" \| style="background-color:#efefef;" \|
+[Demon](Demon "wikilink") \| Common \|
+<span style="display:none">4</span>L \|
 style="background-color:#ffdddd;" \| 15 \|
 style="background-color:#ffdddd;" \| 14 \| 11 \|
 style="background-color:#ddffdd;" \| 16 \| 14 \| 1515 \|- align="center"
-\| style="background-color:#efefef;" \| [Fae](Fae "wikilink") \| Faerie
-\| S \| 13 \| style="background-color:#ddffdd;" \| 16 \|
+\| style="background-color:#efefef;" \| [Fae](Fae "wikilink") .md\|
+Faerie \| S \| 13 \| style="background-color:#ddffdd;" \| 16 \|
 style="background-color:#c0c0ff;" \| 17 \|
 style="background-color:#ddffdd;" \| 16 \| 13 \| 3125 \|}
 

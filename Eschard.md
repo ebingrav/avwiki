@@ -6,18 +6,18 @@ Unenlightened, I will devour your mind!"*
 **Keywords:** Eschard, sprite, leader, psionicist, cultist.  
 **Scan Description:** A handsome sprite, the Cult's Leader, rises off
 the ground.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** evil  
-**[Flags](:Category:_Mob_Types "wikilink"):** aggressive, sentinel,
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** evil  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** aggressive, sentinel,
 psionicist.  
 **Affects:** flying, ??, ??.  
 
 ## Gear
 
 `MobName is using:`  
-<worn around neck>`  `[`(invis)`` ``a`` ``mantle`` ``of`` ``roses`](Mantle_Of_Roses "wikilink")  
-<worn around neck>`  `[`a`` ``black`` ``triple`` ``cape`](Black_Triple_Cape "wikilink")  
-<wielded>`           `[`a`` ``bladed`` ``silver`` ``shield`](Bladed_Silver_Shield "wikilink")
+<worn around neck>`  `[`(invis)`` ``a`` ``mantle`` ``of`` ``roses`](Mantle_Of_Roses.md "wikilink")  
+<worn around neck>`  `[`a`` ``black`` ``triple`` ``cape`](Black_Triple_Cape.md "wikilink")  
+<wielded>`           `[`a`` ``bladed`` ``silver`` ``shield`](Bladed_Silver_Shield.md "wikilink")
 
 `Eschard is carrying:`  
 `     Nothing.`
@@ -32,14 +32,14 @@ cursed area so you can't recall to safety - beware!
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Veil of
-Ecstasy](:Category:Veil_of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A disorderly office
-([cursed](Cursed_Rooms "wikilink"),
-[nospell](Anti-Magic_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-Walking route from [leper](leper "wikilink"): ne2nw.  
+**[Area](:Category:_Areas.md "wikilink"):** [Veil of
+Ecstasy](:Category:Veil_of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A disorderly office
+([cursed](Cursed_Rooms.md "wikilink"),
+[nospell](Anti-Magic_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+Walking route from [leper](leper.md "wikilink"): ne2nw.  
 
 [Category: Mobs In Veil Of
 Ecstasy](Category:_Mobs_In_Veil_Of_Ecstasy "wikilink") [Category:

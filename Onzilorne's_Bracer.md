@@ -8,9 +8,9 @@ Type: armor
 Slot: wrist  
 Weight: 6  
 Flags: magic nolocate  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
 Mob: [Lord Onzilorne](Lord_Onzilorne "wikilink")
 
 ## Comments

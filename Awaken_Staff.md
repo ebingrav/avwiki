@@ -12,10 +12,10 @@ provides work for dryads in need.
 If you have forgotten what type of spirit is presently assisting you,
 recasting the spell will tell you.
 
-Prerequisite(s): [arcane knowledge](Arcane_Knowledge "wikilink"),
-[druidic oath](Druidic_Oath "wikilink").
+Prerequisite(s): [arcane knowledge](Arcane_Knowledge.md "wikilink"),
+[druidic oath](Druidic_Oath.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'awaken staff' <staff>
+Syntax: [cast](Cast.md "wikilink") 'awaken staff' <staff>
 
 Then to interact with the given spirit and convince it to brandish said
 staff; refer to the following list:
@@ -49,8 +49,8 @@ staff; refer to the following list:
 
 <big>**Spirit to Social chart**</big>
 
-See also [Staff Values](Staff_Values "wikilink") and
-[Wands](:Category:_Wands "wikilink").
+See also [Staff Values](Staff_Values.md "wikilink") and
+[Wands](:Category:_Wands.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

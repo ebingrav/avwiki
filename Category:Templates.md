@@ -33,4 +33,4 @@ After that, the page look like this:
 `Then monkeys came.`  
 `And flung poo at him.`
 
-[Templates](Category:_Wiki_Stuff "wikilink")
+[Templates](Category:_Wiki_Stuff.md "wikilink")

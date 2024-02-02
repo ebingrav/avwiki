@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:House_Of_Bandu" title="wikilink">House Of
+<td><p><a href=":Category:House_Of_Bandu.md" title="wikilink">House Of
 Bandu</a></p></td>
-<td><p>(<a href=":Category:Gear_In_House_Of_Bandu"
+<td><p>(<a href=":Category:Gear_In_House_Of_Bandu.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>
@@ -22,9 +22,9 @@ title="wikilink">Gear</a>)</p></td>
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Temple_Of_Gorn" title="wikilink">Temple Of
+<td><p><a href=":Category:Temple_Of_Gorn.md" title="wikilink">Temple Of
 Gorn</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Temple_Of_Gorn"
+<td><p>(<a href=":Category:Gear_In_Temple_Of_Gorn.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

@@ -17,8 +17,8 @@ archaic is the extreme, but it looks like it will be effective enough.*
 **Weight:** 15 lbs  
 **Bases:** 10-12  
 **Flags:** none  
-**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink"))  
+**Area:** [ Glyntaff Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink"))  
 **Mob:**  
 
 ## Comments

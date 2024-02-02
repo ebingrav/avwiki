@@ -1,17 +1,17 @@
-*This [spell](:Category:_Spells "wikilink") brings forth a magical
+*This [spell](:Category:_Spells.md "wikilink") brings forth a magical
 spring from the ground, which has the same properties as a
-[fountain](Fountains "wikilink"). However, as thirst has been banished
-from the realm, this [spell](:Category:_Spells "wikilink") assists only
-the creatures of Avatar.*
+[fountain](Fountains.md "wikilink"). However, as thirst has been
+banished from the realm, this [spell](:Category:_Spells.md "wikilink")
+assists only the creatures of Avatar.*
 
-Prerequisite(s): [Create Water](Create_Water "wikilink").
+Prerequisite(s): [Create Water](Create_Water.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'create spring'.
+Syntax: [cast](Cast.md "wikilink") 'create spring'.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") has no practical
-value at present, as [characters](:Category:_Characters "wikilink") no
-longer suffer from hunger and thirst, though it may provide some degree
-of amusement.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") has no
+practical value at present, as
+[characters](:Category:_Characters.md "wikilink") no longer suffer from
+hunger and thirst, though it may provide some degree of amusement.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

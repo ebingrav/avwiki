@@ -2,11 +2,11 @@
 notices your presence.*
 
 **Keywords:** spirit, child.  
-**[Level](Level "wikilink"):** 16.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[drifter](Drifting_Mobs "wikilink").  
-**Affects:** [fly](Fly "wikilink").  
+**[Level](Level.md "wikilink"):** 16.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[drifter](Drifting_Mobs.md "wikilink").  
+**Affects:** [fly](Fly.md "wikilink").  
 
 ## Gear
 
@@ -14,21 +14,21 @@ notices your presence.*
 `Nothing.`
 
 `The tortured spirit is carrying:`  
-`     (Glowing) `[`ectoplasm`](Ectoplasm "wikilink")
+`     (Glowing) `[`ectoplasm`](Ectoplasm.md "wikilink")
 
 ## Comments
 
-Only one of these [mobs](:Category:_Mobs "wikilink") carries
-[ectoplasm](Ectoplasm "wikilink"); this one is involved in [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")'s [Waterskin
-Quest](Waterskin_Quest "wikilink").
+Only one of these [mobs](:Category:_Mobs.md "wikilink") carries
+[ectoplasm](Ectoplasm.md "wikilink"); this one is involved in [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")'s [Waterskin
+Quest](Waterskin_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")
-([Map](Qanza_Prairie_Map "wikilink")).  
-The tortured spirit [drifts](Drifting_Mobs "wikilink") about Haunted
+**[Area](:Category:_Areas.md "wikilink"):** [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")
+([Map](Qanza_Prairie_Map.md "wikilink")).  
+The tortured spirit [drifts](Drifting_Mobs.md "wikilink") about Haunted
 Rock.
 
 The tortured spirit is portable.

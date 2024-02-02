@@ -1,14 +1,14 @@
 *Solace is the smallest of our Realm's 4 major cities:
-[Midgaard](:Category:_Midgaard "wikilink"), Solace,
-[Cathracharraig](:Category:_Cathracharraig "wikilink") and
-[Mervue](:Category:_Mervue "wikilink"). It is just outside of
-[Nom](Nom "wikilink")'s [Meadow](:Category:_Meadow "wikilink"), and
-enjoys a thriving trade in supplying young adventurers with weapons,
+[Midgaard](:Category:_Midgaard.md "wikilink"), Solace,
+[Cathracharraig](:Category:_Cathracharraig.md "wikilink") and
+[Mervue](:Category:_Mervue.md "wikilink"). It is just outside of
+[Nom](Nom.md "wikilink")'s [Meadow](:Category:_Meadow.md "wikilink"),
+and enjoys a thriving trade in supplying young adventurers with weapons,
 supplies and equipment. A trustworthy money changer used to be found at
 the end of the market to keep gold safe until
-[Kir'tal](Kir'tal "wikilink") opened up [his
-bank](Stonehall_(sw)_(Stonehall) "wikilink") within
-[Stonehall](:Category:_Stonehall "wikilink").*
+[Kir'tal](Kir'tal.md "wikilink") opened up [his
+bank](Stonehall_(sw)_(Stonehall).md "wikilink") within
+[Stonehall](:Category:_Stonehall.md "wikilink").*
 
 **Level Range:** 5-18
 
@@ -16,32 +16,34 @@ bank](Stonehall_(sw)_(Stonehall) "wikilink") within
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): n, 8w, 2s.
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, 2s.
 
-Walking route from [Sol](Sol "wikilink"): 3e, 2s.
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2s.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3n, 3w, s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17w, s, 5w, 3n, 3w,
+s.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Otik
-Sandath](Otik_Sandath "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Otik
+Sandath](Otik_Sandath.md "wikilink").
 
 ## Connections
 
 Solace's most often used connection is from [the White Stone
-Road](:Category:Highways/Great_Wall "wikilink") (entering into the north
-end of the town), but also has useful connections to the
-[Airways](:Category:Airways "wikilink") (reached from the Intersection
-of the Main Road in the centre of town, providing quick routes to the
-other main cities and the [Wildwood](:Category:Wildwood "wikilink") for
-those who can fly) and [Crystalmir
-Lake](:Category:Crystalmir_Lake "wikilink") (from the south end of
-town).
+Road](:Category:Highways/Great_Wall.md "wikilink") (entering into the
+north end of the town), but also has useful connections to the
+[Airways](:Category:Airways.md "wikilink") (reached from the
+Intersection of the Main Road in the centre of town, providing quick
+routes to the other main cities and the
+[Wildwood](:Category:Wildwood.md "wikilink") for those who can fly) and
+[Crystalmir Lake](:Category:Crystalmir_Lake.md "wikilink") (from the
+south end of town).
 
 There also exists several ways into and out of the
-[Orphanage](:Category:Orphanage "wikilink") (the most easily accessible
-being east opposite the Inn of the Last Home), and the entrance to the
-[Catacombs of Solace](:Category:Catacombs_Of_Solace "wikilink") (found
-under the Inn of the Last Home).
+[Orphanage](:Category:Orphanage.md "wikilink") (the most easily
+accessible being east opposite the Inn of the Last Home), and the
+entrance to the [Catacombs of
+Solace](:Category:Catacombs_Of_Solace.md "wikilink") (found under the
+Inn of the Last Home).
 
 ## Navigation
 
@@ -83,7 +85,7 @@ There are perhaps three distinct areas of Solace.
 ## Adventuring
 
 The town of Solace has guards, but no [established
-law](:Category:_Lawful_Areas "wikilink"). Guards will gang up on you
+law](:Category:_Lawful_Areas.md "wikilink"). Guards will gang up on you
 while fighting in town. The guards usually carry enchanted pikes,
 hammers, or longswords, and always black platemail. It should be noted
 that the guards found in the two towers at the corners of the small

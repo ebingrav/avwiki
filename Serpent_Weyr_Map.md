@@ -1,9 +1,9 @@
 `Click to enlarge.`
 
 <figure>
-<img src="Serpent.weyr.jpg" title="Serpent.weyr.jpg" width="650"
-alt="Serpent.weyr.jpg" />
-<figcaption aria-hidden="true">Serpent.weyr.jpg</figcaption>
+<img src="Serpent.weyr.jpg.md" title="Serpent.weyr.jpg.md" width="650"
+alt="Serpent.weyr.jpg.md" />
+<figcaption aria-hidden="true">Serpent.weyr.jpg.md</figcaption>
 </figure>
 
 [Battleground Map](Battleground_Map "wikilink")  

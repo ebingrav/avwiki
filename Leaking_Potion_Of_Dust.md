@@ -5,29 +5,29 @@ full. That is, of course, if one can believe that the potion has a
 magical effect; sometimes, when held to the light, it just looks like a
 pile of dust collected from a forest floor.*
 
-`Level 1 spells of: '`[`cure`` ``serious`](Cure_Serious "wikilink")`'.`
+`Level 1 spells of: '`[`cure`` ``serious`](Cure_Serious.md "wikilink")`'.`
 
 **Keyword(s):** leaking dust potion glass.  
-**[Level(s)](Object_Level "wikilink"):** 16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 See also [Suggested Healing
-Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear "wikilink").
+Gear](Suggested_Spellcasting_Gear#Suggested_Healing_Gear.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ascension
-Woods](:Category:_Ascension_Woods "wikilink")
-([Map](Ascension_Woods_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Magical
+**[Area](:Category:_Areas.md "wikilink"):** [Ascension
+Woods](:Category:_Ascension_Woods.md "wikilink")
+([Map](Ascension_Woods_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Magical
 Creature](Magical_Creature "wikilink").  
 See [Magical Creature](Magical_Creature "wikilink") for more
 information.

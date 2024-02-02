@@ -2,13 +2,13 @@
 as his stolen uniform would suggest.*
 
 **Keywords:** hitman, assassin, guildmaster.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -22,11 +22,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Southwest Tower (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 9s, 8w, \[w\], \[u\],
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Southwest Tower
+(portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 9s, 8w, \[w\], \[u\],
 u.  
 The Hitman is portable.  
 

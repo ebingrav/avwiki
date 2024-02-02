@@ -1,17 +1,18 @@
 *The Curator stands behind his desk, looking exasperated and mean.*
 
 **Keywords:** curator.  
-**[Level](Level "wikilink"):** 40.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [endurance](Endurance "wikilink").  
+**[Level](Level.md "wikilink"):** 40.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[endurance](Endurance.md "wikilink").  
 
 ## Gear
 
 `The Curator is using:`  
-<worn on body>`      `[`a`` ``Patron's`` ``Robes`](Patron's_Robes "wikilink")
+<worn on body>`      `[`a`` ``Patron's`` ``Robes`](Patron's_Robes.md "wikilink")
 
 `The Curator is carrying:`  
 `     Nothing.`
@@ -20,9 +21,11 @@ invis](Detect_Invis "wikilink"), [endurance](Endurance "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Curator's Study (portable)
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Curator's Study
+(portable)
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 5s, 2e, 2s, w, n,
 u, \[n\], 4n, w, \[n\].

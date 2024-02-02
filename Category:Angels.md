@@ -36,6 +36,6 @@ own problems.
 
 </big>
 
-See also [Immortals](:Category:_Immortals "wikilink")
+See also [Immortals](:Category:_Immortals.md "wikilink")
 
 [Category: Immortals](Category:_Immortals "wikilink")

@@ -11,8 +11,8 @@ the forest itself.*
 ## Gear
 
 `Quercus is using:`  
-<worn on legs>`     `[`claddings`` ``of`` ``plated`` ``toadstools`](Claddings_Of_Plated_Toadstools "wikilink")  
-<wielded>`          `[`a`` ``bone`` ``blowpipe`](Bone_Blowpipe "wikilink")  
+<worn on legs>`     `[`claddings`` ``of`` ``plated`` ``toadstools`](Claddings_Of_Plated_Toadstools.md "wikilink")  
+<wielded>`          `[`a`` ``bone`` ``blowpipe`](Bone_Blowpipe.md "wikilink")  
 <held>`             5 poison darts`
 
 [Category: Mobs In Heartwood](Category:_Mobs_In_Heartwood "wikilink")

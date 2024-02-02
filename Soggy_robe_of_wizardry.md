@@ -9,9 +9,9 @@
 Slot: about body  
 Flags: nolocate  
 Weight: 15  
-Plane: [Astral](:Category:_Astral "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
 Area: [Tssasskkas's Lair
-Redux](:Category:Tssasskkas's_Lair_Redux "wikilink")  
+Redux](:Category:Tssasskkas's_Lair_Redux.md "wikilink")  
 Mob: [The animated corpse of
 Faraday](The_animated_corpse_of_Faraday "wikilink")  
 

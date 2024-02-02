@@ -1,13 +1,14 @@
 ## Confirmed tentacles
 
--   [sash of magnadex tentacles](Sash_Of_Magnadex_Tentacles "wikilink")
--   [mauve mollusc mukluks](Mauve_Mollusc_Mukluks "wikilink")
+-   [sash of magnadex
+    tentacles](Sash_Of_Magnadex_Tentacles.md "wikilink")
+-   [mauve mollusc mukluks](Mauve_Mollusc_Mukluks.md "wikilink")
 -   [ Severed Tentacle of a Soul
-    Squid](Severed_Tentacle_Of_A_Soul_Squid "wikilink")
+    Squid](Severed_Tentacle_Of_A_Soul_Squid.md "wikilink")
 -   [a longbow christened 'True
-    Sight'](Longbow_Christened_'True_Sight' "wikilink") (it comes from a
-    ticket which is a skinned item which is a tentacle!)
--   [an iridescent stalk](Iridescent_Stalk "wikilink")
+    Sight'](Longbow_Christened_'True_Sight'.md "wikilink") (it comes
+    from a ticket which is a skinned item which is a tentacle!)
+-   [an iridescent stalk](Iridescent_Stalk.md "wikilink")
 -   [Luminescent Stalk](Luminescent_Stalk "wikilink")
 -   [Luminous Stalk](Luminous_Stalk "wikilink")
 -   [Lustrous Stalk](Lustrous_Stalk "wikilink")
@@ -17,7 +18,7 @@
 ## To be checked
 
 -   [coiled electrolobe
-    tentacles](Coiled_Electrolobe_Tentacles "wikilink")
+    tentacles](Coiled_Electrolobe_Tentacles.md "wikilink")
 -   [Electro-lobe](Electro-lobe "wikilink")
 
 ## Not Tentacles

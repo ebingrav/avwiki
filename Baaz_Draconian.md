@@ -2,27 +2,27 @@
 heavy robe and hood.*
 
 **Keywords:** robed, baaz, draconian.  
-**[Level](Level "wikilink"):** 9.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 9.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `Baaz Draconian is using:`  
-<worn on body>`      `[`a`` ``Humanskin`` ``vest`](Humanskin_Vest "wikilink")  
-<worn on head>`      `[`a`` ``draconian`` ``helmet`](Draconian_Helmet "wikilink")  
-<wielded>`           `[`a`` ``Footman's`` ``lance`](Footman's_Lance "wikilink")
+<worn on body>`      `[`a`` ``Humanskin`` ``vest`](Humanskin_Vest.md "wikilink")  
+<worn on head>`      `[`a`` ``draconian`` ``helmet`](Draconian_Helmet.md "wikilink")  
+<wielded>`           `[`a`` ``Footman's`` ``lance`](Footman's_Lance.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Crystalmir
-Lake](:Category:_Crystalmir_Lake "wikilink")
-([Map](Crystalmir_Lake_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Twin Flat (portable).  
+**[Area](:Category:_Areas.md "wikilink"):** [Crystalmir
+Lake](:Category:_Crystalmir_Lake.md "wikilink")
+([Map](Crystalmir_Lake_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Twin Flat (portable).  
 Walking route from [Nom](Nom "wikilink"): n, 8w, 12s, 3w, 3n.
 
 Walking route from [Sol](Sol "wikilink"): 3e, 12s, 3w, 3n.

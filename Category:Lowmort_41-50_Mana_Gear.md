@@ -1,7 +1,7 @@
 ## Recommended Gear
 
 Please note that once a character reaches level 47, [Hero
-gear](:Category:Hero_Mana_Gear "wikilink") starts becoming available,
+gear](:Category:Hero_Mana_Gear.md "wikilink") starts becoming available,
 and by level 49, all non-enchanted items are equipable. This list does
 **not** reflect these items, despite their techinically being usable in
 the late 40's of Lowmort.

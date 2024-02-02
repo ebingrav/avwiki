@@ -1,22 +1,23 @@
-*With this [skill](:Category:_Skills "wikilink"), an
-[archer](:Category:_Archers "wikilink") can make an
-[item](:Category:_Objects "wikilink") from the body of a fallen enemy.
-The particular [item](:Category:_Objects "wikilink") created is random;
-the [archer](:Category:_Archers "wikilink") will attempt to make the
-best possible [item](:Category:_Objects "wikilink") with the materials
-available. An [archer](:Category:_Archers "wikilink") may fail entirely
-at this task, yielding only an embarrassing stack of skin and entrails.
-Some [monsters](:Category:_Mobs "wikilink")' corpses will yield [special
-treasures](:Category:_Skin_Items "wikilink") when skinned. A [bowie
-knife](Standard_Issue_Bowie_Knife "wikilink") is necessary to skin a
+*With this [skill](:Category:_Skills.md "wikilink"), an
+[archer](:Category:_Archers.md "wikilink") can make an
+[item](:Category:_Objects.md "wikilink") from the body of a fallen
+enemy. The particular [item](:Category:_Objects.md "wikilink") created
+is random; the [archer](:Category:_Archers.md "wikilink") will attempt
+to make the best possible [item](:Category:_Objects.md "wikilink") with
+the materials available. An [archer](:Category:_Archers.md "wikilink")
+may fail entirely at this task, yielding only an embarrassing stack of
+skin and entrails. Some [monsters](:Category:_Mobs.md "wikilink")'
+corpses will yield [special
+treasures](:Category:_Skin_Items.md "wikilink") when skinned. A [bowie
+knife](Standard_Issue_Bowie_Knife.md "wikilink") is necessary to skin a
 corpse, unless the user has the [racial
-butcher](Racial_Butcher "wikilink") ability.*
+butcher](Racial_Butcher.md "wikilink") ability.*
 
-Prerequisite(s): [Armor Lore](Armor_Lore "wikilink").
+Prerequisite(s): [Armor Lore](Armor_Lore.md "wikilink").
 
-Syntax: [skin](Skin "wikilink") <corpse>.
+Syntax: [skin](Skin.md "wikilink") <corpse>.
 
-See also [Skin Items](:Category:_Skin_Items "wikilink").
+See also [Skin Items](:Category:_Skin_Items.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

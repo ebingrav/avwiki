@@ -1,5 +1,5 @@
 This is a quest that starts in [Sun God
-Altar](:Category:Sun_God_Altar "wikilink") but *may* include other
+Altar](:Category:Sun_God_Altar.md "wikilink") but *may* include other
 areas. Speak to [Ruddloaf Mortlock](Ruddloaf_Mortlock "wikilink") and
 see if he has anything for you to do.
 

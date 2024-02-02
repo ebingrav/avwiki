@@ -8,18 +8,19 @@ messanger pixies.*
 **Keywords:** kreigstadt, mob, dispatcher.  
 **Scan Description:** A serious looking fairy is here, receiving orders
 from Central Dispatch.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** [Invis](Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
+hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
 
 ## Gear
 
 `Kreigstadt Mob Dispatcher is using:`  
-<worn on finger>`    `[`(Dull)`` ``average`` ``Ring`` ``of`` ``Neutrality`](Average_Ring_Of_Neutrality "wikilink")
+<worn on finger>`    `[`(Dull)`` ``average`` ``Ring`` ``of`` ``Neutrality`](Average_Ring_Of_Neutrality.md "wikilink")
 
 `Kreigstadt Mob Dispatcher is carrying:`  
 `     Nothing.`
@@ -28,15 +29,16 @@ invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Saint Of The Blade
-Temple](:Category:_Saint_Of_The_Blade_Temple "wikilink")
-([Map](Saint_Of_The_Blade_Temple_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Slave Quarters
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Ulrich](Ulrich "wikilink"): \[n\], w, 4s, 2w, d, n,
-d, 2e, s.  
-Walking route from [Sasha](Sasha "wikilink"): n, 2w, d, n, d, 2e, s.  
+**[Area](:Category:_Areas.md "wikilink"):** [Saint Of The Blade
+Temple](:Category:_Saint_Of_The_Blade_Temple.md "wikilink")
+([Map](Saint_Of_The_Blade_Temple_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Slave Quarters
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Ulrich](Ulrich.md "wikilink"): \[n\], w, 4s, 2w, d,
+n, d, 2e, s.  
+Walking route from [Sasha](Sasha.md "wikilink"): n, 2w, d, n, d, 2e,
+s.  
 
 [Mobs In Saint Of The Blade
-Temple](Category:_Mobs_In_Saint_Of_The_Blade_Temple "wikilink")
+Temple](Category:_Mobs_In_Saint_Of_The_Blade_Temple.md "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

@@ -54,7 +54,7 @@ known to full-ban entire countries.
 <!-- -->
 
   
-See also: [WIZLIST](wizlist "wikilink").
+See also: [WIZLIST](wizlist.md "wikilink").
 
 ## The Passing of a Great Man
 

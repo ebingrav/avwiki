@@ -4,8 +4,8 @@ Uses 5
 Weight 2  
 Mob: [Shifted-Eyed Merchant](Shifted-Eyed_Merchant "wikilink") (rogue
 guild shopkeeper)  
-Area: [Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink"))  
+Area: [Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink"))  
 
 [Category: Gear In Midgaard](Category:_Gear_In_Midgaard "wikilink")
 [Category: Trap-Disarming

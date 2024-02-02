@@ -10,15 +10,15 @@ this abyss.*
 **Keywords:** High, Drow, Father.  
 **Scan Description:** This father crouches down, running his hands along
 the muddied walls..  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Saintly.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Saintly.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `High Drow Father is using:`  
-<worn on finger>`    `[`A`` ``Large`` ``Ruby`` ``Ring`](Large_Ruby_Ring "wikilink")
+<worn on finger>`    `[`A`` ``Large`` ``Ruby`` ``Ring`](Large_Ruby_Ring.md "wikilink")
 
 `High Drow Father is carrying:`  
 `     Nothing.`
@@ -27,11 +27,11 @@ the muddied walls..
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-High Drow Father [wanders](Wandering_Mobs "wikilink").
+High Drow Father [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

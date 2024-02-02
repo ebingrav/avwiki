@@ -1,13 +1,13 @@
 *Rupture does severe mental damage to the target. If your target is
 attacking YOU, you do extra damage but you take a penalty to your
-[INT](Intelligence "wikilink") for a short period of time. If your
-target is non-[intelligent](Intelligence "wikilink"), you do reduced
+[INT](Intelligence.md "wikilink") for a short period of time. If your
+target is non-[intelligent](Intelligence.md "wikilink"), you do reduced
 damage.*
 
-Prerequisite(s): [Ultrablast](Ultrablast "wikilink").
+Prerequisite(s): [Ultrablast](Ultrablast.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'rupture'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'rupture'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

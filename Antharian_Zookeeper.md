@@ -1,15 +1,16 @@
 *A highly dedicated zookeeper, this Antharian asks for only a small fee
 of admission to see all the sights of [the wondrous
-zoo](:Category:_Antharia_Zoo "wikilink").*
+zoo](:Category:_Antharia_Zoo.md "wikilink").*
 
 **Keywords:** Antharian, Zookeeper.  
-**[Level](Level "wikilink"):** 80.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[shopkeeper](:Category:_Shopkeepers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"), [protection
-evil](Protection_Evil "wikilink"), [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 80.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[shopkeeper](:Category:_Shopkeepers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
@@ -17,18 +18,18 @@ evil](Protection_Evil "wikilink"), [sanctuary](Sanctuary "wikilink").
 `Nothing.`
 
 `Antharian Zookeeper is carrying:                                                     [Lv Price]`  
-`     `[`a`` ``zoo`` ``pass`](Zoo_Pass "wikilink")`                                                                      [ 0    13]`
+`     `[`a`` ``zoo`` ``pass`](Zoo_Pass.md "wikilink")`                                                                      [ 0    13]`
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Antharia
-Zoo](:Category:_Antharia_Zoo "wikilink")
-([Map](Antharia_Zoo_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Zoo gate (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 35s, 2w, d, 2n, 3e, 5n,
-3e. (note: crosses [water terrain](Water_Terrain "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [Antharia
+Zoo](:Category:_Antharia_Zoo.md "wikilink")
+([Map](Antharia_Zoo_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Zoo gate (portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 35s, 2w, d, 2n, 3e,
+5n, 3e. (note: crosses [water terrain](Water_Terrain.md "wikilink"))  
 Antharian Zookeeper is portable.  
 
 [Category: Mobs In Antharia

@@ -1,29 +1,30 @@
 *Some brass gauntlets are against the wall here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-7.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 5 continuous.`  
-`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw "wikilink")` by -5 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-7.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 5 continuous.`  
+`Modifies `[`save`` ``vs`` ``spell`](Saving_Throw.md "wikilink")` by -5 continuous.`
 
 **Keyword(s):** gauntlets, brass.  
-**[Level(s)](Object_Level "wikilink"):** 26-28.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on hands>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 26-28.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on hands>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Ofcol](:Category:_Ofcol "wikilink") ([Map](Ofcol_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain
-Jacklyn](Captain_Jacklyn "wikilink").  
-See [Captain Jacklyn](Captain_Jacklyn "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):**
+[Ofcol](:Category:_Ofcol.md "wikilink")
+([Map](Ofcol_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain
+Jacklyn](Captain_Jacklyn.md "wikilink").  
+See [Captain Jacklyn](Captain_Jacklyn.md "wikilink") for more
 information.  
 
 [Category: Gear In Ofcol](Category:_Gear_In_Ofcol "wikilink") [Category:

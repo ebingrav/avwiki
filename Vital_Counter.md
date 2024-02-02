@@ -1,9 +1,10 @@
-*Once [practiced](Practice "wikilink"), this
-[skill](:Category:_Skills "wikilink") allows the
-[Shadowfist](:Category:_Shadowfists "wikilink") to attempt a [vital
-shot](Vital_Shot "wikilink") when making a counterattack. This is
-automatic as long as the [Shadowfist](:Category:_Shadowfists "wikilink")
-is attempting a standard or crush counter.*
+*Once [practiced](Practice.md "wikilink"), this
+[skill](:Category:_Skills.md "wikilink") allows the
+[Shadowfist](:Category:_Shadowfists.md "wikilink") to attempt a [vital
+shot](Vital_Shot.md "wikilink") when making a counterattack. This is
+automatic as long as the
+[Shadowfist](:Category:_Shadowfists.md "wikilink") is attempting a
+standard or crush counter.*
 
 Prerequisite(s): none.
 

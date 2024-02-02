@@ -1,36 +1,37 @@
-*All [mages](:Category:_Mages "wikilink") learn some magic that
+*All [mages](:Category:_Mages.md "wikilink") learn some magic that
 harnesses the power of the sky, but only a few have the dedication to
 become Stormlords. Masters of the weather, Stormlords wield a unique
 arsenal of sustained damage-over-time spells. They are tougher than
-[mages](:Category:_Mages "wikilink"), but give up some of their
-[surging](Surge "wikilink") power as they favor more reliable,
+[mages](:Category:_Mages.md "wikilink"), but give up some of their
+[surging](Surge.md "wikilink") power as they favor more reliable,
 consistant damage.*
 
-*Like all [Prestige Classes](:Category:_Prestige_Classes "wikilink"),
-they retain the [original class](:Category:_Core_Classes "wikilink")'s
-[Prime Requisite](Prime_Requisite "wikilink"), in this case,
-[Intelligence](Intelligence "wikilink"). Stormlords find the magic of
-[Sorcerors](:Category:_Sorcerers "wikilink") to be a perversion of
+*Like all [Prestige Classes](:Category:_Prestige_Classes.md "wikilink"),
+they retain the [original
+class](:Category:_Core_Classes.md "wikilink")'s [Prime
+Requisite](Prime_Requisite.md "wikilink"), in this case,
+[Intelligence](Intelligence.md "wikilink"). Stormlords find the magic of
+[Sorcerors](:Category:_Sorcerers.md "wikilink") to be a perversion of
 nature, and thus never gain access to that [Remort
-Class](:Category:_Remort_Classes "wikilink").*
+Class](:Category:_Remort_Classes.md "wikilink").*
 
 **Abbreviation:** Stm.
 
-**[Base Class](:Category:_Core_Classes "wikilink"):**
-[Mage](:Category:_Mages "wikilink").
+**[Base Class](:Category:_Core_Classes.md "wikilink"):**
+[Mage](:Category:_Mages.md "wikilink").
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Intelligence](Intelligence "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Intelligence](Intelligence.md "wikilink").
 
 ## Stormlords in General
 
 Stormlords are very similar to their parent class
-([Mages](:Category:_Mages "wikilink")) until hero level 101, where they
-begin to differ. For a guide how to play a stormlord up to hero 101, see
-the article on [Mages](:Category:_Mages "wikilink").
+([Mages](:Category:_Mages.md "wikilink")) until hero level 101, where
+they begin to differ. For a guide how to play a stormlord up to hero
+101, see the article on [Mages](:Category:_Mages.md "wikilink").
 
 After hero 101 stormlords focus on [sustained
-spells](:Category:Stormlord_Class_Definers "wikilink"). These spells
+spells](:Category:Stormlord_Class_Definers.md "wikilink"). These spells
 require the caster to stand still and not enter any commands except
 *look*, *score*, *gtalk*, *time* and similar - even *group*, *buddytalk*
 or *scan* will break the maintained spells, for example. In return,
@@ -62,12 +63,12 @@ help all the other players with regeneration.
 
 To become a Stormlord you need to have three requirements:
 
-1.  Level 50 [Mage](:Category:_Mages "wikilink").
-2.  A race without the [no-sun racial](Racial_Nosun "wikilink").
+1.  Level 50 [Mage](:Category:_Mages.md "wikilink").
+2.  A race without the [no-sun racial](Racial_Nosun.md "wikilink").
     [Gargoyles](Gargoyles "wikilink") are exempt from the no-sun rule,
     however. (Incidentally, Stormlords,
-    [Rippers](:Category:Rippers "wikilink") and
-    [Viziers](:Category:Viziers "wikilink") are the only prestige
+    [Rippers](:Category:Rippers.md "wikilink") and
+    [Viziers](:Category:Viziers.md "wikilink") are the only prestige
     classes gargoyles are applicable for, and they actually make decent
     stm.)
 3.  The weather must be stormy (lightning). To accomplish this, cast
@@ -77,8 +78,8 @@ To become a Stormlord you need to have three requirements:
 
 Once these requirements have been met, seek out
 [Yazimetra](Yazimetra "wikilink") in the
-[Airways](:Category:Airways "wikilink") (portable), and she will induct
-you.
+[Airways](:Category:Airways.md "wikilink") (portable), and she will
+induct you.
 
 ## Stormlords at Hero Tier
 
@@ -93,8 +94,8 @@ Akin to most casters, train wisdom first (to get more practice points),
 then intelligence (for more mana points) and finally constitution (for
 more hp points). Leave strength and dexterity for when you can afford
 the practices, as dexterity only modifies your
-[AC](Armor_Class "wikilink") and strength gives a minor boost to melee
-damage and the carry capacity.
+[AC](Armor_Class.md "wikilink") and strength gives a minor boost to
+melee damage and the carry capacity.
 
 ### Practicing
 
@@ -126,8 +127,8 @@ Once hero 101+ these major spells are available:
 
 ### Devoting
 
-See [Mages and Worship](:Category:Mages#Worshipping "wikilink") and
-[Mages and Devoting](:Category:Mages#Devoting "wikilink").
+See [Mages and Worship](:Category:Mages#Worshipping.md "wikilink") and
+[Mages and Devoting](:Category:Mages#Devoting.md "wikilink").
 
 It is important to have in mind that stormlords are more party-friendly
 than regular mages or wizards. They have more HP, less mana, cheaper
@@ -152,8 +153,8 @@ This is because:
 ### Fighting
 
 **Soloing:** Until Hero 101, stormlords solo [identical to
-mages](:Category:Mages#Fighting_2 "wikilink"). Once they practice their
-weather spells, use those instead.
+mages](:Category:Mages#Fighting_2.md "wikilink"). Once they practice
+their weather spells, use those instead.
 
 It is critical to realize that sustained spells only work if the
 stormlord is not interrupted! This means if the mobs attack before the

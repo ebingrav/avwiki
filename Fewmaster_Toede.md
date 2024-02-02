@@ -3,16 +3,16 @@ skin, double chins, and pot belly all resemble those of a vicious little
 toad.*
 
 **Keywords:** Fewmaster, Toede.  
-**[Level](Level "wikilink"):** 5.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** very aggressive.  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 5.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** very aggressive.  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Fewmaster Toede is using:`  
-<worn on body>`      `[`leather`` ``armor`](Leather_Armor "wikilink")  
-<wielded>`           `[`chamorro`` ``Dagger`](Chamorro_Dagger "wikilink")
+<worn on body>`      `[`leather`` ``armor`](Leather_Armor.md "wikilink")  
+<wielded>`           `[`chamorro`` ``Dagger`](Chamorro_Dagger.md "wikilink")
 
 `Fewmaster Toede is carrying:`  
 `     Nothing.`
@@ -21,10 +21,10 @@ toad.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Crystalmir
-Lake](:Category:_Crystalmir_Lake "wikilink")
-([Map](Crystalmir_Lake_Map "wikilink")).  
-Fewmaster Toede [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Crystalmir
+Lake](:Category:_Crystalmir_Lake.md "wikilink")
+([Map](Crystalmir_Lake_Map.md "wikilink")).  
+Fewmaster Toede [wanders](Wandering_Mobs.md "wikilink").  
 Fewmaster Toede is (usually) portable.  
 
 [Category: Mobs In Crystalmir

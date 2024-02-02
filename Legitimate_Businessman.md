@@ -13,14 +13,15 @@ better mood. Do you see what I have to put up with?"*
 `Nothing.`
 
 `The legitimate businessman is carrying:                                    [Lv Price]`  
-`     `[`a`` ``burlap`` ``sack`](Burlap_Sack "wikilink")`                                                         [ 0    15]`  
-`     `[`a`` ``large`` ``wooden`` ``crate`](Large_Wooden_Crate "wikilink")`                                                  [ 0    13]`
+`     `[`a`` ``burlap`` ``sack`](Burlap_Sack.md "wikilink")`                                                         [ 0    15]`  
+`     `[`a`` ``large`` ``wooden`` ``crate`](Large_Wooden_Crate.md "wikilink")`                                                  [ 0    13]`
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink").  
-**[Room](:Category:_Rooms "wikilink"):** A bare storefront (portable).  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink").  
+**[Room](:Category:_Rooms.md "wikilink"):** A bare storefront
+(portable).  
 The legitimate businessman is portable.  
 
 [Category: Mobs In Midgaard](Category:_Mobs_In_Midgaard "wikilink")

@@ -6,17 +6,17 @@ the clouds, and the storm begins to emerge.*
 `Modifies hit roll by 5 continuous`
 
 **Keyword(s):** stormfront, dark, clouds.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[reinforced](Reinforced_Flag "wikilink"),
-[spiritlink](Spiritlink_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[reinforced](Reinforced_Flag.md "wikilink"),
+[spiritlink](Spiritlink_Flag.md "wikilink").  
 **Mob:** [Lumoloth](Lumoloth "wikilink")  
 
 ## Comments
@@ -30,8 +30,8 @@ skinned it, pay attention to following:
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Rim](:Category:_Rim "wikilink") ([map](Rim_Map "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Rim](:Category:_Rim.md "wikilink") ([map](Rim_Map.md "wikilink"))  
 
 [Category: Gear In Rim](Category:_Gear_In_Rim "wikilink") [Category:
 Lights](Category:_Lights "wikilink") [Category: Hero Archer

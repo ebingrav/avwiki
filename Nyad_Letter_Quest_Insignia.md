@@ -16,7 +16,7 @@ From 'Help Nyad Letter Quest'
 `  `  
 `NOTE: This quest was written for players of upto level 19.`
 
-This [quest](Nyad_Letter_Quest "wikilink"), if completed can give you
+This [quest](Nyad_Letter_Quest.md "wikilink"), if completed can give you
 any of the following insignias, depending on your actions during the
 quest:
 

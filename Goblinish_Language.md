@@ -9,17 +9,17 @@
 ` * Common:     `*`The`` ``quick`` ``brown`` ``fox`` ``jumped`` ``over`` ``the`` ``lazy`` ``dog.`*  
 ` * Goblinish:  `*`De`` ``kunk`` ``bahuvni`` ``ifuk`` ``gunepet`` ``ueveh`` ``de`` ``disi`` ``tugu.`*
 
-[Races](:Category:_Races "wikilink") that [speak](Speak "wikilink")
-Goblinish:
+[Races](:Category:_Races.md "wikilink") that
+[speak](Speak.md "wikilink") Goblinish:
 
--   [Goblins](Goblins "wikilink").
-
-<!-- -->
-
--   [Hobgoblins](Hobgoblins "wikilink").
+-   [Goblins](Goblins.md "wikilink").
 
 <!-- -->
 
--   [Kobolds](Kobolds "wikilink").
+-   [Hobgoblins](Hobgoblins.md "wikilink").
+
+<!-- -->
+
+-   [Kobolds](Kobolds.md "wikilink").
 
 [Category: Languages](Category:_Languages "wikilink")

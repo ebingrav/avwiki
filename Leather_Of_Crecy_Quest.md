@@ -1,10 +1,10 @@
-Teleport to [Nenba](Nenba_The_Archer "wikilink") to reach [Bloodsong
-Island.](:Category:Bloodsong_Island "wikilink") Skin the corpses of the
-4 bloodlusters for scraps of minotaur leather. You need one small scrap,
-one thin scrap, one thick scrap, and one big scrap. Then get the scrap
-of paper from [Gorre The
+Teleport to [Nenba](Nenba_The_Archer.md "wikilink") to reach [Bloodsong
+Island.](:Category:Bloodsong_Island.md "wikilink") Skin the corpses of
+the 4 bloodlusters for scraps of minotaur leather. You need one small
+scrap, one thin scrap, one thick scrap, and one big scrap. Then get the
+scrap of paper from [Gorre The
 Slaughterkhan](Gorre_The_Slaughterkhan "wikilink"). Then give the paper
-to [Nenba](Nenba_The_Archer "wikilink") and she will make it for you.
+to [Nenba](Nenba_The_Archer.md "wikilink") and she will make it for you.
 
 The 4 bloodlusters have different room descriptions:
 

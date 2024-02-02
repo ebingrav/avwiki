@@ -1,13 +1,13 @@
-*Chant allows [priests](:Category:_Priests "wikilink") to
-[preach](Preach "wikilink") any movement-related or [curative
-spell](:Category:_Skills_And_Spells_That_Heal_Characters "wikilink")
-(example: [pass door](Pass_Door "wikilink"), [pure
-touch](Pure_Touch "wikilink")).*
+*Chant allows [priests](:Category:_Priests.md "wikilink") to
+[preach](Preach.md "wikilink") any movement-related or [curative
+spell](:Category:_Skills_And_Spells_That_Heal_Characters.md "wikilink")
+(example: [pass door](Pass_Door.md "wikilink"), [pure
+touch](Pure_Touch.md "wikilink")).*
 
-Prerequisite(s): [Preach](Preach "wikilink").
+Prerequisite(s): [Preach](Preach.md "wikilink").
 
-Syntax: [preach](Preach "wikilink")
-\<[spell](:Category:_Spells "wikilink")\>.
+Syntax: [preach](Preach.md "wikilink")
+\<[spell](:Category:_Spells.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Priest

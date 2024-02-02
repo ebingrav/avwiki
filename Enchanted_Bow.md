@@ -7,8 +7,8 @@ Weight: ?
 Damage Range: 7 - 21  
 Type: Ranged, short bow  
 Mob: Townguard  
-Area: [Town of Solace](:Category:_Town_Of_Solace "wikilink")
-([Map](Town_Of_Solace_Map "wikilink"))  
+Area: [Town of Solace](:Category:_Town_Of_Solace.md "wikilink")
+([Map](Town_Of_Solace_Map.md "wikilink"))  
 
 [Category: Gear In Town Of
 Solace](Category:_Gear_In_Town_Of_Solace "wikilink") [Category: Short

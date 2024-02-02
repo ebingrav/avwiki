@@ -26,9 +26,9 @@ Walkthrough:
 
 The following portions will take the group through the ship. Ship is
 highly aggie, with a lot of wandering [undead
-sailors](Undead_Sailor "wikilink") (can be 5+ in a room) which wield
-[narrow blades](Narrow_Blade "wikilink"). Also, mobs here will spawn NEW
-versions of themselves upon death, fortunately those will not have
+sailors](Undead_Sailor.md "wikilink") (can be 5+ in a room) which wield
+[narrow blades](Narrow_Blade.md "wikilink"). Also, mobs here will spawn
+NEW versions of themselves upon death, fortunately those will not have
 wields. All see through hidden/invisible. Entire ship is also no-regen,
 so no point in sleeping.
 

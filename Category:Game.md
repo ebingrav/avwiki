@@ -1,11 +1,11 @@
 *Some say that we are all merely pawns in a grand chess game played by
-the [Immortals](:Category:_Immortals "wikilink"). Some say that even the
-greatest of our Realm's [Heroes](:Category:_Hero "wikilink") and [Lords
-and Ladies](:Category:Lord "wikilink") are merely playing pieces of the
-[Great Gods](:Category:_Gods_And_Goddesses "wikilink") upon the
-Chessboard of Destiny. Others say this chessboard floats on a cloud over
-[Midgaard](:Category:_Midgaard "wikilink"), but few believe such a crazy
-tale.*
+the [Immortals](:Category:_Immortals.md "wikilink"). Some say that even
+the greatest of our Realm's [Heroes](:Category:_Hero.md "wikilink") and
+[Lords and Ladies](:Category:Lord.md "wikilink") are merely playing
+pieces of the [Great Gods](:Category:_Gods_And_Goddesses.md "wikilink")
+upon the Chessboard of Destiny. Others say this chessboard floats on a
+cloud over [Midgaard](:Category:_Midgaard.md "wikilink"), but few
+believe such a crazy tale.*
 
 **Level Range:** 51-51
 
@@ -13,17 +13,18 @@ tale.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 5w, 2n, w, 3n, {w}, {s},
-{s}, u, s, 5u, w, s, e, 2s, 2e, \[u\], 5u.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5w, 2n, w, 3n, {w},
+{s}, {s}, u, s, 5u, w, s, e, 2s, 2e, \[u\], 5u.
 
-Walking route from [fat gargoyle](Fat_Gargoyle "wikilink"): \[u\], 5u.
+Walking route from [fat gargoyle](Fat_Gargoyle.md "wikilink"): \[u\],
+5u.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 
--   [Temple Spires](:Category:Temple_Spires "wikilink")
-    ([map](Temple_Spires_Map "wikilink"))
+-   [Temple Spires](:Category:Temple_Spires.md "wikilink")
+    ([map](Temple_Spires_Map.md "wikilink"))
 
 ## Navigation
 

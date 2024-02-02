@@ -1,15 +1,15 @@
 *Those adept at following tracks learn a trick or two when called upon
 to obscure their own. The use of this
-[skill](:Category:_Skills "wikilink") can throw off pursuers who are
+[skill](:Category:_Skills.md "wikilink") can throw off pursuers who are
 following the user after a battle. The odds of success are based upon
-the victims' [race](:Category:_Races "wikilink") and
-[class](:Category:_Classes "wikilink"). Beasts and
-[Psions](:Category:_Psionicists "wikilink") are particularly hard to
+the victims' [race](:Category:_Races.md "wikilink") and
+[class](:Category:_Classes.md "wikilink"). Beasts and
+[Psions](:Category:_Psionicists.md "wikilink") are particularly hard to
 lose. It only works on enemies who are hunting a player, not currently
-fighting, and in the same [area](:Category:_Areas "wikilink") (but not
-the same [room](:Category:_Rooms "wikilink")) as their target.*
+fighting, and in the same [area](:Category:_Areas.md "wikilink") (but
+not the same [room](:Category:_Rooms.md "wikilink")) as their target.*
 
-Prerequisite(s): [Woodcraft](Woodcraft "wikilink").
+Prerequisite(s): [Woodcraft](Woodcraft.md "wikilink").
 
 Syntax: cover tracks.
 

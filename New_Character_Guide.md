@@ -22,8 +22,9 @@ there’s no one right answer however with the choices below you won’t go
 wrong:
 
 -   **Just getting started and want to check out the game to see if you
-    like it?** I’d recommend going **[Lizardman](Lizardmen "wikilink")
-    [Warrior](:Category:_Warriors "wikilink")**. Warriors have the
+    like it?** I’d recommend going
+    **[Lizardman](Lizardmen.md "wikilink")
+    [Warrior](:Category:_Warriors.md "wikilink")**. Warriors have the
     easiest early game experience with their high damage output and high
     hit points and they excel at both hitting and tanking. Lizardmen
     receive high hp gains and have [Racial
@@ -31,17 +32,17 @@ wrong:
     to damage received. Other recommend races to start with are Orc
     (higher damage output) or if you are thinking of going for one of
     the Warrior prestige classes
-    ([Bodyguard](:Category:_Bodyguards "wikilink") or
-    [Ripper](:Category:_Rippers "wikilink")), then Ogre is a good choice
-    with the downside that they have a higher TNL (if going Ogre
+    ([Bodyguard](:Category:_Bodyguards.md "wikilink") or
+    [Ripper](:Category:_Rippers.md "wikilink")), then Ogre is a good
+    choice with the downside that they have a higher TNL (if going Ogre
     Bodyguard, only train your Intelligence to 15).
 
 <!-- -->
 
 -   **Are you enjoying the game and want to get into the hero
     gameplay?** I’d recommend going **[Dwarf](Dwarf "wikilink")
-    [Archer](:Category:_Archers "wikilink")** and then becoming a
-    **[Fusilier](:Category:_Fusiliers "wikilink")** at level 50. Most
+    [Archer](:Category:_Archers.md "wikilink")** and then becoming a
+    **[Fusilier](:Category:_Fusiliers.md "wikilink")** at level 50. Most
     hero gameplay occurs in groups with other players and until you have
     a large hero, it can be difficult to solo and collect gear for
     yourself. Fusiliers excel at soloing early and having a Fusilier as
@@ -55,7 +56,7 @@ wrong:
 <!-- -->
 
 -   **Do you want to play a spellcaster?** Then I recommend going
-    **[Drow](Drow "wikilink") [Mage](:Category:_Mages "wikilink")**.
+    **[Drow](Drow "wikilink") [Mage](:Category:_Mages.md "wikilink")**.
     Mages (and subsequently Sorcerors and Wizards) become some of the
     strongest classes in the game at Lord however they can be
     challenging for a new player. As a new hero, mages have low hp and
@@ -76,18 +77,18 @@ wrong:
 
 -   **Do you like to heal and support groups?** I’d recommend going
     **[Elf](Elf "wikilink") [Cleric](Cleric "wikilink")** and then
-    becoming a **[Vizier](:Category:_Viziers "wikilink")**. The Vizier
-    class has an interesting healing mechanic. They can mark mobs with
-    the spell “final rites” which then gives a chance of a pool being
-    created on their death. Vizier’s can pop these pools with the spell
-    “sanguen pax”, a powerful healing spell which provides hp to the
-    entire group. Vizier’s receive limited mana compared to other spell
-    casters however they also receive the spell “phlebotomize” which
-    when cast on an enemy near death, will do significant damage while
-    providing mana recovery. The race Elf is recommended as an Elf makes
-    for a good Cleric as well as Druid if the player decides to go those
-    routes instead of Vizier. If one is certain they want to make a
-    Vizier then a [Drow](Drow "wikilink") would be better than an Elf
+    becoming a **[Vizier](:Category:_Viziers.md "wikilink")**. The
+    Vizier class has an interesting healing mechanic. They can mark mobs
+    with the spell “final rites” which then gives a chance of a pool
+    being created on their death. Vizier’s can pop these pools with the
+    spell “sanguen pax”, a powerful healing spell which provides hp to
+    the entire group. Vizier’s receive limited mana compared to other
+    spell casters however they also receive the spell “phlebotomize”
+    which when cast on an enemy near death, will do significant damage
+    while providing mana recovery. The race Elf is recommended as an Elf
+    makes for a good Cleric as well as Druid if the player decides to go
+    those routes instead of Vizier. If one is certain they want to make
+    a Vizier then a [Drow](Drow "wikilink") would be better than an Elf
     for the lower TNL. Additionally, a Gnome would also work. Centaurs
     make for some of the most powerful Druids and Vizier however they
     have a significantly higher TNL and it not recommended for an early
@@ -104,18 +105,18 @@ When choosing a race, there's a few things to consider:
 -   How much HP and Mana will that race have? This is mostly determined
     by Constitution and Intelligence respectively.
 -   Does the race have a [racial armor
-    bonus](:Category:Racial_Armor "wikilink")? This will provide a flat
-    reduction to damage received and keep you alive longer.
+    bonus](:Category:Racial_Armor.md "wikilink")? This will provide a
+    flat reduction to damage received and keep you alive longer.
 -   Does the race have a [racial damage / archer / sneak
-    modifier](:Racial_Combat_Modifier "wikilink")? These will provide
+    modifier](:Racial_Combat_Modifier.md "wikilink")? These will provide
     boosts to your damage depending on your class.
 -   For spellcasters, is the race "nofail" on spells, meaning does it
     have a chance to fail when its casts or will it succeed every time.
     Additionally, do the race receive any special [spell cost reduction
-    modifiers](:Racial_Spell_Cost_Modifier "wikilink"). The lower the
+    modifiers](:Racial_Spell_Cost_Modifier.md "wikilink"). The lower the
     spell cost, the more you can cast!
 -   Do you plan to play one of the [remort
-    races](:Category:Remort_Races "wikilink")? If so, ensure the race
+    races](:Category:Remort_Races.md "wikilink")? If so, ensure the race
     you're playing as meets the remort race conditions.
 
 ## Quests
@@ -168,9 +169,9 @@ choice for its 10% bonus to XP and additional hp gained per level.
 Similarly, for spell casters, Shizaga is a good choice for its 5% bonus
 to XP and additional mana gained per level. You can see a full
 comparison of the gods on the [Worship](Worship "wikilink") page and you
-can visit your [Class](:Category:Classes "wikilink") page for some class
-specific advice. If in doubt, send a message on chat and someone is sure
-to
+can visit your [Class](:Category:Classes.md "wikilink") page for some
+class specific advice. If in doubt, send a message on chat and someone
+is sure to
 
 ### Sanctum
 
@@ -243,7 +244,7 @@ moving up a tier.
     (harder area with great xp, consider grouping)
 -   [Diplomatic Corps](Diplomatic_Corps "wikilink") - level 49
 -   (Optional): Choose your [Prestige
-    Class](:Category:Prestige_Classes "wikilink") at level 50 if you
+    Class](:Category:Prestige_Classes.md "wikilink") at level 50 if you
     plan to
 -   Final [Diplomatic Corps](Diplomatic_Corps "wikilink") quest before
     hero level 9

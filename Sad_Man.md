@@ -2,16 +2,16 @@
 tears.*
 
 **Keywords:** Man, Sad, weeping.  
-**[Level](Level "wikilink"):** 49.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 49.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The Sad Man is using:`  
-<worn on head>`      `[`teardrop`` ``Helm`](Teardrop_Helm "wikilink")
+<worn on head>`      `[`teardrop`` ``Helm`](Teardrop_Helm.md "wikilink")
 
 `The Sad Man is carrying:`  
 `     Nothing.`
@@ -20,16 +20,16 @@ tears.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Downward
-Spiral](:Category:_Downward_Spiral "wikilink")
-([Map](Downward_Spiral_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A Simple Room
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, e,
+**[Area](:Category:_Areas.md "wikilink"):** [Downward
+Spiral](:Category:_Downward_Spiral.md "wikilink")
+([Map](Downward_Spiral_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A Simple Room
+([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n, e,
 2n, 2w, 3n, w, 5n, e, s, quaff from pool, \[d\], n, e, s, \[d\], n, e,
 2s, \[d\], n, e, s, \[d\], n, e, s, \[d\], n, e, s, \[d\], n, e, s,
 \[d\].  
-Walking route from [mudman](Mudman "wikilink"): s, quaff from pool,
+Walking route from [mudman](Mudman.md "wikilink"): s, quaff from pool,
 \[d\], n, e, s, \[d\], n, e, 2s, \[d\], n, e, s, \[d\], n, e, s, \[d\],
 n, e, s, \[d\], n, e, s, \[d\].  
 w/ in-game speedwalk: s=quaff pool=open d=d=n=e=s=o d=d=n=e=s=s=o

@@ -1,7 +1,8 @@
 *Within the bowels of Devil's Peak lies the lair of the
-[demon](Demons "wikilink") [Tssasskkas](Tssasskkas "wikilink"). A mighty
-necromancer, the [demon](Demons "wikilink") is said to raise the bodies
-of those who fall within her realm so that they may serve her forever.*
+[demon](Demons.md "wikilink") [Tssasskkas](Tssasskkas "wikilink"). A
+mighty necromancer, the [demon](Demons.md "wikilink") is said to raise
+the bodies of those who fall within her realm so that they may serve her
+forever.*
 
 **Level Range:** 51-51
 
@@ -9,19 +10,19 @@ of those who fall within her realm so that they may serve her forever.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, n, u, e, u, n, w, s, u, n, u, e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, n, u, e, u, n, w, s, u, n, u, e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Rockfist](Rockfist "wikilink") or [ Spirit
-Tzzan](Spirit_Of_The_Lich "wikilink") (safe room deeper in the lair).
+Tzzan](Spirit_Of_The_Lich.md "wikilink") (safe room deeper in the lair).
 
 ## Connections
 
--   [North Of Ofcol](:Category:_North_Of_Ofcol "wikilink")
-    ([map](North_Of_Ofcol_Map "wikilink")).
--   [Cloud Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-    ([map](Cloud_Dracoleum_Map "wikilink")).
+-   [North Of Ofcol](:Category:_North_Of_Ofcol.md "wikilink")
+    ([map](North_Of_Ofcol_Map.md "wikilink")).
+-   [Cloud Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+    ([map](Cloud_Dracoleum_Map.md "wikilink")).
 
 ## Navigation
 
@@ -31,7 +32,7 @@ Starting from entrance the following sections can be discerned:
 -   Below [Spawner](Spawner "wikilink") (animator), a small underwater
     section with [Cretellis](Cretelli "wikilink") and
     [Mantellis](Mantelli "wikilink") (corpse eaters),
--   The [Spirit of Tzzan](Spirit_Of_The_Lich "wikilink")'s tower,
+-   The [Spirit of Tzzan](Spirit_Of_The_Lich.md "wikilink")'s tower,
     submerged in water with semi-aggressive animated Lord players
     attacking it (stabbers, casters),
 -   A series of tubes - tunnels and slopes, a swarmy section with many
@@ -99,8 +100,8 @@ Beyond this door is the fifth section, a cavern with wyrms (probably
 dragons as they're huge, tail, and don't take much damage), but not as
 swarmy as previous section. The north-western corner of the four Small
 Cavern rooms contains an up exit to [Cloud
-Dracoleum](:Category:Cloud_Dracoleum "wikilink"), landing you one room
-beneath the [Shadow Sovereign](Shadow_Sovereign "wikilink"). To the
+Dracoleum](:Category:Cloud_Dracoleum.md "wikilink"), landing you one
+room beneath the [Shadow Sovereign](Shadow_Sovereign "wikilink"). To the
 south is the second door that requires a rogue(like) groupie to operate
 the lever (Decahedral stone). A BCI can open this door as they are
 roguish enough. Going southwards here is soon a mute room (no chatting!)

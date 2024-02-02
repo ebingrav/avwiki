@@ -1,21 +1,21 @@
 *Aramus gives you a cocky grin. It seems [the High
-Sylph](High_Sylph "wikilink") has smiled on this young
-[elf](Elves "wikilink"), and the forest and the weather come to his
+Sylph](High_Sylph.md "wikilink") has smiled on this young
+[elf](Elves.md "wikilink"), and the forest and the weather come to his
 aide.*
 
 **Keywords:** Aramus, elf.  
-**[Level](Level "wikilink"):** 18.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[electricity-breather](Breathing_Mobs "wikilink").  
-**Affects:** [sneak](Sneak "wikilink").  
+**[Level](Level.md "wikilink"):** 18.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[electricity-breather](Breathing_Mobs.md "wikilink").  
+**Affects:** [sneak](Sneak.md "wikilink").  
 
 ## Gear
 
 `Aramus is using:`  
-<worn on body>`      `[`a`` ``vest`` ``of`` ``Shadow`` ``Dragon`` ``hide`](Vest_Of_Shadow_Dragon_Hide "wikilink")  
-<worn on feet>`      `[`midnight`` ``boots`](Midnight_Boots "wikilink")  
-<wielded>`           `[`the`` ``dagger`` ``"Shadowfang"`](Dagger_"Shadowfang" "wikilink")
+<worn on body>`      `[`a`` ``vest`` ``of`` ``Shadow`` ``Dragon`` ``hide`](Vest_Of_Shadow_Dragon_Hide.md "wikilink")  
+<worn on feet>`      `[`midnight`` ``boots`](Midnight_Boots.md "wikilink")  
+<wielded>`           `[`the`` ``dagger`` ``"Shadowfang"`](Dagger_"Shadowfang".md "wikilink")
 
 `Aramus is carrying:`  
 `     Nothing.`
@@ -24,10 +24,10 @@ aide.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morgan
-Vale](:Category:_Morgan_Vale "wikilink")
-([Map](Morgan_Vale_Map "wikilink")).  
-Aramus [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Morgan
+Vale](:Category:_Morgan_Vale.md "wikilink")
+([Map](Morgan_Vale_Map.md "wikilink")).  
+Aramus [wanders](Wandering_Mobs.md "wikilink").  
 Aramus is portable.  
 
 [Category: Mobs In Morgan

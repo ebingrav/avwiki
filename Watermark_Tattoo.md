@@ -7,8 +7,8 @@ Type: armor
 Slot: arms  
 Extra flags: magic anti-evil  
 Weight: 0  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Plane Of Water](:Category:Plane_Of_Water "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Plane Of Water](:Category:Plane_Of_Water.md "wikilink")  
 Mob: [Water Elemental Ruler](Water_Elemental_Ruler "wikilink")  
 
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ can be as little as a 1 day wait before it clears.
 ------------------------------------------------------------------------
 
 See [Gear In Plane Of
-Water](:Category:Gear_In_Plane_Of_Water "wikilink") for more
+Water](:Category:Gear_In_Plane_Of_Water.md "wikilink") for more
 information.
 
 [Category: Lord Hit Gear](Category:_Lord_Hit_Gear "wikilink")

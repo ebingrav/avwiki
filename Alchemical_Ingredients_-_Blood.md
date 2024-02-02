@@ -7,11 +7,11 @@ Blood Ingredents:
 
 Possibly bloody ingredients - to be checked:
 
--   [pool of fire giant blood](Pool_Of_Fire_Giant_Blood "wikilink")
+-   [pool of fire giant blood](Pool_Of_Fire_Giant_Blood.md "wikilink")
 
 Not Blood Ingredients:
 
--   [ Sorcerer Potions](Blood_Ritual "wikilink")
+-   [ Sorcerer Potions](Blood_Ritual.md "wikilink")
 -   [Vial Of Gish Blood](Vial_Of_Gish_Blood "wikilink")
 -   [Vial Of Ent's Blood](Vial_Of_Ent's_Blood "wikilink")
 -   [Blood Red Potion](Blood_Red_Potion "wikilink")

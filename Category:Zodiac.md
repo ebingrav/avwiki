@@ -19,15 +19,15 @@ to look.*
 Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3s, d, 2s,
 enter pile, 7u, n, enter void.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Goldmoon](Goldmoon "wikilink"), 2s, enter pile, 7u, n, enter void.
 
 ## Connections
 
--   [ Airways](:Category:_Airways "wikilink")
-    ([map](Airways_Map "wikilink")).
--   [World Tree](:Category:_World_Tree "wikilink")
-    ([map](World_Tree_Map "wikilink")).
+-   [ Airways](:Category:_Airways.md "wikilink")
+    ([map](Airways_Map.md "wikilink")).
+-   [World Tree](:Category:_World_Tree.md "wikilink")
+    ([map](World_Tree_Map.md "wikilink")).
 
 ## Navigation
 

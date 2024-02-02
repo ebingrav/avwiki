@@ -1,16 +1,17 @@
-*[Druids](:Category:_Druids "wikilink") who
-[practice](Practice "wikilink") this
-[skill](:Category:_Skills_And_Spells "wikilink") may
-[fletch](Fletch "wikilink") [faerie arrows](Faerie_Arrows "wikilink").*
+*[Druids](:Category:_Druids.md "wikilink") who
+[practice](Practice.md "wikilink") this
+[skill](:Category:_Skills_And_Spells.md "wikilink") may
+[fletch](Fletch.md "wikilink") [faerie
+arrows](Faerie_Arrows.md "wikilink").*
 
-These arrows cast the [faerie fire](Faerie_Fire "wikilink") spell on
+These arrows cast the [faerie fire](Faerie_Fire.md "wikilink") spell on
 their target in addition to doing minor damage. The spell, delivered in
 such a visceral manner, is harder for enemies to resist.
 
 Prerequisite(s): none.
 
-Syntax: [fletch](Fletch "wikilink")
-\<[arrows](:Category:_Arrows "wikilink")/[bolts](:Category:_Bolts "wikilink")\>
+Syntax: [fletch](Fletch.md "wikilink")
+\<[arrows](:Category:_Arrows.md "wikilink")/[bolts](:Category:_Bolts.md "wikilink")\>
 faerie.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

@@ -13,11 +13,11 @@ you if he were given specific instructions and the right ingredients.*
 **Keywords:** alchemist, chalmus, half-elf.  
 **Scan Description:** An aged half-elf babbles incoherently to a small
 chunk of metal on the floor.  
-**[Level](Level "wikilink"):** 27.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[mage](Spellcasting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 27.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[mage](Spellcasting_Mobs.md "wikilink").  
 **Affects:** [Detect Invis](Detect_Invis "wikilink"), [Detect
 Hidden](Detect_Hidden "wikilink"),
 [Infravision](Infravision "wikilink").  
@@ -25,17 +25,17 @@ Hidden](Detect_Hidden "wikilink"),
 ## Gear
 
 `Chalmus the alchemist is using:`  
-<worn on body>`      `[`the`` ``robe`` ``of`` ``Chalmus`](Robe_Of_Chalmus "wikilink")  
-<wielded>`           `[`the`` ``staff`` ``of`` ``Chalmus`](Staff_Of_Chalmus "wikilink")
+<worn on body>`      `[`the`` ``robe`` ``of`` ``Chalmus`](Robe_Of_Chalmus.md "wikilink")  
+<wielded>`           `[`the`` ``staff`` ``of`` ``Chalmus`](Staff_Of_Chalmus.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Chalmus' Quarters.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Chalmus' Quarters.  
 Walking route from Sol: 3e, 2n, 3e, 9n, w, s, u, s, w, s, 2w, u, 2e, n,
 {u}, \[n\]. You need the [Key To The Second
 Floor](Key_To_The_Second_Floor "wikilink") or [Pick

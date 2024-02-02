@@ -5,7 +5,7 @@ Evil Alchemical Ingredients:
 -   [Horns Of Typhus](Horns_Of_Typhus "wikilink")
 -   [Demon Shard](Demon_Shard "wikilink")
 -   [Barbed Bone Ring](Barbed_Bone_Ring "wikilink")
--   [roc feather mane](Roc_Feather_Mane "wikilink")
+-   [roc feather mane](Roc_Feather_Mane.md "wikilink")
 
 Not Evil Alchemical Ingredients (even though they have an Evil flag):
 

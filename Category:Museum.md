@@ -1,4 +1,4 @@
-*In the Park in [Midgaard](:Category:_Midgaard "wikilink") is a large
+*In the Park in [Midgaard](:Category:_Midgaard.md "wikilink") is a large
 Museum of Art and History. Many say that the very Museum itself is
 enchanted, and that the exhibits often come to life and move around the
 halls on their own.*
@@ -9,10 +9,10 @@ halls on their own.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 5s, 2e, 2s, w.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5s, 2e, 2s, w.
 
-[Portaling](Portal "wikilink") point(s) suggested: [museum
-guard](Museum_Guard "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [museum
+guard](Museum_Guard.md "wikilink").
 
 ## Connections
 

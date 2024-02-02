@@ -7,9 +7,9 @@
 `battle. With this incomparable blade in hand, every enemy will fall`  
 `before you. The mighty Sword of Battle knows no equal.`
 
-**[Commune Bonus](Commune "wikilink"):** AC -220 (?)
+**[Commune Bonus](Commune.md "wikilink"):** AC -220 (?)
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Focus](Aspect_-_Focus "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Focus](Aspect_-_Focus.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

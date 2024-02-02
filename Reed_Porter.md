@@ -2,11 +2,11 @@
 walking. Perhaps you should put him out of his misery.*
 
 **Keywords:** trog, porter.  
-**[Level](Level "wikilink"):** 23.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 23.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
@@ -14,16 +14,16 @@ walking. Perhaps you should put him out of his misery.*
 `Nothing.`
 
 `A Reed Porter is carrying:`  
-`     `[`a`` ``Bundle`` ``of`` ``Reeds`](Bundle_Of_Reeds "wikilink")
+`     `[`a`` ``Bundle`` ``of`` ``Reeds`](Bundle_Of_Reeds.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-A Reed Porter [wanders](Wandering_Mobs "wikilink").
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+A Reed Porter [wanders](Wandering_Mobs.md "wikilink").
 
 A Reed Porter is portable.  
 

@@ -8,26 +8,26 @@
 Slot: hands  
 Flags: glow, magic  
 Weight: 3  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Overgrowth](:Category:_Overgrowth "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Overgrowth](:Category:_Overgrowth.md "wikilink")  
 Mob: TBD  
 
 ## Comments
 
 This is a base item that can be used to
-[Transmogrify](transmogrify "wikilink") other gear.
+[Transmogrify](transmogrify.md "wikilink") other gear.
 
 To get these gloves, you need to visit [Constance](Constance "wikilink")
 in In the greenhouse (in the Lord Mudschool), but only after you have
 met the appropriate kill count in
-[Overgrowth](:Category:Overgrowth#Comments "wikilink").
+[Overgrowth](:Category:Overgrowth#Comments.md "wikilink").
 
 Ingredients that can be used to modify this item:
 
 ` `[`A`` ``golden`` ``torque`](A_golden_torque "wikilink")`                             mana        hands    125      5     40 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
-` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest "wikilink")`                     hit roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
-` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest "wikilink")`                  damage roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
-` `[`Entish`` ``Blood`](Vial_Of_Ent's_Blood "wikilink")`                         armor class        hands    125      5     -5 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")
+` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest.md "wikilink")`                     hit roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
+` `[`Heart`` ``of`` ``the`` ``Forest`](The_Heart_of_the_Forest.md "wikilink")`                  damage roll        hands    125      4      2 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")  
+` `[`Entish`` ``Blood`](Vial_Of_Ent's_Blood.md "wikilink")`                         armor class        hands    125      5     -5 `[`Verdant`` ``Gloves`](Verdant_Gloves "wikilink")
 
 [Category: Shard Area Gear](Category:_Shard_Area_Gear "wikilink")
 [Category: Gear in Overgrowth](Category:_Gear_in_Overgrowth "wikilink")

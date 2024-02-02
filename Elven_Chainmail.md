@@ -4,13 +4,14 @@ Slot: On Body
 Level: 34-36  
 Base: 7-9  
 Weight: 6  
-Area: [Flipside Altar](:Category:_Flipside_Altar "wikilink")
-([Map](Flipside_Altar_Map "wikilink"))  
+Area: [Flipside Altar](:Category:_Flipside_Altar.md "wikilink")
+([Map](Flipside_Altar_Map.md "wikilink"))  
 Mob: [Deep Gnome Rogue](Deep_Gnome_Rogue "wikilink")  
   
-Port [Gnome Rogue](Deep_Gnome_Rogue "wikilink"), kill for chainmail.  
+Port [Gnome Rogue](Deep_Gnome_Rogue.md "wikilink"), kill for
+chainmail.  
 There are several, and they wander. To walk there, just walk to the
-[Flipside Altar](:Category:Flipside_Altar "wikilink") and
+[Flipside Altar](:Category:Flipside_Altar.md "wikilink") and
 [track](track "wikilink") gnome rogue.
 
 [Category: Gear In Flipside

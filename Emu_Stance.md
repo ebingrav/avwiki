@@ -1,13 +1,13 @@
-*Emu kicks with all her power. Your [kicks](Kick "wikilink") strike for
-extra damage. Emu Stance ends early if you attempt a
-[toss](Toss "wikilink") or [trip](Trip "wikilink").*
+*Emu kicks with all her power. Your [kicks](Kick.md "wikilink") strike
+for extra damage. Emu Stance ends early if you attempt a
+[toss](Toss.md "wikilink") or [trip](Trip.md "wikilink").*
 
-Prerequisite(s): [Serpent Technique](Serpent_Technique "wikilink"),
-[Whirlwind Kick](Whirlwind_Kick "wikilink").
+Prerequisite(s): [Serpent Technique](Serpent_Technique.md "wikilink"),
+[Whirlwind Kick](Whirlwind_Kick.md "wikilink").
 
-Syntax: [stance](Stance "wikilink") emu.
+Syntax: [stance](Stance.md "wikilink") emu.
 
-See also [Tiger Stance](Tiger_Stance "wikilink").
+See also [Tiger Stance](Tiger_Stance.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Monk Lowmort

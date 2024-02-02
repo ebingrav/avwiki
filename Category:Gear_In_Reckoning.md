@@ -2,11 +2,11 @@
 
 Run is known as lodestone (or simply "lode") - this is a melee run.
 
-Before leaving [Thorngate](:Category:Thorngate "wikilink"), make sure
+Before leaving [Thorngate](:Category:Thorngate.md "wikilink"), make sure
 you have 2-3 [Pink Potions](Pink_Potion "wikilink") for each tank to
 drink in the final gear room.
 
-From [Water](:Category:Water "wikilink") shift, go 3dw2d to reach the
+From [Water](:Category:Water.md "wikilink") shift, go 3dw2d to reach the
 "core" room to which you will need to keep returning as you collect the
 four keys from the four different elemental areas.
 

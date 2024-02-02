@@ -2,16 +2,16 @@
 trained for many years and is sure to put up quite a fight!*
 
 **Keywords:** elite, midgaard, townguard.  
-**[Level](Level "wikilink"):** 118.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[guard](Guard_Mobs "wikilink") .  
+**[Level](Level.md "wikilink"):** 118.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[guard](Guard_Mobs.md "wikilink") .  
 **Affects:** sanctuary.  
 
 ## Gear
 
 `An Elite Midgaard Townguard is using:`  
-<wielded>`           `[`a`` ``standard`` ``issue`` ``sword`](Standard_Issue_Sword "wikilink")
+<wielded>`           `[`a`` ``standard`` ``issue`` ``sword`](Standard_Issue_Sword.md "wikilink")
 
 `The guard is carrying:`  
 `     Nothing.`

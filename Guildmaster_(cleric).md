@@ -1,18 +1,18 @@
 *Before you stands one of the many guildmasters of
-[Tul-Sith](Tul-Sith "wikilink"). You are in no doubt that this
+[Tul-Sith](Tul-Sith.md "wikilink"). You are in no doubt that this
 guildmaster is truly close to your god; he has a peaceful, loving look.
 You notice that he is surrounded by a [white
-aura](White_Aura "wikilink").*
+aura](White_Aura.md "wikilink").*
 
 **Keywords:** guildmaster, high, priest.  
-**[Level](Level "wikilink"):** 51.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[cleric](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 51.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[cleric](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -26,15 +26,15 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple of
-Midgaard](:Category:_Temple_Of_Midgaard "wikilink")
-([Map](Temple_Of_Midgaard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Inner Sanctum of the
-Cleric Guild (portable, [safe](Safe_Rooms "wikilink")).  
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 3s, 5e, n, 12e, n,
-2w, u.
+**[Area](:Category:_Areas.md "wikilink"):** [Temple of
+Midgaard](:Category:_Temple_Of_Midgaard.md "wikilink")
+([Map](Temple_Of_Midgaard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Inner Sanctum of the
+Cleric Guild (portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 3s, 5e, n, 12e,
+n, 2w, u.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 5w, n, 2w, u.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5w, n, 2w, u.  
 The guildmaster is portable.  
 
 [Category: Mobs In Temple Of

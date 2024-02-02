@@ -1,15 +1,15 @@
 *This gives an additional boost of recovery while
-[sleeping](Sleep_(command) "wikilink").*
+[sleeping](Sleep_(command).md "wikilink").*
 
-Prerequisite(s): [Fast Healing](Fast_Healing "wikilink").
+Prerequisite(s): [Fast Healing](Fast_Healing.md "wikilink").
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink"), just like its
-predecessor [Fast Healing](Fast_Healing "wikilink"), is highly
-beneficial to [characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink") as it increases their
-[hit-point](Hit_Points "wikilink") regeneration rates.
+This [skill](:Category:_Skills_And_Spells.md "wikilink"), just like its
+predecessor [Fast Healing](Fast_Healing.md "wikilink"), is highly
+beneficial to [characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink") as it increases their
+[hit-point](Hit_Points.md "wikilink") regeneration rates.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

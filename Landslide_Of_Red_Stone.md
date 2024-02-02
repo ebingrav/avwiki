@@ -4,10 +4,10 @@ tumble down the canyon pass.
 ''Landslides: they aren't just for toppling ancient ruins anymore.
 
 **Keywords:** red, landslide, ???.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ???.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[aggressive](Aggressive_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ???.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[aggressive](Aggressive_Mobs.md "wikilink").  
 **Affects:** ???.  
 Worth 502 xp solo. Does not skin to anything interesting.
 

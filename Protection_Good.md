@@ -1,19 +1,19 @@
 *Protection Good reduces the damage taken from any attack from an good
-[mob](:Category:_Mobs "wikilink") by 25%, and only works on the
-[caster](Cast "wikilink"). Protection Good can be used in conjunction
-with [Sanctuary](Sanctuary "wikilink").*
+[mob](:Category:_Mobs.md "wikilink") by 25%, and only works on the
+[caster](Cast.md "wikilink"). Protection Good can be used in conjunction
+with [Sanctuary](Sanctuary.md "wikilink").*
 
-Prerequisite(s): [Detect Alignment](Detect_Alignment "wikilink").
+Prerequisite(s): [Detect Alignment](Detect_Alignment.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'protection good'.
+Syntax: [cast](Cast.md "wikilink") 'protection good'.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Awen](Awen "wikilink") but *not* in [Aegis](Aegis "wikilink"). See also
-[Protection Evil](Protection_Evil "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Awen](Awen.md "wikilink") but *not* in [Aegis](Aegis.md "wikilink").
+See also [Protection Evil](Protection_Evil.md "wikilink").
 
 See also [Gear That Applies Protection
-Good](:Category:_Gear_That_Applies_Protection_Good "wikilink") and
-[Protection Good Gear](:Category:_Protection_Good_Gear "wikilink").
+Good](:Category:_Gear_That_Applies_Protection_Good.md "wikilink") and
+[Protection Good Gear](:Category:_Protection_Good_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

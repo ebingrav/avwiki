@@ -1,12 +1,12 @@
-*This [Gargoyle](Gargoyles "wikilink") has obviously eaten a little too
-much ... um too much of whatever it is [Gargoyles](Gargoyles "wikilink")
-eat. Pigeons maybe.*
+*This [Gargoyle](Gargoyles.md "wikilink") has obviously eaten a little
+too much ... um too much of whatever it is
+[Gargoyles](Gargoyles.md "wikilink") eat. Pigeons maybe.*
 
 **Keywords:** gargoyle, fat.  
-**[Level](Level "wikilink"):** 25.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 25.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -21,13 +21,13 @@ eat. Pigeons maybe.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Temple
-Spires](:Category:_Temple_Spires "wikilink")
-([Map](Temple_Spires_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Atop the Temple
+**[Area](:Category:_Areas.md "wikilink"):** [Temple
+Spires](:Category:_Temple_Spires.md "wikilink")
+([Map](Temple_Spires_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Atop the Temple
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 5w, 2n, w, 3n, {w}, {s},
-{s}, u, s, 5u, w, s, e, 2s, 2e.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5w, 2n, w, 3n, {w},
+{s}, {s}, u, s, 5u, w, s, e, 2s, 2e.  
 A fat gargoyle is portable.  
 
 [Category: Mobs In Temple

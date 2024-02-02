@@ -1,32 +1,32 @@
 *A heavy buffalo skin lies here.*
 
 **Keyword(s):** buffalo, skin.  
-**[Level(s)](Object_Level "wikilink"):** 16, 18.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 16, 18.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")'s [Pelt
-Quests](Pelt_Quests "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")'s [Pelt
+Quests](Pelt_Quests.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qanza
-Prairie](:Category:_Qanza_Prairie "wikilink")
-([Map](Qanza_Prairie_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The
-buffalo](Buffalo "wikilink") ([skin
-item](:Category:_Skin_Items "wikilink")), [The bull
-buffalo](Bull_Buffalo "wikilink") ([skin
-item](:Category:_Skin_Items "wikilink")).  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Qanza
+Prairie](:Category:_Qanza_Prairie.md "wikilink")
+([Map](Qanza_Prairie_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The
+buffalo](Buffalo.md "wikilink") ([skin
+item](:Category:_Skin_Items.md "wikilink")), [The bull
+buffalo](Bull_Buffalo.md "wikilink") ([skin
+item](:Category:_Skin_Items.md "wikilink")).  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.
 
 [Category: Gear In Qanza
 Prairie](Category:_Gear_In_Qanza_Prairie "wikilink") [Category:

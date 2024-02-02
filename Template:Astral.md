@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Astral_Invasion" title="wikilink">Astral
+<td><p><a href=":Category:Astral_Invasion.md" title="wikilink">Astral
 Invasion</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Astral_Invasion"
+<td><p>(<a href=":Category:Gear_In_Astral_Invasion.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-Plane: [Outland](:Category:Outland "wikilink")  
+Plane: [Outland](:Category:Outland.md "wikilink")  
 Area: ??  
 
 <table>

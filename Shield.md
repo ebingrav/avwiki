@@ -1,22 +1,22 @@
-*This [spell](:Category:_Spells "wikilink") [protects the
-target](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink") by
-altering their [Armor Class](Armor_Class "wikilink"). Shield provides 20
-points of [AC](Armor_Class "wikilink"). This can be
-[cast](Cast "wikilink") upon yourself or someone else if the
-[spell](:Category:_Spells "wikilink") is
-[practiced](Practice "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") [protects the
+target](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")
+by altering their [Armor Class](Armor_Class.md "wikilink"). Shield
+provides 20 points of [AC](Armor_Class.md "wikilink"). This can be
+[cast](Cast.md "wikilink") upon yourself or someone else if the
+[spell](:Category:_Spells.md "wikilink") is
+[practiced](Practice.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'shield'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'shield'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Foci](Foci "wikilink"). Its [AC](Armor_Class "wikilink") bonus may be
-modified by its [caster](Cast "wikilink")'s choice of
-[worship](Worship "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Foci](Foci.md "wikilink"). Its [AC](Armor_Class.md "wikilink") bonus
+may be modified by its [caster](Cast.md "wikilink")'s choice of
+[worship](Worship.md "wikilink").
 
-See also [Shield Gear](:Category:_Shield_Gear "wikilink").
+See also [Shield Gear](:Category:_Shield_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

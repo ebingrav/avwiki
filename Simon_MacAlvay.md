@@ -10,26 +10,26 @@ I'll give you your due.**
 **Keywords:**apprentice, simon, macalvay.  
 **Scan Description:**Chalmus' apprentice, Simon MacAlvay, stands before
 you.  
-**[Level](Level "wikilink"):**27.  
-**[Alignment](Alignment "wikilink"):**demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**[steadfast](Sentinel_Mobs "wikilink"),
-[mage](Spellcasting_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):**27.  
+**[Alignment](Alignment.md "wikilink"):**demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**[steadfast](Sentinel_Mobs.md "wikilink"),
+[mage](Spellcasting_Mobs.md "wikilink").  
 **Affects:*' [Detect Invis](Detect_Invis "wikilink"), [Detect
 Hidden](Detect_Hidden "wikilink").  
 
 ## Gear
 
 `Simon MacAlvay is using:`  
-<wielded>`           `[`the`` ``Trumpeter`` ``Fox`](Trumpeter_Fox "wikilink")
+<wielded>`           `[`the`` ``Trumpeter`` ``Fox`](Trumpeter_Fox.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Laboratory Of
-Chalmus](:Category:_Laboratory_Of_Chalmus "wikilink")
-([Map](Laboratory_Of_Chalmus_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Chalmus' Quarters.  
+**[Area](:Category:_Areas.md "wikilink"):** [ Laboratory Of
+Chalmus](:Category:_Laboratory_Of_Chalmus.md "wikilink")
+([Map](Laboratory_Of_Chalmus_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Chalmus' Quarters.  
 Walking route from Sol: 3e, 2n, 3e, 9n, w, s, u, s, w, s, 2w, u, 2e, n,
 {u}, \[s\], {s}. You need the [Key To The Second
 Floor](Key_To_The_Second_Floor "wikilink") or [Pick

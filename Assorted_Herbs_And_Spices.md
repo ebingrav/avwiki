@@ -1,16 +1,16 @@
 *Various odd bits and pieces of herbs, dried animal meat, and mushrooms
 have been both separated and mixed in small pockets of this set.*
 
-`Level 54-56 spells of: '`[`burning`` ``hands`](Burning_Hands "wikilink")`'`
+`Level 54-56 spells of: '`[`burning`` ``hands`](Burning_Hands.md "wikilink")`'`
 
 **Keyword(s):** assorted, herbs, spices  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** magic  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** magic  
 
 ## Comments
 
@@ -18,10 +18,10 @@ Very useful for bzks or anyone who wants to area spell.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Sun God Altar
-](:Category:_Sun_God_Altar "wikilink")
-([Map](Sun_God_Altar_Map "wikilink")).  
-**[Mob](:Category:_Mobs "wikilink"):** A [monk
+**[Area](:Category:_Areas.md "wikilink"):** [ Sun God Altar
+](:Category:_Sun_God_Altar.md "wikilink")
+([Map](Sun_God_Altar_Map.md "wikilink")).  
+**[Mob](:Category:_Mobs.md "wikilink"):** A [monk
 cook](monk_cook "wikilink") (cursed)
 
 See individual mob pages for more information.

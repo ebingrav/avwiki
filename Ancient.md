@@ -11,24 +11,24 @@ cycle, as much as some things change, some remain the same. New souls in
 old patterns, until the universe collectively gets it right.*'
 
 **Keywords:** ancient, soul, spirit  
-**[Level](Level "wikilink"):** 95  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** Very Aggressive,
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect invisible](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [fly](Fly "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 95  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Very Aggressive,
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect invisible](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [fly](Fly.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Comments
 
-` An Ancient is a `[`Ghost`](Ghosts "wikilink")`.`
+` An Ancient is a `[`Ghost`](Ghosts.md "wikilink")`.`
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alpha
-Thule](:Category:_Alpha_Thule "wikilink")
-([Map](Alpha_Thule_Map "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): ???.  
+**[Area](:Category:_Areas.md "wikilink"):** [Alpha
+Thule](:Category:_Alpha_Thule.md "wikilink")
+([Map](Alpha_Thule_Map.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ???.  
 
 [Category: Mobs In Alpha
 Thule](Category:_Mobs_In_Alpha_Thule "wikilink")

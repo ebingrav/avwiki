@@ -7,7 +7,7 @@ more is added.
 The survival guide captures some of the spirit of the moment. Delving
 into the unknown. There's no harm in keeping it around.
 
-[Pytheas](User:Pytheas "wikilink") 07:42, 24 May 2011 (CDT)
+[Pytheas](User:Pytheas.md "wikilink") 07:42, 24 May 2011 (CDT)
 
   
 I didn't want to get all presumptuous and start shoveling fan-made
@@ -20,14 +20,14 @@ pages), as they are thematically linked. I'll deal with this issue later
 today and try to group existing and nonexisting Eragora content into a
 single Eragora Category.
 
-[WinterRose](User:WinterRose "wikilink") 08:00, 24 May 2011 (CDT)
+[WinterRose](User:WinterRose.md "wikilink") 08:00, 24 May 2011 (CDT)
 
 <!-- -->
 
   
   
 Isn't most of Eragora "fan-made material" anyway? \*duck\*
---[Neyne](User:Neyne "wikilink") 08:31, 24 May 2011 (CDT)
+--[Neyne](User:Neyne.md "wikilink") 08:31, 24 May 2011 (CDT)
 
 <!-- -->
 
@@ -35,7 +35,7 @@ Isn't most of Eragora "fan-made material" anyway? \*duck\*
   
 You're quite right, of course. We should promote fan-made materials and
 activity. Ok, placing the guide at the appropriate location. :)
-[WinterRose](User:WinterRose "wikilink") 09:05, 24 May 2011 (CDT)
+[WinterRose](User:WinterRose.md "wikilink") 09:05, 24 May 2011 (CDT)
 
 ## Difficulty
 
@@ -50,13 +50,14 @@ There is nothing particularly funny nor noteworthy about basing the
 difficulty on the *ability of a solo caster to do quests or get stuff*.
 Most of the visitors to Eragora were explorers and farmers after all
 (mag/wzd/fus/bci soloers) and xp groups were formed much more rarely. --
-[WinterRose](User:WinterRose "wikilink") 22:32, 29 December 2011 (EST)
+[WinterRose](User:WinterRose.md "wikilink") 22:32, 29 December 2011
+(EST)
 
 Quite a few of the difficulty ratings are probably based on perceptions
 of areas in an earlier form, before various deadly bugs were fixed and
 areas were toned down in places. I'm sure they could do with some
-updating. --[Mekrith](User:Mekrith "wikilink") 18:24, 29 December 2011
-(EST)
+updating. --[Mekrith](User:Mekrith.md "wikilink") 18:24, 29 December
+2011 (EST)
 
   
 Yes, I see the common misconception is that difficulty is same as
@@ -70,5 +71,5 @@ healers), it's nigh impossible to do with a solo character due to
 technical limitations of how much a single alt can do! Nothing to do
 with danger at all. But yes, I agree this separation should be made much
 more obvious and I'll attempt to make it more clear on the update
-tomorrow. -- [WinterRose](User:WinterRose "wikilink") 22:32, 29 December
-2011 (EST)
+tomorrow. -- [WinterRose](User:WinterRose.md "wikilink") 22:32, 29
+December 2011 (EST)

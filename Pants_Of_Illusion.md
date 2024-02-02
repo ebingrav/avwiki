@@ -7,8 +7,8 @@ Slot: Legs
 Level: 13-15  
 Base: 2-5  
 Weight: 3  
-Area: [Sarphyre's Court](:Category:_Sarphyre's_Court "wikilink")
-([Map](Sarphyre's_Court_Map "wikilink"))  
+Area: [Sarphyre's Court](:Category:_Sarphyre's_Court.md "wikilink")
+([Map](Sarphyre's_Court_Map.md "wikilink"))  
 Mob: [Sprite Illusionist](Sprite_Illusionist "wikilink")  
   
 From [Sol](Sol "wikilink") 3e, 2n, 3e, 8n, 3e, s, d, 3w, 2n. Mob is

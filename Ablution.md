@@ -8,8 +8,8 @@ from ''you.
 
 ''It requires equal hp and movement in addition to its mana cost.
 
-[Sorcerers](:Category:Sorcerers "wikilink") sometimes have problems due
-to being tainted.
+[Sorcerers](:Category:Sorcerers.md "wikilink") sometimes have problems
+due to being tainted.
 
 [Category: Lord Mage Spells](Category:_Lord_Mage_Spells "wikilink")
 [Category: Lord Cleric Spells](Category:_Lord_Cleric_Spells "wikilink")

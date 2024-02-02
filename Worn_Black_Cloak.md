@@ -6,10 +6,11 @@
 <b>Weight:</b> 5  
 <b>Level:</b> 20  
 <b>Armor Class:</b> 4-6  
-<b>Area:</b> [Tortured Terrain](:Category:_Tortured_Terrain "wikilink")
-([Map](Tortured_Terrain_Map "wikilink"))  
+<b>Area:</b> [Tortured
+Terrain](:Category:_Tortured_Terrain.md "wikilink")
+([Map](Tortured_Terrain_Map.md "wikilink"))  
 Find [Sario](Sario "wikilink") and kill him for the journal. Then go to
-[Midgaard](:Category:Midgaard "wikilink") and find the
+[Midgaard](:Category:Midgaard.md "wikilink") and find the
 [Ex-Wayfinder](Ex-Wayfinder "wikilink") (portable) and give him the
 journal for the cloak. Ex-wayfinder can be found somewhat east of Aelmon
 (northeast).

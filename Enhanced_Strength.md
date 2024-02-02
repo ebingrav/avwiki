@@ -1,29 +1,31 @@
 *Giving great concentration to the microscopic arrangement of one's
 muscle cells, one may increase their efficiency and density. The
-resulting gain in [strength](Strength "wikilink") will gradually wear
+resulting gain in [strength](Strength.md "wikilink") will gradually wear
 off as the less ordered configuration returns. ENHANCED STRENGTH is a
 [BIOCENTRIC Psionic
-Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It can only
-be [cast](Cast "wikilink") on others if the caster first masters the art
-of [BIO EMPATHY](Bio_Empathy "wikilink").*
+Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It can
+only be [cast](Cast.md "wikilink") on others if the caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'enhanced strength'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'enhanced strength'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-[Psionicists](:Category:_Psionicists "wikilink") may find this
-[spell](:Category:_Spells "wikilink") rather useful at
-[lowmort](:Category:_Lowmort "wikilink")
-[tier](:Category:_Tiers "wikilink") but usually [cast](Cast "wikilink")
-[Giant Strength](Giant_Strength "wikilink") instead of it at
-[hero](:Category:_Hero "wikilink") [tier](:Category:_Tiers "wikilink").
-It increases its target [character](:Category:_Characters "wikilink")'s
-[strength](Strength "wikilink") by 4, though not more than 3 above its
-target's maximum [trainable](Train "wikilink")
-[strength](Strength "wikilink"). It is superfluous for
-[characters](:Category:_Characters "wikilink") affected by [Giant
-Strength](Giant_Strength "wikilink").
+[Psionicists](:Category:_Psionicists.md "wikilink") may find this
+[spell](:Category:_Spells.md "wikilink") rather useful at
+[lowmort](:Category:_Lowmort.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") but usually
+[cast](Cast.md "wikilink") [Giant
+Strength](Giant_Strength.md "wikilink") instead of it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). It increases its target
+[character](:Category:_Characters.md "wikilink")'s
+[strength](Strength.md "wikilink") by 4, though not more than 3 above
+its target's maximum [trainable](Train.md "wikilink")
+[strength](Strength.md "wikilink"). It is superfluous for
+[characters](:Category:_Characters.md "wikilink") affected by [Giant
+Strength](Giant_Strength.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

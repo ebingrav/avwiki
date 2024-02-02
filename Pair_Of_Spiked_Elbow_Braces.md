@@ -1,16 +1,16 @@
 *?*
 
 `Armor class is 9-12.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** spiked elbow braces pieces armor  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 12 lbs  
-**[Level(s)](Object_Level "wikilink"):** 50-52  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 12 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>  
 
 ## Comments
 

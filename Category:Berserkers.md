@@ -1,4 +1,4 @@
-*Prone to [bloodlust](Bloodlust "wikilink")? Have a passion for death
+*Prone to [bloodlust](Bloodlust.md "wikilink")? Have a passion for death
 and dismemberment? You might have what it takes to succeed in the bloody
 and brutal world of Berserkers!*
 
@@ -14,16 +14,16 @@ the usual manner, instead selecting from a list of
 
 *Berserkers NEVER learn any magic spells except homeshift, which is good
 because they never gain mana. The [PRIME
-REQUISITES](Prime_Requisite "wikilink") of berserkers is
-[STRENGTH](Strength "wikilink"). They are only available to
-[warriors](:Category:_Warriors "wikilink"),
-[rogues](:Category:_Rogues "wikilink") and old
-[rangers](:Category:_Rangers "wikilink") via the REMORT command.*
+REQUISITES](Prime_Requisite.md "wikilink") of berserkers is
+[STRENGTH](Strength.md "wikilink"). They are only available to
+[warriors](:Category:_Warriors.md "wikilink"),
+[rogues](:Category:_Rogues.md "wikilink") and old
+[rangers](:Category:_Rangers.md "wikilink") via the REMORT command.*
 
 **Abbreviation:** Bzk.
 
-**[Prime Requisite](Prime_Requisite "wikilink"):**
-[Strength](Strength "wikilink").
+**[Prime Requisite](Prime_Requisite.md "wikilink"):**
+[Strength](Strength.md "wikilink").
 
 ## Berserkers in General
 
@@ -38,12 +38,13 @@ rely on their groupmates more than usual. They use blunt weapons to hit.
 
 ## Berserker Creation
 
-Berserkers are only creatable via the [remort](Remort "wikilink")
-command. See the [remort classes](:Category:Remort_Classes "wikilink")
-page for options and at what level. Good creatable races include orc
-(decent hp and damage, low tnl), ogre (quite a bit more hp and damage, a
-bit more tnl) and giant (most hp, damage, and tnl), gargoyles (for golem
-option - usually people remort golem first before bzk).
+Berserkers are only creatable via the [remort](Remort.md "wikilink")
+command. See the [remort
+classes](:Category:Remort_Classes.md "wikilink") page for options and at
+what level. Good creatable races include orc (decent hp and damage, low
+tnl), ogre (quite a bit more hp and damage, a bit more tnl) and giant
+(most hp, damage, and tnl), gargoyles (for golem option - usually people
+remort golem first before bzk).
 
 ## Berserkers at Lowmort Tier
 
@@ -69,7 +70,7 @@ Practice all skills as they become available, as a majority is useful.
 Some less immediately useful ones are [Kick](Kick "wikilink"),
 [Toss](Toss "wikilink") (Toss has a long lag if failed) or
 [Butcher](Butcher "wikilink"), but since there is only [so few of
-them](:Category:Berserker_Lowmort_Skills_And_Spells "wikilink") you
+them](:Category:Berserker_Lowmort_Skills_And_Spells.md "wikilink") you
 might as well practice all.
 
 ### Worshipping
@@ -77,7 +78,7 @@ might as well practice all.
 Werredan with the hp and xp benefits is a good choice, as with any
 warrior class - lack if mana gains is not an issue for mana-less
 berserkers, and the experience bonus is always nice.
-[Worshiping](Worship "wikilink") other deities makes little practical
+[Worshiping](Worship.md "wikilink") other deities makes little practical
 sense.
 
 ### Fighting
@@ -87,10 +88,10 @@ sense.
 Lowmort is mostly a solo affair. With large HP gains and early access to
 skills such as [Third Attack](Third_Attack "wikilink") and [Blunt
 Weaponry](Blunt_Weaponry "wikilink"), a berserker will always solo in
-[hit-gear](:Category:Hit_Gear "wikilink"), pausing only for so long to
-replenish HP or spells. Remember to upgrade gear every 10 levels or so,
-and complete all [Diplomatic
-Corps](:Category:Diplomatic_Corps "wikilink") quests if you have not
+[hit-gear](:Category:Hit_Gear.md "wikilink"), pausing only for so long
+to replenish HP or spells. Remember to upgrade gear every 10 levels or
+so, and complete all [Diplomatic
+Corps](:Category:Diplomatic_Corps.md "wikilink") quests if you have not
 completed them in your previous incarnation.
 
 **Tanking:**
@@ -106,8 +107,8 @@ taken over runs.
 Similar to soloing, but with less risk, a berserker can easily dish out
 appropriate amounts of damage behind a tank clad in AC gear, as well as
 serve as a backup tank. Unfortunately lowmort groups are rare, so it's
-not often an opportunity to [sponge](Sponge "wikilink") like this will
-present itself.
+not often an opportunity to [sponge](Sponge.md "wikilink") like this
+will present itself.
 
 ## Berserker Prestige Options
 
@@ -133,29 +134,29 @@ learn. Some rites are only functional when the berserker's AC rating are
 under a certain level (-750 max for heros and -1250 for lords). The
 options are:
 
-| <b>Rite</b>                                 | <b>Description</b>                                                                                                          | <b>AC Limited</b> |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------|
-| Loss prevention                             |                                                                                                                             |                   |
-| [Agility](Agility "wikilink")               | Prevents the loss of dexterity due to death.                                                                                | No                |
-| [Might](Might "wikilink")\*                 | Prevents the loss of strength due to death.                                                                                 | No                |
-| [Vitality](Vitality "wikilink")             | prevents the loss of constitution due to death.                                                                             | No                |
-| AC based                                    |                                                                                                                             |                   |
-| [Bloodlust](Bloodlust "wikilink")\*         | Regains HP whenever the Berserker makes a melee kill.                                                                       | Yes               |
-| [Final Fury](Final_Fury "wikilink")         | When reduced to 10% HPs the Berserker gets a bonus to damage.                                                               | Yes               |
-| [Raging Rush](Raging_Rush "wikilink")       | Increases the Berserker's HP regeneration rate while under berserk effects.                                                 | Yes               |
-| [Resist Pain](Resist_Pain "wikilink")\*     | Reduces damage taken during regular melee rounds.                                                                           | Yes               |
-| Group assist                                |                                                                                                                             |                   |
-| [Warcry](Warcry "wikilink")                 | This skill grants his groupmates a damage bonus in addition to the hitroll bonus when rallying.                             | No                |
-| Others                                      |                                                                                                                             |                   |
-| [Armor Training](Armor_Training "wikilink") | AC limited abilities are upped to -850 for Heroes and -1500 for lords.                                                      | No                |
-| [Deathblow](Deathblow "wikilink")\*         | Gain an automatic extra attack when they hit an enemy for more than 50% remaining HPs in one blow.                          | No                |
-| [Wail](Wail "wikilink")                     | If an opponent blocks a Berserker's attack with weapon or shield the berserker gains an immediate extra followup attack.    | No                |
-| [Discipline](Discipline "wikilink")         | Take less of a hit to AC when they berserk.                                                                                 | No                |
-| [Guard Crush](Guard_Crush "wikilink")       | If an attack is parried or blocked with a shield then it is more draining to the defender than normal.                      | No                |
-| Potentially Bad                             |                                                                                                                             |                   |
-| [Prime Strike](Prime_Strike "wikilink")\*   | In direct combat hits will be before the enemy's during regular melee rounds.                                               | No                |
-| [Rage Control](Rage_Control "wikilink")\*   | Reduces the odds of berserking from damage inflicted by any source other than the [scar](Scarification "wikilink") command. | No                |
-| [Steadfast](Steadfast "wikilink")           | Grants the Berserker immunity to [calm](Calm "wikilink"), [dread](Dread "wikilink") and [awe](Awe "wikilink").              | No                |
+| <b>Rite</b>                                                                                                                                                                 | <b>Description</b>                                                                                 | <b>AC Limited</b> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------|
+| Loss prevention                                                                                                                                                             |                                                                                                    |                   |
+| [Agility](Agility "wikilink") .md\| Prevents the loss of dexterity due to death.                                                                                            | No                                                                                                 |                   |
+| [Might](Might "wikilink")\*                                                                                                                                                 | Prevents the loss of strength due to death.                                                        | No                |
+| [Vitality](Vitality "wikilink") .md\| prevents the loss of constitution due to death.                                                                                       | No                                                                                                 |                   |
+| AC based                                                                                                                                                                    |                                                                                                    |                   |
+| [Bloodlust](Bloodlust "wikilink")\*                                                                                                                                         | Regains HP whenever the Berserker makes a melee kill.                                              | Yes               |
+| [Final Fury](Final_Fury "wikilink") .md\| When reduced to 10% HPs the Berserker gets a bonus to damage.                                                                     | Yes                                                                                                |                   |
+| [Raging Rush](Raging_Rush "wikilink")                                                                                                                                       | Increases the Berserker's HP regeneration rate while under berserk effects.                        | Yes               |
+| [Resist Pain](Resist_Pain "wikilink")\* .md\| Reduces damage taken during regular melee rounds.                                                                             | Yes                                                                                                |                   |
+| Group assist                                                                                                                                                                |                                                                                                    |                   |
+| [Warcry](Warcry "wikilink")                                                                                                                                                 | This skill grants his groupmates a damage bonus in addition to the hitroll bonus when rallying.    | No                |
+| Others                                                                                                                                                                      |                                                                                                    |                   |
+| [Armor Training](Armor_Training "wikilink") .md\| AC limited abilities are upped to -850 for Heroes and -1500 for lords.                                                    | No                                                                                                 |                   |
+| [Deathblow](Deathblow "wikilink")\*                                                                                                                                         | Gain an automatic extra attack when they hit an enemy for more than 50% remaining HPs in one blow. | No                |
+| [Wail](Wail "wikilink") .md\| If an opponent blocks a Berserker's attack with weapon or shield the berserker gains an immediate extra followup attack.                      | No                                                                                                 |                   |
+| [Discipline](Discipline "wikilink")                                                                                                                                         | Take less of a hit to AC when they berserk.                                                        | No                |
+| [Guard Crush](Guard_Crush "wikilink") .md\| If an attack is parried or blocked with a shield then it is more draining to the defender than normal.                          | No                                                                                                 |                   |
+| Potentially Bad                                                                                                                                                             |                                                                                                    |                   |
+| [Prime Strike](Prime_Strike "wikilink")\*                                                                                                                                   | In direct combat hits will be before the enemy's during regular melee rounds.                      | No                |
+| [Rage Control](Rage_Control "wikilink")\* .md\| Reduces the odds of berserking from damage inflicted by any source other than the [scar](Scarification "wikilink") command. | No                                                                                                 |                   |
+| [Steadfast](Steadfast "wikilink") .md\| Grants the Berserker immunity to [calm](Calm "wikilink"), [dread](Dread.md "wikilink") and [awe](Awe.md "wikilink").                | No                                                                                                 |                   |
 
   
 ∗ These six rites are pre-requisites for lord rites (there are six lord
@@ -180,7 +181,7 @@ It is not uncommon for fighter classes to devote Werredan:
 Remember that post 101 your (potential) DC insignia will fade, and to
 gain a full bonus to constitution (+4 over maximum trainable) you will
 likely need to wear appropriate [leveling
-gear](:Category:Con_Gear "wikilink").
+gear](:Category:Con_Gear.md "wikilink").
 
 ### Fighting
 
@@ -224,17 +225,27 @@ hp. Scar often to keep your hp below 10%.
 
 ### Lord Rites
 
-| <b>Rite</b>                                     | <b>Description</b>                                                                                                                  | <b>AC Limited</b> |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| AC based                                        |                                                                                                                                     |                   |
-| [Savage Strength](Savage_Strength "wikilink")   | Allows bzk to do more damage when tanking the mob.                                                                                  | Yes               |
-| [Ignore Pain](Ignore_Pain "wikilink")           | Reduces damage taken during regular melee rounds even more than Resist Pain.                                                        | Yes               |
-| Others                                          |                                                                                                                                     |                   |
-| [Gloryhog](Gloryhog "wikilink")                 | Functions like Deathblow, but can trigger off any groupmember's attack.                                                             | No                |
-| [Mutilation](Mutilation "wikilink")             | Allows them to scar for certain spells like sanctuary, frenzy and werrebocler.                                                      | No                |
-| Potentially Bad                                 |                                                                                                                                     |                   |
-| [Exemplary Strike](Exemplary_Strike "wikilink") | Allows them to hit the mob first in their group under certain conditions.                                                           | No                |
-| [Rage Mastery](Rage_Mastery "wikilink")         | Further reduces the odds of berserking from damage inflicted by any source other than the [scar](Scarification "wikilink") command. | No                |
+{.md\| border="1" cellpadding="3" cellspacing="0" align="center"
+style="text-align:left" \|- !
+style="background:#efefef;text-align:center;" \| <b>Rite</b> !
+style="background:#efefef;text-align:center;" \| <b>Description</b> !
+style="background:#efefef;text-align:center;" \| <b>AC Limited</b> \|- !
+style="background:#C0C0C0;text-align:center" colspan="3" \| AC based \|-
+\| [Savage Strength](Savage_Strength "wikilink") \| Allows bzk to do
+more damage when tanking the mob. \| Yes \|- \| [Ignore
+Pain](Ignore_Pain "wikilink") .md\| Reduces damage taken during regular
+melee rounds even more than Resist Pain. \| Yes \|- !
+style="background:#C0C0C0;text-align:center" colspan="3" \| Others \|-
+\| [Gloryhog](Gloryhog "wikilink") \| Functions like Deathblow, but can
+trigger off any groupmember's attack. \| No \|- \|
+[Mutilation](Mutilation "wikilink") .md\| Allows them to scar for
+certain spells like sanctuary, frenzy and werrebocler. \| No \|- !
+style="background:#FA5858;text-align:center" colspan="3" \| Potentially
+Bad \|- \| [Exemplary Strike](Exemplary_Strike "wikilink") \| Allows
+them to hit the mob first in their group under certain conditions. \| No
+\|- \| [Rage Mastery](Rage_Mastery "wikilink") .md\| Further reduces the
+odds of berserking from damage inflicted by any source other than the
+[scar](Scarification "wikilink") command. \| No \|}
 
 ### Lord Play in General
 

@@ -3,22 +3,22 @@
 Modifies wisdom by 3 continuous.
 
 **Keyword(s):** evil, thoughts, helmet.  
-**[Level(s)](Object_Level "wikilink"):** 24-26  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [dark](Dark_Flag "wikilink"),
-[evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 24-26  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [dark](Dark_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
 Area: [Laboratory Of
-Chalmus](:Category:Laboratory_Of_Chalmus "wikilink")  
+Chalmus](:Category:Laboratory_Of_Chalmus.md "wikilink")  
 Mob: [Simon MacAlvay's Destructive
 Urges](Simon_MacAlvay's_Destructive_Urges "wikilink")
 

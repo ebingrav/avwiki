@@ -9,9 +9,9 @@
 `in, absorbed by the making and shaping of universes, the blasting of`  
 `stars, the endless reaches of thought and being: Infinity.`
 
-**[Commune Bonus](Commune "wikilink"):** experience gain +10%
+**[Commune Bonus](Commune.md "wikilink"):** experience gain +10%
 
-**[Aspect](:Category:Aspects "wikilink"):** [
-Trancendence](Aspect_-_Transcendence "wikilink")
+**[Aspect](:Category:Aspects.md "wikilink"):** [
+Trancendence](Aspect_-_Transcendence.md "wikilink")
 
 [Category:Objects of Power](Category:Objects_of_Power "wikilink")

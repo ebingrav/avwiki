@@ -3,29 +3,29 @@ have many supplies to work with to create armor, it looks like typical
 mud that could be found anywhere in the world, except it seems to be
 vaguely in the shape of a small humanoid.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 3.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by 10 continuous.`  
-`Modifies `[`hp`](Hit_Points "wikilink")` by 10 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 3.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by 10 continuous.`  
+`Modifies `[`hp`](Hit_Points.md "wikilink")` by 10 continuous.`
 
 **Keyword(s):** mud, armor.  
-**[Level(s)](Object_Level "wikilink"):** 15.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 15.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Ascension
-Woods](:Category:_Ascension_Woods "wikilink")
-([Map](Ascension_Woods_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Hobgoblin Guard
+**[Area](:Category:_Areas.md "wikilink"):** [Ascension
+Woods](:Category:_Ascension_Woods.md "wikilink")
+([Map](Ascension_Woods_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Hobgoblin Guard
 (Armor)](Hobgoblin_Guard_(Armor) "wikilink").  
 See [Hobgoblin Guard (Armor)](Hobgoblin_Guard_(Armor) "wikilink") for
 more information.  

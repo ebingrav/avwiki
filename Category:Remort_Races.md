@@ -1,22 +1,23 @@
-*The [remort](Remort "wikilink") process is how some of AVATAR's
-experimental or powerful [races](:Category:_Races "wikilink") and
-[classes](:Category:_Classes "wikilink") are accessed. The user will be
-reset to a [level](Level "wikilink") 2
-[character](:Category:_Characters "wikilink") of the new
-[race](:Category:_Races "wikilink"), and their current
-[class](:Category:_Classes "wikilink"), or a [level](Level "wikilink") 2
-[character](:Category:_Characters "wikilink") of the new
-[class](:Category:_Classes "wikilink"), and either
-[human](Humans "wikilink") or their old
-[race](:Category:_Races "wikilink"), depending on how high
-[level](Level "wikilink") they were when they
-[remorted](Remort "wikilink"). The purpose of this is to give people a
-chance to try something different.*
+*The [remort](Remort.md "wikilink") process is how some of AVATAR's
+experimental or powerful [races](:Category:_Races.md "wikilink") and
+[classes](:Category:_Classes.md "wikilink") are accessed. The user will
+be reset to a [level](Level.md "wikilink") 2
+[character](:Category:_Characters.md "wikilink") of the new
+[race](:Category:_Races.md "wikilink"), and their current
+[class](:Category:_Classes.md "wikilink"), or a
+[level](Level.md "wikilink") 2
+[character](:Category:_Characters.md "wikilink") of the new
+[class](:Category:_Classes.md "wikilink"), and either
+[human](Humans.md "wikilink") or their old
+[race](:Category:_Races.md "wikilink"), depending on how high
+[level](Level.md "wikilink") they were when they
+[remorted](Remort.md "wikilink"). The purpose of this is to give people
+a chance to try something different.*
 
-See also [Remort](Remort "wikilink"), [Remort
-Classes](:Category:_Remort_Classes "wikilink").
+See also [Remort](Remort.md "wikilink"), [Remort
+Classes](:Category:_Remort_Classes.md "wikilink").
 
-**`Remort`` ``Race:`` ``Available`` ``to`` ``...`` ``at`` `[`Lord`](:Category:_Lord "wikilink")` `[`Sublevel`](Sublevel "wikilink")`:`**`*`  
+**`Remort`` ``Race:`` ``Available`` ``to`` ``...`` ``at`` `[`Lord`](:Category:_Lord.md "wikilink")` `[`Sublevel`](Sublevel.md "wikilink")`:`**`*`  
 [`Goblins`](Goblins "wikilink")`             `[`Kobolds`](Kobolds "wikilink")`                           10`  
 [`Sprites`](Sprites "wikilink")`             all but `[`Kobolds`](Kobolds "wikilink")`                   25 `  
 [`Trolls`](Trolls "wikilink")`              all but `[`Kobolds`](Kobolds "wikilink")`                   25`  
@@ -34,6 +35,6 @@ Classes](:Category:_Remort_Classes "wikilink").
 [`Golems`](Golems "wikilink")`              `[`Gargoyles`](Gargoyles "wikilink")`                         25`  
 [`Ignatur`](Ignatur "wikilink")`             `[`Dwarf`](Dwarf "wikilink")` & `[`Duergar`](Duergar "wikilink")`                   25`
 
-`*is 100 `[`sublevels`](Sublevel "wikilink")` `*`more`*` for `[`characters`](:Category:_Characters "wikilink")` of `[`remort`` ``classes`](:Category:_Remort_Classes "wikilink")`.`  
+`*is 100 `[`sublevels`](Sublevel.md "wikilink")` `*`more`*` for `[`characters`](:Category:_Characters.md "wikilink")` of `[`remort`` ``classes`](:Category:_Remort_Classes.md "wikilink")`.`  
 
 [Category: Races](Category:_Races "wikilink")

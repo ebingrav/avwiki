@@ -1,18 +1,18 @@
-*RESCUE is a [skill](:Category:_Skills "wikilink") which, when
-[practiced](Practice "wikilink"), allows you to intervene in a battle by
-redirecting any opponents' attacks from the target
-[character](:Category:_Characters "wikilink") onto yourself. This can be
-used to help a badly hurt group member who is being attacked, but be
+*RESCUE is a [skill](:Category:_Skills.md "wikilink") which, when
+[practiced](Practice.md "wikilink"), allows you to intervene in a battle
+by redirecting any opponents' attacks from the target
+[character](:Category:_Characters.md "wikilink") onto yourself. This can
+be used to help a badly hurt group member who is being attacked, but be
 careful, since you'll end up taking all the subsequent damage yourself.
 Typing RESCUE with no target will rescue your current
-[monitor](Monitor "wikilink") target. Each time you must refocus your
+[monitor](Monitor.md "wikilink") target. Each time you must refocus your
 attention to rescue a friend, your momentary loss of concentration has
-an unpleasant affect upon your [armor class](Armor_Class "wikilink"). Be
-warned, you would-be heroes. These penalties add up quickly.*
+an unpleasant affect upon your [armor class](Armor_Class.md "wikilink").
+Be warned, you would-be heroes. These penalties add up quickly.*
 
 Prerequisite(s): none.
 
-Syntax: rescue \<[character](:Category:_Characters "wikilink")\>.
+Syntax: rescue \<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

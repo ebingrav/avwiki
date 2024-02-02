@@ -2,8 +2,8 @@
 
 **NOTE: The sceptre is available only following a Reset or Reboot.**
 
-Shift to [Kzinti Homeworld](:Category:Kzinti_Homeworld "wikilink"). Go
-e3s. You'll see an up exit with darkenbeasts on scan. This is the
+Shift to [Kzinti Homeworld](:Category:Kzinti_Homeworld.md "wikilink").
+Go e3s. You'll see an up exit with darkenbeasts on scan. This is the
 Inferno Peak. Go 2u, s.
 
 Sacrifice a group member one more south to [Projection Of

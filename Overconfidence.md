@@ -1,17 +1,17 @@
-*Quite the opposite of the [DREAD](Dread "wikilink")
-[spell](:Category:_Spells "wikilink"), overconfidence fills the target
-with the sense that he can triumph over anything. When
-[cast](Cast "wikilink") in battle, the victim will become so cocky that
-he will not [flee](Flee "wikilink"), even if he normally would. This
-[spell](:Category:_Spells "wikilink") will not work if it is obvious
-that the target is no match for the caster. There is also a chance that
-the overconfident victim will simply lose interest in pursuing enemies
-who [flee](Flee "wikilink") from him.*
+*Quite the opposite of the [DREAD](Dread.md "wikilink")
+[spell](:Category:_Spells.md "wikilink"), overconfidence fills the
+target with the sense that he can triumph over anything. When
+[cast](Cast.md "wikilink") in battle, the victim will become so cocky
+that he will not [flee](Flee.md "wikilink"), even if he normally would.
+This [spell](:Category:_Spells.md "wikilink") will not work if it is
+obvious that the target is no match for the caster. There is also a
+chance that the overconfident victim will simply lose interest in
+pursuing enemies who [flee](Flee.md "wikilink") from him.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'overconfidence'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'overconfidence'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

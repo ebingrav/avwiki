@@ -27,13 +27,13 @@ the regular Quest Imm(s).
 `and size. Things that are not race related are stats (wis, int, etc) hp/mana, hours,`  
 `death, etc. When in doubt, ask Kariya.`  
   
-`### Banner of the Gods: Fight with the power of the Gods! See HELP `[`BANNER`` ``OF`` ``THE`` ``GODS`](Banner_Of_The_Gods "wikilink")`.`  
+`### Banner of the Gods: Fight with the power of the Gods! See HELP `[`BANNER`` ``OF`` ``THE`` ``GODS`](Banner_Of_The_Gods.md "wikilink")`.`  
   
 `$$$ Stats: Permanent through remort, etc. 10% max for +%hp, 10% max for +%mana.`  
   
 `%%% Regen: Permanent through remort, etc. 25% max for +%hp regen, 25% max for +%mana regen.`  
   
-`See also: `[`QUESTPOINTS`](Quest_Points "wikilink")` `[`QPCATALOG`](Quest_Point_Catalog "wikilink")` `[`QPC-ITEMS`](Quest_Point_Catalog_-_Items "wikilink")` `[`QPC-MISC`](Quest_Point_Catalog_-_Misc "wikilink")` `[`QPC-CHARACTER`](Quest_Point_Catalog_-_Character "wikilink")` `[`QPC-CONSUMABLES`](Quest_Point_Catalog_-_Consumables "wikilink")  
-`         `[`QPC-SPELLS`](Quest_Point_Catalog_-_Spells "wikilink")` `[`QPC-GF`](Quest_Point_Catalog_-_Grandfathered "wikilink")` `[`QPC-AUTO-ITEMS`](Quest_Point_Catalog_-_Auto_Items "wikilink")` `[`QPC-AUTO-CONSUMABLES`](Quest_Point_Catalog_-_Auto_Consumables "wikilink")` `[`QPC-AUTO-CHARACTER`](Quest_Point_Catalog_-_Auto_Character "wikilink")
+`See also: `[`QUESTPOINTS`](Quest_Points.md "wikilink")` `[`QPCATALOG`](Quest_Point_Catalog.md "wikilink")` `[`QPC-ITEMS`](Quest_Point_Catalog_-_Items.md "wikilink")` `[`QPC-MISC`](Quest_Point_Catalog_-_Misc.md "wikilink")` `[`QPC-CHARACTER`](Quest_Point_Catalog_-_Character.md "wikilink")` `[`QPC-CONSUMABLES`](Quest_Point_Catalog_-_Consumables.md "wikilink")  
+`         `[`QPC-SPELLS`](Quest_Point_Catalog_-_Spells.md "wikilink")` `[`QPC-GF`](Quest_Point_Catalog_-_Grandfathered.md "wikilink")` `[`QPC-AUTO-ITEMS`](Quest_Point_Catalog_-_Auto_Items.md "wikilink")` `[`QPC-AUTO-CONSUMABLES`](Quest_Point_Catalog_-_Auto_Consumables.md "wikilink")` `[`QPC-AUTO-CHARACTER`](Quest_Point_Catalog_-_Auto_Character.md "wikilink")
 
 [Category:Quest Point Catalog](Category:Quest_Point_Catalog "wikilink")

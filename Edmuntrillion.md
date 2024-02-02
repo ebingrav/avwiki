@@ -2,17 +2,17 @@
 Travelling in from the west, he found this place and contentment settled
 on his shoulders. When asked, Ed said 'I think I'll grow some roots here
 for awhile.' Since gold is needed for lodgings, Ed is willing to
-[identify](Identify_(command) "wikilink")
-[items](:Category:_Objects "wikilink") for a price. Type help identify
-for how this works.*
+[identify](Identify_(command).md "wikilink")
+[items](:Category:_Objects.md "wikilink") for a price. Type help
+identify for how this works.*
 
 **Keywords:** Edmuntrillion, tree, ent.  
-**[Level](Level "wikilink"):** (?).  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** (?).  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -26,12 +26,12 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Stonehall](:Category:_Stonehall "wikilink")
-([Map](Stonehall_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Stonehall (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Sol](Sol "wikilink"): s.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Stonehall](:Category:_Stonehall.md "wikilink")
+([Map](Stonehall_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Stonehall (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Sol](Sol.md "wikilink"): s.  
 Edmuntrillion is portable.  
 
 [Category: Mobs In Stonehall](Category:_Mobs_In_Stonehall "wikilink")

@@ -11,33 +11,34 @@ to steal to line his pockets. He dreams of nothing more than repaying
 MOBA and re-opening his banking business in Solace.*
 
 **Keywords:** master, orphanage, man.  
-**[Level](Level "wikilink"):** 8.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[mage](Spellcasting_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 8.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[mage](Spellcasting_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `Master of the Orphanage is using:`  
-<worn about body>`   `[`a`` ``priest's`` ``robe`](Priest's_Robe "wikilink")
+<worn about body>`   `[`a`` ``priest's`` ``robe`](Priest's_Robe.md "wikilink")
 
 ## Comments
 
-In the past, [Solace](:Category:Town_Of_Solace "wikilink") had a
+In the past, [Solace](:Category:Town_Of_Solace.md "wikilink") had a
 moneychanger that acted as a bank. Later on, the moneychanger was
-replaced with Kir'tal in [Stonehall](:Category:Stonehall "wikilink").
+replaced with Kir'tal in [Stonehall](:Category:Stonehall.md "wikilink").
 This mob is an explanation of where that moneychanger went, at least in
 story-line terms.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Orphanage](:Category:_Orphanage "wikilink")
-([Map](Orphanage_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In the office of the Master
-([cursed](Cursed_Rooms "wikilink")).  
-Walking route from [Sol](Sol "wikilink"): 3e, 2s, 2e, \[e\], s, \[s\].  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Orphanage](:Category:_Orphanage.md "wikilink")
+([Map](Orphanage_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In the office of the
+Master ([cursed](Cursed_Rooms.md "wikilink")).  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2s, 2e, \[e\], s,
+\[s\].  
 
 [Category: Mobs In Orphanage](Category:_Mobs_In_Orphanage "wikilink")

@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="fortress.of.kra.jpg" title="fortress.of.kra.jpg" width="650"
-alt="fortress.of.kra.jpg" />
-<figcaption aria-hidden="true">fortress.of.kra.jpg</figcaption>
+<img src="fortress.of.kra.jpg.md" title="fortress.of.kra.jpg.md"
+width="650" alt="fortress.of.kra.jpg.md" />
+<figcaption aria-hidden="true">fortress.of.kra.jpg.md</figcaption>
 </figure>
 
 [Deepways Map](Deepways_Map "wikilink")  

@@ -5,7 +5,7 @@ with a Halloween mask. You should pay him back for scaring you like that
 -- go ahead and put him out of his misery.*
 
 ` The spoiled brat is using:`  
-`   `<worn on head>`    `[`a`` ``Tiamat`` ``mask`](Tiamat_Mask "wikilink")
+`   `<worn on head>`    `[`a`` ``Tiamat`` ``mask`](Tiamat_Mask.md "wikilink")
 
 [Category:Mobs In Dwarven Day
 Care](Category:Mobs_In_Dwarven_Day_Care "wikilink")

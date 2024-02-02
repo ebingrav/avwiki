@@ -16,8 +16,8 @@
 **Slot**: worn on hands  
 **Keywords**: gloves seneschal  
 **Weight**: 5  
-**Plane**: [Hell](:Category:_Hell "wikilink")  
-**Area**: [Kwalashai](:Category:_Kwalashai "wikilink")  
+**Plane**: [Hell](:Category:_Hell.md "wikilink")  
+**Area**: [Kwalashai](:Category:_Kwalashai.md "wikilink")  
 **Mob**: ??
 
 [Category:Lord Archer Gear](Category:Lord_Archer_Gear "wikilink")

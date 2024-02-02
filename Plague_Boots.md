@@ -1,8 +1,8 @@
 *A pair of boots reaking of death rots away here.*
 
 `'`[`plague`](plague "wikilink")`' continuous`  
-`Modifies `[` ``armor`` ``class`](Armor_Class "wikilink")` by -25 continuous`  
-`Modifies `[` ``mana`](Mana_Points "wikilink")` by 80 continuous`  
+`Modifies `[` ``armor`` ``class`](Armor_Class.md "wikilink")` by -25 continuous`  
+`Modifies `[` ``mana`](Mana_Points.md "wikilink")` by 80 continuous`  
 `Armor class is 10-12.`
 
 **Keyword(s):** boots plague  
@@ -10,9 +10,10 @@
 **Levels:** Levels 50-52  
 **Weight:** 10 lbs  
 **Bases:** 10-12  
-**Flags:** [dark](Dark_Flag "wikilink"), [evil](Evil_Flag "wikilink")  
-**Area:** [A Private Hell](:Category:_A_Private_Hell "wikilink")
-([Map](A_Private_Hell_Map "wikilink"))  
+**Flags:** [dark](Dark_Flag.md "wikilink"),
+[evil](Evil_Flag.md "wikilink")  
+**Area:** [A Private Hell](:Category:_A_Private_Hell.md "wikilink")
+([Map](A_Private_Hell_Map.md "wikilink"))  
 **Mob:** [Leora Viktor](Leora_Viktor "wikilink")  
 
 ## Comments

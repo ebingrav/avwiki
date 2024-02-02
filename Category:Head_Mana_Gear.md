@@ -16,26 +16,26 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 ?
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
 [Gem Of Frozen Moonlight](Gem_Of_Frozen_Moonlight "wikilink")(15),
 [Leather Helmet](Leather_Helmet "wikilink")(5), [Prince's
 Crown](Prince's_Crown "wikilink")(10)
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Healer's Headscarf](Healer's_Headscarf "wikilink")(15), [Mummy King's
 Crown](Mummy_King's_Crown "wikilink")(10), [Pair Of Ruby
 Earrings](Pair_Of_Ruby_Earrings "wikilink")(25)
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 [Onyx Band Of Runes](Onyx_Band_Of_Runes "wikilink")(30)
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 [Chain With A Glass Pendant](Chain_With_A_Glass_Pendant "wikilink")(30)
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Antharian Helmet](Antharian_Helmet "wikilink")(20/25/30), [Blue
 Dragonscale Cowl](Blue_Dragonscale_Cowl "wikilink")(20), [Crown Of The
 Ages](Crown_Of_The_Ages "wikilink")(50), [Grand Serpent
@@ -47,7 +47,7 @@ Hood](Serpent_Hood "wikilink")(15), [Skull With Huge, Curved
 Horns](Skull_With_Huge,_Curved_Horns "wikilink")(35), [Wide Leather
 Patch](Wide_Leather_Patch "wikilink")(50)
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

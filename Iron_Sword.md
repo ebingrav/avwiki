@@ -2,27 +2,27 @@
 deep black color. The iron blade has begun to rust slightly, showing the
 sword's imperfections.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 13 to 36 (average 24).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 5 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 13 to 36 (average 24).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 5 continuous.`
 
 **Keyword(s):** iron, sword  
-**[Level(s)](Object_Level "wikilink"):** 37  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
-**[Weight](Object_Weight "wikilink"):** 46 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 37  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
+**[Weight](Object_Weight.md "wikilink"):** 46 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Waterfall
-Cave](:Category:_Waterfall_Cave "wikilink")
-([Map](Waterfall_Cave_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Ogre Guard
+**[Area](:Category:_Areas.md "wikilink"):** [Waterfall
+Cave](:Category:_Waterfall_Cave.md "wikilink")
+([Map](Waterfall_Cave_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Ogre Guard
 (Zaswyi)](Ogre_Guard_(Zaswyi) "wikilink")  
 See [Ogre Guard (Zaswyi)](Ogre_Guard_(Zaswyi) "wikilink") for more
 information  

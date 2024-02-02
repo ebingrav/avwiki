@@ -1,14 +1,14 @@
 To get the [Ant Antenna](Ant_Antenna "wikilink"): head northeast from
 shift. Directly south from the northeast corner of the
-[jungle](:Category:Savage_Jungle "wikilink") you'll see a room with 3
-sentinel [soldier ants](Soldier_Ants "wikilink") (though other mobs can
-wander into the room). After killing some of the mobs in this room the
-[queen ant](Queen_Ant "wikilink") will spawn to defend the hive.
+[jungle](:Category:Savage_Jungle.md "wikilink") you'll see a room with 3
+sentinel [soldier ants](Soldier_Ants.md "wikilink") (though other mobs
+can wander into the room). After killing some of the mobs in this room
+the [queen ant](Queen_Ant.md "wikilink") will spawn to defend the hive.
 Skinning her corpse randomly yields the
-[antenna](Ant_Antenna "wikilink") or a psi-friendly
-[chakram](Ant_Chakram "wikilink"). The antenna queen is much more common
-than the chakram queen (can be deduced from the queen's description).
-The soldier ants skin to ant eyes (sanc pills).
+[antenna](Ant_Antenna.md "wikilink") or a psi-friendly
+[chakram](Ant_Chakram.md "wikilink"). The antenna queen is much more
+common than the chakram queen (can be deduced from the queen's
+description). The soldier ants skin to ant eyes (sanc pills).
 
 The soldier ants are fairly easy, but the queen ant can hit pretty hard
 (big ANNI/ERAD). Also, more ants can spawn once you kill the soldier

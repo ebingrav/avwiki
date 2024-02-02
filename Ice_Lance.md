@@ -1,17 +1,17 @@
 *Demonstrating a mastery of the natural elements, one may magically
 shape the water vapor in air into a massive, chilling icicle. The bonds
 that hold this lance of ice together are weak, but they will last long
-enough for the [caster](Cast "wikilink") to thrust the icy spear at one
-target with a devastating, unblockable attack.*
+enough for the [caster](Cast.md "wikilink") to thrust the icy spear at
+one target with a devastating, unblockable attack.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'ice lance'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'ice lance'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [ranger](:Category:_Rangers "wikilink")
-[spell](:Category:_Spells "wikilink") is practically never used by
-non-[rangers](:Category:_Rangers "wikilink").
+This [ranger](:Category:_Rangers.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") is practically never used by
+non-[rangers](:Category:_Rangers.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

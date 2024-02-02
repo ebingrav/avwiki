@@ -10,17 +10,17 @@ brave was easy.*
 **Keywords:** Spy, Guardian.  
 **Scan Description:** This guardian tries to find secrets without
 arousing suspicion.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Aggressive](Aggressive_Mobs "wikilink"),
-[Wandering](Wandering_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Aggressive](Aggressive_Mobs.md "wikilink"),
+[Wandering](Wandering_Mobs.md "wikilink").  
 **Affects:** [Pass Door](Pass_Door "wikilink").  
 
 ## Gear
 
 `Dim-Wit Spy is using:`  
-<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd "wikilink")
+<wielded>`           `[`A`` ``Stone`` ``Halberd`](Stone_Halberd.md "wikilink")
 
 `Dim-Wit Spy is carrying:`  
 `     Nothing.`
@@ -29,11 +29,11 @@ arousing suspicion.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Necropolis](:Category:_Necropolis "wikilink")
-([Map](Necropolis_Map "wikilink")).
+**[Area](:Category:_Areas.md "wikilink"):**
+[Necropolis](:Category:_Necropolis.md "wikilink")
+([Map](Necropolis_Map.md "wikilink")).
 
-Dim-Wit Spy [wanders](Wandering_Mobs "wikilink").
+Dim-Wit Spy [wanders](Wandering_Mobs.md "wikilink").
 
 [Category: Mobs In Necropolis](Category:_Mobs_In_Necropolis "wikilink")
 [Category: Incomplete](Category:_Incomplete "wikilink")

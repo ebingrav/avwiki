@@ -7,9 +7,9 @@ alliance with powers beyond mortal ken.*
 begin to tighten. You are about to die.*
 
 `Lord Gith is using:`  
-` `<worn on body>`      `[`a`` ``decaying`` ``vest`` ``made`` ``from`` ``cracked`` ``leather`](Decaying_Vest_Made_From_Cracked_Leather "wikilink")  
-` `<worn on head>`      `[`a`` ``crown`` ``of`` ``wire`` ``and`` ``broken`` ``glass`](Crown_Of_Wire_And_Broken_Glass "wikilink")  
-` `<wielded>`           `[`the`` ``unholy`` ``sword`` ``of`` ``the`` ``githyanki`](Unholy_Sword_Of_The_Githyanki "wikilink")
+` `<worn on body>`      `[`a`` ``decaying`` ``vest`` ``made`` ``from`` ``cracked`` ``leather`](Decaying_Vest_Made_From_Cracked_Leather.md "wikilink")  
+` `<worn on head>`      `[`a`` ``crown`` ``of`` ``wire`` ``and`` ``broken`` ``glass`](Crown_Of_Wire_And_Broken_Glass.md "wikilink")  
+` `<wielded>`           `[`the`` ``unholy`` ``sword`` ``of`` ``the`` ``githyanki`](Unholy_Sword_Of_The_Githyanki.md "wikilink")
 
 ## Comments
 

@@ -3,23 +3,23 @@
 `Has 2(2) charges at level 16 '`[`harm`](harm "wikilink")`'.`
 
 **Keyword(s):** wizard's pointy hat  
-**[Type](:Category:_Object_Types "wikilink"):**
-[wand](:Category:_Wands "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 1 lbs  
-**[Level(s)](Object_Level "wikilink"):** 18-19  
-**[Quality](Object_Quality "wikilink"):** 20 hps  
-**[Area](:Category:_Areas "wikilink"):** [Elven
-Foothills](:Category:_Elven_Foothills "wikilink")
-([Map](Elven_Foothills_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Grey Elf
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[wand](:Category:_Wands.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 18-19  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Elven
+Foothills](:Category:_Elven_Foothills.md "wikilink")
+([Map](Elven_Foothills_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Grey Elf
 Wizard](Grey_Elf_Wizard "wikilink")  
 
 ## Comments
 
 See also [Suggested Attack
-Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties "wikilink")
+Casties](Suggested_Spellcasting_Gear#Suggested_Attack_Casties.md "wikilink")
 
 ## Directions
 

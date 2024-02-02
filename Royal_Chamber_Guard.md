@@ -1,23 +1,23 @@
 *OUCH! Ooomph. YIKES! This guy has obviously been well trained...*
 
 **Keywords:** chamber, guard.  
-**[Level](Level "wikilink"):** 63.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 63.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A Royal Chamber Guard is using:`  
-<worn on body>`      `[`a`` ``Lacquered`` ``Breastplate`](Lacquered_Breastplate "wikilink")  
-<worn on head>`      `[`a`` ``Reed`` ``Helmet`](Reed_Helmet "wikilink")  
-<worn on legs>`      `[`lacquered`` ``Reed`` ``Greaves`](Lacquered_Reed_Greaves "wikilink")  
-<worn on feet>`      `[`leather`` ``boots`](Leather_Boots "wikilink")  
-<worn on hands>`     `[`leather`` ``work`` ``gloves`](Leather_Work_Gloves "wikilink")  
-<worn about body>`   `[`a`` ``cheap`` ``leather`` ``robe`](Cheap_Leather_Robe "wikilink")  
-<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear "wikilink")  
+<worn on body>`      `[`a`` ``Lacquered`` ``Breastplate`](Lacquered_Breastplate.md "wikilink")  
+<worn on head>`      `[`a`` ``Reed`` ``Helmet`](Reed_Helmet.md "wikilink")  
+<worn on legs>`      `[`lacquered`` ``Reed`` ``Greaves`](Lacquered_Reed_Greaves.md "wikilink")  
+<worn on feet>`      `[`leather`` ``boots`](Leather_Boots.md "wikilink")  
+<worn on hands>`     `[`leather`` ``work`` ``gloves`](Leather_Work_Gloves.md "wikilink")  
+<worn about body>`   `[`a`` ``cheap`` ``leather`` ``robe`](Cheap_Leather_Robe.md "wikilink")  
+<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear.md "wikilink")  
 <held>`              a large taro`
 
 `A Royal Chamber Guard is carrying:`  
@@ -27,10 +27,10 @@
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Upper Hallway above the
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Upper Hallway above the
 Throne Room (portable)
 
 Walking directions from [Aelmon](Aelmon "wikilink"): 17s, e, n, d, n,

@@ -1,17 +1,17 @@
 *Lurch's Adder is evil objectified into a slim but powerful dagger.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 7-10 to 21-24 (average 15-16).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 7-10 to 21-24 (average 15-16).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** dagger, adder, lurch.  
-**[Level(s)](Object_Level "wikilink"):** 15.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, hum.  
+**[Level(s)](Object_Level.md "wikilink"):** 15.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, hum.  
 
 ## Comments
 
@@ -20,14 +20,14 @@ perfect gems. Those being impossible to obtain during regular gameplay,
 you will have to use hero level ones.
 
 For an item that is essentially a
-[Shadowfang](Dagger_"Shadowfang" "wikilink") clone with 2 extra HR,
+[Shadowfang](Dagger_"Shadowfang".md "wikilink") clone with 2 extra HR,
 accessible 2 levels earlier, the price is VERY steep. Buyer beware.
 
 This item is required for a quest in [Kzinti
-Raid](:Category:Kzinti_Raid "wikilink") that results in a [hero-level
-upgrade](Lurch's_Adder_(Hero) "wikilink") for a <s>very powerful</s>
-[concealable](:Category:Concealable_Weapons "wikilink")
-[piercer](:Category:Melee_Weapons_That_Pierce "wikilink").
+Raid](:Category:Kzinti_Raid.md "wikilink") that results in a [hero-level
+upgrade](Lurch's_Adder_(Hero).md "wikilink") for a <s>very powerful</s>
+[concealable](:Category:Concealable_Weapons.md "wikilink")
+[piercer](:Category:Melee_Weapons_That_Pierce.md "wikilink").
 
 ## Directions
 

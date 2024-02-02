@@ -1,10 +1,10 @@
-*[Lord Audis](Lord_Audis "wikilink") resides in his villa south of
-[Midgaard](:Category:_Midgaard "wikilink"). The current [Lord
-Audis](Lord_Audis "wikilink") dislikes guests who harass his staff, and
-deals strictly with offenders. Well-mannered guests are always welcome
-to enjoy the comforts of his villa. He has earned the enmity of several
-pirate groups, many of which seek to remove the Audis family through any
-means necessary.*
+*[Lord Audis](Lord_Audis.md "wikilink") resides in his villa south of
+[Midgaard](:Category:_Midgaard.md "wikilink"). The current [Lord
+Audis](Lord_Audis.md "wikilink") dislikes guests who harass his staff,
+and deals strictly with offenders. Well-mannered guests are always
+welcome to enjoy the comforts of his villa. He has earned the enmity of
+several pirate groups, many of which seek to remove the Audis family
+through any means necessary.*
 
 **Level Range:** 50-51
 
@@ -12,15 +12,15 @@ means necessary.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 20s, 4e.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 20s, 4e.
 
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Volari](Volari "wikilink").
 
 ## Connections
 
--   [Highways/Great Wall](:Category:Highways/Great_Wall "wikilink")
--   [Midgaard](:Category:Midgaard "wikilink")
+-   [Highways/Great Wall](:Category:Highways/Great_Wall.md "wikilink")
+-   [Midgaard](:Category:Midgaard.md "wikilink")
 
 ## Navigation
 

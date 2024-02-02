@@ -1,15 +1,15 @@
-*This is a more advanced form of [refresh](Refresh "wikilink").*
+*This is a more advanced form of [refresh](Refresh.md "wikilink").*
 
-Prerequisite(s): [Refresh](Refresh "wikilink").
+Prerequisite(s): [Refresh](Refresh.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'invigorate'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'invigorate'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rather useful for
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is rather useful for
+[characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink").
 
-See also [Invigorate Gear](:Category:_Invigorate_Gear "wikilink").
+See also [Invigorate Gear](:Category:_Invigorate_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

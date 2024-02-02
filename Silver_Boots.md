@@ -1,19 +1,19 @@
 *Some shiny boots are on the floor.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5-7.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 5 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 1 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5-7.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 5 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** leggings, silver.  
-**[Level(s)](Object_Level "wikilink"):** 26-28.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 26-28.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
@@ -21,11 +21,12 @@ Item is grandfathered and therefore no longer available.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Ofcol](:Category:_Ofcol "wikilink") ([Map](Ofcol_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain
-Derrick](Captain_Derrick "wikilink").  
-See [Captain Derrick](Captain_Derrick "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):**
+[Ofcol](:Category:_Ofcol.md "wikilink")
+([Map](Ofcol_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain
+Derrick](Captain_Derrick.md "wikilink").  
+See [Captain Derrick](Captain_Derrick.md "wikilink") for more
 information.  
 
 [Category: Gear In Ofcol](Category:_Gear_In_Ofcol "wikilink") [Category:

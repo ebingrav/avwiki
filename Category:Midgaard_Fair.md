@@ -1,4 +1,4 @@
-*This area is part of the [Secrets](:Category:_Secrets "wikilink")
+*This area is part of the [Secrets](:Category:_Secrets.md "wikilink")
 area.*
 
 **Level Range:** 25-35
@@ -7,10 +7,10 @@ area.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 5s, 5e, 3n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5s, 5e, 3n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [Count
-Orosca](Count_Orosca "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [Count
+Orosca](Count_Orosca.md "wikilink").
 
 ## Connections
 

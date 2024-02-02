@@ -10,7 +10,7 @@ Damage is 62 to 102 (average 82).
 `Modifies hit roll by 30 continuous.`
 
 See [Gear In Citadel
-Arcadia](:Category:Gear_In_Citadel_Arcadia "wikilink") for how to do
+Arcadia](:Category:Gear_In_Citadel_Arcadia.md "wikilink") for how to do
 this run.
 
 [Category:Lord Bows](Category:Lord_Bows "wikilink") [Category:Gear In

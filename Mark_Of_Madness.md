@@ -6,14 +6,15 @@ Modifies damage roll by 5 continuous.
 Slot: Arms  
 Weight: 1  
 Flags: evil nolocate  
-Plane: [World Of Stone](:Category:World_Of_Stone "wikilink")  
-Area: [Mountain Of Madness](:Category:Mountain_Of_Madness "wikilink")  
+Plane: [World Of Stone](:Category:World_Of_Stone.md "wikilink")  
+Area: [Mountain Of
+Madness](:Category:Mountain_Of_Madness.md "wikilink")  
 Mob: [Krakor The Overseer](Krakor_The_Overseer "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Mountain Of
-Madness](:Category:Gear_In_Mountain_Of_Madness "wikilink") for
+Madness](:Category:Gear_In_Mountain_Of_Madness.md "wikilink") for
 directions on how to get this gear.
 
 [Category:Lord Second Tier Hit

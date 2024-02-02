@@ -1,8 +1,8 @@
-This [command](:Category:_Commands "wikilink") shows you all the [social
-commands](:Category:_Socials "wikilink") available. Most will give a
-different message it targeted.
+This [command](:Category:_Commands.md "wikilink") shows you all the
+[social commands](:Category:_Socials.md "wikilink") available. Most will
+give a different message it targeted.
 
-See also [Socials](:Category:_Socials "wikilink").
+See also [Socials](:Category:_Socials.md "wikilink").
 
 accept accuse ack adjust admire air anticipate attention alarm addict
 agree anvil angelthank apologize applaud argh army arrive away bat beam

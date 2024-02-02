@@ -7,15 +7,15 @@ Type: armor
 Slot: on body  
 Weight: 5  
 Flags: magic bless nolocate  
-Plane: [Noctopia](:Category:Noctopia "wikilink")  
+Plane: [Noctopia](:Category:Noctopia.md "wikilink")  
 Area: [Obsidian Arena;
-Floor](:Category:Obsidian_Arena;_Floor "wikilink")  
+Floor](:Category:Obsidian_Arena;_Floor.md "wikilink")  
 Mob: [Paehandra Of The Moon](Paehandra_Of_The_Moon "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Floor](:Category:Gear_In_Obsidian_Arena;_Floor "wikilink") for more
+Floor](:Category:Gear_In_Obsidian_Arena;_Floor.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

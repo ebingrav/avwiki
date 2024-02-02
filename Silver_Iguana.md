@@ -3,8 +3,8 @@ iguana.*
 Modifies mana by 150 continuous. Slot: Arms  
 Type: Treasure  
 Flags: glow magic nolocate  
-Plane: [Thorngate](:Category:Thorngate "wikilink")  
-Area: [Rietta's Wonders](:Category:Rietta's_Wonders "wikilink")  
+Plane: [Thorngate](:Category:Thorngate.md "wikilink")  
+Area: [Rietta's Wonders](:Category:Rietta's_Wonders.md "wikilink")  
 Mob: [Bask](Bask "wikilink")  
 To get this gear you need to get a [Lizard Man Challenge
 Token](Lizard_Man_Challenge_Token "wikilink"). This is a lvl 125 invis
@@ -13,7 +13,7 @@ Foothills](Elven_Foothills "wikilink"). To get it teleport to
 [Nyad](Nyad "wikilink") and go 2nuw2sedw.
 
 Once you have the ticket go to [Rietta's
-Wonders](:Category:Rietta's_Wonders "wikilink") and find
+Wonders](:Category:Rietta's_Wonders.md "wikilink") and find
 [Bask](Bask "wikilink"). Give him the token, then kill him, and loot the
 gear.
 

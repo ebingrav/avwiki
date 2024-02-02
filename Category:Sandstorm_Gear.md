@@ -1,3 +1,3 @@
-See also [Sandstorm](Sandstorm "wikilink").
+See also [Sandstorm](Sandstorm.md "wikilink").
 
 [Category: Spellcasting Gear](Category:_Spellcasting_Gear "wikilink")

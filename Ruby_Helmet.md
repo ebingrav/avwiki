@@ -1,22 +1,22 @@
 *A ruby studded helm lies here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 12.`  
-`Modifies `[`save`](Saving_Throw "wikilink")` vs magic by -2 continuous.`  
-`Modifies `[`wisdom`](Wisdom "wikilink")` by 3 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 12.`  
+`Modifies `[`save`](Saving_Throw.md "wikilink")` vs magic by -2 continuous.`  
+`Modifies `[`wisdom`](Wisdom.md "wikilink")` by 3 continuous.`
 
 **Keyword(s):** ruby, helmet.  
-**[Level(s)](Object_Level "wikilink"):** 53.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink"),
-[anti-neutral](Anti-Neutral_Flag "wikilink"),
-[nodrop](NoDrop_Flag "wikilink"),
-[noremove](NoRemove_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 53.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[anti-neutral](Anti-Neutral_Flag.md "wikilink"),
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink").  
 
 ## Comments
 
@@ -26,10 +26,11 @@ Candy](Piece_Of_Lime_Candy "wikilink"). The boots are in the red bear.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Abyss](:Category:_Abyss "wikilink") ([Map](Abyss_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A toy shop coloured in red
-and orange (portable)
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Abyss](:Category:_Abyss.md "wikilink")
+([Map](Abyss_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A toy shop coloured in
+red and orange (portable)
 
 Walking route from [Giant Pillbug](Giant_Pillbug "wikilink"): e, d, n.
 

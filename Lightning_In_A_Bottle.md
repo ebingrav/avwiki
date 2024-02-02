@@ -15,7 +15,7 @@ Held in the inventory of [Drisy the stormy
 dreamer](Drisy_the_stormy_dreamer "wikilink") in the ward for the
 delusional.
 
-Area: [Forsaken Asylum](:Category:Forsaken_Asylum "wikilink")
+Area: [Forsaken Asylum](:Category:Forsaken_Asylum.md "wikilink")
 
 [Category:Lord Throwing
 Weapons](Category:Lord_Throwing_Weapons "wikilink") [Category:Gear in

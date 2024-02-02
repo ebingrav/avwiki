@@ -4,7 +4,7 @@ Hero psionicist lore. Provides access to the lord psionicist lore.
 
 # Prereqs
 
--   [basic psionics](Basic_Psionics "wikilink")
+-   [basic psionics](Basic_Psionics.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -29,7 +29,7 @@ Hero psionicist lore. Provides access to the lord psionicist lore.
 
 # Lores Unlocked
 
--   [greater psionics](Greater_Psionics "wikilink")
+-   [greater psionics](Greater_Psionics.md "wikilink")
 
 # Other Notes
 

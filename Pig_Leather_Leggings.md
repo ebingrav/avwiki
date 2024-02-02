@@ -1,16 +1,16 @@
 *A jerkin is here, made from boiled pigskin.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 3.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -6 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 3.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -6 continuous.`
 
 **Keyword(s):** pig leather leggings.  
-**[Level(s)](Object_Level "wikilink"):** 16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 7 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 7 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
@@ -19,10 +19,10 @@ lazy when copy/pasting. :)
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Undrehand](:Category:_Undrehand "wikilink")
-([Map](Undrehand_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Uzzo](Uzzo "wikilink"),
+**[Area](:Category:_Areas.md "wikilink"):**
+[Undrehand](:Category:_Undrehand.md "wikilink")
+([Map](Undrehand_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Uzzo](Uzzo "wikilink"),
 [Rrgl](Rrgl "wikilink"), [Enforcer Orc](Enforcer_Orc "wikilink"), [Orc
 Goon](Orc_Goon "wikilink").  
 See each mob's individual page linked above for more information.  

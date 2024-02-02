@@ -8,17 +8,18 @@ their mood."*
 **Keywords:** hand, gorn, monk  
 **[Level](Level "wikilink"):** 100  
 **[Alignment](Alignment "wikilink"):** angelic  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:Trainers "wikilink")  
-**Affects:** [infravision](Infravision "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [sanctuary](Sanctuary "wikilink")  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:Trainers.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink")  
 
 ## Gear
 
 `Namure, the Hand of Gorn is using:`  
-<worn around neck>`  `[`(Humming)`` ``namure's`` ``leather`` ``collar`](Namure's_Leather_Collar "wikilink")  
+<worn around neck>`  `[`(Humming)`` ``namure's`` ``leather`` ``collar`](Namure's_Leather_Collar.md "wikilink")  
 <worn on body>`      a black buttoned shirt`  
 <worn on legs>`      a black pair of pants`  
 <worn about waist>`  a long red belt`
@@ -29,10 +30,10 @@ Namure takes part in two quests.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:_Rooms "wikilink"):** Namure's Quarters (cursed)  
+**[Area](:Category:_Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:_Rooms.md "wikilink"):** Namure's Quarters (cursed)  
 Walking route from [Aelmon](Aelmon "wikilink"): 39s, 3w, 4n, 3w, 2n, e,
 n, w, u, 2e
 

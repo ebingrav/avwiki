@@ -1,27 +1,27 @@
 *It has a long, sharp blade that is made entirely from silver. A small
 rune has been engraved on the blade next to the hilt.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 2 to 31 (average 16).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 2 to 31 (average 16).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** dagger silver.  
-**[Level(s)](Object_Level "wikilink"):** 30.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 30.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Graveyard](:Category:_Graveyard "wikilink")
-([Map](Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** In a dusty Tomb.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Graveyard](:Category:_Graveyard.md "wikilink")
+([Map](Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** In a dusty Tomb.  
 Directions from [Henry The Gardener](Henry_The_Gardener "wikilink"):
 \[e\], n, \[d\].
 

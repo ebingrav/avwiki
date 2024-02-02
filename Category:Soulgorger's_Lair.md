@@ -7,9 +7,9 @@ the great magic would become weakened. Whenever this happened the
 Soulgorger would temporarily escape its realm to feast upon the spirits
 of the living. Now after many ages of such intermittent feasting, the
 Soulgorger has amassed enough power to pierce the veil of [the
-Planescape](:Category:_Lord_Planes "wikilink"). Not surprisingly, this
-happened where the barrier is at its thinnest: in [the emptiness between
-the elemental planes](:Category:Nothing "wikilink").*
+Planescape](:Category:_Lord_Planes.md "wikilink"). Not surprisingly,
+this happened where the barrier is at its thinnest: in [the emptiness
+between the elemental planes](:Category:Nothing.md "wikilink").*
 
 **Builder:** Waite
 

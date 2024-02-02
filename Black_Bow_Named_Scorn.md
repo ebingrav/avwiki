@@ -1,18 +1,18 @@
 *A black bow is here, shunning your presence.*
 
-`Modifies `[`mana`](Mana_Points "wikilink")` by 75 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 15 continuous.`
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 75 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 15 continuous.`
 
 **Keyword(s):** black, bow, scorn.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Bows "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Evil_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Bows.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Evil_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink").  
 
 ## Comments
 
@@ -22,10 +22,10 @@ Masked archer's also carry these and are trackable.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Dream
-Steppes](:Category:_Dream_Steppes "wikilink")
-([Map](Dream_Steppes_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Masked
+**[Area](:Category:_Areas.md "wikilink"):** [Dream
+Steppes](:Category:_Dream_Steppes.md "wikilink")
+([Map](Dream_Steppes_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Masked
 Illusionist](Masked_Illusionist "wikilink"), [Masked
 Archer](Masked_Archer "wikilink")  
 

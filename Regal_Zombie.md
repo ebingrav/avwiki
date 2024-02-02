@@ -3,37 +3,38 @@ this corpse rose as a zombie under the influence of the red stone. Even
 in undeath, the zombie appears regal.*
 
 **Keywords:** zombie, regal.  
-**[Level](Level "wikilink"):** 20.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 20.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A regal zombie is using:`  
-<worn around neck>`  `[`a`` ``shark`` ``tooth`` ``choker`](Shark_Tooth_Choker "wikilink")  
-<worn around neck>`  `[`a`` ``shark`` ``tooth`` ``necklace`](Shark_Tooth_Necklace "wikilink")  
-<held in offhand>`   `[`a`` ``buffalo`` ``hide`` ``buckler`](Buffalo_Hide_Buckler "wikilink")  
-<wielded>`           `[`a`` ``short`` ``spear`](Short_Spear_(Qass) "wikilink")
+<worn around neck>`  `[`a`` ``shark`` ``tooth`` ``choker`](Shark_Tooth_Choker.md "wikilink")  
+<worn around neck>`  `[`a`` ``shark`` ``tooth`` ``necklace`](Shark_Tooth_Necklace.md "wikilink")  
+<held in offhand>`   `[`a`` ``buffalo`` ``hide`` ``buckler`](Buffalo_Hide_Buckler.md "wikilink")  
+<wielded>`           `[`a`` ``short`` ``spear`](Short_Spear_(Qass).md "wikilink")
 
 `A regal zombie is carrying:`  
 `     Nothing.`
 
 ## Comments
 
-This [mob](:Category:_Mobs "wikilink") is involved in [Qass
-Tomb](:Category:_Qass_Tomb "wikilink")'s [Well Crafted Qass Short Spear
-Quest](Well_Crafted_Qass_Short_Spear_Quest "wikilink").
+This [mob](:Category:_Mobs.md "wikilink") is involved in [Qass
+Tomb](:Category:_Qass_Tomb.md "wikilink")'s [Well Crafted Qass Short
+Spear Quest](Well_Crafted_Qass_Short_Spear_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Qass
-Tomb](:Category:_Qass_Tomb "wikilink")
-([Map](Qass_Tomb_Map "wikilink")).  
-A regal zombie [wanders](Wandering_Mobs "wikilink") about Turtle Tomb.
+**[Area](:Category:_Areas.md "wikilink"):** [Qass
+Tomb](:Category:_Qass_Tomb.md "wikilink")
+([Map](Qass_Tomb_Map.md "wikilink")).  
+A regal zombie [wanders](Wandering_Mobs.md "wikilink") about Turtle
+Tomb.
 
 A regal zombie is portable.
 

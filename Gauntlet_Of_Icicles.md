@@ -8,15 +8,15 @@
 **Keywords**: gauntlet icicles  
 **Flags**: nolocate  
 **Weight**: 2  
-**Plane**: [Noctopia](:Category:Noctopia "wikilink")  
+**Plane**: [Noctopia](:Category:Noctopia.md "wikilink")  
 **Area**: [Obsidian Arena;
-Stands](:Category:Obsidian_Arena;_Stands "wikilink")  
-**Mob**: [Valyce of the Winter](Valyce_Of_The_Winter "wikilink")
+Stands](:Category:Obsidian_Arena;_Stands.md "wikilink")  
+**Mob**: [Valyce of the Winter](Valyce_Of_The_Winter.md "wikilink")
 
 ------------------------------------------------------------------------
 
 See [Gear In Obsidian Arena;
-Stands](:Category:Gear_In_Obsidian_Arena;_Stands "wikilink") for more
+Stands](:Category:Gear_In_Obsidian_Arena;_Stands.md "wikilink") for more
 information.
 
 [Category:Gear In Obsidian Arena;

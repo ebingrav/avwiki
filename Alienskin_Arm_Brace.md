@@ -2,32 +2,32 @@
 
 `Insignificantly lowers resistance to caustic attacks continuous`  
 `Insignificantly lowers resistance to poison damage continuous`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 3 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 3 continuous.`  
 `Armor class is 10 to 12`  
 `It improves archery damage.`
 
 **Keyword(s):** alienskin, brace.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on arms>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink"), [hum](Hum_Flag "wikilink"),
-[invis](invis "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-evil](Anti-Evil_Flag "wikilink").
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on arms>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink"), [hum](Hum_Flag.md "wikilink"),
+[invis](invis "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-evil](Anti-Evil_Flag.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Alien
-Hive](:Category:Alien_Hive "wikilink")
-([Map](Alien_Hive_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Alien
+**[Area](:Category:_Areas.md "wikilink"):** [Alien
+Hive](:Category:Alien_Hive.md "wikilink")
+([Map](Alien_Hive_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Alien
 Queen](Alien_Queen "wikilink").
 
-[Portal](Teleport "wikilink") [terrified
-woman](Terrified_Woman "wikilink") w n e n
+[Portal](Teleport.md "wikilink") [terrified
+woman](Terrified_Woman.md "wikilink") w n e n
 
 You can either adventure through the area, and find the queen. Usually
 Track Queen brings you to The Red Queen, Kill and Retrack Queen to head

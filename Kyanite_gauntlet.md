@@ -11,8 +11,8 @@
 Slot: arms  
 Flags: dark, evil, magic, anti-evil  
 Weight: 2  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Darker Castle](:Category:Darker_Castle "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Darker Castle](:Category:Darker_Castle.md "wikilink")  
 Mob: [Fleury](Fleury "wikilink")  
 
 ## Comments

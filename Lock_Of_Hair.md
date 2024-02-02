@@ -5,25 +5,25 @@ victim?
 *Regardless, the hair smells faintly of rose buds.''
 
 **Keyword(s)**: Lock, Hair  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Type](:Category:Object_Types "wikilink"):**
-[tickets](:Category:Tickets "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Type](:Category:Object_Types.md "wikilink"):**
+[tickets](:Category:Tickets.md "wikilink")  
 **[Object Slots](Object_Slots "wikilink"):** none  
-**[Quality](Object_Quality "wikilink"):** 4 hps.  
-**[Weight](Object_Weight "wikilink"):** 0 lbs.  
-**[Flag(s)](:Category:Object_Flags "wikilink"):** none
+**[Quality](Object_Quality.md "wikilink"):** 4 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 0 lbs.  
+**[Flag(s)](:Category:Object_Flags.md "wikilink"):** none
 
 ## Comments
 
 Take this to the prisoner in [The
-Weeping](:Category:The_Weeping "wikilink") in return for a catseye
+Weeping](:Category:The_Weeping.md "wikilink") in return for a catseye
 gemstones (worth 25k).
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Graves Of
-Reveria](:Category:Graves_Of_Reveria "wikilink")
-([Map](Graves_Of_Reveria_Map "wikilink"))
+**[Area](:Category:Areas.md "wikilink"):** [Graves Of
+Reveria](:Category:Graves_Of_Reveria.md "wikilink")
+([Map](Graves_Of_Reveria_Map.md "wikilink"))
 
 You will find this item on the ground after you kill [Projection Of
 Veyah L'Aturii](Projection_Of_Veyah_L'Aturii "wikilink").

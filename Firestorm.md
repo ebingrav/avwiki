@@ -1,16 +1,16 @@
-*FIRESTORM washes the entire [room](:Category:_Rooms "wikilink") with
-flames, engulfing all of your [enemies](:Category:_Mobs "wikilink") in
-fire. All basic attack and area spells are more powerful for in-class
+*FIRESTORM washes the entire [room](:Category:_Rooms.md "wikilink") with
+flames, engulfing all of your [enemies](:Category:_Mobs.md "wikilink")
+in fire. All basic attack and area spells are more powerful for in-class
 users who do not have to fear a counterattack thanks to [a group-mate
-tanking the target](Tanks "wikilink").*
+tanking the target](Tanks.md "wikilink").*
 
-Prerequisite(s): [Magma Blast](Magma_Blast "wikilink").
+Prerequisite(s): [Magma Blast](Magma_Blast.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'firestorm'.
+Syntax: [cast](Cast.md "wikilink") 'firestorm'.
 
-This [spell](:Category:_Spells "wikilink") is hardly ever used.
+This [spell](:Category:_Spells.md "wikilink") is hardly ever used.
 
-See also: [Area Spells](:Category:_Area_Spells "wikilink")
+See also: [Area Spells](:Category:_Area_Spells.md "wikilink")
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

@@ -1,24 +1,24 @@
 *A potion of many colors sits here.*
 
-`Level 16 spells of: '`[`bless`](Bless "wikilink")`' '`[`cure`` ``light`](Cure_Light "wikilink")`'.`
+`Level 16 spells of: '`[`bless`](Bless.md "wikilink")`' '`[`cure`` ``light`](Cure_Light.md "wikilink")`'.`
 
 **Keyword(s):** potion many colors  
-**[Level(s)](Object_Level "wikilink"):** 14  
-**[Type](:Category:_Object_Types "wikilink"):**
-[potion](:Category:_Potions "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps  
-**[Weight](Object_Weight "wikilink"):** 3 lbs  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 14  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[potion](:Category:_Potions.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Midgaard
-Fair](:Category:_Midgaard_Fair "wikilink")
-([Map](Midgaard_Fair_Map "wikilink"))  
-**[Room(s)](:Category:_Rooms "wikilink"):** A Hidden Room.  
+**[Area](:Category:_Areas.md "wikilink"):** [Midgaard
+Fair](:Category:_Midgaard_Fair.md "wikilink")
+([Map](Midgaard_Fair_Map.md "wikilink"))  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A Hidden Room.  
 Walking directions from [Count Orosca](Count_Orosca "wikilink"): 2n, w,
 s, \[s\].
 

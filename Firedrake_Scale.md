@@ -1,30 +1,30 @@
 *Sliced from the flesh of an adult firedrake, this scale would make a
 more than serviceable shield.*
 
-`Modifies `[`constitution`](Constitution "wikilink")` by 1 continuous`  
-`Modifies `[`save`` ``vs`` ``fire`](Saving_Throw "wikilink")` by -20 continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -45 continuous`  
+`Modifies `[`constitution`](Constitution.md "wikilink")` by 1 continuous`  
+`Modifies `[`save`` ``vs`` ``fire`](Saving_Throw.md "wikilink")` by -20 continuous`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -45 continuous`  
 `Armor class is 10-12`
 
 **Keyword(s):** firedrake scale  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[fire-ward](Fire-Ward_Flag "wikilink")  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>  
-**[Weight](Object_Weight "wikilink"):** 12 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[fire-ward](Fire-Ward_Flag.md "wikilink")  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>  
+**[Weight](Object_Weight.md "wikilink"):** 12 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Comments
 
 This is just as difficult to enchant as [other hero
-shields](Shield_Of_Heroes "wikilink"). While 5 off from the top-tier
+shields](Shield_Of_Heroes.md "wikilink"). While 5 off from the top-tier
 hero shields this also has a high save vs fire.
 
 This shield already has fire-ward on it, which gives you one more
 enchant possibility over [the usual
-choice](Shield_Of_Heroes "wikilink"). Since this pops in a xp area,
+choice](Shield_Of_Heroes.md "wikilink"). Since this pops in a xp area,
 collecting can be done without much commitment.
 
 This item drops from the [Adult Firedrake](Adult_Firedrake "wikilink").

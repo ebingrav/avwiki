@@ -1,8 +1,8 @@
-*This [skill](:Category:_Skills "wikilink") helps increase an
-[archer](:Category:_Archers "wikilink")'s chances of hitting their
+*This [skill](:Category:_Skills.md "wikilink") helps increase an
+[archer](:Category:_Archers.md "wikilink")'s chances of hitting their
 target, as well as enhancing their damage.*
 
-Prerequisite(s): [Target Leading](Target_Leading "wikilink").
+Prerequisite(s): [Target Leading](Target_Leading.md "wikilink").
 
 Syntax: none (automatic).
 

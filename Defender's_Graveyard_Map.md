@@ -1,10 +1,11 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Defenders_graveyard_map.jpg"
-title="Defenders_graveyard_map.jpg" width="650"
-alt="Defenders_graveyard_map.jpg" />
-<figcaption aria-hidden="true">Defenders_graveyard_map.jpg</figcaption>
+<img src="Defenders_graveyard_map.jpg.md"
+title="Defenders_graveyard_map.jpg.md" width="650"
+alt="Defenders_graveyard_map.jpg.md" />
+<figcaption
+aria-hidden="true">Defenders_graveyard_map.jpg.md</figcaption>
 </figure>
 
 [Haunted Forest Map](Haunted_Forest_Map "wikilink")  

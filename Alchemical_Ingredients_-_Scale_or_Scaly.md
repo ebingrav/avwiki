@@ -1,11 +1,11 @@
 ### Scale or Scaly
 
--   [ Crimsonscale skirt](Crimsonscale_Skirt "wikilink")
--   [ Ice scale bracer](Ice_Scale_Bracer "wikilink")
--   [ Alienskin arm brace](Alienskin_Arm_Brace "wikilink") \*this is NOT
-    accepted as a scale item for [Bloodsong
+-   [ Crimsonscale skirt](Crimsonscale_Skirt.md "wikilink")
+-   [ Ice scale bracer](Ice_Scale_Bracer.md "wikilink")
+-   [ Alienskin arm brace](Alienskin_Arm_Brace.md "wikilink") \*this is
+    NOT accepted as a scale item for [Bloodsong
     Katana](Bloodsong_Katana "wikilink")
--   [Darklinscale lamellar](Darklinscale_Lamellar "wikilink")
+-   [Darklinscale lamellar](Darklinscale_Lamellar.md "wikilink")
 
 ### Not Scales
 

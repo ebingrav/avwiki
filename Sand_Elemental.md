@@ -10,22 +10,22 @@ life.*
 **Keywords:** sand, ?  
 **Scan Description:** Sand blows in your eyes, almost blinding you!
 Something lurks within the storm!  
-**[Level](Level "wikilink"):** 65.  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[Sentinel](Sentinel_Mobs "wikilink") ,
-[Aggressive](Aggressive_Mobs "wikilink")  
+**[Level](Level.md "wikilink"):** 65.  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[Sentinel](Sentinel_Mobs.md "wikilink") ,
+[Aggressive](Aggressive_Mobs.md "wikilink")  
 **Affects:** ?.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Obsidian
-Tower](:Category:Obsidian_Tower "wikilink")
-([Map](Obsidian_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Room on the third floor
-([Cursed](Cursed_Rooms "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Obsidian
+Tower](:Category:Obsidian_Tower.md "wikilink")
+([Map](Obsidian_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Room on the third floor
+([Cursed](Cursed_Rooms.md "wikilink")).  
 
 [Category:Mobs In Obsidian
 Tower](Category:Mobs_In_Obsidian_Tower "wikilink")

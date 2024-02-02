@@ -4,8 +4,9 @@
 
 Slot: Wield/Offhand  
 Weight: 15  
-See [Gear In Shunned World](:Category:Gear_In_Shunned_World "wikilink")
-for how to do this run.
+See [Gear In Shunned
+World](:Category:Gear_In_Shunned_World.md "wikilink") for how to do this
+run.
 
 ## Directions
 

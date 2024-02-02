@@ -1,8 +1,8 @@
 *[Captain Jacklyn](Captain_Jacklyn "wikilink") was eventually able to
-lead the citizens of [Ofcol](:Category:Ofcol "wikilink") to a retreat
+lead the citizens of [Ofcol](:Category:Ofcol.md "wikilink") to a retreat
 from the city, only just in time as it seemed. When he did so there was
 a need for healing, so the doors of [Tul-Sith's
-Hospice](:Category:Tul-Sith's_Hospice "wikilink") were opened to the
+Hospice](:Category:Tul-Sith's_Hospice.md "wikilink") were opened to the
 many refugees who needed curing of various ailments. A special camp was
 set up out back the Hospice where healers have travelled from all over
 Midgaardia to offer their services.*
@@ -17,12 +17,12 @@ Midgaardia to offer their services.*
 
 Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3w, 3n, 5w, 6n
 
-[Portaling](Portal "wikilink") point(s) suggested: [Chaplain
+[Portaling](Portal.md "wikilink") point(s) suggested: [Chaplain
 Jerrold](Chaplain_Jerrold "wikilink")
 
 ## Connections
 
--   [Tul-Sith's Hospice](:Category:Tul-Sith's_Hospice "wikilink")
+-   [Tul-Sith's Hospice](:Category:Tul-Sith's_Hospice.md "wikilink")
 
 ## Navigation
 

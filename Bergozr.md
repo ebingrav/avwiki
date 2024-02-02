@@ -5,9 +5,9 @@ of actual value. The drake notices you approach and beckons you closer
 with a toothy grin of a deceitful merchant.*
 
 **Keywords:** bergozr, drake.  
-**[Level](Level "wikilink"):** 61.  
-**[Alignment](Alignment "wikilink"):** ?.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?.  
+**[Level](Level.md "wikilink"):** 61.  
+**[Alignment](Alignment.md "wikilink"):** ?.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?.  
 **Affects:** infravision.  
 
 ## Gear
@@ -16,16 +16,16 @@ with a toothy grin of a deceitful merchant.*
 
 ## Comments
 
-Bergozr is a [Firedrake](Firedrakes "wikilink"). He appears to be a
+Bergozr is a [Firedrake](Firedrakes.md "wikilink"). He appears to be a
 pseudo-shopkeeper, perhaps similar to
 [Romostaros](Romostaros "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Cloud
-Dracoleum](:Category:_Cloud_Dracoleum "wikilink")
-([Map](Cloud_Dracoleum_Map "wikilink")).  
-Walking route from [Svlad](Svlad_The_Very_Burly "wikilink"): 2s, e.  
+**[Area](:Category:_Areas.md "wikilink"):** [Cloud
+Dracoleum](:Category:_Cloud_Dracoleum.md "wikilink")
+([Map](Cloud_Dracoleum_Map.md "wikilink")).  
+Walking route from [Svlad](Svlad_The_Very_Burly.md "wikilink"): 2s, e.  
 
 [Category: Mobs In Cloud
 Dracoleum](Category:_Mobs_In_Cloud_Dracoleum "wikilink")

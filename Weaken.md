@@ -1,18 +1,18 @@
-*This [spell](:Category:_Spells "wikilink") reduces the
-[strength](Strength "wikilink") of the
-[victim](:Category:_Mobs "wikilink") by two points. It will not,
+*This [spell](:Category:_Spells.md "wikilink") reduces the
+[strength](Strength.md "wikilink") of the
+[victim](:Category:_Mobs.md "wikilink") by two points. It will not,
 however, work more than once on a given target; the weakening is itself
 a fairly weak spell, and it can only be performed once.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'weaken'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'weaken'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is practically
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is practically
 never used.
 
-See also [Weaken Gear](:Category:_Weaken_Gear "wikilink").
+See also [Weaken Gear](:Category:_Weaken_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

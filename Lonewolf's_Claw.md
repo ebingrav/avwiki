@@ -13,7 +13,7 @@ How to get:
 
 1\. Get an [Ancient Dragon Claw](Ancient_Dragon_Claw "wikilink").
 
-2\. Embed the following [ perfect gems](Perfect_Gemstones "wikilink")
+2\. Embed the following [ perfect gems](Perfect_Gemstones.md "wikilink")
 into it: 1 ruby, 1 emerald, 3 sapphire.
 
 3\. Manifest the item: c manifest claw "Lonewolf's Claw"

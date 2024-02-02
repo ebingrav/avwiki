@@ -1,19 +1,20 @@
-*This [spell](:Category:_Spells "wikilink") cures one
-[affect](Affects "wikilink") of a
-[poison](:Category:_Poisons "wikilink") per [cast](Cast "wikilink"). It
-will take multiple [casts](Cast "wikilink") to cure
-[poisons](:Category:_Poisons "wikilink") with multiple
-[affects](Affects "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") cures one
+[affect](Affects.md "wikilink") of a
+[poison](:Category:_Poisons.md "wikilink") per
+[cast](Cast.md "wikilink"). It will take multiple
+[casts](Cast.md "wikilink") to cure
+[poisons](:Category:_Poisons.md "wikilink") with multiple
+[affects](Affects.md "wikilink").*
 
-Prerequisite(s): [Detect Poison](Detect_Poison "wikilink").
+Prerequisite(s): [Detect Poison](Detect_Poison.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'cure poison'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'cure poison'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rather valuable for all
-[characters](:Category:_Characters "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is rather valuable for all
+[characters](:Category:_Characters.md "wikilink").
 
-See also [Cure Poison Gear](:Category:_Cure_Poison_Gear "wikilink").
+See also [Cure Poison Gear](:Category:_Cure_Poison_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

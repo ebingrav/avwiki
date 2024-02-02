@@ -5,13 +5,13 @@
 `Modifies damage roll by  3 continuous`
 
 **Keyword(s):** constricting, pantaloons.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <legs>.  
-**[Quality](Object_Quality "wikilink"):** 200/200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** sharp reinforced
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 200/200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** sharp reinforced
 caustic-ward.  
 
 ## Comments

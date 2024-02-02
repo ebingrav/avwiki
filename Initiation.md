@@ -31,14 +31,14 @@ legend functionality, regeneration rate, and access to the planes.
 
 # Lores Unlocked
 
--   [basic magic](Basic_Magic "wikilink")
--   [basic psionics](Basic_Psionics "wikilink")
--   [basic subterfuge](Basic_Subterfuge "wikilink")
--   [basic archery](Basic_Archery "wikilink")
--   [basic theology](Basic_Theology "wikilink")
--   [basic warcraft](Basic_Warcraft "wikilink")
--   [basic empty hand](Basic_Empty_Hand "wikilink")
--   [basic leadership](Basic_Leadership "wikilink")
+-   [basic magic](Basic_Magic.md "wikilink")
+-   [basic psionics](Basic_Psionics.md "wikilink")
+-   [basic subterfuge](Basic_Subterfuge.md "wikilink")
+-   [basic archery](Basic_Archery.md "wikilink")
+-   [basic theology](Basic_Theology.md "wikilink")
+-   [basic warcraft](Basic_Warcraft.md "wikilink")
+-   [basic empty hand](Basic_Empty_Hand.md "wikilink")
+-   [basic leadership](Basic_Leadership.md "wikilink")
 
 # Other Notes
 

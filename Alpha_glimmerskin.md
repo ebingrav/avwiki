@@ -6,7 +6,7 @@ Slot: NA
 Flags: glow glow dark etched  
 Weight: 1  
 Plane: [TBD](TBD "wikilink")  
-Area: [Flayer Keep](:Category:Flayer_Keep "wikilink")  
+Area: [Flayer Keep](:Category:Flayer_Keep.md "wikilink")  
 Mob: [Scalamandrix](Scalamandrix "wikilink")  
 
 ## Comments

@@ -1,5 +1,5 @@
 *Lore tells of a hole in a cave under a [lizard infested
-bog](:Category:_Crescent_Bog "wikilink") so incredibly deep and wide
+bog](:Category:_Crescent_Bog.md "wikilink") so incredibly deep and wide
 that it could only have been made by the passing of a huge creature.
 Indead, there are now many gigantic insects inhabiting this underground
 chasm where only foolish mortals tread.*
@@ -10,29 +10,29 @@ chasm where only foolish mortals tread.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, e,
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n, e,
 2n, 2w, 2n, 2w, 5n, 3d, 2w, d.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Tapeworm](Long_Tapeworm "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Tapeworm](Long_Tapeworm.md "wikilink").
 
 ## Connections
 
 The Abyss connects to the [Crescent
-Bog](:Category:_Crescent_Bog "wikilink") above it via an
-[underwater](Water_Terrain "wikilink") cave. At present, it connects
-with no other [areas](:Category:_Areas "wikilink").
+Bog](:Category:_Crescent_Bog.md "wikilink") above it via an
+[underwater](Water_Terrain.md "wikilink") cave. At present, it connects
+with no other [areas](:Category:_Areas.md "wikilink").
 
 ## Navigation
 
 The Abyss centers around a tall vertical shaft that characters must [be
-flying](Flying_Flag "wikilink") to traverse. This shaft's topmost room
-exits upward into an [underwater](Water_Terrain "wikilink") room within
-the [Crescent Bog](:Category:_Crescent_Bog "wikilink"); so, if you
-suddenly find yourself in a water room while navigating this area, then
-you've gone too far up. The [tapeworm](Long_Tapeworm "wikilink") usually
-stands stationary just below this top entrance, though sometimes it
-appears in the bottommost room of this shaft. About midway down this
+flying](Flying_Flag.md "wikilink") to traverse. This shaft's topmost
+room exits upward into an [underwater](Water_Terrain.md "wikilink") room
+within the [Crescent Bog](:Category:_Crescent_Bog.md "wikilink"); so, if
+you suddenly find yourself in a water room while navigating this area,
+then you've gone too far up. The [tapeworm](Long_Tapeworm.md "wikilink")
+usually stands stationary just below this top entrance, though sometimes
+it appears in the bottommost room of this shaft. About midway down this
 shaft is a level where it connects with four toyshop room, one in each
 cardinal direction.
 
@@ -42,20 +42,20 @@ one exit returns to this shaft *on the same level* while another exit
 returns to this shaft, also, but *on the toyshop level* instead (which
 can potentially be rather disorienting to those unfamiliar with this
 area). At the bottom of this shaft is a [secret
-door](Hidden_Doors "wikilink") leading north into a treasure room (see
-[Treasure-Hunting](Treasure-Hunting "wikilink")); this door may be
-[bashed](Bash "wikilink") open but may not be passed magically.
+door](Hidden_Doors.md "wikilink") leading north into a treasure room
+(see [Treasure-Hunting](Treasure-Hunting "wikilink")); this door may be
+[bashed](Bash.md "wikilink") open but may not be passed magically.
 
 ## Adventuring
 
-Groups normally [portal](Portal "wikilink") to the [Long
+Groups normally [portal](Portal.md "wikilink") to the [Long
 Tapeworm](Long_Tapeworm "wikilink"), which is actually at the very
 bottom of the map, then proceed upwards through the area's long vertical
 shaft. All players need to be flying, as the shaft consists of airborn
 rooms. Note that every single mob here is hidden, so players need
 [Detect Hidden](Detect_Hidden "wikilink"),
 [Alertness](Alertness "wikilink"),
-[Awareness](Awareness_(command/skill) "wikilink"), or [Heighten
+[Awareness](Awareness_(command/skill).md "wikilink"), or [Heighten
 Senses](Heighten_Senses "wikilink"). The mobs of interest are the
 insects who live alone in rooms adjacent to the shaft on each level.
 They carry keys to chests that contain gear.

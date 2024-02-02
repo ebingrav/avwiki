@@ -3,15 +3,15 @@
 *It looks as though it has been made with the rarest*  
 *spider silk.*  
 
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 5 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 5 continuous.`  
 `Modifies age by -15 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 4-6.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 4-6.`
 
 Worn: Head  
 Level: 22-24  
 Base: 4-6  
-Area:[Drow City](:Category:_Drow_City "wikilink")
-([Map](Drow_City_Map "wikilink"))  
+Area:[Drow City](:Category:_Drow_City.md "wikilink")
+([Map](Drow_City_Map.md "wikilink"))  
 Mob: [Drow High Priestess](Drow_High_Priestess "wikilink")  
 Portal to the [Drow High Priestess](Drow_High_Priestess "wikilink") and
 kill her for the headdress!!

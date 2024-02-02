@@ -1,36 +1,37 @@
 *This orb seems to have been carefully crafted by
-[Westwood](:Category:_Westwood "wikilink")'s
-[centaur](Centaurs "wikilink") herd using some curious secret
+[Westwood](:Category:_Westwood.md "wikilink")'s
+[centaur](Centaurs.md "wikilink") herd using some curious secret
 spellcraft. It provides both light and warmth, and enough of both to
 substitute as sunlight for growing plants indoors.*
 
-`It has an unknown `[`duration`](Light_Values "wikilink")`.`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -10 continuous.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 10 continuous.`
+`It has an unknown `[`duration`](Light_Values.md "wikilink")`.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -10 continuous.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 10 continuous.`
 
 **Keyword(s):** orb, sunshine, centaurish, magical, light.  
-**[Level(s)](Object_Level "wikilink"):** 19-22.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[light](:Category:_Lights "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 20 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-evil](Anti-Evil_Flag "wikilink"), [bless](Bless_Flag "wikilink"),
-[glow](Glow_Flag "wikilink"), [good](Good_Flag "wikilink"),
-[magic](Magic_Flag "wikilink"), [nolocate](NoLocate_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 19-22.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[light](:Category:_Lights.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 20 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-evil](Anti-Evil_Flag.md "wikilink"),
+[bless](Bless_Flag.md "wikilink"), [glow](Glow_Flag.md "wikilink"),
+[good](Good_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[nolocate](NoLocate_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Centaur
-Hollow](:Category:_Centaur_Hollow "wikilink")
-([Map](Centaur_Hollow_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Orb of Sunshine
-Quest](Orb_Of_Sunshine_Quest "wikilink").  
-See [Orb of Sunshine Quest](Orb_Of_Sunshine_Quest "wikilink") for more
-information.  
+**[Area](:Category:_Areas.md "wikilink"):** [Centaur
+Hollow](:Category:_Centaur_Hollow.md "wikilink")
+([Map](Centaur_Hollow_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Orb of Sunshine
+Quest](Orb_Of_Sunshine_Quest.md "wikilink").  
+See [Orb of Sunshine Quest](Orb_Of_Sunshine_Quest.md "wikilink") for
+more information.  
 
 [Category: Gear In Centaur
 Hollow](Category:_Gear_In_Centaur_Hollow "wikilink") [Category:

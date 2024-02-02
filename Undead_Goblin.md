@@ -5,9 +5,9 @@ realize that it has to kill in order to eat.*
 **Keywords:** undead, goblin  
 **Level:** 20-22  
 **[Alignment](Alignment "wikilink"):** demonic  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink")  
-**Affects:** [infravision](Infravision "wikilink")
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink")
 
 ### Comments
 
@@ -16,22 +16,22 @@ varieties:
 
 **Short Description:** An undead goblin glares hungrily at you as you
 pass.  
-**Level:** 22 **Wields:** [Heavy Cleaver](Heavy_Cleaver "wikilink")
+**Level:** 22 **Wields:** [Heavy Cleaver](Heavy_Cleaver.md "wikilink")
 
 **Short Description:** This mindless husk of a goblin cares only for
 gathering lost treasure.  
-**Level:** 21, **[Flags](:Category:Mob_Types "wikilink"):**
-[scavenger](:Category:Scavenging_Mobs "wikilink")
+**Level:** 21, **[Flags](:Category:Mob_Types.md "wikilink"):**
+[scavenger](:Category:Scavenging_Mobs.md "wikilink")
 
 **Short Description:** A zombified goblin limps across the glen.  
 **Level:** 20
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [The Walking
-Woods](:Category:Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** In the shadows of the Walking
+**[Area](:Category:Areas.md "wikilink"):** [The Walking
+Woods](:Category:Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** In the shadows of the Walking
 Woods (portable)  
 **Walking route from [Nom](Nom "wikilink"):** 4s 6e s 2e s 2e 2n  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 17w 2n  

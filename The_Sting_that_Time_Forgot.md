@@ -12,14 +12,14 @@
 
 Weight: 25  
 Flags: magic nolocate  
-Plane: [Astral](:Category:Astral "wikilink")  
-Area: [Memory Lane](:Category:Memory_Lane "wikilink")  
+Plane: [Astral](:Category:Astral.md "wikilink")  
+Area: [Memory Lane](:Category:Memory_Lane.md "wikilink")  
 Mob: [The Thing That Time Forgot](The_Thing_That_Time_Forgot "wikilink")
 
 ------------------------------------------------------------------------
 
-See [Gear In Memory Lane](:Category:Gear_In_Memory_Lane "wikilink") for
-more information.
+See [Gear In Memory Lane](:Category:Gear_In_Memory_Lane.md "wikilink")
+for more information.
 
 [Category: Lord Weapons](Category:_Lord_Weapons "wikilink") [Category:
 Hafted Weapons](Category:_Hafted_Weapons "wikilink") [Category: Gear In

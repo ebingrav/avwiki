@@ -1,16 +1,16 @@
-*With a high, arcing shot, an [archer](:Category:_Archers "wikilink")
-can hit a foe who is in the next [room](:Category:_Rooms "wikilink").
+*With a high, arcing shot, an [archer](:Category:_Archers.md "wikilink")
+can hit a foe who is in the next [room](:Category:_Rooms.md "wikilink").
 More often than not, the victim will move out to attack its assailant;
 however, some victims may instead run away or simply stay put and dodge
-future volleys. [Short bows](:Category:_Short_Bows "wikilink") and
-[light crossbows](:Category:_Light_Crossbows "wikilink") cannot perform
-a longshot.*
+future volleys. [Short bows](:Category:_Short_Bows.md "wikilink") and
+[light crossbows](:Category:_Light_Crossbows.md "wikilink") cannot
+perform a longshot.*
 
-Prerequisite(s): [Held Shot](Held_Shot "wikilink").
+Prerequisite(s): [Held Shot](Held_Shot.md "wikilink").
 
-Syntax: longshot <direction> \<[mob](:Category:_Mobs "wikilink")\>.  
-Syntax: [ls](LS "wikilink") <direction>
-\<[mob](:Category:_Mobs "wikilink")\>.  
+Syntax: longshot <direction> \<[mob](:Category:_Mobs.md "wikilink")\>.  
+Syntax: [ls](LS.md "wikilink") <direction>
+\<[mob](:Category:_Mobs.md "wikilink")\>.  
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer

@@ -1,26 +1,26 @@
-*This [spell](:Category:_Spells "wikilink") takes you from your current
-location to your target. The target must be a
-[PC](:Category:_Characters "wikilink") or a
-[Mob](:Category:_Mobs "wikilink"). Kind of got to know where you are
+*This [spell](:Category:_Spells.md "wikilink") takes you from your
+current location to your target. The target must be a
+[PC](:Category:_Characters.md "wikilink") or a
+[Mob](:Category:_Mobs.md "wikilink"). Kind of got to know where you are
 going. This spell now carries a risk of damage to
-[hp](Hit_Points "wikilink")/[mana](Mana_Points "wikilink").*
+[hp](Hit_Points.md "wikilink")/[mana](Mana_Points.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'teleport'
-\<[character](:Category:_Characters "wikilink")/[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'teleport'
+\<[character](:Category:_Characters.md "wikilink")/[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [skill](:Category:_Skills_And_Spells "wikilink") is invaluable to
-[characters](:Category:_Characters "wikilink") of all
-[classes](:Category:_Classes "wikilink"). When teleporting, target
+This [skill](:Category:_Skills_And_Spells.md "wikilink") is invaluable
+to [characters](:Category:_Characters.md "wikilink") of all
+[classes](:Category:_Classes.md "wikilink"). When teleporting, target
 keywords should be chosen carefully; for example, more than one person
 has typed *cast 'teleport' baron* intending to kill [Baron
-Sarphyre](Baron_Amier_Sarphyre "wikilink") only to die to the [Robber
-Baron](Robber_Baron "wikilink") instead, which could easily have been
+Sarphyre](Baron_Amier_Sarphyre.md "wikilink") only to die to the [Robber
+Baron](Robber_Baron.md "wikilink") instead, which could easily have been
 prevented by typing *cast 'teleport' bar sar* instead.
-[Scry](Scry "wikilink") may be used to verify where a certain
+[Scry](Scry.md "wikilink") may be used to verify where a certain
 combination of keywords will (currently) lead; this destination may
-change over time, however, as [mobs](:Category:_Mobs "wikilink") move
+change over time, however, as [mobs](:Category:_Mobs.md "wikilink") move
 and die and respawn.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")

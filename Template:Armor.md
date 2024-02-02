@@ -1,19 +1,19 @@
 **
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is ``.`  
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is ``.`  
   
   
   
   
 
 **Keyword(s):** , , , , .  
-**[Level(s)](Object_Level "wikilink"):** .  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** \<\>.  
-**[Quality](Object_Quality "wikilink"):** hps.  
-**[Weight](Object_Weight "wikilink"):** lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
+**[Level(s)](Object_Level.md "wikilink"):** .  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** \<\>.  
+**[Quality](Object_Quality.md "wikilink"):** hps.  
+**[Weight](Object_Weight.md "wikilink"):** lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
 [{{{Flag1}}}]({{{Flag1}}} "wikilink"),
 [{{{Flag2}}}]({{{Flag2}}} "wikilink"),
 [{{{Flag3}}}]({{{Flag3}}} "wikilink"),
@@ -24,16 +24,16 @@
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[](:Category:_{{{Area}}} "wikilink")
-([Map]({{{Area}}}_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[](:Category:_{{{Area}}}.md "wikilink")
+([Map]({{{Area}}}_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [{{{Mob1}}}]({{{Mob1}}} "wikilink"),
 [{{{Mob2}}}]({{{Mob2}}} "wikilink"),
 [{{{Mob3}}}]({{{Mob3}}} "wikilink").  
-**[Quest](:Category:_Ticket_Quests "wikilink"):**
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):**
 [{{{Quest}}}]({{{Quest}}} "wikilink").  
-**[Room(s)](:Category:_Rooms "wikilink"):** () in .
+**[Room(s)](:Category:_Rooms.md "wikilink"):** () in .
 
 [Category: Gear In {{{Area}}}](Category:_Gear_In_{{{Area}}} "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category:

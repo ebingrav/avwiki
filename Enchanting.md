@@ -1,31 +1,31 @@
 Enchanting is the process of using [Enchant
-Weapon](Enchant_Weapon "wikilink"), [Enchant
-Armor](Enchant_Armor "wikilink") and [Enchant
-Bow](Enchant_Bow "wikilink") to improve an item of that type. While
+Weapon](Enchant_Weapon.md "wikilink"), [Enchant
+Armor](Enchant_Armor.md "wikilink") and [Enchant
+Bow](Enchant_Bow.md "wikilink") to improve an item of that type. While
 enchanting gear is not necessary, gear with enchantments are highly
 prized, especially hero level gear that is either single or double
-[brilled](Brilling "wikilink").
+[brilled](Brilling.md "wikilink").
 
 Enchanting carries a price, however. One can either successfully enchant
-the item, adding either +1 [hr](Hit_Roll "wikilink")/+1
-[dr](Damage_Roll "wikilink") (+2/+2 with a brilled enchant weapon), -2
-[AC](Armor_Class "wikilink") (-3 AC with a brilled enchant armor) or +2
-hit roll (+3 with a brilled enchant bow) respectively, the item can
-[fade](Fading "wikilink"), explode, or nothing at all can happen. In the
-case of a successful enchant or a fade, the item will raise in level,
-depending on the level of the caster with respect to the item.
+the item, adding either +1 [hr](Hit_Roll.md "wikilink")/+1
+[dr](Damage_Roll.md "wikilink") (+2/+2 with a brilled enchant weapon),
+-2 [AC](Armor_Class.md "wikilink") (-3 AC with a brilled enchant armor)
+or +2 hit roll (+3 with a brilled enchant bow) respectively, the item
+can [fade](Fading.md "wikilink"), explode, or nothing at all can happen.
+In the case of a successful enchant or a fade, the item will raise in
+level, depending on the level of the caster with respect to the item.
 
 Enchanting items that already have enchantments on them appears to be
 more difficult, though much is governed by luck. While some items are
 easier to enchant than others, gear with armor class modifiers on them
-already, such as [tank gear](:Category:_Hero_Tank_Gear "wikilink") tends
-to be harder to enchant than items without, such as [ mana
-gear](:Category:_Hero_Mana_Gear "wikilink"). Certain tank items are much
-harder to brill than others, eg. carved bone necklaces vs. gauntlets of
-silver.
+already, such as [tank gear](:Category:_Hero_Tank_Gear.md "wikilink")
+tends to be harder to enchant than items without, such as [ mana
+gear](:Category:_Hero_Mana_Gear.md "wikilink"). Certain tank items are
+much harder to brill than others, eg. carved bone necklaces vs.
+gauntlets of silver.
 
 If you worship certain [Gods and
-Goddesses](:Category:_Gods_And_Goddesses "wikilink") then the odds of
+Goddesses](:Category:_Gods_And_Goddesses.md "wikilink") then the odds of
 successfully enchanting will change based on your deity's presence.
 Every so often while enchanting you'll see the message "You feel the
 presence of <godname>!". Depending on who you

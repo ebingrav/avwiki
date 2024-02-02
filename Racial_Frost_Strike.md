@@ -5,8 +5,8 @@ combat with.
 
 In addition to causing damage, this attack can also slow an opponent
 down, reducing their ability to perform multiple attacks per round.
-Froststrike grows in power as a [Frost Giant](Frost_Giants "wikilink")
-becomes more experienced.
+Froststrike grows in power as a [Frost
+Giant](Frost_Giants.md "wikilink") becomes more experienced.
 
 This racial is EXHAUSTED for a short time when used.''
 

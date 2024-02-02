@@ -10,13 +10,13 @@ hit something a considerable distance away.*
 `Draw strength is 10.`
 
 **Keyword(s):** jezzail arbalest barrel  
-**[Type](:Category:_Object_Types "wikilink"):**
-[bow](:Category:_Bows "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>  
-**[Weight](Object_Weight "wikilink"):** 18 lbs  
-**[Level(s)](Object_Level "wikilink"):** 51  
-**[Quality](Object_Quality "wikilink"):** 50 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[bow](:Category:_Bows.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>  
+**[Weight](Object_Weight.md "wikilink"):** 18 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 51  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps  
 
 ## Comments
 
@@ -24,10 +24,10 @@ It's a gun, you will need bullets to use it.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Glyntaff
-Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Area](:Category:_Areas.md "wikilink"):** [ Glyntaff
+Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 [Category: Gear In Glyntaff
 Pass](Category:_Gear_In_Glyntaff_Pass "wikilink") [Category:

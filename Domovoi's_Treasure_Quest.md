@@ -1,6 +1,6 @@
 1.  Start the quest by giving 100 coins to the old weathered beggar in
     Mervue (pp [Banker](Banker "wikilink"), 1s, all w).
-2.  Visit [Tainted Isle](:Category:Tainted_Isle "wikilink")
+2.  Visit [Tainted Isle](:Category:Tainted_Isle.md "wikilink")
 3.  Hatch you need to access is on the second layer, under *Deep within
     the undergrowth*
 4.  Key to open the hatch is on the [Treasure Seeking

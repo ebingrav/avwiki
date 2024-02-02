@@ -1,5 +1,5 @@
 `Syntax: cast threnody `<target>  
-`Prerequisites: `[`Eulogy`](Eulogy "wikilink")  
+`Prerequisites: `[`Eulogy`](Eulogy.md "wikilink")  
 `Participants: 12`  
   
 `With a collective effort, you can summon forth a corpse across the planes`  

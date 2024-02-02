@@ -5,9 +5,9 @@ If you visit [Liam](Liam "wikilink")'s store, you can look at a paper
 requests that you find a Manduck Root for [Liam](Liam "wikilink").
 
 You can find the root in Wayside. Search for Grubb, the kobold mining
-chief, and the [root](Funky_Root "wikilink") is in the pile of dirt near
-him. Give the root to Liam. The reward is a handful of coins, worth 250
-gold.
+chief, and the [root](Funky_Root.md "wikilink") is in the pile of dirt
+near him. Give the root to Liam. The reward is a handful of coins, worth
+250 gold.
 
 SPOILERS:
 

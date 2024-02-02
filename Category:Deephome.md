@@ -1,10 +1,10 @@
 *Deep beneath the surface of Midgaardia, there is a small mining town of
-[deep gnomes](Deep_Gnomes "wikilink") known as Deephome. They were
+[deep gnomes](Deep_Gnomes.md "wikilink") known as Deephome. They were
 recently found by their surface cousins as the
-[gnomes](Gnomes "wikilink") from above carved their own portion of
+[gnomes](Gnomes.md "wikilink") from above carved their own portion of
 passages through the [Underway
-Tunnels](:Category:_Underway_Tunnels "wikilink"). They now use the
-[Underway](:Category:_Underway_Tunnels "wikilink") as a trading route
+Tunnels](:Category:_Underway_Tunnels.md "wikilink"). They now use the
+[Underway](:Category:_Underway_Tunnels.md "wikilink") as a trading route
 between the two villages.*
 
 **Level Range:** 13-20
@@ -13,14 +13,14 @@ between the two villages.*
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 11e, 8n, 3e, d, 2e, 5n, 5w,
+Walking route from [Sol](Sol.md "wikilink"): 11e, 8n, 3e, d, 2e, 5n, 5w,
 4n, 2e, d, 4e, \[e\].
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19w, n, 2w, n, 6w, 13n,
-3e, d, 2e, 5n, 5w, 4n, 2e, d, 4e, \[e\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19w, n, 2w, n, 6w,
+13n, 3e, d, 2e, 5n, 5w, 4n, 2e, d, 4e, \[e\].
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Vernon](Vernon "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Vernon](Vernon.md "wikilink").
 
 ## Connections
 

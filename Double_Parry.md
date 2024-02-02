@@ -1,11 +1,11 @@
-*This [ability](:Category:_Skills "wikilink") grants a second
-[parry](Parry "wikilink") attempt to anybody who is double-wielding a
-[hafted](:Category:_Hafted_Weapons "wikilink") or
-[double-headed](:Category:_Double_Weapons "wikilink")
-[weapon](:Category:_Melee_Weapons "wikilink") in both hands.*
+*This [ability](:Category:_Skills.md "wikilink") grants a second
+[parry](Parry.md "wikilink") attempt to anybody who is double-wielding a
+[hafted](:Category:_Hafted_Weapons.md "wikilink") or
+[double-headed](:Category:_Double_Weapons.md "wikilink")
+[weapon](:Category:_Melee_Weapons.md "wikilink") in both hands.*
 
-Prerequisite(s): [Double Wield](Double_Wield "wikilink"),
-[Parry](Parry "wikilink").
+Prerequisite(s): [Double Wield](Double_Wield.md "wikilink"),
+[Parry](Parry.md "wikilink").
 
 Syntax: none (automatic).
 

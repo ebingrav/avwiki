@@ -1,12 +1,12 @@
 Toxic Items:
 
 -   [Wasp's Poison Sac](Wasp's_Poison_Sac "wikilink") (from [ Aculeata
-    Jatha-La](:Category:Aculeata_Jatha-La "wikilink"))
+    Jatha-La](:Category:Aculeata_Jatha-La.md "wikilink"))
 -   [Troll's Eyeball](Troll's_Eyeball "wikilink")
 
 Toxic but not alchemical items:
 
--   [broken fang](Broken_Fang "wikilink"): Toxic but not a natural
+-   [broken fang](Broken_Fang.md "wikilink"): Toxic but not a natural
     reagent ('This a broken fang sure is toxic, but it doesn't seem to
     be a natural reagent.')
 -   jijon's stinger

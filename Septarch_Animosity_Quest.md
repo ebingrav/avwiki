@@ -24,11 +24,11 @@ Perform the following:
 -   say phrase
 -   (wait)
 -   she will drop the [drow
-    headdress](Drow_Headdress_(Tiureess) "wikilink")
+    headdress](Drow_Headdress_(Tiureess).md "wikilink")
 
 *Note*: The quest has recently been fixed so that Septarch Animosity
 will also give the player an insignia, [Kwa'Xulu
-Operative](Sept_Kwa'Xulu_Insignia "wikilink"), should the quest be
+Operative](Sept_Kwa'Xulu_Insignia.md "wikilink"), should the quest be
 completed in the manner presented.
 
 There are at least three known variations to the conclusion, all with

@@ -1,9 +1,9 @@
 `Map is big, click repeatedly to enlarge.`
 
 <figure>
-<img src="Ruined.lairs.4.jpg" title="Ruined.lairs.4.jpg" width="650"
-alt="Ruined.lairs.4.jpg" />
-<figcaption aria-hidden="true">Ruined.lairs.4.jpg</figcaption>
+<img src="Ruined.lairs.4.jpg.md" title="Ruined.lairs.4.jpg.md"
+width="650" alt="Ruined.lairs.4.jpg.md" />
+<figcaption aria-hidden="true">Ruined.lairs.4.jpg.md</figcaption>
 </figure>
 
 [Ruins Of Reveria Map](Ruins_Of_Reveria_Map "wikilink")  

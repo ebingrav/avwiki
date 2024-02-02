@@ -1,26 +1,26 @@
 *A very large, and rough-looking wooden staff is here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 14 to 34 (average 24).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 4 continuous.`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 4 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 14 to 34 (average 24).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 4 continuous.`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 4 continuous.`
 
 **Keyword(s):** rough-hewn staff.  
-**[Level(s)](Object_Level "wikilink"):** 33.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 9 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 33.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 9 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Paradise
-Point](:Category:_Paradise_Point "wikilink")
-([Map](Paradise_Point_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Minotaur
+**[Area](:Category:_Areas.md "wikilink"):** [Paradise
+Point](:Category:_Paradise_Point.md "wikilink")
+([Map](Paradise_Point_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Minotaur
 Ranger](Minotaur_Ranger "wikilink").  
 See [Minotaur Ranger](Minotaur_Ranger "wikilink") for more
 information.  

@@ -1,15 +1,15 @@
 *CALCIFY FLESH creates hard, bony plates under the caster's skin.
 Although it confers a bit of a lumpy look, it does help to [soak up
-damage](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink").
+damage](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink").
 This spell is a [BIOCENTRIC Psionic
-Spells](:Category:_Biocentric_Skills_And_Spells "wikilink"). They can
-only be [cast](Cast "wikilink") on others if the Caster first masters
-the art of [BIO EMPATHY](Bio_Empathy "wikilink").*
+Spells](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). They can
+only be [cast](Cast.md "wikilink") on others if the Caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'calcify flesh'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'calcify flesh'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

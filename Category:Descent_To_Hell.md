@@ -1,9 +1,9 @@
 *The first adventurer that returned from this place babbled incoherently
-for weeks about ghosts, [demons](Demons "wikilink"), devils, and pies
-that bite back? Only the skilled healing of [Aelmon](Aelmon "wikilink")
-could eventually restore the man's sanity long enough for him to speak
-of a well-hidden entrance in the depths of
-[Wildwood](:Category:_Wildwood "wikilink"). No more could be learned,
+for weeks about ghosts, [demons](Demons.md "wikilink"), devils, and pies
+that bite back? Only the skilled healing of
+[Aelmon](Aelmon.md "wikilink") could eventually restore the man's sanity
+long enough for him to speak of a well-hidden entrance in the depths of
+[Wildwood](:Category:_Wildwood.md "wikilink"). No more could be learned,
 unfortunately, as the brave adventurer died screaming after being
 offered a chicken pie.*
 
@@ -13,14 +13,14 @@ offered a chicken pie.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, \[d\].
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, \[d\].
 
-Walking route from [Ulrich](Ulrich "wikilink"): n, w, 6n, e, 3s, w, s,
-w, \[d\].
+Walking route from [Ulrich](Ulrich.md "wikilink"): n, w, 6n, e, 3s, w,
+s, w, \[d\].
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Stanley](Stanley "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Stanley](Stanley.md "wikilink").
 
 ## Connections
 

@@ -1,7 +1,7 @@
 # Notable Mobs
 
 [(Hide) (Sneak) Death approaches, silently.
-](Desciple_Of_Death "wikilink")
+](Desciple_Of_Death.md "wikilink")
 
 # Other Notes
 

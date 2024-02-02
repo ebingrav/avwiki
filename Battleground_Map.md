@@ -1,9 +1,9 @@
 `Map is huge, click repeatedly to enlarge.`
 
 <figure>
-<img src="Battleground_map.jpg" title="Battleground_map.jpg" width="650"
-alt="Battleground_map.jpg" />
-<figcaption aria-hidden="true">Battleground_map.jpg</figcaption>
+<img src="Battleground_map.jpg.md" title="Battleground_map.jpg.md"
+width="650" alt="Battleground_map.jpg.md" />
+<figcaption aria-hidden="true">Battleground_map.jpg.md</figcaption>
 </figure>
 
 [Serpent Weyr Map](Serpent_Weyr_Map "wikilink")  

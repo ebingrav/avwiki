@@ -19,7 +19,7 @@ speedwalk e, 2n, u, 3e (dangerous route).
 
 -   Move u, w, n.
 -   Unlock trunk which contains [an aquamarine
-    gemstone](Aquamarine_Gemstone "wikilink") and an ornate lockbox
+    gemstone](Aquamarine_Gemstone.md "wikilink") and an ornate lockbox
     which is used in the [Restoring Dwarfanity
     Quest](Restoring_Dwarfanity_Quest "wikilink").
 

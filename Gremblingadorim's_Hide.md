@@ -4,14 +4,14 @@ Slot: Neck
 Level: 40  
 Base: 9-10  
 Weight: 8  
-Area: [Wildwood](:Category:_Wildwood "wikilink")
-([Map](Wildwood_Map "wikilink"))  
+Area: [Wildwood](:Category:_Wildwood.md "wikilink")
+([Map](Wildwood_Map.md "wikilink"))  
 Skinned From: [Gremblingadorim](Gremblingadorim "wikilink")  
-Port to [Grembling](Gremblingadorim "wikilink") kill it, and skin the
+Port to [Grembling](Gremblingadorim.md "wikilink") kill it, and skin the
 corpse.  
 [Gremblingadorim](Gremblingadorim "wikilink") wanders and can usually be
-found in the Northeast [Wildwood](:Category:Wildwood "wikilink") around
-[Wamphyri Aerie](:Category:Wamphyri_Aerie "wikilink")
+found in the Northeast [Wildwood](:Category:Wildwood.md "wikilink")
+around [Wamphyri Aerie](:Category:Wamphyri_Aerie.md "wikilink")
 
 [Category: Gear In Wildwood](Category:_Gear_In_Wildwood "wikilink")
 [Category: Armor](Category:_Armor "wikilink") [Category: Lowmort 31-40

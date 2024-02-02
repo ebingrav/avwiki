@@ -6,7 +6,7 @@ to welcome his forces. Within the body of the letter, the words
 **Keywords:** letter, ultimatum  
 **Level:** 48  
 **Weight:** 0  
-**[Type](:Category:Object_Types "wikilink"):** ticket  
+**[Type](:Category:Object_Types.md "wikilink"):** ticket  
 **Mob:** [Captain Dieme](Captain_Dieme "wikilink")  
 **Quest:** [Lord Audis's Final Offer
 Quest](Lord_Audis's_Final_Offer_Quest "wikilink")

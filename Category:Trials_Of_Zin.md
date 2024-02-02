@@ -1,13 +1,13 @@
-*The Magician [Zin](Zin "wikilink") is rumored to be quite the oddball.
-He lives in a flying citadel on the outskirts of
-[Midgaard](:Category:_Midgaard "wikilink") in the
-[Wildwood](:Category:_Wildwood "wikilink"). Legend says he eagerly
+*The Magician [Zin](Zin.md "wikilink") is rumored to be quite the
+oddball. He lives in a flying citadel on the outskirts of
+[Midgaard](:Category:_Midgaard.md "wikilink") in the
+[Wildwood](:Category:_Wildwood.md "wikilink"). Legend says he eagerly
 welcomes guests and has a myriad of trials for visiting adventurers.
 Rumors vary as to what the trials may actually entail, but each is said
 to test an adventurer's mettle. It is also rumored that
-[Zin](Zin "wikilink") has a collection of odd tidbits that he keeps in a
-[Hall](:Category:_Zin's_Hall_Of_Oddities "wikilink") that he likes to
-show to his guests.*
+[Zin](Zin.md "wikilink") has a collection of odd tidbits that he keeps
+in a [Hall](:Category:_Zin's_Hall_Of_Oddities.md "wikilink") that he
+likes to show to his guests.*
 
 **Level Range:** 40-50
 
@@ -15,18 +15,18 @@ show to his guests.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, s.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Zin](Zin "wikilink"), [phoenix](Phoenix "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Zin](Zin.md "wikilink"), [phoenix](Phoenix.md "wikilink").
 
 ## Connections
 
 -   [Ruined Lair
-    Introduction](:Category:Ruined_Lair_Introduction "wikilink")
--   [Wildwood](:Category:Wildwood "wikilink")
+    Introduction](:Category:Ruined_Lair_Introduction.md "wikilink")
+-   [Wildwood](:Category:Wildwood.md "wikilink")
 -   [Zin's Hall Of
-    Oddities](:Category:Zin's_Hall_Of_Oddities "wikilink")
+    Oddities](:Category:Zin's_Hall_Of_Oddities.md "wikilink")
 
 ## Navigation
 

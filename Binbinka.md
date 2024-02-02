@@ -7,21 +7,21 @@ overlapping scarred and burned tissue. Only the thick, orcish skin has
 protected them from true harm. The mystery of their origins elude all.*
 
 **Keywords:** Binbinka, shaman  
-**[Level](Level "wikilink"):** 85  
-**[Alignment](Alignment "wikilink"):** saintly  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[multi-breather](Breathing_Mobs "wikilink")  
-**Affects:** [sanctuary](Sanctuary "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"), [protection
-evil](Protection_Evil "wikilink")
+**[Level](Level.md "wikilink"):** 85  
+**[Alignment](Alignment.md "wikilink"):** saintly  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[multi-breather](Breathing_Mobs.md "wikilink")  
+**Affects:** [sanctuary](Sanctuary.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"), [protection
+evil](Protection_Evil.md "wikilink")
 
 ## Gear
 
 `Binbinka, the village shaman is using:`  
-<worn on body>` `[`a`` ``long,`` ``white`` ``robe`](Long,_White_Robe "wikilink")  
-<held>` `[`a`` ``pearl-tipped`` ``staff`](Pearl-Tipped_Staff "wikilink")
+<worn on body>` `[`a`` ``long,`` ``white`` ``robe`](Long,_White_Robe.md "wikilink")  
+<held>` `[`a`` ``pearl-tipped`` ``staff`](Pearl-Tipped_Staff.md "wikilink")
 
 ## Comments
 
@@ -33,7 +33,7 @@ soloing and unsure of your hps. He's a popular target for the
 ## Directions
 
 Walking route from [Eragora default
-recall](Eragora_default_recall "wikilink"): 2s, d, 2s, e, 4s, 3e, 2s,
+recall](Eragora_default_recall.md "wikilink"): 2s, d, 2s, e, 4s, 3e, 2s,
 2e, 2s, 4e, n.
 
 Mob is portable.

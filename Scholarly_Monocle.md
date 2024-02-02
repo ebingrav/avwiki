@@ -1,24 +1,24 @@
 *A monocle is here, in case you want to look scholarly.*
 
-`Modifies `[`intelligence`](Intelligence "wikilink")` by -2 continuous.`
+`Modifies `[`intelligence`](Intelligence.md "wikilink")` by -2 continuous.`
 
 **Keyword(s):** scholarly monocle.  
-**[Level(s)](Object_Level "wikilink"):** 17.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[trash](:Category:_Trash "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on head>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 17.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[trash](:Category:_Trash.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on head>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Undrehand](:Category:_Undrehand "wikilink")
-([Map](Undrehand_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**
+**[Area](:Category:_Areas.md "wikilink"):**
+[Undrehand](:Category:_Undrehand.md "wikilink")
+([Map](Undrehand_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**
 [D'weezelle](D'weezelle "wikilink").  
 See [D'weezelle](D'weezelle "wikilink") for more information.  
 

@@ -1,5 +1,5 @@
 ` 1 'LEAD CADET'`  
-` Prerequisities: `[`lead`` ``assault`](Lead_Assault "wikilink")  
+` Prerequisities: `[`lead`` ``assault`](Lead_Assault.md "wikilink")  
 ` Syntax: `<automatic>  
 ` `  
 ` A Soldier's military training makes them a more effective leader. This skill`  
@@ -10,6 +10,6 @@
 ` class' level of discipline. This will be the first person found in group`  
 ` who is standing and not already using a stance.`  
 ` `  
-` See Also: `[`STANCE`](Stance "wikilink")
+` See Also: `[`STANCE`](Stance.md "wikilink")
 
 [Category:Soldier_Hero_Skills_And_Spells](Category:Soldier_Hero_Skills_And_Spells "wikilink")

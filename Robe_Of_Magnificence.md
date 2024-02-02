@@ -6,15 +6,15 @@ Modifies damage roll by 8 continuous
 Slot: about body  
 Weight: 3  
 Flags: glow bless nolocate  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")  
-Mob: [spirit of Fattah-Ra](Spirit_Of_Fattah-Ra "wikilink")  
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")  
+Mob: [spirit of Fattah-Ra](Spirit_Of_Fattah-Ra.md "wikilink")  
 
 ------------------------------------------------------------------------
 
 See [Gear In Patriarchs'
-Gulch](:Category:Gear_In_Patriarchs'_Gulch "wikilink") for instructions
-on how to get this gear.
+Gulch](:Category:Gear_In_Patriarchs'_Gulch.md "wikilink") for
+instructions on how to get this gear.
 
 [Category:Lord Hit Gear](Category:Lord_Hit_Gear "wikilink")
 [Category:Lord Archer Gear](Category:Lord_Archer_Gear "wikilink")

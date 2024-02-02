@@ -13,9 +13,9 @@ Damage is 34 to 101 (average 67).
 
 Slot: Wield/Offhand
 
-Plane: [World Of Stone](:Category:World_Of_Stone "wikilink")
+Plane: [World Of Stone](:Category:World_Of_Stone.md "wikilink")
 
-Area: [Mountain Of Madness](:Category:Mountain_Of_Madness "wikilink")
+Area: [Mountain Of Madness](:Category:Mountain_Of_Madness.md "wikilink")
 
 Mob: [Mad Dwarf, Alastar](Mad_Dwarf,_Alastar "wikilink")
 

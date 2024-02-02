@@ -6,7 +6,7 @@ hilts or grips, like a bastard sword or a war-axe.
 
 <!-- -->
 
--   These weapons can be used to [Smash](Smash "wikilink").
+-   These weapons can be used to [Smash](Smash.md "wikilink").
 
 <!-- -->
 

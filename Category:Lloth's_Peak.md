@@ -1,9 +1,9 @@
 *The Volcano itself has been inactive for many centuries, but the inside
 of its crater has many winding, dank tunnels that are the perfect
 nesting place for a band of harpies that feed on the young of the nearby
-[elven](Elves "wikilink") settlements. Rumor has it there is something
-even darker in Lloth's Peak, dwelling beneath the harpies and deeper
-inside the earth.*
+[elven](Elves.md "wikilink") settlements. Rumor has it there is
+something even darker in Lloth's Peak, dwelling beneath the harpies and
+deeper inside the earth.*
 
 **Level Range:** 23-30
 
@@ -11,11 +11,11 @@ inside the earth.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 6w, 4n, w,
-u, 2s, w, s, 2w, 4u, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 6w, 4n,
+w, u, 2s, w, s, 2w, 4u, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [drider
-witch](Drider_Witch "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [drider
+witch](Drider_Witch.md "wikilink").
 
 ## Connections
 

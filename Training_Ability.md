@@ -1,12 +1,12 @@
-[Characters](:Category:_Characters "wikilink") may see their maximum
-[ability](:Category:_Abilities "wikilink") to
-[train](:Category:_Trainers "wikilink") other
-[characters](:Category:_Characters "wikilink") through use of their
-[abilities](Abilities "wikilink")
-[command](:Category:_Commands "wikilink").
+[Characters](:Category:_Characters.md "wikilink") may see their maximum
+[ability](:Category:_Abilities.md "wikilink") to
+[train](:Category:_Trainers.md "wikilink") other
+[characters](:Category:_Characters.md "wikilink") through use of their
+[abilities](Abilities.md "wikilink")
+[command](:Category:_Commands.md "wikilink").
 
-See also [Demonstrate](Demonstrate "wikilink") and [Tutor
-Other](Tutor_Other "wikilink").
+See also [Demonstrate](Demonstrate.md "wikilink") and [Tutor
+Other](Tutor_Other.md "wikilink").
 
 [Category: Characters](Category:_Characters "wikilink") [Category:
 Abilities](Category:_Abilities "wikilink")

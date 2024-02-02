@@ -12,23 +12,23 @@ Sailors assist, and at a rather high alignment. Only the wholly angelic
 are safe from their briny wrath.
 
 A Seasoned Sailor, [an Officer of Lord
-Audis](Officer_Of_Lord_Audis "wikilink"), [a Hired
-Soldier](Hired_Solider "wikilink"), [a Professional
-Warrior](Professional_Warrior "wikilink"), and [a Paid
-Mercenary](Paid_Mercenary "wikilink") are the most easily accessible xp
-mobs in Gorn's Anchor. Two of each (except for sailors, of which there
-are four) patrol the dock.
+Audis](Officer_Of_Lord_Audis.md "wikilink"), [a Hired
+Soldier](Hired_Solider.md "wikilink"), [a Professional
+Warrior](Professional_Warrior.md "wikilink"), and [a Paid
+Mercenary](Paid_Mercenary.md "wikilink") are the most easily accessible
+xp mobs in Gorn's Anchor. Two of each (except for sailors, of which
+there are four) patrol the dock.
 
 Three of the sailors are level 42. The one reading off of a checklist is
 level 45.
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [Gorn's
-Anchor](:Category:Gorn's_Anchor "wikilink")
-([Map](Gorn's_Anchor_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** A Road to Town Square (portable)
-& The Port of Gorn's Anchor (portable)  
+**[Area](:Category:Areas.md "wikilink"):** [Gorn's
+Anchor](:Category:Gorn's_Anchor.md "wikilink")
+([Map](Gorn's_Anchor_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** A Road to Town Square
+(portable) & The Port of Gorn's Anchor (portable)  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 39s, 3w, 3n, 2e
 
 Seasoned Sailor is portable.

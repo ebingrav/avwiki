@@ -1,8 +1,8 @@
 This quest rewards the player with the [Mountain Adventurer
 Insignia](Mountain_Adventurer_Insignia "wikilink") and involves
-[Mountain Tunnels](:Category:Mountain_Tunnels "wikilink") and
-[Halfling's Paradise](:Category:Halfling's_Paradise "wikilink") areas on
-[Eragora](:Category:Eragora "wikilink").
+[Mountain Tunnels](:Category:Mountain_Tunnels.md "wikilink") and
+[Halfling's Paradise](:Category:Halfling's_Paradise.md "wikilink") areas
+on [Eragora](:Category:Eragora.md "wikilink").
 
 To be eligible to start this quest you must not have done the [Halfling
 Detective Quest](Halfling_Detective_Quest "wikilink"), or if you have,

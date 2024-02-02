@@ -46,18 +46,18 @@ player-killing, average count, etc. After checking all the options, he
 ended up with one mud: AVATAR. And he hasn't played anywhere else since.
 
 Orion first played an [elf](elf "wikilink")
-[warrior](:Category:Warriors "wikilink"), a fairly terrible combination,
-he learned, but he was more interested in playing the character. Orion
-was interested in social aspects of the mud, and particularly enjoyed
-playing and conversing with the quite international player base. Early
-in his days as a hero, he developed a website called the Avatar Player
-Locator, which allowed players to login and register their location in
-the world. The site is now defunct, but it was enough to demonstrate to
-someone in the immortal staff that Orion enjoyed much more than sponging
-and hoarding items. Within a few months of the site's launch, Orion
-received an invitation to participate as an
+[warrior](:Category:Warriors.md "wikilink"), a fairly terrible
+combination, he learned, but he was more interested in playing the
+character. Orion was interested in social aspects of the mud, and
+particularly enjoyed playing and conversing with the quite international
+player base. Early in his days as a hero, he developed a website called
+the Avatar Player Locator, which allowed players to login and register
+their location in the world. The site is now defunct, but it was enough
+to demonstrate to someone in the immortal staff that Orion enjoyed much
+more than sponging and hoarding items. Within a few months of the site's
+launch, Orion received an invitation to participate as an
 [Acolyte](Acolyte "wikilink"), an
-[Immortal](:Category:Immortals "wikilink") candidate.
+[Immortal](:Category:Immortals.md "wikilink") candidate.
 
 Orion retired in October, 2004, (at the rank of Host Senior) as his
 relatively new job was increasingly taxing and didn't leave much time

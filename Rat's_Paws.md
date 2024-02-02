@@ -1,25 +1,25 @@
 *The paws of a deceased rat lie on the floor here.*
 
-[`Armor`` ``class`](Armor_Values "wikilink")` is 5.`  
-`Modifies `[`moves`](Move_Points "wikilink")` by 50 continuous.`
+[`Armor`` ``class`](Armor_Values.md "wikilink")` is 5.`  
+`Modifies `[`moves`](Move_Points.md "wikilink")` by 50 continuous.`
 
 **Keyword(s):** rat paws.  
-**[Level(s)](Object_Level "wikilink"):** 22.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on feet>.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 22.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on feet>.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Nubrius](:Category:_Nubrius "wikilink")
-([Map](Nubrius_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Pack
+**[Area](:Category:_Areas.md "wikilink"):**
+[Nubrius](:Category:_Nubrius.md "wikilink")
+([Map](Nubrius_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Pack
 Rat](Pack_Rat "wikilink").  
 See [Pack Rat](Pack_Rat "wikilink") for more information.
 

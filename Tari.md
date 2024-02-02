@@ -1,18 +1,18 @@
-*Tari is actually a [High Elf](High_Elves "wikilink"), and they only
+*Tari is actually a [High Elf](High_Elves.md "wikilink"), and they only
 show their age when in the very last years of their long lives. Rumor
 holds Tari is the last living being to have personally met
-[Roixa](Roixa "wikilink") before her accendancy to
-[Godhood](:Category:_Gods_And_Goddesses "wikilink").*
+[Roixa](Roixa.md "wikilink") before her accendancy to
+[Godhood](:Category:_Gods_And_Goddesses.md "wikilink").*
 
 **Keywords:** tari, elderly, she-elf, elf.  
-**[Level](Level "wikilink"):** 51 or more.  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[healer](:Category:_Healers "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:_Trainers "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 51 or more.  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[healer](:Category:_Healers.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:_Trainers.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -27,13 +27,13 @@ invis](Detect_Invis "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Westwood](:Category:_Westwood "wikilink")
-([Map](Westwood_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** A small glade (portable,
-[safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 17w, s, 5w, 3n, 3w, n,
-w, n, 2w, s, 2w, s, d, w, u, n, 6w, n, 2w.  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Westwood](:Category:_Westwood.md "wikilink")
+([Map](Westwood_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** A small glade (portable,
+[safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17w, s, 5w, 3n, 3w,
+n, w, n, 2w, s, 2w, s, d, w, u, n, 6w, n, 2w.  
 Tari is portable.  
 
 [Category: Mobs In Westwood](Category:_Mobs_In_Westwood "wikilink")

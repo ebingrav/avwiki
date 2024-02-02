@@ -1,6 +1,6 @@
 ## Lord Bladedancer Skills & Spells Chart
 
-[`Sub`](Sublevel "wikilink")`: List of `[`Skills`` ``&`` ``Spells`](:Category:_Skills_And_Spells "wikilink")` Available to `[`Practice`](Practice "wikilink")` at This `[`Sublevel`](Sublevel "wikilink")`...`  
+[`Sub`](Sublevel.md "wikilink")`: List of `[`Skills`` ``&`` ``Spells`](:Category:_Skills_And_Spells.md "wikilink")` Available to `[`Practice`](Practice.md "wikilink")` at This `[`Sublevel`](Sublevel.md "wikilink")`...`  
   
 ` 1:         `[`planeshift`](planeshift "wikilink")`         `[`maelstrom`](maelstrom "wikilink")`           `[`heal`` ``ii`](heal_ii "wikilink")`      `[`mass`` ``heal`` ``ii`](mass_heal_ii "wikilink")  
 `                `[`repair`](repair "wikilink")`  `[`fast`` ``healing`` ``iii`](fast_healing_iii "wikilink")`    `[`meditation`` ``iii`](meditation_iii "wikilink")`         `[`homeshift`](homeshift "wikilink")  
@@ -9,8 +9,8 @@
 `      `[`heightened`` ``vigor`](heightened_vigor "wikilink")`           `[`renewal`](renewal "wikilink")`         `[`keyfinder`](keyfinder "wikilink")`          `[`symmetry`](symmetry "wikilink")  
 `          `[`mentor`` ``other`](mentor_other "wikilink")`         `[`lead`` ``pack`](lead_pack "wikilink")`      `[`detect`` ``haven`](detect_haven "wikilink")`              `[`send`](send "wikilink")  
 `                `[`troika`](troika "wikilink")`    `[`unending`` ``dance`](unending_dance "wikilink")`    `[`veil`` ``of`` ``blades`](veil_of_blades "wikilink")`       `[`blade`` ``weave`](blade_weave "wikilink")  
-`          `[`tempo`` ``change`](Advanced_Bladedancer_Skills "wikilink")`     `[`thousand`` ``cuts`](Advanced_Bladedancer_Skills "wikilink")`         `[`iron`` ``veil`](Advanced_Bladedancer_Skills "wikilink")`    `[`blade`` ``blessing`](Advanced_Bladedancer_Skills "wikilink")  
-`              `[`epiphany`](Advanced_Bladedancer_Skills "wikilink")`    `[`bountiful`` ``step`](Advanced_Bladedancer_Skills "wikilink")  
+`          `[`tempo`` ``change`](Advanced_Bladedancer_Skills.md "wikilink")`     `[`thousand`` ``cuts`](Advanced_Bladedancer_Skills.md "wikilink")`         `[`iron`` ``veil`](Advanced_Bladedancer_Skills.md "wikilink")`    `[`blade`` ``blessing`](Advanced_Bladedancer_Skills.md "wikilink")  
+`              `[`epiphany`](Advanced_Bladedancer_Skills.md "wikilink")`    `[`bountiful`` ``step`](Advanced_Bladedancer_Skills.md "wikilink")  
 `25:  `[`sublime`` ``eloquence`](sublime_eloquence "wikilink")`       `[`ocean`` ``weave`](ocean_weave "wikilink")  
 `250:        `[`echo`` ``weave`](echo_weave "wikilink")
 

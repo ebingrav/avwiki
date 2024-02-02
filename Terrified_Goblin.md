@@ -7,20 +7,21 @@ He whispers, "Staaaaay awaaaaaay. Monsters inside..."''
 **Keywords:** terrified, goblin  
 **Level:** 5  
 **[Alignment](Alignment "wikilink"):** evil  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [wimpy](Wimpy_Mobs "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[wimpy](Wimpy_Mobs.md "wikilink")  
 
 ### Comments
 
 The Terrified Goblin is in the entrance room to The Walking Woods,
-between the glen and [Goblin Pass](:Category:Goblin_Pass "wikilink").
+between the glen and [Goblin Pass](:Category:Goblin_Pass.md "wikilink").
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [The Walking
-Woods](:Category:Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** Looming trees (portable)  
+**[Area](:Category:Areas.md "wikilink"):** [The Walking
+Woods](:Category:Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** Looming trees (portable)  
 **Walking route from [Nom](Nom "wikilink"):** 4s 6e s 2e s 2e n  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 17w n
 

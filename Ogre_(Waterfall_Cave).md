@@ -5,16 +5,16 @@ room, only to find himself retreating from an insane drow, intent on
 protecting his dying friend.*
 
 **Keywords:** ogre.  
-**[Level](Level "wikilink"):** 37.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 37.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `An ogre is using:`  
-<held in offhand>`   `[`black`` ``shield`` ``of`` ``defense`](Black_Shield_Of_Defense "wikilink")
+<held in offhand>`   `[`black`` ``shield`` ``of`` ``defense`](Black_Shield_Of_Defense.md "wikilink")
 
 `An ogre is carrying:`  
 `     Nothing.`
@@ -23,12 +23,13 @@ protecting his dying friend.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Waterfall
-Cave](:Category:_Waterfall_Cave "wikilink")
-([Map](Waterfall_Cave_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Tiny passage (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, 3n, 2w, n.  
+**[Area](:Category:_Areas.md "wikilink"):** [Waterfall
+Cave](:Category:_Waterfall_Cave.md "wikilink")
+([Map](Waterfall_Cave_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Tiny passage
+(portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, 3n, 2w, n.  
 An ogre is portable, but the lack of unique keywords makes teleporting
 unreliable, so tele Ziltyi.  
 

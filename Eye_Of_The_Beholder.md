@@ -5,26 +5,27 @@
 `Modifies mana by 75 continuous.`
 
 **Keyword(s):** beholder, eye.  
-**[Level(s)](Object_Level "wikilink"):** 51-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Light](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <used as light>.  
-**[Quality](Object_Quality "wikilink"):** 40 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, evil, magic.  
+**[Level(s)](Object_Level.md "wikilink"):** 51-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Light](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <used as light>.  
+**[Quality](Object_Quality.md "wikilink"):** 40 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, evil,
+magic.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [:Category: Labyrinth Of
+**[Area](:Category:_Areas.md "wikilink"):** [:Category: Labyrinth Of
 Despair](:Category:_Labyrinth_Of_Despair "wikilink")
-([Map](Labyrinth_Of_Despair_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Beholder
+([Map](Labyrinth_Of_Despair_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Beholder
 Mother](Beholder_Mother "wikilink").  
 To get to the Labyrinth of Despair, pp [drow
-spec](Drow_Spectre "wikilink") and go s w s d d w (swsddw) This area is
-a maze.  
+spec](Drow_Spectre.md "wikilink") and go s w s d d w (swsddw) This area
+is a maze.  
 From its entrance go 2n, e, n, w, 2s, \[d\], 2n, 2e, w, e, s
 (2nenw2sd2n2ewes) and kill the [Beholder
 Spectator](Beholder_Spectator "wikilink"). Be sure to get the [Rusty

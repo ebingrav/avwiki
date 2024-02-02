@@ -1,16 +1,17 @@
 *With a vision gifted from your
-[God](:Category:_Gods_And_Goddesses "wikilink"), you shall gain the
+[God](:Category:_Gods_And_Goddesses.md "wikilink"), you shall gain the
 ability to distinguish good from evil. An aura or nimbus will surround
-any you look upon, portraying their [alignment](Alignment "wikilink").*
+any you look upon, portraying their
+[alignment](Alignment.md "wikilink").*
 
-Prerequisite(s): [Detect Evil](Detect_Evil "wikilink").
+Prerequisite(s): [Detect Evil](Detect_Evil.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'detect alignment'.
+Syntax: [cast](Cast.md "wikilink") 'detect alignment'.
 
-This [spell](:Category:_Spells "wikilink") is practically never used.
+This [spell](:Category:_Spells.md "wikilink") is practically never used.
 
 See also [Gear That Applies Detect
-Alignment](:Category:_Gear_That_Applies_Detect_Alignment "wikilink").
+Alignment](:Category:_Gear_That_Applies_Detect_Alignment.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

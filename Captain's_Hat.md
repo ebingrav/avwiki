@@ -13,10 +13,10 @@ information.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Exploration
-Outpost](:Category:_Exploration_Outpost "wikilink")
-([Map](Exploration_Outpost_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Hungry
+**[Area](:Category:_Areas.md "wikilink"):** [Exploration
+Outpost](:Category:_Exploration_Outpost.md "wikilink")
+([Map](Exploration_Outpost_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Hungry
 Firedrake](Hungry_Firedrake "wikilink").  
 
 [Category: Staves](Category:_Staves "wikilink") [Category: Hero

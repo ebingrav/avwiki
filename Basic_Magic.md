@@ -6,7 +6,7 @@ disintegrate.
 
 # Prereqs
 
--   [ initiation](Initiation "wikilink")
+-   [ initiation](Initiation.md "wikilink")
 
 # Skills/Spells Granted
 
@@ -76,9 +76,9 @@ disintegrate.
 
 # Lores Unlocked
 
--   [lesser magic](Lesser_Magic "wikilink")
--   [basic wizardry](Basic_Wizardry "wikilink")
--   [basic stormlore](Basic_Stormlore "wikilink")
+-   [lesser magic](Lesser_Magic.md "wikilink")
+-   [basic wizardry](Basic_Wizardry.md "wikilink")
+-   [basic stormlore](Basic_Stormlore.md "wikilink")
 
 # Other Notes
 

@@ -1,28 +1,28 @@
-*When [cast](Cast "wikilink"), the
-[character](:Category:_Characters "wikilink") uses their mental powers
-to
-[telekinetically](:Category:_Telekinetic_Skills_And_Spells "wikilink")
-control the target [object](:Category:_Objects "wikilink"). The caster
-places the [object](:Category:_Objects "wikilink") into orbit around
-their body, and can thereby gain any magical
-[effects](Object_Affects "wikilink") the
-[object](:Category:_Objects "wikilink") can grant. Only one such
-[object](:Category:_Objects "wikilink") can be placed into orbit at any
-given time. Unfortunately, the process of charging the
-[object](:Category:_Objects "wikilink") with psionic power causes the
-[item](:Category:_Objects "wikilink") to destabilize and eventually
-disappear. At the end of the [spell](:Category:_Spells "wikilink")'s
-duration, the orbiting [object](:Category:_Objects "wikilink") will be
-lost forever. Objects with certain qualities and
-[types](:Category:_Object_Types "wikilink") are not valid candidates for
-this [spell](:Category:_Spells "wikilink"). There are no reimbursements
-for [items](:Category:_Objects "wikilink") that you lose with this
-[spell](:Category:_Spells "wikilink")...*
+*When [cast](Cast.md "wikilink"), the
+[character](:Category:_Characters.md "wikilink") uses their mental
+powers to
+[telekinetically](:Category:_Telekinetic_Skills_And_Spells.md "wikilink")
+control the target [object](:Category:_Objects.md "wikilink"). The
+caster places the [object](:Category:_Objects.md "wikilink") into orbit
+around their body, and can thereby gain any magical
+[effects](Object_Affects.md "wikilink") the
+[object](:Category:_Objects.md "wikilink") can grant. Only one such
+[object](:Category:_Objects.md "wikilink") can be placed into orbit at
+any given time. Unfortunately, the process of charging the
+[object](:Category:_Objects.md "wikilink") with psionic power causes the
+[item](:Category:_Objects.md "wikilink") to destabilize and eventually
+disappear. At the end of the [spell](:Category:_Spells.md "wikilink")'s
+duration, the orbiting [object](:Category:_Objects.md "wikilink") will
+be lost forever. Objects with certain qualities and
+[types](:Category:_Object_Types.md "wikilink") are not valid candidates
+for this [spell](:Category:_Spells.md "wikilink"). There are no
+reimbursements for [items](:Category:_Objects.md "wikilink") that you
+lose with this [spell](:Category:_Spells.md "wikilink")...*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'orbit'
-\<[object](:Category:_Objects "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'orbit'
+\<[object](:Category:_Objects.md "wikilink")\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

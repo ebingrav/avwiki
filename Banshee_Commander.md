@@ -4,19 +4,20 @@ maniacal gleam shines in her eyes. Her brutality and evil genius
 impressed the Necromancer in life. She serves him in undeath for now...*
 
 **Keywords:** Banshee, Commander  
-**[Level](Level "wikilink"):** 63  
-**[Alignment](Alignment "wikilink"):** demonic  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[protected](Protected_Mobs "wikilink"),
-[steadfast](Sentinel_Mobs "wikilink"), [very
-aggressive](Aggressive "wikilink"), [undead](Undead_Mobs "wikilink"),
-[necromancer](Corpse-Animating_Mobs "wikilink")  
-**Affects:** [pass door](Translucent_Flag "wikilink"),
-[flying](Fly "wikilink"), [infravision](Infravision "wikilink")  
+**[Level](Level.md "wikilink"):** 63  
+**[Alignment](Alignment.md "wikilink"):** demonic  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[protected](Protected_Mobs.md "wikilink"),
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+aggressive](Aggressive.md "wikilink"),
+[undead](Undead_Mobs.md "wikilink"),
+[necromancer](Corpse-Animating_Mobs.md "wikilink")  
+**Affects:** [pass door](Translucent_Flag.md "wikilink"),
+[flying](Fly.md "wikilink"), [infravision](Infravision.md "wikilink")  
 
 `The banshee commander is using:`  
-` `<worn on head>`      (Magical) `[`obsidian`` ``helm`](Obsidian_Helm "wikilink")  
-` `<wielded>`           (Magical) `[`emerald`` ``dagger`](Emerald_Dagger "wikilink")
+` `<worn on head>`      (Magical) `[`obsidian`` ``helm`](Obsidian_Helm.md "wikilink")  
+` `<wielded>`           (Magical) `[`emerald`` ``dagger`](Emerald_Dagger.md "wikilink")
 
 Scan Description: (Translucent) (Flying) The banshee commander is here
 planning the destruction of her enemies.

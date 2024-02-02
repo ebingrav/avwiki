@@ -10,9 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Accursed_Lands" title="wikilink">Accursed
+<td><p><a href=":Category:Accursed_Lands.md" title="wikilink">Accursed
 Lands</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Accursed_Lands"
+<td><p>(<a href=":Category:Gear_In_Accursed_Lands.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>
@@ -22,9 +22,9 @@ title="wikilink">Gear</a>)</p></td>
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Patriarchs&#39;_Gulch"
+<td><p><a href=":Category:Patriarchs&#39;_Gulch.md"
 title="wikilink">Patriarchs' Gulch</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Patriarchs&#39;_Gulch"
+<td><p>(<a href=":Category:Gear_In_Patriarchs&#39;_Gulch.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

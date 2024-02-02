@@ -15,21 +15,21 @@ punishable by a variety of mutilating consequences.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 19n, 3e, 5n, u, e, u, w,
-n, u, n, u, 6n, w, u, n, u, e, u, n, w, u, n, u, s, 3u, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 19n, 3e, 5n, u, e, u,
+w, n, u, n, u, 6n, w, u, n, u, e, u, n, w, u, n, u, s, 3u, n.
 
 Walking route from [Tysiln San](Tysiln_San "wikilink"): 2s, u, n, u, s,
 3u, n.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Svlad](Svlad_The_Very_Burly "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Svlad](Svlad_The_Very_Burly.md "wikilink").
 
 ## Connections
 
--   [Summoning](:Category:Summoning "wikilink")
-    ([map](Summoning_Map "wikilink"))
--   [Tssasskkas's Lair](:Category:Tssasskkas's_Lair "wikilink")
-    ([map](Tssasskkas's_Lair_Map "wikilink"))
+-   [Summoning](:Category:Summoning.md "wikilink")
+    ([map](Summoning_Map.md "wikilink"))
+-   [Tssasskkas's Lair](:Category:Tssasskkas's_Lair.md "wikilink")
+    ([map](Tssasskkas's_Lair_Map.md "wikilink"))
 
 ## Navigation
 
@@ -38,12 +38,12 @@ Walking route from [Tysiln San](Tysiln_San "wikilink"): 2s, u, n, u, s,
 [Dogoradultimion](Dogoradultimion "wikilink") detonates (lvl 83 gol
 psi), on scan: (Demonic) (Black Aura) A silver king sits on the golden
 sarcophagus throne, staring at you.
-[Mosca](Animated_Corpse_Of_Mosca "wikilink") can stab for 3-4k hp.
+[Mosca](Animated_Corpse_Of_Mosca.md "wikilink") can stab for 3-4k hp.
 
 There are a couple interesting pseudo-[shop](shop "wikilink") keeper
 mobs here ([Bergozr](Bergozr "wikilink")) that will sell you unusual
 things – but not for gold. It appears they don't trade with lords.
-Notably, [Romostaros](Romostaros_The_Sane "wikilink") will trade a
+Notably, [Romostaros](Romostaros_The_Sane.md "wikilink") will trade a
 perfect gem for a crystal skull key (unlocks the door to Millament that
 everyone normally bashes or bypasses with recall); also, at least every
 time I tried, he gives the gem back. Giving him a fizora results in your
@@ -65,8 +65,8 @@ with a switch and leads to aggressive mobs (similar to the door to the
 ## Comments
 
 Area introduced in March 2014 as a replacement for the grandfathered
-[Dragon Crypt](:Category:Dragon_Crypt "wikilink"). Many of the original
-Crypt's mobs and majority of the gear has been transferred.
+[Dragon Crypt](:Category:Dragon_Crypt.md "wikilink"). Many of the
+original Crypt's mobs and majority of the gear has been transferred.
 
 [Category: Hero Areas](Category:_Hero_Areas "wikilink") [Category: Areas
 by ITyrant](Category:_Areas_by_ITyrant "wikilink") [Category:

@@ -6,13 +6,13 @@
 `Modifies hit roll by 7 continuous`
 
 **Keyword(s):** length red hot chain.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wield>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 25 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow.  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wield>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 25 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow.  
 
 ## Comments
 

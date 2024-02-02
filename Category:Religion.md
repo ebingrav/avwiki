@@ -15,8 +15,9 @@ players much more flexibility.
 developed by Snikt and was expanded by Devastant after its initial
 implementation.)
 
-See also [Pantheon Courtyard](:Category:_Pantheon_Courtyard "wikilink")
-and [Statistics](:Category:_Statistics "wikilink").
+See also [Pantheon
+Courtyard](:Category:_Pantheon_Courtyard.md "wikilink") and
+[Statistics](:Category:_Statistics.md "wikilink").
 
 [Category: Miscellaneous](Category:_Miscellaneous "wikilink") [Category:
 Characters](Category:_Characters "wikilink")

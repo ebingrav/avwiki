@@ -12,9 +12,10 @@
     Use of this technique requires 1 Inner Qi.
     This skill causes radiant damage.
 
-SEE ALSO: [CHAKRA](Chakra "wikilink"), [CHAKRA
-SCAN](Chakra_Scan "wikilink"), [CHAKRA DRAIN](Chakra_Drain "wikilink"),
-[CHAKRA INVERT](Chakra_Drain "wikilink")
+SEE ALSO: [CHAKRA](Chakra.md "wikilink"), [CHAKRA
+SCAN](Chakra_Scan.md "wikilink"), [CHAKRA
+DRAIN](Chakra_Drain.md "wikilink"), [CHAKRA
+INVERT](Chakra_Drain.md "wikilink")
 
 [Category:Lord Monk Skills](Category:Lord_Monk_Skills "wikilink")
 [Category:Monk Class Definers](Category:Monk_Class_Definers "wikilink")

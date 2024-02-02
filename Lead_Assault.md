@@ -1,5 +1,5 @@
 ` 1 'LEAD ASSAULT'`  
-` Prerequisites: `[`focus`` ``fire`](Focus_Fire "wikilink")  
+` Prerequisites: `[`focus`` ``fire`](Focus_Fire.md "wikilink")  
 ` Syntax: `<automatic>  
 ` `  
 ` A Soldier's military training makes them a more effective leader. This skill`  
@@ -9,6 +9,6 @@
 ` will be able to follow your lead and use the skill as if they had it`  
 ` practiced.`  
 ` `  
-` See Also: `[`FOCUS`` ``FIRE`](Focus_Fire "wikilink")
+` See Also: `[`FOCUS`` ``FIRE`](Focus_Fire.md "wikilink")
 
 [Category:Soldier_Hero_Skills_And_Spells](Category:Soldier_Hero_Skills_And_Spells "wikilink")

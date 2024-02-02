@@ -1,24 +1,25 @@
-*An advanced form of [spell recovery](Spell_Recovery "wikilink"), this
-[skill](:Category:_Skills_And_Spells "wikilink") enables the user to
-recoup some of their wasted [magical energy](Mana_Points "wikilink")
-when a [spell](:Category:_Spells "wikilink") is fumbled.*
+*An advanced form of [spell recovery](Spell_Recovery.md "wikilink"),
+this [skill](:Category:_Skills_And_Spells.md "wikilink") enables the
+user to recoup some of their wasted [magical
+energy](Mana_Points.md "wikilink") when a
+[spell](:Category:_Spells.md "wikilink") is fumbled.*
 
-Prerequisite(s): [Spell Recovery](Spell_Recovery "wikilink").
+Prerequisite(s): [Spell Recovery](Spell_Recovery.md "wikilink").
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink") can be rather
-useful to [characters](:Category:_Characters "wikilink") that are both
-of spellcasting [classes](:Category:_Classes "wikilink") (like
-[psionicists](:Category:_Psionicists "wikilink"),
-[mages](:Category:_Mages "wikilink"), and
-[clerics](:Category:_Clerics "wikilink")) and also of
-[races](:Category:_Races "wikilink") that are relatively prone to
-[spellcasting](Cast "wikilink") failure (like
-[giants](Giants "wikilink"), [goblins](Goblins "wikilink"), and
-[kobolds](Kobolds "wikilink")) by reducing
-[mana](Mana_Points "wikilink") wasted by their failed
-[casts](Cast "wikilink").
+This [skill](:Category:_Skills_And_Spells.md "wikilink") can be rather
+useful to [characters](:Category:_Characters.md "wikilink") that are
+both of spellcasting [classes](:Category:_Classes.md "wikilink") (like
+[psionicists](:Category:_Psionicists.md "wikilink"),
+[mages](:Category:_Mages.md "wikilink"), and
+[clerics](:Category:_Clerics.md "wikilink")) and also of
+[races](:Category:_Races.md "wikilink") that are relatively prone to
+[spellcasting](Cast.md "wikilink") failure (like
+[giants](Giants.md "wikilink"), [goblins](Goblins.md "wikilink"), and
+[kobolds](Kobolds.md "wikilink")) by reducing
+[mana](Mana_Points.md "wikilink") wasted by their failed
+[casts](Cast.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Assassin Hero

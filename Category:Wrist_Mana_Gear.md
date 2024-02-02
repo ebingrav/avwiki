@@ -16,30 +16,30 @@ This list is arranged according to the earliest point which these items
 become available, **NOT** according to which items are best for any
 particular level.
 
-**[Levels 01-10](:Category:_Lowmort_Levels_1-10 "wikilink")**:  
+**[Levels 01-10](:Category:_Lowmort_Levels_1-10_.md "wikilink")**:  
 ?
 
-**[Levels 11-20](:Category:_Lowmort_Levels_11-20 "wikilink")**:  
-[Red Bracer](Red_Bracer_(Town_Of_Solace) "wikilink"), [Steel
-Bracer](Steel_Bracer_(Solace) "wikilink")
+**[Levels 11-20](:Category:_Lowmort_Levels_11-20.md "wikilink")**:  
+[Red Bracer](Red_Bracer_(Town_Of_Solace).md "wikilink"), [Steel
+Bracer](Steel_Bracer_(Solace).md "wikilink")
 
-**[Levels 21-30](:Category:_Lowmort_Levels_21-30 "wikilink")**:  
+**[Levels 21-30](:Category:_Lowmort_Levels_21-30.md "wikilink")**:  
 [Enchanted Bangle](Enchanted_Bangle "wikilink")
 
-**[Levels 31-40](:Category:_Lowmort_Levels_31-40 "wikilink")**:  
+**[Levels 31-40](:Category:_Lowmort_Levels_31-40.md "wikilink")**:  
 ?
 
-**[Levels 41-50](:Category:_Lowmort_Levels_41-50 "wikilink")**:  
+**[Levels 41-50](:Category:_Lowmort_Levels_41-50.md "wikilink")**:  
 ?
 
-**[Hero Level](:Category:_Hero "wikilink")**:  
+**[Hero Level](:Category:_Hero.md "wikilink")**:  
 [Aura Of Elemental Power](Aura_Of_Elemental_Power "wikilink")(25),
 [Blazing Scaleguard](Blazing_Scaleguard "wikilink")(10), [Drop Of
 Quicksilver](Drop_Of_Quicksilver "wikilink")(10), [Manacle Of Shizaga's
 Chosen](Manacle_Of_Shizaga's_Chosen "wikilink")(20), [Sprite
 Ribcage](Sprite_Ribcage "wikilink")(15)
 
-**[Lord Level](:Category:_Lord "wikilink")**:  
+**[Lord Level](:Category:_Lord.md "wikilink")**:  
 ?
 
 [Category: Mana Gear](Category:_Mana_Gear "wikilink")

@@ -6,14 +6,14 @@
 Slot: held  
 Flags:  
 Weight:  
-Plane: [Astral](:Category:_Astral "wikilink")  
-Area: [Echo Monastery](:Category:Echo_Monastery "wikilink")  
+Plane: [Astral](:Category:_Astral.md "wikilink")  
+Area: [Echo Monastery](:Category:Echo_Monastery.md "wikilink")  
 Mob: TBD  
 
 ## Comments
 
 This is an ingredient that can be used to
-[Transmogrify](transmogrify "wikilink") other gear.
+[Transmogrify](transmogrify.md "wikilink") other gear.
 
 This is also a token to get a cube.
 

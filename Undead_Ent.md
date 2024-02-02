@@ -6,11 +6,11 @@ parts. It has probably eaten many unfortunate adventurers.*
 **Keywords:** diseased, undead, ent  
 **Level:** 23  
 **[Alignment](Alignment "wikilink"):** evil  
-**[Flags](:Category:Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink"), [NPC corpse
-eater](Corpse-Eating_Mobs "wikilink")  
-**Affects:** [infravision](Infravision "wikilink"), [detect
-hidden](Detect_Hidden "wikilink")  
+**[Flags](:Category:Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink"), [NPC corpse
+eater](Corpse-Eating_Mobs.md "wikilink")  
+**Affects:** [infravision](Infravision.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink")  
 
 ### Comments
 
@@ -18,10 +18,10 @@ Four Undead Ents populate the lower level of the glen.
 
 ### Directions
 
-**[Area](:Category:Areas "wikilink"):** [The Walking
-Woods](:Category:Walking_Woods "wikilink")
-([Map](Walking_Woods_Map "wikilink"))  
-**[Room](:Category:Rooms "wikilink"):** In the shadows of the Walking
+**[Area](:Category:Areas.md "wikilink"):** [The Walking
+Woods](:Category:Walking_Woods.md "wikilink")
+([Map](Walking_Woods_Map.md "wikilink"))  
+**[Room](:Category:Rooms.md "wikilink"):** In the shadows of the Walking
 Woods (portable)  
 **Walking route from [Nom](Nom "wikilink"):** 4s 6e s 2e s 2e 2n  
 **Walking route from [Aelmon](Aelmon "wikilink"):** 17w 2n  

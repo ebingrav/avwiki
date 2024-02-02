@@ -2,29 +2,30 @@
 this tentacle skin?*
 
 **Keyword(s):** black, tentacle, string.  
-**[Level(s)](Object_Level "wikilink"):** 41.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[ticket](:Category:_Tickets "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 2 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 41.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[ticket](:Category:_Tickets.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 2 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
-This [ticket](:Category:_Tickets "wikilink") is used in [Shadow
-Forest](:Category:_Shadow_Forest "wikilink")'s [Longbow Christened 'True
-Sight' Quest](Longbow_Christened_'True_Sight'_Quest "wikilink").
+This [ticket](:Category:_Tickets.md "wikilink") is used in [Shadow
+Forest](:Category:_Shadow_Forest.md "wikilink")'s [Longbow Christened
+'True Sight'
+Quest](Longbow_Christened_'True_Sight'_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Shadow
-Forest](:Category:_Shadow_Forest "wikilink")
-([Map](Shadow_Forest_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a thin black
-tentacle](Thin_Black_Tentacle "wikilink") ([skin
-item](:Category:_Skin_Items "wikilink")).  
-See [a thin black tentacle](Thin_Black_Tentacle "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Shadow
+Forest](:Category:_Shadow_Forest.md "wikilink")
+([Map](Shadow_Forest_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a thin black
+tentacle](Thin_Black_Tentacle.md "wikilink") ([skin
+item](:Category:_Skin_Items.md "wikilink")).  
+See [a thin black tentacle](Thin_Black_Tentacle.md "wikilink") for more
 information.
 
 [Category: Gear In Shadow

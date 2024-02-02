@@ -1,7 +1,7 @@
 *Beneath the tree of Knowledge is the pygmie pixie cult dedicated to the
-worship of [Bonk](Bonk "wikilink"). Rumor has it that
-[Bonk](Bonk "wikilink")'s minions are poised ready to stage a hostile
-takeover of the entire [meadow](:Category:_Meadow "wikilink"). Many
+worship of [Bonk](Bonk.md "wikilink"). Rumor has it that
+[Bonk](Bonk.md "wikilink")'s minions are poised ready to stage a hostile
+takeover of the entire [meadow](:Category:_Meadow.md "wikilink"). Many
 visitors enjoy visiting the pixies and laughing at how scary they think
 they are.*
 
@@ -11,14 +11,14 @@ they are.*
 
 ## Directions
 
-Walking route from [Nom](Nom "wikilink"): e, 2d.
+Walking route from [Nom](Nom.md "wikilink"): e, 2d.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Bonk](Bonk "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Bonk](Bonk.md "wikilink").
 
 ## Connections
 
-This area is connected to [the Meadow](:Category:_Meadow "wikilink").
+This area is connected to [the Meadow](:Category:_Meadow.md "wikilink").
 
 ## Navigation
 
@@ -30,6 +30,6 @@ his "throne".
 ## Adventuring
 
 A classic newbie area with some decent [level
-gear](:Category:_Level_Gear "wikilink").
+gear](:Category:_Level_Gear.md "wikilink").
 
 [Category: Lowmort 1-10 Areas](Category:_Lowmort_1-10_Areas "wikilink")

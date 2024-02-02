@@ -10,12 +10,12 @@ Law.*
 ## Directions
 
 [Planeshift](Planeshift "wikilink") to
-[Astral](:Category:Astral "wikilink") and go d, d, w
+[Astral](:Category:Astral.md "wikilink") and go d, d, w
 
 ## Connections
 
 Go east,east to visit the [Realm of
-Chaos](:Category:Realm_of_Chaos "wikilink").
+Chaos](:Category:Realm_of_Chaos.md "wikilink").
 
 ## Navigation
 
@@ -43,13 +43,13 @@ There are 7 total, plus a reward for completing them all.
 -   Quest 2: Kill the axial dragon. +1 int/wis/con/dex/str. (Long Arm of
     the Law)
 -   Quest 3: Kill the chaos room. +1 int/wis/con/dex/str. (Law Bringer)
--   Quest 4: Participate in [shape sorting](#Geometry "wikilink"). +2%
-    hp/mana regen. (Law and Order.)
+-   Quest 4: Participate in [shape sorting](#Geometry.md "wikilink").
+    +2% hp/mana regen. (Law and Order.)
 -   Quest 5: Give exceptionally useless trinket to Alleg. +1
     int/wis/con/dex/str. (Above the Law)
 -   Quest 6: Visit all the [special rooms in
-    Chaos](#Special_Chaos_exits "wikilink") which contain exits to other
-    planes. +1hr/+1dr -1ac. (Law of the Land)
+    Chaos](#Special_Chaos_exits.md "wikilink") which contain exits to
+    other planes. +1hr/+1dr -1ac. (Law of the Land)
 -   Quest 7: Visit a lot of rooms (120) in Law. Find a room where the
     walls don't collapse and then walk east & west a lot back and forth
     in room (Law of the Jungle)
@@ -428,7 +428,7 @@ regen.
 Send a tank down, the dragon will hit them, then drag the entire group
 into the first shape sorting room (this one is nospell). To insert a
 shape, you need a group mate who hasn't done shapes before to insert
-them. See [shape sorting](:Category:Domain_of_Law#Shapes "wikilink")
+them. See [shape sorting](:Category:Domain_of_Law#Shapes.md "wikilink")
 above.
 
 Send a tank towards the dragon again for Room \#2, and then again for
@@ -447,9 +447,9 @@ Before homeshifting, give Bestellen the perfect scale to unlock chaos
 Once the perfect scale from Law is given to Bestellen, Law becomes
 locked off and Chaos opens up. Bestellen drops a tablet on the group
 with directions through the maze (see [mudlet
-alias](:Category:Domain_of_Law#Mudlet_Helper_Alias "wikilink") below for
-quickly obtaining this directions). Note: this run is harder than Law
-and requires a bit more tankage/firepower. Having 2 big tanks / 3
+alias](:Category:Domain_of_Law#Mudlet_Helper_Alias.md "wikilink") below
+for quickly obtaining this directions). Note: this run is harder than
+Law and requires a bit more tankage/firepower. Having 2 big tanks / 3
 mediums tanks and/or a bladedancer helps. Additionally, a Psi/Mnd is
 helpful for shatter which is sometimes needed.
 

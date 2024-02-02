@@ -6,10 +6,10 @@ matching set. If I can't find it before her return, I'm as good as
 dead!" With that he sobs and continues his fruitless search.*
 
 **Keywords:** Count, Orosca.  
-**[Level](Level "wikilink"):** (?).  
-**[Alignment](Alignment "wikilink"):** heroic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** (?).  
+**[Alignment](Alignment.md "wikilink"):** heroic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -24,12 +24,12 @@ dead!" With that he sobs and continues his fruitless search.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Midgaard
-Fair](:Category:_Midgaard_Fair "wikilink")
-([Map](Midgaard_Fair_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Entrance to the Midgaard Fair
-(portable, [safe](Safe_Rooms "wikilink")).  
-Walking route from [Aelmon](Aelmon "wikilink"): 5s, 5e, 3n.  
+**[Area](:Category:_Areas.md "wikilink"):** [Midgaard
+Fair](:Category:_Midgaard_Fair.md "wikilink")
+([Map](Midgaard_Fair_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Entrance to the Midgaard
+Fair (portable, [safe](Safe_Rooms.md "wikilink")).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5s, 5e, 3n.  
 Count Orosca is portable.  
 
 [Category: Mobs In Midgaard

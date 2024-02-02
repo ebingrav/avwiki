@@ -10,8 +10,9 @@
     and it cannot be used with any less than 10.  Like its predecessors,
     Shadow Tsunami causes cursed damage.
 
-SEE ALSO: [QI](Qi "wikilink"), [SHADOW BLAST](Shadow_Blast "wikilink"),
-[SHADOW WAVE](Shadow_Wave "wikilink")
+SEE ALSO: [QI](Qi.md "wikilink"), [SHADOW
+BLAST](Shadow_Blast.md "wikilink"), [SHADOW
+WAVE](Shadow_Wave.md "wikilink")
 
 ## Comments
 

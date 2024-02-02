@@ -8,10 +8,10 @@ would almost look cute if the tongue was not full of squirming red ants
 that keep leaping into its mouth. Oh, and that musty smell...*
 
 **Keywords:** pangolin.  
-**[Level](Level "wikilink"):** 10.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 10.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -26,12 +26,12 @@ that keep leaping into its mouth. Oh, and that musty smell...*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Sableroix
-Manor](:Category:_Sableroix_Manor "wikilink")
-([Map](Sableroix_Manor_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Mounds (portable).  
-Walking route from [Nom](Nom "wikilink"): n, 8w, 2n, e, 4n.  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, e, 4n.  
+**[Area](:Category:_Areas.md "wikilink"):** [Sableroix
+Manor](:Category:_Sableroix_Manor.md "wikilink")
+([Map](Sableroix_Manor_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Mounds (portable).  
+Walking route from [Nom](Nom.md "wikilink"): n, 8w, 2n, e, 4n.  
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, e, 4n.  
 A pangolin is portable.
 
 [Category: Mobs In Sableroix

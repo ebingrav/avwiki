@@ -1,18 +1,18 @@
-*This [spell](:Category:_Spells "wikilink") puts its
-[victim](:Category:_Mobs "wikilink") to
-[sleep](Sleep_(command) "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") puts its
+[victim](:Category:_Mobs.md "wikilink") to
+[sleep](Sleep_(command).md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'sleep'
-\<[mob](:Category:_Mobs "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'sleep'
+\<[mob](:Category:_Mobs.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is rarely used. Some
-[heroes](:Category:_Hero "wikilink") find it useful when helping
-lower-[level](Level "wikilink") players to [retrieve their gear from
-their corpses](Corpse_Retrieval "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is rarely used. Some
+[heroes](:Category:_Hero.md "wikilink") find it useful when helping
+lower-[level](Level.md "wikilink") players to [retrieve their gear from
+their corpses](Corpse_Retrieval.md "wikilink").
 
-See also [Sleep Gear](:Category:_Sleep_Gear "wikilink").
+See also [Sleep Gear](:Category:_Sleep_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

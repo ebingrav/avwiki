@@ -1,8 +1,8 @@
-[Gith](Giths "wikilink") weapons created by using [Racial
+[Gith](Giths.md "wikilink") weapons created by using [Racial
 Convoke](Racial_Convoke "wikilink") have different stats based on class,
-tier and sublevel. [Psi](:Category:Psionicists "wikilink") convoke
+tier and sublevel. [Psi](:Category:Psionicists.md "wikilink") convoke
 weapons do not drop when using kinetic spells such as
-[fandango](Fandango "wikilink").
+[fandango](Fandango.md "wikilink").
 
 <table>
 <tbody>
@@ -11,22 +11,24 @@ weapons do not drop when using kinetic spells such as
 <td><p><strong>Tier</strong></p></td>
 <td><p><strong>Sublevel<br />
 (Range)</strong></p></td>
-<td><p><strong><a href="Hit_Roll"
+<td><p><strong><a href="Hit_Roll.md"
 title="wikilink">HR</a></strong></p></td>
-<td><p><strong><a href="Damage_Roll"
+<td><p><strong><a href="Damage_Roll.md"
 title="wikilink">DR</a></strong></p></td>
-<td><p><strong><a href="Kinetic_Damage"
+<td><p><strong><a href="Kinetic_Damage.md"
 title="wikilink">KDR</a></strong></p></td>
 <td><p><strong>Min</strong></p></td>
 <td><p><strong>Max</strong></p></td>
-<td><p><strong><a href="Object_Weight" title="wikilink">Weight</a><br />
+<td><p><strong><a href="Object_Weight.md"
+title="wikilink">Weight</a><br />
 Wield/Offhand</strong></p></td>
 <td><p><strong>Damage Type</strong></p></td>
 <td><p><strong>Notes</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Assassins" title="wikilink">Asn</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Assassins.md"
+title="wikilink">Asn</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>45</p></td>
 <td><p>0</p></td>
@@ -39,8 +41,9 @@ Wield/Offhand</strong></p></td>
 Modifies critical hit chance by + 4% continuous</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Assassins" title="wikilink">Asn</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Assassins.md"
+title="wikilink">Asn</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>50</p></td>
 <td><p>0</p></td>
@@ -53,9 +56,9 @@ Modifies critical hit chance by + 4% continuous</p></td>
 Modifies critical hit chance by + 5% continuous</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Bladedancers"
+<td><p><a href=":Category:Bladedancers.md"
 title="wikilink">Bld</a></p></td>
-<td><p><a href=":Category:Hero" title="wikilink">Hero</a></p></td>
+<td><p><a href=":Category:Hero.md" title="wikilink">Hero</a></p></td>
 <td><p>1-499</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -67,9 +70,9 @@ title="wikilink">Bld</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Bladedancers"
+<td><p><a href=":Category:Bladedancers.md"
 title="wikilink">Bld</a></p></td>
-<td><p><a href=":Category:Hero" title="wikilink">Hero</a></p></td>
+<td><p><a href=":Category:Hero.md" title="wikilink">Hero</a></p></td>
 <td><p>500-999</p></td>
 <td><p>13</p></td>
 <td><p>13</p></td>
@@ -81,9 +84,9 @@ title="wikilink">Bld</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Bladedancers"
+<td><p><a href=":Category:Bladedancers.md"
 title="wikilink">Bld</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>20</p></td>
 <td><p>25</p></td>
@@ -96,9 +99,9 @@ title="wikilink">Bld</a></p></td>
 Modifies melee attacks with mental damage continuous</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Bladedancers"
+<td><p><a href=":Category:Bladedancers.md"
 title="wikilink">Bld</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>25</p></td>
 <td><p>30</p></td>
@@ -111,8 +114,9 @@ title="wikilink">Bld</a></p></td>
 Modifies melee attacks with mental damage continuous</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Berserkers" title="wikilink">Bzk</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Berserkers.md"
+title="wikilink">Bzk</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>25</p></td>
 <td><p>25</p></td>
@@ -124,8 +128,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>Modifies max weapon damage by 5 continuous</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Berserkers" title="wikilink">Bzk</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Berserkers.md"
+title="wikilink">Bzk</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>27</p></td>
 <td><p>27</p></td>
@@ -137,8 +142,8 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>Modifies max weapon damage by 7 continuous</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Clerics" title="wikilink">Cle</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Clerics.md" title="wikilink">Cle</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -152,8 +157,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 -10 save vs spell</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Mindbenders" title="wikilink">Mnd</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Mindbenders.md"
+title="wikilink">Mnd</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -167,8 +173,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 -10 save vs spell</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Mindbenders" title="wikilink">Mnd</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Mindbenders.md"
+title="wikilink">Mnd</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -182,8 +189,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 -15 save vs spell</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Shadowfists" title="wikilink">Shf</a></p></td>
-<td><p><a href=":Category:Hero" title="wikilink">Hero</a></p></td>
+<td><p><a href=":Category:Shadowfists.md"
+title="wikilink">Shf</a></p></td>
+<td><p><a href=":Category:Hero.md" title="wikilink">Hero</a></p></td>
 <td><p>1-?</p></td>
 <td><p>5</p></td>
 <td><p>5</p></td>
@@ -197,8 +205,10 @@ Modifies melee attacks with mental damage continuous</p></td>
 Modifies melee attacks with mental damage continuous</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Psionicists" title="wikilink">Psi</a></p></td>
-<td><p><a href=":Category:Lowmort" title="wikilink">Lowmort</a></p></td>
+<td><p><a href=":Category:Psionicists.md"
+title="wikilink">Psi</a></p></td>
+<td><p><a href=":Category:Lowmort.md"
+title="wikilink">Lowmort</a></p></td>
 <td><p>1-50</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -210,8 +220,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>1/100 chance of reduced lag of psionic spells continuous</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Psionicists" title="wikilink">Psi</a></p></td>
-<td><p><a href=":Category:Hero" title="wikilink">Hero</a></p></td>
+<td><p><a href=":Category:Psionicists.md"
+title="wikilink">Psi</a></p></td>
+<td><p><a href=":Category:Hero.md" title="wikilink">Hero</a></p></td>
 <td><p>501-999</p></td>
 <td><p>0</p></td>
 <td><p>10</p></td>
@@ -223,8 +234,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>5/100 chance of reduced lag of psionic spells continuous</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Psionicists" title="wikilink">Psi</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Psionicists.md"
+title="wikilink">Psi</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>0</p></td>
 <td><p>10</p></td>
@@ -236,8 +248,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>10/100 chance of reduced lag on psionic spells</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Psionicists" title="wikilink">Psi</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Psionicists.md"
+title="wikilink">Psi</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>0</p></td>
 <td><p>10</p></td>
@@ -249,8 +262,8 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>15/100 chance of reduced lag on psionic spells</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Rogues" title="wikilink">Rog</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Rogues.md" title="wikilink">Rog</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>20</p></td>
 <td><p>25</p></td>
@@ -262,8 +275,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 <td><p>Modifies max weapon damage by 2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Sorcerers" title="wikilink">Sor</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Sorcerers.md"
+title="wikilink">Sor</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>1-799</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -277,8 +291,9 @@ Modifies melee attacks with mental damage continuous</p></td>
 -10 save vs spell</p></td>
 </tr>
 <tr class="even">
-<td><p><a href=":Category:Sorcerers" title="wikilink">Sor</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Sorcerers.md"
+title="wikilink">Sor</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -292,8 +307,8 @@ Modifies melee attacks with mental damage continuous</p></td>
 -15 save vs spell</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href=":Category:Warriors" title="wikilink">War</a></p></td>
-<td><p><a href=":Category:Lord" title="wikilink">Lord</a></p></td>
+<td><p><a href=":Category:Warriors.md" title="wikilink">War</a></p></td>
+<td><p><a href=":Category:Lord.md" title="wikilink">Lord</a></p></td>
 <td><p>800-999</p></td>
 <td><p>25</p></td>
 <td><p>25</p></td>

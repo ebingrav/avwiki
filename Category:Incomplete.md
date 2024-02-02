@@ -10,7 +10,7 @@ it from this category.
 
 Area categories here have blank sections in them that need filling. Gear
 and mob pages here are missing various bits of useful information (see
-[Templates](:Category:_Templates "wikilink") for recommendations about
-what information a "complete" page should include).
+[Templates](:Category:_Templates.md "wikilink") for recommendations
+about what information a "complete" page should include).
 
 [Category: Wiki Stuff](Category:_Wiki_Stuff "wikilink")

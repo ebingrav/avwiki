@@ -1,15 +1,16 @@
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 3 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 3 continuous.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`
 
 **Keyword(s):** medallion, justice.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn around neck>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 3 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow, hum, bless.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn around neck>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 3 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow, hum,
+bless.  
 
 ## Comments
 
@@ -28,17 +29,17 @@ Zan and Jayna - around 700xp (no-quit room, south to exit)
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Hall of
-Justice](:Category:_Hall_Of_Justice "wikilink")
-([Map](Hall_Of_Justice_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Zan And
+**[Area](:Category:_Areas.md "wikilink"):** [Hall of
+Justice](:Category:_Hall_Of_Justice.md "wikilink")
+([Map](Hall_Of_Justice_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Zan And
 Jayna](Zan_And_Jayna "wikilink").  
 First, you need to find the insane man in
-[Midgaard](:Category:_Midgaard "wikilink"). He's
-[trackable](Track "wikilink").
+[Midgaard](:Category:_Midgaard.md "wikilink"). He's
+[trackable](Track.md "wikilink").
 
-Kill him for the [scale of justice](Scales_Of_Justice "wikilink"), which
-you then give to the floating wizard in Hall of Justice - mob is
+Kill him for the [scale of justice](Scales_Of_Justice.md "wikilink"),
+which you then give to the floating wizard in Hall of Justice - mob is
 portable.
 
 Now, continue north till you reach Zan and Jayna, who have the Medallion

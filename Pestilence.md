@@ -3,16 +3,16 @@ maggots, and ichor drips from its hands and eyes. About its form hangs a
 rotting grey robe that seems to reek of disease..*
 
 **Keywords:** pestilence  
-**[Level](Level "wikilink"):** 110  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** very aggressive, detect
+**[Level](Level.md "wikilink"):** 110  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** very aggressive, detect
 hidden, detect invis.  
 **Affects:** none.  
 
 `Pestilence is using:`  
-` `<worn on finger>`    `[`the`` ``Signet`` ``Ring`` ``of`` ``Pestilence`](Signet_Ring_Of_Pestilence "wikilink")  
-` `<worn about body>`   `[`a`` ``rotting`` ``grey`` ``robe`](Rotting_Grey_Robe "wikilink")  
-` `<wielded>`           `[`a`` ``heavy`` ``black`` ``dagger`` ``called,`` ``"Virus"`](Heavy_Black_Dagger_Called,_"Virus" "wikilink")
+` `<worn on finger>`    `[`the`` ``Signet`` ``Ring`` ``of`` ``Pestilence`](Signet_Ring_Of_Pestilence.md "wikilink")  
+` `<worn about body>`   `[`a`` ``rotting`` ``grey`` ``robe`](Rotting_Grey_Robe.md "wikilink")  
+` `<wielded>`           `[`a`` ``heavy`` ``black`` ``dagger`` ``called,`` ``"Virus"`](Heavy_Black_Dagger_Called,_"Virus".md "wikilink")
 
 ## Comments
 

@@ -2,7 +2,7 @@
 
 From [A peaceful kzinti](A_peaceful_kzinti "wikilink") push barrier to
 open exit into the [Spire of
-Knowledge](:Category:Kzinti_Spire_Of_Knowledge "wikilink"). There are
+Knowledge](:Category:Kzinti_Spire_Of_Knowledge.md "wikilink"). There are
 three levels that you need to navigate. Each level is 2 rooms wide
 (east/west) and 3 rooms long (north/south). In the southeast corner of
 each level there is an exit up or down. Take the up and down exits as
@@ -16,9 +16,9 @@ get to [A peaceful kzinti](A_peaceful_kzinti "wikilink")
 ## Items carried
 
 -   [vial of unfinished portal
-    serum](Vial_Of_Unfinished_Portal_Serum "wikilink") - this is an
+    serum](Vial_Of_Unfinished_Portal_Serum.md "wikilink") - this is an
     [Allegaagse](Allegaagse "wikilink") item.
--   [a lab memo](Lab_Memo_From_Spires "wikilink") - this is a ticket
+-   [a lab memo](Lab_Memo_From_Spires.md "wikilink") - this is a ticket
     used to obtain [Ceremonial Sword Of The High King's
     Champion](Ceremonial_Sword_Of_The_High_King's_Champion "wikilink")
-    ([Lord Mana Gear](:Category:_Lord_Mana_Gear "wikilink"))
+    ([Lord Mana Gear](:Category:_Lord_Mana_Gear.md "wikilink"))

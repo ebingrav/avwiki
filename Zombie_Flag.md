@@ -1,15 +1,15 @@
-This [flag](:Category:_Character_Flags "wikilink") appears only during
-[zombiefests](Zombiefests "wikilink") and indicates that a
-[character](:Category:_Characters "wikilink") is a zombie.
+This [flag](:Category:_Character_Flags.md "wikilink") appears only
+during [zombiefests](Zombiefests.md "wikilink") and indicates that a
+[character](:Category:_Characters.md "wikilink") is a zombie.
 
-[Characters](:Category:_Characters "wikilink") gain it either when an
-[immortal](:Category:_Immortals "wikilink") grants it to them or when
+[Characters](:Category:_Characters.md "wikilink") gain it either when an
+[immortal](:Category:_Immortals.md "wikilink") grants it to them or when
 they are killed by zombies.
 
-[Characters](:Category:_Characters "wikilink") lose it either when they
-are killed by non-zombies or when a [zombiefest](Zombiefests "wikilink")
-ends.
+[Characters](:Category:_Characters.md "wikilink") lose it either when
+they are killed by non-zombies or when a
+[zombiefest](Zombiefests.md "wikilink") ends.
 
-See also [Zombiefests](Zombiefest "wikilink").
+See also [Zombiefests](Zombiefest.md "wikilink").
 
 [Category: Character Flags](Category:_Character_Flags "wikilink")

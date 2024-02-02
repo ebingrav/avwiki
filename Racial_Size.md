@@ -1,14 +1,14 @@
-**[`Races`](:Category:_Races "wikilink")` ``by`` ``Size:`**  
+**[`Races`](:Category:_Races.md "wikilink")` ``by`` ``Size:`**  
   
-`* Very Small:  `[`Fdk`](Firedrakes "wikilink")`1 `[`Slg`](Slugs "wikilink")`  `[`Spr`](Sprites "wikilink")`  `[`Lsi`](Lesser_Imps "wikilink")  
+`* Very Small:  `[`Fdk`](Firedrakes.md "wikilink")`1 `[`Slg`](Slugs.md "wikilink")`  `[`Spr`](Sprites.md "wikilink")`  `[`Lsi`](Lesser_Imps.md "wikilink")  
   
-`* Small:       `[`Dgn`](Deep_Gnomes "wikilink")`  `[`Dsd`](Demonseeds "wikilink")`  `[`Due`](Duergar "wikilink")`  `[`Dwf`](Dwarves "wikilink")`  `[`Fdk`](Firedrakes "wikilink")`2 `[`Gno`](Gnomes "wikilink")`  `[`Gob`](Goblins "wikilink")`  `[`Hlf`](Halflings "wikilink")`  `[`Hob`](Hobgoblins "wikilink")`  `[`Kob`](Kobolds "wikilink")  
+`* Small:       `[`Dgn`](Deep_Gnomes.md "wikilink")`  `[`Dsd`](Demonseeds.md "wikilink")`  `[`Due`](Duergar.md "wikilink")`  `[`Dwf`](Dwarves.md "wikilink")`  `[`Fdk`](Firedrakes.md "wikilink")`2 `[`Gno`](Gnomes.md "wikilink")`  `[`Gob`](Goblins.md "wikilink")`  `[`Hlf`](Halflings.md "wikilink")`  `[`Hob`](Hobgoblins.md "wikilink")`  `[`Kob`](Kobolds.md "wikilink")  
   
-`* Medium:      `[`Drc`](Draconians "wikilink")`  `[`Drw`](Drow "wikilink")`  `[`Elf`](Elves "wikilink")`  `[`Fdk`](Firedrakes "wikilink")`3 `[`Gar`](Gargoyles "wikilink")` `[`Gth`](Gith "wikilink")`  `[`Hel`](Half-Elves "wikilink")`  `[`Hor`](Half-Orcs "wikilink")`  `[`HiE`](High_Elves "wikilink")`  `[`Hum`](Humans "wikilink")`  `[`Kzn`](Kzinti "wikilink")`  `[`Liz`](Lizardmen "wikilink")` `[`Mir`](Miraars "wikilink")` `[`Orc`](Orcs "wikilink")`  `[`Trg`](Troglodytes "wikilink")`  `[`Tua`](Tuataurs "wikilink")  
+`* Medium:      `[`Drc`](Draconians.md "wikilink")`  `[`Drw`](Drow.md "wikilink")`  `[`Elf`](Elves.md "wikilink")`  `[`Fdk`](Firedrakes.md "wikilink")`3 `[`Gar`](Gargoyles.md "wikilink")` `[`Gth`](Gith.md "wikilink")`  `[`Hel`](Half-Elves.md "wikilink")`  `[`Hor`](Half-Orcs.md "wikilink")`  `[`HiE`](High_Elves.md "wikilink")`  `[`Hum`](Humans.md "wikilink")`  `[`Kzn`](Kzinti.md "wikilink")`  `[`Liz`](Lizardmen.md "wikilink")` `[`Mir`](Miraars.md "wikilink")` `[`Orc`](Orcs.md "wikilink")`  `[`Trg`](Troglodytes.md "wikilink")`  `[`Tua`](Tuataurs.md "wikilink")  
   
-`* Large:       `[`Cen`](Centaurs "wikilink")`  `[`Dem`](Demons "wikilink")`  `[`Fdk`](Firedrakes "wikilink")`4 `[`Gol`](Golems "wikilink")`  `[`Grf`](Griffons "wikilink")`  `[`Min`](Minotaurs "wikilink")`  `[`Ogr`](Ogres "wikilink")`  `[`Trl`](Trolls "wikilink")  
+`* Large:       `[`Cen`](Centaurs.md "wikilink")`  `[`Dem`](Demons.md "wikilink")`  `[`Fdk`](Firedrakes.md "wikilink")`4 `[`Gol`](Golems.md "wikilink")`  `[`Grf`](Griffons.md "wikilink")`  `[`Min`](Minotaurs.md "wikilink")`  `[`Ogr`](Ogres.md "wikilink")`  `[`Trl`](Trolls.md "wikilink")  
   
-`* Very Large:  `[`Drg`](Dragons "wikilink")`  `[`Ent`](Ents "wikilink")`  `[`Fdk`](Firedrakes "wikilink")`5 `[`Gia`](Giants "wikilink")`  `[` ``Pae`](Pain_Elementals "wikilink")
+`* Very Large:  `[`Drg`](Dragons.md "wikilink")`  `[`Ent`](Ents.md "wikilink")`  `[`Fdk`](Firedrakes.md "wikilink")`5 `[`Gia`](Giants.md "wikilink")`  `[` ``Pae`](Pain_Elementals.md "wikilink")
 
 <table cellpadding="0" cellspacing="5" border="0">
 <tr>

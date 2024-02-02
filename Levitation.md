@@ -1,30 +1,33 @@
 *Often confused for a parlor trick or a basic
-[mage](:Category:_Mages "wikilink")'s conjuring trick, the use of
+[mage](:Category:_Mages.md "wikilink")'s conjuring trick, the use of
 psionics to levitate is unique in that it actually creates a
-[telekinetic pull](:Category:_Telekinetic_Skills_And_Spells "wikilink")
-to separate the target from the ground by a few feet. Flying bestows
+[telekinetic
+pull](:Category:_Telekinetic_Skills_And_Spells.md "wikilink") to
+separate the target from the ground by a few feet. Flying bestows
 several advantages, such as reduced [movement
-costs](Movement_Costs "wikilink"), and it makes it easy to traverse
-[airborne](Air_Terrain "wikilink") or [watery](Water_Terrain "wikilink")
-[areas](:Category:_Areas "wikilink"). Since this is a [TELEKINETIC
-spell](:Category:_Telekinetic_Skills_And_Spells "wikilink"), it can
-easily be [cast](Cast "wikilink") on others.*
+costs](Movement_Costs.md "wikilink"), and it makes it easy to traverse
+[airborne](Air_Terrain.md "wikilink") or
+[watery](Water_Terrain.md "wikilink")
+[areas](:Category:_Areas.md "wikilink"). Since this is a [TELEKINETIC
+spell](:Category:_Telekinetic_Skills_And_Spells.md "wikilink"), it can
+easily be [cast](Cast.md "wikilink") on others.*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'levitation'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'levitation'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-[Psionicists](:Category:_Psionicists "wikilink") may find this
-[spell](:Category:_Spells "wikilink") rather useful at
-[lowmort](:Category:_Lowmort "wikilink")
-[tier](:Category:_Tiers "wikilink") but usually [cast](Cast "wikilink")
-[Fly](Fly "wikilink") instead of it at
-[hero](:Category:_Hero "wikilink") [tier](:Category:_Tiers "wikilink").
-This [spell](:Category:_Skills_And_Spells "wikilink") is superfluous for
-[characters](:Category:_Characters "wikilink") affected by
-[Fly](Fly "wikilink"). See [Flying Flag](Flying_Flag "wikilink") for
-further information.
+[Psionicists](:Category:_Psionicists.md "wikilink") may find this
+[spell](:Category:_Spells.md "wikilink") rather useful at
+[lowmort](:Category:_Lowmort.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink") but usually
+[cast](Cast.md "wikilink") [Fly](Fly.md "wikilink") instead of it at
+[hero](:Category:_Hero.md "wikilink")
+[tier](:Category:_Tiers.md "wikilink"). This
+[spell](:Category:_Skills_And_Spells.md "wikilink") is superfluous for
+[characters](:Category:_Characters.md "wikilink") affected by
+[Fly](Fly.md "wikilink"). See [Flying Flag](Flying_Flag.md "wikilink")
+for further information.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

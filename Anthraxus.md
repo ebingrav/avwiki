@@ -9,9 +9,9 @@ bones.*
 
 `Anthraxus is using:`  
 `  `<worn around neck>`  [Pristine  ] `[`a`` ``cold`` ``iron`` ``key`](a_cold_iron_key "wikilink")  
-`  `<worn on feet>`      [Pristine  ] (Magical) `[`boots`` ``of`` ``planewalking`](Boots_of_Planewalking "wikilink")  
-`  `<worn about waist>`  [Pristine  ] (Magical) `[`a`` ``belt`` ``of`` ``souls`](Belt_of_Souls "wikilink")  
-`  `<wielded>`           [Pristine  ] (Magical) `[`the`` ``staff`` ``of`` ``the`` ``lower`` ``planes`](Staff_Of_The_Lower_Planes "wikilink")
+`  `<worn on feet>`      [Pristine  ] (Magical) `[`boots`` ``of`` ``planewalking`](Boots_of_Planewalking.md "wikilink")  
+`  `<worn about waist>`  [Pristine  ] (Magical) `[`a`` ``belt`` ``of`` ``souls`](Belt_of_Souls.md "wikilink")  
+`  `<wielded>`           [Pristine  ] (Magical) `[`the`` ``staff`` ``of`` ``the`` ``lower`` ``planes`](Staff_Of_The_Lower_Planes.md "wikilink")
 
 `You peek at the inventory:`  
 `  Nothing.`

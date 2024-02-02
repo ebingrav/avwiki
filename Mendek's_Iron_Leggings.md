@@ -1,19 +1,19 @@
 *Two iron leggings lie here waiting to be worn.*
 
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by  -45 continuous                                                                               `
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by  -45 continuous                                                                               `
 
 **Keyword(s):** leggings iron mendeks  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Object_Types "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** \<[worn on
-legs](:Category:Legs_Tank_Gear "wikilink")\>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[anti-good](Anti-Good_Flag "wikilink"),
-[nolocate](Nolocate_Flag "wikilink")  
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Object_Types.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** \<[worn on
+legs](:Category:Legs_Tank_Gear.md "wikilink")\>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[nolocate](Nolocate_Flag.md "wikilink")  
 
 ## Guide
 

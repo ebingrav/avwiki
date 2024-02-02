@@ -1,25 +1,26 @@
-*This [spell](:Category:_Spells "wikilink") gives the target detect
-[hidden](Detect_Hidden "wikilink"), [evil](Detect_Evil "wikilink"),
-[invis](Detect_Invis "wikilink") and [magic](Detect_Magic "wikilink"),
-as well as [infravision](Infravision "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") gives the target detect
+[hidden](Detect_Hidden.md "wikilink"),
+[evil](Detect_Evil.md "wikilink"), [invis](Detect_Invis.md "wikilink")
+and [magic](Detect_Magic.md "wikilink"), as well as
+[infravision](Infravision.md "wikilink").*
 
-Prerequisite(s): [Detect Evil](Detect_Evil "wikilink"), [Detect
-Magic](Detect_Magic "wikilink").
+Prerequisite(s): [Detect Evil](Detect_Evil.md "wikilink"), [Detect
+Magic](Detect_Magic.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'holy sight'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'holy sight'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-This [spell](:Category:_Spells "wikilink") is somewhat useful. Some
-[clerics](:Category:_Clerics "wikilink") and
-[priests](:Category:_Priests "wikilink") [cast](Cast "wikilink") it as
-part of a "full
-[spellup](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")".
-Some [hero](:Category:_Hero "wikilink")
-[characters](:Category:_Characters "wikilink") prefer Holy Sight to
-[Heighten Senses](Heighten_Senses "wikilink") in seeing hidden and/or
-invisible [characters](:Category:_Characters "wikilink") or
-[mobs](:Category:_Mobs "wikilink") or
-[objects](:Category:_Objects "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is somewhat useful. Some
+[clerics](:Category:_Clerics.md "wikilink") and
+[priests](:Category:_Priests.md "wikilink") [cast](Cast.md "wikilink")
+it as part of a "full
+[spellup](:Category:_Skills_And_Spells_That_Buff_Characters.md "wikilink")".
+Some [hero](:Category:_Hero.md "wikilink")
+[characters](:Category:_Characters.md "wikilink") prefer Holy Sight to
+[Heighten Senses](Heighten_Senses.md "wikilink") in seeing hidden and/or
+invisible [characters](:Category:_Characters.md "wikilink") or
+[mobs](:Category:_Mobs.md "wikilink") or
+[objects](:Category:_Objects.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

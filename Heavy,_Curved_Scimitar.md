@@ -4,21 +4,21 @@
 `Modifies damage roll by 8 continuous.`
 
 **Keyword(s):** heavy curved scimitar metal cresent  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 16 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 16 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [ Glyntaff
-Pass](:Category:_Glyntaff_Pass "wikilink")
-([Map](Glyntaff_Pass_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):**  
+**[Area](:Category:_Areas.md "wikilink"):** [ Glyntaff
+Pass](:Category:_Glyntaff_Pass.md "wikilink")
+([Map](Glyntaff_Pass_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):**  
 
 [Category: Gear In Glyntaff
 Pass](Category:_Gear_In_Glyntaff_Pass "wikilink") [Category: Standard

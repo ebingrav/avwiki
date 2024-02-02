@@ -3,8 +3,8 @@
 `20 / 100 chance of +10 caster level of arcane spells continuous`
 
 Weight: 1  
-Plane: [Karnath](:Category:Karnath "wikilink")  
-Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch "wikilink")
+Plane: [Karnath](:Category:Karnath.md "wikilink")  
+Area: [Patriarchs' Gulch](:Category:Patriarchs'_Gulch.md "wikilink")
 
 Comes from a grim-faced oni.
 

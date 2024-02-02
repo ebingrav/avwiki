@@ -17,22 +17,22 @@ This area was added in January 2011.
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 9w, 5n, \[e\], {e}  
-Walking route from [Aelmon](Aelmon "wikilink"): 7n, 2e, 3s, e, \[s\],
+Walking route from [Aelmon](Aelmon.md "wikilink"): 9w, 5n, \[e\], {e}  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 7n, 2e, 3s, e, \[s\],
 \[d\], 4s, w  
-Walking route from [Master Thief](Guildmaster_(rogue) "wikilink"):
+Walking route from [Master Thief](Guildmaster_(rogue).md "wikilink"):
 \[d\], 4s, w (note: you may be blackjacked!)  
 Walking route from [legitimate
-businessman](Legitimate_Businessman "wikilink"): {e}
+businessman](Legitimate_Businessman.md "wikilink"): {e}
 
-[Portaling](Portal "wikilink") point(s) suggested: *none*
+[Portaling](Portal.md "wikilink") point(s) suggested: *none*
 
 You can also get here quite easily if you are an outlaw who has the
 capability to escape from the Midgaard jail.
 
 ## Connections
 
--   [Midgaard](:Category:Midgaard "wikilink")
+-   [Midgaard](:Category:Midgaard.md "wikilink")
 
 ## Navigation
 

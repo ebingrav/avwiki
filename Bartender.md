@@ -1,10 +1,10 @@
 *A tired looking Bartender who hates trouble in his bar.*
 
 **Keywords:** bartender.  
-**[Level](Level "wikilink"):** (?).  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** (?).  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -21,11 +21,12 @@
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Midgaard](:Category:_Midgaard "wikilink")
-([Map](Midgaard_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Golden Lion (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 8n, 2w, \[s\].  
+**[Area](:Category:_Areas.md "wikilink"):**
+[Midgaard](:Category:_Midgaard.md "wikilink")
+([Map](Midgaard_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Golden Lion
+(portable).  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 8n, 2w, \[s\].  
 The bartender is portable.
 
 [Category: Mobs In Midgaard](Category:_Mobs_In_Midgaard "wikilink")

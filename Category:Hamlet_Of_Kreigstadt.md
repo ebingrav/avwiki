@@ -1,8 +1,8 @@
 *The small town called Kreigstadt is located somewhere in the forest of
-[Wildwood](:Category:_Wildwood "wikilink"), home to a proud and
+[Wildwood](:Category:_Wildwood.md "wikilink"), home to a proud and
 adventurous people. Rumors speak of a humble Weisspferd run by the
 Krugers that serves the best mead this side of the [Great
-Wall](:Category:_Highways/Great_Wall "wikilink"). Adventurers gather
+Wall](:Category:_Highways/Great_Wall.md "wikilink"). Adventurers gather
 there in droves to discuss their trials and tribulations.*
 
 **Level Range:** 45-51
@@ -11,11 +11,11 @@ there in droves to discuss their trials and tribulations.*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], 2e, n, 2e,
-3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, w, s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], 2e, n,
+2e, 3s, 3e, 3n, 2w, 3n, w, n, e, n, e, 3n, w, s.
 
-[Portaling](Portal "wikilink") point(s) suggested:
-[Ulrich](Ulrich "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested:
+[Ulrich](Ulrich.md "wikilink").
 
 ## Connections
 

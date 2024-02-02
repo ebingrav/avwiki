@@ -7,16 +7,16 @@ it to the gate if liberated.*
 **Keywords:** Hlestn.  
 **Scan Description:** (Demonic) Hlestn the Slaver looks busy hawking his
 prey.  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** Evil.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** Evil.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** *none*.  
 
 ## Gear
 
 `Hlestn is using:`  
-` `<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear "wikilink")  
+` `<wielded>`           `[`a`` ``Lacquered`` ``Reed`` ``Spear`](Lacquered_Reed_Spear.md "wikilink")  
   
 `Hlestn is carrying:`  
 `     Nothing.`
@@ -30,14 +30,14 @@ prey.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Igecsoz](:Category:_Igecsoz "wikilink")
-([Map](Igecsoz_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The Depths of the Slaver's
-Quadrant ([pet shop](:Category:_Pet_Shops "wikilink"), portable)
+**[Area](:Category:_Areas.md "wikilink"):**
+[Igecsoz](:Category:_Igecsoz.md "wikilink")
+([Map](Igecsoz_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The Depths of the Slaver's
+Quadrant ([pet shop](:Category:_Pet_Shops.md "wikilink"), portable)
 
-Walking route from [Aelmon](Aelmon "wikilink"): 17sendn2e5nd.  
-Walking route from [Ajuu](Ajuu "wikilink"): ed.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 17sendn2e5nd.  
+Walking route from [Ajuu](Ajuu.md "wikilink"): ed.  
 Hlestn is portable.  
 
 [Category: Mobs In Igecsoz](Category:_Mobs_In_Igecsoz "wikilink")

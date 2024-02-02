@@ -1,18 +1,19 @@
-*This [spell](:Category:_Spells "wikilink") calls upon lightning to
+*This [spell](:Category:_Spells.md "wikilink") calls upon lightning to
 inflict damage upon all enemies in the
-[room](:Category:_Rooms "wikilink"). Be aware that this may cause
-[monsters](:Category:_Mobs "wikilink") to attack that were not fighting
-you before! Chain lightning decreases in [mana](Mana_Points "wikilink")
-cost as you advance in [levels](Level "wikilink").*
+[room](:Category:_Rooms.md "wikilink"). Be aware that this may cause
+[monsters](:Category:_Mobs.md "wikilink") to attack that were not
+fighting you before! Chain lightning decreases in
+[mana](Mana_Points.md "wikilink") cost as you advance in
+[levels](Level.md "wikilink").*
 
-Prerequisite(s): [Lightning Bolt](Lightning_Bolt "wikilink").
+Prerequisite(s): [Lightning Bolt](Lightning_Bolt.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'chain lightning'.
+Syntax: [cast](Cast.md "wikilink") 'chain lightning'.
 
-This [spell](:Category:_Spells "wikilink") is rarely used.
+This [spell](:Category:_Spells.md "wikilink") is rarely used.
 
-See also: [Area Spells](:Category:_Area_Spells "wikilink"), [Chain
-Lightning Gear](:Category:Chain_Lightning_Gear "wikilink").
+See also: [Area Spells](:Category:_Area_Spells.md "wikilink"), [Chain
+Lightning Gear](:Category:Chain_Lightning_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Arcane

@@ -10,28 +10,28 @@
 `    `<worn about waist>`  [Pristine  ] (Demonic) a stone plated skirt`
 
 ` You peek at the inventory:`  
-`    [Pristine  ] `[`a`` ``newly`` ``minted`` ``gate`` ``key`](Newly_Minted_Gate_Key "wikilink")
+`    [Pristine  ] `[`a`` ``newly`` ``minted`` ``gate`` ``key`](Newly_Minted_Gate_Key.md "wikilink")
 
 **Keywords:** riscgnarl, captain.  
-**[Level](Level "wikilink"):** ?.  
+**[Level](Level.md "wikilink"):** ?.  
 **Scan Description:** This troll captain stands tall above the rest of
 the army.  
-**[Alignment](Alignment "wikilink"):** demonic, lawful.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic, lawful.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
 **Affects:** [Sanctuary](Sanctuary "wikilink").  
 
 ## Comments
 
 Holds the key to [Daingean
-Machadae](:Category:Daingean_Machadae "wikilink")
-([Map](Daingean_Machadae_Map "wikilink")).
+Machadae](:Category:Daingean_Machadae.md "wikilink")
+([Map](Daingean_Machadae_Map.md "wikilink")).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Cathracharraig](:Category:_Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [
+Cathracharraig](:Category:_Cathracharraig.md "wikilink")
+([Map](Cathracharraig_Map.md "wikilink")).  
 Riscgnarl is portable.  
 
 [Category: Mobs In

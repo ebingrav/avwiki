@@ -3,27 +3,27 @@ to be well made and very sturdy. You marvel at the magic that was used
 to form these sandals of what appears to be long pieces of stringy
 moss.*
 
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by -1 continuous.`  
-[`Armor`` ``class`](Armor_Class "wikilink")` is 4-5.`
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by -1 continuous.`  
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 4-5.`
 
 **Keyword(s):** moss, woven, sandals.  
-**[Level(s)](Object_Level "wikilink"):** 20.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn of feet>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 2 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 20.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn of feet>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 2 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:Areas "wikilink"):** [Moss
-Village](:Category:Moss_Village "wikilink")
-([Map](Moss_Village_Map "wikilink")).  
-**[Quest](:Category:_Ticket_Quests "wikilink"):** [Set Of Woven Moss
+**[Area](:Category:Areas.md "wikilink"):** [Moss
+Village](:Category:Moss_Village.md "wikilink")
+([Map](Moss_Village_Map.md "wikilink")).  
+**[Quest](:Category:_Ticket_Quests.md "wikilink"):** [Set Of Woven Moss
 Sandals Quest](Set_Of_Woven_Moss_Sandals_Quest "wikilink").  
 See [Set Of Woven Moss Sandals
 Quest](Set_Of_Woven_Moss_Sandals_Quest "wikilink") for more

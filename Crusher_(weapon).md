@@ -11,7 +11,7 @@
 ## Directions
 
 **Area:** [Battleground](Battleground "wikilink")
-([Map](Battleground_Map "wikilink"))  
+([Map](Battleground_Map.md "wikilink"))  
 **Mob:** [Crusher](Crusher "wikilink") (portable, wanders)
 
 [Category:Gear In

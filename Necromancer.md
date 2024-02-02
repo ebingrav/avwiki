@@ -6,16 +6,16 @@ to rule the world with those undead. Recognizing your threat to his
 plans, he prepares to add you to his army.*
 
 **Keywords:** necromancer.  
-**[Level](Level "wikilink"):** 75.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
-**Affects:** [sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 75.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
+**Affects:** [sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `The Necromancer is using:`  
-`  `<wielded>`           `[`the`` ``Necromancer's`` ``claw`](Necromancer's_Claw "wikilink")  
-`  `<held>`              `[`the`` ``Necrostaff`](Necrostaff "wikilink")
+`  `<wielded>`           `[`the`` ``Necromancer's`` ``claw`](Necromancer's_Claw.md "wikilink")  
+`  `<held>`              `[`the`` ``Necrostaff`](Necrostaff.md "wikilink")
 
 `You peek at the inventory:`  
 `  Nothing.`
@@ -24,10 +24,10 @@ plans, he prepares to add you to his army.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Necromancer's
-Tower](:Category:_Necromancer's_Tower "wikilink")
-([Map](Necromancer's_Tower_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Inner sanctum of the
+**[Area](:Category:_Areas.md "wikilink"):** [Necromancer's
+Tower](:Category:_Necromancer's_Tower.md "wikilink")
+([Map](Necromancer's_Tower_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Inner sanctum of the
 Necromancer.  
 
 [Category: Mobs In Necromancer's

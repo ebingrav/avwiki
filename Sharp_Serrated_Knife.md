@@ -1,28 +1,29 @@
 *This knife is sharpened at the tip but serrated along the edge to make
-the [skinning](Skin "wikilink") of prey easier.*
+the [skinning](Skin.md "wikilink") of prey easier.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 6 to 18 (average 12).`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 6 to 18 (average 12).`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 1 continuous.`
 
 **Keyword(s):** serrated, knife.  
-**[Level(s)](Object_Level "wikilink"):** 11-13.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none.  
+**[Level(s)](Object_Level.md "wikilink"):** 11-13.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none.  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Centaur
-Camp](:Category:_Centaur_Camp "wikilink")
-([Map](Centaur_Camp_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Marek
-Flicktail](Marek_Flicktail "wikilink").  
-See [Marek Flicktail](Marek_Flicktail "wikilink") for more information.
+**[Area](:Category:_Areas.md "wikilink"):** [Centaur
+Camp](:Category:_Centaur_Camp.md "wikilink")
+([Map](Centaur_Camp_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Marek
+Flicktail](Marek_Flicktail.md "wikilink").  
+See [Marek Flicktail](Marek_Flicktail.md "wikilink") for more
+information.
 
 [Category: Gear In Centaur
 Camp](Category:_Gear_In_Centaur_Camp "wikilink") [Category: Standard

@@ -5,9 +5,9 @@ followers.*
 **Keywords:** chrovsh ant queen.  
 **Scan Description:** Feelers extended, the largest ant yet watches you
 approach.  
-**[Level](Level "wikilink"):** 73.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none  
+**[Level](Level.md "wikilink"):** 73.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none  
 **Affects:** Demonic.  
 
 ## Gear

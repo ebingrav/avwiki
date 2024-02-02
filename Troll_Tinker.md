@@ -7,9 +7,9 @@ picked up to make some especially dangerous modifications.*
 **Level:**: 55.  
 **Scan Description:** A troll deftly tinkers with a dangerous looking
 contraption.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Race:** [Troll](Trolls "wikilink").
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Race:** [Troll](Trolls.md "wikilink").
 
 ## Gear
 
@@ -19,10 +19,10 @@ None.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [
-Cathracharraig](:Category:_Cathracharraig "wikilink")
-([Map](Cathracharraig_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** The city garrison; armory
+**[Area](:Category:_Areas.md "wikilink"):** [
+Cathracharraig](:Category:_Cathracharraig.md "wikilink")
+([Map](Cathracharraig_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** The city garrison; armory
 (portable)  
 The troll tinker is portable.  
 

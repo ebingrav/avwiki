@@ -11,11 +11,11 @@ the gravestones, leaving you to wipe ectoplasmic spittle from your
 face.*
 
 **Keywords:** ghost, woman, ??.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** neutral.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??.  
-**Affects:** [invis](Invis "wikilink"), [pass
-door](Pass_Door "wikilink").  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** neutral.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??.  
+**Affects:** [invis](Invis.md "wikilink"), [pass
+door](Pass_Door.md "wikilink").  
 
 ## Gear
 
@@ -27,18 +27,18 @@ door](Pass_Door "wikilink").
 
 ## Comments
 
-Give [a dead frog](Dead_Frog "wikilink") to her to receive [a necklace
-of forget-me-nots](Necklace_Of_Forget-Me-Nots "wikilink").
+Give [a dead frog](Dead_Frog.md "wikilink") to her to receive [a
+necklace of forget-me-nots](Necklace_Of_Forget-Me-Nots.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Defender's
-Graveyard](:Category:_Defender's_Graveyard "wikilink")
-([Map](Defender's_Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** An overgrown slope.  
-An insane ghost is [sentinel](Sentinel_Mobs "wikilink").  
-Walking route from [Aelmon](Aelmon "wikilink"): 15e, \[s\], 2s, w, 2s,
-e. (Also: 15e, \[s\], 2s, e, 2s, w.)  
+**[Area](:Category:_Areas.md "wikilink"):** [Defender's
+Graveyard](:Category:_Defender's_Graveyard.md "wikilink")
+([Map](Defender's_Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** An overgrown slope.  
+An insane ghost is [sentinel](Sentinel_Mobs.md "wikilink").  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 15e, \[s\], 2s, w,
+2s, e. (Also: 15e, \[s\], 2s, e, 2s, w.)  
 
 [Category: Mobs In Defender's
 Graveyard](Category:_Mobs_In_Defender's_Graveyard "wikilink")

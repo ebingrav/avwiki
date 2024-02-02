@@ -1,24 +1,25 @@
 *A glinting garnet lies here.*
 
-`Level 31 spells of: '`[`stone`` ``skin`](Stone_Skin "wikilink")`' '`[`change`` ``sex`](Change_Sex "wikilink")`' '`[`protection`` ``evil`](Protection_Evil "wikilink")`'.`
+`Level 31 spells of: '`[`stone`` ``skin`](Stone_Skin.md "wikilink")`' '`[`change`` ``sex`](Change_Sex.md "wikilink")`' '`[`protection`` ``evil`](Protection_Evil.md "wikilink")`'.`
 
 **Keyword(s):** garnet pill.  
-**[Level(s)](Object_Level "wikilink"):** 25.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[pill](:Category:_Pills "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** none.  
-**[Quality](Object_Quality "wikilink"):** 1 hps.  
-**[Weight](Object_Weight "wikilink"):** 1 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[glow](Glow_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 25.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[pill](:Category:_Pills.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** none.  
+**[Quality](Object_Quality.md "wikilink"):** 1 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 1 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[glow](Glow_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Museum](:Category:_Museum "wikilink") ([Map](Museum_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Long Hallway.  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Museum](:Category:_Museum.md "wikilink")
+([Map](Museum_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Long Hallway.  
 Walking directions from [Aelmon](Aelmon "wikilink"): 5s, 2e, 2s, w, n,
 u, \[n\], 3n.
 

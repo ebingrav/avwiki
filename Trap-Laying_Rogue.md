@@ -6,13 +6,13 @@ but as you silently step closer the rogue says: 'A bit further left, my
 dear, or that small blade over there will slash your face to bits.'*
 
 `A trap-laying rogue is using:`  
-`    `<wielded>`           [Pristine  ] `[`some`` ``poison`` ``needles`](Some_Poison_Needles "wikilink")
+`    `<wielded>`           [Pristine  ] `[`some`` ``poison`` ``needles`](Some_Poison_Needles.md "wikilink")
 
 `You peek at the inventory:`  
-`    [Pristine  ] `[`a`` ``tripwire`` ``trapkit`](Tripwire_Trapkit "wikilink")  
-`    [Pristine  ] (Invis) `[`a`` ``poisoning`` ``tool`` ``kit`](Poison_Tool_Kit "wikilink")  
-`    [Pristine  ] (Invis) `[`a`` ``poison`` ``needle`](Poison_Needle "wikilink")  
-`    [Pristine  ] `[`a`` ``trap`` ``disarming`` ``kit`](Trap_Disarming_Kit "wikilink")
+`    [Pristine  ] `[`a`` ``tripwire`` ``trapkit`](Tripwire_Trapkit.md "wikilink")  
+`    [Pristine  ] (Invis) `[`a`` ``poisoning`` ``tool`` ``kit`](Poison_Tool_Kit.md "wikilink")  
+`    [Pristine  ] (Invis) `[`a`` ``poison`` ``needle`](Poison_Needle.md "wikilink")  
+`    [Pristine  ] `[`a`` ``trap`` ``disarming`` ``kit`](Trap_Disarming_Kit.md "wikilink")
 
 [Category:Mobs In Planar Nexus
 (Tunnels)](Category:Mobs_In_Planar_Nexus_(Tunnels) "wikilink")

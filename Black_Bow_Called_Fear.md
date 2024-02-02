@@ -5,8 +5,8 @@ flags evil magic anti-good
 Levels: 50-52?  
 Maxes: 69-77?  
 Mob: [Cultist Of Ecstasy](Cultist_Of_Ecstasy "wikilink")  
-Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy "wikilink")
-([Map](Veil_Of_Ecstasy_Map "wikilink"))  
+Area: [Veil of Ecstasy](:Category:_Veil_Of_Ecstasy.md "wikilink")
+([Map](Veil_Of_Ecstasy_Map.md "wikilink"))  
 
 [Category: Gear In Veil Of
 Ecstasy](Category:_Gear_In_Veil_Of_Ecstasy "wikilink") [Category: Long

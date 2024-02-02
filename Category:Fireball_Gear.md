@@ -1,3 +1,3 @@
-See also [Fireball](Fireball "wikilink").
+See also [Fireball](Fireball.md "wikilink").
 
 [Category: Spellcasting Gear](Category:_Spellcasting_Gear "wikilink")

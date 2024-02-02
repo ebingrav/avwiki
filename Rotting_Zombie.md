@@ -1,10 +1,10 @@
 *Maggots crawl all over its decaying body.*
 
 **Keywords:** Rotting, Zombie.  
-**[Level](Level "wikilink"):** 35.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[undead](Undead_Mobs "wikilink").  
+**[Level](Level.md "wikilink"):** 35.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[undead](Undead_Mobs.md "wikilink").  
 **Affects:** none.  
 
 ## Gear
@@ -29,10 +29,10 @@ in level than described and does not carry the amethyst.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Graveyard](:Category:_Graveyard "wikilink")
-([Map](Graveyard_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Mob wanders, though they
+**[Area](:Category:_Areas.md "wikilink"):**
+[Graveyard](:Category:_Graveyard.md "wikilink")
+([Map](Graveyard_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Mob wanders, though they
 seem to start locked in their tombs and only wander when released.  
 Unknown if Mob is portable  
 

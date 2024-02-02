@@ -1,13 +1,13 @@
-*This [skill](:Category:_Skills "wikilink") enables
-[characters](:Category:_Characters "wikilink") to
-[pick](Pick_(command) "wikilink") locked
-[containers](:Category:_Containers "wikilink") or
-[doors](:Category:_Doors "wikilink").*
+*This [skill](:Category:_Skills.md "wikilink") enables
+[characters](:Category:_Characters.md "wikilink") to
+[pick](Pick_(command).md "wikilink") locked
+[containers](:Category:_Containers.md "wikilink") or
+[doors](:Category:_Doors.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [pick](Pick_(command) "wikilink")
-\<[container](:Category:_Containers "wikilink")/direction\>.
+Syntax: [pick](Pick_(command).md "wikilink")
+\<[container](:Category:_Containers.md "wikilink")/direction\>.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

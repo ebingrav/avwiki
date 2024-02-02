@@ -22,9 +22,9 @@ items with*base armors above 11 or below 10.
 *The magical fire of the forge works equally well with any perfect gem
 type*and will consume whichever are first in your inventory.
 
-Prerequisite(s): [armor lore](Armor_Lore "wikilink").
+Prerequisite(s): [armor lore](Armor_Lore.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'reforge' <item>.
+Syntax: [cast](Cast.md "wikilink") 'reforge' <item>.
 
 ## Comments
 

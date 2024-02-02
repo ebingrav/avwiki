@@ -1,26 +1,27 @@
-*This [skill](:Category:_Skills_And_Spells "wikilink") reduces the lag
-you get when you lose concentration in [casting](Cast "wikilink") a
-spell. Use of this [skill](:Category:_Skills_And_Spells "wikilink") is
-automatic once [practiced](Practice "wikilink").*
+*This [skill](:Category:_Skills_And_Spells.md "wikilink") reduces the
+lag you get when you lose concentration in [casting](Cast.md "wikilink")
+a spell. Use of this [skill](:Category:_Skills_And_Spells.md "wikilink")
+is automatic once [practiced](Practice.md "wikilink").*
 
-Prerequisite(s): [Magic Lore](Magic_Lore "wikilink"),
-[Meditation](Meditation "wikilink").
+Prerequisite(s): [Magic Lore](Magic_Lore.md "wikilink"),
+[Meditation](Meditation.md "wikilink").
 
 Syntax: none (automatic).
 
-This [skill](:Category:_Skills_And_Spells "wikilink") can be rather
-useful to [characters](:Category:_Characters "wikilink") that are both
-of spellcasting [classes](:Category:_Classes "wikilink") (like
-[psionicists](:Category:_Psionicists "wikilink"),
-[mages](:Category:_Mages "wikilink"), and
-[clerics](:Category:_Clerics "wikilink")) and also of
-[races](:Category:_Races "wikilink") that are relatively prone to
-[spellcasting](Cast "wikilink") failure (like
-[giants](Giants "wikilink"), [goblins](Goblins "wikilink"), and
-[kobolds](Kobolds "wikilink")). Especially when soloing, a quick
-recovery from a failed [cast](Cast "wikilink") at a
-[mob](:Category:_Mobs "wikilink") may make a difference between killing
-this [mob](:Category:_Mobs "wikilink") and being killed by it.
+This [skill](:Category:_Skills_And_Spells.md "wikilink") can be rather
+useful to [characters](:Category:_Characters.md "wikilink") that are
+both of spellcasting [classes](:Category:_Classes.md "wikilink") (like
+[psionicists](:Category:_Psionicists.md "wikilink"),
+[mages](:Category:_Mages.md "wikilink"), and
+[clerics](:Category:_Clerics.md "wikilink")) and also of
+[races](:Category:_Races.md "wikilink") that are relatively prone to
+[spellcasting](Cast.md "wikilink") failure (like
+[giants](Giants.md "wikilink"), [goblins](Goblins.md "wikilink"), and
+[kobolds](Kobolds.md "wikilink")). Especially when soloing, a quick
+recovery from a failed [cast](Cast.md "wikilink") at a
+[mob](:Category:_Mobs.md "wikilink") may make a difference between
+killing this [mob](:Category:_Mobs.md "wikilink") and being killed by
+it.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Skills](Category:_Skills "wikilink") [Category: Archer Hero

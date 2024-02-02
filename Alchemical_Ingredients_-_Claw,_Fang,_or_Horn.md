@@ -1,18 +1,18 @@
 ### Claw, fang or horn items
 
--   [clawed glove](Clawed_Glove "wikilink")
--   [mercury wolf fangs](Mercury_Wolf_Fangs "wikilink")
--   [cretelli tooth](Cretelli_tooth "wikilink")
--   [barbed bone ring](Barbed_Bone_Ring "wikilink") ("look ring" shows
-    that it is "carved out of a bone goliath's 'horn'")
--   [horns of Typhus](Horns_Of_Typhus "wikilink")
--   [titanium claw](Titanium_Claw "wikilink")
+-   [clawed glove](Clawed_Glove.md "wikilink")
+-   [mercury wolf fangs](Mercury_Wolf_Fangs.md "wikilink")
+-   [cretelli tooth](Cretelli_tooth.md "wikilink")
+-   [barbed bone ring](Barbed_Bone_Ring.md "wikilink") ("look ring"
+    shows that it is "carved out of a bone goliath's 'horn'")
+-   [horns of Typhus](Horns_Of_Typhus.md "wikilink")
+-   [titanium claw](Titanium_Claw.md "wikilink")
 -   [skull with huge, carved
-    horns](Skull_With_Huge,_Curved_Horns "wikilink")
+    horns](Skull_With_Huge,_Curved_Horns.md "wikilink")
 
 ### Probably claw/fang/horn but untested
 
--   [Crattenos's Bite](Crattenos%27s_Bite "wikilink")
+-   [Crattenos's Bite](Crattenos%27s_Bite.md "wikilink")
 
 ### Items which are not claw/fang/horn alchemical ingredients
 

@@ -4,20 +4,20 @@
 `Modifies damage roll by 12 continuous`
 
 **Keyword(s):** serrated, bone, sword  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 10 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[evil](Evil_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 10 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[evil](Evil_Flag.md "wikilink").  
 
 ## Comments
 
 The two swords are on the two captains -
-[Gruppy](Captain_Gruppy "wikilink") is on the *Sea King*,
-[Tyrana](Captain_Tyrana "wikilink") is on the *Sea Queen*. Both ships
+[Gruppy](Captain_Gruppy.md "wikilink") is on the *Sea King*,
+[Tyrana](Captain_Tyrana.md "wikilink") is on the *Sea Queen*. Both ships
 have 7 tough sailors as well as the captian, all are aggressive and see
 through hidden or invisible. If you are a superhero area caster you will
 probably be able to clear them all, if not target the captain and
@@ -28,10 +28,10 @@ calm/teleport after getting the sword.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Moonbay
-Village](:Category:_Moonbay_Village "wikilink")
-([Map](Moonbay_Village_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Captain
+**[Area](:Category:_Areas.md "wikilink"):** [Moonbay
+Village](:Category:_Moonbay_Village.md "wikilink")
+([Map](Moonbay_Village_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Captain
 Gruppy](Captain_Gruppy "wikilink"), [Captain
 Tyrana](Captain_Tyrana "wikilink").  
 

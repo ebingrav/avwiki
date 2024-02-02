@@ -1,39 +1,41 @@
-*Once, [Midgaard](:Category:_Midgaard "wikilink") was the home of [a
+*Once, [Midgaard](:Category:_Midgaard.md "wikilink") was the home of [a
 great temple dedicated to the immortals of
-Avatar](:Category:_Temple_Of_AVATAR "wikilink"). It was enormous,
+Avatar](:Category:_Temple_Of_AVATAR.md "wikilink"). It was enormous,
 containing the Cleric Guild, a massive library, and the statues of the
-[Immortals](:Category:_Immortals "wikilink") of Avatar. Now, its once
+[Immortals](:Category:_Immortals.md "wikilink") of Avatar. Now, its once
 massive dome is no more. The temple became the property of
-[Tul-Sith](Tul-Sith "wikilink"), goddess of healing, and
-[Werredan](Werredan "wikilink"), god of war. Their
-[priests](:Category:_Priests "wikilink") and
-[clerics](:Category:_Clerics "wikilink") have hired the best architects
-and masons the world has ever known to build the new grand temple. Home
-to both groups of [clerics](:Category:_Clerics "wikilink") and to their
-guards, the new structure is a site to behold. It has public
-sanctuaries, where the devote can worship, along with private areas for
-the [clerics](:Category:_Clerics "wikilink"),
-[priests](:Category:_Priests "wikilink"), guards and their staff.
+[Tul-Sith](Tul-Sith.md "wikilink"), goddess of healing, and
+[Werredan](Werredan.md "wikilink"), god of war. Their
+[priests](:Category:_Priests.md "wikilink") and
+[clerics](:Category:_Clerics.md "wikilink") have hired the best
+architects and masons the world has ever known to build the new grand
+temple. Home to both groups of
+[clerics](:Category:_Clerics.md "wikilink") and to their guards, the new
+structure is a site to behold. It has public sanctuaries, where the
+devote can worship, along with private areas for the
+[clerics](:Category:_Clerics.md "wikilink"),
+[priests](:Category:_Priests.md "wikilink"), guards and their staff.
 Beware, the Temples are under the protection of the King of Midgaard.*
 
 **Level Range:** 20-35
 
 **Builder:** Cerdwyn
 
-This [area](:Category:_Areas "wikilink") was added in 2006 Nov.
+This [area](:Category:_Areas.md "wikilink") was added in 2006 Nov.
 
 ## Directions
 
-Walking route from [Sol](Sol "wikilink"): 3e, s, 3e, 3s, 5e, n, 12e, n.
+Walking route from [Sol](Sol.md "wikilink"): 3e, s, 3e, 3s, 5e, n, 12e,
+n.
 
-Walking route from [Aelmon](Aelmon "wikilink"): 5w, n.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 5w, n.
 
-[Portaling](Portal "wikilink") point(s) suggested: [High Priest
-guildmaster](Guildmaster_(cleric) "wikilink").
+[Portaling](Portal.md "wikilink") point(s) suggested: [High Priest
+guildmaster](Guildmaster_(cleric).md "wikilink").
 
 ## Connections
 
-This area connects to [Midgaard](:Category:Midgaard "wikilink").
+This area connects to [Midgaard](:Category:Midgaard.md "wikilink").
 
 ## Navigation
 
@@ -46,7 +48,7 @@ mirror images. Both halves have three floors.
 ## Adventuring
 
 This area replaces the [Temple of
-AVATAR](:Category:Temple_Of_AVATAR "wikilink").  
+AVATAR](:Category:Temple_Of_AVATAR.md "wikilink").  
 There are a few mobs at the bottom floor that can be killed for exp. The
 upper floors have some bigger mobs, as well as some gear. However, the
 gear is nothing special, and it is not possible to access the upper
@@ -56,9 +58,9 @@ Door](Pass_Door "wikilink"), or if one uses
 Oddly, the keys to access the upper floors are on mobs found on the
 upper floors.  
 This area is not the greatest for exp due to its low mob count, and the
-fact that many of the mobs are [citizens](Citizen_Mobs "wikilink"). The
-gear is not spectacular, either. In the future, this area may be used in
-conjunction with [Worship](Worship "wikilink").  
+fact that many of the mobs are [citizens](Citizen_Mobs.md "wikilink").
+The gear is not spectacular, either. In the future, this area may be
+used in conjunction with [Worship](Worship "wikilink").  
 
 [Category: Lowmort 11-20
 Areas](Category:_Lowmort_11-20_Areas "wikilink") [Category: Lowmort

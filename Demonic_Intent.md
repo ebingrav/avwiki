@@ -1,11 +1,11 @@
 *After committing your soul with dark rites of passage, you have decided
 to walk down a path with no return. By learning this
-[skill](:Category:_Skills "wikilink"), you have decided to embrace dark
-magic and anything you do within the world will reflect that choice. Not
-only is this the first step of many, it will be felt as unholy glee upon
-killing anything. Even killing another evil soul, you'll still feel your
-own taint and it will reflect upon your
-[alignment](Alignment "wikilink").*
+[skill](:Category:_Skills.md "wikilink"), you have decided to embrace
+dark magic and anything you do within the world will reflect that
+choice. Not only is this the first step of many, it will be felt as
+unholy glee upon killing anything. Even killing another evil soul,
+you'll still feel your own taint and it will reflect upon your
+[alignment](Alignment.md "wikilink").*
 
 Prerequisites: none.
 

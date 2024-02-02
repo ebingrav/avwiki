@@ -8,8 +8,8 @@
 Slot: wrist  
 Flags: magic  
 Weight: 1  
-Plane: [Hell](:Category:_Hell "wikilink")  
-Area: [Kwalashai](:Category:_Kwalashai "wikilink")  
+Plane: [Hell](:Category:_Hell.md "wikilink")  
+Area: [Kwalashai](:Category:_Kwalashai.md "wikilink")  
 Mob: [the Survivor Guard](the_Survivor_Guard "wikilink")  
 
 ## Comments

@@ -1,4 +1,4 @@
--   After arriving to the [Rim](:Category:Rim "wikilink"), go wild.
+-   After arriving to the [Rim](:Category:Rim.md "wikilink"), go wild.
 -   Eventually you will have attracted the attention of one or more sea
     deities that dwell there.
 -   Kill them all.

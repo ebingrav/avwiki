@@ -1,10 +1,10 @@
 *Description here.*
 
 **Keywords:** ?  
-**[Level](Level "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** ?  
 **Scan Description:** ?  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** ?  
 
 ## Comments

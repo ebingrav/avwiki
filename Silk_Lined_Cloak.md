@@ -2,15 +2,15 @@
 `Modifies mana by 50 continuous.`
 
 **Keyword(s):** silk lined cloak.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
-**[Weight](Object_Weight "wikilink"):** 5 lbs  
-**[Level(s)](Object_Level "wikilink"):** 39  
-**[Quality](Object_Quality "wikilink"):** 100 hps  
-**[Area](:Category:_Areas "wikilink"):** [Caves Of Ancient
-Evil](:Category:_Caves_Of_Ancient_Evil "wikilink")
-([Map](Caves_Of_Ancient_Evil_Map "wikilink")).  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 39  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps  
+**[Area](:Category:_Areas.md "wikilink"):** [Caves Of Ancient
+Evil](:Category:_Caves_Of_Ancient_Evil.md "wikilink")
+([Map](Caves_Of_Ancient_Evil_Map.md "wikilink")).  
 
 ## Comments
 

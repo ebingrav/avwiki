@@ -1,9 +1,9 @@
 `Click repeatedly to enlarge.`
 
 <figure>
-<img src="Rhuien.forest.jpg" title="Rhuien.forest.jpg" width="650"
-alt="Rhuien.forest.jpg" />
-<figcaption aria-hidden="true">Rhuien.forest.jpg</figcaption>
+<img src="Rhuien.forest.jpg.md" title="Rhuien.forest.jpg.md" width="650"
+alt="Rhuien.forest.jpg.md" />
+<figcaption aria-hidden="true">Rhuien.forest.jpg.md</figcaption>
 </figure>
 
 [Sphynx Gate Map](Sphynx_Gate_Map "wikilink")  

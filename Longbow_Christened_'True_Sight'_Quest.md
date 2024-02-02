@@ -1,18 +1,18 @@
-*[A twisted hunter](Twisted_Hunter "wikilink") would like to make [a
-nice new bow](Longbow_Christened_'True_Sight' "wikilink") but needs [a
-suitable string](Long_Black_Tentacle_String "wikilink") to do so.
+*[A twisted hunter](Twisted_Hunter.md "wikilink") would like to make [a
+nice new bow](Longbow_Christened_'True_Sight'.md "wikilink") but needs
+[a suitable string](Long_Black_Tentacle_String.md "wikilink") to do so.
 Fortunately, he has found [a dangerous
-mob](Thin_Black_Tentacle "wikilink") that will provide him with [such a
-string](Long_Black_Tentacle_String "wikilink"). He would be very
+mob](Thin_Black_Tentacle.md "wikilink") that will provide him with [such
+a string](Long_Black_Tentacle_String.md "wikilink"). He would be very
 grateful to receive some assistance...*
 
-From [white haired druid](White_Haired_Druid "wikilink"):
+From [white haired druid](White_Haired_Druid.md "wikilink"):
 
 -   Go w, s, w, s, d, s, d, e. (.wswsdsde)
 
 <!-- -->
 
--   [Get](Get "wikilink") [a large egg](Large_Egg "wikilink") from
+-   [Get](Get.md "wikilink") [a large egg](Large_Egg.md "wikilink") from
     twigs.
 
 <!-- -->
@@ -21,19 +21,19 @@ From [white haired druid](White_Haired_Druid "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a large egg](Large_Egg "wikilink") to [a
-    twisted hunter](Twisted_Hunter "wikilink") and be transported to
-    Squeezed into a gap among the stones.
+-   [Give](Give.md "wikilink") [a large egg](Large_Egg.md "wikilink") to
+    [a twisted hunter](Twisted_Hunter.md "wikilink") and be transported
+    to Squeezed into a gap among the stones.
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [a thin black
-    tentacle](Thin_Black_Tentacle "wikilink").
+-   [Kill](Kill.md "wikilink") [a thin black
+    tentacle](Thin_Black_Tentacle.md "wikilink").
 
 <!-- -->
 
--   [Skin](Skin "wikilink") its corpse into [a long black tentacle
-    string](Long_Black_Tentacle_String "wikilink").
+-   [Skin](Skin.md "wikilink") its corpse into [a long black tentacle
+    string](Long_Black_Tentacle_String.md "wikilink").
 
 <!-- -->
 
@@ -41,10 +41,11 @@ From [white haired druid](White_Haired_Druid "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [a long black tentacle
-    string](Long_Black_Tentacle_String "wikilink") to [a twisted
-    hunter](Twisted_Hunter "wikilink") and receive [a longbow christened
-    'True Sight'](Longbow_Christened_'True_Sight' "wikilink").
+-   [Give](Give.md "wikilink") [a long black tentacle
+    string](Long_Black_Tentacle_String.md "wikilink") to [a twisted
+    hunter](Twisted_Hunter.md "wikilink") and receive [a longbow
+    christened 'True
+    Sight'](Longbow_Christened_'True_Sight'.md "wikilink").
 
 Note: white haired druid is actually WHITE-HAIRED DRUID. Add in the
 hyphen, or just type 'white druid' for pp.

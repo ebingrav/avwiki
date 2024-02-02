@@ -4,7 +4,7 @@ globe of darkness... you won't notice the difference!*
 
 Syntax: cast 'globe of darkness'
 
-Prerequisites: [dark embrace](Dark_Embrace "wikilink")
+Prerequisites: [dark embrace](Dark_Embrace.md "wikilink")
 
 [Category: Lord Sorcerer
 Spells](Category:_Lord_Sorcerer_Spells "wikilink")

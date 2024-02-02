@@ -1,17 +1,18 @@
 *This shiny black ring is inlaid with gold and silver bands.*
 
-[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`  
-`Modifies `[`mana`](Mana_Points "wikilink")` by 40 continuous.`
+[`Armor`` ``class`](Armor_Class.md "wikilink")` is 10-12.`  
+`Modifies `[`mana`](Mana_Points.md "wikilink")` by 40 continuous.`
 
 **Keyword(s):** black ring typhus  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink")  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[dark](Dark_Flag "wikilink"), [magic](Magic_Flag "wikilink"),
-[nodrop](NoDrop_Flag "wikilink"), [noremove](NoRemove_Flag "wikilink")  
-**[Weight](Object_Weight "wikilink"):** 6 lbs  
-**[Level(s)](Object_Level "wikilink"):** 50-51  
-**[Quality](Object_Quality "wikilink"):** 200 hps  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink")  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[dark](Dark_Flag.md "wikilink"), [magic](Magic_Flag.md "wikilink"),
+[nodrop](NoDrop_Flag.md "wikilink"),
+[noremove](NoRemove_Flag.md "wikilink")  
+**[Weight](Object_Weight.md "wikilink"):** 6 lbs  
+**[Level(s)](Object_Level.md "wikilink"):** 50-51  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps  
 
 ## Comments
 
@@ -19,16 +20,17 @@ The same mana as a [Riithi Noble's
 Ring](Riithi_Noble's_Ring "wikilink"), but with the potential to have
 slightly better AC.
 
-There is a [demonic version](Demonic_Ringband_Of_Typhus "wikilink") of
-this.
+There is a [demonic version](Demonic_Ringband_Of_Typhus.md "wikilink")
+of this.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Typhus](:Category:_Typhus "wikilink") ([Map](Typhus_Map "wikilink"))  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Demon Lord
+**[Area](:Category:_Areas.md "wikilink"):**
+[Typhus](:Category:_Typhus.md "wikilink")
+([Map](Typhus_Map.md "wikilink"))  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Demon Lord
 Typhus](Demon_Lord_Typhus "wikilink")  
-[Portal](Teleport "wikilink") [Tysiln San](Tysiln_San "wikilink").
+[Portal](Teleport.md "wikilink") [Tysiln San](Tysiln_San "wikilink").
 Quaff. 6ednwnw-op w-wsw.
 
 [Category: Gear In Typhus](Category:_Gear_In_Typhus "wikilink")

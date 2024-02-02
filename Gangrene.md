@@ -12,7 +12,7 @@ and die instantly at first taste of the liquid.*
 
 Syntax: cast 'gangrene'
 
-Prerequisites: [unholy bargain](Unholy_Bargain "wikilink")
+Prerequisites: [unholy bargain](Unholy_Bargain.md "wikilink")
 
 [Category: Lord Sorcerer
 Spells](Category:_Lord_Sorcerer_Spells "wikilink") [Category: Sorcerer

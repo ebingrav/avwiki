@@ -11,14 +11,14 @@ Kzinti Spires.*
 
 ## Connections
 
--   [Shunned World](:Category:Shunned_World "wikilink")
-    ([map](Shunned_World_Map "wikilink")) - from shift go 7w.
--   [Inferno Peak](:Category:Inferno_Peak "wikilink")
-    ([map](Inferno_Peak_Map "wikilink")) - from shift go e, 3s, 2u.
--   [Spire Of War](:Category:Kzinti_Spire_Of_War "wikilink")
-    ([map](Kzinti_Spire_Of_War_Map "wikilink")), which houses the
+-   [Shunned World](:Category:Shunned_World.md "wikilink")
+    ([map](Shunned_World_Map.md "wikilink")) - from shift go 7w.
+-   [Inferno Peak](:Category:Inferno_Peak.md "wikilink")
+    ([map](Inferno_Peak_Map.md "wikilink")) - from shift go e, 3s, 2u.
+-   [Spire Of War](:Category:Kzinti_Spire_Of_War.md "wikilink")
+    ([map](Kzinti_Spire_Of_War_Map.md "wikilink")), which houses the
     entrance to [Spire Of
-    Knowledge](:Category:Kzinti_Spire_Of_Knowledge "wikilink") in the
+    Knowledge](:Category:Kzinti_Spire_Of_Knowledge.md "wikilink") in the
     sublevel - from shift go 7n, 4e, 2n.
 
 ## Navigation

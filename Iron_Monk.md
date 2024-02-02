@@ -1,16 +1,17 @@
-*Pioneered by ascetic [monks](:Category:_Monks "wikilink"), this process
-reflects the pinnacle of physical self-control. Through a brief but
-strenuous mental effort of concentration and self-denial, one may
+*Pioneered by ascetic [monks](:Category:_Monks.md "wikilink"), this
+process reflects the pinnacle of physical self-control. Through a brief
+but strenuous mental effort of concentration and self-denial, one may
 achieve a state where one takes only half the normal damage in a fight.
 This exertion is draining; it costs plenty in
-[mana](Mana_Points "wikilink") and in [blood](Hit_Points "wikilink").
-Note that the Gods will not grant additional support through the
-[SANCTUARY](Sanctuary "wikilink") [spell](:Category:_Spells "wikilink")
-to one while he is employing this form of self-protection.*
+[mana](Mana_Points.md "wikilink") and in
+[blood](Hit_Points.md "wikilink"). Note that the Gods will not grant
+additional support through the [SANCTUARY](Sanctuary.md "wikilink")
+[spell](:Category:_Spells.md "wikilink") to one while he is employing
+this form of self-protection.*
 
-Prerequisite(s): [Concentrate](Concentrate "wikilink").
+Prerequisite(s): [Concentrate](Concentrate.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'iron monk'.
+Syntax: [cast](Cast.md "wikilink") 'iron monk'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Archer Hero

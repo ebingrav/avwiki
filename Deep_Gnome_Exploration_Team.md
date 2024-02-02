@@ -8,7 +8,8 @@ Affects: ?
   
   
   
-**[Area](:Category:_Areas "wikilink"):** [Deepways
-](:Category:_Deepways "wikilink") ([Map](Deepways_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Deepways
+](:Category:_Deepways.md "wikilink")
+([Map](Deepways_Map.md "wikilink")).  
 
 [Category: Mobs In Deepways](Category:_Mobs_In_Deepways "wikilink")

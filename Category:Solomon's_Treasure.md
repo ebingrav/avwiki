@@ -1,10 +1,10 @@
 *You once heard a drunken bard sing of the
-[wizard](:Category:_Wizards "wikilink"), Solomon, who buried a
-[treasure](:Category:_Treasure "wikilink"), containing a fabulous
+[wizard](:Category:_Wizards.md "wikilink"), Solomon, who buried a
+[treasure](:Category:_Treasure.md "wikilink"), containing a fabulous
 sceptre of power, in a bizarre dungeon filled with tricks and traps.
 Supposedly, this maze is hidden under a huge stone monolith just outside
 the gates of the [Great
-Wall](:Category:_Highways/Great_Wall "wikilink").*
+Wall](:Category:_Highways/Great_Wall.md "wikilink").*
 
 **Level Range:** 30-35
 
@@ -14,9 +14,9 @@ Wall](:Category:_Highways/Great_Wall "wikilink").*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 16e, \[e\], s.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 16e, \[e\], s.
 
-[Portaling](Portal "wikilink") point(s) suggested: none.
+[Portaling](Portal.md "wikilink") point(s) suggested: none.
 
 ## Connections
 

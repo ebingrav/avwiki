@@ -6,9 +6,9 @@ barest whisps of their former selves.*
 
 **Keywords:** dead, spirit, ?.  
 **Scan Description:** The dead have returned to stalk the seas.  
-**[Level](Level "wikilink"):** 83  
-**[Alignment](Alignment "wikilink"):** ?  
-**[Flags](:Category:_Mob_Types "wikilink"):** ?  
+**[Level](Level.md "wikilink"):** 83  
+**[Alignment](Alignment.md "wikilink"):** ?  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ?  
 **Affects:** ?  
 
 ## Gear
@@ -21,9 +21,9 @@ None.
 
 Wanders.
 
-**[Area](:Category:_Areas "wikilink"):** [The
-Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** various
-([cursed](Cursed_Rooms "wikilink"))  
+**[Area](:Category:_Areas.md "wikilink"):** [The
+Rim](:Category:_Rim.md "wikilink") ([Map](Rim_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** various
+([cursed](Cursed_Rooms.md "wikilink"))  
 
 [Category: Mobs In Rim](Category:_Mobs_In_Rim "wikilink")

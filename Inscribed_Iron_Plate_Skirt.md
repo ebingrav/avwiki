@@ -8,18 +8,18 @@ of the major kingdoms of Midgaardia. So are the inscriptions just
 wishful thinking, or a practical "to-do" list?*
 
 `Insignificantly lowers resistance to water continuous`  
-`Modifies `[`armor`` ``class`](Armor_Class "wikilink")` by -40 continuous.`  
+`Modifies `[`armor`` ``class`](Armor_Class.md "wikilink")` by -40 continuous.`  
 `Modifies wisdom by 2 continuous`  
 `Armor class is 10-12.`
 
 **Keyword(s):** inscribed iron plate skirt.  
-**[Level(s)](Object_Level "wikilink"):** 50.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on legs>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 20 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** nolocate.  
+**[Level(s)](Object_Level.md "wikilink"):** 50.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on legs>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 20 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** nolocate.  
 
 ## Comments
 

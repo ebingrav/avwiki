@@ -1,6 +1,6 @@
-*This [skill](:Category:_Skills "wikilink") provides an additional
-attack per melee [round](Rounds "wikilink"). It is automatic once
-[practiced](Practice "wikilink").*
+*This [skill](:Category:_Skills.md "wikilink") provides an additional
+attack per melee [round](Rounds.md "wikilink"). It is automatic once
+[practiced](Practice.md "wikilink").*
 
 Prerequisite(s): none.
 

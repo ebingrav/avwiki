@@ -14,13 +14,13 @@ the matter.*
 
 Walking route from [Aelmon](Aelmon "wikilink"):
 16e,\[e\],2e,n,2e,3s,4e,2s,2e,2s  
-[Portaling](Portal "wikilink") point(s) suggested:
+[Portaling](Portal.md "wikilink") point(s) suggested:
 [Vymm](Vymm "wikilink").
 
 ## Connections
 
-The area is located off of the [Wildwood](:Category:Wildwood "wikilink")
-in the southeast corner.
+The area is located off of the
+[Wildwood](:Category:Wildwood.md "wikilink") in the southeast corner.
 
 ## Navigation
 
@@ -47,12 +47,12 @@ The are a few higher level mobs with gear, but they are spread out and
 do not generally make for an upper level experience run, although they
 can provide good sources of solo experience. There are several quests in
 the area that involve the higher level mobs. Not until later in the
-quests do the mobs get [aggie](Aggressive "wikilink"). The masters are
-higher levels and may cast. There is a variety of usable
-[mana](Mana_Points "wikilink"), [stat
-gear](:Category:Level_Gear "wikilink") and affects gear here, but
-nothing top tier. There is even a [sanctuary](Sanctuary "wikilink")
-[staff](Charred_Pentagram_Amulet "wikilink") for evil types here.
+quests do the mobs get [aggie](Aggressive.md "wikilink"). The masters
+are higher levels and may cast. There is a variety of usable
+[mana](Mana_Points.md "wikilink"), [stat
+gear](:Category:Level_Gear.md "wikilink") and affects gear here, but
+nothing top tier. There is even a [sanctuary](Sanctuary.md "wikilink")
+[staff](Charred_Pentagram_Amulet.md "wikilink") for evil types here.
 
 It looks like homunculi are level 45, students are level 50, and
 initiates are level 55 -- all good choices for low-40s experience.

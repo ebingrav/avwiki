@@ -10,8 +10,9 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href=":Category:Nothing" title="wikilink">Nothing</a></p></td>
-<td><p>(<a href=":Category:Gear_In_Nothing"
+<td><p><a href=":Category:Nothing.md"
+title="wikilink">Nothing</a></p></td>
+<td><p>(<a href=":Category:Gear_In_Nothing.md"
 title="wikilink">Gear</a>)</p></td>
 </tr>
 </tbody>

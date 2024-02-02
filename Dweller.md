@@ -5,18 +5,18 @@ wolf than man or Wamphyri. He will not attack you; in fact he shows you
 little interest.*
 
 **Keywords:** Dweller.  
-**[Level](Level "wikilink"):** 60.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** none.  
+**[Level](Level.md "wikilink"):** 60.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** none.  
 **Affects:** none.  
 
 ## Gear
 
 `The Dweller is using:`  
-`    `<worn around neck>`  (Glowing) (Humming) a `[`talisman`` ``of`` ``innocent`` ``blood`](Talisman_Of_Innocent_Blood "wikilink")
+`    `<worn around neck>`  (Glowing) (Humming) a `[`talisman`` ``of`` ``innocent`` ``blood`](Talisman_Of_Innocent_Blood.md "wikilink")
 
 `You peek at the inventory:`  
-`    `[`a`` ``scroll`` ``written`` ``in`` ``blood`](Scroll_Written_In_Blood "wikilink")
+`    `[`a`` ``scroll`` ``written`` ``in`` ``blood`](Scroll_Written_In_Blood.md "wikilink")
 
 ## Comments
 
@@ -26,11 +26,11 @@ requires fading (difficult) or harmonizing.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Wamphyri
-Aerie](:Category:_Wamphyri_Aerie "wikilink")
-([Map](Wamphyri_Aerie_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Ante-Chamber.  
-Walking route from [Aelmon](Aelmon "wikilink"): see [Lady
+**[Area](:Category:_Areas.md "wikilink"):** [Wamphyri
+Aerie](:Category:_Wamphyri_Aerie.md "wikilink")
+([Map](Wamphyri_Aerie_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Ante-Chamber.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): see [Lady
 Karen](Lady_Karen "wikilink")  
 From [Lady Karen](Lady_Karen "wikilink"): 1w
 

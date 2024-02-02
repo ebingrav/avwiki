@@ -1,15 +1,15 @@
-*The Regeneration [spell](:Category:_Spells "wikilink") will speed
+*The Regeneration [spell](:Category:_Spells.md "wikilink") will speed
 hit-point healing at the cost of mana regeneration. Mana regen is cut to
-1/3, and [hp](Hit_Points "wikilink") regen is doubled. REGENERATION is a
-[BIOCENTRIC Psionic
-Spell](:Category:_Biocentric_Skills_And_Spells "wikilink"). It can only
-be [cast](Cast "wikilink") on others if the Caster first masters the art
-of [BIO EMPATHY](Bio_Empathy "wikilink").*
+1/3, and [hp](Hit_Points.md "wikilink") regen is doubled. REGENERATION
+is a [BIOCENTRIC Psionic
+Spell](:Category:_Biocentric_Skills_And_Spells.md "wikilink"). It can
+only be [cast](Cast.md "wikilink") on others if the Caster first masters
+the art of [BIO EMPATHY](Bio_Empathy.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'regeneration'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'regeneration'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
 At hero and below, this spell is obscenely useful for all characters
 (besides arcane and divine casters) to know. Please, learn it as soon as
@@ -19,10 +19,10 @@ essential to all high hp/regen races such as giant, ogres, orcs,
 gargoyles, and especially trolls.
 
 It's also worth pointing out that even with
-[bioempathy](Bio_Empathy "wikilink") you cannot cast this spell upon
+[bioempathy](Bio_Empathy.md "wikilink") you cannot cast this spell upon
 another player unless you are grouped with him or her.
 
-See also [Regeneration Gear](:Category:Regeneration_Gear "wikilink").
+See also [Regeneration Gear](:Category:Regeneration_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

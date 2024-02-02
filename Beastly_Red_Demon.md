@@ -3,19 +3,19 @@ contorted human, but of crimson red. Fire leaps all around him. A grin
 emerges on his bony face.*
 
 **Keywords:** demon.  
-**[Level](Level "wikilink"):** 29.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[fire-breather](Breathing_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink").  
+**[Level](Level.md "wikilink"):** 29.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[fire-breather](Breathing_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink").  
 
 ## Gear
 
 `A beastly red demon is using:`  
-<worn on head>`      `[`flaming`` ``red`` ``horns`](Flaming_Red_Horns "wikilink")
+<worn on head>`      `[`flaming`` ``red`` ``horns`](Flaming_Red_Horns.md "wikilink")
 
 `A beastly red demon is carrying:`  
 `     Nothing.`
@@ -24,14 +24,14 @@ emerges on his bony face.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):**
-[Nubrius](:Category:_Nubrius "wikilink")
-([Map](Nubrius_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** A large laboratory
+**[Area](:Category:_Areas.md "wikilink"):**
+[Nubrius](:Category:_Nubrius.md "wikilink")
+([Map](Nubrius_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** A large laboratory
 (portable).  
-Walking route from [Aelmon](Aelmon "wikilink"): 37s, 8w, s, 6e, n, 2e,
-s, e, s, e, 3n, \[n\], n, \[e\], 3d, 2e, \[e\]. (note: crosses [water
-terrain](Water_Terrain "wikilink"))  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 37s, 8w, s, 6e, n,
+2e, s, e, s, e, 3n, \[n\], n, \[e\], 3d, 2e, \[e\]. (note: crosses
+[water terrain](Water_Terrain.md "wikilink"))  
 A beastly red demon is portable, but the lack of unique keywords makes
 it unreliable.  
 

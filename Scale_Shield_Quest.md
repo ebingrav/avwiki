@@ -1,16 +1,16 @@
-From [Tari](Tari "wikilink"):
+From [Tari](Tari.md "wikilink"):
 
 -   Go n, w, 2n, w, 2n, w, 2s, w, 3n, \[n\], n.
 
 <!-- -->
 
--   [Kill](Kill "wikilink") [The unicorn
-    stallion](Unicorn_Stallion "wikilink").
+-   [Kill](Kill.md "wikilink") [The unicorn
+    stallion](Unicorn_Stallion.md "wikilink").
 
 <!-- -->
 
--   [Get](Get "wikilink") [spiral horn](Spiral_Horn "wikilink") from his
-    corpse.
+-   [Get](Get.md "wikilink") [spiral horn](Spiral_Horn.md "wikilink")
+    from his corpse.
 
 <!-- -->
 
@@ -18,9 +18,9 @@ From [Tari](Tari "wikilink"):
 
 <!-- -->
 
--   [Give](Give "wikilink") [spiral horn](Spiral_Horn "wikilink") to
-    [Verdissis](Verdissis "wikilink") and receive [scale
-    shield](Scale_Shield "wikilink").
+-   [Give](Give.md "wikilink") [spiral horn](Spiral_Horn.md "wikilink")
+    to [Verdissis](Verdissis.md "wikilink") and receive [scale
+    shield](Scale_Shield.md "wikilink").
 
 [Category: Quests In Westwood](Category:_Quests_In_Westwood "wikilink")
 [Category: Lowmort 11-20

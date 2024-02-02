@@ -5,15 +5,15 @@ see tattoos of various celestial bodies, the most prominent being that
 of a cresent moon. As you approach, he begins to speak...*
 
 **Keywords:** throdak, half, orc, paladin, projection.  
-**[Level](Level "wikilink"):** 95.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[trainer](:Category:Trainers "wikilink")  
-**Affects:** [detect invis](Detect_Invis "wikilink"), [detect
-hidden](Detect_Hidden "wikilink"),
-[infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink")  
+**[Level](Level.md "wikilink"):** 95.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[trainer](:Category:Trainers.md "wikilink")  
+**Affects:** [detect invis](Detect_Invis.md "wikilink"), [detect
+hidden](Detect_Hidden.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink")  
 
 ## Comments
 
@@ -26,10 +26,10 @@ Chainmail](Paladin's_Chainmail "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mountain
-Tunnels](:Category:Mountain_Tunnels "wikilink")
-([Map](Mountain_Tunnels_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Inside a strange cave  
+**[Area](:Category:_Areas.md "wikilink"):** [Mountain
+Tunnels](:Category:Mountain_Tunnels.md "wikilink")
+([Map](Mountain_Tunnels_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Inside a strange cave  
 
 [Category: Mobs In Mountain
 Tunnels](Category:_Mobs_In_Mountain_Tunnels "wikilink")

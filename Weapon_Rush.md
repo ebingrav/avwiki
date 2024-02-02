@@ -1,17 +1,18 @@
-*When [cast](Cast "wikilink"), your main
-[weapon](:Category:_Weapons "wikilink") flies out of your hand and
+*When [cast](Cast.md "wikilink"), your main
+[weapon](:Category:_Weapons.md "wikilink") flies out of your hand and
 attacks your current target once. The
-[weapon](:Category:_Weapons "wikilink") MIGHT return to your hand when
-the [spell](:Category:_Spells "wikilink") is complete. Or it MIGHT fall
-to the ground, where it will be subject to
-[scavengers](:Category:Scavenging_Mobs "wikilink"),
-[stompers](:Category:Stomping_Mobs "wikilink"), and the infamous imp...
-There are no reimbursements for [weapons](:Category:_Weapons "wikilink")
-that you lose with this [spell](:Category:_Spells "wikilink")...*
+[weapon](:Category:_Weapons.md "wikilink") MIGHT return to your hand
+when the [spell](:Category:_Spells.md "wikilink") is complete. Or it
+MIGHT fall to the ground, where it will be subject to
+[scavengers](:Category:Scavenging_Mobs.md "wikilink"),
+[stompers](:Category:Stomping_Mobs.md "wikilink"), and the infamous
+imp... There are no reimbursements for
+[weapons](:Category:_Weapons.md "wikilink") that you lose with this
+[spell](:Category:_Spells.md "wikilink")...*
 
-Prerequisite(s): [Torch](Torch_(spell) "wikilink").
+Prerequisite(s): [Torch](Torch_(spell).md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'weapon rush'.
+Syntax: [cast](Cast.md "wikilink") 'weapon rush'.
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Psionic

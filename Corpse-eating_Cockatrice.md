@@ -4,13 +4,13 @@ spiked whip. Its hooked beak is quite adept at ripping into flesh,
 wonder how it will feel ripping into yours?*
 
 **Keywords:** bird, corpse-eating, cockatrice.  
-**[Level](Level "wikilink"):** 56.  
+**[Level](Level.md "wikilink"):** 56.  
 **Scan Description:** A giant bird flaps leathery serpent-like wings in
 anger.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect invis](Detect_Invis "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -24,12 +24,12 @@ anger.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morte
-Vallta](:Category:_Morte_Vallta "wikilink")
-([Map](Morte_Vallta_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Morte
+Vallta](:Category:_Morte_Vallta.md "wikilink")
+([Map](Morte_Vallta_Map.md "wikilink")).  
 A corpse-eating cockatrice wanders.  
-[Portaling](Portal "wikilink") point suggested: [gia
-vul](Giant_Vulture "wikilink").  
+[Portaling](Portal.md "wikilink") point suggested: [gia
+vul](Giant_Vulture.md "wikilink").  
 
 [Category: Mobs In Morte
 Vallta](Category:_Mobs_In_Morte_Vallta "wikilink")

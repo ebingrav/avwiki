@@ -13,13 +13,13 @@ military leader of the land.*
 `Armor class is 10-12.`
 
 **Keyword(s):** muscle cuirass ornamented.  
-**[Level(s)](Object_Level "wikilink"):** 51.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <worn on body>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 55 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** glow evil magic
+**[Level(s)](Object_Level.md "wikilink"):** 51.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <worn on body>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 55 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** glow evil magic
 nolocate.  
 
 ## Comments

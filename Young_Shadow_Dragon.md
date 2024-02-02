@@ -2,17 +2,17 @@
 wingspan and ignores you entirely.*
 
 **Keywords:** young, Shadow, Dragon.  
-**[Level](Level "wikilink"):** 17.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[frost-breather](Breathing_Mobs "wikilink").  
-**Affects:** [fly](Fly "wikilink"),
-[infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 17.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[frost-breather](Breathing_Mobs.md "wikilink").  
+**Affects:** [fly](Fly.md "wikilink"),
+[infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A young Shadow Dragon is using:`  
-<worn about body>`   `[`young`` ``Shadow`` ``Dragon`` ``wings`](Young_Shadow_Dragon_Wings "wikilink")
+<worn about body>`   `[`young`` ``Shadow`` ``Dragon`` ``wings`](Young_Shadow_Dragon_Wings.md "wikilink")
 
 `A young Shadow Dragon is carrying:`  
 `     Nothing.`
@@ -20,22 +20,22 @@ wingspan and ignores you entirely.*
 ## Comments
 
 The directions lead to the cave entrance. The dragon itself
-[wanders](Wandering_Mobs "wikilink"), but it is fairly easy to find once
-in the cave.
+[wanders](Wandering_Mobs.md "wikilink"), but it is fairly easy to find
+once in the cave.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Morgan
-Vale](:Category:_Morgan_Vale "wikilink")
-([Map](Morgan_Vale_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** The Shadow Cave entrance
+**[Area](:Category:_Areas.md "wikilink"):** [Morgan
+Vale](:Category:_Morgan_Vale.md "wikilink")
+([Map](Morgan_Vale_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** The Shadow Cave entrance
 (portable).  
-Walking route from [Sol](Sol "wikilink"): 3e, 2n, 3e, 8n, 3e, 5s, 2w,
+Walking route from [Sol](Sol.md "wikilink"): 3e, 2n, 3e, 8n, 3e, 5s, 2w,
 2n.  
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, 3n, 6w, 3n, 3e,
-5s, 2w, 2n.  
-Walking route from [High Sylph](High_Sylph "wikilink"): s, d, s, 2w, 3n,
-e, 5n, 3w, 2n.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, 3n, 6w, 3n,
+3e, 5s, 2w, 2n.  
+Walking route from [High Sylph](High_Sylph.md "wikilink"): s, d, s, 2w,
+3n, e, 5n, 3w, 2n.  
 A young Shadow Dragon is portable.
 
 [Category: Mobs In Morgan

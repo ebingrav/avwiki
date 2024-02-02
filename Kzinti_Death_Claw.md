@@ -1,31 +1,31 @@
 *A black glove with wicked, specially crafted blades lies here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 15-17 to 46-49 (average 30-33).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 6 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 8 continuous.`  
-`Modifies `[`dexterity`](Dexterity "wikilink")` by +1 continuous.`  
-`Modifies `[`strength`](Strength "wikilink")` by +1 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 15-17 to 46-49 (average 30-33).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 6 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 8 continuous.`  
+`Modifies `[`dexterity`](Dexterity.md "wikilink")` by +1 continuous.`  
+`Modifies `[`strength`](Strength.md "wikilink")` by +1 continuous.`
 
 **Keyword(s):** kzinti, death, claw.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 100 hps.  
-**[Weight](Object_Weight "wikilink"):** 5 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 100 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 5 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Kzinti
-Outpost](:Category:_Kzinti_Outpost "wikilink")
-([Map](Kzinti_Outpost_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [The Kzinti field
-lieutenant](Kzinti_Field_Lieutenant "wikilink").  
-See [The Kzinti field lieutenant](Kzinti_Field_Lieutenant "wikilink")
+**[Area](:Category:_Areas.md "wikilink"):** [Kzinti
+Outpost](:Category:_Kzinti_Outpost.md "wikilink")
+([Map](Kzinti_Outpost_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [The Kzinti field
+lieutenant](Kzinti_Field_Lieutenant.md "wikilink").  
+See [The Kzinti field lieutenant](Kzinti_Field_Lieutenant.md "wikilink")
 for more information.  
 
 [Category: Gear In Kzinti

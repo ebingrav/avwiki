@@ -9,28 +9,28 @@ scattered around it the goblins have made some unsuccessful attempts to
 dislodge this creature.*
 
 **Keywords:** toadstool, monster, creature.  
-**[Level](Level "wikilink"):** 8.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"),
-[aggressive](Aggressive_Mobs "wikilink"),
-[poisonous](Biting_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 8.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"),
+[aggressive](Aggressive_Mobs.md "wikilink"),
+[poisonous](Biting_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `The toadstool monster is using:`  
-<worn on body>`      `[`a`` ``toadskin`` ``vest`](Toadskin_Vest "wikilink")  
-<wielded>`           `[`the`` ``Toadstool's`` ``claws`](Toadstool's_Claws "wikilink")
+<worn on body>`      `[`a`` ``toadskin`` ``vest`](Toadskin_Vest.md "wikilink")  
+<wielded>`           `[`the`` ``Toadstool's`` ``claws`](Toadstool's_Claws.md "wikilink")
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Mushroom
-Caves](:Category:_Mushroom_Caves "wikilink")
-([Map](Mushroom_Caves_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Cavern of the Toadstool
+**[Area](:Category:_Areas.md "wikilink"):** [Mushroom
+Caves](:Category:_Mushroom_Caves.md "wikilink")
+([Map](Mushroom_Caves_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Cavern of the Toadstool
 Monster (portable).  
 Walking route from [Nom](Nom "wikilink"): s, 7e, u, 3e, 2n, e, n, e.  
 The toadstool monster is portable.  

@@ -1,24 +1,24 @@
-*This [spell](:Category:_Spells "wikilink") puts the target into a
-frenzy, raising its [hit](Hit_Roll "wikilink") and
-[damroll](Damage_Roll "wikilink") and raising (worsening) the target's
-[AC](Armor_Class "wikilink").*
+*This [spell](:Category:_Spells.md "wikilink") puts the target into a
+frenzy, raising its [hit](Hit_Roll.md "wikilink") and
+[damroll](Damage_Roll.md "wikilink") and raising (worsening) the
+target's [AC](Armor_Class.md "wikilink").*
 
 Prerequisite(s): none.
 
-Syntax: [cast](Cast "wikilink") 'frenzy'
-\<[character](:Category:_Characters "wikilink")\>.
+Syntax: [cast](Cast.md "wikilink") 'frenzy'
+\<[character](:Category:_Characters.md "wikilink")\>.
 
-See also [Fervor](Fervor "wikilink"), [Racial
-Frenzy](Racial_Frenzy "wikilink").
+See also [Fervor](Fervor.md "wikilink"), [Racial
+Frenzy](Racial_Frenzy.md "wikilink").
 
-This [spell](:Category:_Spells "wikilink") is included in
-[Awen](Awen "wikilink") but *not* in [Aegis](Aegis "wikilink"). Some
-[tanks](Tanks "wikilink") prefer to run with Frenzy and some
-[tanks](Tanks "wikilink") prefer to run without it. Like
-[Sanctuary](Sanctuary "wikilink"), Frenzy has a relatively short
-duration compared with other [spells](:Category:_Spells "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in
+[Awen](Awen.md "wikilink") but *not* in [Aegis](Aegis.md "wikilink").
+Some [tanks](Tanks.md "wikilink") prefer to run with Frenzy and some
+[tanks](Tanks.md "wikilink") prefer to run without it. Like
+[Sanctuary](Sanctuary.md "wikilink"), Frenzy has a relatively short
+duration compared with other [spells](:Category:_Spells.md "wikilink").
 
-See also [Frenzy Gear](:Category:_Frenzy_Gear "wikilink").
+See also [Frenzy Gear](:Category:_Frenzy_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

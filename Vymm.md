@@ -4,36 +4,37 @@ The blue silken master's robes follow her movements, rippling along
 behind.*
 
 **Keywords:** vymm, master, water  
-**[Level](Level "wikilink"):** 70.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invisible](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** 70.  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invisible](Detect_Invis.md "wikilink").  
 
 ## Gear
 
 `Vymm, mistress of water is using:`  
-`   `<worn on body>`      `[`a`` ``master's`` ``robe`` ``of`` ``water`](Master's_Robe_Of_Water "wikilink")
+`   `<worn on body>`      `[`a`` ``master's`` ``robe`` ``of`` ``water`](Master's_Robe_Of_Water.md "wikilink")
 
 ## Comments
 
 Vymm will give you the [ Sparse and Circumstantial
-Evidence](Sparse_and_Circumstantial_Evidence "wikilink") if you give her
-[ a phail of vile ichor](Phial_of_Vile_Ichor "wikilink").
+Evidence](Sparse_and_Circumstantial_Evidence.md "wikilink") if you give
+her [ a phail of vile ichor](Phial_of_Vile_Ichor.md "wikilink").
 
-Give [water essence](Water_Essence "wikilink") to Vymm to complete the
-[Citadel Of Arcanists](:Category:_Citadel_Of_Arcanists "wikilink")'
-[Staff of Water Quest](Staff_Of_Water_Quest "wikilink").
+Give [water essence](Water_Essence.md "wikilink") to Vymm to complete
+the [Citadel Of
+Arcanists](:Category:_Citadel_Of_Arcanists.md "wikilink")' [Staff of
+Water Quest](Staff_Of_Water_Quest.md "wikilink").
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Citadel Of Arcanists
-](:Category:_Citadel_Of_Arcanists "wikilink")
-([Map](Citadel_Of_Arcanists_Map "wikilink")).  
-**[Room(s)](:Category:_Rooms "wikilink"):** Vymm's chamber
+**[Area](:Category:_Areas.md "wikilink"):** [Citadel Of Arcanists
+](:Category:_Citadel_Of_Arcanists.md "wikilink")
+([Map](Citadel_Of_Arcanists_Map.md "wikilink")).  
+**[Room(s)](:Category:_Rooms.md "wikilink"):** Vymm's chamber
 
-Walking route from [Aelmon](Aelmon "wikilink"):
+Walking route from [Aelmon](Aelmon.md "wikilink"):
 16e,\[e\],2e,n,2e,3s,4e,2s,2e,6s,2w,s,\[w\],d,\[n\]
 
 She is portable.

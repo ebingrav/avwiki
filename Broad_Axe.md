@@ -1,30 +1,30 @@
 *A broad axe lies here.*
 
-[`Damage`](Melee_Weapon_Values "wikilink")` is 6 to 20 (average 13).`  
-`Modifies `[`hit`` ``roll`](Hit_Roll "wikilink")` by 1 continuous.`  
-`Modifies `[`damage`` ``roll`](Damage_Roll "wikilink")` by 2 continuous.`
+[`Damage`](Melee_Weapon_Values.md "wikilink")` is 6 to 20 (average 13).`  
+`Modifies `[`hit`` ``roll`](Hit_Roll.md "wikilink")` by 1 continuous.`  
+`Modifies `[`damage`` ``roll`](Damage_Roll.md "wikilink")` by 2 continuous.`
 
 **Keyword(s):** broad, axe.  
-**[Level(s)](Object_Level "wikilink"):** 14-16.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[weapon](:Category:_Melee_Weapons "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <wielded>.  
-**[Quality](Object_Quality "wikilink"):** 50 hps.  
-**[Weight](Object_Weight "wikilink"):** 15 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):**
-[anti-good](Anti-Good_Flag "wikilink"),
-[magic](Magic_Flag "wikilink").  
+**[Level(s)](Object_Level.md "wikilink"):** 14-16.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[weapon](:Category:_Melee_Weapons.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <wielded>.  
+**[Quality](Object_Quality.md "wikilink"):** 50 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 15 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):**
+[anti-good](Anti-Good_Flag.md "wikilink"),
+[magic](Magic_Flag.md "wikilink").  
 
 ## Comments
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Land of the Fire
-Newts](:Category:_Land_Of_The_Fire_Newts "wikilink")
-([Map](Land_Of_The_Fire_Newts_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [a fire newt
-leader](Fire_Newt_Leader "wikilink").  
-See [a fire newt leader](Fire_Newt_Leader "wikilink") for more
+**[Area](:Category:_Areas.md "wikilink"):** [Land of the Fire
+Newts](:Category:_Land_Of_The_Fire_Newts.md "wikilink")
+([Map](Land_Of_The_Fire_Newts_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [a fire newt
+leader](Fire_Newt_Leader.md "wikilink").  
+See [a fire newt leader](Fire_Newt_Leader.md "wikilink") for more
 information.  
 
 [Category: Gear In Land Of The Fire

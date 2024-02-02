@@ -1,19 +1,19 @@
 *The enormous shield-like scales of the draq lay here.*
 
-`It has 5 charges of `[`flash`](Flash "wikilink")`.`  
+`It has 5 charges of `[`flash`](Flash.md "wikilink")`.`  
 `Insignificantly increases resistance to fire continuous`  
 `Insignificantly increases resistance to caustic attacks continuous`  
 `Modifies save vs spell by -60 continuous`  
 `Modifies armor class by -45 continuous`
 
 **Keyword(s):** turquoise, scale, shield.  
-**[Level(s)](Object_Level "wikilink"):** 50-52.  
-**[Type](:Category:_Object_Types "wikilink"):**
-[Armor](:Category:_Armor "wikilink").  
-**[Slot(s)](Object_Slots "wikilink"):** <held in offhand>.  
-**[Quality](Object_Quality "wikilink"):** 200 hps.  
-**[Weight](Object_Weight "wikilink"):** 100 lbs.  
-**[Flag(s)](:Category:_Object_Flags "wikilink"):** none  
+**[Level(s)](Object_Level.md "wikilink"):** 50-52.  
+**[Type](:Category:_Object_Types.md "wikilink"):**
+[Armor](:Category:_Armor.md "wikilink").  
+**[Slot(s)](Object_Slots.md "wikilink"):** <held in offhand>.  
+**[Quality](Object_Quality.md "wikilink"):** 200 hps.  
+**[Weight](Object_Weight.md "wikilink"):** 100 lbs.  
+**[Flag(s)](:Category:_Object_Flags.md "wikilink"):** none  
 
 ## Comments
 
@@ -24,19 +24,19 @@ similar. This is one of the best shields for fighting UD.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Dragon's
-Atoll](:Category:_Dragon's_Atoll "wikilink")
-([Map](Dragon's_Atoll_Map "wikilink")).  
-**[Mob(s)](:Category:_Mobs "wikilink"):** [Turquoise
-Draq](Turquoise_Draq "wikilink").  
-See individual [mob](:Category:_Mobs "wikilink") pages linked above for
-more information.  
-Walking route from [Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-Walking route from [Amyt](Amyt_The_Overseer "wikilink"): ??.  
-[Portaling](Portal "wikilink") point suggested:
-[Amyt](Amyt_The_Overseer "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [Dragon's
+Atoll](:Category:_Dragon's_Atoll.md "wikilink")
+([Map](Dragon's_Atoll_Map.md "wikilink")).  
+**[Mob(s)](:Category:_Mobs.md "wikilink"):** [Turquoise
+Draq](Turquoise_Draq.md "wikilink").  
+See individual [mob](:Category:_Mobs.md "wikilink") pages linked above
+for more information.  
+Walking route from [Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+Walking route from [Amyt](Amyt_The_Overseer.md "wikilink"): ??.  
+[Portaling](Portal.md "wikilink") point suggested:
+[Amyt](Amyt_The_Overseer.md "wikilink").  
 There are two Turquoise Draqs but only one has a lootable shield (the
 other one is too heavy). It's very aggie and can be swarmy. After you
 give Amyt the green scale from the green draq (who is in a nospell room)

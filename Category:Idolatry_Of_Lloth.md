@@ -1,9 +1,9 @@
 *It is fairly well known that Lloth was a spider-goddess worshipped by
-many of the [drow](Drow "wikilink") and High Drow. Her influence can
+many of the [drow](Drow.md "wikilink") and High Drow. Her influence can
 still be seen today. What is not commonly known is that Lloth was no
 goddess, but rather a spider-demon of the underworld. When she was
 defeated, the vast majority of her followers and priests were
-transformed into Driders, hideous mixtures of [drow](Drow "wikilink")
+transformed into Driders, hideous mixtures of [drow](Drow.md "wikilink")
 and spider. Most of these driders remember little of their heritage, and
 are little better than beasts. Among the underdwellers, rumor says that
 Lloth was not destroyed, but lies in torpor, recovering from her
@@ -15,17 +15,17 @@ injuries and her defeat...*
 
 ## Directions
 
-Walking route from [Aelmon](Aelmon "wikilink"): 14n, 8w, n, e, 4d, s, d,
-w, 2d, e, d, e, d, w, d, 2s, d, 2e, s, u, 2s, 4e, d.
+Walking route from [Aelmon](Aelmon.md "wikilink"): 14n, 8w, n, e, 4d, s,
+d, w, 2d, e, d, e, d, w, d, 2s, d, 2e, s, u, 2s, 4e, d.
 
-[Portaling](Portal "wikilink") point(s) suggested: [drider
-hunter](Drider_Hunter "wikilink") (warning: there are a few, they
+[Portaling](Portal.md "wikilink") point(s) suggested: [drider
+hunter](Drider_Hunter.md "wikilink") (warning: there are a few, they
 wander, and they're aggressive).
 
 ## Connections
 
--   [Ruins Of Reveria](:Category:Ruins_Of_Reveria "wikilink")
-    ([map](Ruins_Of_Reveria_Map "wikilink"))
+-   [Ruins Of Reveria](:Category:Ruins_Of_Reveria.md "wikilink")
+    ([map](Ruins_Of_Reveria_Map.md "wikilink"))
 
 ## Navigation
 

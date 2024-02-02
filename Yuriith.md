@@ -8,19 +8,19 @@ digging through the loose stone and rock debris left from the
 cataclysmic devastation of the ancient city.*
 
 **Keywords:** yuriith, riithi, worker.  
-**[Level](Level "wikilink"):** 40.  
-**[Alignment](Alignment "wikilink"):** apathetic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[wimpy](Wimpy_Mobs "wikilink").  
-**Affects:** [infravision](Infravision "wikilink").  
+**[Level](Level.md "wikilink"):** 40.  
+**[Alignment](Alignment.md "wikilink"):** apathetic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[wimpy](Wimpy_Mobs.md "wikilink").  
+**Affects:** [infravision](Infravision.md "wikilink").  
 
 ## Gear
 
 `A yuriith is using:`  
-<worn on body>`      `[`a`` ``Riithi`` ``tunic`](Riithi_Tunic "wikilink")  
-<worn on legs>`      `[`riithi`` ``breeches`](Riithi_Breeches "wikilink")  
-<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``work`` ``boots`](Pair_Of_Riithi_Work_Boots "wikilink")  
-<wielded>`           `[`a`` ``Riithi`` ``workclaw`](Riithi_Workclaw "wikilink")
+<worn on body>`      `[`a`` ``Riithi`` ``tunic`](Riithi_Tunic.md "wikilink")  
+<worn on legs>`      `[`riithi`` ``breeches`](Riithi_Breeches.md "wikilink")  
+<worn on feet>`      `[`a`` ``pair`` ``of`` ``Riithi`` ``work`` ``boots`](Pair_Of_Riithi_Work_Boots.md "wikilink")  
+<wielded>`           `[`a`` ``Riithi`` ``workclaw`](Riithi_Workclaw.md "wikilink")
 
 `A yuriith is carrying:`  
 `     Nothing.`
@@ -29,10 +29,10 @@ cataclysmic devastation of the ancient city.*
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [The Drow
-Armory](:Category:_Drow_Armory "wikilink")
-([Map](Drow_Armory_Map "wikilink")).  
-A yuriith [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):** [The Drow
+Armory](:Category:_Drow_Armory.md "wikilink")
+([Map](Drow_Armory_Map.md "wikilink")).  
+A yuriith [wanders](Wandering_Mobs.md "wikilink").  
 A yuriith is portable.  
 
 [Category: Mobs In Drow

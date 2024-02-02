@@ -5,11 +5,11 @@ sorts of illicit wares.*
 
 **Keywords:** rogue, weaponsmith, vendor, skinny.  
 **On Scan:** A skinny rogue leisurely balances a rapier on his finger.  
-**[Level](Level "wikilink"):** ?.  
-**[Alignment](Alignment "wikilink"):** Demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):** Hide.  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink").  
+**[Level](Level.md "wikilink"):** ?.  
+**[Alignment](Alignment.md "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** Hide.  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink").  
 
 ## Gear
 
@@ -17,8 +17,8 @@ invis](Detect_Invis "wikilink").
 `   `<wielded>`        a silvery dagger`  
 `You peek at the inventory:`  
 `   [Lv Price] Item`  
-`   [ 0    20] A `[`dried`` ``snake`` ``head`](Dried_Snake_Head "wikilink")`.`  
-`   [ 0    20] A `[`bag`` ``of`` ``toxic`` ``insects`](Bag_of_Toxic_Insects "wikilink")`.`  
+`   [ 0    20] A `[`dried`` ``snake`` ``head`](Dried_Snake_Head.md "wikilink")`.`  
+`   [ 0    20] A `[`bag`` ``of`` ``toxic`` ``insects`](Bag_of_Toxic_Insects.md "wikilink")`.`  
 `   [12   264] A broad bladed knife.`  
 `   [13   120] A silvery dagger.`  
 `   [51  2640] A small wooden lockbox.`
@@ -32,9 +32,10 @@ You need to be speaking Thief Cant to interact with him. If you buy
 something from him he will offer to sell you additional items, of quite
 good quality, depending on your class. Often these items will have your
 name in them somehow when he sells them to you. Items include: weapon
-poisoning kit and a [set of lockpicks](Tools_Of_The_Trade "wikilink").
-He charges a gemstone for each item, the exact type of which may vary.
-In one instance for me as a bld this was the interaction:
+poisoning kit and a [set of
+lockpicks](Tools_Of_The_Trade.md "wikilink"). He charges a gemstone for
+each item, the exact type of which may vary. In one instance for me as a
+bld this was the interaction:
 
 > The rogue weaponsmith tells you 'Hey, that stuff is okay, but only the
 > average sucker goes for any of it.'
@@ -67,9 +68,9 @@ for bci it seems).
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Pariah's
-Paradise](:Category:_Pariah's_Paradise "wikilink")
-([Map](Pariah's_Paradise_Map "wikilink")).  
+**[Area](:Category:_Areas.md "wikilink"):** [Pariah's
+Paradise](:Category:_Pariah's_Paradise.md "wikilink")
+([Map](Pariah's_Paradise_Map.md "wikilink")).  
 
 [Category: Mobs In Pariah's
 Paradise](Category:_Mobs_In_Pariah's_Paradise "wikilink") [Category:

@@ -8,13 +8,13 @@ Bases: 25 - 27
 Slot: Held  
 Weight: 5  
 Flags: glow hum nolocate  
-Plane: [Water](:Category:Water "wikilink")  
-Area: [Reckoning](:Category:Reckoning "wikilink")  
+Plane: [Water](:Category:Water.md "wikilink")  
+Area: [Reckoning](:Category:Reckoning.md "wikilink")  
 Mob: [Ageless Decly](Ageless_Decly "wikilink")
 
 ------------------------------------------------------------------------
 
-See [Gear In Reckoning](:Category:Gear_In_Reckoning "wikilink") for
+See [Gear In Reckoning](:Category:Gear_In_Reckoning.md "wikilink") for
 directions on how to get this gear. Note that it is reboot only.
 
 [Category:Lord Tank Gear](Category:Lord_Tank_Gear "wikilink")

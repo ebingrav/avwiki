@@ -29,9 +29,9 @@ determined using Bioscan.</font>
 
 **Keywords:** ??, ??, ??.  
 **Scan Description:** ??.  
-**[Level](Level "wikilink"):** ??.  
-**[Alignment](Alignment "wikilink"):** ??.  
-**[Flags](:Category:_Mob_Types "wikilink"):** ??, ??, ??.  
+**[Level](Level.md "wikilink"):** ??.  
+**[Alignment](Alignment.md "wikilink"):** ??.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):** ??, ??, ??.  
 **Affects:** ??, ??, ??.  
 
 ## Gear
@@ -40,30 +40,30 @@ determined using Bioscan.</font>
 Note that one must use Peek to see objects in inventory.</font>
 
 `MobName is using:`  
-<used as light>`     `[`GearName`](GearName "wikilink")  
-<worn on finger>`    `[`GearName`](GearName "wikilink")  
-<worn on finger>`    `[`GearName`](GearName "wikilink")  
-<worn around neck>`  `[`GearName`](GearName "wikilink")  
-<worn around neck>`  `[`GearName`](GearName "wikilink")  
-<worn on body>`      `[`GearName`](GearName "wikilink")  
-<worn on head>`      `[`GearName`](GearName "wikilink")  
-<worn on legs>`      `[`GearName`](GearName "wikilink")  
-<worn on feet>`      `[`GearName`](GearName "wikilink")  
-<worn on hands>`     `[`GearName`](GearName "wikilink")  
-<worn on arms>`      `[`GearName`](GearName "wikilink")  
-<held in offhand>`   `[`GearName`](GearName "wikilink")  
-<worn about body>`   `[`GearName`](GearName "wikilink")  
-<worn about waist>`  `[`GearName`](GearName "wikilink")  
-<worn on wrist>`     `[`GearName`](GearName "wikilink")  
-<worn on wrist>`     `[`GearName`](GearName "wikilink")  
-<wielded>`           `[`GearName`](GearName "wikilink")  
-<held>`              `[`GearName`](GearName "wikilink")  
+<used as light>`     `[`GearName`](GearName.md "wikilink")  
+<worn on finger>`    `[`GearName`](GearName.md "wikilink")  
+<worn on finger>`    `[`GearName`](GearName.md "wikilink")  
+<worn around neck>`  `[`GearName`](GearName.md "wikilink")  
+<worn around neck>`  `[`GearName`](GearName.md "wikilink")  
+<worn on body>`      `[`GearName`](GearName.md "wikilink")  
+<worn on head>`      `[`GearName`](GearName.md "wikilink")  
+<worn on legs>`      `[`GearName`](GearName.md "wikilink")  
+<worn on feet>`      `[`GearName`](GearName.md "wikilink")  
+<worn on hands>`     `[`GearName`](GearName.md "wikilink")  
+<worn on arms>`      `[`GearName`](GearName.md "wikilink")  
+<held in offhand>`   `[`GearName`](GearName.md "wikilink")  
+<worn about body>`   `[`GearName`](GearName.md "wikilink")  
+<worn about waist>`  `[`GearName`](GearName.md "wikilink")  
+<worn on wrist>`     `[`GearName`](GearName.md "wikilink")  
+<worn on wrist>`     `[`GearName`](GearName.md "wikilink")  
+<wielded>`           `[`GearName`](GearName.md "wikilink")  
+<held>`              `[`GearName`](GearName.md "wikilink")  
 `Nothing.`
 
 `MobName is carrying:`  
-`     `[`GearName`](GearName "wikilink")  
-`     `[`GearName`](GearName "wikilink")  
-`     `[`GearName`](GearName "wikilink")  
+`     `[`GearName`](GearName.md "wikilink")  
+`     `[`GearName`](GearName.md "wikilink")  
+`     `[`GearName`](GearName.md "wikilink")  
 `     Nothing.`
 
 ## Comments
@@ -75,19 +75,19 @@ Comments about this mob go here.
 <font color=gray>Include as many of these lines as are true/useful and
 delete those that are not:</font>
 
-**[Area](:Category:_Areas "wikilink"):**
-[AreaName](:Category:_AreaName "wikilink")
-([Map](AreaName_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** RoomName
-([cursed](Cursed_Rooms "wikilink")?, portable?,
-[safe](Safe_Rooms "wikilink")?,
-[RoomFlag](:Category:_Room_Types "wikilink")?).  
-Walking route from [Nom](Nom "wikilink"): ??.  
-Walking route from [Sol](Sol "wikilink"): ??.  
-Walking route from [Aelmon](Aelmon "wikilink"): ??.  
-Walking route from [MobName](MobName "wikilink"): ??.  
-Walking route from [MobName](MobName "wikilink"): ??.  
-MobName [wanders](Wandering_Mobs "wikilink").  
+**[Area](:Category:_Areas.md "wikilink"):**
+[AreaName](:Category:_AreaName.md "wikilink")
+([Map](AreaName_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** RoomName
+([cursed](Cursed_Rooms.md "wikilink")?, portable?,
+[safe](Safe_Rooms.md "wikilink")?,
+[RoomFlag](:Category:_Room_Types.md "wikilink")?).  
+Walking route from [Nom](Nom.md "wikilink"): ??.  
+Walking route from [Sol](Sol.md "wikilink"): ??.  
+Walking route from [Aelmon](Aelmon.md "wikilink"): ??.  
+Walking route from [MobName](MobName.md "wikilink"): ??.  
+Walking route from [MobName](MobName.md "wikilink"): ??.  
+MobName [wanders](Wandering_Mobs.md "wikilink").  
 MobName is portable.  
 <font color=gray>Please categorize new mob pages under Mobs In AreaName.
 If this mob no longer exists, then also categorize its page under

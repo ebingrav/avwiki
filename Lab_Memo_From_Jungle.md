@@ -14,7 +14,7 @@ Flags: evil nolocate
 Weight 1  
 level 125  
 Mob: [A kzinti scientist](A_kzinti_scientist "wikilink")  
-Area: [Savage Jungle](:Category:Savage_Jungle "wikilink")
+Area: [Savage Jungle](:Category:Savage_Jungle.md "wikilink")
 
 ------------------------------------------------------------------------
 

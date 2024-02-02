@@ -1,19 +1,19 @@
 *Protection Evil reduces the damage taken from any attack from an evil
-[mob](:Category:_Mobs "wikilink") by 25%, and only works on the
-[caster](Cast "wikilink"). Protection Evil can be used in conjunction
-with [Sanctuary](Sanctuary "wikilink").*
+[mob](:Category:_Mobs.md "wikilink") by 25%, and only works on the
+[caster](Cast.md "wikilink"). Protection Evil can be used in conjunction
+with [Sanctuary](Sanctuary.md "wikilink").*
 
-Prerequisite(s): [Detect Alignment](Detect_Alignment "wikilink").
+Prerequisite(s): [Detect Alignment](Detect_Alignment.md "wikilink").
 
-Syntax: [cast](Cast "wikilink") 'protection evil'.
+Syntax: [cast](Cast.md "wikilink") 'protection evil'.
 
-This [spell](:Category:_Spells "wikilink") is included in both
-[Aegis](Aegis "wikilink") and [Awen](Awen "wikilink"). See also
-[Protection Good](Protection_Good "wikilink").
+This [spell](:Category:_Spells.md "wikilink") is included in both
+[Aegis](Aegis.md "wikilink") and [Awen](Awen.md "wikilink"). See also
+[Protection Good](Protection_Good.md "wikilink").
 
 See also [Gear That Applies Protection
-Evil](:Category:_Gear_That_Applies_Protection_Evil "wikilink") and
-[Protection Evil Gear](:Category:_Protection_Evil_Gear "wikilink").
+Evil](:Category:_Gear_That_Applies_Protection_Evil.md "wikilink") and
+[Protection Evil Gear](:Category:_Protection_Evil_Gear.md "wikilink").
 
 [Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
 [Category: Spells](Category:_Spells "wikilink") [Category: Divine

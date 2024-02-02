@@ -5,16 +5,17 @@ simple souls with a single blow. Battling such a monstrosity is going to
 take all the grit you can muster.
 
 **Keywords:** typhus, demon, lord.  
-**[Level](Level "wikilink"):** 102  
+**[Level](Level.md "wikilink"):** 102  
 **Scan Description:** Lord Typhus, in all his glory, is here, waiting.  
-**[Alignment](Alignment "wikilink"):** demonic.  
-**[Flags](:Category:_Mob_Types "wikilink"):**
-[steadfast](Sentinel_Mobs "wikilink"), [very
-agressive](Aggressive_Mobs "wikilink").  
-**Affects:** [detect hidden](Detect_Hidden "wikilink"), [detect
-invis](Detect_Invis "wikilink"), [infravision](Infravision "wikilink"),
-[sanctuary](Sanctuary "wikilink"), [protection
-good](Protection_Good "wikilink").  
+**[Alignment](Alignment.md "wikilink"):** demonic.  
+**[Flags](:Category:_Mob_Types.md "wikilink"):**
+[steadfast](Sentinel_Mobs.md "wikilink"), [very
+agressive](Aggressive_Mobs.md "wikilink").  
+**Affects:** [detect hidden](Detect_Hidden.md "wikilink"), [detect
+invis](Detect_Invis.md "wikilink"),
+[infravision](Infravision.md "wikilink"),
+[sanctuary](Sanctuary.md "wikilink"), [protection
+good](Protection_Good.md "wikilink").  
 
     Demon Lord Typhus is using:
     <worn on finger>    [Pristine  ] (Magical) demonic ringband of Typhus
@@ -24,15 +25,15 @@ good](Protection_Good "wikilink").
 ## Comments
 
 Appears in the room Portal from Hell (same room where [The Lord Typhus'
-shadow](Lord_Typhus'_Shadow "wikilink") pops) when the [Annulation
+shadow](Lord_Typhus'_Shadow.md "wikilink") pops) when the [Annulation
 Device](Annulation_Device "wikilink") is dropped in the center room of
-the upper part of [Rise of Typhus](:Category:Rise_Of_Typhus "wikilink")
-(Guardian Altar, has the ancient protector that is non-aggie and is
-sanc'd).
+the upper part of [Rise of
+Typhus](:Category:Rise_Of_Typhus.md "wikilink") (Guardian Altar, has the
+ancient protector that is non-aggie and is sanc'd).
 
 A [Demon Shard](Demon_Shard "wikilink") appears on the ground when he is
 killed, and his corpse can be skinned for the [horns of
-Typhus](Horns_Of_Typhus "wikilink").
+Typhus](Horns_Of_Typhus.md "wikilink").
 
 If there is already an instance of Demon Lord Typhus in the area when
 you drop the Device you will see the same message as usual, and the
@@ -50,10 +51,10 @@ Demon Lord Typhus was killed in another room.
 
 ## Directions
 
-**[Area](:Category:_Areas "wikilink"):** [Rise Of
-Typhus](:Category:_Rise_Of_Typhus "wikilink")
-([Map](Rise_Of_Typhus_Map "wikilink")).  
-**[Room](:Category:_Rooms "wikilink"):** Portal from Hell.  
+**[Area](:Category:_Areas.md "wikilink"):** [Rise Of
+Typhus](:Category:_Rise_Of_Typhus.md "wikilink")
+([Map](Rise_Of_Typhus_Map.md "wikilink")).  
+**[Room](:Category:_Rooms.md "wikilink"):** Portal from Hell.  
 Walking route from [Tysiln San](Tysiln_San "wikilink"): 2n, open w, 2w,
 d, 2w, s, w, 2u
 

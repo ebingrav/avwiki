@@ -1,0 +1,153 @@
+This is a compilation of the damage verbs that I have made through
+personal testing, taking damage and then checking how many hps I
+actually lost. A few of the values could be off by a small amount. There
+are also missing slots, but this will give anyone a general idea of how
+much damage they are hitting for. The higher damage values were compiled
+through an alternate method, and I do not take credit for. (\*MANGLING
+and above)  
+  
+Hope this helps you guys out. Feel free to fill in the blanks, fix any
+errors, or clean up formatting as you see fit. Thanks and enjoy.  
+-Seth /-Here's my list, Fools  
+
+    amount      verb
+          0     0  nil
+          1     2  pathetic
+          3     4  weak
+          7     8  punishing
+          9    10  surprising
+         11    14  amazing
+         15    18  astonishing
+         19    22  mauling
+         23    26  MAULING
+         27    30  *MAULING*
+         31    34  **MAULING**
+         35    38  ***MAULING***
+         39    42  decimating
+         43    46  DECIMATING
+         47    50  *DECIMATING*
+         51    55  **DECIMATING**
+         56    60  ***DECIMATING***
+         61    65  devastating
+         66    70  DEVASTATING
+         71    75  *DEVASTATING*
+         76    80  **DEVASTATING**
+         81    85  ***DEVASTATING***
+         86    90  pulverizing
+         91    95  PULVERIZING
+         96   100  *PULVERIZING*
+        101   110  **PULVERIZING**
+        111   120  ***PULVERIZING***
+        121   130  maiming
+        131   140  MAIMING
+        141   150  *MAIMING*
+        151   160  **MAIMING**
+        161   170  ***MAIMING***
+        171   180  eviscerating
+        181   190  EVISCERATING
+        191   200  *EVISCERATING*
+        201   225  **EVISCERATING**
+        226   250  ***EVISCERATING***
+        251   275  mutilating
+        276   300  MUTILATING
+        301   325  *MUTILATING*
+        326   350  **MUTILATING**
+        351   375  ***MUTILATING***
+        376   400  disemboweling
+        401   425  DISEMBOWELING
+        426   450  *DISEMBOWELING*
+        451   475  **DISEMBOWELING**
+        476   500  ***DISEMBOWELING***
+        501   540  dismembering
+        550   574  DISMEMBERING
+        606   606  *DISMEMBERING*
+        675   675  **DISMEMBERING**
+        730   730  ***DISMEMBERING***
+        769   769  massacring
+        810   810  MASSACRING
+        850   884  *MASSACRING*
+        900   915  **MASSACRING**
+        916  1000  ***MASSACRING***
+       1001  1100  mangling
+       1101  1200  MANGLING
+       1201  1300  *MANGLING*
+       1301  1400  **MANGLING**
+       1401  1500  ***MANGLING***
+       1501  1600  demolishing
+       1601  1700  DEMOLISHING
+       1701  1800  *DEMOLISHING*
+       1801  1900  **DEMOLISHING**
+       1901  2000  ***DEMOLISHING***
+       2001  2200  obliterating
+       2201  2400  OBLITERATING
+       2401  2600  *OBLITERATING*
+       2601  2800  **OBLITERATING**
+       2801  3000  ***OBLITERATING***
+       3001  3200  annihilating
+       3201  3400  ANNIHILATING
+       3401  3600  *ANNIHILATING*
+       3601  3800  **ANNIHILATING**
+       3801  4100  ***ANNIHILATING***
+       4101  4500  >***ANNIHILATING***<
+       4501  5007  >>***ANNIHILATING***<<
+       5508  5901  >>>***ANNIHILATING***<<<
+       5902  5902  >>>>***ANNIHILATING***<<<<
+       6200  6200  eradicating
+       6500  6500  ERADICATING
+       7000  7000  *ERADICATING*
+       7500  7500  **ERADICATING**
+       7800  7800  ***ERADICATING***
+       8200  8200  >***ERADICATING***<
+       8500  8500  >>***ERADICATING***<<
+       9000  9000  >>>***ERADICATING***<<<
+       9500  9500  >>>>***ERADICATING***<<<<
+      10000 10000 vaporizing
+      11000 11000 VAPORIZING
+      12000 12000 *VAPORIZING*
+      13000 13000 **VAPORIZING**
+      14000 14000 ***VAPORIZING***
+      15000 15000 >***VAPORIZING***<
+      16500 16500 >>***VAPORIZING***<<
+      18000 18000 >>>***VAPORIZING***<<<
+      19000 19000 >>>>***VAPORIZING***<<<<
+      20000 20000 destructive
+      21000 21000 DESTRUCTIVE
+      22000 22000 *DESTRUCTIVE*
+      23000 23000 **DESTRUCTIVE**
+      24000 24000 ***DESTRUCTIVE***
+      25000 25000 ****DESTRUCTIVE****
+      26000 26000 >****DESTRUCTIVE****<
+      27000 27000 >>****DESTRUCTIVE****<<
+      28000 28000 >>>****DESTRUCTIVE****<<<
+      29000 29000 >>>>****DESTRUCTIVE****<<<<
+      30000 30000 =>>>>***DESTRUCTIVE***<<<<=
+      31000 31000 ==>>>>**DESTRUCTIVE**<<<<==
+      32000 32000 ===>>>>*DESTRUCTIVE*<<<<===
+      33000 33000 ====>>>>DESTRUCTIVE<<<<====
+      34000 34000 extreme
+      35000 35000 EXTREME
+      36000 36000 *EXTREME*
+      37000 37000 **EXTREME**
+      38000 38000 ***EXTREME***
+      39000 39000 ****EXTREME****
+      40000 40000 >****EXTREME****<
+      41000 41000 >>****EXTREME****<<
+      42000 42000 >>>****EXTREME****<<<
+      43000 43000 >>>>****EXTREME****<<<<
+      44500 44500 =>>>>***EXTREME***<<<<=
+      47000 47000 ==>>>>**EXTREME**<<<<==
+      48000 48000 ===>>>>*EXTREME*<<<<===
+      50000 50000 ====>>>>EXTREME<<<<====
+      51000 51000 porcine
+      53000 53000 PORCINE
+      55000 55000 *PORCINE*
+      57000 57000 **PORCINE**
+      59000 59000 ***PORCINE***
+      61000 61000 >***PORCINE***<
+      65000 65000 >>***PORCINE***<<
+      70000 70000 >>>***PORCINE***<<<
+      75000 75000 >>>>***PORCINE***<<<<
+      80000 80000 divine
+    100000 100000 daunting
+
+[Category: Spoilers](Category:_Spoilers "wikilink")

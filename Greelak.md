@@ -1,0 +1,37 @@
+*Wearing a pitch-black robe and pouring fuel into pots of already
+smoking materials, this lizard man hardly notices your presence. You
+hear him hissing about his life as a priest and how fed up he is with
+praying to gods who do not care. Suddenly he smashes a clay jar on the
+ground and stomps on it until it is just dust. Perhaps you should leave
+him alone.*
+
+**Keywords:** Greelak.  
+**[Level](Level "wikilink"):** 65.  
+**[Alignment](Alignment "wikilink"):** Demonic.  
+**[Flags](:Category:_Mob_Types "wikilink"):**
+[steadfast](Sentinel_Mobs "wikilink"),
+[stomper](:Category:Stomping_Mobs "wikilink").  
+**Affects:**
+
+## Gear
+
+` Greelak is using:`  
+<worn about body>`   [Pristine  ] `[`pitch-black`` ``robe`](Pitch-Black_Robe "wikilink")
+
+`You peek at the inventory:`  
+`    Nothing.`
+
+## Directions
+
+**[Area](:Category:_Areas "wikilink"):** [:Category: Lizard
+Island](:Category:_Lizard_Island "wikilink")
+([Map](Lizard_Island_Map "wikilink")).  
+**[Room](:Category:_Rooms "wikilink"):** A Hut with no Walls.  
+Walking route from [Island Guard](Island_Guard "wikilink"): 9e s e s e
+4s w s.
+
+Be watchful of Mutant Lizards they're aggie and Greelak stomps.
+
+[Category: Mobs In Lizard
+Island](Category:_Mobs_In_Lizard_Island "wikilink") [Category:Stomping
+Mobs](Category:Stomping_Mobs "wikilink")

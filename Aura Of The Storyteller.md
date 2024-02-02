@@ -1,0 +1,36 @@
+*The aura is the same as those worn, unknowingly, by minstrels and poets
+the Realm over. It imbues one with the power to enrapture any audience
+with tales of myth and daring.*
+
+[`Armor`` ``class`](Armor_Class "wikilink")` is 10-12.`  
+`Modifies hp by 11 continuous`  
+`Modifies mana by 70 continuous`  
+`Modifies wisdom by 1 continuous`
+
+**Keyword(s):** storyteller, aura.  
+**[Type](:Category:_Object_Types "wikilink"):**
+[armor](:Category:_Armor "wikilink")  
+**[Flag(s)](:Category:_Object_Flags "wikilink"):**
+[magic](Magic_Flag "wikilink"), [good](Good_Flag "wikilink")  
+**[Slot(s)](Slot "wikilink"):** <worn about body>  
+**[Weight](Object_Weight "wikilink"):** 0 lbs  
+**[Level(s)](Object_Level "wikilink"):** 51  
+**[Quality](Object_Quality "wikilink"):** 200 hps  
+
+## Comments
+
+A satisfying conclusion to the [Collector Of Legends
+Quest](Collector_Of_Legends_Quest "wikilink"). Rather lightweight.
+
+## Directions
+
+**[Area](:Category:_Areas "wikilink"):** [
+Rim](:Category:_Rim "wikilink") ([Map](Rim_Map "wikilink"))  
+**[Mob(s)](:Category:_Mobs "wikilink"):**  
+
+[Category: Gear In Rim](Category:_Gear_In_Rim "wikilink") [Category:
+Armor](Category:_Armor "wikilink") [Category: Hero Mana
+Gear](Category:_Hero_Mana_Gear "wikilink") [Category: About Body Mana
+Gear](Category:_About_Body_Mana_Gear "wikilink") [Category: Wis
+Gear](Category:_Wis_Gear "wikilink") [Category:Hero Quest
+Gear](Category:Hero_Quest_Gear "wikilink")

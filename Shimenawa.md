@@ -1,0 +1,5 @@
+[Category: Hit-Point Gear](Category:_Hit-Point_Gear "wikilink")
+[Category: Saving-Throw Gear](Category:_Saving-Throw_Gear "wikilink")
+[Category: Hero Mana Gear](Category:_Hero_Mana_Gear "wikilink")
+[Category: Waist Mana Gear](Category:_Waist_Mana_Gear "wikilink")
+[Category: Racial Gear](Category:_Racial_Gear "wikilink")

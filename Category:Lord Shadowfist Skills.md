@@ -1,0 +1,18 @@
+` 1:    `[`tiger`` ``technique`](tiger_technique "wikilink")` `[`centipede`` ``technique`](centipede_technique "wikilink")`        `[`planeshift`](planeshift "wikilink")`         `[`maelstrom`](maelstrom "wikilink")  
+`      `[`fast`` ``healing`` ``iii`](fast_healing_iii "wikilink")`      `[`meditation`` ``iii`](meditation_iii "wikilink")`         `[`homeshift`](homeshift "wikilink")`         `[`cataclysm`](cataclysm "wikilink")  
+`        `[`shatter`` ``strike`](shatter_strike "wikilink")`            `[`ablution`](ablution "wikilink")`    `[`improved`` ``invis`](improved_invis "wikilink")`          `[`threnody`](threnody "wikilink")  
+`          `[`consummation`](consummation "wikilink")`    `[`heightened`` ``vigor`](heightened_vigor "wikilink")`           `[`renewal`](renewal "wikilink")`         `[`keyfinder`](keyfinder "wikilink")  
+`     `[`globe`` ``of`` ``darkness`](globe_of_darkness "wikilink")`        `[`mentor`` ``other`](mentor_other "wikilink")`        `[`lead`` ``posse`](lead_posse "wikilink")`    `[`countershatter`](countershatter "wikilink")  
+`                  `[`send`](send "wikilink")`              `[`troika`](troika "wikilink")`       `[`chakra`` ``scan`](Chakra_Scan "wikilink")`     `[`chakra`` ``strike`](Chakra_Strike "wikilink")  
+`        `[`crushing`` ``punch`](crushing_punch "wikilink")`      `[`unicorn`` ``thrust`](unicorn_thrust "wikilink")`      `[`shadow`` ``blast`](shadow_blast "wikilink")  
+`50:         `[`vile`` ``touch`](vile_touch "wikilink")  
+`100:       `[`chakra`` ``drain`](Chakra_Drain "wikilink")  
+`200:       `[`burning`` ``fury`](burning_fury "wikilink")  
+`225:       `[`countercrush`](countercrush "wikilink")  
+`250:        `[`shadow`` ``wave`](shadow_wave "wikilink")  
+`325:       `[`full`` ``counter`](full_counter "wikilink")  
+`800:     `[`shadow`` ``tsunami`](shadow_tsunami "wikilink")
+
+[Category: Lord Shadowfist Skills and
+Spells](Category:_Lord_Shadowfist_Skills_and_Spells "wikilink")
+[Category: Skills](Category:_Skills "wikilink")

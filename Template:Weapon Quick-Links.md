@@ -1,0 +1,10 @@
+|                                                          |                                                              |                                                                |                                                                |                                                                |                                                                |                                                      |                                                           |
+|----------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------|
+| [Melee Weapons](:Category:Melee_Weapons "wikilink"):     | [1-10](:Category:Lowmort_1-10_Melee_Weapons "wikilink")      | [11-20](:Category:Lowmort_11-20_Melee_Weapons "wikilink")      | [21-30](:Category:Lowmort_21-30_Melee_Weapons "wikilink")      | [31-40](:Category:Lowmort_31-40_Melee_Weapons "wikilink")      | [41-50](:Category:Lowmort_41-50_Melee_Weapons "wikilink")      | [Hero](:Category:Hero_Melee_Weapons "wikilink")      | [Poisoned Weapons](:Category:Poisoned_Weapons "wikilink") |
+| [Missile Weapons](:Category:Missile_Weapons "wikilink"): | \| [1-10](:Category:Lowmort_1-10_Missile_Weapons "wikilink") | \| [11-20](:Category:Lowmort_11-20_Missile_Weapons "wikilink") | \| [21-30](:Category:Lowmort_21-30_Missile_Weapons "wikilink") | \| [31-40](:Category:Lowmort_31-40_Missile_Weapons "wikilink") | \| [41-50](:Category:Lowmort_41-50_Missile_Weapons "wikilink") | \| [Hero](:Category:Hero_Missile_Weapons "wikilink") | [Throwing Weapons](:Category:Throwing_Weapons "wikilink") |
+
+**[Weapon](:Category:Weapons "wikilink") Quick-Links Table**
+
+<noinclude></noinclude>
+
+[Category:Templates](Category:Templates "wikilink")

@@ -1,0 +1,56 @@
+## Vizier Hero Skills & Spells Chart
+
+Spells and skills learnable by the Vizier class at Hero level.
+
+`  1:               `[`kick`](Kick "wikilink")`         `[`pick`` ``lock`](Pick_Lock "wikilink")`            `[`rescue`](Rescue "wikilink")`             `[`sneak`](Sneak "wikilink")  
+`                  `[`steal`](Steal "wikilink")`    `[`share`` ``strength`](Share_Strength "wikilink")`        `[`body`` ``brace`](Body_Brace "wikilink")`           `[`appoint`](Appoint "wikilink")  
+`  5:              `[`dodge`](Dodge "wikilink")`   `[`heighten`` ``senses`](Heighten_Senses "wikilink")`       `[`shadow`` ``form`](Shadow_Form "wikilink")  
+`  7:          `[`endurance`](Endurance "wikilink")`     `[`magic`` ``missile`](Magic_Missile "wikilink")`             `[`fence`](Fence "wikilink")  
+`  9:         `[`anticipate`](Anticipate "wikilink")`        `[`armor`` ``lore`](Armor_Lore "wikilink")`       `[`weapon`` ``lore`](Weapon_Lore "wikilink")`      `[`sneak`` ``attack`](Sneak "wikilink")  
+` 11:        `[`chill`` ``touch`](Chill_Touch "wikilink")`              `[`hide`](Hide "wikilink")`     `[`psychic`` ``drain`](Psychic_Drain "wikilink")  
+` 13:     `[`giant`` ``strength`](Giant_Strength "wikilink")`            `[`weaken`](Weaken "wikilink")`   `[`chameleon`` ``power`](Chameleon_Power "wikilink")`       `[`biofeedback`](Biofeedback "wikilink")  
+`            `[`nightvision`](Nightvision "wikilink")  
+` 15:        `[`concentrate`](Concentrate "wikilink")`              `[`peek`](Peek "wikilink")  
+` 17:         `[`levitation`](Levitation "wikilink")  
+` 19:               `[`trip`](Trip "wikilink")`   `[`adrenaline`` ``pump`](Adrenaline_Pump "wikilink")`              `[`dart`](Dart "wikilink")  
+` 21:        `[`move`` ``hidden`](Move_Hidden "wikilink")`              `[`scry`](Scry "wikilink")` `[`enhanced`` ``strength`](Enhanced_Strength "wikilink")  
+` 23:     `[`shocking`` ``grasp`](Shocking_Grasp "wikilink")`    `[`mental`` ``barrier`](Mental_Barrier "wikilink")  
+` 25:       `[`energy`` ``drain`](Energy_Drain "wikilink")`            `[`shield`](Shield "wikilink")`      `[`displacement`](Displacement "wikilink")  
+` 27:      `[`burning`` ``hands`](Burning_Hands "wikilink")`      `[`charm`` ``person`](Charm_Person "wikilink")`             `[`sleep`](Sleep "wikilink")`          `[`psisting`](Psisting "wikilink")  
+`        `[`cell`` ``adjustment`](Cell_Adjustment "wikilink")  
+` 29:       `[`regeneration`](Regeneration "wikilink")`      `[`dark`` ``embrace`](Dark_Embrace "wikilink")  
+` 31:      `[`energy`` ``shield`](Energy_Shield "wikilink")  
+` 33:         `[`stone`` ``skin`](Stone_Skin "wikilink")`         `[`deception`](Deception "wikilink")  
+` 35:           `[`fireball`](Fireball "wikilink")`        `[`aura`` ``sight`](Aura_Sight "wikilink")`        `[`blast`` ``bolt`](Blast_Bolt "wikilink")  
+` 37:                `[`web`](Web "wikilink")`       `[`danger`` ``scan`](Danger_Scan "wikilink")  
+` 39:           `[`medicine`](Medicine "wikilink")`          `[`teleport`](Teleport "wikilink")`          `[`ego`` ``whip`](Ego_Whip "wikilink")  
+` 43:           `[`mindlash`](Mindlash "wikilink")  
+` 45:               `[`toss`](Toss "wikilink")  
+` 47:     `[`lightning`` ``bolt`](Lightning_Bolt "wikilink")  
+` 51:           `[`detonate`](Detonate "wikilink")`              `[`mask`](Mask "wikilink")  
+` 53:         `[`domination`](Domination "wikilink")  
+` 57:                `[`awe`](Awe "wikilink")  
+` 59:         `[`acid`` ``blast`](Acid_Blast "wikilink")`         `[`iron`` ``monk`](Iron_Monk "wikilink")`        `[`brainstorm`](Brainstorm "wikilink")  
+` 63:    `[`chain`` ``lightning`](Chain_Lightning "wikilink")` `[`enhanced`` ``vitality`](Enhanced_Vitality "wikilink")`        `[`aura`` ``focus`](Aura_Focus "wikilink")  
+` 67:      `[`calcify`` ``flesh`](Calcify_Flesh "wikilink")`             `[`torch`](Torch "wikilink")  
+` 69:         `[`fortitudes`](Fortitudes "wikilink")`         `[`lead`` ``pack`](Lead_Pack "wikilink")  
+` 71:          `[`icestrike`](Icestrike "wikilink")  
+` 73:   `[`ectoplasmic`` ``form`](Ectoplasmic_Form "wikilink")  
+` 75:            `[`cyclone`](Cyclone "wikilink")`     `[`psionic`` ``blast`](Psionic_Blast "wikilink")  
+` 79:          `[`sandstorm`](Sandstorm "wikilink")`              `[`foci`](Foci "wikilink")  
+` 83:        `[`magma`` ``blast`](Magma_Blast "wikilink")`       `[`weapon`` ``rush`](Weapon_Rush "wikilink")  
+` 87:          `[`firestorm`](Firestorm "wikilink")  
+` 89:          `[`ice`` ``lance`](Ice_Lance "wikilink")`         `[`iron`` ``skin`](Iron_Skin "wikilink")  
+` 91:          `[`desiccate`](Desiccate "wikilink")`        `[`ultrablast`](Ultrablast "wikilink")  
+` 99:         `[`lead`` ``posse`](Lead_Posse "wikilink")  
+`100:        `[`final`` ``rites`](Final_Rites "wikilink")`*      `[`sanguen`` ``pax`](Sanguen_Pax "wikilink")`*`  
+`101:        `[`create`` ``food`](Create_Food "wikilink")`     `[`create`` ``spring`](Create_Spring "wikilink")`      `[`create`` ``water`](Create_Water "wikilink")`     `[`mass`` ``divinity`](Mass_Divinity "wikilink")  
+`                `[`nourish`](Nourish "wikilink")`   `[`fast`` ``healing`` ``ii`](Fast_Healing_II "wikilink")`     `[`meditation`` ``ii`](Meditation_II "wikilink")`        `[`consecrate`](Consecrate "wikilink")  
+`       `[`improved`` ``stamina`](Improved_Stamina "wikilink")`    `[`magic`` ``recovery`](Magic_Recovery "wikilink")`      `[`saving`` ``grace`](Saving_Grace "wikilink")`       `[`tutor`` ``other`](Tutor_Other "wikilink")  
+`             `[`lead`` ``flock`](Lead_Flock "wikilink")`      `[`funeral`` ``lore`](Funeral_Lore "wikilink")`            `[`acumen`](Acumen "wikilink")  
+`500:             `[`eulogy`](Eulogy "wikilink")`        `[`blood`` ``nova`](Blood_Nova "wikilink")`*`  
+  
+`   * `[`Hero`](:Category:_Hero "wikilink")` skills & spells that `[`Viziers`](:Category:_Viziers "wikilink")` may learn but `[`Clerics`](:Category:_Clerics "wikilink")` may not.`
+
+[Category: Vizier Skills And
+Spells](Category:_Vizier_Skills_And_Spells "wikilink")

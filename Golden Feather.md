@@ -1,0 +1,32 @@
+*A golden feather sits lightly on the ground.*
+
+`Modifies `[`constitution`](Constitution "wikilink")` by 1 continuous.`  
+`Modifies `[`wisdom`](Wisdom "wikilink")` by 1 continuous.`
+
+**Keyword(s):** golden feather newbie  
+**[Level(s)](Object_Level "wikilink"):** 2  
+**[Type](:Category:_Object_Types "wikilink"):**
+[treasure](:Category:_Treasure "wikilink")  
+**[Slot(s)](Object_Slots "wikilink"):** <held>  
+**[Quality](Object_Quality "wikilink"):** 10 hps  
+**[Weight](Object_Weight "wikilink"):** 1 lbs  
+**[Flag(s)](:Category:_Object_Flags "wikilink"):**
+[magic](Magic_Flag "wikilink"), etc  
+**[Area](:Category:_Areas "wikilink"):**
+[Meadow](:Category:_Meadow "wikilink") ([Map](Meadow_Map "wikilink")).  
+**[Mob(s)](:Category:_Mobs "wikilink"):** [Golden
+Hawk](Golden_Hawk "wikilink").  
+
+## Comments
+
+## Directions
+
+The Golden Hawk wanders around the meadow. To get a clue as to where he
+currently is, type "where hawk" while standing somewhere inside the
+meadow.  
+
+[Category: Gear In Meadow](Category:_Gear_In_Meadow "wikilink")
+[Category: Treasure](Category:_Treasure "wikilink") [Category: Lowmort
+1-10 Gear](Category:_Lowmort_1-10_Gear "wikilink") [Category: Con
+Gear](Category:_Con_Gear "wikilink") [Category: Wis
+Gear](Category:_Wis_Gear "wikilink")

@@ -1,0 +1,1 @@
+[Category:Spellcasting Gear](Category:Spellcasting_Gear "wikilink")

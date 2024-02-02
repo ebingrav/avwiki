@@ -1,0 +1,70 @@
+*This [spell](:Category:_Spells "wikilink") decreases your
+[AC](Armor_Class "wikilink") by forming a magical [barrier of
+protection](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink").
+It gives a bonus of -20 [AC](Armor_Class "wikilink").*
+
+Prerequisite(s): none.
+
+Syntax: [cast](Cast "wikilink") 'armor'
+\<[character](:Category:_Characters "wikilink")\>.
+
+This [spell](:Category:_Spells "wikilink") is first of four
+[armor-class-boosting
+spells](:Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
+that both [clerics](:Category:_Clerics "wikilink") and
+[priests](:Category:_Priests "wikilink") may
+[learn](Practice "wikilink") between [level](Level "wikilink") 1 and
+[level](Level "wikilink") 50. [Lowmort](:Category:_Lowmort "wikilink")
+[paladins](:Category:_Paladins "wikilink") and
+[mages](:Category:_Mages "wikilink") may also
+[learn](Practice "wikilink") this [spell](:Category:_Spells "wikilink").
+[Characters](:Category:_Characters "wikilink") of many other
+[classes](:Category:_Classes "wikilink") may
+[learn](Practice "wikilink") it at [hero](:Category:_Hero "wikilink")
+[tier](:Category:_Tiers "wikilink"). It is included in both
+[Aegis](Aegis "wikilink") and [Awen](Awen "wikilink"). Its
+[AC](Armor_Class "wikilink") bonus may be modified by its
+[caster](Cast "wikilink")'s choice of [worship](Worship "wikilink").
+
+See also [Armor Gear](:Category:_Armor_Gear "wikilink").
+
+[Category: Skills And Spells](Category:_Skills_And_Spells "wikilink")
+[Category: Spells](Category:_Spells "wikilink") [Category: Divine
+Spells](Category:_Divine_Spells "wikilink") [Category: Archer Hero
+Skills And Spells](Category:_Archer_Hero_Skills_And_Spells "wikilink")
+[Category: Assassin Hero Skills And
+Spells](Category:_Assassin_Hero_Skills_And_Spells "wikilink") [Category:
+Black Circle Initiate Hero Skills And
+Spells](Category:_Black_Circle_Initiate_Hero_Skills_And_Spells "wikilink")
+[Category: Bladedancer Hero Skills And
+Spells](Category:_Bladedancer_Hero_Skills_And_Spells "wikilink")
+[Category: Bodyguard Hero Skills And
+Spells](Category:_Bodyguard_Hero_Skills_And_Spells "wikilink")
+[Category: Cleric Lowmort Skills And
+Spells](Category:_Cleric_Lowmort_Skills_And_Spells "wikilink")
+[Category: Druid Lowmort Skills And
+Spells](Category:_Druid_Lowmort_Skills_And_Spells "wikilink") [Category:
+Fusilier Hero Skills And
+Spells](Category:_Fusilier_Hero_Skills_And_Spells "wikilink") [Category:
+Mage Lowmort Skills And
+Spells](Category:_Mage_Lowmort_Skills_And_Spells "wikilink") [Category:
+Mindbender Hero Skills And
+Spells](Category:_Mindbender_Hero_Skills_And_Spells "wikilink")
+[Category: Monk Hero Skills And
+Spells](Category:_Monk_Hero_Skills_And_Spells "wikilink") [Category:
+Paladin Lowmort Skills And
+Spells](Category:_Paladin_Lowmort_Skills_And_Spells "wikilink")
+[Category: Priest Lowmort Skills And
+Spells](Category:_Priest_Lowmort_Skills_And_Spells "wikilink")
+[Category: Psionicist Hero Skills And
+Spells](Category:_Psionicist_Hero_Skills_And_Spells "wikilink")
+[Category: Rogue Hero Skills And
+Spells](Category:_Rogue_Hero_Skills_And_Spells "wikilink") [Category:
+Stormlord Lowmort Skills And
+Spells](Category:_Stormlord_Lowmort_Skills_And_Spells "wikilink")
+[Category: Warrior Hero Skills And
+Spells](Category:_Warrior_Hero_Skills_And_Spells "wikilink") [Category:
+Wizard Lowmort Skills And
+Spells](Category:_Wizard_Lowmort_Skills_And_Spells "wikilink")
+[Category: Skills And Spells That Buff
+Characters](Category:_Skills_And_Spells_That_Buff_Characters "wikilink")
